@@ -1,0 +1,49 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-10-03T00:00:00Z",
+  "metadata": {
+    "totalOpportunities": 0,
+    "statusBreakdown": {
+      "approved": 0,
+      "pending": 0,
+      "rejected": 0
+    }
+  },
+  "opportunities": [
+    {
+      "id": "opp_001",
+      "keyword": "colesterol depois dos 40",
+      "status": "pending",
+      "intent": "informational",
+      "cluster": "cluster_001",
+      "primaryKeyword": "colesterol depois dos 40",
+      "secondaryKeywords": [],
+      "cannicalizationCheck": {
+        "status": "needs_serp_confirmation",
+        "relatedArticles": []
+      },
+      "demandValidation": {
+        "source": "google_keyword_planner",
+        "validated": false,
+        "volume": null,
+        "competition": null
+      },
+      "contentOpportunity": {
+        "identified_gap": null,
+        "requires_serp_research": true
+      },
+      "seo_potential": {
+        "keyword_main": true,
+        "semantic_coverage": true,
+        "differentiation": null,
+        "score": null
+      },
+      "confidence": null,
+      "decisionReason": "Aguardando validação do Keyword Planner",
+      "nextStep": "keyword_planner_validation",
+      "createdAt": "2026-10-03T00:00:00Z",
+      "lastUpdated": "2026-10-03T00:00:00Z",
+      "notes": ""
+    }
+  ]
+}

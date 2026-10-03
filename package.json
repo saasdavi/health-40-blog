@@ -1,0 +1,21 @@
+{
+  "name": "health-40-blog",
+  "version": "1.0.0",
+  "description": "Autonomous demand discovery + content production system for Health 40+ niche",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "discovery": "node scripts/discovery.js",
+    "validation": "node scripts/validation.js",
+    "production": "node scripts/production.js"
+  },
+  "dependencies": {
+    "astro": "^4.5.0",
+    "google-ads-api": "^15.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}

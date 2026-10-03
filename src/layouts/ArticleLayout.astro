@@ -1,0 +1,177 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  primaryKeyword: string;
+  readingTime?: number;
+  publishedAt?: string;
+}
+
+const { title, description, primaryKeyword, readingTime = 5, publishedAt } = Astro.props;
+---
+
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{title} | Saúde após os 40</title>
+    <meta name="description" content={description} />
+    <meta name="keywords" content={primaryKeyword} />
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: Georgia, serif;
+        line-height: 1.8;
+        color: #333;
+        background: #fafafa;
+      }
+
+      article {
+        max-width: 800px;
+        margin: 0 auto;
+        background: white;
+        padding: 3rem 2rem;
+      }
+
+      header {
+        margin-bottom: 3rem;
+        padding-bottom: 2rem;
+        border-bottom: 2px solid #eee;
+      }
+
+      h1 {
+        font-size: 2.5rem;
+        line-height: 1.3;
+        margin-bottom: 1rem;
+        color: #1a1a1a;
+      }
+
+      .meta {
+        display: flex;
+        gap: 1rem;
+        font-size: 0.95rem;
+        color: #666;
+        align-items: center;
+      }
+
+      .meta span {
+        display: inline-block;
+      }
+
+      .separator {
+        color: #ddd;
+      }
+
+      h2 {
+        font-size: 1.8rem;
+        margin: 2rem 0 1rem;
+        color: #1a1a1a;
+      }
+
+      h3 {
+        font-size: 1.3rem;
+        margin: 1.5rem 0 0.8rem;
+        color: #333;
+      }
+
+      p {
+        margin-bottom: 1rem;
+      }
+
+      ul, ol {
+        margin: 1rem 0 1rem 2rem;
+      }
+
+      li {
+        margin-bottom: 0.5rem;
+      }
+
+      a {
+        color: #667eea;
+        text-decoration: none;
+        border-bottom: 1px solid #667eea;
+      }
+
+      a:hover {
+        color: #764ba2;
+        border-bottom-color: #764ba2;
+      }
+
+      blockquote {
+        border-left: 4px solid #667eea;
+        padding-left: 1.5rem;
+        margin: 1.5rem 0;
+        font-style: italic;
+        color: #666;
+      }
+
+      code {
+        background: #f5f5f5;
+        padding: 0.2rem 0.5rem;
+        border-radius: 3px;
+        font-family: 'Courier New', monospace;
+      }
+
+      .health-note {
+        background: #fff3cd;
+        border-left: 4px solid #ffc107;
+        padding: 1rem;
+        margin: 1.5rem 0;
+        border-radius: 4px;
+      }
+
+      .health-note strong {
+        color: #856404;
+      }
+
+      footer {
+        margin-top: 3rem;
+        padding-top: 2rem;
+        border-top: 2px solid #eee;
+        font-size: 0.9rem;
+        color: #666;
+      }
+
+      @media (max-width: 600px) {
+        article {
+          padding: 1.5rem 1rem;
+        }
+
+        h1 {
+          font-size: 1.8rem;
+        }
+
+        h2 {
+          font-size: 1.4rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <article>
+      <header>
+        <h1>{title}</h1>
+        <div class="meta">
+          <span>📅 {publishedAt || 'Em breve'}</span>
+          <span class="separator">•</span>
+          <span>⏱️ {readingTime} min de leitura</span>
+        </div>
+        <p style="margin-top: 1rem; font-style: italic; color: #666;">{description}</p>
+      </header>
+
+      <slot />
+
+      <footer>
+        <p>
+          <strong>Aviso de Saúde:</strong> Este artigo é informativo e não substitui orientação médica profissional.
+          Sempre consulte um profissional de saúde antes de fazer mudanças significativas em sua rotina.
+        </p>
+      </footer>
+    </article>
+  </body>
+</html>

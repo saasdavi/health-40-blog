@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-10-03T00:00:00Z",
+  "metadata": {
+    "totalClusters": 0
+  },
+  "clusters": [
+    {
+      "id": "cluster_001",
+      "theme": "colesterol",
+      "primaryKeyword": null,
+      "secondaryKeywords": [],
+      "longTails": [],
+      "questions": [],
+      "intent": null,
+      "status": "pending",
+      "totalDemand": null,
+      "cannibalRisk": "none",
+      "createdAt": "2026-10-03T00:00:00Z",
+      "lastUpdated": "2026-10-03T00:00:00Z",
+      "notes": ""
+    }
+  ]
+}

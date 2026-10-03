@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-10-03T00:00:00Z",
+  "niche": "Saúde após os 40",
+  "seeds": [
+    {
+      "id": "seed_001",
+      "type": "niche",
+      "value": "saúde após os 40",
+      "variants": [
+        "saúde 40+",
+        "saúde depois dos 40"
+      ],
+      "status": "active",
+      "discoveredAt": "2026-10-03T00:00:00Z"
+    },
+    {
+      "id": "seed_002",
+      "type": "theme",
+      "value": "colesterol",
+      "parentSeed": "seed_001",
+      "status": "pending",
+      "discoveredAt": "2026-10-03T00:00:00Z"
+    },
+    {
+      "id": "seed_003",
+      "type": "theme",
+      "value": "sono",
+      "parentSeed": "seed_001",
+      "status": "pending",
+      "discoveredAt": "2026-10-03T00:00:00Z"
+    },
+    {
+      "id": "seed_004",
+      "type": "theme",
+      "value": "exercício",
+      "parentSeed": "seed_001",
+      "status": "pending",
+      "discoveredAt": "2026-10-03T00:00:00Z"
+    },
+    {
+      "id": "seed_005",
+      "type": "theme",
+      "value": "alimentação",
+      "parentSeed": "seed_001",
+      "status": "pending",
+      "discoveredAt": "2026-10-03T00:00:00Z"
+    }
+  ]
+}

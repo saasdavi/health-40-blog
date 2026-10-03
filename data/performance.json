@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-10-03T00:00:00Z",
+  "metadata": {
+    "dataSources": [
+      "google_search_console"
+    ]
+  },
+  "performance": [
+    {
+      "id": "perf_001",
+      "query": "colesterol depois dos 40",
+      "articleId": null,
+      "source": "search_console",
+      "impressions": 0,
+      "clicks": 0,
+      "ctr": 0,
+      "position": null,
+      "trend": null,
+      "lastUpdated": "2026-10-03T00:00:00Z"
+    }
+  ]
+}

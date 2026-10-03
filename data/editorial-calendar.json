@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-10-03T00:00:00Z",
+  "metadata": {
+    "totalPlanned": 0,
+    "maxArticlesPerDay": 2,
+    "statusBreakdown": {
+      "planned": 0,
+      "writing": 0,
+      "review": 0,
+      "published": 0
+    }
+  },
+  "calendar": [
+    {
+      "id": "cal_001",
+      "date": "2026-10-10",
+      "keyword": "colesterol depois dos 40",
+      "primaryKeyword": "colesterol depois dos 40",
+      "secondaryKeywords": [],
+      "cluster": "cluster_001",
+      "theme": "colesterol",
+      "intent": "informational",
+      "status": "planned",
+      "priority": 5,
+      "competitors": [],
+      "plannedStructure": null,
+      "plannedLinks": [],
+      "sources": [],
+      "articleId": null,
+      "publishedAt": null,
+      "createdAt": "2026-10-03T00:00:00Z",
+      "lastUpdated": "2026-10-03T00:00:00Z",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+---
+import { readFileSync } from 'fs';
+import { resolve } from 'path';
+
+let articleCount = 0;
+try {
+  const articlesPath = resolve('data/articles.json');
+  const articlesData = JSON.parse(readFileSync(articlesPath, 'utf-8'));
+  articleCount = articlesData.articles.filter((a: any) => a.status === 'published').length;
+} catch (e) {
+  console.warn('Could not read articles.json');
+}
+---
+
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Saúde após os 40 - Blog</title>
+    <meta name="description" content="Descoberta automática de demanda + produção de conteúdo sobre saúde para pessoas com 40+ anos." />
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        line-height: 1.6;
+        color: #333;
+      }
+
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 2rem;
+      }
+
+      header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 4rem 2rem;
+        text-align: center;
+      }
+
+      header h1 {
+        font-size: 3rem;
+        margin-bottom: 1rem;
+      }
+
+      header p {
+        font-size: 1.2rem;
+        opacity: 0.9;
+      }
+
+      .stats {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 2rem;
+        margin: 3rem 0;
+      }
+
+      .stat-box {
+        background: #f5f5f5;
+        padding: 2rem;
+        border-radius: 8px;
+        text-align: center;
+      }
+
+      .stat-box h3 {
+        font-size: 2.5rem;
+        color: #667eea;
+        margin-bottom: 0.5rem;
+      }
+
+      .stat-box p {
+        color: #666;
+      }
+
+      .cta {
+        text-align: center;
+        margin: 3rem 0;
+      }
+
+      .cta a {
+        display: inline-block;
+        padding: 1rem 2rem;
+        background: #667eea;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        font-weight: bold;
+        transition: background 0.3s;
+      }
+
+      .cta a:hover {
+        background: #764ba2;
+      }
+
+      .status {
+        background: #f0f4ff;
+        border-left: 4px solid #667eea;
+        padding: 1.5rem;
+        margin: 2rem 0;
+        border-radius: 4px;
+      }
+
+      .status h3 {
+        margin-bottom: 0.5rem;
+        color: #667eea;
+      }
+
+      footer {
+        text-align: center;
+        padding: 2rem;
+        color: #999;
+        border-top: 1px solid #eee;
+        margin-top: 3rem;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1>🏥 Saúde após os 40</h1>
+        <p>Blog autônomo de descoberta de demanda + produção de conteúdo</p>
+      </div>
+    </header>
+
+    <main class="container">
+      <div class="stats">
+        <div class="stat-box">
+          <h3 id="article-count">{articleCount}</h3>
+          <p>Artigos Publicados</p>
+        </div>
+        <div class="stat-box">
+          <h3>∞</h3>
+          <p>Palavras-chave Descobertas</p>
+        </div>
+        <div class="stat-box">
+          <h3>2</h3>
+          <p>Artigos/Dia (Máximo)</p>
+        </div>
+      </div>
+
+      <div class="status">
+        <h3>📊 Status do Sistema</h3>
+        <p>
+          ✅ Arquitetura: Pronta<br/>
+          ✅ Dados: Inicializados<br/>
+          ⏳ APIs: Aguardando configuração<br/>
+          ⏳ Automação: Pronta para ativar
+        </p>
+      </div>
+
+      <div class="cta">
+        <a href="/artigos">Ver Artigos</a>
+      </div>
+
+      <section style="margin: 3rem 0;">
+        <h2>🎯 Como funciona?</h2>
+        <p style="margin-top: 1rem;">
+          Este blog opera um sistema autônomo de:
+        </p>
+        <ol style="margin: 1rem 0 0 2rem;">
+          <li><strong>Descoberta:</strong> Google Keyword Planner + Autocomplete</li>
+          <li><strong>Validação:</strong> Claude analisa demanda e oportunidade</li>
+          <li><strong>Pesquisa:</strong> Analisa 2-3 concorrentes do Google</li>
+          <li><strong>Produção:</strong> Claude escreve conteúdo original</li>
+          <li><strong>Publicação:</strong> Automática via GitHub + Vercel</li>
+          <li><strong>Medição:</strong> Search Console alimenta o ciclo novamente</li>
+        </ol>
+      </section>
+
+      <section style="margin: 3rem 0;">
+        <h2>📈 Próximas Etapas</h2>
+        <ul style="margin: 1rem 0 0 2rem;">
+          <li>Ativar descoberta de keywords</li>
+          <li>Validar primeiras oportunidades</li>
+          <li>Pesquisar competitors</li>
+          <li>Produzir primeiro artigo</li>
+          <li>Publicar e medir</li>
+        </ul>
+      </section>
+    </main>
+
+    <footer>
+      <p>Powered by autonomous content discovery system • Health 40+ Blog</p>
+    </footer>
+  </body>
+</html>

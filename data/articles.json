@@ -1,0 +1,41 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-10-03T00:00:00Z",
+  "metadata": {
+    "totalPublished": 0,
+    "totalDrafts": 0
+  },
+  "articles": [
+    {
+      "id": "art_001",
+      "title": "Como Controlar o Colesterol Depois dos 40: Guia Completo",
+      "slug": "colesterol-depois-dos-40",
+      "primaryKeyword": "colesterol depois dos 40",
+      "secondaryKeywords": [],
+      "description": "Estratégias evidentes para controlar colesterol e manter saúde cardiovascular após os 40 anos",
+      "content": "",
+      "cluster": "cluster_001",
+      "theme": "colesterol",
+      "status": "draft",
+      "publishedAt": null,
+      "lastUpdated": null,
+      "wordCount": 0,
+      "readingTime": 0,
+      "seoMetrics": {
+        "h1": null,
+        "headings": [],
+        "internalLinks": [],
+        "externalLinks": [],
+        "imageCount": 0
+      },
+      "healthSafety": {
+        "flagged": false,
+        "flags": [],
+        "sourcesVerified": false,
+        "approved": false
+      },
+      "createdAt": "2026-10-03T00:00:00Z",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-10-03T00:00:00Z",
+  "metadata": {
+    "totalKeywords": 0,
+    "statusBreakdown": {
+      "discovered": 0,
+      "researched": 0,
+      "validated": 0,
+      "clustered": 0,
+      "planned": 0,
+      "writing": 0,
+      "review": 0,
+      "published": 0,
+      "rejected": 0
+    }
+  },
+  "keywords": [
+    {
+      "id": "kw_001",
+      "keyword": "colesterol depois dos 40",
+      "source": [
+        "seed"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "colesterol",
+      "subtheme": null,
+      "cluster": null,
+      "variants": [],
+      "longTails": [],
+      "validated": false,
+      "serp_researched": false,
+      "article_planned": false,
+      "article_published": false,
+      "discoveredAt": "2026-10-03T00:00:00Z",
+      "lastUpdated": "2026-10-03T00:00:00Z",
+      "notes": ""
+    }
+  ]
+}
