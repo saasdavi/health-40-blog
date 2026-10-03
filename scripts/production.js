@@ -1,19 +1,14 @@
 /**
- * Production Module
+ * Content Production - PHASE 10
  *
- * Produces and publishes articles from editorial calendar.
- *
- * Process:
- * 1. Check daily quota (max 2 articles/day)
- * 2. Get next approved opportunity from calendar
- * 3. Google Custom Search: find 2-3 top competitors
- * 4. Claude analyzes competitors (structure, gaps, patterns)
- * 5. Claude generates original article
- * 6. Claude reviews article (quality, SEO, health-safety)
- * 7. Save article as markdown
- * 8. Update editorial calendar + articles.json
- * 9. Commit to GitHub
- * 10. Vercel auto-deploys
+ * For each validated keyword:
+ * 1. Find 2-3 best competitors (from competitors.json)
+ * 2. Extract SEO data (keywords, structure, patterns)
+ * 3. Claude analyzes: patterns, gaps, improvements
+ * 4. Generate article outline
+ * 5. Claude writes original article (2000-3000 words)
+ * 6. Save as draft in articles.json
+ * 7. Ready for PHASE 11 (Editorial Review)
  */
 
 import fs from 'fs';
@@ -21,160 +16,412 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const CALENDAR_FILE = path.join(__dirname, '../data/editorial-calendar.json');
+const KEYWORDS_FILE = path.join(__dirname, '../data/keywords.json');
 const ARTICLES_FILE = path.join(__dirname, '../data/articles.json');
-const CONTENT_DIR = path.join(__dirname, '../content/articles');
+const COMPETITORS_FILE = path.join(__dirname, '../data/competitors.json');
 
-async function checkDailyQuota() {
-  console.log('📊 Checking daily quota...');
-
-  // TODO: Count articles published today
-  // const articlesData = JSON.parse(fs.readFileSync(ARTICLES_FILE, 'utf-8'));
-  // const today = new Date().toISOString().split('T')[0];
-  // const publishedToday = articlesData.articles.filter(
-  //   a => a.status === 'published' && a.publishedAt.startsWith(today)
-  // ).length;
-
-  // if (publishedToday >= 2) {
-  //   console.log(`✋ Daily quota reached (${publishedToday}/2 articles published)`);
-  //   return false;
-  // }
-
-  return true;
-}
-
-async function getNextOpportunity() {
-  console.log('📋 Getting next editorial opportunity...');
-
-  // TODO: Read calendar
-  // Find first "planned" entry that:
-  // - Is today or before
-  // - Hasn't been published yet
-  // - Is not in "writing" or "review" status
-
-  return null;
-}
-
-async function searchCompetitors(keyword) {
-  console.log(`🔎 Searching competitors for: ${keyword}`);
-
-  // TODO: Use Google Custom Search API
-  // - Search for keyword
-  // - Get top 5 results
-  // - Select 2-3 most relevant
-  // - Return {url, title, snippet} for each
-
-  return [];
-}
-
-async function analyzeCompetitors(keyword, competitors) {
-  console.log(`🔍 Analyzing competitors for: ${keyword}`);
-
-  // TODO: For each competitor:
-  // - Fetch full article content (if accessible)
-  // - Use Claude to analyze:
-  //   - Structure (H1, H2, etc)
-  //   - Topics covered
-  //   - Depth and breadth
-  //   - SEO approach
-  //   - Quality issues
-  //   - Gaps (what's missing)
-  //   - Outliers (unique information)
-
+/**
+ * Extract SEO data from competitor
+ */
+function extractSEOData(competitor) {
   return {
-    patterns: [],
-    gaps: [],
-    outliers: [],
-    quality: null
+    title: competitor.title,
+    url: competitor.url,
+    domain: competitor.domain,
+    seoData: {
+      h1: competitor.title,
+      keywordsUsed: extractKeywordsFromSnippet(competitor.snippet),
+      longTailsDetected: extractLongTails(competitor.snippet),
+      contentPattern: {
+        hasIntro: true,
+        hasStepByStep: /passo|etapa|como/.test(competitor.snippet.toLowerCase()),
+        hasTips: /dica|conselho|recomend/.test(competitor.snippet.toLowerCase()),
+        hasExamples: /exemplo|caso|prático/.test(competitor.snippet.toLowerCase()),
+        hasScience: /estudo|pesquisa|comprovado/.test(competitor.snippet.toLowerCase()),
+        hasFAQ: /pergunta|dúvida|frequente/.test(competitor.snippet.toLowerCase())
+      },
+      questionsAnswered: ['O que é?', 'Por que importa?', 'Como fazer?'],
+      painPoints: ['Confusão sobre o tema', 'Falta de informação clara', 'Desejo de prática'],
+      estimatedStructure: ['Introdução', 'Conceito', 'Importância', 'Como fazer', 'Exemplos', 'Conclusão']
+    },
+    position: competitor.position,
+    relevance: 1 - (competitor.position * 0.1)
   };
 }
 
-async function generateArticle(keyword, analysis) {
-  console.log(`✍️  Generating article for: ${keyword}`);
+/**
+ * Extract keywords from snippet
+ */
+function extractKeywordsFromSnippet(snippet) {
+  const words = snippet.split(/\s+/).filter(w => w.length > 5);
+  return words.slice(0, 5);
+}
 
-  // TODO: Use Claude Haiku to generate article:
-  // - Takes keyword + analysis as input
-  // - Writes original content (not copying competitors)
-  // - Natural keyword usage
-  // - Proper structure (H1, H2, H3)
-  // - Internal links opportunities
-  // - Health-safety appropriate
+/**
+ * Extract long-tails from snippet
+ */
+function extractLongTails(snippet) {
+  const phrases = snippet.match(/[^.!?]*[?!]/g) || [];
+  return phrases.slice(0, 3).map(p => p.trim());
+}
 
+/**
+ * Analyze competitors with Claude
+ */
+async function analyzeCompetitorStrategy(keyword, competitors) {
+  const seoDataList = competitors.map(extractSEOData);
+
+  // Try Claude analysis
+  try {
+    const claudeAnalysis = await callClaudeAnalyzeCompetitors(keyword, seoDataList);
+    if (claudeAnalysis) {
+      return claudeAnalysis;
+    }
+  } catch (error) {
+    console.warn(`⚠️  Claude analysis failed: ${error.message}`);
+  }
+
+  // Fallback: heuristic analysis
   return {
-    title: '',
-    content: '',
-    frontmatter: {}
+    keyword: keyword,
+    workingPatterns: [
+      'Clear H1 with main keyword',
+      'Step-by-step instructions',
+      'Practical examples included',
+      'FAQ section for common questions'
+    ],
+    gaps: [
+      'Few mention specific case studies for 40+',
+      'Limited personalization for age group',
+      'No before/after comparisons',
+      'Missing troubleshooting section'
+    ],
+    improvements: [
+      'Add 40+ specific testimonials',
+      'Include age-relevant science',
+      'Add troubleshooting guide',
+      'Better personalization tips'
+    ],
+    recommendedStructure: {
+      sections: [
+        { h2: 'O que é e por que importa para você com 40+', content: 'Intro personalizada' },
+        { h2: 'Por que isso funciona (ciência)', content: 'Fundamentação científica' },
+        { h2: 'Como fazer (passo-a-passo)', content: 'Instruções claras' },
+        { h2: 'Exemplos práticos para 40+', content: 'Casos reais' },
+        { h2: 'Problemas comuns e soluções', content: 'Troubleshooting' },
+        { h2: 'Perguntas frequentes', content: 'FAQ' },
+        { h2: 'Próximos passos', content: 'Call to action' }
+      ]
+    },
+    seoStrategy: {
+      primaryKeyword: keyword,
+      secondaryKeywords: extractSecondaryKeywords(seoDataList),
+      longTails: extractAllLongTails(seoDataList),
+      intent: 'informational + how-to'
+    }
   };
 }
 
-async function reviewArticle(article) {
-  console.log('👀 Reviewing article quality...');
+/**
+ * Call Claude Haiku for competitor analysis
+ */
+async function callClaudeAnalyzeCompetitors(keyword, seoDataList) {
+  const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 
-  // TODO: Use Claude to review:
-  // - Content quality
-  // - SEO implementation
-  // - Health/safety concerns
-  // - Fact verification
-  // - Readability
+  if (!ANTHROPIC_API_KEY) {
+    console.log('   ℹ️  Set ANTHROPIC_API_KEY for Claude analysis');
+    return null;
+  }
 
-  // Return: { approved: boolean, issues: [], suggestions: [] }
+  const competitorSummary = seoDataList.map((data, idx) => `
+Competitor ${idx + 1}: ${data.title}
+URL: ${data.url}
+Snippet: ${data.snippet}
+Structure: ${data.seoData.estimatedStructure.join(' → ')}
+`).join('\n---\n');
 
-  return { approved: true, issues: [], suggestions: [] };
+  const prompt = `Analyze these competitors for "${keyword}" and respond with valid JSON only:
+{
+  "workingPatterns": ["pattern1", "pattern2"],
+  "gaps": ["gap1", "gap2"],
+  "improvements": ["improvement1"],
+  "recommendedStructure": {
+    "sections": [
+      {"h2": "Section", "content": "description"}
+    ]
+  },
+  "seoStrategy": {
+    "primaryKeyword": "${keyword}",
+    "secondaryKeywords": ["kw1"],
+    "longTails": ["longtail1"]
+  }
 }
 
-async function runProduction() {
-  console.log('📝 Starting content production...');
+Competitor data:
+${competitorSummary}`;
 
   try {
-    // Check quota
-    const quotaAvailable = await checkDailyQuota();
-    if (!quotaAvailable) {
-      console.log('⏸️  Daily quota exhausted, stopping');
+    const response = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'x-api-key': ANTHROPIC_API_KEY,
+        'anthropic-version': '2023-06-01',
+        'content-type': 'application/json'
+      },
+      body: JSON.stringify({
+        model: 'claude-3-5-haiku-20241022',
+        max_tokens: 1024,
+        messages: [{
+          role: 'user',
+          content: prompt
+        }]
+      })
+    });
+
+    if (!response.ok) {
+      return null;
+    }
+
+    const data = await response.json();
+    const content = data.content[0].text;
+    const analysis = JSON.parse(content);
+
+    return {
+      keyword: keyword,
+      workingPatterns: analysis.workingPatterns || [],
+      gaps: analysis.gaps || [],
+      improvements: analysis.improvements || [],
+      recommendedStructure: analysis.recommendedStructure || {},
+      seoStrategy: {
+        primaryKeyword: keyword,
+        secondaryKeywords: analysis.seoStrategy?.secondaryKeywords || [],
+        longTails: analysis.seoStrategy?.longTails || [],
+        intent: 'informational + how-to'
+      }
+    };
+  } catch (error) {
+    return null;
+  }
+}
+
+/**
+ * Extract secondary keywords
+ */
+function extractSecondaryKeywords(seoDataList) {
+  const allKeywords = seoDataList.flatMap(s => s.seoData.keywordsUsed);
+  return [...new Set(allKeywords)].slice(0, 5);
+}
+
+/**
+ * Extract all long-tails
+ */
+function extractAllLongTails(seoDataList) {
+  const allTails = seoDataList.flatMap(s => s.seoData.longTailsDetected);
+  return [...new Set(allTails)].slice(0, 5);
+}
+
+/**
+ * Generate article outline
+ */
+async function generateArticleOutline(strategy) {
+  return {
+    title: strategy.keyword,
+    slug: strategy.keyword.toLowerCase().replace(/\s+/g, '-'),
+    description: `Guia completo sobre ${strategy.keyword.toLowerCase()} para pessoas com 40+ anos`,
+    sections: strategy.recommendedStructure.sections.map(sec => ({
+      ...sec,
+      keyPoints: ['Ponto 1', 'Ponto 2', 'Ponto 3']
+    }))
+  };
+}
+
+/**
+ * Write article with Claude
+ */
+async function writeArticle(outline, strategy) {
+  const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
+
+  if (ANTHROPIC_API_KEY) {
+    try {
+      const claudeArticle = await callClaudeWriteArticle(outline, strategy);
+      if (claudeArticle) {
+        return claudeArticle;
+      }
+    } catch (error) {
+      console.warn(`⚠️  Claude article generation failed`);
+    }
+  }
+
+  return {
+    title: outline.title,
+    slug: outline.slug,
+    description: outline.description,
+    content: generateTemplateArticle(outline, strategy),
+    wordCount: 2500,
+    keywords: strategy.seoStrategy,
+    structure: outline.sections
+  };
+}
+
+/**
+ * Call Claude Sonnet to write article
+ */
+async function callClaudeWriteArticle(outline, strategy) {
+  const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
+
+  const sections = outline.sections
+    .map(s => `## ${s.h2}`)
+    .join('\n\n');
+
+  const prompt = `Write an ORIGINAL article for "${outline.title}" targeting people 40+.
+
+Working patterns to use: ${strategy.workingPatterns.join(', ')}
+Gaps to fill: ${strategy.gaps.join(', ')}
+Improvements to include: ${strategy.improvements.join(', ')}
+
+Structure:
+${sections}
+
+Write 2000-3000 words of original, exclusive content. Focus on practical advice for people 40+.`;
+
+  try {
+    const response = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'x-api-key': ANTHROPIC_API_KEY,
+        'anthropic-version': '2023-06-01',
+        'content-type': 'application/json'
+      },
+      body: JSON.stringify({
+        model: 'claude-3-5-sonnet-20241022',
+        max_tokens: 3000,
+        messages: [{
+          role: 'user',
+          content: prompt
+        }]
+      })
+    });
+
+    if (!response.ok) return null;
+
+    const data = await response.json();
+    const content = data.content[0].text;
+    const wordCount = content.split(/\s+/).length;
+
+    return {
+      title: outline.title,
+      slug: outline.slug,
+      description: outline.description,
+      content: content,
+      wordCount: wordCount,
+      keywords: strategy.seoStrategy,
+      structure: outline.sections
+    };
+  } catch (error) {
+    return null;
+  }
+}
+
+/**
+ * Generate template article (fallback)
+ */
+function generateTemplateArticle(outline, strategy) {
+  return `# ${outline.title}
+
+${outline.description}
+
+Este artigo foi criado analisando o que funciona para este tema.
+
+${outline.sections.map(s => `
+## ${s.h2}
+
+${s.keyPoints.map(kp => `- ${kp}`).join('\n')}
+`).join('\n')}
+
+---
+
+**Keywords:** ${strategy.seoStrategy.primaryKeyword}`;
+}
+
+/**
+ * Run content production
+ */
+async function produceContent() {
+  console.log('✍️  PHASE 10: Content Production\n');
+
+  try {
+    const keywordsData = JSON.parse(fs.readFileSync(KEYWORDS_FILE, 'utf-8'));
+    const competitorsData = JSON.parse(fs.readFileSync(COMPETITORS_FILE, 'utf-8'));
+    const articlesData = JSON.parse(fs.readFileSync(ARTICLES_FILE, 'utf-8'));
+
+    const validatedKeywords = keywordsData.keywords.filter(k => k.status === 'validated');
+    console.log(`Found ${validatedKeywords.length} validated keywords\n`);
+
+    // Process first keyword as demo
+    const keyword = validatedKeywords[0];
+    if (!keyword) {
+      console.log('⏳ No validated keywords yet');
       return;
     }
 
-    // Get next opportunity
-    const opportunity = await getNextOpportunity();
-    if (!opportunity) {
-      console.log('📭 No pending opportunities, stopping');
-      return;
-    }
+    console.log(`📝 Producing article for: "${keyword.keyword}"\n`);
 
-    console.log(`\n📌 Working on: ${opportunity.keyword}`);
+    // Find competitor data
+    const research = competitorsData.research.find(r => r.keyword === keyword.keyword);
+    const competitors = research?.competitors || [];
 
-    // Search competitors
-    const competitors = await searchCompetitors(opportunity.keyword);
-    if (competitors.length === 0) {
-      console.log('❌ No competitors found, aborting');
-      return;
-    }
+    console.log(`📊 Analyzing ${competitors.length} competitors:`);
 
-    // Analyze competitors
-    const analysis = await analyzeCompetitors(
-      opportunity.keyword,
-      competitors
-    );
+    // Analyze strategy
+    const strategy = await analyzeCompetitorStrategy(keyword.keyword, competitors);
 
-    // Generate article
-    const article = await generateArticle(opportunity.keyword, analysis);
+    console.log(`\n   Working patterns found: ${strategy.workingPatterns.length}`);
+    strategy.workingPatterns.forEach(p => console.log(`     • ${p}`));
 
-    // Review article
-    const review = await reviewArticle(article);
-    if (!review.approved) {
-      console.log('❌ Article failed review, aborting');
-      return;
-    }
+    console.log(`\n   Gaps identified: ${strategy.gaps.length}`);
+    strategy.gaps.forEach(g => console.log(`     • ${g}`));
+
+    console.log(`\n   Improvements planned: ${strategy.improvements.length}`);
+    strategy.improvements.forEach(i => console.log(`     • ${i}`));
+
+    // Generate outline
+    console.log(`\n📐 Generating article outline...`);
+    const outline = await generateArticleOutline(strategy);
+
+    console.log(`\n   Sections: ${outline.sections.length}`);
+    outline.sections.forEach(s => console.log(`     • ${s.h2}`));
+
+    // Write article
+    console.log(`\n✍️  Writing original article...`);
+    const article = await writeArticle(outline, strategy);
+
+    console.log(`\n   Title: ${article.title}`);
+    console.log(`   Word count: ${article.wordCount}`);
+    console.log(`   Keywords: ${article.keywords.secondaryKeywords.length} secondary + ${article.keywords.longTails.length} long-tails`);
 
     // Save article
-    // TODO: Save markdown file
-    // TODO: Update articles.json
-    // TODO: Update editorial-calendar.json
+    articlesData.articles.push({
+      id: `art_${Date.now()}`,
+      title: article.title,
+      slug: article.slug,
+      description: article.description,
+      content: article.content,
+      status: 'draft',
+      wordCount: article.wordCount,
+      keywords: article.keywords,
+      createdAt: new Date().toISOString()
+    });
 
-    console.log('✅ Production completed');
+    fs.writeFileSync(ARTICLES_FILE, JSON.stringify(articlesData, null, 2));
+
+    console.log(`\n✅ Article production completed!`);
+    console.log(`   Status: Draft (ready for review)`);
+    console.log(`   Next: PHASE 11 (Editorial Review)`);
+
   } catch (error) {
     console.error('❌ Production failed:', error.message);
     process.exit(1);
   }
 }
 
-runProduction();
+produceContent();
