@@ -28,6 +28,9 @@ const VALIDATOR_MODEL = process.env.VALIDATOR_MODEL || 'claude-haiku-4-5-2025100
 const MIN_SCORE = 80;
 const SITE_SUFFIX = ' | Saúde 40+';
 const MAX_VOLTAS = 3;
+// US$ por milhão de tokens [entrada, saída]
+const PRECOS = { 'claude-haiku-4-5-20251001': [1, 5], 'claude-sonnet-5-5': [2, 10] };
+const METRICS_FILE = path.join(__dirname, '../data/robot-metrics.json');
 
 const DISCLAIMER = 'Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.';
 
@@ -67,6 +70,7 @@ class ArticleRobot {
     if (!this.db.stats) this.db.stats = { total: 0, published: 0 };
     this.kw = this.readJson(KEYWORDS_FILE, { keywords: [] }).keywords;
     this.stats = { generated: 0, approved: 0, published: 0, failed: 0 };
+    this.uso = {};
   }
 
   readJson(f, fb) { try { return JSON.parse(fs.readFileSync(f, 'utf8')); } catch { return fb; } }
@@ -115,7 +119,7 @@ class ArticleRobot {
   }
 
   // ---------- 2. redator ----------
-  async claude(prompt, maxTokens = 16000, model = WRITER_MODEL) {
+  async claude(prompt, maxTokens = 16000, model = WRITER_MODEL, papel = 'redator') {
     const res = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
       headers: { 'content-type': 'application/json', 'x-api-key': process.env.ANTHROPIC_API_KEY, 'anthropic-version': '2023-06-01' },
@@ -123,8 +127,37 @@ class ArticleRobot {
     });
     if (!res.ok) throw new Error(`Anthropic API ${res.status}: ${(await res.text()).slice(0, 300)}`);
     const data = await res.json();
+    this.registrarUso(model, papel, data.usage);
     if (data.stop_reason === 'max_tokens') throw new Error('TRUNCADO');
     return data.content.filter(b => b.type === 'text').map(b => b.text).join('');
+  }
+
+  registrarUso(model, papel, usage) {
+    const k = `${papel}:${model}`;
+    const u = (this.uso[k] ||= { chamadas: 0, entrada: 0, saida: 0 });
+    u.chamadas++;
+    u.entrada += usage?.input_tokens || 0;
+    u.saida += usage?.output_tokens || 0;
+  }
+
+  relatorioCusto() {
+    let total = 0;
+    const linhas = [];
+    for (const [k, u] of Object.entries(this.uso)) {
+      const [papel, model] = k.split(':');
+      const [pe, ps] = PRECOS[model] || [0, 0];
+      const custo = (u.entrada * pe + u.saida * ps) / 1e6;
+      total += custo;
+      linhas.push(`  ${papel} (${model}): ${u.chamadas} chamadas | ${u.entrada} tokens entrada | ${u.saida} saída | US$ ${custo.toFixed(4)}`);
+    }
+    const porPublicado = total / Math.max(1, this.stats.published);
+    console.log('\n💰 CUSTO DA EXECUÇÃO');
+    linhas.forEach(l => console.log(l));
+    console.log(`  total US$ ${total.toFixed(4)} | por artigo publicado US$ ${porPublicado.toFixed(4)} | tentativas de redação ${this.stats.generated} | publicados ${this.stats.published}`);
+    if (process.env.DRY_RUN) return;
+    const hist = this.readJson(METRICS_FILE, []);
+    hist.push({ data: new Date().toISOString(), modeloRedator: WRITER_MODEL, modeloValidador: VALIDATOR_MODEL, tentativas: this.stats.generated, aprovados: this.stats.approved, publicados: this.stats.published, falhas: this.stats.failed, uso: this.uso, custoUSD: Number(total.toFixed(4)), custoPorPublicadoUSD: Number(porPublicado.toFixed(4)) });
+    fs.writeFileSync(METRICS_FILE, JSON.stringify(hist, null, 2));
   }
 
   async escrever(prompt) {
@@ -278,7 +311,7 @@ ${a.content}
 Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cercas de código), no formato: {"decisao":"APROVADO"|"DEVOLVER","motivos":["V1: ...","V4: ..."]}`;
     for (let tentativa = 1; tentativa <= 3; tentativa++) {
       let raw;
-      try { raw = await this.claude(prompt, 12000, VALIDATOR_MODEL); } catch (e) { if (e.message === 'TRUNCADO') { console.log('  ↻ validador truncado'); continue; } throw e; }
+      try { raw = await this.claude(prompt, 12000, VALIDATOR_MODEL, 'validador'); } catch (e) { if (e.message === 'TRUNCADO') { console.log('  ↻ validador truncado'); continue; } throw e; }
       const m = raw.match(/\{[\s\S]*"decisao"[\s\S]*\}/);
       if (m) { try { const j = JSON.parse(m[0]); if (j.decisao) return j; } catch { /* tenta de novo */ } }
       console.log(`  ↻ validador fora do formato (tentativa ${tentativa}): ${raw.slice(0, 200).replace(/\n/g, ' ')}`);
@@ -444,6 +477,7 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
       }
     }
     this.gravar();
+    this.relatorioCusto();
     console.log(`\n📊 gerados ${this.stats.generated} | aprovados ${this.stats.approved} | publicados ${this.stats.published} | falhas ${this.stats.failed}`);
     if (this.stats.published === 0) process.exitCode = 1;
     return this.stats;
