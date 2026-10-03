@@ -235,11 +235,14 @@ TÍTULO: ${a.title}
 CORPO:
 ${a.content}
 
-Responda SOMENTE com JSON: {"decisao":"APROVADO"|"DEVOLVER","motivos":["V1: ...","V4: ..."]}`;
-    const raw = await this.claude(prompt, 1500);
-    const m = raw.match(/\{[\s\S]*\}/);
-    if (!m) throw new Error('validador sem JSON');
-    return JSON.parse(m[0]);
+Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cercas de código), no formato: {"decisao":"APROVADO"|"DEVOLVER","motivos":["V1: ...","V4: ..."]}`;
+    for (let tentativa = 1; tentativa <= 3; tentativa++) {
+      const raw = await this.claude(prompt, 4000);
+      const m = raw.match(/\{[\s\S]*"decisao"[\s\S]*\}/);
+      if (m) { try { const j = JSON.parse(m[0]); if (j.decisao) return j; } catch { /* tenta de novo */ } }
+      console.log(`  ↻ validador fora do formato (tentativa ${tentativa}): ${raw.slice(0, 200).replace(/\n/g, ' ')}`);
+    }
+    throw new Error('validador sem JSON após 3 tentativas');
   }
 
   async produzir(p) {
