@@ -28,6 +28,13 @@ if (!fs.existsSync(CONTENT_DIR)) {
 }
 
 /**
+ * Get primary keyword with fallback
+ */
+function getPrimaryKeyword(article) {
+  return article.keywords?.primaryKeyword || article.primaryKeyword || 'health 40+';
+}
+
+/**
  * Generate frontmatter for article
  */
 function generateFrontmatter(article) {
@@ -103,7 +110,7 @@ function commitToGitHub(article, fileInfo) {
     // Commit
     const commitMessage = `📝 Publish: "${article.title}"
 
-Keyword: ${article.keywords.primaryKeyword}
+Keyword: ${getPrimaryKeyword(article)}
 Readtime: ${article.metrics.readTime} min
 Quality: ${article.scores.quality}/100
 SEO: ${article.scores.seo}/100
@@ -129,11 +136,11 @@ function updateCalendar(article) {
     const calendarData = JSON.parse(fs.readFileSync(CALENDAR_FILE, 'utf-8'));
 
     // Find or create entry for this keyword
-    let entry = calendarData.calendar.find(e => e.keyword === article.keywords.primaryKeyword);
+    let entry = calendarData.calendar.find(e => e.keyword === getPrimaryKeyword(article));
 
     if (!entry) {
       entry = {
-        keyword: article.keywords.primaryKeyword,
+        keyword: getPrimaryKeyword(article),
         status: 'published',
         plannedAt: new Date().toISOString().split('T')[0],
         publishedAt: new Date().toISOString(),
@@ -167,7 +174,7 @@ async function addImagesToArticle(article) {
     console.log(`   🖼️  Searching for images...`);
 
     const response = await fetch(
-      `https://api.pexels.com/v1/search?query=${encodeURIComponent(article.keywords.primaryKeyword)}&per_page=5`,
+      `https://api.pexels.com/v1/search?query=${encodeURIComponent(getPrimaryKeyword(article))}&per_page=5`,
       {
         headers: { 'Authorization': PEXEL_API_KEY }
       }
@@ -188,7 +195,7 @@ async function addImagesToArticle(article) {
     const landscape = photos.filter(p => p.width > p.height);
     const bestPhoto = landscape.length > 0 ? landscape[0] : photos[0];
 
-    const imageMarkdown = `![${article.keywords.primaryKeyword}](${bestPhoto.src.large})\n\n_Foto por [${bestPhoto.photographer}](${bestPhoto.photographer_url}) via Pexel_\n\n`;
+    const imageMarkdown = `![${getPrimaryKeyword(article)}](${bestPhoto.src.large})\n\n_Foto por [${bestPhoto.photographer}](${bestPhoto.photographer_url}) via Pexel_\n\n`;
 
     // Add image at the beginning
     const enrichedContent = imageMarkdown + article.content;
@@ -210,7 +217,7 @@ async function addImagesToArticle(article) {
  */
 async function publishArticle(article) {
   console.log(`\n📢 PUBLISHING: "${article.title}"`);
-  console.log(`   Keyword: ${article.keywords.primaryKeyword}`);
+  console.log(`   Keyword: ${getPrimaryKeyword(article)}`);
   console.log(`   Quality: ${article.scores.quality}/100`);
 
   try {
