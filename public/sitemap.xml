@@ -39,9 +39,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://images.pexels.com/photos/18030908/pexels-photo-18030908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940</image:loc>
-      <image:title>colesterol depois dos 40</image:title>
-      <image:caption>Guia completo sobre colesterol depois dos 40 para pessoas com 40+ anos</image:caption>
+      <image:loc>/images/colesterol-depois-dos-40/colesterol-depois-dos-40-capa.jpg</image:loc>
+      <image:title>Como Baixar Colesterol: Guia Prático 40+</image:title>
+      <image:caption>Como baixar colesterol com mudanças reais: reduza gorduras saturadas, aumente fibras e exercícios. Saiba o que comer e evitar.</image:caption>
     </image:image>
   </url>
   <url>
@@ -97,6 +97,17 @@
       <image:loc>/images/o-que-e-perimenopausa/o-que-e-perimenopausa-capa.jpg</image:loc>
       <image:title>O que é perimenopausa: tudo sobre essa transição</image:title>
       <image:caption>Perimenopausa é a transição antes da menopausa. Conheça os sinais, quando começa e o que fazer para lidar com essa fase da vida.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://health-40-blog.vercel.app/o-que-e-resistencia-a-insulina</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>/images/o-que-e-resistencia-a-insulina/o-que-e-resistencia-a-insulina-capa.jpg</image:loc>
+      <image:title>O que é Resistência à Insulina: Guia 40+</image:title>
+      <image:caption>Resistência à insulina é quando as células não respondem bem à insulina. Conheça sintomas, diferenças do diabetes e como mudar sua alimentação.</image:caption>
     </image:image>
   </url>
 </urlset>
