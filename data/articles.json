@@ -252,6 +252,49 @@
       "excerpt": "...",
       "reviewedAt": "2026-10-03T14:10:33.395Z",
       "issues": null
+    },
+    {
+      "id": "art_1791041518873",
+      "title": "colesterol depois dos 40",
+      "slug": "colesterol-depois-dos-40",
+      "description": "Guia completo sobre colesterol depois dos 40 para pessoas com 40+ anos",
+      "content": "# colesterol depois dos 40\n\nGuia completo sobre colesterol depois dos 40 para pessoas com 40+ anos\n\nEste artigo foi criado analisando o que funciona para este tema.\n\n\n## O que é e por que importa para você com 40+\n\n- Ponto 1\n- Ponto 2\n- Ponto 3\n\n\n## Por que isso funciona (ciência)\n\n- Ponto 1\n- Ponto 2\n- Ponto 3\n\n\n## Como fazer (passo-a-passo)\n\n- Ponto 1\n- Ponto 2\n- Ponto 3\n\n\n## Exemplos práticos para 40+\n\n- Ponto 1\n- Ponto 2\n- Ponto 3\n\n\n## Problemas comuns e soluções\n\n- Ponto 1\n- Ponto 2\n- Ponto 3\n\n\n## Perguntas frequentes\n\n- Ponto 1\n- Ponto 2\n- Ponto 3\n\n\n## Próximos passos\n\n- Ponto 1\n- Ponto 2\n- Ponto 3\n\n\n---\n\n**Keywords:** colesterol depois dos 40",
+      "status": "ready_for_publication",
+      "wordCount": 2500,
+      "keywords": {
+        "primaryKeyword": "colesterol depois dos 40",
+        "secondaryKeywords": [],
+        "longTails": [],
+        "intent": "informational + how-to"
+      },
+      "createdAt": "2026-10-03T15:31:58.873Z",
+      "metrics": {
+        "readTime": 13,
+        "difficulty": "easy",
+        "wordCount": 2500,
+        "keywordDensity": "0.00%"
+      },
+      "scores": {
+        "quality": 75,
+        "seo": 75,
+        "health": 95,
+        "overall": 82
+      },
+      "seo": {
+        "title": "colesterol depois dos 40 | Health 40+",
+        "metaDescription": "...",
+        "keywords": [
+          "colesterol depois dos 40"
+        ],
+        "canonical": "https://health-40-blog.vercel.app/colesterol-depois-dos-40",
+        "ogTitle": "colesterol depois dos 40",
+        "ogDescription": "Guia completo sobre colesterol depois dos 40 para pessoas com 40+ anos",
+        "ogUrl": "https://health-40-blog.vercel.app/colesterol-depois-dos-40",
+        "twitterCard": "summary_large_image"
+      },
+      "excerpt": "...",
+      "reviewedAt": "2026-10-03T15:32:00.831Z",
+      "issues": null
     }
   ]
 }
