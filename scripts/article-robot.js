@@ -27,7 +27,7 @@ const WRITER_MODEL = process.env.ROBOT_MODEL || 'claude-haiku-4-5-20251001';
 const VALIDATOR_MODEL = process.env.VALIDATOR_MODEL || 'claude-haiku-4-5-20251001';
 const MIN_SCORE = 80;
 const SITE_SUFFIX = ' | Saúde 40+';
-const MAX_VOLTAS = 2;
+const MAX_VOLTAS = 3;
 
 const DISCLAIMER = 'Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.';
 
@@ -144,24 +144,25 @@ PALAVRA-CHAVE PRINCIPAL: "${p.keyword}" (${p.volume} buscas/mês no Brasil). Uma
 ${p.absorve?.length ? `Variações que viram SEÇÕES H2 deste mesmo artigo (não artigos novos): ${p.absorve.join('; ')}.` : ''}
 
 REGRAS (padrão Mente Curiosa):
-1. Primeiro parágrafo responde a pergunta direto, em ATÉ 50 palavras, contendo a palavra-chave exata.
+1. Primeiro parágrafo responde a pergunta direto, em ATÉ 45 palavras, e COMEÇA com a palavra-chave exata (ela deve aparecer nas 6 primeiras palavras do parágrafo).
 2. 1.300 a 1.800 palavras de conteúdo útil, sem enchimento. Cada seção precisa ensinar algo.
 3. HTML sem <html>/<body>/<h1>. No mínimo 5 seções <h2> (um <h2> a cada ~300 palavras), <h3> opcional, <p>, <ul>/<li>. NUNCA use <h1>.
 4. Ordem sugerida: resposta direta → explicado de forma simples → o que muda depois dos 40 → o que a ciência sabe → o que fazer no dia a dia → mitos e verdades → perguntas frequentes → <h2>Resumindo</h2>. Inclua <h2>Quando procurar um médico</h2>.
-5. Parágrafos de no máximo 50 palavras; frases de até 22 palavras em média.
+5. Parágrafos de no máximo 45 palavras (conte; divida os longos); frases de até 22 palavras em média.
 6. NÃO escreva a seção de Fontes (o sistema anexa). Use SOMENTE fatos presentes nos TRECHOS DAS FONTES abaixo; reescreva com suas palavras (não copie frases). Se um fato não está nos trechos, não escreva. Se as fontes divergirem num número, omita o número. Ao citar uma fonte no texto, use EXATAMENTE o "NOME PARA CITAR" dela e só atribua o que o trecho dessa fonte realmente diz. Não escreva comparações, imagens ou exemplos de cotidiano que não estejam nos trechos.
 7. Pelo menos 2 links internos no corpo no formato <a href="/slug/">texto natural</a>, escolhendo SÓ desta lista (se a lista tiver menos de 2, use o que houver):
 ${lista}
 8. NUNCA invente números, estudos, nomes, depoimentos, antes/depois ou resultados. Na dúvida, corte. Sem promessa de cura, emagrecimento garantido ou "sem efeitos colaterais". Sem diagnóstico, sem dose de medicamento ou suplemento.
-9. Tom humano: "você", exemplos do dia a dia. PROIBIDO: ${PROIBIDAS.map(x => `"${x}"`).join(', ')}.
+9. "Depois dos 40" é só o público do blog: NÃO afirme nada específico de idade, menopausa, hormônios ou "após os 40" que não esteja escrito nos trechos das fontes. Se as fontes não falam de 40+, escreva de forma geral e use "você".
+9b. Tom humano: "você", exemplos do dia a dia. PROIBIDO: ${PROIBIDAS.map(x => `"${x}"`).join(', ')}.
 10. Não mencione marcas de suplemento nem venda produtos.
 ${devolucao ? `\nA VERSÃO ANTERIOR FOI DEVOLVIDA. Reescreva o artigo COMPLETO corrigindo SOMENTE estes pontos, sem encurtar (mantenha 1.300+ palavras e todas as seções, incluindo "Quando procurar um médico" e "Resumindo"). Remova ou reformule qualquer frase apontada como sem apoio nas fontes:\n- ${devolucao.join('\n- ')}\n\nVERSÃO ANTERIOR (HTML) PARA VOCÊ CORRIGIR:\n${anterior || ''}\n` : ''}
 TRECHOS DAS FONTES (única base factual permitida):
 ${trechos}
 
 FORMATO DA RESPOSTA (exatamente, sem cercas de código):
-TITLE: <título que contenha a palavra-chave, no máximo 50 caracteres>
-DESCRIPTION: <120 a 160 caracteres, com a palavra-chave>
+TITLE: <título que contenha a palavra-chave, NO MÁXIMO 46 caracteres contando espaços (conte!)>
+DESCRIPTION: <entre 125 e 155 caracteres contando espaços, contendo a palavra-chave exata>
 CAPA_BUSCA: <busca de foto em INGLÊS, cena concreta e fotografável, sem marcas>
 CAPA_ALT: <alt em português descrevendo o que aparece na foto, 25+ caracteres>
 FOTO1_BUSCA: <busca em INGLÊS, cena diferente da capa>
@@ -263,7 +264,9 @@ FOTO2_SECAO: <número do <h2>, diferente do da foto 1>
   async validar(a, fontesLidas) {
     const prompt = `Você é o VALIDADOR do blog Saúde 40+. Não reescreva; aprove ou devolva com motivos objetivos.
 
-Checklist: V1 fatos batem com as fontes citadas (qualquer número, estudo, nome ou estatística sem apoio reprova) · V2 fontes são pertinentes ao assunto · V3 o 1º parágrafo responde a pergunta · V4 cada seção ensina algo (sem enchimento) · V5 tom humano, sem frases de IA · V6 é seguro (sem diagnóstico, dose, promessa de cura/emagrecimento, nem orientação perigosa) · V7 nada de marca ou venda.
+IMPORTANTE: links internos do site (href="/slug/") apontam para outros artigos do próprio blog; NÃO os julgue nem reprove por eles (não há trechos deles aqui). Reprove (DEVOLVER) somente por V1 (fato, número ou afirmação específica sem apoio nos trechos), V2 ou V6; nos demais itens, no máximo sugira.
+
+Checklist: V1 fatos batem com as fontes citadas (qualquer número, estudo, nome ou estatística sem apoio reprova) · V2 fontes são pertinentes ao assunto · V3 o 1º parágrafo responde a pergunta · V4 cada seção ensina algo (sem enchimento) · V5 tom humano (apenas sugestão, NÃO reprove por tom ou estilo) · V6 é seguro (sem diagnóstico, dose, promessa de cura/emagrecimento, nem orientação perigosa) · V7 nada de marca ou venda.
 
 TRECHOS DAS FONTES (única base factual permitida; V1 reprova qualquer fato, número ou afirmação específica que não esteja aqui):\n${fontesLidas.map((f, i) => `[FONTE ${i + 1}] ${f.nome} (${f.url})\n${f.texto}`).join('\n\n---\n\n')}\n\nFontes citadas: ${a.sources.map(s => s.title).join('; ')}
 Palavra-chave: ${a.primaryKeyword}
