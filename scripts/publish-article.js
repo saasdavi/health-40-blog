@@ -161,7 +161,7 @@ function updateCalendar(article) {
 }
 
 /**
- * Add images from Pexel to article
+ * Add multiple images from Pexel to article (inline distribution)
  */
 async function addImagesToArticle(article) {
   const PEXEL_API_KEY = process.env.PEXEL_API_KEY;
@@ -174,7 +174,7 @@ async function addImagesToArticle(article) {
     console.log(`   🖼️  Searching for images...`);
 
     const response = await fetch(
-      `https://api.pexels.com/v1/search?query=${encodeURIComponent(getPrimaryKeyword(article))}&per_page=5`,
+      `https://api.pexels.com/v1/search?query=${encodeURIComponent(getPrimaryKeyword(article))}&per_page=6`,
       {
         headers: { 'Authorization': PEXEL_API_KEY }
       }
@@ -185,29 +185,59 @@ async function addImagesToArticle(article) {
     }
 
     const data = await response.json();
-    const photos = data.photos || [];
+    let photos = data.photos || [];
 
     if (photos.length === 0) {
       return article;
     }
 
-    // Select best image (landscape preferred)
+    // Filter landscape photos
     const landscape = photos.filter(p => p.width > p.height);
-    const bestPhoto = landscape.length > 0 ? landscape[0] : photos[0];
+    photos = landscape.length >= 4 ? landscape : photos;
 
-    const imageMarkdown = `![${getPrimaryKeyword(article)}](${bestPhoto.src.large})\n\n_Foto por [${bestPhoto.photographer}](${bestPhoto.photographer_url}) via Pexel_\n\n`;
+    // Select 4 images (1 featured + 3 inline)
+    const selectedPhotos = photos.slice(0, 4);
 
-    // Add image at the beginning
-    const enrichedContent = imageMarkdown + article.content;
+    if (selectedPhotos.length < 1) {
+      return article;
+    }
 
-    console.log(`   ✅ Adicionada imagem`);
+    // First image as featured image
+    const featuredPhoto = selectedPhotos[0];
+    const inlinePhotos = selectedPhotos.slice(1);
+
+    // Create featured image markdown
+    const featuredImageMarkdown = `![${getPrimaryKeyword(article)}](${featuredPhoto.src.large})\n\n_Foto por [${featuredPhoto.photographer}](${featuredPhoto.photographer_url}) via Pexel_\n\n`;
+
+    // Split content by paragraphs
+    const paragraphs = article.content.split('\n\n').filter(p => p.trim());
+
+    // Distribute inline images throughout content
+    let enrichedParagraphs = [];
+    const imagesPerSection = Math.floor(paragraphs.length / (inlinePhotos.length + 1));
+
+    inlinePhotos.forEach((photo, idx) => {
+      const insertPosition = (idx + 1) * imagesPerSection;
+      const imageMarkdown = `![${getPrimaryKeyword(article)}](${photo.src.large})\n\n_Foto por [${photo.photographer}](${photo.photographer_url}) via Pexel_`;
+
+      if (insertPosition < paragraphs.length) {
+        paragraphs.splice(insertPosition, 0, imageMarkdown);
+      }
+    });
+
+    // Rejoin paragraphs
+    const contentWithImages = paragraphs.join('\n\n');
+    const enrichedContent = featuredImageMarkdown + contentWithImages;
+
+    console.log(`   ✅ Adicionadas ${1 + inlinePhotos.length} imagens (1 featured + ${inlinePhotos.length} inline)`);
 
     return {
       ...article,
       content: enrichedContent,
-      featuredImage: bestPhoto.src.large
+      featuredImage: featuredPhoto.src.large
     };
   } catch (error) {
+    console.warn(`   ⚠️  Image loading warning: ${error.message}`);
     return article;
   }
 }
