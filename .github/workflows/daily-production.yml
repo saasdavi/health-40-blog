@@ -1,11 +1,11 @@
 name: 📝 Daily Article Production
 
 on:
-  schedule:
-    # 🔥 ROBÔ 3/DIA - Google Ads API + E-E-A-T Validation
-    - cron: '0 6 * * *'   # 06:00 UTC (3h BRT) - Gerar 1º batch
-    - cron: '0 14 * * *'  # 14:00 UTC (11h BRT) - Gerar 2º batch
-    - cron: '0 18 * * *'  # 18:00 UTC (15h BRT) - Gerar 3º batch
+  # AUTOMAÇÃO PAUSADA até comprovar publicação real (conteúdo real + deploy verificado)
+  # schedule:
+  #   - cron: '0 6 * * *'
+  #   - cron: '0 14 * * *'
+  #   - cron: '0 18 * * *'
   workflow_dispatch:
 
 jobs:
