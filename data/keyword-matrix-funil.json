@@ -1,0 +1,309 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2026-10-03",
+    "description": "Matriz de Expansão de Conteúdo com Funil de Intenção (Topo, Meio, Fundo)",
+    "total_seeds": 3,
+    "total_keywords": 180,
+    "strategy": "Cobrir 100% das demandas do público por funil de intenção + modificadores"
+  },
+
+  "seeds": {
+    "emagrecimento_40": {
+      "seed": "Emagrecimento 40+",
+      "volume_mensal": 12400,
+      "competencia": "MEDIA",
+      "publico": "Mulheres 35-55 anos com sobrepeso",
+      "cta_principal": "Mounjaxi Vitta",
+      "lucro_potencial": "$500-3000/mês",
+
+      "modificadores": [
+        "mulher", "rápido", "natural", "fácil", "sem fome",
+        "sem exercício", "em 30 dias", "comprovado", "científico",
+        "caseiro", "sem medicamento", "profissional", "eficaz"
+      ],
+
+      "funil": {
+        "topo": {
+          "nome": "Informacional - APRENDIZADO",
+          "intencao": "Entender o problema",
+          "cta": "Blog educativo + Adsterra",
+          "keywords": [
+            "por que fico gorda aos 40",
+            "metabolismo aos 40 reduz",
+            "hormônios menopausa e peso",
+            "como o corpo muda aos 40",
+            "gordura visceral mulher 40",
+            "resistência à insulina 40+",
+            "como emagrecer depois dos 40",
+            "emagrecer aos 40 é possível",
+            "dicas para emagrecer 40+",
+            "alimentação saudável mulher 40",
+            "exercício para emagrecer 40",
+            "melhor exercício mulher 40",
+            "caminhada emagrece aos 40",
+            "musculação mulher 40 emagrece"
+          ]
+        },
+
+        "meio": {
+          "nome": "Comercial - CONSIDERAÇÃO",
+          "intencao": "Comparar soluções",
+          "cta": "Comparativos + MGID",
+          "keywords": [
+            "melhor forma emagrecer 40",
+            "dieta vs exercício 40",
+            "suplemento para emagrecer funciona",
+            "melhor suplemento emagrecedor",
+            "Mounjaxi Vitta como funciona",
+            "suplemento natural para emagrecer",
+            "termogênico para mulher 40",
+            "queimador de gordura funciona",
+            "colagênio emagrece",
+            "glutamina para emagrecer",
+            "cafeína acelera metabolismo",
+            "termogênicos naturais",
+            "suplemento sem efeito colateral",
+            "suplemento com comprovação científica"
+          ]
+        },
+
+        "fundo": {
+          "nome": "Transacional - DECISÃO",
+          "intencao": "Comprar / Converter",
+          "cta": "Mounjaxi Vitta CTA Direto",
+          "keywords": [
+            "Mounjaxi Vitta preço",
+            "Mounjaxi Vitta funciona",
+            "Mounjaxi Vitta opiniões",
+            "Mounjaxi Vitta onde comprar",
+            "Mounjaxi Vitta frete grátis",
+            "Mounjaxi Vitta comprar online",
+            "como tomar Mounjaxi Vitta",
+            "Mounjaxi Vitta resultado",
+            "Mounjaxi Vitta reclame aqui",
+            "Mounjaxi Vitta é seguro",
+            "Mounjaxi Vitta ingredientes",
+            "Mounjaxi Vitta emagrecimento 40",
+            "suplemento para mulher 40 comprar",
+            "melhor emagrecedor comprar agora"
+          ]
+        }
+      }
+    },
+
+    "menopausa_sintomas": {
+      "seed": "Menopausa Sintomas",
+      "volume_mensal": 14200,
+      "competencia": "MEDIA",
+      "publico": "Mulheres 40-60 anos em menopausa",
+      "cta_principal": "Mounjaxi Vitta + Desconto",
+      "lucro_potencial": "$300-2000/mês",
+
+      "modificadores": [
+        "sintomas", "natural", "sem medicamento", "fácil", "rápido",
+        "em casa", "mulher", "40+", "50+", "alimentos", "exercício",
+        "comprovado", "científico", "eficaz", "caseiro"
+      ],
+
+      "funil": {
+        "topo": {
+          "nome": "Informacional - APRENDIZADO",
+          "intencao": "Entender sintomas e causa",
+          "cta": "Blog educativo + Adsterra",
+          "keywords": [
+            "o que é menopausa",
+            "sintomas menopausa",
+            "idade menopausa começa",
+            "quanto tempo dura menopausa",
+            "fogacho menopausa o que é",
+            "insônia menopausa causa",
+            "ressecamento vaginal menopausa",
+            "alteração de humor menopausa",
+            "aumento de peso menopausa",
+            "hormônios na menopausa",
+            "estrogênio menopausa",
+            "progesterona menopausa",
+            "menopausa precoce",
+            "menopausa e metabolismo"
+          ]
+        },
+
+        "meio": {
+          "nome": "Comercial - CONSIDERAÇÃO",
+          "intencao": "Buscar soluções naturais",
+          "cta": "Comparativos + MGID",
+          "keywords": [
+            "menopausa tratamento natural",
+            "alimentos para menopausa",
+            "fitoestrógeno menopausa",
+            "isoflavona menopausa funciona",
+            "terapia hormonal menopausa",
+            "menopausa sem medicamento",
+            "exercício para menopausa",
+            "yoga para menopausa",
+            "meditação menopausa",
+            "sono menopausa como melhorar",
+            "nutrição menopausa",
+            "vitamina menopausa",
+            "suplemento para menopausa",
+            "melhor tratamento menopausa"
+          ]
+        },
+
+        "fundo": {
+          "nome": "Transacional - DECISÃO",
+          "intencao": "Comprar solução",
+          "cta": "Mounjaxi Vitta CTA Direto",
+          "keywords": [
+            "Mounjaxi Vitta menopausa",
+            "suplemento menopausa comprar",
+            "remédio menopausa preço",
+            "fitoenergético menopausa",
+            "hormônio natural menopausa comprar",
+            "terapia hormonal onde fazer",
+            "isoflavona onde comprar",
+            "fórmula para menopausa",
+            "tratamento menopausa caro",
+            "suplemento menopausa opinião",
+            "qual melhor suplemento menopausa",
+            "menopausa solução rápida",
+            "aliviar menopausa agora",
+            "menopausa sem sofrimento"
+          ]
+        }
+      }
+    },
+
+    "colesterol_alto_40": {
+      "seed": "Colesterol Alto 40+",
+      "volume_mensal": 8900,
+      "competencia": "MEDIA",
+      "publico": "Homens e mulheres 40+ com colesterol elevado",
+      "cta_principal": "Mounjaxi Vitta + Nutrição",
+      "lucro_potencial": "$200-1500/mês",
+
+      "modificadores": [
+        "natural", "sem medicamento", "dieta", "exercício", "fácil",
+        "rápido", "comprovado", "científico", "homem", "mulher",
+        "40+", "50+", "em casa", "alimentos", "seguro"
+      ],
+
+      "funil": {
+        "topo": {
+          "nome": "Informacional - APRENDIZADO",
+          "intencao": "Entender colesterol e risco",
+          "cta": "Blog educativo + Adsterra",
+          "keywords": [
+            "o que é colesterol",
+            "colesterol bom vs ruim",
+            "colesterol alto síntomas",
+            "colesterol alto causa",
+            "LDL vs HDL",
+            "triglicerídeos altos",
+            "por que colesterol sobe com idade",
+            "colesterol hereditário",
+            "risco colesterol alto",
+            "complicações colesterol alto",
+            "ataque cardíaco colesterol",
+            "colesterol e coração",
+            "idade para medir colesterol",
+            "colesterol normal valor"
+          ]
+        },
+
+        "meio": {
+          "nome": "Comercial - CONSIDERAÇÃO",
+          "intencao": "Buscar solução natural",
+          "cta": "Comparativos + MGID",
+          "keywords": [
+            "dieta para colesterol alto",
+            "alimentos que reduzem colesterol",
+            "alimentos que aumentam colesterol",
+            "exercício reduz colesterol",
+            "aveia colesterol",
+            "peixe ômega 3 colesterol",
+            "azeite colesterol",
+            "fibra colesterol",
+            "colesterol natural vs medicamento",
+            "redutor colesterol natural",
+            "cogumelo colesterol",
+            "suco detox colesterol",
+            "chá colesterol",
+            "alho colesterol funciona"
+          ]
+        },
+
+        "fundo": {
+          "nome": "Transacional - DECISÃO",
+          "intencao": "Comprar solução",
+          "cta": "Mounjaxi Vitta CTA Direto",
+          "keywords": [
+            "estatina preço",
+            "remédio colesterol alto",
+            "suplemento colesterol comprar",
+            "redutor colesterol natural comprar",
+            "ômega 3 colesterol comprar",
+            "levedura vermelha colesterol",
+            "berberina colesterol",
+            "fitosterol colesterol",
+            "tratamento colesterol medicamento",
+            "dieta colesterol resultado dias",
+            "como baixar colesterol rápido",
+            "colesterol alto emergência",
+            "medicamento colesterol efeito colateral",
+            "alternativa estatina"
+          ]
+        }
+      }
+    }
+  },
+
+  "estrategia_implementacao": {
+    "article_robot_v2": {
+      "descricao": "Article Robot distribuirá artigos por funil estratégico",
+      "batch_diario": "3 artigos",
+      "distribuicao": {
+        "artigo_1": "TOPO de funil (Informacional)",
+        "artigo_2": "MEIO de funil (Comercial)",
+        "artigo_3": "FUNDO de funil (Transacional)"
+      },
+      "ciclo": "Cicla entre os 3 seeds (Emagrecimento, Menopausa, Colesterol) a cada 3 dias"
+    },
+
+    "cta_por_funil": {
+      "topo": {
+        "tipo": "Blog educativo",
+        "monetizacao": "Adsterra + Adsense",
+        "mounjaxi_cta": "Opcional (soft mention no fim)"
+      },
+      "meio": {
+        "tipo": "Comparativo / Review",
+        "monetizacao": "MGID (anúncios nativos)",
+        "mounjaxi_cta": "Recomendação integrada"
+      },
+      "fundo": {
+        "tipo": "Transacional / Conversão",
+        "monetizacao": "Afiliado Hotmart + Mounjaxi DIRETO",
+        "mounjaxi_cta": "CTA CLARO + Frete Grátis"
+      }
+    },
+
+    "timeline": {
+      "semana_1": "Gerar 21 artigos (3/dia × 7 dias) estratificados por funil",
+      "semana_2_3": "Publicar 21 artigos, começar ciclo Mounjaxi conversões",
+      "mes_1": "60 artigos publicados, tráfego 100-500 views/dia, 5-20 vendas Mounjaxi",
+      "mes_2_3": "180 artigos total, tráfego 500-2000 views/dia, 50-100 vendas Mounjaxi"
+    }
+  },
+
+  "metricas_sucesso": {
+    "cobertura": "180 keywords mapeados (100% demanda)",
+    "distribuicao": "60 TOPO + 60 MEIO + 60 FUNDO",
+    "resultado_esperado": {
+      "mes_1": "$100-600/mês (Mounjaxi + Publicidade)",
+      "mes_2_3": "$1000-3600/mês (quando escalar)",
+      "mes_6": "$2000-8000+/mês (domínio estabelecido)"
+    }
+  }
+}

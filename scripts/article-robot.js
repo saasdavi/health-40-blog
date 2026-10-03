@@ -22,6 +22,8 @@ dotenv.config();
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ARTICLES_FILE = path.join(__dirname, '../data/articles.json');
 const KEYWORDS_FILE = path.join(__dirname, '../data/keywords-phase1.json');
+const MATRIX_FILE = path.join(__dirname, '../data/keyword-matrix-funil.json');
+const STATE_FILE = path.join(__dirname, '../data/robot-state.json');
 
 // ============ CONFIGURAÇÃO ============
 const BATCH_SIZE = 3; // Artigos por execução
@@ -37,12 +39,16 @@ class ArticleRobot {
   constructor() {
     this.articles = this.loadArticles();
     this.keywords = this.loadKeywords();
+    this.matrix = this.loadMatrix();
     this.stats = {
       generated: 0,
       validated: 0,
       published: 0,
       failed: 0
     };
+    const state = this.loadState();
+    this.seedIndex = state.seedIndex || 0; // Para ciclar entre seeds
+    this.funilIndex = state.funilIndex || 0; // Para distribuir por funil
   }
 
   loadArticles() {
@@ -65,23 +71,94 @@ class ArticleRobot {
     }
   }
 
-  // ============ FASE 1: GERAR KEYWORDS EXPANDIDOS ============
+  loadMatrix() {
+    try {
+      return JSON.parse(fs.readFileSync(MATRIX_FILE, 'utf8'));
+    } catch (error) {
+      console.error('❌ Erro carregando Matriz:', error.message);
+      return { seeds: {} };
+    }
+  }
+
+  loadState() {
+    try {
+      return JSON.parse(fs.readFileSync(STATE_FILE, 'utf8'));
+    } catch {
+      return { seedIndex: 0, funilIndex: 0 };
+    }
+  }
+
+  saveState() {
+    const state = {
+      seedIndex: this.seedIndex,
+      funilIndex: this.funilIndex,
+      lastUpdate: new Date().toISOString()
+    };
+    fs.writeFileSync(STATE_FILE, JSON.stringify(state, null, 2));
+  }
+
+  getNextSeed() {
+    const seeds = Object.entries(this.matrix.seeds);
+    if (seeds.length === 0) return null;
+    const seed = seeds[this.seedIndex][1];
+    this.seedIndex = (this.seedIndex + 1) % seeds.length;
+    this.saveState(); // Persist state
+    return seed;
+  }
+
+  getKeywordByFunil(seed, funilType) {
+    const funil = seed.funil[funilType];
+    if (!funil || !funil.keywords) return null;
+    return funil.keywords[Math.floor(Math.random() * funil.keywords.length)];
+  }
+
+  getFunilType(index) {
+    const tipos = ['topo', 'meio', 'fundo'];
+    return tipos[index % 3];
+  }
+
+  getCTAByFunil(funilType) {
+    const ctas = {
+      topo: '📚 Leia o artigo completo para aprender mais',
+      meio: '🔍 Compare as melhores opções abaixo',
+      fundo: '💰 Clique aqui para obter Mounjaxi Vitta com Frete Grátis!'
+    };
+    return ctas[funilType];
+  }
+
+  // ============ FASE 1: GERAR KEYWORDS DA MATRIZ DE FUNIL ============
   async fase1_gerarKeywords() {
-    console.log('\n📊 FASE 1: Gerando keywords expandidos...');
+    console.log('\n📊 FASE 1: Selecionando keywords da Matriz de Funil...');
 
-    const topKeywords = this.keywords.keywords.slice(0, 3);
     const keywords = [];
+    const seed = this.getNextSeed();
 
-    for (const kw of topKeywords) {
-      try {
-        const expandido = await buscarPalavrasChaveExpandidas(kw.keyword);
-        keywords.push(...expandido.keywords);
-      } catch (error) {
-        console.error(`❌ Erro expandindo "${kw.keyword}":`, error.message);
+    if (!seed) {
+      console.log('⚠️  Nenhum seed encontrado na Matriz');
+      return keywords;
+    }
+
+    // Gera 3 keywords (um por funil: topo, meio, fundo)
+    for (let i = 0; i < 3; i++) {
+      const funilType = this.getFunilType(i);
+      const keyword = this.getKeywordByFunil(seed, funilType);
+
+      if (keyword) {
+        keywords.push({
+          keyword,
+          seed: seed.seed,
+          funil: funilType,
+          competenciaEstimada: seed.competencia,
+          volumeEstimado: seed.volume_mensal / 30, // Aproximado
+          cta_principal: seed.cta_principal,
+          tipo: seed.publico
+        });
+
+        console.log(`  ✅ [${funilType.toUpperCase()}] "${keyword}"`);
       }
     }
 
-    console.log(`✅ Gerados ${keywords.length} keywords expandidos`);
+    console.log(`✅ Selecionados ${keywords.length} keywords da Matriz`);
     return keywords;
   }
 
@@ -91,6 +168,10 @@ class ArticleRobot {
 
     const validados = keywords
       .filter(k => {
+        // Se vem da Matriz, aceita automaticamente
+        if (k.seed) return true;
+
+        // Se é legacy, valida volume/competência
         const competenciaOk = !['HIGH'].includes(k.competenciaEstimada);
         const volumeOk = k.volumeEstimado >= 1000;
         return competenciaOk && volumeOk;
@@ -102,18 +183,23 @@ class ArticleRobot {
     return validados;
   }
 
-  // ============ FASE 3: GERAR ARTIGOS COM CLAUDE ============
+  // ============ FASE 3: GERAR ARTIGOS COM CLAUDE (+ ESTRATÉGIA DE FUNIL) ============
   async fase3_gerarArtigos(keywords) {
-    console.log('\n📝 FASE 3: Gerando artigos com Claude...');
+    console.log('\n📝 FASE 3: Gerando artigos com Claude + Estratégia de Funil...');
 
     const artigos = [];
 
     for (const kw of keywords) {
       try {
+        const funilType = kw.funil || 'topo';
+        const cta = this.getCTAByFunil(funilType);
+
         // Simulando chamada Claude (em produção usa Anthropic API)
         const artigo = {
           id: this.generateId(),
           keyword: kw.keyword,
+          seed: kw.seed,
+          funil: funilType,
           title: this.generateTitle(kw.keyword),
           slug: this.generateSlug(kw.keyword),
           description: `Guia completo sobre ${kw.keyword} para mulheres 40+`,
@@ -129,15 +215,17 @@ class ArticleRobot {
           },
           createdAt: new Date().toISOString(),
           ctas: {
-            mounjaxi: true,
-            internal_links: 5
+            mounjaxi: funilType === 'fundo' ? 'DIRETO' : 'integrado',
+            cta_text: cta,
+            internal_links: 5,
+            monetizacao: funilType === 'topo' ? 'Adsterra' : funilType === 'meio' ? 'MGID' : 'Mounjaxi'
           }
         };
 
         artigos.push(artigo);
         this.stats.generated++;
 
-        console.log(`  ✅ "${artigo.title}" (Score: ${artigo.eeaat.score})`);
+        console.log(`  ✅ [${funilType.toUpperCase()}] "${artigo.title}" (Score: ${artigo.eeaat.score})`);
       } catch (error) {
         console.error(`  ❌ Erro gerando artigo:`, error.message);
         this.stats.failed++;
@@ -305,6 +393,15 @@ ${keyword} é possível com estratégia correta.
     console.log(`🌐 Publicados: ${this.stats.published}`);
     console.log(`❌ Falhados: ${this.stats.failed}`);
     console.log(`📈 Total artigos no blog: ${this.articles.articles.length}`);
+    console.log('\n🎯 DISTRIBUIÇÃO POR FUNIL:');
+
+    const topoCount = this.articles.articles.filter(a => a.funil === 'topo').length;
+    const meioCount = this.articles.articles.filter(a => a.funil === 'meio').length;
+    const fundoCount = this.articles.articles.filter(a => a.funil === 'fundo').length;
+
+    console.log(`   📚 TOPO (Info): ${topoCount} artigos`);
+    console.log(`   🔍 MEIO (Comercial): ${meioCount} artigos`);
+    console.log(`   💰 FUNDO (Transacional): ${fundoCount} artigos`);
     console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
   }
 }
