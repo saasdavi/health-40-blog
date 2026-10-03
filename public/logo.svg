@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120">
+    <defs>
+        <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+
+    <!-- Icon -->
+    <g transform="translate(25, 35)">
+        <circle cx="20" cy="20" r="18" fill="none" stroke="url(#grad)" stroke-width="2"/>
+        <path d="M 20 5 C 12 5, 8 10, 8 15 C 8 22, 20 35, 20 35 C 20 35, 32 22, 32 15 C 32 10, 28 5, 20 5 Z"
+              fill="url(#grad)" stroke="none"/>
+        <text x="20" y="42" font-family="Arial" font-size="12" font-weight="bold"
+              text-anchor="middle" fill="#667eea">40+</text>
+    </g>
+
+    <!-- Text -->
+    <text x="75" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#667eea">Saúde 40+</text>
+    <text x="75" y="65" font-family="Arial, sans-serif" font-size="12" fill="#999">Saúde e Bem-estar</text>
+</svg>
