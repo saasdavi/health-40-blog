@@ -36,6 +36,118 @@
       },
       "createdAt": "2026-10-03T00:00:00Z",
       "notes": ""
+    },
+    {
+      "id": "art_1791001322906",
+      "title": "colesterol depois dos 40",
+      "slug": "colesterol-depois-dos-40",
+      "description": "Guia completo sobre colesterol depois dos 40 para pessoas com 40+ anos",
+      "content": "# colesterol depois dos 40\n\nGuia completo sobre colesterol depois dos 40 para pessoas com 40+ anos\n\nEste artigo foi criado analisando o que funciona para este tema.\n\n\n## O que é e por que importa para você com 40+\n\n- Ponto 1\n- Ponto 2\n- Ponto 3\n\n\n## Por que isso funciona (ciência)\n\n- Ponto 1\n- Ponto 2\n- Ponto 3\n\n\n## Como fazer (passo-a-passo)\n\n- Ponto 1\n- Ponto 2\n- Ponto 3\n\n\n## Exemplos práticos para 40+\n\n- Ponto 1\n- Ponto 2\n- Ponto 3\n\n\n## Problemas comuns e soluções\n\n- Ponto 1\n- Ponto 2\n- Ponto 3\n\n\n## Perguntas frequentes\n\n- Ponto 1\n- Ponto 2\n- Ponto 3\n\n\n## Próximos passos\n\n- Ponto 1\n- Ponto 2\n- Ponto 3\n\n\n---\n\n**Keywords:** colesterol depois dos 40",
+      "status": "draft",
+      "wordCount": 2500,
+      "keywords": {
+        "primaryKeyword": "colesterol depois dos 40",
+        "secondaryKeywords": [],
+        "longTails": [],
+        "intent": "informational + how-to"
+      },
+      "createdAt": "2026-10-03T04:22:02.906Z"
+    },
+    {
+      "id": "art_demo_001",
+      "title": "Proteína para Mulheres Acima de 40: Quanto e Como Consumir",
+      "slug": "proteina-mulheres-40",
+      "description": "Guia completo sobre ingestão de proteína para mulheres depois dos 40 com dicas práticas",
+      "content": "# Proteína para Mulheres Acima de 40\n\n## O que é proteína e por que importa depois dos 40\n\nApós os 40 anos, a massa muscular naturalmente diminui. A proteína é essencial para manter a força e saúde.\n\n## Quanto de proteína você realmente precisa\n\n- 1,2 a 1,6g por quilo de peso corporal\n- Mulher de 70kg: 84-112g de proteína/dia\n- Distribuir ao longo do dia em 3-4 refeições\n\n## Melhores fontes de proteína para mulheres 40+\n\n### Proteína Animal\n- Frango (31g por 100g)\n- Ovo (6g por unidade)\n- Peixe (20-25g por 100g)\n- Iogurte grego (10g por 100g)\n\n### Proteína Vegetal\n- Feijão (8g por xícara)\n- Lentilha (18g por xícara)\n- Tofu (15g por 100g)\n\n## Receitas práticas com proteína\n\n### Café da manhã proteico\n- 2 ovos + 1 fatia pão integral\n- Iogurte grego 200ml + granola\n\n### Almoço\n- 150g peito de frango + arroz + feijão\n- Total: 40g proteína\n\n### Lanche\n- Castanha + fruta\n- Ou iogurte com nozes\n\n## Suplementação: é necessário?\n\nNem sempre. Alimentos reais primeiro. Suplemento só se:\n- Não conseguir atingir 1,2g/kg via alimentação\n- Treina musculação regularmente\n- Quer conveniência\n\n## Erros comuns ao consumir proteína\n\n❌ Consumir tudo em uma refeição\n❌ Esquecer hidratação\n❌ Abandonar carboidratos\n❌ Proteína demais sem exercício\n\n## Perguntas frequentes\n\n**P: Excesso de proteína prejudica rins?**\nR: Não em pessoas com rins saudáveis. Estudos comprovam segurança.\n\n**P: Qual o melhor horário para proteína?**\nR: Distribuir ao longo do dia é mais efetivo que concentrar.\n\n**P: Whey protein é essencial?**\nR: Não. Alimentos inteiros são melhor opção.\n\n## Plano de ação\n\n1. Calcule sua necessidade (1,2-1,6g/kg)\n2. Escolha suas principais fontes\n3. Organize refeições com proteína\n4. Mantenha consistência\n5. Revise a cada 4 semanas",
+      "keywords": {
+        "primaryKeyword": "proteína mulheres 40",
+        "secondaryKeywords": [
+          "proteína diária",
+          "muscle protein synthesis",
+          "recomendação proteica"
+        ],
+        "longTails": [
+          "quanto de proteína mulher 40",
+          "proteína melhor idade"
+        ],
+        "intent": "informational + how-to"
+      },
+      "wordCount": 850,
+      "status": "ready_for_publication",
+      "scores": {
+        "quality": 85,
+        "seo": 94,
+        "health": 94,
+        "overall": 91
+      },
+      "metrics": {
+        "readTime": 5,
+        "difficulty": "medium",
+        "keywordDensity": "2.0%"
+      },
+      "seo": {
+        "title": "Proteína para Mulheres Acima de 40: Quanto e Como Consumir | Health 40+",
+        "metaDescription": "Guia completo sobre ingestão de proteína para mulheres depois dos 40 com dicas práticas",
+        "keywords": [
+          "proteína mulheres 40",
+          "proteína diária",
+          "muscle protein synthesis",
+          "recomendação proteica",
+          "quanto de proteína mulher 40",
+          "proteína melhor idade"
+        ]
+      },
+      "featuredImage": "https://images.pexels.com/[pexel-image-1]",
+      "url": "https://health-40-blog.vercel.app/proteina-mulheres-40",
+      "createdAt": "2026-10-03T04:30:47.851Z"
+    },
+    {
+      "id": "art_demo_002",
+      "title": "Meditação para Ansiedade Depois dos 40: Técnicas Comprovadas",
+      "slug": "meditacao-ansiedade-40",
+      "description": "Técnicas de meditação simples e eficazes para reduzir ansiedade em mulheres e homens após os 40",
+      "content": "# Meditação para Ansiedade Depois dos 40\n\n## Por que ansiedade aumenta depois dos 40\n\nHormônios, stress do trabalho, responsabilidades familiares. Tudo junto cria ansiedade.\n\nMeditação é comprovada por centenas de estudos para reduzir ansiedade.\n\n## O que é meditação (e não é)\n\n✅ Treinar o foco mental\n✅ Observar pensamentos sem julgar\n✅ Acessível a qualquer pessoa\n\n❌ Esvaziar a mente\n❌ Religião (é secular)\n❌ Difícil ou mágico\n\n## Técnica 1: Respiração 4-7-8\n\nA mais simples e rápida:\n\n1. Inspire por 4 contagens\n2. Segure por 7 contagens\n3. Expire por 8 contagens\n4. Repita 4-5 vezes\n\nReduz ansiedade em segundos.\n\n## Técnica 2: Varredura Corporal\n\nToma 10 minutos:\n\n1. Deite ou sente confortável\n2. Comece pelos pés\n3. Note qualquer tensão\n4. Suba até a cabeça\n5. Respire relaxamento em cada parte\n\nÓtimo à noite para dormir.\n\n## Técnica 3: Meditação Mindfulness\n\nPara iniciantes:\n\n1. Sente quieto\n2. Observe sua respiração\n3. Pensamentos vão surgir\n4. Note e deixe passar\n5. Volte à respiração\n\nComece com 5 minutos.\n\n## Tempo recomendado\n\n- Iniciante: 5-10 min/dia\n- Intermediário: 15-20 min/dia\n- Avançado: 20-30+ min/dia\n\nConsistência bate quantidade. Melhor 5 min diários que 60 min uma vez por semana.\n\n## Melhor hora para meditar\n\n🌅 Manhã (antes do cafe): energia para o dia\n🌙 Noite (antes de dormir): relaxamento\n\n## Apps que recomendo\n\n- Headspace (em português)\n- Calm (meditações guiadas)\n- Insight Timer (gratuito)\n\n## Resultados esperados\n\n- 1ª semana: calma momentânea\n- 2-4 semanas: redução de ansiedade\n- 2-3 meses: mudança nos padrões\n\nCérebro precisa de tempo para treinar.\n\n## Combinando com outras práticas\n\nMeditação + exercício = máximo efeito\nMeditação + terapia = tratamento completo\n\n## Perguntas frequentes\n\n**P: Preciso acreditar em meditação para funcionar?**\nR: Não. Benefícios neurológicos funcionam independente de crença.\n\n**P: E se minha mente não parar?**\nR: Normal. Mente distraída é ponto de partida, não fracasso.\n\n**P: Quanto tempo até ver benefícios?**\nR: Alguns sentem em dias. Neuroplasticidade leva 2-3 meses.\n\n## Começar agora\n\n1. Escolha uma técnica acima\n2. Reserve 5 minutos\n3. Comece amanhã\n4. Mantenha por 21 dias\n5. Avalie o resultado",
+      "keywords": {
+        "primaryKeyword": "meditação ansiedade 40",
+        "secondaryKeywords": [
+          "mindfulness stress",
+          "técnicas meditação",
+          "ansiedade redução"
+        ],
+        "longTails": [
+          "como meditar para ansiedade",
+          "meditação mulher 40"
+        ],
+        "intent": "informational + how-to"
+      },
+      "wordCount": 680,
+      "status": "ready_for_publication",
+      "scores": {
+        "quality": 87,
+        "seo": 86,
+        "health": 94,
+        "overall": 89
+      },
+      "metrics": {
+        "readTime": 4,
+        "difficulty": "easy",
+        "keywordDensity": "2.3%"
+      },
+      "seo": {
+        "title": "Meditação para Ansiedade Depois dos 40: Técnicas Comprovadas | Health 40+",
+        "metaDescription": "Técnicas de meditação simples e eficazes para reduzir ansiedade em mulheres e homens após os 40",
+        "keywords": [
+          "meditação ansiedade 40",
+          "mindfulness stress",
+          "técnicas meditação",
+          "ansiedade redução",
+          "como meditar para ansiedade",
+          "meditação mulher 40"
+        ]
+      },
+      "featuredImage": "https://images.pexels.com/[pexel-image-2]",
+      "url": "https://health-40-blog.vercel.app/meditacao-ansiedade-40",
+      "createdAt": "2026-10-03T04:30:47.855Z"
     }
   ]
 }
