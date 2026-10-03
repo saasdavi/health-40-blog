@@ -143,13 +143,17 @@ Validate and respond as JSON:
  * Generate SEO metadata
  */
 function generateSEOMetadata(article) {
+  const primaryKeyword = article.keywords?.primaryKeyword || article.primaryKeyword || 'health 40+';
+  const secondaryKeywords = article.keywords?.secondaryKeywords || [];
+  const longTails = article.keywords?.longTails || [];
+
   return {
     title: article.title + ' | Health 40+',
     metaDescription: generateExcerpt(article.content),
     keywords: [
-      article.keywords.primaryKeyword,
-      ...article.keywords.secondaryKeywords,
-      ...article.keywords.longTails
+      primaryKeyword,
+      ...secondaryKeywords,
+      ...longTails
     ].slice(0, 10),
     canonical: `https://health-40-blog.vercel.app/${article.slug}`,
     ogTitle: article.title,
@@ -168,9 +172,10 @@ async function reviewArticle(article) {
   // Calculate metrics
   const readTime = calculateReadTime(article.wordCount);
   const difficulty = calculateDifficulty(article.content);
+  const primaryKeyword = article.keywords?.primaryKeyword || article.primaryKeyword || 'health 40+';
   const keywordAnalysis = analyzeKeywordDensity(
     article.content,
-    article.keywords.primaryKeyword
+    primaryKeyword
   );
 
   console.log(`   Read time: ${readTime} min`);
