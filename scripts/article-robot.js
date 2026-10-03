@@ -50,6 +50,12 @@ const PROIBIDAS = [
 const RESTOS_IA = [/como uma ia/i, /\[inserir/i, /lorem ipsum/i, /como modelo de linguagem/i];
 const CLAIMS = [/\bcura\b/i, /garantid[oa]/i, /milagr/i, /sem efeitos? colaterais?/i, /perca?\s+\d+\s*kg\s+em/i, /100%\s*(seguro|natural|eficaz)/i];
 
+const NOMES_FONTE = {
+  'tuasaude.com': 'Tua Saúde', 'rededorsaoluiz.com.br': "Rede D'Or", 'altadiagnosticos.com.br': 'Alta Diagnósticos',
+  'posenato.med.br': 'Posenato Diagnósticos', 'lusiadas.pt': 'Lusíadas Saúde', 'einstein.br': 'Hospital Israelita Albert Einstein',
+  'labvital.com.br': 'LabVital', 'continentalhospitals.com': 'Continental Hospitals', 'labsl.com.br': 'Laboratório São Lucas',
+  'saude.abril.com.br': 'Veja Saúde', 'pesquisa.bvsalud.org': 'BVS Saúde'
+};
 const palavras = (t) => t.split(/\s+/).filter(Boolean).length;
 const semHtml = (h) => h.replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ').trim();
 const slugify = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
@@ -94,7 +100,8 @@ class ArticleRobot {
         const title = (html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [, url])[1].replace(/\s+/g, ' ').trim().slice(0, 140);
         const texto = html.replace(/<(script|style|noscript|nav|header|footer|aside)[\s\S]*?<\/\1>/gi, ' ').replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim();
         if (texto.length < 1500) { console.log(`  ⚠️  fonte com pouco texto: ${url}`); continue; }
-        ok.push({ title, url, texto: texto.slice(0, 7000) });
+        const host = new URL(url).hostname.replace(/^www\./, '');
+        ok.push({ title, nome: NOMES_FONTE[host] || host, url, texto: texto.slice(0, 7000) });
         console.log(`  📄 fonte lida (${texto.length} chars): ${url}`);
       } catch (e) { console.log(`  ⚠️  fonte inacessível (${e.message}): ${url}`); }
     }
@@ -102,7 +109,7 @@ class ArticleRobot {
   }
 
   // ---------- 2. redator ----------
-  async claude(prompt, maxTokens = 8000) {
+  async claude(prompt, maxTokens = 16000) {
     const res = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
       headers: { 'content-type': 'application/json', 'x-api-key': process.env.ANTHROPIC_API_KEY, 'anthropic-version': '2023-06-01' },
@@ -110,11 +117,20 @@ class ArticleRobot {
     });
     if (!res.ok) throw new Error(`Anthropic API ${res.status}: ${(await res.text()).slice(0, 300)}`);
     const data = await res.json();
+    if (data.stop_reason === 'max_tokens') throw new Error('TRUNCADO');
     return data.content.filter(b => b.type === 'text').map(b => b.text).join('');
   }
 
-  promptRedator(p, links, devolucao, fontesLidas) {
-    const trechos = fontesLidas.map((f, i) => `[FONTE ${i + 1}] ${f.title}\nURL: ${f.url}\nTEXTO:\n${f.texto}`).join('\n\n---\n\n');
+  async escrever(prompt) {
+    let limite = 16000;
+    for (let t = 1; t <= 3; t++) {
+      try { return await this.claude(prompt, limite); }
+      catch (e) { if (e.message !== 'TRUNCADO' || t === 3) throw e; limite = Math.min(limite * 2, 48000); console.log(`  ↻ resposta truncada, repetindo com limite ${limite}`); }
+    }
+  }
+
+  promptRedator(p, links, devolucao, fontesLidas, anterior) {
+    const trechos = fontesLidas.map((f, i) => `[FONTE ${i + 1}] NOME PARA CITAR: ${f.nome}\nTítulo da página: ${f.title}\nURL: ${f.url}\nTEXTO:\n${f.texto}`).join('\n\n---\n\n');
     const lista = links.map(l => `/${l.slug}/ — ${l.title}`).join('\n') || '(nenhum)';
     return `Você é redator do blog Saúde 40+ (saúde após os 40, público principal mulheres). Escreva UM artigo em português do Brasil.
 
@@ -127,13 +143,13 @@ REGRAS (padrão Mente Curiosa):
 3. HTML sem <html>/<body>/<h1>. No mínimo 5 seções <h2> (um <h2> a cada ~300 palavras), <h3> opcional, <p>, <ul>/<li>. NUNCA use <h1>.
 4. Ordem sugerida: resposta direta → explicado de forma simples → o que muda depois dos 40 → o que a ciência sabe → o que fazer no dia a dia → mitos e verdades → perguntas frequentes → <h2>Resumindo</h2>. Inclua <h2>Quando procurar um médico</h2>.
 5. Parágrafos de no máximo 50 palavras; frases de até 22 palavras em média.
-6. NÃO escreva a seção de Fontes (o sistema anexa). Use SOMENTE fatos presentes nos TRECHOS DAS FONTES abaixo; reescreva com suas palavras (não copie frases). Se um fato não está nos trechos, não escreva. Se as fontes divergirem num número, omita o número. Pode citar a fonte pelo nome no texto (ex.: "segundo o Hospital Lusíadas").
+6. NÃO escreva a seção de Fontes (o sistema anexa). Use SOMENTE fatos presentes nos TRECHOS DAS FONTES abaixo; reescreva com suas palavras (não copie frases). Se um fato não está nos trechos, não escreva. Se as fontes divergirem num número, omita o número. Ao citar uma fonte no texto, use EXATAMENTE o "NOME PARA CITAR" dela e só atribua o que o trecho dessa fonte realmente diz. Não escreva comparações, imagens ou exemplos de cotidiano que não estejam nos trechos.
 7. Pelo menos 2 links internos no corpo no formato <a href="/slug/">texto natural</a>, escolhendo SÓ desta lista (se a lista tiver menos de 2, use o que houver):
 ${lista}
 8. NUNCA invente números, estudos, nomes, depoimentos, antes/depois ou resultados. Na dúvida, corte. Sem promessa de cura, emagrecimento garantido ou "sem efeitos colaterais". Sem diagnóstico, sem dose de medicamento ou suplemento.
 9. Tom humano: "você", exemplos do dia a dia. PROIBIDO: ${PROIBIDAS.map(x => `"${x}"`).join(', ')}.
 10. Não mencione marcas de suplemento nem venda produtos.
-${devolucao ? `\nO VALIDADOR/AUDITORIA DEVOLVEU A VERSÃO ANTERIOR. Corrija estes pontos:\n- ${devolucao.join('\n- ')}\n` : ''}
+${devolucao ? `\nA VERSÃO ANTERIOR FOI DEVOLVIDA. Reescreva o artigo COMPLETO corrigindo SOMENTE estes pontos, sem encurtar (mantenha 1.300+ palavras e todas as seções, incluindo "Quando procurar um médico" e "Resumindo"). Remova ou reformule qualquer frase apontada como sem apoio nas fontes:\n- ${devolucao.join('\n- ')}\n\nVERSÃO ANTERIOR (HTML) PARA VOCÊ CORRIGIR:\n${anterior || ''}\n` : ''}
 TRECHOS DAS FONTES (única base factual permitida):
 ${trechos}
 
@@ -183,6 +199,7 @@ FOTO2_SECAO: <número do <h2>, diferente do da foto 1>
       wordCount: words,
       readingTime: Math.max(1, Math.round(words / 200)),
       sources: fontesLidas.map(f => ({ title: f.title, url: f.url })),
+      bodyOriginal: d.body,
       imagePlan: { capa: { busca: d.capaBusca, alt: d.capaAlt }, fotos: d.fotos },
       volume: p.volume,
       status: 'generated',
@@ -241,7 +258,7 @@ FOTO2_SECAO: <número do <h2>, diferente do da foto 1>
 
 Checklist: V1 fatos batem com as fontes citadas (qualquer número, estudo, nome ou estatística sem apoio reprova) · V2 fontes são pertinentes ao assunto · V3 o 1º parágrafo responde a pergunta · V4 cada seção ensina algo (sem enchimento) · V5 tom humano, sem frases de IA · V6 é seguro (sem diagnóstico, dose, promessa de cura/emagrecimento, nem orientação perigosa) · V7 nada de marca ou venda.
 
-TRECHOS DAS FONTES (única base factual permitida; V1 reprova qualquer fato, número ou afirmação específica que não esteja aqui):\n${fontesLidas.map((f, i) => `[FONTE ${i + 1}] ${f.title}\n${f.texto}`).join('\n\n---\n\n')}\n\nFontes citadas: ${a.sources.map(s => s.title).join('; ')}
+TRECHOS DAS FONTES (única base factual permitida; V1 reprova qualquer fato, número ou afirmação específica que não esteja aqui):\n${fontesLidas.map((f, i) => `[FONTE ${i + 1}] ${f.nome} (${f.url})\n${f.texto}`).join('\n\n---\n\n')}\n\nFontes citadas: ${a.sources.map(s => s.title).join('; ')}
 Palavra-chave: ${a.primaryKeyword}
 
 TÍTULO: ${a.title}
@@ -250,7 +267,8 @@ ${a.content}
 
 Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cercas de código), no formato: {"decisao":"APROVADO"|"DEVOLVER","motivos":["V1: ...","V4: ..."]}`;
     for (let tentativa = 1; tentativa <= 3; tentativa++) {
-      const raw = await this.claude(prompt, 4000);
+      let raw;
+      try { raw = await this.claude(prompt, 12000); } catch (e) { if (e.message === 'TRUNCADO') { console.log('  ↻ validador truncado'); continue; } throw e; }
       const m = raw.match(/\{[\s\S]*"decisao"[\s\S]*\}/);
       if (m) { try { const j = JSON.parse(m[0]); if (j.decisao) return j; } catch { /* tenta de novo */ } }
       console.log(`  ↻ validador fora do formato (tentativa ${tentativa}): ${raw.slice(0, 200).replace(/\n/g, ' ')}`);
@@ -263,7 +281,7 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
     const fontesLidas = await this.buscarFontes(p);
     if (fontesLidas.length < 2) throw new Error(`só ${fontesLidas.length} fonte(s) legível(is); mínimo 2, artigo não gerado`);
     for (let volta = 1; volta <= MAX_VOLTAS; volta++) {
-      art = this.montar(p, this.parse(await this.claude(this.promptRedator(p, this.linksInternos(), devolucao, fontesLidas))), fontesLidas);
+      art = this.montar(p, this.parse(await this.escrever(this.promptRedator(p, this.linksInternos(), devolucao, fontesLidas, art?.bodyOriginal))), fontesLidas);
       this.stats.generated++;
       const aud = this.auditar(art);
       console.log(`  volta ${volta}: ${art.wordCount} palavras | auditoria ${aud.nota}/100${aud.bloqueios.length ? ' | BLOQUEIOS: ' + aud.bloqueios.join('; ') : ''}`);
@@ -271,10 +289,11 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
       if (aud.bloqueios.length || aud.nota < MIN_SCORE) { devolucao = [...aud.bloqueios, ...aud.alertas]; ultimo = { art, motivos: devolucao }; continue; }
       const v = await this.validar(art, fontesLidas);
       console.log(`  validador: ${v.decisao}${v.motivos?.length ? ' — ' + v.motivos.join(' | ') : ''}`);
-      if (v.decisao === 'APROVADO') { art.scores = { auditoria: aud.nota }; art.validador = 'APROVADO'; return art; }
+      if (v.decisao === 'APROVADO') { art.scores = { auditoria: aud.nota }; art.validador = 'APROVADO'; delete art.bodyOriginal; return art; }
       devolucao = v.motivos || ['validador devolveu'];
       ultimo = { art, motivos: devolucao };
     }
+    delete ultimo.art.bodyOriginal;
     ultimo.art.status = 'draft';
     ultimo.art.issues = ultimo.motivos;
     this.reprovado = ultimo.art;

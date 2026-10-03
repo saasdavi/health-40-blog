@@ -1,58 +1,20 @@
 ---
-layout: '../layouts/Layout.astro'
-title: 'Contato - Saúde após os 40'
-description: 'Entre em contato conosco'
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../config/site';
 ---
 
-<main class="max-w-4xl mx-auto px-4 py-16">
-  <h1 class="text-4xl font-bold mb-8">Entre em Contato</h1>
+<PageLayout title="Contato" description="Fale com o Saúde 40+: correções, sugestões de temas e assuntos comerciais." path="/contato/">
 
-  <div class="grid md:grid-cols-2 gap-8">
-    <div class="prose">
-      <h2>Fale Conosco</h2>
-      <p>
-        Tem sugestões de tópicos? Encontrou um erro? Quer colaborar?
-      </p>
-      <p>
-        Envie um email para:
-      </p>
-      <p class="text-lg font-bold">
-        <a href="mailto:contato@health40plus.com">contato@health40plus.com</a>
-      </p>
+<p>Escreva para <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>.</p>
 
-      <h3>Dúvidas Frequentes</h3>
-      <p>
-        <strong>P: Como sugiro um tema?</strong><br>
-        R: Envie um email com seu tópico sugerido.
-      </p>
-      <p>
-        <strong>P: Posso reproduzir os artigos?</strong><br>
-        R: Veja nossa Política de Privacidade e Termos de Uso.
-      </p>
-      <p>
-        <strong>P: Vocês aceitam publicidade?</strong><br>
-        R: Entre em contato para parcerias.
-      </p>
-    </div>
+<h2>Sobre o que podemos conversar</h2>
+<ul>
+  <li><strong>Correções:</strong> viu algo errado ou desatualizado num artigo? Informe o endereço da página e o trecho. Corrigimos e registramos a data da alteração.</li>
+  <li><strong>Sugestões de temas:</strong> diga qual dúvida de saúde você gostaria de ver explicada.</li>
+  <li><strong>Assuntos comerciais e privacidade:</strong> parcerias, remoção de dados pessoais (veja a <a href="/politica-privacidade/">política de privacidade</a>).</li>
+</ul>
 
-    <div class="bg-gray-100 p-8 rounded-lg h-fit">
-      <h3 class="font-bold text-lg mb-4">Informações de Contato</h3>
-      <p class="mb-4">
-        📧 <strong>Email:</strong><br>
-        contato@health40plus.com
-      </p>
-      <p class="mb-4">
-        🕐 <strong>Resposta:</strong><br>
-        Em até 48 horas
-      </p>
-      <p>
-        📍 <strong>Sobre:</strong><br>
-        Saúde e bem-estar para quem tem 40+
-      </p>
-    </div>
-  </div>
+<h2>Atenção</h2>
+<p>Não respondemos a dúvidas médicas pessoais nem analisamos exames. Para isso, procure um profissional de saúde. Em caso de urgência, ligue 192 (SAMU) ou vá a um pronto atendimento.</p>
 
-  <a href="/" class="inline-block mt-8 px-6 py-3 bg-blue-600 text-white rounded hover:bg-blue-700">
-    ← Voltar ao Blog
-  </a>
-</main>
+</PageLayout>

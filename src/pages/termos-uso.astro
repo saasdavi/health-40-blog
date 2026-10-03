@@ -1,18 +1,12 @@
 ---
-layout: '../layouts/Layout.astro'
-title: 'Termos de Uso - Saúde após os 40'
-description: 'Termos de Uso do Health 40+ Blog'
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../config/site';
 ---
 
-<main class="max-w-4xl mx-auto px-4 py-16">
-  <h1 class="text-4xl font-bold mb-8">Termos de Uso</h1>
-
-  <div class="prose prose-lg max-w-none">
-    <p class="text-sm text-gray-600">Última atualização: 3 de outubro de 2026</p>
-
-    <h2>1. Aceitação dos Termos</h2>
+<PageLayout title="Termos de Uso" description="Regras de uso do conteúdo e do site Saúde 40+." path="/termos-uso/" updated="3 de outubro de 2026">
+<h2>1. Aceitação dos Termos</h2>
     <p>
-      Ao acessar e usar o Health 40+ Blog, você concorda em estar vinculado a estes Termos de Uso.
+      Ao acessar e usar o Saúde 40+, você concorda em estar vinculado a estes Termos de Uso.
       Se não concordar, não use o site.
     </p>
 
@@ -60,7 +54,7 @@ description: 'Termos de Uso do Health 40+ Blog'
 
     <h2>6. Limitação de Responsabilidade</h2>
     <p>
-      O Health 40+ Blog não se responsabiliza por:
+      O Saúde 40+ não se responsabiliza por:
     </p>
     <ul>
       <li>Danos resultantes do uso do site</li>
@@ -76,7 +70,7 @@ description: 'Termos de Uso do Health 40+ Blog'
 
     <h2>8. Propriedade Intelectual</h2>
     <p>
-      Todo conteúdo do Health 40+ Blog é protegido por direitos autorais © 2026.
+      Todo conteúdo do Saúde 40+ é protegido por direitos autorais © 2026.
       Todos os direitos reservados.
     </p>
 
@@ -89,16 +83,11 @@ description: 'Termos de Uso do Health 40+ Blog'
     <h2>10. Contato</h2>
     <p>
       Dúvidas sobre estes termos? Entre em contato em
-      <a href="mailto:contato@health40plus.com">contato@health40plus.com</a>
+      <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>
     </p>
 
     <h2>11. Lei Aplicável</h2>
     <p>
       Estes termos são regidos pelas leis do Brasil.
     </p>
-  </div>
-
-  <a href="/" class="inline-block mt-8 px-6 py-3 bg-blue-600 text-white rounded hover:bg-blue-700">
-    ← Voltar ao Blog
-  </a>
-</main>
+</PageLayout>
