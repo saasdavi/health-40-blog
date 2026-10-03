@@ -1,0 +1,274 @@
+{
+  "fonte": "Google Ads Keyword Planner via HYPD (research_get_search_volume), Brasil/Português, média mensal 12 meses até ago/2026 | Concorrência SEO: SERP real do Google (Brasil, mobile) em 03/10/2026 via HYPD serp_results",
+  "validadoEm": "2026-10-03",
+  "regras": "Uma intenção por URL (como no Mente Curiosa). Variações viram seções H2. 'competition' é concorrência de ANÚNCIOS, não dificuldade de SEO. Termos sem volume medido foram descartados. | O robô só publica palavras com serp.facil === true. | 'fontes' = páginas reais que apareceram no Google para a palavra; o robô lê o texto delas e escreve só com base nele.",
+  "keywords": [
+    {
+      "keyword": "o que é gordura visceral",
+      "volume": 8100,
+      "competition": "LOW",
+      "cluster": "emagrecimento",
+      "absorve": [
+        "Qual a diferença entre gordura visceral e gordura abdominal?",
+        "O que é gordura subcutânea?",
+        "Quais alimentos aumentam a gordura visceral?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MUITO FÁCIL",
+        "topoDoGoogle": "GNDI (2017), YouTube x3, caddrzardo.com.br (http, antigo), longevidadesaudavel, BVS, adoroeletronicos.com.br (loja de eletrônicos)",
+        "aiOverview": true,
+        "tendencia": null
+      },
+      "fontes": [
+        "https://www.lusiadas.pt/blog/doencas/sintomas-tratamentos/gordura-visceral-que-que-perigos-tem",
+        "https://www.tuasaude.com/como-eliminar-a-gordura-visceral/",
+        "https://altadiagnosticos.com.br/saude/gordura-visceral/",
+        "https://pesquisa.bvsalud.org/portal/resource/pt/lil-393738"
+      ]
+    },
+    {
+      "keyword": "triglicerídeos altos sintomas",
+      "volume": 14800,
+      "competition": "LOW",
+      "cluster": "colesterol",
+      "absorve": [
+        "Qual nível de triglicerídeos é perigoso?",
+        "Triglicerídeos alto causa tontura?",
+        "Triglicerídeos alto sintomas na pele",
+        "Triglicerídeos 300 é alto?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "tuasaude, Rede D'Or (fortes); clinicanutrobarra, dreduardoendocrino, altadiagnosticos, oceandrop (loja), telemedicinamorsch, s2medica (fracos)",
+        "aiOverview": true,
+        "tendencia": null
+      },
+      "fontes": [
+        "https://www.tuasaude.com/sintomas-de-triglicerideos-altos/",
+        "https://www.rededorsaoluiz.com.br/noticias/artigo/triglicerideos-altos-causas-sintomas-e-tratamento",
+        "https://altadiagnosticos.com.br/saude/triglicerideos/",
+        "https://posenato.med.br/blog/triglicerides-alto/"
+      ]
+    },
+    {
+      "keyword": "o que é resistência à insulina",
+      "volume": 6600,
+      "competition": "LOW",
+      "cluster": "emagrecimento",
+      "absorve": [
+        "Quais são os sintomas da resistência à insulina?",
+        "Qual a diferença entre resistência à insulina e diabetes?",
+        "O que quem tem resistência à insulina não pode comer?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "labvital (glossário), continentalhospitals, labsl (glossário), YouTube, Instagram, scienceplay",
+        "aiOverview": true,
+        "tendencia": null
+      },
+      "fontes": [
+        "https://labvital.com.br/glossario/resistencia-a-insulina-e-sindrome-metabolica/",
+        "https://continentalhospitals.com/pt/blog/insulin-resistance-the-root-cause-of-many-diseases/",
+        "https://www.labsl.com.br/glossario/resistencia-a-insulina-como-diagnosticar/"
+      ]
+    },
+    {
+      "keyword": "o que é perimenopausa",
+      "volume": 8100,
+      "competition": "LOW",
+      "cluster": "menopausa",
+      "absorve": [
+        "Quais são os primeiros sinais da perimenopausa?",
+        "Qual a diferença entre pré-menopausa e perimenopausa?",
+        "Qual é a idade da perimenopausa?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIA-FÁCIL",
+        "topoDoGoogle": "Instagram, olhardigital, ricardobanana.com.br, tatlerasia, vanderleacoelho, folha, suprevida",
+        "aiOverview": true,
+        "tendencia": "subindo (3,6k em set/2025 para 14,8k em ago/2026)"
+      },
+      "fontes": [
+        "https://www.einstein.br/n/vida-saudavel/climaterio-perimenopausa-ou-menopausa-afinal-em-que-fase-estou",
+        "https://altadiagnosticos.com.br/saude/perimenopausa/",
+        "https://saude.abril.com.br/medicina/perimenopausa-o-que-e-quanto-tempo-dura-e-o-que-fazer/"
+      ]
+    },
+    {
+      "keyword": "como baixar triglicerídeos",
+      "volume": 8100,
+      "competition": "LOW",
+      "cluster": "colesterol",
+      "absorve": [],
+      "serp": {
+        "facil": false,
+        "nivel": "DIFÍCIL",
+        "topoDoGoogle": "tuasaude, altadiagnosticos, chniteroi, unimed, drconsulta, apollo, drauziovarella, posenato",
+        "aiOverview": true
+      }
+    },
+    {
+      "keyword": "sarcopenia",
+      "volume": 135000,
+      "competition": "LOW",
+      "cluster": "musculo-e-forca",
+      "absorve": [
+        "perda de massa muscular depois dos 40"
+      ],
+      "serp": {
+        "facil": null,
+        "nivel": "NÃO CHECADO"
+      }
+    },
+    {
+      "keyword": "colesterol alto sintomas",
+      "volume": 27100,
+      "competition": "LOW",
+      "cluster": "colesterol",
+      "absorve": [
+        "colesterol alto causas"
+      ],
+      "serp": {
+        "facil": null,
+        "nivel": "NÃO CHECADO"
+      }
+    },
+    {
+      "keyword": "o que é menopausa",
+      "volume": 14800,
+      "competition": "LOW",
+      "cluster": "menopausa",
+      "absorve": [
+        "idade menopausa começa"
+      ],
+      "serp": {
+        "facil": null,
+        "nivel": "NÃO CHECADO"
+      }
+    },
+    {
+      "keyword": "como baixar colesterol",
+      "volume": 14800,
+      "competition": "LOW",
+      "cluster": "colesterol",
+      "absorve": [
+        "alimentos que reduzem colesterol",
+        "aveia colesterol"
+      ],
+      "serp": {
+        "facil": null,
+        "nivel": "NÃO CHECADO"
+      }
+    },
+    {
+      "keyword": "menopausa precoce",
+      "volume": 12100,
+      "competition": "LOW",
+      "cluster": "menopausa",
+      "absorve": [],
+      "serp": {
+        "facil": null,
+        "nivel": "NÃO CHECADO"
+      }
+    },
+    {
+      "keyword": "caminhada emagrece",
+      "volume": 12100,
+      "competition": "LOW",
+      "cluster": "emagrecimento",
+      "absorve": [
+        "melhor exercício para emagrecer"
+      ],
+      "serp": {
+        "facil": null,
+        "nivel": "NÃO CHECADO"
+      }
+    },
+    {
+      "keyword": "o que é colesterol",
+      "volume": 12100,
+      "competition": "LOW",
+      "cluster": "colesterol",
+      "absorve": [
+        "colesterol bom e ruim",
+        "hdl ldl diferença",
+        "valor normal colesterol"
+      ],
+      "serp": {
+        "facil": null,
+        "nivel": "NÃO CHECADO"
+      }
+    },
+    {
+      "keyword": "chá para colesterol",
+      "volume": 4400,
+      "competition": "LOW",
+      "cluster": "colesterol",
+      "absorve": [],
+      "serp": {
+        "facil": null,
+        "nivel": "NÃO CHECADO"
+      }
+    },
+    {
+      "keyword": "dieta para colesterol alto",
+      "volume": 3600,
+      "competition": "LOW",
+      "cluster": "colesterol",
+      "absorve": [],
+      "serp": {
+        "facil": null,
+        "nivel": "NÃO CHECADO"
+      }
+    },
+    {
+      "keyword": "resistência à insulina",
+      "volume": 2900,
+      "competition": "LOW",
+      "cluster": "emagrecimento",
+      "absorve": [],
+      "serp": {
+        "facil": null,
+        "nivel": "NÃO CHECADO"
+      }
+    },
+    {
+      "keyword": "triglicerídeos altos",
+      "volume": 2900,
+      "competition": "LOW",
+      "cluster": "colesterol",
+      "absorve": [],
+      "serp": {
+        "facil": null,
+        "nivel": "NÃO CHECADO"
+      }
+    },
+    {
+      "keyword": "alimentos para menopausa",
+      "volume": 1000,
+      "competition": "MEDIUM",
+      "cluster": "menopausa",
+      "absorve": [],
+      "serp": {
+        "facil": null,
+        "nivel": "NÃO CHECADO"
+      }
+    },
+    {
+      "keyword": "fogacho menopausa",
+      "volume": 1000,
+      "competition": "MEDIUM",
+      "cluster": "menopausa",
+      "absorve": [],
+      "serp": {
+        "facil": null,
+        "nivel": "NÃO CHECADO"
+      }
+    }
+  ],
+  "descartadas": "Mounjaxi/suplemento/termogênico (volume < 400 ou sem medição), '... 40+' de cauda longa sem volume, 'como emagrecer depois dos 40' (260/mês, concorrência HIGH)."
+}

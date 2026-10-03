@@ -42,6 +42,9 @@ jobs:
           echo "🔥 Iniciando Article Robot (Google Ads API + E-E-A-T Validation)..."
           node scripts/article-robot.js
 
+      - name: 🏗️ Build do site (falha aqui se algo quebrar)
+        run: npm run build
+
       - name: 🔧 Setup Git
         run: |
           git config user.name "Health 40+ Bot"

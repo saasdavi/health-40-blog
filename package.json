@@ -9,7 +9,8 @@
     "preview": "astro preview",
     "discovery": "node scripts/discovery.js",
     "validation": "node scripts/validation.js",
-    "production": "node scripts/production.js"
+    "production": "node scripts/production.js",
+    "prebuild": "node scripts/generate-sitemap.js"
   },
   "dependencies": {
     "astro": "^4.5.0",
