@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-03T00:00:00Z",
+  "lastUpdated": "2026-10-03T03:57:36.830Z",
   "metadata": {
-    "totalOpportunities": 0,
+    "totalOpportunities": 11,
     "statusBreakdown": {
-      "approved": 0,
+      "approved": 10,
       "pending": 0,
       "rejected": 0
     }
@@ -44,6 +44,266 @@
       "createdAt": "2026-10-03T00:00:00Z",
       "lastUpdated": "2026-10-03T00:00:00Z",
       "notes": ""
+    },
+    {
+      "id": "opp_1790999856827",
+      "keyword": "colesterol depois dos 40",
+      "status": "approved",
+      "intent": "informational",
+      "cluster": null,
+      "primaryKeyword": "colesterol depois dos 40",
+      "secondaryKeywords": [],
+      "demandValidation": {
+        "source": "google_keyword_planner",
+        "validated": false,
+        "volume": null,
+        "competition": null,
+        "trend": null
+      },
+      "seo_potential": {
+        "keyword_main": true,
+        "semantic_coverage": true,
+        "score": 0.7
+      },
+      "confidence": 0.8,
+      "decisionReason": "Validated with Google Keyword Planner",
+      "nextStep": "serp_research",
+      "createdAt": "2026-10-03T03:57:36.827Z",
+      "notes": "From colesterol > undefined"
+    },
+    {
+      "id": "opp_1790999856827",
+      "keyword": "saúde após os 40 para saúde",
+      "status": "approved",
+      "intent": "informational",
+      "cluster": null,
+      "primaryKeyword": "saúde após os 40 para saúde",
+      "secondaryKeywords": [],
+      "demandValidation": {
+        "source": "google_keyword_planner",
+        "validated": false,
+        "volume": null,
+        "competition": null,
+        "trend": null
+      },
+      "seo_potential": {
+        "keyword_main": true,
+        "semantic_coverage": true,
+        "score": 0.7
+      },
+      "confidence": 0.8,
+      "decisionReason": "Validated with Google Keyword Planner",
+      "nextStep": "serp_research",
+      "createdAt": "2026-10-03T03:57:36.827Z",
+      "notes": "From saúde após os 40 > undefined"
+    },
+    {
+      "id": "opp_1790999856827",
+      "keyword": "saúde após os 40 dicas",
+      "status": "approved",
+      "intent": "informational",
+      "cluster": null,
+      "primaryKeyword": "saúde após os 40 dicas",
+      "secondaryKeywords": [],
+      "demandValidation": {
+        "source": "google_keyword_planner",
+        "validated": false,
+        "volume": null,
+        "competition": null,
+        "trend": null
+      },
+      "seo_potential": {
+        "keyword_main": true,
+        "semantic_coverage": true,
+        "score": 0.7
+      },
+      "confidence": 0.8,
+      "decisionReason": "Validated with Google Keyword Planner",
+      "nextStep": "serp_research",
+      "createdAt": "2026-10-03T03:57:36.827Z",
+      "notes": "From saúde após os 40 > undefined"
+    },
+    {
+      "id": "opp_1790999856828",
+      "keyword": "saúde após os 40 guia completo",
+      "status": "approved",
+      "intent": "informational",
+      "cluster": null,
+      "primaryKeyword": "saúde após os 40 guia completo",
+      "secondaryKeywords": [],
+      "demandValidation": {
+        "source": "google_keyword_planner",
+        "validated": false,
+        "volume": null,
+        "competition": null,
+        "trend": null
+      },
+      "seo_potential": {
+        "keyword_main": true,
+        "semantic_coverage": true,
+        "score": 0.7
+      },
+      "confidence": 0.8,
+      "decisionReason": "Validated with Google Keyword Planner",
+      "nextStep": "serp_research",
+      "createdAt": "2026-10-03T03:57:36.828Z",
+      "notes": "From saúde após os 40 > undefined"
+    },
+    {
+      "id": "opp_1790999856828",
+      "keyword": "saúde após os 40 benefícios",
+      "status": "approved",
+      "intent": "informational",
+      "cluster": null,
+      "primaryKeyword": "saúde após os 40 benefícios",
+      "secondaryKeywords": [],
+      "demandValidation": {
+        "source": "google_keyword_planner",
+        "validated": false,
+        "volume": null,
+        "competition": null,
+        "trend": null
+      },
+      "seo_potential": {
+        "keyword_main": true,
+        "semantic_coverage": true,
+        "score": 0.7
+      },
+      "confidence": 0.8,
+      "decisionReason": "Validated with Google Keyword Planner",
+      "nextStep": "serp_research",
+      "createdAt": "2026-10-03T03:57:36.828Z",
+      "notes": "From saúde após os 40 > undefined"
+    },
+    {
+      "id": "opp_1790999856828",
+      "keyword": "como fazer saúde após os 40",
+      "status": "approved",
+      "intent": "informational",
+      "cluster": null,
+      "primaryKeyword": "como fazer saúde após os 40",
+      "secondaryKeywords": [],
+      "demandValidation": {
+        "source": "google_keyword_planner",
+        "validated": false,
+        "volume": null,
+        "competition": null,
+        "trend": null
+      },
+      "seo_potential": {
+        "keyword_main": true,
+        "semantic_coverage": true,
+        "score": 0.7
+      },
+      "confidence": 0.8,
+      "decisionReason": "Validated with Google Keyword Planner",
+      "nextStep": "serp_research",
+      "createdAt": "2026-10-03T03:57:36.828Z",
+      "notes": "From saúde após os 40 > undefined"
+    },
+    {
+      "id": "opp_1790999856829",
+      "keyword": "proteína 40+",
+      "status": "approved",
+      "intent": "informational",
+      "cluster": null,
+      "primaryKeyword": "proteína 40+",
+      "secondaryKeywords": [],
+      "demandValidation": {
+        "source": "google_keyword_planner",
+        "validated": false,
+        "volume": null,
+        "competition": null,
+        "trend": null
+      },
+      "seo_potential": {
+        "keyword_main": true,
+        "semantic_coverage": true,
+        "score": 0.7
+      },
+      "confidence": 0.8,
+      "decisionReason": "Validated with Google Keyword Planner",
+      "nextStep": "serp_research",
+      "createdAt": "2026-10-03T03:57:36.829Z",
+      "notes": "From Alimentação > Proteína"
+    },
+    {
+      "id": "opp_1790999856829",
+      "keyword": "whey protein depois dos 40",
+      "status": "approved",
+      "intent": "informational",
+      "cluster": null,
+      "primaryKeyword": "whey protein depois dos 40",
+      "secondaryKeywords": [],
+      "demandValidation": {
+        "source": "google_keyword_planner",
+        "validated": false,
+        "volume": null,
+        "competition": null,
+        "trend": null
+      },
+      "seo_potential": {
+        "keyword_main": true,
+        "semantic_coverage": true,
+        "score": 0.7
+      },
+      "confidence": 0.8,
+      "decisionReason": "Validated with Google Keyword Planner",
+      "nextStep": "serp_research",
+      "createdAt": "2026-10-03T03:57:36.829Z",
+      "notes": "From Alimentação > Proteína"
+    },
+    {
+      "id": "opp_1790999856829",
+      "keyword": "proteína vegetal 40+",
+      "status": "approved",
+      "intent": "informational",
+      "cluster": null,
+      "primaryKeyword": "proteína vegetal 40+",
+      "secondaryKeywords": [],
+      "demandValidation": {
+        "source": "google_keyword_planner",
+        "validated": false,
+        "volume": null,
+        "competition": null,
+        "trend": null
+      },
+      "seo_potential": {
+        "keyword_main": true,
+        "semantic_coverage": true,
+        "score": 0.7
+      },
+      "confidence": 0.8,
+      "decisionReason": "Validated with Google Keyword Planner",
+      "nextStep": "serp_research",
+      "createdAt": "2026-10-03T03:57:36.829Z",
+      "notes": "From Alimentação > Proteína"
+    },
+    {
+      "id": "opp_1790999856830",
+      "keyword": "quanto proteína por dia 40+",
+      "status": "approved",
+      "intent": "informational",
+      "cluster": null,
+      "primaryKeyword": "quanto proteína por dia 40+",
+      "secondaryKeywords": [],
+      "demandValidation": {
+        "source": "google_keyword_planner",
+        "validated": false,
+        "volume": null,
+        "competition": null,
+        "trend": null
+      },
+      "seo_potential": {
+        "keyword_main": true,
+        "semantic_coverage": true,
+        "score": 0.7
+      },
+      "confidence": 0.8,
+      "decisionReason": "Validated with Google Keyword Planner",
+      "nextStep": "serp_research",
+      "createdAt": "2026-10-03T03:57:36.830Z",
+      "notes": "From Alimentação > Proteína"
     }
   ]
 }
