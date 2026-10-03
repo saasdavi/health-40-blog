@@ -1,0 +1,22 @@
+{
+  "type": "svg_with_gradient",
+  "dimensions": "1920x600",
+  "colors": [
+    "#667eea",
+    "#764ba2"
+  ],
+  "elements": [
+    "gradient_background",
+    "decorative_shapes",
+    "main_title",
+    "subtitle",
+    "cta_text"
+  ],
+  "pexel_backup": null,
+  "created_at": "2026-10-03T14:49:26.729Z",
+  "responsive": true,
+  "accessibility": {
+    "alt_text": "Health 40+ Blog - Conteúdo original sobre saúde para pessoas acima de 40 anos",
+    "title": "Saúde Após os 40 - Blog de Saúde Premium"
+  }
+}
