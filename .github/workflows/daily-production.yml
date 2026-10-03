@@ -54,12 +54,11 @@ jobs:
           git config user.email "bot@health40plus.com"
 
       - name: 📤 Commit & Push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             git add .
             git commit -m "🤖 Auto: Daily article production"
+            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
             git push origin main
             echo "✅ Artigos publicados!"
           else
