@@ -151,37 +151,58 @@ const articleSchema = {
 
       /* Header */
       header {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #5a4a80 100%);
         color: white;
-        padding: 3rem 1.5rem;
+        padding: 4rem 1.5rem;
         margin-bottom: 3rem;
+        position: relative;
+        overflow: hidden;
+      }
+
+      header::before {
+        content: '';
+        position: absolute;
+        top: -50%;
+        right: -10%;
+        width: 400px;
+        height: 400px;
+        background: radial-gradient(circle, rgba(255,255,255,0.15) 0%, rgba(255,255,255,0) 70%);
+        border-radius: 50%;
+        z-index: 0;
+      }
+
+      header .container {
+        position: relative;
+        z-index: 1;
       }
 
       header h1 {
-        font-size: 2.5rem;
-        margin-bottom: 1rem;
+        font-size: 2.8rem;
+        margin-bottom: 1.2rem;
         font-weight: 700;
         line-height: 1.3;
       }
 
       header p {
-        font-size: 1.1rem;
-        opacity: 0.95;
-        margin-bottom: 1.5rem;
+        font-size: 1.2rem;
+        opacity: 0.98;
+        margin-bottom: 2rem;
       }
 
       .meta {
         display: flex;
         flex-wrap: wrap;
-        gap: 2rem;
+        gap: 2.5rem;
         font-size: 0.95rem;
         opacity: 0.95;
+        padding-top: 1rem;
+        border-top: 1px solid rgba(255,255,255,0.2);
       }
 
       .meta span {
         display: flex;
         align-items: center;
-        gap: 0.5rem;
+        gap: 0.6rem;
       }
 
       /* Breadcrumb */
@@ -211,114 +232,149 @@ const articleSchema = {
 
       /* Article content */
       article {
-        background: white;
-        padding: 2rem;
-        border-radius: 8px;
+        background: linear-gradient(135deg, #ffffff 0%, #f8f9fb 100%);
+        padding: 3rem;
+        border-radius: 16px;
         margin-bottom: 3rem;
+        box-shadow: 0 8px 32px rgba(102, 126, 234, 0.1);
+        border: 1px solid rgba(102, 126, 234, 0.08);
       }
 
       article h2 {
-        font-size: 1.8rem;
-        margin-top: 2.5rem;
-        margin-bottom: 1rem;
-        color: var(--text);
+        font-size: 2.1rem;
+        margin-top: 3.5rem;
+        margin-bottom: 1.5rem;
+        color: var(--primary);
         line-height: 1.3;
+        font-weight: 700;
+        padding-bottom: 1rem;
+        border-bottom: 3px solid rgba(102, 126, 234, 0.15);
       }
 
       article h2:first-child {
         margin-top: 0;
+        border-bottom: none;
+        padding-bottom: 0;
       }
 
       article h3 {
-        font-size: 1.3rem;
-        margin-top: 1.8rem;
-        margin-bottom: 0.8rem;
+        font-size: 1.5rem;
+        margin-top: 2.5rem;
+        margin-bottom: 1.2rem;
         color: var(--text);
         line-height: 1.3;
+        font-weight: 600;
       }
 
       article p {
-        margin-bottom: 1.2rem;
-        line-height: 1.8;
-        text-align: justify;
+        margin-bottom: 1.8rem;
+        line-height: 1.9;
+        text-align: left;
+        font-size: 1.05rem;
+        color: #333;
       }
 
       article ul, article ol {
-        margin-left: 2rem;
-        margin-bottom: 1.5rem;
+        margin-left: 2.5rem;
+        margin-bottom: 2rem;
+        background: rgba(102, 126, 234, 0.05);
+        padding: 1.5rem 2rem;
+        border-radius: 8px;
+        border-left: 4px solid var(--primary);
       }
 
       article li {
-        margin-bottom: 0.8rem;
-        line-height: 1.8;
+        margin-bottom: 1rem;
+        line-height: 1.9;
+        color: #333;
       }
 
       article img {
         max-width: 100%;
         height: auto;
-        border-radius: 8px;
-        margin: 1.5rem 0;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        border-radius: 12px;
+        margin: 2.5rem 0;
+        box-shadow: 0 12px 32px rgba(102, 126, 234, 0.15);
+        border: 1px solid rgba(102, 126, 234, 0.1);
       }
 
       article strong {
         color: var(--primary);
-        font-weight: 600;
+        font-weight: 700;
+        background: rgba(102, 126, 234, 0.1);
+        padding: 0.2rem 0.4rem;
+        border-radius: 3px;
       }
 
       /* Disclaimer */
       .disclaimer {
-        background: #fff3cd;
-        border-left: 4px solid #ffc107;
-        padding: 1.5rem;
-        margin: 2rem 0;
-        border-radius: 4px;
+        background: linear-gradient(135deg, #fff8e1 0%, #fff3cd 100%);
+        border-left: 5px solid #ff9800;
+        padding: 2rem;
+        margin: 2.5rem 0;
+        border-radius: 12px;
         font-size: 0.95rem;
+        box-shadow: 0 4px 16px rgba(255, 152, 0, 0.1);
       }
 
       .disclaimer strong {
-        color: #856404;
+        color: #e65100;
+        font-weight: 700;
       }
 
       /* Call to action */
       .cta-box {
-        background: var(--bg-light);
+        background: linear-gradient(135deg, #f5f8ff 0%, #ffffff 100%);
         border: 2px solid var(--primary);
-        padding: 2rem;
-        border-radius: 8px;
+        padding: 2.5rem;
+        border-radius: 12px;
         text-align: center;
-        margin: 2rem 0;
+        margin: 3rem 0;
+        box-shadow: 0 8px 24px rgba(102, 126, 234, 0.12);
       }
 
       .cta-box h3 {
         margin-top: 0;
         color: var(--primary);
+        font-size: 1.5rem;
+        font-weight: 700;
+        margin-bottom: 0.5rem;
+      }
+
+      .cta-box p {
+        color: var(--text-light);
+        margin-bottom: 1.5rem;
+        font-size: 1rem;
       }
 
       /* Tags */
       .tags {
         display: flex;
         flex-wrap: wrap;
-        gap: 0.5rem;
-        margin-top: 2rem;
+        gap: 0.8rem;
+        margin-top: 2.5rem;
         padding-top: 2rem;
-        border-top: 1px solid var(--border);
+        border-top: 2px solid rgba(102, 126, 234, 0.1);
       }
 
       .tag {
-        background: var(--bg-light);
-        padding: 0.5rem 1rem;
-        border-radius: 20px;
-        font-size: 0.85rem;
+        background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(102, 126, 234, 0.05) 100%);
+        padding: 0.6rem 1.2rem;
+        border-radius: 24px;
+        font-size: 0.9rem;
         color: var(--primary);
         cursor: pointer;
-        transition: all 0.3s;
-        border: 1px solid var(--border);
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        border: 1.5px solid rgba(102, 126, 234, 0.2);
+        font-weight: 500;
       }
 
       .tag:hover {
-        background: var(--primary);
+        background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
         color: white;
+        border-color: transparent;
+        transform: translateY(-2px);
+        box-shadow: 0 6px 16px rgba(102, 126, 234, 0.2);
       }
 
       /* Back link */

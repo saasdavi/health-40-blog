@@ -31,6 +31,7 @@ try {
         --primary: #667eea;
         --primary-dark: #5568d3;
         --accent: #764ba2;
+        --orange: #ff6b35;
         --text: #1a1a1a;
         --text-light: #666;
         --bg-light: #f8f9fb;
@@ -39,9 +40,9 @@ try {
 
       body {
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-        line-height: 1.6;
+        line-height: 1.7;
         color: var(--text);
-        background: white;
+        background: linear-gradient(135deg, #ffffff 0%, #f8f9fc 100%);
       }
 
       .container {
@@ -56,8 +57,8 @@ try {
         background-size: cover;
         color: white;
         padding: 0;
-        margin-bottom: 3rem;
-        min-height: 500px;
+        margin-bottom: 4rem;
+        min-height: 550px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -84,78 +85,171 @@ try {
       .stats {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-        gap: 1.5rem;
-        margin-bottom: 3rem;
+        gap: 2rem;
+        margin-bottom: 4rem;
       }
 
       .stat-box {
-        background: var(--bg-light);
-        padding: 1.5rem;
-        border-radius: 8px;
+        background: linear-gradient(135deg, #ffffff 0%, #f5f8ff 100%);
+        padding: 2.5rem 2rem;
+        border-radius: 16px;
         text-align: center;
-        border: 1px solid var(--border);
+        border: 1px solid rgba(102, 126, 234, 0.15);
+        box-shadow: 0 8px 24px rgba(102, 126, 234, 0.08);
+        transition: all 0.3s ease;
+      }
+
+      .stat-box:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 12px 32px rgba(102, 126, 234, 0.15);
       }
 
       .stat-box h3 {
-        font-size: 2rem;
+        font-size: 2.5rem;
         color: var(--primary);
-        margin-bottom: 0.3rem;
+        margin-bottom: 0.5rem;
         font-weight: 700;
       }
 
       .stat-box p {
         color: var(--text-light);
-        font-size: 0.95rem;
+        font-size: 1rem;
+        font-weight: 500;
       }
 
-      /* Articles */
+      /* Featured Article Section */
+      .featured-section {
+        margin-bottom: 4rem;
+      }
+
+      .featured-article {
+        position: relative;
+        height: 450px;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0 20px 60px rgba(102, 126, 234, 0.2);
+        background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
+      }
+
+      .featured-article img {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+      .featured-article::before {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%);
+        z-index: 1;
+      }
+
+      .featured-article-content {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        color: white;
+        padding: 3rem;
+        z-index: 2;
+      }
+
+      .featured-article-content h2 {
+        font-size: 2.2rem;
+        font-weight: 700;
+        margin-bottom: 1rem;
+        line-height: 1.3;
+      }
+
+      .featured-article-content p {
+        font-size: 1.1rem;
+        margin-bottom: 1.5rem;
+        opacity: 0.95;
+      }
+
+      .featured-article-content .btn {
+        background: var(--orange);
+        color: white;
+        padding: 0.9rem 2rem;
+      }
+
+      .featured-article-content .btn:hover {
+        background: #e55a2a;
+      }
+
+      /* Articles Section */
       .articles-section {
-        margin: 4rem 0;
+        margin: 5rem 0;
       }
 
       .articles-section h2 {
-        font-size: 2rem;
-        margin-bottom: 2rem;
+        font-size: 2.2rem;
+        margin-bottom: 3rem;
         color: var(--text);
+        font-weight: 700;
       }
 
       .articles-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-        gap: 2rem;
+        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+        gap: 2.5rem;
         margin-bottom: 2rem;
       }
 
       .article-card {
         background: white;
-        border: 1px solid var(--border);
-        border-radius: 8px;
+        border-radius: 16px;
         overflow: hidden;
-        transition: transform 0.3s, box-shadow 0.3s;
+        transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
         cursor: pointer;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+        border: 1px solid rgba(102, 126, 234, 0.1);
       }
 
       .article-card:hover {
-        transform: translateY(-4px);
-        box-shadow: 0 8px 24px rgba(102, 126, 234, 0.15);
+        transform: translateY(-12px);
+        box-shadow: 0 20px 48px rgba(102, 126, 234, 0.2);
+      }
+
+      .article-card-image {
+        width: 100%;
+        height: 220px;
+        overflow: hidden;
+        background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
+        position: relative;
+      }
+
+      .article-card-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.4s ease;
+      }
+
+      .article-card:hover .article-card-image img {
+        transform: scale(1.08);
       }
 
       .article-card-content {
-        padding: 1.5rem;
+        padding: 2rem;
       }
 
       .article-card h3 {
-        font-size: 1.1rem;
-        margin-bottom: 0.5rem;
+        font-size: 1.25rem;
+        margin-bottom: 0.75rem;
         color: var(--text);
         line-height: 1.4;
+        font-weight: 600;
       }
 
       .article-card p {
         color: var(--text-light);
         font-size: 0.95rem;
-        line-height: 1.5;
-        margin-bottom: 1rem;
+        line-height: 1.6;
+        margin-bottom: 1.5rem;
       }
 
       .article-meta {
@@ -163,57 +257,77 @@ try {
         justify-content: space-between;
         font-size: 0.85rem;
         color: var(--text-light);
+        margin-bottom: 1.5rem;
+        padding-bottom: 1.5rem;
+        border-bottom: 1px solid rgba(102, 126, 234, 0.1);
       }
 
       .btn {
         display: inline-block;
-        padding: 0.75rem 1.5rem;
-        background: var(--primary);
+        padding: 0.8rem 1.6rem;
+        background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
         color: white;
         text-decoration: none;
-        border-radius: 6px;
+        border-radius: 8px;
         font-weight: 600;
-        transition: background 0.3s;
+        transition: all 0.3s ease;
         font-size: 0.95rem;
       }
 
       .btn:hover {
-        background: var(--primary-dark);
+        box-shadow: 0 8px 20px rgba(102, 126, 234, 0.3);
+        transform: translateY(-2px);
       }
 
       .btn-block {
         display: block;
         text-align: center;
-        margin-top: 1rem;
+        width: 100%;
+        margin-top: 0;
       }
 
       /* How it works */
       .how-section {
-        background: var(--bg-light);
-        padding: 2rem;
-        border-radius: 8px;
-        margin: 3rem 0;
+        background: linear-gradient(135deg, #ffffff 0%, #f5f8ff 100%);
+        padding: 3.5rem;
+        border-radius: 16px;
+        margin: 4rem 0;
+        border: 1px solid rgba(102, 126, 234, 0.1);
+        box-shadow: 0 8px 24px rgba(102, 126, 234, 0.08);
       }
 
       .how-section h2 {
-        font-size: 1.5rem;
+        font-size: 1.8rem;
+        margin-bottom: 1.5rem;
+        font-weight: 700;
+        color: var(--primary);
+      }
+
+      .how-section p {
+        line-height: 1.8;
         margin-bottom: 1rem;
+        color: var(--text);
       }
 
       .how-section ol {
         margin-left: 1.5rem;
         line-height: 2;
+        color: var(--text);
       }
 
       .how-section li {
-        margin-bottom: 0.5rem;
+        margin-bottom: 0.8rem;
+      }
+
+      .how-section strong {
+        color: var(--primary);
       }
 
       /* Footer */
       footer {
         border-top: 1px solid var(--border);
-        padding: 2rem 0;
-        margin-top: 4rem;
+        padding: 3rem 0;
+        margin-top: 5rem;
         text-align: center;
         color: var(--text-light);
         font-size: 0.9rem;
@@ -223,19 +337,41 @@ try {
         color: var(--primary);
         text-decoration: none;
         margin: 0 1rem;
+        font-weight: 500;
+        transition: color 0.3s;
       }
 
       footer a:hover {
-        text-decoration: underline;
+        color: var(--accent);
       }
 
       @media (max-width: 768px) {
-        header h1 {
-          font-size: 1.8rem;
-        }
-
         .articles-grid {
           grid-template-columns: 1fr;
+        }
+
+        .featured-article {
+          height: 350px;
+        }
+
+        .featured-article-content {
+          padding: 2rem;
+        }
+
+        .featured-article-content h2 {
+          font-size: 1.6rem;
+        }
+
+        .stat-box {
+          padding: 2rem 1.5rem;
+        }
+
+        .how-section {
+          padding: 2rem;
+        }
+
+        .how-section h2 {
+          font-size: 1.4rem;
         }
       }
     </style>
@@ -279,21 +415,51 @@ try {
       </div>
 
       {articles.length > 0 && (
-        <section class="articles-section">
-          <h2>Últimos Artigos</h2>
-          <div class="articles-grid">
-            {articles.map((article: any) => (
-              <div class="article-card">
-                <div class="article-card-content">
-                  <h3>{article.title}</h3>
-                  <p>{article.description}</p>
-                  <div class="article-meta">
-                    <span>📖 {article.wordCount || 0} palavras</span>
-                    <span>⏱️ {Math.ceil((article.wordCount || 0) / 200)} min</span>
-                  </div>
-                  <a href={`/${article.slug || 'artigo'}`} class="btn btn-block">Ler Artigo</a>
-                </div>
+        <section class="featured-section">
+          {articles[0] && (
+            <div class="featured-article">
+              {articles[0].featuredImage ? (
+                <img src={articles[0].featuredImage} alt={articles[0].title} />
+              ) : (
+                <div style="background: linear-gradient(135deg, #667eea, #764ba2);"></div>
+              )}
+              <div class="featured-article-content">
+                <h2>{articles[0].title}</h2>
+                <p>{articles[0].description}</p>
+                <a href={`/${articles[0].slug || 'artigo'}`} class="btn">Ler Artigo Destaque →</a>
               </div>
+            </div>
+          )}
+        </section>
+      )}
+
+      {articles.length > 1 && (
+        <section class="articles-section">
+          <h2>Mais Artigos</h2>
+          <div class="articles-grid">
+            {articles.slice(1).map((article: any) => (
+              <a href={`/${article.slug || 'artigo'}`} style="text-decoration: none; color: inherit;">
+                <div class="article-card">
+                  <div class="article-card-image">
+                    {article.featuredImage ? (
+                      <img src={article.featuredImage} alt={article.title} />
+                    ) : (
+                      <div style="width: 100%; height: 100%; background: linear-gradient(135deg, #667eea, #764ba2); display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">
+                        {article.title.substring(0, 1)}
+                      </div>
+                    )}
+                  </div>
+                  <div class="article-card-content">
+                    <h3>{article.title}</h3>
+                    <p>{article.description}</p>
+                    <div class="article-meta">
+                      <span>📖 {article.wordCount || 0} palavras</span>
+                      <span>⏱️ {Math.ceil((article.wordCount || 0) / 200)} min</span>
+                    </div>
+                    <a href={`/${article.slug || 'artigo'}`} class="btn btn-block">Ler Artigo</a>
+                  </div>
+                </div>
+              </a>
             ))}
           </div>
         </section>
