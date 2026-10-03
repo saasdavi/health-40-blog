@@ -46,6 +46,9 @@ const year = new Date().getFullYear();
         <a href="/termos-uso/">Termos de uso</a>
       </nav>
       <p>© {year} {SITE.name} • Todos os direitos reservados</p>
+      {(SITE.legal.razaoSocial || SITE.legal.cnpj) && (
+        <p class="legal-info">{[SITE.legal.razaoSocial, SITE.legal.cnpj && `CNPJ ${SITE.legal.cnpj}`, SITE.legal.endereco].filter(Boolean).join(' • ')}</p>
+      )}
     </div>
   </footer>
 </BaseLayout>

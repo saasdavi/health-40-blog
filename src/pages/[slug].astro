@@ -1,4 +1,5 @@
 ---
+import { SITE } from '../config/site';
 import { readFileSync } from 'fs';
 import { resolve } from 'path';
 import SEO from '../components/SEO.astro';
@@ -504,6 +505,9 @@ const breadcrumbItems = [
         <a href="/termos-uso/">Termos de uso</a>
       </p>
       <p style="margin-top: 1rem;">© 2026 Saúde 40+ • Todos os direitos reservados</p>
+      {(SITE.legal.razaoSocial || SITE.legal.cnpj) && (
+        <p class="legal-info">{[SITE.legal.razaoSocial, SITE.legal.cnpj && `CNPJ ${SITE.legal.cnpj}`, SITE.legal.endereco].filter(Boolean).join(' • ')}</p>
+      )}
     </footer>
   </body>
 </html>

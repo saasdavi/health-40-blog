@@ -13,6 +13,12 @@ export const SITE = {
   defaultAuthor: 'Saúde 40+',
   defaultImage: '/images/hero-bg.svg',
   contactEmail: 'contato@saude40mais.com',
+  // Dados do responsável (Decreto 7.962/2013). Vazio = o rodapé não exibe.
+  legal: {
+    razaoSocial: '',
+    cnpj: '',
+    endereco: '',
+  },
   // Perfis oficiais: aparecem no rodapé e no schema (sameAs). Vazio = não exibe.
   social: {
     facebook: '',
