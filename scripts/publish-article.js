@@ -2,12 +2,14 @@
  * Publication Pipeline - PHASE 12
  *
  * For each approved article:
- * 1. Create markdown file in content/articles/
- * 2. Add frontmatter (metadata, SEO, health warnings)
- * 3. Commit to GitHub
- * 4. Vercel auto-deploys
- * 5. Update editorial calendar
- * 6. Mark as published
+ * 1. Add featured images (Pexel API)
+ * 2. Ensure accessibility (alt text on all images)
+ * 3. Create markdown file in content/articles/
+ * 4. Add frontmatter (metadata, SEO, health warnings)
+ * 5. Commit to GitHub
+ * 6. Vercel auto-deploys
+ * 7. Update editorial calendar
+ * 8. Mark as published
  */
 
 import fs from 'fs';
@@ -152,6 +154,58 @@ function updateCalendar(article) {
 }
 
 /**
+ * Add images from Pexel to article
+ */
+async function addImagesToArticle(article) {
+  const PEXEL_API_KEY = process.env.PEXEL_API_KEY;
+
+  if (!PEXEL_API_KEY) {
+    return article;
+  }
+
+  try {
+    console.log(`   🖼️  Searching for images...`);
+
+    const response = await fetch(
+      `https://api.pexels.com/v1/search?query=${encodeURIComponent(article.keywords.primaryKeyword)}&per_page=5`,
+      {
+        headers: { 'Authorization': PEXEL_API_KEY }
+      }
+    );
+
+    if (!response.ok) {
+      return article;
+    }
+
+    const data = await response.json();
+    const photos = data.photos || [];
+
+    if (photos.length === 0) {
+      return article;
+    }
+
+    // Select best image (landscape preferred)
+    const landscape = photos.filter(p => p.width > p.height);
+    const bestPhoto = landscape.length > 0 ? landscape[0] : photos[0];
+
+    const imageMarkdown = `![${article.keywords.primaryKeyword}](${bestPhoto.src.large})\n\n_Foto por [${bestPhoto.photographer}](${bestPhoto.photographer_url}) via Pexel_\n\n`;
+
+    // Add image at the beginning
+    const enrichedContent = imageMarkdown + article.content;
+
+    console.log(`   ✅ Adicionada imagem`);
+
+    return {
+      ...article,
+      content: enrichedContent,
+      featuredImage: bestPhoto.src.large
+    };
+  } catch (error) {
+    return article;
+  }
+}
+
+/**
  * Publish article
  */
 async function publishArticle(article) {
@@ -160,18 +214,21 @@ async function publishArticle(article) {
   console.log(`   Quality: ${article.scores.quality}/100`);
 
   try {
+    // Add images from Pexel
+    const articleWithImages = await addImagesToArticle(article);
+
     // Create markdown file
-    const fileInfo = createArticleFile(article);
+    const fileInfo = createArticleFile(articleWithImages);
 
     // Commit to GitHub
-    const committed = commitToGitHub(article, fileInfo);
+    const committed = commitToGitHub(articleWithImages, fileInfo);
 
     // Update calendar
-    updateCalendar(article);
+    updateCalendar(articleWithImages);
 
     // Mark as published
     return {
-      ...article,
+      ...articleWithImages,
       status: 'published',
       publishedAt: new Date().toISOString(),
       url: `https://health-40-blog.vercel.app/${article.slug}`,
