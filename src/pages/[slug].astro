@@ -49,7 +49,11 @@ const articleSchema = {
   "author": {
     "@type": "Organization",
     "name": "Saúde 40+",
-    "url": "https://health-40-blog.vercel.app"
+    "url": "https://health-40-blog.vercel.app",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://health-40-blog.vercel.app/logo.svg"
+    }
   },
   "publisher": {
     "@type": "Organization",
@@ -60,10 +64,38 @@ const articleSchema = {
     }
   },
   "datePublished": currentArticle.createdAt || new Date().toISOString(),
+  "dateModified": currentArticle.updatedAt || currentArticle.createdAt || new Date().toISOString(),
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": `https://health-40-blog.vercel.app/${currentArticle.slug}`
-  }
+  },
+  "wordCount": currentArticle.wordCount || 0,
+  "articleBody": currentArticle.content
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://health-40-blog.vercel.app"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Artigos",
+      "item": "https://health-40-blog.vercel.app/#artigos"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": currentArticle.title,
+      "item": `https://health-40-blog.vercel.app/${currentArticle.slug}`
+    }
+  ]
 };
 ---
 
@@ -82,8 +114,20 @@ const articleSchema = {
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={currentArticle.title} />
     <meta name="twitter:description" content={currentArticle.description} />
+    <meta name="twitter:image" content={currentArticle.featuredImage || "/images/hero-bg.svg"} />
+
+    <!-- Canonical -->
+    <link rel="canonical" href={`https://health-40-blog.vercel.app/${currentArticle.slug}`} />
+
+    <!-- Additional SEO -->
+    <meta name="article:published_time" content={currentArticle.createdAt} />
+    <meta name="article:modified_time" content={currentArticle.updatedAt || currentArticle.createdAt} />
+    <meta name="article:author" content="Saúde 40+" />
+
     <title>{currentArticle.title} - Saúde 40+</title>
+
     <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
     <style>
       * {
         margin: 0;

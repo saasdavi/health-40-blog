@@ -1,0 +1,30 @@
+# Robots.txt para Saúde 40+
+# Otimizado para Google, Bing, Yahoo
+
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /images/
+
+# Disallow crawling desnecessário
+Disallow: /admin/
+Disallow: /.env
+Disallow: /node_modules/
+Disallow: /.git/
+
+# Sitemaps
+Sitemap: https://health-40-blog.vercel.app/sitemap.xml
+
+# Crawl delay para não sobrecarregar servidor
+Crawl-delay: 1
+
+# Configurações específicas para Googlebot
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Block bad bots
+User-agent: MJ12bot
+User-agent: AhrefsBot
+User-agent: SemrushBot
+Disallow: /
