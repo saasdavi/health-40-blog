@@ -8,7 +8,7 @@
  * Máximo 2 voltas por artigo; reprovado vira draft (nunca vai ao ar).
  *
  * Env: ANTHROPIC_API_KEY (obrigatória) | PEXEL_API_KEY (imagem) | BATCH_SIZE (padrão 1)
- *      ROBOT_MODEL | DRY_RUN=1 (não grava) | ALLOW_NO_IMAGE=1 (só para teste local)
+ *      ROBOT_MODEL (redator, padrão Haiku 4.5) | VALIDATOR_MODEL (padrão Haiku 4.5) | DRY_RUN=1 (não grava) | ALLOW_NO_IMAGE=1 (só para teste local)
  */
 
 import dotenv from 'dotenv';
@@ -23,7 +23,8 @@ const ARTICLES_FILE = path.join(__dirname, '../data/articles.json');
 const KEYWORDS_FILE = path.join(__dirname, '../data/keywords-validated.json');
 
 const BATCH_SIZE = Number(process.env.BATCH_SIZE || 1);
-const MODEL = process.env.ROBOT_MODEL || 'claude-sonnet-5-5';
+const WRITER_MODEL = process.env.ROBOT_MODEL || 'claude-haiku-4-5-20251001';
+const VALIDATOR_MODEL = process.env.VALIDATOR_MODEL || 'claude-haiku-4-5-20251001';
 const MIN_SCORE = 80;
 const SITE_SUFFIX = ' | Saúde 40+';
 const MAX_VOLTAS = 2;
@@ -109,11 +110,11 @@ class ArticleRobot {
   }
 
   // ---------- 2. redator ----------
-  async claude(prompt, maxTokens = 16000) {
+  async claude(prompt, maxTokens = 16000, model = WRITER_MODEL) {
     const res = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
       headers: { 'content-type': 'application/json', 'x-api-key': process.env.ANTHROPIC_API_KEY, 'anthropic-version': '2023-06-01' },
-      body: JSON.stringify({ model: MODEL, max_tokens: maxTokens, messages: [{ role: 'user', content: prompt }] })
+      body: JSON.stringify({ model, max_tokens: maxTokens, messages: [{ role: 'user', content: prompt }] })
     });
     if (!res.ok) throw new Error(`Anthropic API ${res.status}: ${(await res.text()).slice(0, 300)}`);
     const data = await res.json();
@@ -268,7 +269,7 @@ ${a.content}
 Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cercas de código), no formato: {"decisao":"APROVADO"|"DEVOLVER","motivos":["V1: ...","V4: ..."]}`;
     for (let tentativa = 1; tentativa <= 3; tentativa++) {
       let raw;
-      try { raw = await this.claude(prompt, 12000); } catch (e) { if (e.message === 'TRUNCADO') { console.log('  ↻ validador truncado'); continue; } throw e; }
+      try { raw = await this.claude(prompt, 12000, VALIDATOR_MODEL); } catch (e) { if (e.message === 'TRUNCADO') { console.log('  ↻ validador truncado'); continue; } throw e; }
       const m = raw.match(/\{[\s\S]*"decisao"[\s\S]*\}/);
       if (m) { try { const j = JSON.parse(m[0]); if (j.decisao) return j; } catch { /* tenta de novo */ } }
       console.log(`  ↻ validador fora do formato (tentativa ${tentativa}): ${raw.slice(0, 200).replace(/\n/g, ' ')}`);
