@@ -85,7 +85,8 @@
       "theme": "saúde após os 40",
       "validated": true,
       "discoveredAt": "2026-10-03T03:41:49.050Z",
-      "lastUpdated": "2026-10-03T03:57:36.828Z"
+      "lastUpdated": "2026-10-03T03:57:36.828Z",
+      "article_planned": true
     },
     {
       "id": "kw_1790998909050_3",
@@ -100,7 +101,8 @@
       "theme": "saúde após os 40",
       "validated": true,
       "discoveredAt": "2026-10-03T03:41:49.050Z",
-      "lastUpdated": "2026-10-03T03:57:36.828Z"
+      "lastUpdated": "2026-10-03T03:57:36.828Z",
+      "article_planned": true
     },
     {
       "id": "kw_1790998909050_4",
@@ -115,7 +117,8 @@
       "theme": "saúde após os 40",
       "validated": true,
       "discoveredAt": "2026-10-03T03:41:49.050Z",
-      "lastUpdated": "2026-10-03T03:57:36.828Z"
+      "lastUpdated": "2026-10-03T03:57:36.828Z",
+      "article_planned": true
     },
     {
       "id": "kw_1790999525692_0",
@@ -136,7 +139,7 @@
       "longTails": [],
       "validated": true,
       "serp_researched": false,
-      "article_planned": false,
+      "article_planned": true,
       "article_published": false,
       "discoveredAt": "2026-10-03T03:52:05.692Z",
       "lastUpdated": "2026-10-03T03:57:36.829Z",
