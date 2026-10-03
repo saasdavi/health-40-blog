@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-03T00:00:00Z",
+  "lastUpdated": "2026-10-03T03:41:49.050Z",
   "metadata": {
-    "totalKeywords": 0,
+    "totalKeywords": 6,
     "statusBreakdown": {
-      "discovered": 0,
+      "discovered": 6,
       "researched": 0,
       "validated": 0,
       "clustered": 0,
@@ -39,6 +39,76 @@
       "discoveredAt": "2026-10-03T00:00:00Z",
       "lastUpdated": "2026-10-03T00:00:00Z",
       "notes": ""
+    },
+    {
+      "id": "kw_1790998909046_0",
+      "keyword": "saúde após os 40 para saúde",
+      "source": [
+        "long_tail_generation"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "intent": "informational",
+      "theme": "saúde após os 40",
+      "validated": false,
+      "discoveredAt": "2026-10-03T03:41:49.046Z"
+    },
+    {
+      "id": "kw_1790998909050_1",
+      "keyword": "saúde após os 40 dicas",
+      "source": [
+        "long_tail_generation"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "intent": "informational",
+      "theme": "saúde após os 40",
+      "validated": false,
+      "discoveredAt": "2026-10-03T03:41:49.050Z"
+    },
+    {
+      "id": "kw_1790998909050_2",
+      "keyword": "saúde após os 40 guia completo",
+      "source": [
+        "long_tail_generation"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "intent": "informational",
+      "theme": "saúde após os 40",
+      "validated": false,
+      "discoveredAt": "2026-10-03T03:41:49.050Z"
+    },
+    {
+      "id": "kw_1790998909050_3",
+      "keyword": "saúde após os 40 benefícios",
+      "source": [
+        "long_tail_generation"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "intent": "informational",
+      "theme": "saúde após os 40",
+      "validated": false,
+      "discoveredAt": "2026-10-03T03:41:49.050Z"
+    },
+    {
+      "id": "kw_1790998909050_4",
+      "keyword": "como fazer saúde após os 40",
+      "source": [
+        "long_tail_generation"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "intent": "informational",
+      "theme": "saúde após os 40",
+      "validated": false,
+      "discoveredAt": "2026-10-03T03:41:49.050Z"
     }
   ]
 }
