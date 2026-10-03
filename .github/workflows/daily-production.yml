@@ -2,8 +2,10 @@ name: 📝 Daily Article Production
 
 on:
   schedule:
-    # Produzir artigos diariamente às 9h (UTC)
-    - cron: '0 9 * * *'
+    # 🔥 ROBÔ 3/DIA - Google Ads API + E-E-A-T Validation
+    - cron: '0 6 * * *'   # 06:00 UTC (3h BRT) - Gerar 1º batch
+    - cron: '0 14 * * *'  # 14:00 UTC (11h BRT) - Gerar 2º batch
+    - cron: '0 18 * * *'  # 18:00 UTC (15h BRT) - Gerar 3º batch
   workflow_dispatch:
 
 jobs:
@@ -28,28 +30,17 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: 📝 FASE 10 - Produce Content (REAL com Google Search API)
+      - name: 🤖 ARTICLE ROBOT 3/DIA - Fluxo Completo
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          GOOGLE_SEARCH_API_KEY: ${{ secrets.GOOGLE_SEARCH_API_KEY }}
-          GOOGLE_SEARCH_ENGINE_ID: ${{ secrets.GOOGLE_SEARCH_ENGINE_ID }}
-        run: |
-          echo "🎯 Produzindo artigos com análise de concorrentes reais..."
-          node scripts/production-real.js
-
-      - name: 📋 FASE 11 - Editorial Review
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: |
-          echo "✅ Revisando qualidade..."
-          node scripts/review-article.js
-
-      - name: 📢 FASE 12 - Publish
-        env:
+          GOOGLE_ADS_CLIENT_ID: ${{ secrets.GOOGLE_ADS_CLIENT_ID }}
+          GOOGLE_ADS_CLIENT_SECRET: ${{ secrets.GOOGLE_ADS_CLIENT_SECRET }}
+          GOOGLE_ADS_REFRESH_TOKEN: ${{ secrets.GOOGLE_ADS_REFRESH_TOKEN }}
+          GOOGLE_ADS_CUSTOMER_ID: ${{ secrets.GOOGLE_ADS_CUSTOMER_ID }}
           PEXEL_API_KEY: ${{ secrets.PEXEL_API_KEY }}
         run: |
-          echo "🌐 Publicando no blog..."
-          node scripts/publish-article.js
+          echo "🔥 Iniciando Article Robot (Google Ads API + E-E-A-T Validation)..."
+          node scripts/article-robot.js
 
       - name: 🔧 Setup Git
         run: |
