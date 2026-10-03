@@ -293,7 +293,7 @@ Write 2000-3000 words of original, exclusive content. Focus on practical advice 
         'content-type': 'application/json'
       },
       body: JSON.stringify({
-        model: 'claude-3-5-sonnet-20241022',
+        model: 'claude-3-5-haiku-20241022',
         max_tokens: 3000,
         messages: [{
           role: 'user',
