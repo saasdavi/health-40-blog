@@ -4,12 +4,6 @@
   "fonteVolume": "HYPD/Keyword Planner BR",
   "candidatas": [
     {
-      "keyword": "colesterol alterado",
-      "volume": 49500,
-      "cluster": "colesterol",
-      "status": "sem-serp"
-    },
-    {
       "keyword": "colesterol não hdl",
       "volume": 27100,
       "cluster": "colesterol",
@@ -70,20 +64,8 @@
       "status": "sem-serp"
     },
     {
-      "keyword": "pré menopausa",
-      "volume": 6600,
-      "cluster": "menopausa",
-      "status": "sem-serp"
-    },
-    {
       "keyword": "sintomas pré menopausa",
       "volume": 3600,
-      "cluster": "menopausa",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "fogachos",
-      "volume": 4400,
       "cluster": "menopausa",
       "status": "sem-serp"
     },
@@ -112,27 +94,9 @@
       "status": "sem-serp"
     },
     {
-      "keyword": "como acelerar o metabolismo",
-      "volume": 9900,
-      "cluster": "emagrecimento",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "alimentos anti inflamatórios",
-      "volume": 6600,
-      "cluster": "nutricao",
-      "status": "sem-serp"
-    },
-    {
       "keyword": "exames de rotina",
       "volume": 6600,
       "cluster": "exames",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "metabolismo lento",
-      "volume": 2900,
-      "cluster": "emagrecimento",
       "status": "sem-serp"
     },
     {

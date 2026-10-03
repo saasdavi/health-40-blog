@@ -613,6 +613,113 @@
         "aiOverview": true
       },
       "fontes": []
+    },
+    {
+      "keyword": "como acelerar o metabolismo",
+      "volume": 9900,
+      "competition": "HIGH",
+      "cluster": "emagrecimento",
+      "absorve": [
+        "O que é bom para acelerar o metabolismo para emagrecer?",
+        "Quais são os sinais de um metabolismo lento?",
+        "metabolismo lento",
+        "Como ativar o hormônio de emagrecimento?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Metrópoles, Revista Oeste, soldiersnutrition, Claudia (2014), YouTube, João Bidu, costanorte (2019), Folha Vitória",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.tuasaude.com/como-aumentar-o-metabolismo/",
+        "https://www.unimedfortaleza.com.br/blog/cuidar-de-voce/como-acelerar-o-metabolismo",
+        "https://telemedicinamorsch.com.br/blog/como-acelerar-o-metabolismo",
+        "https://www.cnnbrasil.com.br/saude/saiba-como-impulsionar-seu-metabolismo-em-quatro-passos/",
+        "https://www.saolucascopacabana.com.br/blog/dez-alimentos-que-aceleram-o-metabolismo/"
+      ]
+    },
+    {
+      "keyword": "alimentos anti inflamatórios",
+      "volume": 6600,
+      "competition": "MEDIUM",
+      "cluster": "nutricao",
+      "absorve": [
+        "Como desinflamar o corpo em 7 dias?",
+        "Qual o anti-inflamatório mais poderoso natural?",
+        "Quais são os 7 alimentos mais inflamatórios?",
+        "O que comer no café da manhã para desinflamar?",
+        "alimentos inflamatórios"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIA-FÁCIL",
+        "topoDoGoogle": "postalsaude (2023), Tua Saúde, spdm, YouTube Drauzio, PDF gruparj, dralexandremoulin, oceandrop, s2medica",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.postalsaude.com.br/10-alimentos-que-vao-desinflamar-seu-corpo-segundo-especialista/",
+        "https://www.tuasaude.com/alimentos-anti-inflamatorios/",
+        "https://spdm.org.br/blog/alimentacao-anti-inflamatoria-o-que-e-e-seus-beneficios/",
+        "https://www.unimedcampinas.com.br/blog/viver-com-saude/6-alimentos-anti-inflamatorios-pra-voce-consumir",
+        "https://dralexandremoulin.com.br/alimentacao-e-dieta-anti-inflamatoria/",
+        "https://www.s2medica.com.br/blogs/alimentos-anti-inflamatorios-como-desinflamar-o-corpo-com-a-alimentacao"
+      ]
+    },
+    {
+      "keyword": "fogachos",
+      "volume": 6000,
+      "competition": "LOW",
+      "cluster": "menopausa",
+      "absorve": [
+        "fogachos o que é",
+        "calores da menopausa",
+        "O que provoca o fogacho?",
+        "Que remédio é bom para fogacho?",
+        "Quais alimentos pioram o fogacho?",
+        "O que alivia ondas de calor?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIA-FÁCIL",
+        "topoDoGoogle": "Drogasil, Prefeitura SP (PDF), Instagram, agesbioactive, Medscape, Poise, Vhita, Folha",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.drogasil.com.br/blog/saude/saude-sexual-e-reprodutiva/fogacho",
+        "https://agesbioactive.com/blog/fogachos-sao-sempre-sinais-de-menopausa/",
+        "https://silviobromberg.com.br/fogachos-atingem-cerca-de-75-das-mulheres-climaterio/",
+        "https://endocardiorc.com.br/fogachos-e-ondas-de-calor-na-menopausa-o-que-sao-por-que-acontecem-e-como-aliviar/",
+        "https://clinicaserpas.com.br/blog/tem-hora-para-os-fogachos-aparecerem"
+      ]
+    },
+    {
+      "keyword": "colesterol alterado",
+      "volume": 49500,
+      "competition": "LOW",
+      "cluster": "colesterol",
+      "absorve": [],
+      "serp": {
+        "facil": false,
+        "nivel": "MÉDIA-DIFÍCIL",
+        "topoDoGoogle": "Nav Dasa, Einstein, svriglobal, Nissei, SOCERJ, endocrino.org.br, Sociedade Brasileira de Diabetes; mesma intenção de 'colesterol alto sintomas'",
+        "aiOverview": true
+      },
+      "fontes": []
+    },
+    {
+      "keyword": "pré menopausa",
+      "volume": 6600,
+      "competition": "LOW",
+      "cluster": "menopausa",
+      "absorve": [],
+      "serp": {
+        "facil": false,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Instagram, tudorondonia, eutonoclima, zenklub, herborisa, saudedebate; mesma intenção do artigo o-que-e-perimenopausa (canibalizaria)",
+        "aiOverview": true
+      },
+      "fontes": []
     }
   ],
   "descartadas": "Mounjaxi/suplemento/termogênico (volume < 400 ou sem medição), '... 40+' de cauda longa sem volume, 'como emagrecer depois dos 40' (260/mês, concorrência HIGH)."
