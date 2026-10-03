@@ -1,0 +1,14 @@
+[
+  {
+    "data": "2026-10-03T23:41:47.107Z",
+    "modeloRedator": "claude-haiku-4-5-20251001",
+    "modeloValidador": "claude-haiku-4-5-20251001",
+    "tentativas": 0,
+    "aprovados": 0,
+    "publicados": 0,
+    "falhas": 1,
+    "uso": {},
+    "custoUSD": 0,
+    "custoPorPublicadoUSD": 0
+  }
+]

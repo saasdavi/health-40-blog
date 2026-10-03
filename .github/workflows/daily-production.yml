@@ -1,17 +1,21 @@
 name: 📝 Daily Article Production
 
 on:
-  # AUTOMAÇÃO PAUSADA até comprovar publicação real (conteúdo real + deploy verificado)
-  # schedule:
-  #   - cron: '0 6 * * *'
-  #   - cron: '0 14 * * *'
-  #   - cron: '0 18 * * *'
+  schedule:
+    # 3 artigos por dia (1 por execução): 03h, 11h e 15h no horário de Brasília
+    - cron: '0 6 * * *'
+    - cron: '0 14 * * *'
+    - cron: '0 18 * * *'
   workflow_dispatch:
     inputs:
       batch:
         description: 'Quantos artigos gerar nesta execução'
         required: false
         default: '1'
+
+concurrency:
+  group: produce-articles
+  cancel-in-progress: false
 
 jobs:
   produce-articles:
@@ -34,6 +38,9 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+
+      - name: 🏆 Prateleira de ouro (nível da fila)
+        run: node scripts/prateleira.js
 
       - name: 🤖 ARTICLE ROBOT 3/DIA - Fluxo Completo
         env:

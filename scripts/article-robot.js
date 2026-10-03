@@ -111,7 +111,8 @@ class ArticleRobot {
         const texto = html.replace(/<(script|style|noscript|nav|header|footer|aside)[\s\S]*?<\/\1>/gi, ' ').replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim();
         if (texto.length < 1500) { console.log(`  ⚠️  fonte com pouco texto: ${url}`); continue; }
         const host = new URL(url).hostname.replace(/^www\./, '');
-        ok.push({ title, nome: NOMES_FONTE[host] || host, url, texto: texto.slice(0, 7000) });
+        const site = (html.match(/<meta[^>]+property=["']og:site_name["'][^>]+content=["']([^"']+)["']/i) || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:site_name["']/i) || [])[1];
+        ok.push({ title, nome: NOMES_FONTE[host] || (site && site.trim().slice(0, 60)) || host, url, texto: texto.slice(0, 7000) });
         console.log(`  📄 fonte lida (${texto.length} chars): ${url}`);
       } catch (e) { console.log(`  ⚠️  fonte inacessível (${e.message}): ${url}`); }
     }
@@ -444,7 +445,7 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
     if (!process.env.ANTHROPIC_API_KEY) throw new Error('ANTHROPIC_API_KEY ausente');
     console.log(`\n🤖 ARTICLE ROBOT — ${new Date().toISOString()}`);
     const pauta = this.escolherPauta();
-    if (!pauta.length) { console.log('Nenhuma keyword livre em keywords-validated.json'); return this.stats; }
+    if (!pauta.length) { console.error('❌ FILA VAZIA: não há palavra validada livre em data/keywords-validated.json. Adicione palavras (volume + SERP fácil + fontes).'); process.exitCode = 1; return this.stats; }
 
     for (const p of pauta) {
       console.log(`\n📝 "${p.keyword}" (${p.volume}/mês)`);

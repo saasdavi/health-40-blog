@@ -203,43 +203,6 @@
       }
     },
     {
-      "keyword": "colesterol alto sintomas",
-      "volume": 27100,
-      "competition": "LOW",
-      "cluster": "colesterol",
-      "absorve": [
-        "colesterol alto causas"
-      ],
-      "serp": {
-        "facil": null,
-        "nivel": "NÃO CHECADO"
-      }
-    },
-    {
-      "keyword": "o que é menopausa",
-      "volume": 14800,
-      "competition": "LOW",
-      "cluster": "menopausa",
-      "absorve": [
-        "idade menopausa começa"
-      ],
-      "serp": {
-        "facil": null,
-        "nivel": "NÃO CHECADO"
-      }
-    },
-    {
-      "keyword": "menopausa precoce",
-      "volume": 12100,
-      "competition": "LOW",
-      "cluster": "menopausa",
-      "absorve": [],
-      "serp": {
-        "facil": null,
-        "nivel": "NÃO CHECADO"
-      }
-    },
-    {
       "keyword": "caminhada emagrece",
       "volume": 12100,
       "competition": "LOW",
@@ -332,6 +295,219 @@
         "facil": null,
         "nivel": "NÃO CHECADO"
       }
+    },
+    {
+      "keyword": "o que é sarcopenia",
+      "volume": 27100,
+      "competition": "LOW",
+      "cluster": "musculo-e-forca",
+      "absorve": [
+        "Quais são os sintomas da sarcopenia?",
+        "Qual a melhor vitamina para sarcopenia?",
+        "Quem tem sarcopenia sente dor?",
+        "O que leva a pessoa a ter sarcopenia?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "gardenvillesp, amnesaude, otaviomelo, equipeesperancaevida, YouTube, Terra, drleonardopozzobon, drbrunodealvarenga",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.icc.ufscar.br/pt-br/projetos/parcerias/coluna-envelheciencia/o-que-e-sarcopenia-o-que-eu-preciso-saber-para-preveni-la-e-trata-la",
+        "https://hospitalsiriolibanes.org.br/blog/geriatra/nutricao-sarcopenia-como-evitar-perda-massa-muscular",
+        "https://nav.dasa.com.br/blog/sarcopenia",
+        "https://felipebozigeriatria.com.br/sarcopenia-prevencao/",
+        "https://www.einstein.br/n/vida-saudavel/o-que-provoca-a-sarcopenia-entenda-a-condicao-que-afeta-a-forca-muscular"
+      ]
+    },
+    {
+      "keyword": "colesterol alto sintomas",
+      "volume": 27100,
+      "competition": "LOW",
+      "cluster": "colesterol",
+      "absorve": [
+        "Colesterol alto causa tontura e dor de cabeça?",
+        "Sintomas de colesterol alto em mulher e em homem",
+        "Sintomas de colesterol alto na pele",
+        "O que o colesterol alto causa nas pernas?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIA",
+        "topoDoGoogle": "salomaozoppi (2023), Nav Dasa, Tua Saúde, clinicanutrobarra, Facebook, farmaciasnissei, posenato, diagmed",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.tuasaude.com/sintomas-de-colesterol/",
+        "https://salomaozoppi.com.br/saude/sintomas-de-colesterol-alto",
+        "https://nav.dasa.com.br/blog/colesterol-alto",
+        "https://posenato.med.br/blog/sintomas-de-colesterol-alto/",
+        "https://saude.novartis.com.br/colesterolalto/quais-os-sinais-e-sintomas-do-colesterol-alto/",
+        "https://clinicanutrobarra.com.br/colesterol-alto/"
+      ]
+    },
+    {
+      "keyword": "o que é menopausa",
+      "volume": 14800,
+      "competition": "LOW",
+      "cluster": "menopausa",
+      "absorve": [
+        "Quais são os primeiros sinais da menopausa?",
+        "Quais são as 3 fases da menopausa?",
+        "Quanto tempo dura a pós-menopausa?",
+        "Quando entra na menopausa pode engravidar?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIA-FÁCIL",
+        "topoDoGoogle": "Brasil Escola, Terra, Hospital Pilar, Everyday Health, centrainfusao, belezanaweb, clinicadafamiliadf",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.rededorsaoluiz.com.br/doencas/menopausa",
+        "https://www.bp.org.br/noticias/ginecologia/menopausa-o-que-e-quais-sao-os-sintomas-e-quando-procurar-um-medico",
+        "https://clinicaviver.com/menopausa-o-que-e-e-como-se-manifesta/",
+        "https://www.saudebemestar.pt/pt/clinica/ginecologia/menopausa/",
+        "https://www.theramex.com/br/menopausa/o-que-e-a-menopausa/"
+      ]
+    },
+    {
+      "keyword": "menopausa precoce",
+      "volume": 12100,
+      "competition": "LOW",
+      "cluster": "menopausa",
+      "absorve": [
+        "Quais são os efeitos da menopausa precoce?",
+        "Quais as causas da menopausa precoce?",
+        "Menopausa precoce tem tratamento?",
+        "Qual a diferença entre perimenopausa e climatério?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIA-FÁCIL",
+        "topoDoGoogle": "redesantacatarina, novocare, intimus, iluminiclinic, YouTube, Drauzio (podcast), Drogasil",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.msdmanuals.com/pt/casa/problemas-de-sa%C3%BAde-feminina/dist%C3%BArbios-menstruais-e-sangramento-uteino-an%C3%B4malo/menopausa-precoce",
+        "https://www.endocrino.org.br/2009/07/30/menopausa-precoce/",
+        "https://fertilitat.com.br/noticias/10-sinais-da-menopausa-precoce/",
+        "https://medsenior.com.br/noticia/menopausa-precoce-sinais-de-alerta-e-tratamentos-disponiveis/",
+        "https://www.maternidadebrasilia.com.br/blog/menopausa-precoce/"
+      ]
+    },
+    {
+      "keyword": "colesterol hdl",
+      "volume": 74000,
+      "competition": "LOW",
+      "cluster": "colesterol",
+      "absorve": [
+        "Qual é o valor normal de um colesterol HDL?",
+        "Quando o HDL é preocupante?",
+        "O que é o HDL e o LDL?",
+        "colesterol hdl baixo",
+        "colesterol hdl alto",
+        "como aumentar o HDL"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "altadiagnosticos, conexasaude, msdmanuals, laboratoriosaogeronimo, siriolibanes, YouTube, debemcomavida, bioclinico",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.tuasaude.com/colesterol-hdl/",
+        "https://debemcomavida.mdsgroup.com.br/blog/saude/colesterol-hdl/",
+        "https://posenato.med.br/blog/colesterol-hdl/",
+        "https://www.rededorsaoluiz.com.br/exames-e-procedimentos/analises-clinicas/hdl",
+        "https://laboratoriosaogeronimo.com.br/post/colesterol-hdl-para-que-serve-exames-e-como-controlar/266",
+        "https://altadiagnosticos.com.br/saude/colesterol-hdl/"
+      ]
+    },
+    {
+      "keyword": "colesterol ldl",
+      "volume": 74000,
+      "competition": "LOW",
+      "cluster": "colesterol",
+      "absorve": [
+        "Quando o LDL é preocupante?",
+        "Qual é o valor ideal do colesterol LDL?",
+        "O que fazer quando o colesterol LDL está alto?",
+        "O que causa o colesterol LDL ficar alto?",
+        "colesterol ldl o que é",
+        "ldl alto"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "labsl, labvital, labvicentino, labanchieta, wanessabordin, diagnoson, Instagram, laboratoriovitoria",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.tuasaude.com/colesterol-ldl/",
+        "https://www.einstein.br/n/vida-saudavel/quando-colesterol-considerado-alto-saiba-o-que-influencua",
+        "https://www.clinicasim.com/blog/exames-laboratoriais/colesterol-e-fracoes-o-que-significam-ldl-hdl-e-vldl-no-exame-de-sangue/",
+        "https://www.unimed.coop.br/site/web/cascavel/-/hdl-x-ldl-o-que-saber-sobre-colesterol-para-manter-sua-sa%C3%BAde-card%C3%ADaca",
+        "https://labvital.com.br/glossario/o-que-e-colesterol-ldl/",
+        "https://labsl.com.br/blog/colesterol-ldl/"
+      ]
+    },
+    {
+      "keyword": "com quantos anos a mulher entra na menopausa",
+      "volume": 16300,
+      "competition": "LOW",
+      "cluster": "menopausa",
+      "absorve": [
+        "idade menopausa",
+        "com quantos anos começa a menopausa",
+        "com quantos anos entra na menopausa",
+        "Quais são os primeiros sinais da menopausa?",
+        "Qual a idade certa para parar de menstruar?",
+        "Como saber a idade em que vou entrar na menopausa?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Marie Claire, clinicapera (2019), clinicaberger, sanarmed, agazeta, patriciasantafe, clinifemina, lucianapepino",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.saudebemestar.pt/pt/clinica/ginecologia/menopausa/",
+        "https://www.apm.org.br/media-de-idade-da-mulher-entrar-na-menopausa-no-brasil-e-48-anos-somente-metade-delas-faz-tratamento/",
+        "https://www.einstein.br/n/glossario-de-saude/menopausa-e-climaterio",
+        "https://hilab.com.br/blog/quais-sao-os-sintomas-da-menopausa/",
+        "https://revistamarieclaire.globo.com/saude/noticia/2025/10/qual-a-diferenca-entre-menopausa-climaterio-e-perimenopausa.ghtml",
+        "https://www.agazeta.com.br/secuida/menopausa-ou-climaterio-saiba-diferenca-e-quando-repor-hormonios-0226"
+      ]
+    },
+    {
+      "keyword": "climatério",
+      "volume": 33100,
+      "competition": "LOW",
+      "cluster": "menopausa",
+      "absorve": [],
+      "serp": {
+        "facil": false,
+        "nivel": "DIFÍCIL",
+        "topoDoGoogle": "Rede D'Or, Einstein, Prefeitura SP, SOGESP, FOUSP",
+        "aiOverview": true
+      },
+      "fontes": []
+    },
+    {
+      "keyword": "reposição hormonal",
+      "volume": 22200,
+      "competition": "LOW",
+      "cluster": "menopausa",
+      "absorve": [],
+      "serp": {
+        "facil": false,
+        "nivel": "DIFÍCIL",
+        "topoDoGoogle": "Drogaria São Paulo, Einstein, SciELO, YouTube Drauzio; tema de risco clínico",
+        "aiOverview": true
+      },
+      "fontes": []
     }
   ],
   "descartadas": "Mounjaxi/suplemento/termogênico (volume < 400 ou sem medição), '... 40+' de cauda longa sem volume, 'como emagrecer depois dos 40' (260/mês, concorrência HIGH)."

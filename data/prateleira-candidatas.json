@@ -1,0 +1,115 @@
+{
+  "atualizado": "2026-10-03",
+  "regra": "candidata vira 'ouro' (keywords-validated.json) só com SERP fácil + ≥2 fontes legíveis",
+  "fonteVolume": "HYPD/Keyword Planner BR",
+  "candidatas": [
+    {
+      "keyword": "colesterol alterado",
+      "volume": 49500,
+      "cluster": "colesterol",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "colesterol não hdl",
+      "volume": 27100,
+      "cluster": "colesterol",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "colesterol ruim qual é",
+      "volume": 22200,
+      "cluster": "colesterol",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "vldl colesterol",
+      "volume": 12100,
+      "cluster": "colesterol",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "colesterol bom e ruim",
+      "volume": 6600,
+      "cluster": "colesterol",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "colesterol qual o normal",
+      "volume": 4400,
+      "cluster": "colesterol",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "dieta para colesterol alto",
+      "volume": 3600,
+      "cluster": "colesterol",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "colesterol total acima de 200",
+      "volume": 3600,
+      "cluster": "colesterol",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "colesterol alto o que pode causar",
+      "volume": 3600,
+      "cluster": "colesterol",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "colesterol alto tontura",
+      "volume": 2400,
+      "cluster": "colesterol",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "colesterol alto dor de cabeça",
+      "volume": 1600,
+      "cluster": "colesterol",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "pré menopausa",
+      "volume": 6600,
+      "cluster": "menopausa",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "sintomas pré menopausa",
+      "volume": 3600,
+      "cluster": "menopausa",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "fogachos",
+      "volume": 4400,
+      "cluster": "menopausa",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "calores da menopausa",
+      "volume": 2900,
+      "cluster": "menopausa",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "progesterona na menopausa",
+      "volume": 1300,
+      "cluster": "menopausa",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "sintomas do climatério",
+      "volume": 4400,
+      "cluster": "menopausa",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "sarcopenia em idosos",
+      "volume": 2400,
+      "cluster": "musculo",
+      "status": "sem-serp"
+    }
+  ]
+}
