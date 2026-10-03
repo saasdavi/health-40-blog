@@ -2,11 +2,13 @@
 import { readFileSync } from 'fs';
 import { resolve } from 'path';
 
-let articleCount = 0;
+let articles = [];
 try {
   const articlesPath = resolve('data/articles.json');
   const articlesData = JSON.parse(readFileSync(articlesPath, 'utf-8'));
-  articleCount = articlesData.articles.filter((a: any) => a.status === 'published').length;
+  articles = articlesData.articles
+    .filter((a: any) => a.status === 'ready_for_publication' || a.status === 'published')
+    .slice(0, 6);
 } catch (e) {
   console.warn('Could not read articles.json');
 }
@@ -16,8 +18,8 @@ try {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>Saúde após os 40 - Blog</title>
-    <meta name="description" content="Descoberta automática de demanda + produção de conteúdo sobre saúde para pessoas com 40+ anos." />
+    <title>Saúde após os 40 - Blog Premium de Saúde</title>
+    <meta name="description" content="Conteúdo original e baseado em pesquisa sobre saúde e bem-estar para pessoas com 40+ anos. Artigos publicados diariamente." />
     <style>
       * {
         margin: 0;
@@ -25,98 +27,206 @@ try {
         box-sizing: border-box;
       }
 
+      :root {
+        --primary: #667eea;
+        --primary-dark: #5568d3;
+        --accent: #764ba2;
+        --text: #1a1a1a;
+        --text-light: #666;
+        --bg-light: #f8f9fb;
+        --border: #e0e0e0;
+      }
+
       body {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
         line-height: 1.6;
-        color: #333;
+        color: var(--text);
+        background: white;
       }
 
       .container {
         max-width: 1200px;
         margin: 0 auto;
-        padding: 2rem;
+        padding: 0 1.5rem;
       }
 
+      /* Header */
       header {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
         color: white;
-        padding: 4rem 2rem;
+        padding: 5rem 1.5rem;
         text-align: center;
+        margin-bottom: 3rem;
       }
 
       header h1 {
-        font-size: 3rem;
-        margin-bottom: 1rem;
+        font-size: 2.5rem;
+        margin-bottom: 0.5rem;
+        font-weight: 700;
       }
 
       header p {
-        font-size: 1.2rem;
-        opacity: 0.9;
+        font-size: 1.1rem;
+        opacity: 0.95;
       }
 
+      /* Stats */
       .stats {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-        gap: 2rem;
-        margin: 3rem 0;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1.5rem;
+        margin-bottom: 3rem;
       }
 
       .stat-box {
-        background: #f5f5f5;
-        padding: 2rem;
+        background: var(--bg-light);
+        padding: 1.5rem;
         border-radius: 8px;
         text-align: center;
+        border: 1px solid var(--border);
       }
 
       .stat-box h3 {
-        font-size: 2.5rem;
-        color: #667eea;
-        margin-bottom: 0.5rem;
+        font-size: 2rem;
+        color: var(--primary);
+        margin-bottom: 0.3rem;
+        font-weight: 700;
       }
 
       .stat-box p {
-        color: #666;
+        color: var(--text-light);
+        font-size: 0.95rem;
       }
 
-      .cta {
+      /* Articles */
+      .articles-section {
+        margin: 4rem 0;
+      }
+
+      .articles-section h2 {
+        font-size: 2rem;
+        margin-bottom: 2rem;
+        color: var(--text);
+      }
+
+      .articles-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 2rem;
+        margin-bottom: 2rem;
+      }
+
+      .article-card {
+        background: white;
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        overflow: hidden;
+        transition: transform 0.3s, box-shadow 0.3s;
+        cursor: pointer;
+      }
+
+      .article-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 24px rgba(102, 126, 234, 0.15);
+      }
+
+      .article-card-content {
+        padding: 1.5rem;
+      }
+
+      .article-card h3 {
+        font-size: 1.1rem;
+        margin-bottom: 0.5rem;
+        color: var(--text);
+        line-height: 1.4;
+      }
+
+      .article-card p {
+        color: var(--text-light);
+        font-size: 0.95rem;
+        line-height: 1.5;
+        margin-bottom: 1rem;
+      }
+
+      .article-meta {
+        display: flex;
+        justify-content: space-between;
+        font-size: 0.85rem;
+        color: var(--text-light);
+      }
+
+      .btn {
+        display: inline-block;
+        padding: 0.75rem 1.5rem;
+        background: var(--primary);
+        color: white;
+        text-decoration: none;
+        border-radius: 6px;
+        font-weight: 600;
+        transition: background 0.3s;
+        font-size: 0.95rem;
+      }
+
+      .btn:hover {
+        background: var(--primary-dark);
+      }
+
+      .btn-block {
+        display: block;
         text-align: center;
+        margin-top: 1rem;
+      }
+
+      /* How it works */
+      .how-section {
+        background: var(--bg-light);
+        padding: 2rem;
+        border-radius: 8px;
         margin: 3rem 0;
       }
 
-      .cta a {
-        display: inline-block;
-        padding: 1rem 2rem;
-        background: #667eea;
-        color: white;
-        text-decoration: none;
-        border-radius: 5px;
-        font-weight: bold;
-        transition: background 0.3s;
+      .how-section h2 {
+        font-size: 1.5rem;
+        margin-bottom: 1rem;
       }
 
-      .cta a:hover {
-        background: #764ba2;
+      .how-section ol {
+        margin-left: 1.5rem;
+        line-height: 2;
       }
 
-      .status {
-        background: #f0f4ff;
-        border-left: 4px solid #667eea;
-        padding: 1.5rem;
-        margin: 2rem 0;
-        border-radius: 4px;
-      }
-
-      .status h3 {
+      .how-section li {
         margin-bottom: 0.5rem;
-        color: #667eea;
       }
 
+      /* Footer */
       footer {
+        border-top: 1px solid var(--border);
+        padding: 2rem 0;
+        margin-top: 4rem;
         text-align: center;
-        padding: 2rem;
-        color: #999;
-        border-top: 1px solid #eee;
-        margin-top: 3rem;
+        color: var(--text-light);
+        font-size: 0.9rem;
+      }
+
+      footer a {
+        color: var(--primary);
+        text-decoration: none;
+        margin: 0 1rem;
+      }
+
+      footer a:hover {
+        text-decoration: underline;
+      }
+
+      @media (max-width: 768px) {
+        header h1 {
+          font-size: 1.8rem;
+        }
+
+        .articles-grid {
+          grid-template-columns: 1fr;
+        }
       }
     </style>
   </head>
@@ -124,69 +234,68 @@ try {
     <header>
       <div class="container">
         <h1>🏥 Saúde após os 40</h1>
-        <p>Blog autônomo de descoberta de demanda + produção de conteúdo</p>
+        <p>Conteúdo original sobre saúde e bem-estar para você</p>
       </div>
     </header>
 
     <main class="container">
       <div class="stats">
         <div class="stat-box">
-          <h3 id="article-count">{articleCount}</h3>
-          <p>Artigos Publicados</p>
+          <h3>{articles.length}</h3>
+          <p>Artigos Premium</p>
         </div>
         <div class="stat-box">
-          <h3>∞</h3>
-          <p>Palavras-chave Descobertas</p>
+          <h3>📅</h3>
+          <p>Novos Artigos Diários</p>
         </div>
         <div class="stat-box">
-          <h3>2</h3>
-          <p>Artigos/Dia (Máximo)</p>
+          <h3>✅</h3>
+          <p>100% Original</p>
         </div>
       </div>
 
-      <div class="status">
-        <h3>📊 Status do Sistema</h3>
+      {articles.length > 0 && (
+        <section class="articles-section">
+          <h2>Últimos Artigos</h2>
+          <div class="articles-grid">
+            {articles.map((article: any) => (
+              <div class="article-card">
+                <div class="article-card-content">
+                  <h3>{article.title}</h3>
+                  <p>{article.description}</p>
+                  <div class="article-meta">
+                    <span>📖 {article.wordCount || 0} palavras</span>
+                    <span>⏱️ {Math.ceil((article.wordCount || 0) / 200)} min</span>
+                  </div>
+                  <a href={`/${article.slug || 'artigo'}`} class="btn btn-block">Ler Artigo</a>
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <div class="how-section">
+        <h2>📖 Sobre Este Blog</h2>
         <p>
-          ✅ Arquitetura: Pronta<br/>
-          ✅ Dados: Inicializados<br/>
-          ⏳ APIs: Aguardando configuração<br/>
-          ⏳ Automação: Pronta para ativar
+          O Saúde após os 40 é um blog especializado em conteúdo original sobre saúde e bem-estar para pessoas com 40+ anos.
+          Cada artigo é cuidadosamente pesquisado, escrito e revisado para garantir qualidade, precisão e utilidade.
         </p>
-      </div>
-
-      <div class="cta">
-        <a href="/artigos">Ver Artigos</a>
-      </div>
-
-      <section style="margin: 3rem 0;">
-        <h2>🎯 Como funciona?</h2>
         <p style="margin-top: 1rem;">
-          Este blog opera um sistema autônomo de:
+          <strong>Nosso compromisso:</strong> Conteúdo baseado em pesquisa, escritas por IA com revisão automática de qualidade,
+          sempre respeitando padrões de segurança médica e fornecendo disclaimers apropriados.
         </p>
-        <ol style="margin: 1rem 0 0 2rem;">
-          <li><strong>Descoberta:</strong> Google Keyword Planner + Autocomplete</li>
-          <li><strong>Validação:</strong> Claude analisa demanda e oportunidade</li>
-          <li><strong>Pesquisa:</strong> Analisa 2-3 concorrentes do Google</li>
-          <li><strong>Produção:</strong> Claude escreve conteúdo original</li>
-          <li><strong>Publicação:</strong> Automática via GitHub + Vercel</li>
-          <li><strong>Medição:</strong> Search Console alimenta o ciclo novamente</li>
-        </ol>
-      </section>
-
-      <section style="margin: 3rem 0;">
-        <h2>📈 Próximas Etapas</h2>
-        <ul style="margin: 1rem 0 0 2rem;">
-          <li>Ativar descoberta de keywords</li>
-          <li>Validar primeiras oportunidades</li>
-          <li>Pesquisar competitors</li>
-          <li>Produzir primeiro artigo</li>
-          <li>Publicar e medir</li>
-        </ul>
-      </section>
+      </div>
     </main>
 
     <footer>
-      <p>Powered by autonomous content discovery system • Health 40+ Blog</p>
+      <p>
+        <a href="/sobre">Sobre</a>
+        <a href="/contato">Contato</a>
+        <a href="/politica-privacidade">Privacidade</a>
+        <a href="/termos-uso">Termos</a>
+      </p>
+      <p style="margin-top: 1rem;">© 2026 Saúde após os 40 • Sistema autônomo de conteúdo</p>
     </footer>
   </body>
 </html>
