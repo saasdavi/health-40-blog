@@ -1,50 +1,150 @@
 {
-  "version": "1.0.0",
+  "version": "2.0.0",
   "lastUpdated": "2026-10-03T00:00:00Z",
   "niche": "Saúde após os 40",
-  "seeds": [
+  "audience": "Homens e Mulheres acima de 40 anos",
+  "structure": "Nicho → Subnichos → Categorias → Keywords → Long-tails",
+  "principle": "Um artigo = Responde demanda real validada do nicho",
+  "subnichos": [
     {
-      "id": "seed_001",
-      "type": "niche",
-      "value": "saúde após os 40",
-      "variants": [
-        "saúde 40+",
-        "saúde depois dos 40"
+      "id": "subncho_001",
+      "name": "Alimentação",
+      "description": "Nutrição, receitas, dietas para 40+",
+      "categories": [
+        "Proteína",
+        "Nutrientes Específicos",
+        "Receitas",
+        "Dietas",
+        "Suplementos"
       ],
       "status": "active",
-      "discoveredAt": "2026-10-03T00:00:00Z"
+      "createdAt": "2026-10-03T00:00:00Z"
     },
     {
-      "id": "seed_002",
-      "type": "theme",
-      "value": "colesterol",
-      "parentSeed": "seed_001",
-      "status": "pending",
-      "discoveredAt": "2026-10-03T00:00:00Z"
+      "id": "subncho_002",
+      "name": "Esporte/Exercício",
+      "description": "Treinos, musculação, cardio para 40+",
+      "categories": [
+        "Musculação",
+        "Cardio",
+        "Flexibilidade",
+        "Recuperação",
+        "Lesões/Prevenção"
+      ],
+      "status": "active",
+      "createdAt": "2026-10-03T00:00:00Z"
     },
     {
-      "id": "seed_003",
-      "type": "theme",
-      "value": "sono",
-      "parentSeed": "seed_001",
-      "status": "pending",
-      "discoveredAt": "2026-10-03T00:00:00Z"
+      "id": "subncho_003",
+      "name": "Sono/Descanso",
+      "description": "Qualidade de sono, insônia, rotina",
+      "categories": [
+        "Insônia",
+        "Qualidade do Sono",
+        "Posição de Dormir",
+        "Rotina Sono",
+        "Ronco/Apneia"
+      ],
+      "status": "active",
+      "createdAt": "2026-10-03T00:00:00Z"
     },
     {
-      "id": "seed_004",
-      "type": "theme",
-      "value": "exercício",
-      "parentSeed": "seed_001",
-      "status": "pending",
-      "discoveredAt": "2026-10-03T00:00:00Z"
+      "id": "subncho_004",
+      "name": "Problemas de Saúde 40+",
+      "description": "Colesterol, diabetes, articulações, menopausa",
+      "categories": [
+        "Colesterol",
+        "Diabetes",
+        "Hipertensão",
+        "Articulações",
+        "Menopausa"
+      ],
+      "status": "active",
+      "createdAt": "2026-10-03T00:00:00Z"
     },
     {
-      "id": "seed_005",
-      "type": "theme",
-      "value": "alimentação",
-      "parentSeed": "seed_001",
-      "status": "pending",
-      "discoveredAt": "2026-10-03T00:00:00Z"
+      "id": "subncho_005",
+      "name": "Energia/Disposição",
+      "description": "Cansaço, fadiga, energia para 40+",
+      "categories": [
+        "Cansaço",
+        "Disposição",
+        "Café/Cafeína",
+        "Vitaminas",
+        "Exercício/Atividade"
+      ],
+      "status": "active",
+      "createdAt": "2026-10-03T00:00:00Z"
+    },
+    {
+      "id": "subncho_006",
+      "name": "Saúde Mental/Estresse",
+      "description": "Ansiedade, depressão, estresse, meditação",
+      "categories": [
+        "Ansiedade",
+        "Depressão",
+        "Estresse",
+        "Meditação/Mindfulness",
+        "Relacionamentos"
+      ],
+      "status": "active",
+      "createdAt": "2026-10-03T00:00:00Z"
+    },
+    {
+      "id": "subncho_007",
+      "name": "Pele/Cabelo/Aparência",
+      "description": "Rejuvenescimento, rugas, cabelo, colágeno",
+      "categories": [
+        "Pele",
+        "Cabelo",
+        "Colágeno",
+        "Cosmética Natural",
+        "Rejuvenescimento"
+      ],
+      "status": "active",
+      "createdAt": "2026-10-03T00:00:00Z"
+    },
+    {
+      "id": "subncho_008",
+      "name": "Prevenção/Check-ups",
+      "description": "Exames, vacinação, prevenção de doenças",
+      "categories": [
+        "Exames",
+        "Vacinação",
+        "Monitoramento",
+        "Hábitos Saudáveis",
+        "Prevenção Doenças"
+      ],
+      "status": "active",
+      "createdAt": "2026-10-03T00:00:00Z"
+    },
+    {
+      "id": "subncho_009",
+      "name": "Medicamentos/Suplementos",
+      "description": "Suplementos, vitaminas, minerais, medicamentos",
+      "categories": [
+        "Suplementos Gerais",
+        "Vitaminas",
+        "Minerais",
+        "Polivitamínos",
+        "Medicamentos"
+      ],
+      "status": "active",
+      "createdAt": "2026-10-03T00:00:00Z"
+    },
+    {
+      "id": "subncho_010",
+      "name": "Atividades/Lazer/Social",
+      "description": "Hobbies, viagens, comunidade, aprendizado",
+      "categories": [
+        "Hobbies",
+        "Viagens",
+        "Diversão",
+        "Aprendizado",
+        "Comunidade"
+      ],
+      "status": "active",
+      "createdAt": "2026-10-03T00:00:00Z"
     }
   ]
 }
