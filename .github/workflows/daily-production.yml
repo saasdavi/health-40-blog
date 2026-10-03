@@ -28,14 +28,14 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: 📝 FASE 10 - Produce Content
+      - name: 📝 FASE 10 - Produce Content (REAL com Google Search API)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GOOGLE_SEARCH_API_KEY: ${{ secrets.GOOGLE_SEARCH_API_KEY }}
           GOOGLE_SEARCH_ENGINE_ID: ${{ secrets.GOOGLE_SEARCH_ENGINE_ID }}
         run: |
-          echo "🎯 Produzindo artigos..."
-          node scripts/production.js
+          echo "🎯 Produzindo artigos com análise de concorrentes reais..."
+          node scripts/production-real.js
 
       - name: 📋 FASE 11 - Editorial Review
         env:
