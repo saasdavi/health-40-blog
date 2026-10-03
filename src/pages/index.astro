@@ -253,9 +253,40 @@ try {
 
       .articles-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        grid-template-columns: repeat(3, minmax(0, 1fr));
         gap: 1.8rem;
         margin-bottom: 2rem;
+        align-items: stretch;
+      }
+
+      .articles-grid > .card-link {
+        display: block;
+        text-decoration: none;
+        color: inherit;
+        height: 100%;
+      }
+
+      .articles-grid .article-card {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .articles-grid .article-card-content {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+      }
+
+      .articles-grid .article-card .btn-block {
+        margin-top: auto;
+        text-align: center;
+      }
+
+      @media (max-width: 960px) {
+        .articles-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
       }
 
       .article-card {
@@ -404,10 +435,13 @@ try {
         color: var(--accent);
       }
 
-      @media (max-width: 768px) {
+      @media (max-width: 600px) {
         .articles-grid {
           grid-template-columns: 1fr;
         }
+      }
+
+      @media (max-width: 768px) {
 
         .featured-article {
           height: 350px;
@@ -478,7 +512,7 @@ try {
           {articles[0] && (
             <div class="featured-article">
               {articles[0].featuredImage ? (
-                <img src={articles[0].featuredImage} alt={articles[0].title} />
+                <img src={articles[0].featuredImage} alt={articles[0].imageAlt || articles[0].title} />
               ) : (
                 <div style="background: linear-gradient(135deg, #667eea, #764ba2);"></div>
               )}
@@ -497,11 +531,11 @@ try {
           <h2>Mais Artigos</h2>
           <div class="articles-grid">
             {articles.slice(1).map((article: any) => (
-              <a href={`/${article.slug || 'artigo'}`} style="text-decoration: none; color: inherit;">
+              <a href={`/${article.slug || 'artigo'}/`} class="card-link">
                 <div class="article-card">
                   <div class="article-card-image">
                     {article.featuredImage ? (
-                      <img src={article.featuredImage} alt={article.title} />
+                      <img src={article.featuredImage} alt={article.imageAlt || article.title} />
                     ) : (
                       <div style="width: 100%; height: 100%; background: linear-gradient(135deg, #667eea, #764ba2); display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">
                         {article.title.substring(0, 1)}
@@ -515,7 +549,7 @@ try {
                       <span>📖 {article.wordCount || 0} palavras</span>
                       <span>⏱️ {Math.ceil((article.wordCount || 0) / 200)} min</span>
                     </div>
-                    <a href={`/${article.slug || 'artigo'}`} class="btn btn-block">Ler Artigo</a>
+                    <span class="btn btn-block">Ler Artigo</span>
                   </div>
                 </div>
               </a>

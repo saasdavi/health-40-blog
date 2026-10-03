@@ -209,6 +209,12 @@ const breadcrumbItems = [
       }
 
       /* Featured Image */
+      .article-figure { margin: 2rem 0; }
+      .article-figure img { width: 100%; height: auto; border-radius: 10px; display: block; }
+      .article-figure figcaption { font-size: 0.9rem; color: #666; margin-top: 0.5rem; line-height: 1.4; }
+      .article-figure .credit, .image-credit { font-size: 0.8rem; color: #888; }
+      .article-figure .credit a, .image-credit a { color: inherit; text-decoration: underline; }
+      .image-credit { margin: -1rem 0 1.5rem; }
       .featured-image {
         width: 100%;
         max-height: 500px;
@@ -432,9 +438,12 @@ const breadcrumbItems = [
       {currentArticle.featuredImage && (
         <img
           src={currentArticle.featuredImage}
-          alt={`Imagem de destaque: ${currentArticle.title}`}
+          alt={currentArticle.imageAlt || `Imagem de destaque: ${currentArticle.title}`}
           class="featured-image"
         />
+      )}
+      {currentArticle.imageCredit && (
+        <p class="image-credit">Foto: <a href={currentArticle.imageCredit.url} rel="noopener nofollow" target="_blank">{currentArticle.imageCredit.author}</a> / {currentArticle.imageCredit.source}</p>
       )}
 
       <!-- Article Content -->

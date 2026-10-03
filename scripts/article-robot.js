@@ -142,14 +142,27 @@ TITLE: <título que contenha a palavra-chave, no máximo 50 caracteres>
 DESCRIPTION: <120 a 160 caracteres, com a palavra-chave>
 CAPA_BUSCA: <busca de foto em INGLÊS, cena concreta e fotografável, sem marcas>
 CAPA_ALT: <alt em português descrevendo o que aparece na foto, 25+ caracteres>
+FOTO1_BUSCA: <busca em INGLÊS, cena diferente da capa>
+FOTO1_ALT: <alt em português, 25+ caracteres>
+FOTO1_LEGENDA: <legenda que liga a foto ao texto, até 120 caracteres>
+FOTO1_SECAO: <número do <h2> (1 = primeiro h2 do corpo) em cujo fim a foto entra>
+FOTO2_BUSCA: <busca em INGLÊS, cena diferente da capa e da foto 1>
+FOTO2_ALT: <alt em português, 25+ caracteres>
+FOTO2_LEGENDA: <legenda, até 120 caracteres>
+FOTO2_SECAO: <número do <h2>, diferente do da foto 1>
 ---
 <corpo em HTML>`;
   }
 
   parse(raw) {
-    const m = raw.match(/TITLE:\s*(.+)\nDESCRIPTION:\s*(.+)\nCAPA_BUSCA:\s*(.+)\nCAPA_ALT:\s*(.+)\n---\n([\s\S]+)/);
-    if (!m) throw new Error('resposta fora do formato');
-    return { title: m[1].trim(), description: m[2].trim(), capaBusca: m[3].trim(), capaAlt: m[4].trim(), body: m[5].trim().replace(/^```html\n?|```\s*$/g, '').trim() };
+    const i = raw.indexOf('\n---\n');
+    if (i < 0) throw new Error('resposta sem separador ---');
+    const header = raw.slice(0, i), body = raw.slice(i + 5);
+    const get = (k) => (header.match(new RegExp(`^${k}:\\s*(.+)$`, 'm')) || [])[1]?.trim();
+    const title = get('TITLE'), description = get('DESCRIPTION'), capaBusca = get('CAPA_BUSCA'), capaAlt = get('CAPA_ALT');
+    if (!title || !description || !capaBusca || !capaAlt) throw new Error('cabeçalho incompleto');
+    const fotos = [1, 2].map(n => ({ busca: get(`FOTO${n}_BUSCA`), alt: get(`FOTO${n}_ALT`), legenda: get(`FOTO${n}_LEGENDA`), secao: parseInt(get(`FOTO${n}_SECAO`), 10) || n + 1 })).filter(f => f.busca && f.alt);
+    return { title, description, capaBusca, capaAlt, fotos, body: body.trim().replace(/^```html\n?|```\s*$/g, '').trim() };
   }
 
   montar(p, d, fontesLidas) {
@@ -170,7 +183,7 @@ CAPA_ALT: <alt em português descrevendo o que aparece na foto, 25+ caracteres>
       wordCount: words,
       readingTime: Math.max(1, Math.round(words / 200)),
       sources: fontesLidas.map(f => ({ title: f.title, url: f.url })),
-      imagePlan: { busca: d.capaBusca, alt: d.capaAlt },
+      imagePlan: { capa: { busca: d.capaBusca, alt: d.capaAlt }, fotos: d.fotos },
       volume: p.volume,
       status: 'generated',
       createdAt: now
@@ -269,22 +282,92 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
   }
 
   // ---------- 5. imagem ----------
-  async imagem(a) {
-    if (!process.env.PEXEL_API_KEY) {
-      if (process.env.ALLOW_NO_IMAGE) { console.log('  ⚠️  sem PEXEL_API_KEY (ALLOW_NO_IMAGE=1, só teste)'); return true; }
-      console.log('  ⛔ sem PEXEL_API_KEY: regra "todo artigo sobe com imagem"'); return false;
+  // ---------- 5. imagens (Pexels + Pixabay) ----------
+  async buscarFoto(busca, preferir, usadas) {
+    const pexels = async () => {
+      if (!process.env.PEXEL_API_KEY) return null;
+      const r = await fetch(`https://api.pexels.com/v1/search?query=${encodeURIComponent(busca)}&per_page=20&orientation=landscape`, { headers: { Authorization: process.env.PEXEL_API_KEY } });
+      if (!r.ok) throw new Error(`Pexels ${r.status}`);
+      const j = await r.json();
+      const f = (j.photos || []).find(x => !usadas.has(`pexels:${x.id}`));
+      if (!f) return null;
+      return { id: `pexels:${f.id}`, url: f.src.large, width: 940, height: Math.round(940 * f.height / f.width), credit: { author: f.photographer, source: 'Pexels', url: f.url, license: 'Licença Pexels', licenseUrl: 'https://www.pexels.com/license/' } };
+    };
+    const pixabay = async () => {
+      if (!process.env.PIXABAY_API_KEY) return null;
+      const r = await fetch(`https://pixabay.com/api/?key=${process.env.PIXABAY_API_KEY}&q=${encodeURIComponent(busca)}&image_type=photo&orientation=horizontal&safesearch=true&per_page=20`);
+      if (!r.ok) throw new Error(`Pixabay ${r.status}`);
+      const j = await r.json();
+      const f = (j.hits || []).find(x => !usadas.has(`pixabay:${x.id}`));
+      if (!f) return null;
+      return { id: `pixabay:${f.id}`, url: f.largeImageURL, width: 1280, height: Math.round(1280 * f.imageHeight / f.imageWidth), credit: { author: f.user, source: 'Pixabay', url: f.pageURL, license: 'Licença Pixabay', licenseUrl: 'https://pixabay.com/service/license-summary/' } };
+    };
+    const ordem = preferir === 'pixabay' ? [pixabay, pexels] : [pexels, pixabay];
+    for (const t of ordem) {
+      try { const f = await t(); if (f) return f; } catch (e) { console.log(`  ⚠️  ${e.message}`); }
     }
-    const r = await fetch(`https://api.pexels.com/v1/search?query=${encodeURIComponent(a.imagePlan.busca)}&per_page=15&orientation=landscape`, { headers: { Authorization: process.env.PEXEL_API_KEY } });
-    if (!r.ok) { console.log(`  ⛔ Pexels ${r.status}`); return false; }
-    const j = await r.json();
-    const usadas = new Set(this.db.articles.map(x => x.featuredImage));
-    const foto = (j.photos || []).find(p => !usadas.has(p.src.large2x)) || (j.photos || [])[0];
-    if (!foto) { console.log('  ⛔ Pexels sem resultado'); return false; }
-    a.featuredImage = foto.src.large2x;
-    a.imageAlt = a.imagePlan.alt;
-    a.imageCredit = { author: foto.photographer, source: 'Pexels', url: foto.url, license: 'Licença Pexels', licenseUrl: 'https://www.pexels.com/license/' };
+    return null;
+  }
+
+  async baixar(foto, slug, nome) {
+    const r = await fetch(foto.url);
+    if (!r.ok) throw new Error(`download ${r.status}`);
+    const dir = path.join(__dirname, '../public/images', slug);
+    fs.mkdirSync(dir, { recursive: true });
+    const arquivo = `${slugify(nome).slice(0, 60)}.jpg`;
+    fs.writeFileSync(path.join(dir, arquivo), Buffer.from(await r.arrayBuffer()));
+    return `/images/${slug}/${arquivo}`;
+  }
+
+  figura(f) {
+    const c = f.credit;
+    return `\n<figure class="article-figure"><img src="${f.src}" alt="${f.alt.replace(/"/g, '&quot;')}" width="${f.width}" height="${f.height}" loading="lazy" /><figcaption>${f.legenda ? f.legenda + ' ' : ''}<span class="credit">Foto: <a href="${c.url}" rel="noopener nofollow" target="_blank">${c.author}</a> / ${c.source}</span></figcaption></figure>\n`;
+  }
+
+  inserirFotos(a, fotos) {
+    const partes = a.content.split(/(?=<h2)/);
+    const iFontes = partes.findIndex(x => /^<h2>\s*Fontes/i.test(x));
+    const limite = (iFontes === -1 ? partes.length : iFontes) - 1;
+    const usadasSecoes = new Set();
+    for (const f of fotos) {
+      let n = Math.min(Math.max(f.secao, 1), limite);
+      while (usadasSecoes.has(n) && n < limite) n++;
+      while (usadasSecoes.has(n) && n > 1) n--;
+      usadasSecoes.add(n);
+      partes[n] = partes[n].replace(/\s*$/, '') + this.figura(f);
+    }
+    a.content = partes.join('');
+  }
+
+  async imagem(a) {
+    if (!process.env.PEXEL_API_KEY && !process.env.PIXABAY_API_KEY) {
+      if (process.env.ALLOW_NO_IMAGE) { console.log('  ⚠️  sem chaves de imagem (ALLOW_NO_IMAGE=1, só teste)'); return true; }
+      console.log('  ⛔ sem PEXEL_API_KEY/PIXABAY_API_KEY: regra "todo artigo sobe com imagem"'); return false;
+    }
+    const usadas = new Set(this.db.articles.flatMap(x => x.imageIds || []));
+    const ids = [];
+    const capa = await this.buscarFoto(a.imagePlan.capa.busca, 'pexels', usadas);
+    if (!capa) { console.log('  ⛔ sem foto de capa'); return false; }
+    usadas.add(capa.id); ids.push(capa.id);
+    a.featuredImage = await this.baixar(capa, a.slug, `${a.slug}-capa`);
+    a.imageAlt = a.imagePlan.capa.alt;
+    a.imageCredit = capa.credit;
+    console.log(`  🖼️  capa: ${capa.credit.source} / ${capa.credit.author}`);
+
+    const corpo = [];
+    for (const [i, plano] of (a.imagePlan.fotos || []).entries()) {
+      const foto = await this.buscarFoto(plano.busca, i % 2 === 0 ? 'pixabay' : 'pexels', usadas);
+      if (!foto) { console.log(`  ⚠️  sem foto para "${plano.busca}"`); continue; }
+      usadas.add(foto.id); ids.push(foto.id);
+      const src = await this.baixar(foto, a.slug, plano.alt);
+      corpo.push({ src, alt: plano.alt, legenda: plano.legenda, secao: plano.secao, width: foto.width, height: foto.height, credit: foto.credit });
+      console.log(`  🖼️  corpo ${i + 1}: ${foto.credit.source} / ${foto.credit.author}`);
+    }
+    if (!corpo.length) { console.log('  ⛔ nenhuma foto no corpo (mín 1)'); return false; }
+    this.inserirFotos(a, corpo);
+    a.images = corpo;
+    a.imageIds = ids;
     a.altConferido = false;
-    console.log(`  🖼️  ${foto.photographer} (${foto.url})`);
     return true;
   }
 
