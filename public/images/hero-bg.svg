@@ -104,12 +104,5 @@
                 Explorar Artigos Agora →
             </text>
         </g>
-
-        <!-- Trust indicators -->
-        <g opacity="0.85">
-            <text x="960" y="630" font-family="'Segoe UI', sans-serif" font-size="16" text-anchor="middle" fill="rgba(255,255,255,0.85)">
-                Juntando-se a milhares de pessoas que cuidam da sua saúde
-            </text>
-        </g>
     </g>
 </svg>
