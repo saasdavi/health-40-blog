@@ -55,7 +55,7 @@ const NOMES_FONTE = {
   'tuasaude.com': 'Tua Saúde', 'rededorsaoluiz.com.br': "Rede D'Or", 'altadiagnosticos.com.br': 'Alta Diagnósticos',
   'posenato.med.br': 'Posenato Diagnósticos', 'lusiadas.pt': 'Lusíadas Saúde', 'einstein.br': 'Hospital Israelita Albert Einstein',
   'labvital.com.br': 'LabVital', 'continentalhospitals.com': 'Continental Hospitals', 'labsl.com.br': 'Laboratório São Lucas',
-  'saude.abril.com.br': 'Veja Saúde', 'pesquisa.bvsalud.org': 'BVS Saúde'
+  'saude.abril.com.br': 'Veja Saúde', 'h9j.com.br': 'Hospital Nove de Julho', 'socesp.org.br': 'SOCESP (Sociedade de Cardiologia do Estado de São Paulo)', 'nav.dasa.com.br': 'Nav Dasa', 'drauziovarella.uol.com.br': 'Portal Drauzio Varella', 'piracanjubaproforce.com.br': 'ProForce', 'portal.pucrs.br': 'PUCRS', 'revistagalileu.globo.com': 'Revista Galileu', 'valesaude.com.br': 'Vale Saúde', 'pesquisa.bvsalud.org': 'BVS Saúde'
 };
 const palavras = (t) => t.split(/\s+/).filter(Boolean).length;
 const semHtml = (h) => h.replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ').trim();
@@ -79,14 +79,19 @@ class ArticleRobot {
       usadas.add((a.primaryKeyword || '').toLowerCase());
       usadas.add(a.slug);
     }
-    const livres = this.kw.filter(k => k.serp?.facil === true && k.fontes?.length && !usadas.has(k.keyword.toLowerCase()) && !usadas.has(slugify(k.keyword)));
+    const porSlug = new Map(this.db.articles.map(a => [a.slug, a]));
+    const livres = this.kw.filter(k => {
+      if (k.serp?.facil !== true || !k.fontes?.length) return false;
+      if (k.substitui) return !!porSlug.get(k.substitui) && porSlug.get(k.substitui).validador !== 'APROVADO';
+      return !usadas.has(k.keyword.toLowerCase()) && !usadas.has(slugify(k.keyword));
+    });
     livres.sort((a, b) => b.volume - a.volume);
     return livres.slice(0, BATCH_SIZE);
   }
 
   linksInternos() {
     return this.db.articles
-      .filter(a => a.status === 'published' && /^[a-z0-9-]+$/.test(a.slug || ''))
+      .filter(a => a.status === 'published' && a.validador === 'APROVADO' && /^[a-z0-9-]+$/.test(a.slug || ''))
       .map(a => ({ slug: a.slug, title: a.title }));
   }
 
@@ -191,7 +196,8 @@ FOTO2_SECAO: <número do <h2>, diferente do da foto 1>
     return {
       id: `art_${Date.now()}_${Math.random().toString(36).slice(2, 6)}`,
       title: d.title,
-      slug: slugify(p.keyword),
+      slug: p.slug || slugify(p.keyword),
+      _substitui: p.substitui || null,
       primaryKeyword: p.keyword,
       cluster: p.cluster,
       description: d.description,
@@ -215,7 +221,7 @@ FOTO2_SECAO: <número do <h2>, diferente do da foto 1>
     if (/<h1/i.test(html)) bloqueios.push('B01: H1 no corpo');
     if (a.wordCount < 1000) bloqueios.push(`B02: ${a.wordCount} palavras (mín 1000)`);
     if (!a.sources.length) bloqueios.push('B03: sem fonte');
-    if (this.db.articles.some(x => x.status !== 'draft' && x.slug === a.slug)) bloqueios.push('B04: keyword/slug já existe (canibalização)');
+    if (this.db.articles.some(x => x.status !== 'draft' && x.slug === a.slug && x.slug !== a._substitui)) bloqueios.push('B04: keyword/slug já existe (canibalização)');
     if (!texto.includes('não substitui a orientação de um profissional de saúde')) bloqueios.push('B05: sem aviso de saúde');
     if (RESTOS_IA.some(r => r.test(texto))) bloqueios.push('B06: resto de rascunho/IA');
     if (CLAIMS.some(r => r.test(texto))) bloqueios.push('SEG: claim proibido (cura/garantido/milagre/sem efeitos colaterais)');
@@ -282,7 +288,7 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
     const fontesLidas = await this.buscarFontes(p);
     if (fontesLidas.length < 2) throw new Error(`só ${fontesLidas.length} fonte(s) legível(is); mínimo 2, artigo não gerado`);
     for (let volta = 1; volta <= MAX_VOLTAS; volta++) {
-      art = this.montar(p, this.parse(await this.escrever(this.promptRedator(p, this.linksInternos(), devolucao, fontesLidas, art?.bodyOriginal))), fontesLidas);
+      art = this.montar(p, this.parse(await this.escrever(this.promptRedator(p, this.linksInternos().filter(l => l.slug !== (p.slug || slugify(p.keyword))), devolucao, fontesLidas, art?.bodyOriginal))), fontesLidas);
       this.stats.generated++;
       const aud = this.auditar(art);
       console.log(`  volta ${volta}: ${art.wordCount} palavras | auditoria ${aud.nota}/100${aud.bloqueios.length ? ' | BLOQUEIOS: ' + aud.bloqueios.join('; ') : ''}`);
@@ -294,7 +300,7 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
       devolucao = v.motivos || ['validador devolveu'];
       ultimo = { art, motivos: devolucao };
     }
-    delete ultimo.art.bodyOriginal;
+    delete ultimo.art.bodyOriginal; delete ultimo.art._substitui;
     ultimo.art.status = 'draft';
     ultimo.art.issues = ultimo.motivos;
     this.reprovado = ultimo.art;
@@ -411,9 +417,22 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
         if (!art) { this.stats.failed++; console.log('  ⛔ reprovado após 2 voltas, não publicado'); continue; }
         this.stats.approved++;
         if (!(await this.imagem(art))) { this.stats.failed++; continue; }
+        const agora = new Date().toISOString();
         art.status = 'published';
-        art.publishedAt = new Date().toISOString();
-        this.db.articles.push(art);
+        const idx = p.substitui ? this.db.articles.findIndex(x => x.slug === p.substitui) : -1;
+        if (idx >= 0) {
+          const antigo = this.db.articles[idx];
+          art.createdAt = antigo.createdAt || art.createdAt;
+          art.publishedAt = antigo.publishedAt || agora;
+          art.updatedAt = agora;
+          delete art._substitui;
+          this.db.articles[idx] = art;
+          console.log(`  ♻️  reescrito no mesmo endereço (era ${antigo.wordCount || '?'} palavras)`);
+        } else {
+          art.publishedAt = agora;
+          delete art._substitui;
+          this.db.articles.push(art);
+        }
         this.stats.published++;
         console.log(`  ✅ publicado: /${art.slug}/`);
       } catch (e) {

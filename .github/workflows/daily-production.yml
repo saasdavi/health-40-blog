@@ -7,6 +7,11 @@ on:
   #   - cron: '0 14 * * *'
   #   - cron: '0 18 * * *'
   workflow_dispatch:
+    inputs:
+      batch:
+        description: 'Quantos artigos gerar nesta execução'
+        required: false
+        default: '1'
 
 jobs:
   produce-articles:
@@ -39,6 +44,7 @@ jobs:
           GOOGLE_ADS_CUSTOMER_ID: ${{ secrets.GOOGLE_ADS_CUSTOMER_ID }}
           PEXEL_API_KEY: ${{ secrets.PEXEL_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          BATCH_SIZE: ${{ github.event.inputs.batch || '1' }}
         run: |
           echo "🔥 Iniciando Article Robot (Google Ads API + E-E-A-T Validation)..."
           node scripts/article-robot.js

@@ -1,8 +1,86 @@
 {
   "fonte": "Google Ads Keyword Planner via HYPD (research_get_search_volume), Brasil/Português, média mensal 12 meses até ago/2026 | Concorrência SEO: SERP real do Google (Brasil, mobile) em 03/10/2026 via HYPD serp_results",
   "validadoEm": "2026-10-03",
-  "regras": "Uma intenção por URL (como no Mente Curiosa). Variações viram seções H2. 'competition' é concorrência de ANÚNCIOS, não dificuldade de SEO. Termos sem volume medido foram descartados. | O robô só publica palavras com serp.facil === true. | 'fontes' = páginas reais que apareceram no Google para a palavra; o robô lê o texto delas e escreve só com base nele.",
+  "regras": "Uma intenção por URL (como no Mente Curiosa). Variações viram seções H2. 'competition' é concorrência de ANÚNCIOS, não dificuldade de SEO. Termos sem volume medido foram descartados. | O robô só publica palavras com serp.facil === true. | 'fontes' = páginas reais que apareceram no Google para a palavra; o robô lê o texto delas e escreve só com base nele. | Itens com 'substitui' reescrevem um artigo antigo no mesmo endereço.",
   "keywords": [
+    {
+      "keyword": "como baixar colesterol",
+      "slug": "colesterol-depois-dos-40",
+      "substitui": "colesterol-depois-dos-40",
+      "volume": 14800,
+      "competition": "LOW",
+      "cluster": "colesterol",
+      "absorve": [
+        "Qual é o vilão do colesterol alto?",
+        "O que não pode comer quando tem colesterol alto?",
+        "Qual é o remédio caseiro que faz baixar o colesterol?",
+        "O que comer no café da manhã para diminuir o colesterol?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Boa Forma (2022), YouTube, TV Gazeta, Catraca Livre, Minha Vida (2013), axiswellness.pt, Diário do Nordeste, Folha Vitória",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.h9j.com.br/blog/como-baixar-o-colesterol/",
+        "https://www.rededorsaoluiz.com.br/noticias/artigo/como-baixar-o-colesterol-ruim-conheca-10-passos",
+        "https://www.tuasaude.com/4-dicas-para-diminuir-o-colesterol-mau/",
+        "https://socesp.org.br/sala-de-imprensa/press-release/confira-dez-alimentos-que-ajudam-a-reduzir-o-colesterol/",
+        "https://nav.dasa.com.br/blog/colesterol-alto"
+      ]
+    },
+    {
+      "keyword": "quanto de proteína por dia",
+      "slug": "proteina-mulheres-40",
+      "substitui": "proteina-mulheres-40",
+      "volume": 5400,
+      "competition": "LOW",
+      "cluster": "musculo-e-forca",
+      "absorve": [
+        "Como fazer o cálculo de proteína por kg?",
+        "Quantas gramas de proteína por dia para ganhar massa muscular?",
+        "Como comer 100 gramas de proteína por dia?",
+        "Quantos ovos equivalem a 30g de proteína?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "YouTube, calculadoras (techgmx, gymkee, dfit), Instagram, Gazeta SP",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://drauziovarella.uol.com.br/alimentacao/qual-a-quantidade-ideal-de-proteinas-diarias/",
+        "https://www.einstein.br/n/vida-saudavel/proteina-como-garantir-um-consumo-adequado-do-nutriente",
+        "https://www.piracanjubaproforce.com.br/conteudos/quantidade-de-proteina-por-dia-qual-a-ideal"
+      ]
+    },
+    {
+      "keyword": "como meditar",
+      "slug": "meditacao-ansiedade-40",
+      "substitui": "meditacao-ansiedade-40",
+      "volume": 4400,
+      "competition": "LOW",
+      "cluster": "saude-mental",
+      "absorve": [
+        "O que se deve pensar na meditação?",
+        "Quais são os 3 tipos de meditação?",
+        "É possível meditar deitado?",
+        "Quais são os 4 pilares da meditação?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "jrmcoaching (2021), Terra, Instagram, Webinsider (2017), YouTube, Mundo Mindfulness",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://portal.pucrs.br/noticias/impacto-social/dicas-para-meditar/",
+        "https://revistagalileu.globo.com/sociedade/comportamento/noticia/2024/10/como-meditar-em-casa-comece-seguindo-estes-7-passos.ghtml",
+        "https://www.tuasaude.com/como-meditar/",
+        "https://www.valesaude.com.br/saude-v/como-meditar-corretamente/"
+      ]
+    },
     {
       "keyword": "o que é gordura visceral",
       "volume": 8100,
@@ -144,20 +222,6 @@
       "cluster": "menopausa",
       "absorve": [
         "idade menopausa começa"
-      ],
-      "serp": {
-        "facil": null,
-        "nivel": "NÃO CHECADO"
-      }
-    },
-    {
-      "keyword": "como baixar colesterol",
-      "volume": 14800,
-      "competition": "LOW",
-      "cluster": "colesterol",
-      "absorve": [
-        "alimentos que reduzem colesterol",
-        "aveia colesterol"
       ],
       "serp": {
         "facil": null,
