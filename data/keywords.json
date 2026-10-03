@@ -34,7 +34,7 @@
       "longTails": [],
       "validated": true,
       "serp_researched": false,
-      "article_planned": false,
+      "article_planned": true,
       "article_published": false,
       "discoveredAt": "2026-10-03T00:00:00Z",
       "lastUpdated": "2026-10-03T03:57:36.827Z",
@@ -53,7 +53,8 @@
       "theme": "saúde após os 40",
       "validated": true,
       "discoveredAt": "2026-10-03T03:41:49.046Z",
-      "lastUpdated": "2026-10-03T03:57:36.827Z"
+      "lastUpdated": "2026-10-03T03:57:36.827Z",
+      "article_planned": true
     },
     {
       "id": "kw_1790998909050_1",
@@ -68,7 +69,8 @@
       "theme": "saúde após os 40",
       "validated": true,
       "discoveredAt": "2026-10-03T03:41:49.050Z",
-      "lastUpdated": "2026-10-03T03:57:36.827Z"
+      "lastUpdated": "2026-10-03T03:57:36.827Z",
+      "article_planned": true
     },
     {
       "id": "kw_1790998909050_2",

@@ -9,6 +9,8 @@ on:
 jobs:
   produce-articles:
     runs-on: ubuntu-latest
+    # Daily production schedule: 9h UTC (6h AM BRT)
+    # Generates 3 articles per day (bilingual pairs + singles)
 
     steps:
       - name: Checkout repo
@@ -16,6 +18,7 @@ jobs:
         with:
           fetch-depth: 0
           token: ${{ secrets.GH_TOKEN }}
+          ref: main
 
       - name: Setup Node.js
         uses: actions/setup-node@v3

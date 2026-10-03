@@ -236,14 +236,14 @@ async function generateArticleOutline(strategy) {
 }
 
 /**
- * Write article with Claude
+ * Write article with Claude (BILINGUAL + Mounjaxi CTAs)
  */
-async function writeArticle(outline, strategy) {
+async function writeArticle(outline, strategy, language = 'pt') {
   const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 
   if (ANTHROPIC_API_KEY) {
     try {
-      const claudeArticle = await callClaudeWriteArticle(outline, strategy);
+      const claudeArticle = await callClaudeWriteArticle(outline, strategy, language);
       if (claudeArticle) {
         return claudeArticle;
       }
@@ -254,9 +254,9 @@ async function writeArticle(outline, strategy) {
 
   return {
     title: outline.title,
-    slug: outline.slug,
+    slug: language === 'en' ? outline.slug.replace('pt/', 'en/') : outline.slug,
     description: outline.description,
-    content: generateTemplateArticle(outline, strategy),
+    content: generateTemplateArticle(outline, strategy, language),
     wordCount: 2500,
     keywords: strategy.seoStrategy,
     structure: outline.sections
@@ -264,16 +264,68 @@ async function writeArticle(outline, strategy) {
 }
 
 /**
- * Call Claude Sonnet to write article
+ * Add Mounjaxi Vitta CTAs to article
  */
-async function callClaudeWriteArticle(outline, strategy) {
+function addMounjauxiCTAs(content, language = 'pt') {
+  if (language === 'pt') {
+    const cta1 = `\n\n> 💡 **Dica:** Muitas mulheres aos 40+ veem resultados acelerados quando combinam hábitos saudáveis com suplementação estratégica como **[Mounjaxi Vitta](https://mounjaxivitta.com.br/)**.\n\n`;
+
+    const cta2 = `\n\n**Acelere seus Resultados com Mounjaxi Vitta** 🚀\n\nMounjaxi Vitta é um encapsulado formulado especificamente para mulheres 30+ que desejam:\n- ⚡ Acelerar o metabolismo\n- 🎯 Reduzir o apetite\n- 💪 Aumentar a disposição\n- ✨ Suportar a perda de peso de forma saudável\n\n**[→ Conheça o Mounjaxi Vitta com Frete Grátis](https://mounjaxivitta.com.br/)**\n\n`;
+
+    const ctaFinal = `\n\n---\n\n## 🎁 Pronto para Transformar seu Corpo após os 40?\n\n**[👉 SOLICITE SEU MOUNJAXI VITTA AGORA - Frete Grátis!](https://mounjaxivitta.com.br/)**\n\nPreços especiais:\n- 1 Pote: R$245 (Frete Grátis)\n- 2 Potes: R$450 (Economize 8%)\n- 3 Potes: R$600 (Economize 10%)\n\n*Mounjaxi Vitta: Sua aliada nos 40+* ✨\n\n`;
+
+    // Insert CTAs at strategic positions
+    const sections = content.split('\n## ');
+    if (sections.length > 2) {
+      // CTA after first section
+      sections[1] = cta1 + sections[1];
+      // CTA after middle section
+      const midPoint = Math.floor(sections.length / 2);
+      sections[midPoint] = cta2 + sections[midPoint];
+    }
+
+    return sections.join('\n## ') + ctaFinal;
+  } else {
+    const cta1 = `\n\n> 💡 **Tip:** Many women 40+ see accelerated results when combining healthy habits with strategic supplementation like **[Mounjaxi Vitta](https://mounjaxivitta.com.br/)**.\n\n`;
+
+    const cta2 = `\n\n**Amplify Your Results with Mounjaxi Vitta** 🚀\n\nMounjaxi Vitta is a capsule specifically formulated for women 30+ who want to:\n- ⚡ Boost metabolism\n- 🎯 Reduce appetite\n- 💪 Increase energy\n- ✨ Support healthy weight loss\n\n**[→ Learn About Mounjaxi Vitta with Free Shipping](https://mounjaxivitta.com.br/)**\n\n`;
+
+    const ctaFinal = `\n\n---\n\n## 🎁 Ready to Transform Your Body After 40?\n\n**[👉 GET YOUR MOUNJAXI VITTA NOW - Free Shipping!](https://mounjaxivitta.com.br/)**\n\nSpecial pricing:\n- 1 Bottle: $50 USD (Free Shipping)\n- 2 Bottles: $90 USD (Save 8%)\n- 3 Bottles: $120 USD (Save 10%)\n\n*Mounjaxi Vitta: Your 40+ Ally* ✨\n\n`;
+
+    const sections = content.split('\n## ');
+    if (sections.length > 2) {
+      sections[1] = cta1 + sections[1];
+      const midPoint = Math.floor(sections.length / 2);
+      sections[midPoint] = cta2 + sections[midPoint];
+    }
+
+    return sections.join('\n## ') + ctaFinal;
+  }
+}
+
+/**
+ * Call Claude Haiku to write article (BILINGUAL)
+ */
+async function callClaudeWriteArticle(outline, strategy, language = 'pt') {
   const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 
   const sections = outline.sections
     .map(s => `## ${s.h2}`)
     .join('\n\n');
 
-  const prompt = `Write an ORIGINAL article for "${outline.title}" targeting people 40+.
+  const languageInstruction = language === 'pt'
+    ? 'Escreva em PORTUGUÊS (brasileiro) um artigo ORIGINAL'
+    : 'Write in ENGLISH an ORIGINAL article';
+
+  const targetAudience = language === 'pt'
+    ? 'mulheres brasileiras acima de 40 anos'
+    : 'women over 40 years old';
+
+  const mounjaxyNote = language === 'pt'
+    ? 'IMPORTANTE: Este artigo será complementado com 4 CTAs para Mounjaxi Vitta (https://mounjaxivitta.com.br/), então estruture o conteúdo de forma que os CTAs se encaixem naturalmente.'
+    : 'IMPORTANT: This article will be complemented with 4 CTAs for Mounjaxi Vitta (https://mounjaxivitta.com.br/), so structure the content so the CTAs fit naturally.';
+
+  const prompt = `${languageInstruction} for "${outline.title}" targeting ${targetAudience}.
 
 Working patterns to use: ${strategy.workingPatterns.join(', ')}
 Gaps to fill: ${strategy.gaps.join(', ')}
@@ -282,7 +334,11 @@ Improvements to include: ${strategy.improvements.join(', ')}
 Structure:
 ${sections}
 
-Write 2000-3000 words of original, exclusive content. Focus on practical advice for people 40+.`;
+Write 2000-3000 words of original, exclusive content. Focus on practical advice for people 40+.
+
+${mounjaxyNote}
+
+Write ONLY the article content, no meta tags, no introduction about the article itself.`;
 
   try {
     const response = await fetch('https://api.anthropic.com/v1/messages', {
@@ -344,77 +400,154 @@ ${s.keyPoints.map(kp => `- ${kp}`).join('\n')}
 }
 
 /**
- * Run content production
+ * Generate bilingual article pair (PT + EN) with Mounjaxi CTAs
+ */
+async function produceBilingualArticle(keyword, strategy, outline) {
+  console.log(`\n🌍 Generating bilingual content...`);
+
+  // Generate Portuguese version
+  console.log(`\n  📝 Portuguese (PT-BR)...`);
+  let articlePT = await writeArticle(outline, strategy, 'pt');
+  articlePT.content = addMounjauxiCTAs(articlePT.content, 'pt');
+  articlePT.slug = `pt/${keyword.keyword.toLowerCase().replace(/\s+/g, '-')}`;
+  articlePT.language = 'pt-BR';
+
+  // Generate English version
+  console.log(`  🇬🇧 English (EN-US)...`);
+  const outlineEN = JSON.parse(JSON.stringify(outline));
+  outlineEN.title = translateTitle(outline.title, 'en');
+  outlineEN.description = translateDescription(outline.description, 'en');
+
+  let articleEN = await writeArticle(outlineEN, strategy, 'en');
+  articleEN.content = addMounjauxiCTAs(articleEN.content, 'en');
+  articleEN.slug = `en/${translateKeyword(keyword.keyword, 'en').toLowerCase().replace(/\s+/g, '-')}`;
+  articleEN.language = 'en-US';
+
+  return { pt: articlePT, en: articleEN };
+}
+
+/**
+ * Simple title translator (helper)
+ */
+function translateTitle(title, targetLang) {
+  if (targetLang === 'en') {
+    const translations = {
+      'colesterol depois dos 40': 'How to Control Cholesterol After 40',
+      'saúde após os 40': 'Health After 40',
+      'energia e disposição': 'Energy and Vitality After 40'
+    };
+    return translations[title] || title;
+  }
+  return title;
+}
+
+/**
+ * Simple description translator (helper)
+ */
+function translateDescription(desc, targetLang) {
+  if (targetLang === 'en') {
+    return desc.replace(/para pessoas com 40\+ anos/, 'for people over 40 years old')
+               .replace(/para mulheres/, 'for women')
+               .replace(/Guia completo sobre/, 'Complete guide to');
+  }
+  return desc;
+}
+
+/**
+ * Simple keyword translator (helper)
+ */
+function translateKeyword(keyword, targetLang) {
+  if (targetLang === 'en') {
+    const translations = {
+      'colesterol depois dos 40': 'cholesterol after 40',
+      'saúde após os 40': 'health after 40',
+      'energia e disposição': 'energy and vitality'
+    };
+    return translations[keyword] || keyword;
+  }
+  return keyword;
+}
+
+/**
+ * Run content production (BILINGUAL + MOUNJAXI)
  */
 async function produceContent() {
-  console.log('✍️  PHASE 10: Content Production\n');
+  console.log('✍️  PHASE 10: Content Production (BILINGUAL + MOUNJAXI VITTA)\n');
 
   try {
     const keywordsData = JSON.parse(fs.readFileSync(KEYWORDS_FILE, 'utf-8'));
     const competitorsData = JSON.parse(fs.readFileSync(COMPETITORS_FILE, 'utf-8'));
     const articlesData = JSON.parse(fs.readFileSync(ARTICLES_FILE, 'utf-8'));
 
-    const validatedKeywords = keywordsData.keywords.filter(k => k.status === 'validated');
-    console.log(`Found ${validatedKeywords.length} validated keywords\n`);
+    const validatedKeywords = keywordsData.keywords.filter(k => k.status === 'validated' && !k.article_planned);
+    console.log(`Found ${validatedKeywords.length} validated keywords (not yet planned)\n`);
 
-    // Process first keyword as demo
-    const keyword = validatedKeywords[0];
-    if (!keyword) {
-      console.log('⏳ No validated keywords yet');
+    if (validatedKeywords.length === 0) {
+      console.log('⏳ No validated keywords ready for production');
       return;
     }
 
-    console.log(`📝 Producing article for: "${keyword.keyword}"\n`);
+    // Process first 3 keywords for daily production (3 articles/day = 1.5 keyword pairs)
+    // Process 1 keyword at a time (generates 2 articles: PT + EN)
+    const keyword = validatedKeywords[0];
+
+    console.log(`\n🎯 Producing bilingual pair for: "${keyword.keyword}"\n`);
 
     // Find competitor data
     const research = competitorsData.research.find(r => r.keyword === keyword.keyword);
     const competitors = research?.competitors || [];
 
-    console.log(`📊 Analyzing ${competitors.length} competitors:`);
-
     // Analyze strategy
     const strategy = await analyzeCompetitorStrategy(keyword.keyword, competitors);
 
-    console.log(`\n   Working patterns found: ${strategy.workingPatterns.length}`);
-    strategy.workingPatterns.forEach(p => console.log(`     • ${p}`));
-
-    console.log(`\n   Gaps identified: ${strategy.gaps.length}`);
-    strategy.gaps.forEach(g => console.log(`     • ${g}`));
-
-    console.log(`\n   Improvements planned: ${strategy.improvements.length}`);
-    strategy.improvements.forEach(i => console.log(`     • ${i}`));
-
     // Generate outline
-    console.log(`\n📐 Generating article outline...`);
     const outline = await generateArticleOutline(strategy);
 
-    console.log(`\n   Sections: ${outline.sections.length}`);
-    outline.sections.forEach(s => console.log(`     • ${s.h2}`));
+    // Generate bilingual pair with Mounjaxi CTAs
+    const bilingual = await produceBilingualArticle(keyword, strategy, outline);
 
-    // Write article
-    console.log(`\n✍️  Writing original article...`);
-    const article = await writeArticle(outline, strategy);
-
-    console.log(`\n   Title: ${article.title}`);
-    console.log(`   Word count: ${article.wordCount}`);
-    console.log(`   Keywords: ${article.keywords.secondaryKeywords.length} secondary + ${article.keywords.longTails.length} long-tails`);
-
-    // Save article
+    // Save both versions
     articlesData.articles.push({
-      id: `art_${Date.now()}`,
-      title: article.title,
-      slug: article.slug,
-      description: article.description,
-      content: article.content,
+      id: `art_pt_${Date.now()}`,
+      title: bilingual.pt.title,
+      slug: bilingual.pt.slug,
+      description: bilingual.pt.description,
+      content: bilingual.pt.content,
+      language: 'pt-BR',
       status: 'draft',
-      wordCount: article.wordCount,
-      keywords: article.keywords,
+      wordCount: bilingual.pt.wordCount,
+      keywords: bilingual.pt.keywords,
+      hasMounjaxi: true,
       createdAt: new Date().toISOString()
     });
 
-    fs.writeFileSync(ARTICLES_FILE, JSON.stringify(articlesData, null, 2));
+    articlesData.articles.push({
+      id: `art_en_${Date.now()}`,
+      title: bilingual.en.title,
+      slug: bilingual.en.slug,
+      description: bilingual.en.description,
+      content: bilingual.en.content,
+      language: 'en-US',
+      status: 'draft',
+      wordCount: bilingual.en.wordCount,
+      keywords: bilingual.en.keywords,
+      hasMounjaxi: true,
+      createdAt: new Date().toISOString()
+    });
 
-    console.log(`\n✅ Article production completed!`);
+    // Mark keyword as planned
+    keyword.article_planned = true;
+    keywordsData.keywords = keywordsData.keywords.map(k =>
+      k.id === keyword.id ? keyword : k
+    );
+
+    fs.writeFileSync(ARTICLES_FILE, JSON.stringify(articlesData, null, 2));
+    fs.writeFileSync(KEYWORDS_FILE, JSON.stringify(keywordsData, null, 2));
+
+    console.log(`\n✅ Bilingual article pair production completed!`);
+    console.log(`   📝 Portuguese: "${bilingual.pt.title}"`);
+    console.log(`   🇬🇧 English: "${bilingual.en.title}"`);
+    console.log(`   ✨ Mounjaxi CTAs: Integrated in both versions`);
     console.log(`   Status: Draft (ready for review)`);
     console.log(`   Next: PHASE 11 (Editorial Review)`);
 

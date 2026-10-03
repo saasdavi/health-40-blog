@@ -108,16 +108,14 @@ function commitToGitHub(article, fileInfo) {
     execSync(`git add "${fileInfo.filepath}"`, { cwd: path.dirname(ARTICLES_FILE) });
 
     // Commit
-    const commitMessage = `📝 Publish: "${article.title}"
+    const commitMessage = `📝 Publish: ${article.title.substring(0, 50)}...
 
 Keyword: ${getPrimaryKeyword(article)}
-Readtime: ${article.metrics.readTime} min
 Quality: ${article.scores.quality}/100
-SEO: ${article.scores.seo}/100
 
 Generated with Claude - Health 40+ autonomous publishing system`;
 
-    execSync(`git commit -m "${commitMessage}"`, { cwd: path.dirname(ARTICLES_FILE) });
+    execSync(`git commit -m "${commitMessage.replace(/"/g, '\\"')}"`, { cwd: path.dirname(ARTICLES_FILE) });
 
     console.log(`   🔗 Committed to GitHub`);
 
@@ -302,16 +300,17 @@ async function runPublication() {
       return;
     }
 
-    // Check daily quota (max 2 articles/day)
+    // Check daily quota (max 3 articles/day for bilingual pairs = more content)
     const today = new Date().toISOString().split('T')[0];
     const publishedToday = articlesData.articles.filter(
       a => a.status === 'published' && a.publishedAt?.startsWith(today)
     ).length;
 
-    const availableSlots = 2 - publishedToday;
+    const DAILY_QUOTA = 3; // Increased to 3 articles/day for faster scaling
+    const availableSlots = DAILY_QUOTA - publishedToday;
 
     if (availableSlots <= 0) {
-      console.log(`⏸️  Daily quota reached (${publishedToday}/2)`);
+      console.log(`⏸️  Daily quota reached (${publishedToday}/${DAILY_QUOTA})`);
       console.log(`   Articles queued for tomorrow: ${readyArticles.length}`);
       return;
     }
