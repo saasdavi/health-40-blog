@@ -15,8 +15,8 @@ export const SITE = {
   contactEmail: 'contato@saude40mais.com',
   // Dados do responsável (Decreto 7.962/2013). Vazio = o rodapé não exibe.
   legal: {
-    razaoSocial: '',
-    cnpj: '',
+    razaoSocial: 'DAVI BURATO CUSTODIO',
+    cnpj: '27.648.939/0001-13',
     endereco: '',
   },
   // Perfis oficiais: aparecem no rodapé e no schema (sameAs). Vazio = não exibe.
