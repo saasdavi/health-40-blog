@@ -241,10 +241,24 @@ try {
     </style>
   </head>
   <body>
+    <!-- Navigation Bar -->
+    <nav style="background: white; border-bottom: 1px solid var(--border); padding: 1rem 0; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <div class="container" style="display: flex; justify-content: space-between; align-items: center;">
+        <div style="display: flex; align-items: center; gap: 0.5rem;">
+          <img src="/logo.svg" alt="Saúde 40+ Logo" style="height: 50px; width: auto;">
+        </div>
+        <div style="display: flex; gap: 2rem;">
+          <a href="/" style="color: var(--text); text-decoration: none; font-weight: 500; transition: color 0.3s;">Início</a>
+          <a href="#artigos" style="color: var(--text); text-decoration: none; font-weight: 500; transition: color 0.3s;">Artigos</a>
+          <a href="/sobre" style="color: var(--text); text-decoration: none; font-weight: 500; transition: color 0.3s;">Sobre</a>
+        </div>
+      </div>
+    </nav>
+
     <header>
       <div class="container">
-        <h1>🏥 Saúde após os 40</h1>
-        <p>Conteúdo original sobre saúde e bem-estar para você</p>
+        <h1 style="display: none;">🏥 Saúde após os 40</h1>
+        <p style="display: none;">Conteúdo original sobre saúde e bem-estar para você</p>
       </div>
     </header>
 
