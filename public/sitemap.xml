@@ -50,9 +50,20 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://images.pexels.com/[pexel-image-1]</image:loc>
-      <image:title>Proteína para Mulheres Acima de 40: Quanto e Como Consumir</image:title>
-      <image:caption>Guia completo sobre ingestão de proteína para mulheres depois dos 40 com dicas práticas</image:caption>
+      <image:loc>/images/proteina-mulheres-40/proteina-mulheres-40-capa.jpg</image:loc>
+      <image:title>Quanto de proteína por dia: guia para mulheres 40+</image:title>
+      <image:caption>Descubra quanto de proteína por dia você precisa consumir após os 40 anos. Cálculo simples, fontes práticas e dicas para manter a massa muscular.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://health-40-blog.vercel.app/meditacao-ansiedade-40</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>/images/meditacao-ansiedade-40/meditacao-ansiedade-40-capa.jpg</image:loc>
+      <image:title>Como Meditar: Guia Prático para Mulheres 40+</image:title>
+      <image:caption>Aprenda como meditar em casa com técnicas simples. Guia passo a passo, tipos de meditação e dicas para criar o hábito. Comece agora.</image:caption>
     </image:image>
   </url>
   <url>
@@ -75,6 +86,17 @@
       <image:loc>/images/o-que-e-gordura-visceral/o-que-e-gordura-visceral-capa.jpg</image:loc>
       <image:title>O que é gordura visceral e por que ela preocupa</image:title>
       <image:caption>O que é gordura visceral, onde ela fica, como difere da gordura abdominal e da subcutânea e o que fazer depois dos 40 para reduzir o risco.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://health-40-blog.vercel.app/o-que-e-perimenopausa</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>/images/o-que-e-perimenopausa/o-que-e-perimenopausa-capa.jpg</image:loc>
+      <image:title>O que é perimenopausa: tudo sobre essa transição</image:title>
+      <image:caption>Perimenopausa é a transição antes da menopausa. Conheça os sinais, quando começa e o que fazer para lidar com essa fase da vida.</image:caption>
     </image:image>
   </url>
 </urlset>
