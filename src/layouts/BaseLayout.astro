@@ -1,0 +1,93 @@
+---
+// Layout base reutilizável para todas as páginas
+// Gerencia <head>, estrutura HTML e estilos globais
+import SEO from '../components/SEO.astro';
+import type { SEOProps } from '../components/SEO.astro';
+
+interface Props extends SEOProps {
+  /** Adicionar classe customizada ao body */
+  bodyClass?: string;
+}
+
+const { bodyClass = '', ...seoProps } = Astro.props;
+---
+
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#667eea" />
+
+    {/* SEO Component */}
+    <SEO {...seoProps} />
+
+    {/* Favicon */}
+    <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+    <link rel="apple-touch-icon" href="/logo.svg" />
+
+    {/* Fonts */}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    {/* Design System CSS */}
+    <link rel="stylesheet" href="/styles/design-system.css" />
+
+    {/* Preload críticos */}
+    <link rel="preload" as="image" href="/logo.svg" />
+  </head>
+  <body class={bodyClass}>
+    <slot />
+  </body>
+</html>
+
+<style is:global>
+  /* Global styles - complementar design-system.css */
+
+  /* Suavizar transições */
+  * {
+    transition-property: color, background-color, border-color;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: var(--transition-fast, 150ms);
+  }
+
+  /* Remover transição de backgrounds automáticas em links */
+  a {
+    transition-property: color, border-color;
+  }
+
+  /* Acessibilidade: remover outline padrão e adicionar visual melhor */
+  :focus-visible {
+    outline: 2px solid var(--color-primary, #667eea);
+    outline-offset: 2px;
+  }
+
+  /* Scroll suave */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Remover scroll suave para usuários que preferem redução de movimento */
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+
+    * {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+
+  /* Modo escuro (futuro suporte) */
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --color-text-dark: #f5f5f5;
+      --color-text-gray: #b0b0b0;
+      --color-bg-light: #1a1a1a;
+      --color-bg-white: #2d2d2d;
+      --color-border: #404040;
+    }
+  }
+</style>

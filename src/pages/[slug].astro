@@ -1,6 +1,10 @@
 ---
 import { readFileSync } from 'fs';
 import { resolve } from 'path';
+import SEO from '../components/SEO.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import CTAMounjaxi from '../components/CTAMounjaxi.astro';
+import { articleJsonLd, breadcrumbJsonLd } from '../lib/schema';
 
 let article = null;
 let allArticles = [];
@@ -39,119 +43,70 @@ if (!propsArticle && !article) {
 
 const currentArticle = propsArticle || article;
 
-// Schema.org markup for SEO
-const articleSchema = {
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": currentArticle.title,
-  "description": currentArticle.description,
-  "image": currentArticle.featuredImage || "/images/hero-bg.svg",
-  "author": {
-    "@type": "Organization",
-    "name": "Saúde 40+",
-    "url": "https://health-40-blog.vercel.app",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://health-40-blog.vercel.app/logo.svg"
-    }
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Saúde 40+",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://health-40-blog.vercel.app/logo.svg"
-    }
-  },
-  "datePublished": currentArticle.createdAt || new Date().toISOString(),
-  "dateModified": currentArticle.updatedAt || currentArticle.createdAt || new Date().toISOString(),
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": `https://health-40-blog.vercel.app/${currentArticle.slug}`
-  },
-  "wordCount": currentArticle.wordCount || 0,
-  "articleBody": currentArticle.content
-};
+// Gerar Schema.org JSON-LD usando funções centralizadas
+const publishedDate = currentArticle.createdAt
+  ? new Date(currentArticle.createdAt)
+  : new Date();
 
-const breadcrumbSchema = {
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://health-40-blog.vercel.app"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Artigos",
-      "item": "https://health-40-blog.vercel.app/#artigos"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": currentArticle.title,
-      "item": `https://health-40-blog.vercel.app/${currentArticle.slug}`
-    }
-  ]
-};
+const modifiedDate = currentArticle.updatedAt
+  ? new Date(currentArticle.updatedAt)
+  : publishedDate;
+
+const articleSchema = articleJsonLd({
+  headline: currentArticle.title,
+  description: currentArticle.description,
+  image: currentArticle.featuredImage || '/images/hero-bg.svg',
+  imageAlt: `Imagem de destaque: ${currentArticle.title}`,
+  author: 'Saúde 40+',
+  publishedTime: publishedDate,
+  modifiedTime: modifiedDate,
+  wordCount: currentArticle.wordCount || 0,
+  slug: `/${currentArticle.slug}`,
+});
+
+const breadcrumbSchema = breadcrumbJsonLd([
+  { name: 'Home', url: '/' },
+  { name: 'Artigos', url: '/#artigos' },
+  { name: currentArticle.title, url: `/${currentArticle.slug}` },
+]);
+
+// Breadcrumb items para componente visual
+const breadcrumbItems = [
+  { label: 'Home', href: '/' },
+  { label: 'Artigos', href: '/#artigos' },
+  { label: currentArticle.title },
+];
 ---
 
 <html lang="pt-BR">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <meta name="description" content={currentArticle.description} />
-    <meta name="keywords" content={`${currentArticle.keywords?.primaryKeyword}, ${currentArticle.keywords?.secondaryKeywords?.join(', ') || 'saúde, bem-estar, 40+'}`} />
-    <meta name="author" content="Saúde 40+" />
-    <meta property="og:title" content={currentArticle.title} />
-    <meta property="og:description" content={currentArticle.description} />
-    <meta property="og:image" content={currentArticle.featuredImage || "/images/hero-bg.svg"} />
-    <meta property="og:url" content={`https://health-40-blog.vercel.app/${currentArticle.slug}`} />
-    <meta property="og:type" content="article" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={currentArticle.title} />
-    <meta name="twitter:description" content={currentArticle.description} />
-    <meta name="twitter:image" content={currentArticle.featuredImage || "/images/hero-bg.svg"} />
 
-    <!-- Canonical -->
-    <link rel="canonical" href={`https://health-40-blog.vercel.app/${currentArticle.slug}`} />
-
-    <!-- Additional SEO -->
-    <meta name="article:published_time" content={currentArticle.createdAt} />
-    <meta name="article:modified_time" content={currentArticle.updatedAt || currentArticle.createdAt} />
-    <meta name="article:author" content="Saúde 40+" />
-
-    <title>{currentArticle.title} - Saúde 40+</title>
-
-    <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
-    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+    {/* SEO Component gerencia todo <head> */}
+    <SEO
+      title={currentArticle.title}
+      description={currentArticle.description}
+      path={`/${currentArticle.slug}/`}
+      image={currentArticle.featuredImage || '/images/hero-bg.svg'}
+      imageAlt={`Imagem de destaque: ${currentArticle.title}`}
+      type="article"
+      publishedTime={publishedDate}
+      modifiedTime={modifiedDate}
+      jsonLd={[articleSchema, breadcrumbSchema]}
+    />
     <style>
-      * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-      }
-
+      /* Variáveis de cores para compatibilidade */
       :root {
-        --primary: #667eea;
-        --text: #1a1a1a;
-        --text-light: #666;
-        --bg-light: #f8f9fb;
-        --border: #e0e0e0;
-      }
-
-      html {
-        scroll-behavior: smooth;
+        --primary: var(--color-primary, #667eea);
+        --text: var(--color-text-dark, #1a1a1a);
+        --text-light: var(--color-text-gray, #666);
+        --bg-light: var(--color-bg-light, #f8f9fb);
+        --border: var(--color-border, #e0e0e0);
       }
 
       body {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-        line-height: 1.8;
-        color: var(--text);
-        background: white;
+        font-family: Georgia, serif;
       }
 
       .container {
@@ -161,40 +116,41 @@ const breadcrumbSchema = {
       }
 
       /* Navigation */
-      nav {
+      nav.page-nav {
         background: white;
         border-bottom: 1px solid var(--border);
         padding: 1rem 0;
         position: sticky;
         top: 0;
         z-index: 100;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
       }
 
-      nav .container {
+      nav.page-nav .container {
         display: flex;
         justify-content: space-between;
         align-items: center;
       }
 
-      nav img {
+      nav.page-nav img {
         height: 50px;
         width: auto;
       }
 
-      nav a {
+      nav.page-nav a {
         color: var(--text);
         text-decoration: none;
         font-weight: 500;
+        border-bottom: none;
         transition: color 0.3s;
       }
 
-      nav a:hover {
+      nav.page-nav a:hover {
         color: var(--primary);
       }
 
       /* Header */
-      header {
+      header.page-header {
         background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #5a4a80 100%);
         color: white;
         padding: 4rem 1.5rem;
@@ -203,31 +159,31 @@ const breadcrumbSchema = {
         overflow: hidden;
       }
 
-      header::before {
+      header.page-header::before {
         content: '';
         position: absolute;
         top: -50%;
         right: -10%;
         width: 400px;
         height: 400px;
-        background: radial-gradient(circle, rgba(255,255,255,0.15) 0%, rgba(255,255,255,0) 70%);
+        background: radial-gradient(circle, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
         border-radius: 50%;
         z-index: 0;
       }
 
-      header .container {
+      header.page-header .container {
         position: relative;
         z-index: 1;
       }
 
-      header h1 {
+      header.page-header h1 {
         font-size: 2.8rem;
         margin-bottom: 1.2rem;
         font-weight: 700;
         line-height: 1.3;
       }
 
-      header p {
+      header.page-header p {
         font-size: 1.2rem;
         opacity: 0.98;
         margin-bottom: 2rem;
@@ -240,28 +196,13 @@ const breadcrumbSchema = {
         font-size: 0.95rem;
         opacity: 0.95;
         padding-top: 1rem;
-        border-top: 1px solid rgba(255,255,255,0.2);
+        border-top: 1px solid rgba(255, 255, 255, 0.2);
       }
 
       .meta span {
         display: flex;
         align-items: center;
         gap: 0.6rem;
-      }
-
-      /* Breadcrumb */
-      .breadcrumb {
-        margin-bottom: 2rem;
-        font-size: 0.9rem;
-      }
-
-      .breadcrumb a {
-        color: var(--primary);
-        text-decoration: none;
-      }
-
-      .breadcrumb a:hover {
-        text-decoration: underline;
       }
 
       /* Featured Image */
@@ -271,11 +212,11 @@ const breadcrumbSchema = {
         object-fit: cover;
         border-radius: 12px;
         margin-bottom: 2rem;
-        box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
       }
 
       /* Article content */
-      article {
+      article.article-content {
         background: linear-gradient(135deg, #ffffff 0%, #f8f9fb 100%);
         padding: 3rem;
         border-radius: 16px;
@@ -284,7 +225,7 @@ const breadcrumbSchema = {
         border: 1px solid rgba(102, 126, 234, 0.08);
       }
 
-      article h2 {
+      article.article-content h2 {
         font-size: 2.1rem;
         margin-top: 3.5rem;
         margin-bottom: 1.5rem;
@@ -295,13 +236,13 @@ const breadcrumbSchema = {
         border-bottom: 3px solid rgba(102, 126, 234, 0.15);
       }
 
-      article h2:first-child {
+      article.article-content h2:first-child {
         margin-top: 0;
         border-bottom: none;
         padding-bottom: 0;
       }
 
-      article h3 {
+      article.article-content h3 {
         font-size: 1.5rem;
         margin-top: 2.5rem;
         margin-bottom: 1.2rem;
@@ -310,7 +251,7 @@ const breadcrumbSchema = {
         font-weight: 600;
       }
 
-      article p {
+      article.article-content p {
         margin-bottom: 1.8rem;
         line-height: 1.9;
         text-align: left;
@@ -318,7 +259,8 @@ const breadcrumbSchema = {
         color: #333;
       }
 
-      article ul, article ol {
+      article.article-content ul,
+      article.article-content ol {
         margin-left: 2.5rem;
         margin-bottom: 2rem;
         background: rgba(102, 126, 234, 0.05);
@@ -327,13 +269,13 @@ const breadcrumbSchema = {
         border-left: 4px solid var(--primary);
       }
 
-      article li {
+      article.article-content li {
         margin-bottom: 1rem;
         line-height: 1.9;
         color: #333;
       }
 
-      article img {
+      article.article-content img {
         max-width: 100%;
         height: auto;
         border-radius: 12px;
@@ -342,7 +284,7 @@ const breadcrumbSchema = {
         border: 1px solid rgba(102, 126, 234, 0.1);
       }
 
-      article strong {
+      article.article-content strong {
         color: var(--primary);
         font-weight: 700;
         background: rgba(102, 126, 234, 0.1);
@@ -364,31 +306,6 @@ const breadcrumbSchema = {
       .disclaimer strong {
         color: #e65100;
         font-weight: 700;
-      }
-
-      /* Call to action */
-      .cta-box {
-        background: linear-gradient(135deg, #f5f8ff 0%, #ffffff 100%);
-        border: 2px solid var(--primary);
-        padding: 2.5rem;
-        border-radius: 12px;
-        text-align: center;
-        margin: 3rem 0;
-        box-shadow: 0 8px 24px rgba(102, 126, 234, 0.12);
-      }
-
-      .cta-box h3 {
-        margin-top: 0;
-        color: var(--primary);
-        font-size: 1.5rem;
-        font-weight: 700;
-        margin-bottom: 0.5rem;
-      }
-
-      .cta-box p {
-        color: var(--text-light);
-        margin-bottom: 1.5rem;
-        font-size: 1rem;
       }
 
       /* Tags */
@@ -414,7 +331,7 @@ const breadcrumbSchema = {
       }
 
       .tag:hover {
-        background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
+        background: linear-gradient(135deg, var(--primary) 0%, #764ba2 100%);
         color: white;
         border-color: transparent;
         transform: translateY(-2px);
@@ -427,6 +344,7 @@ const breadcrumbSchema = {
         margin-bottom: 2rem;
         color: var(--primary);
         text-decoration: none;
+        border-bottom: none;
         font-weight: 600;
         transition: color 0.3s;
       }
@@ -435,40 +353,8 @@ const breadcrumbSchema = {
         text-decoration: underline;
       }
 
-      /* Table of contents */
-      .toc {
-        background: var(--bg-light);
-        padding: 1.5rem;
-        border-radius: 8px;
-        margin: 2rem 0;
-        border-left: 4px solid var(--primary);
-      }
-
-      .toc h4 {
-        margin-bottom: 1rem;
-        color: var(--primary);
-      }
-
-      .toc ul {
-        list-style: none;
-        margin: 0;
-      }
-
-      .toc li {
-        margin-bottom: 0.5rem;
-      }
-
-      .toc a {
-        color: var(--primary);
-        text-decoration: none;
-      }
-
-      .toc a:hover {
-        text-decoration: underline;
-      }
-
       /* Footer */
-      footer {
+      footer.page-footer {
         border-top: 1px solid var(--border);
         padding: 2rem 0;
         margin-top: 4rem;
@@ -477,14 +363,15 @@ const breadcrumbSchema = {
         font-size: 0.9rem;
       }
 
-      footer a {
+      footer.page-footer a {
         color: var(--primary);
         text-decoration: none;
+        border-bottom: none;
         margin: 0 1rem;
       }
 
       @media (max-width: 768px) {
-        header h1 {
+        header.page-header h1 {
           font-size: 1.8rem;
         }
 
@@ -493,11 +380,11 @@ const breadcrumbSchema = {
           gap: 0.5rem;
         }
 
-        article {
+        article.article-content {
           padding: 1rem;
         }
 
-        article h2 {
+        article.article-content h2 {
           font-size: 1.4rem;
         }
       }
@@ -505,7 +392,7 @@ const breadcrumbSchema = {
   </head>
   <body>
     <!-- Navigation -->
-    <nav>
+    <nav class="page-nav">
       <div class="container">
         <div style="display: flex; align-items: center; gap: 0.5rem;">
           <img src="/logo.svg" alt="Saúde 40+ Logo" />
@@ -519,7 +406,7 @@ const breadcrumbSchema = {
     </nav>
 
     <!-- Header -->
-    <header>
+    <header class="page-header">
       <div class="container">
         <h1>{currentArticle.title}</h1>
         <p>{currentArticle.description}</p>
@@ -533,10 +420,8 @@ const breadcrumbSchema = {
     </header>
 
     <main class="container">
-      <!-- Breadcrumb -->
-      <nav class="breadcrumb" aria-label="Breadcrumb">
-        <a href="/">Home</a> / <a href="/#artigos">Artigos</a> / <span>{currentArticle.title}</span>
-      </nav>
+      <!-- Breadcrumb Component -->
+      <Breadcrumbs items={breadcrumbItems} />
 
       <a href="/" class="back-link">← Voltar ao Blog</a>
 
@@ -550,10 +435,10 @@ const breadcrumbSchema = {
       )}
 
       <!-- Article Content -->
-      <article itemscope itemtype="https://schema.org/Article">
+      <article class="article-content" itemscope itemtype="https://schema.org/Article">
         <meta itemprop="headline" content={currentArticle.title} />
         <meta itemprop="description" content={currentArticle.description} />
-        <meta itemprop="image" content={currentArticle.featuredImage || "/images/hero-bg.svg"} />
+        <meta itemprop="image" content={currentArticle.featuredImage || '/images/hero-bg.svg'} />
 
         <!-- Disclaimer -->
         <div class="disclaimer" role="alert">
@@ -583,16 +468,19 @@ const breadcrumbSchema = {
         </div>
       </article>
 
+      <!-- CTA Mounjaxi (Mantido intacto!) -->
+      <CTAMounjaxi position="full" />
+
       <!-- Related articles CTA -->
-      <div class="cta-box">
-        <h3>Continue lendo sobre saúde e bem-estar</h3>
-        <p>Explore nossos outros artigos para aprender mais sobre como cuidar da sua saúde após os 40 anos.</p>
-        <a href="/" style="display: inline-block; background: var(--primary); color: white; padding: 0.75rem 1.5rem; border-radius: 6px; text-decoration: none; font-weight: 600; transition: background 0.3s;">Ver todos os artigos</a>
+      <div style="background: linear-gradient(135deg, #f5f8ff 0%, #ffffff 100%); border: 2px solid var(--primary); padding: 2.5rem; border-radius: 12px; text-align: center; margin: 3rem 0; box-shadow: 0 8px 24px rgba(102, 126, 234, 0.12);">
+        <h3 style="margin-top: 0; color: var(--primary); font-size: 1.5rem; font-weight: 700; margin-bottom: 0.5rem;">Continue lendo sobre saúde e bem-estar</h3>
+        <p style="color: var(--text-light); margin-bottom: 1.5rem; font-size: 1rem;">Explore nossos outros artigos para aprender mais sobre como cuidar da sua saúde após os 40 anos.</p>
+        <a href="/" style="display: inline-block; background: var(--primary); color: white; padding: 0.75rem 1.5rem; border-radius: 6px; text-decoration: none; font-weight: 600; border-bottom: none; transition: background 0.3s;">Ver todos os artigos</a>
       </div>
     </main>
 
     <!-- Footer -->
-    <footer>
+    <footer class="page-footer">
       <p>
         <a href="/">Início</a>
         <a href="/sobre">Sobre</a>

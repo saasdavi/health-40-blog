@@ -1,0 +1,115 @@
+---
+// Componente de Breadcrumb navegação estruturada
+// Home > Artigos > Título
+
+export interface Props {
+  items: Array<{
+    label: string;
+    href?: string;
+  }>;
+  /** CSS class customizado para o container */
+  class?: string;
+}
+
+const { items, class: customClass = '' } = Astro.props;
+---
+
+<nav
+  class:list={['breadcrumbs', customClass]}
+  aria-label="Breadcrumb"
+>
+  <ol class="breadcrumb-list">
+    {items.map((item, index) => (
+      <li class="breadcrumb-item">
+        {item.href ? (
+          <a href={item.href} class="breadcrumb-link">
+            {item.label}
+          </a>
+        ) : (
+          <span class="breadcrumb-current">{item.label}</span>
+        )}
+        {index < items.length - 1 && (
+          <span class="breadcrumb-separator" aria-hidden="true">/</span>
+        )}
+      </li>
+    ))}
+  </ol>
+</nav>
+
+<style>
+  .breadcrumbs {
+    margin: 1.5rem 0;
+    font-size: 0.9rem;
+  }
+
+  .breadcrumb-list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 0.5rem;
+  }
+
+  .breadcrumb-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .breadcrumb-link {
+    color: var(--color-primary, #667eea);
+    text-decoration: none;
+    border-bottom: none;
+    transition: color var(--transition-fast, 150ms ease-in-out);
+
+    &:hover {
+      color: var(--color-primary-dark, #764ba2);
+      text-decoration: underline;
+    }
+
+    &:focus {
+      outline: 2px solid var(--color-primary, #667eea);
+      outline-offset: 2px;
+      border-radius: 2px;
+    }
+  }
+
+  .breadcrumb-current {
+    color: var(--color-text-gray, #666);
+    font-weight: 500;
+  }
+
+  .breadcrumb-separator {
+    color: var(--color-border, #eeeeee);
+    margin: 0 0.25rem;
+  }
+
+  /* Responsivo */
+  @media (max-width: 768px) {
+    .breadcrumbs {
+      font-size: 0.85rem;
+      margin: 1rem 0;
+    }
+
+    .breadcrumb-list {
+      gap: 0.25rem;
+    }
+
+    .breadcrumb-item {
+      gap: 0.25rem;
+    }
+
+    .breadcrumb-separator {
+      margin: 0;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .breadcrumbs {
+      font-size: 0.8rem;
+      margin: 0.75rem 0;
+    }
+  }
+</style>

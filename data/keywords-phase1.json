@@ -1,0 +1,320 @@
+{
+  "phase": "1",
+  "discoveredAt": "2026-10-03T21:34:33.004Z",
+  "seedKeywords": [
+    "colesterol 40+",
+    "emagrecer mulher 40",
+    "nutrição 40+",
+    "menopausa",
+    "energia disposição 40",
+    "exercício após 40",
+    "sono qualidade 40",
+    "saúde cardiovascular",
+    "massa muscular 40+",
+    "ansiedade estresse 40"
+  ],
+  "totalDiscovered": 55,
+  "filtered": 30,
+  "keywords": [
+    {
+      "keyword": "menopausa sintomas",
+      "searchVolume": 14200,
+      "competition": "MEDIUM",
+      "competitionIndex": 65,
+      "avgMonthlySearches": 14200,
+      "lowTopOfPageBid": 1.65,
+      "highTopOfPageBid": 3.8499999999999996,
+      "cpc": 2.75
+    },
+    {
+      "keyword": "emagrecer rápido mulher",
+      "searchVolume": 12400,
+      "competition": "MEDIUM",
+      "competitionIndex": 61,
+      "avgMonthlySearches": 12400,
+      "lowTopOfPageBid": 1.92,
+      "highTopOfPageBid": 4.4799999999999995,
+      "cpc": 3.2
+    },
+    {
+      "keyword": "ansiedade mulher 40",
+      "searchVolume": 9200,
+      "competition": "MEDIUM",
+      "competitionIndex": 36,
+      "avgMonthlySearches": 9200,
+      "lowTopOfPageBid": 1.5899999999999999,
+      "highTopOfPageBid": 3.7099999999999995,
+      "cpc": 2.65
+    },
+    {
+      "keyword": "colesterol alto 40",
+      "searchVolume": 8900,
+      "competition": "MEDIUM",
+      "competitionIndex": 51,
+      "avgMonthlySearches": 8900,
+      "lowTopOfPageBid": 1.2899999999999998,
+      "highTopOfPageBid": 3.01,
+      "cpc": 2.15
+    },
+    {
+      "keyword": "insônia mulher 40",
+      "searchVolume": 8300,
+      "competition": "MEDIUM",
+      "competitionIndex": 36,
+      "avgMonthlySearches": 8300,
+      "lowTopOfPageBid": 1.5,
+      "highTopOfPageBid": 3.5,
+      "cpc": 2.5
+    },
+    {
+      "keyword": "emagrecer aos 40",
+      "searchVolume": 7800,
+      "competition": "LOW",
+      "competitionIndex": 11,
+      "avgMonthlySearches": 7800,
+      "lowTopOfPageBid": 1.26,
+      "highTopOfPageBid": 2.94,
+      "cpc": 2.1
+    },
+    {
+      "keyword": "exercício mulher 40 anos",
+      "searchVolume": 7600,
+      "competition": "LOW",
+      "competitionIndex": 2,
+      "avgMonthlySearches": 7600,
+      "lowTopOfPageBid": 1.17,
+      "highTopOfPageBid": 2.73,
+      "cpc": 1.95
+    },
+    {
+      "keyword": "meditação para ansiedade",
+      "searchVolume": 7400,
+      "competition": "MEDIUM",
+      "competitionIndex": 37,
+      "avgMonthlySearches": 7400,
+      "lowTopOfPageBid": 1.2899999999999998,
+      "highTopOfPageBid": 3.01,
+      "cpc": 2.15
+    },
+    {
+      "keyword": "pressão alta natural",
+      "searchVolume": 7100,
+      "competition": "MEDIUM",
+      "competitionIndex": 62,
+      "avgMonthlySearches": 7100,
+      "lowTopOfPageBid": 1.47,
+      "highTopOfPageBid": 3.43,
+      "cpc": 2.45
+    },
+    {
+      "keyword": "menopausa tratamento natural",
+      "searchVolume": 6800,
+      "competition": "LOW",
+      "competitionIndex": 17,
+      "avgMonthlySearches": 6800,
+      "lowTopOfPageBid": 1.32,
+      "highTopOfPageBid": 3.08,
+      "cpc": 2.2
+    },
+    {
+      "keyword": "saúde do coração",
+      "searchVolume": 6800,
+      "competition": "MEDIUM",
+      "competitionIndex": 56,
+      "avgMonthlySearches": 6800,
+      "lowTopOfPageBid": 1.41,
+      "highTopOfPageBid": 3.29,
+      "cpc": 2.35
+    },
+    {
+      "keyword": "colesterol normal",
+      "searchVolume": 6200,
+      "competition": "LOW",
+      "competitionIndex": 2,
+      "avgMonthlySearches": 6200,
+      "lowTopOfPageBid": 0.87,
+      "highTopOfPageBid": 2.03,
+      "cpc": 1.45
+    },
+    {
+      "keyword": "perder peso 40 anos",
+      "searchVolume": 6200,
+      "competition": "MEDIUM",
+      "competitionIndex": 47,
+      "avgMonthlySearches": 6200,
+      "lowTopOfPageBid": 1.47,
+      "highTopOfPageBid": 3.43,
+      "cpc": 2.45
+    },
+    {
+      "keyword": "musculação 40 anos",
+      "searchVolume": 6200,
+      "competition": "MEDIUM",
+      "competitionIndex": 57,
+      "avgMonthlySearches": 6200,
+      "lowTopOfPageBid": 1.44,
+      "highTopOfPageBid": 3.36,
+      "cpc": 2.4
+    },
+    {
+      "keyword": "estresse trabalho 40",
+      "searchVolume": 6100,
+      "competition": "LOW",
+      "competitionIndex": 2,
+      "avgMonthlySearches": 6100,
+      "lowTopOfPageBid": 1.17,
+      "highTopOfPageBid": 2.73,
+      "cpc": 1.95
+    },
+    {
+      "keyword": "ganhar massa muscular 40",
+      "searchVolume": 5800,
+      "competition": "MEDIUM",
+      "competitionIndex": 47,
+      "avgMonthlySearches": 5800,
+      "lowTopOfPageBid": 1.38,
+      "highTopOfPageBid": 3.2199999999999998,
+      "cpc": 2.3
+    },
+    {
+      "keyword": "problemas sono mulher",
+      "searchVolume": 5600,
+      "competition": "MEDIUM",
+      "competitionIndex": 58,
+      "avgMonthlySearches": 5600,
+      "lowTopOfPageBid": 1.32,
+      "highTopOfPageBid": 3.08,
+      "cpc": 2.2
+    },
+    {
+      "keyword": "como baixar colesterol",
+      "searchVolume": 5400,
+      "competition": "MEDIUM",
+      "competitionIndex": 59,
+      "avgMonthlySearches": 5400,
+      "lowTopOfPageBid": 1.38,
+      "highTopOfPageBid": 3.2199999999999998,
+      "cpc": 2.3
+    },
+    {
+      "keyword": "dieta mulher 40 anos",
+      "searchVolume": 5300,
+      "competition": "LOW",
+      "competitionIndex": 26,
+      "avgMonthlySearches": 5300,
+      "lowTopOfPageBid": 1.17,
+      "highTopOfPageBid": 2.73,
+      "cpc": 1.95
+    },
+    {
+      "keyword": "cansaço extremo mulher",
+      "searchVolume": 5200,
+      "competition": "MEDIUM",
+      "competitionIndex": 56,
+      "avgMonthlySearches": 5200,
+      "lowTopOfPageBid": 1.2899999999999998,
+      "highTopOfPageBid": 3.01,
+      "cpc": 2.15
+    },
+    {
+      "keyword": "beleza pele 40 anos",
+      "searchVolume": 5200,
+      "competition": "MEDIUM",
+      "competitionIndex": 40,
+      "avgMonthlySearches": 5200,
+      "lowTopOfPageBid": 1.26,
+      "highTopOfPageBid": 2.94,
+      "cpc": 2.1
+    },
+    {
+      "keyword": "fogachos menopausa",
+      "searchVolume": 5100,
+      "competition": "MEDIUM",
+      "competitionIndex": 43,
+      "avgMonthlySearches": 5100,
+      "lowTopOfPageBid": 1.38,
+      "highTopOfPageBid": 3.2199999999999998,
+      "cpc": 2.3
+    },
+    {
+      "keyword": "exercício emagrecer mulher",
+      "searchVolume": 4900,
+      "competition": "LOW",
+      "competitionIndex": 25,
+      "avgMonthlySearches": 4900,
+      "lowTopOfPageBid": 1.11,
+      "highTopOfPageBid": 2.59,
+      "cpc": 1.85
+    },
+    {
+      "keyword": "arritmia cardíaca",
+      "searchVolume": 4900,
+      "competition": "MEDIUM",
+      "competitionIndex": 36,
+      "avgMonthlySearches": 4900,
+      "lowTopOfPageBid": 1.56,
+      "highTopOfPageBid": 3.6399999999999997,
+      "cpc": 2.6
+    },
+    {
+      "keyword": "panico ataque 40",
+      "searchVolume": 4800,
+      "competition": "MEDIUM",
+      "competitionIndex": 58,
+      "avgMonthlySearches": 4800,
+      "lowTopOfPageBid": 1.5,
+      "highTopOfPageBid": 3.5,
+      "cpc": 2.5
+    },
+    {
+      "keyword": "alimentos saudáveis 40",
+      "searchVolume": 4200,
+      "competition": "LOW",
+      "competitionIndex": 3,
+      "avgMonthlySearches": 4200,
+      "lowTopOfPageBid": 0.96,
+      "highTopOfPageBid": 2.2399999999999998,
+      "cpc": 1.6
+    },
+    {
+      "keyword": "qualidade sono",
+      "searchVolume": 4200,
+      "competition": "LOW",
+      "competitionIndex": 30,
+      "avgMonthlySearches": 4200,
+      "lowTopOfPageBid": 1.11,
+      "highTopOfPageBid": 2.59,
+      "cpc": 1.85
+    },
+    {
+      "keyword": "colesterol ruim",
+      "searchVolume": 4100,
+      "competition": "LOW",
+      "competitionIndex": 8,
+      "avgMonthlySearches": 4100,
+      "lowTopOfPageBid": 1.08,
+      "highTopOfPageBid": 2.52,
+      "cpc": 1.8
+    },
+    {
+      "keyword": "aumentar energia natural",
+      "searchVolume": 4100,
+      "competition": "LOW",
+      "competitionIndex": 12,
+      "avgMonthlySearches": 4100,
+      "lowTopOfPageBid": 1.17,
+      "highTopOfPageBid": 2.73,
+      "cpc": 1.95
+    },
+    {
+      "keyword": "cabelo branco mulher",
+      "searchVolume": 4100,
+      "competition": "LOW",
+      "competitionIndex": 19,
+      "avgMonthlySearches": 4100,
+      "lowTopOfPageBid": 0.9299999999999999,
+      "highTopOfPageBid": 2.17,
+      "cpc": 1.55
+    }
+  ]
+}

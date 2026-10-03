@@ -1,0 +1,366 @@
+---
+// ArticleSources.astro - Componente de fontes e créditos (E-E-A-T: Autoridade)
+
+export interface Source {
+  title: string;
+  url: string;
+  author?: string;
+  publicationDate?: string;
+  type: 'scientific' | 'medical' | 'news' | 'health' | 'blog';
+}
+
+export interface ImageCredit {
+  imageUrl?: string;
+  author: string;
+  source: 'pexels' | 'pixabay' | 'unsplash' | 'internal';
+  url: string;
+  license: string;
+}
+
+interface Props {
+  sources?: Source[];
+  imageCredits?: ImageCredit[];
+  title?: string;
+  showCredits?: boolean;
+}
+
+const {
+  sources = [],
+  imageCredits = [],
+  title = 'Fontes e Referências',
+  showCredits = true,
+} = Astro.props;
+
+// Função auxiliar para ícone de tipo
+function getTypeIcon(type: string): string {
+  const icons: Record<string, string> = {
+    scientific: '🔬',
+    medical: '👨‍⚕️',
+    news: '📰',
+    health: '💚',
+    blog: '📝',
+  };
+  return icons[type] || '📄';
+}
+
+// Função auxiliar para nome do tipo
+function getTypeName(type: string): string {
+  const names: Record<string, string> = {
+    scientific: 'Pesquisa Científica',
+    medical: 'Fonte Médica',
+    news: 'Notícia',
+    health: 'Saúde & Bem-estar',
+    blog: 'Blog / Artigo',
+  };
+  return names[type] || 'Referência';
+}
+---
+
+<div class="article-sources">
+  {
+    sources.length > 0 && (
+      <section class="sources-section">
+        <h3>{title}</h3>
+        <p class="sources-intro">
+          Este artigo foi elaborado com base em fontes confiáveis e pesquisa documentada.
+          Todas as referências abaixo são acessíveis para aprofundar seu conhecimento.
+        </p>
+
+        <ol class="sources-list">
+          {sources.map((source) => (
+            <li class="source-item">
+              <div class="source-header">
+                <span class="source-type-badge">
+                  {getTypeIcon(source.type)}
+                  {getTypeName(source.type)}
+                </span>
+              </div>
+
+              <a href={source.url} target="_blank" rel="noopener noreferrer" class="source-title">
+                {source.title}
+              </a>
+
+              {source.author && (
+                <p class="source-author">
+                  <strong>Autor:</strong> {source.author}
+                </p>
+              )}
+
+              {source.publicationDate && (
+                <p class="source-date">
+                  <strong>Data:</strong> {new Date(source.publicationDate).toLocaleDateString('pt-BR')}
+                </p>
+              )}
+
+              <p class="source-url">{source.url}</p>
+            </li>
+          ))}
+        </ol>
+      </section>
+    )
+  }
+
+  {
+    showCredits && imageCredits.length > 0 && (
+      <section class="credits-section">
+        <h3>Créditos de Imagens</h3>
+        <p class="credits-intro">
+          Todas as imagens foram obtidas de plataformas livres de uso. Agradecemos aos autores.
+        </p>
+
+        <div class="credits-grid">
+          {imageCredits.map((credit) => (
+            <div class="credit-item">
+              {credit.imageUrl && (
+                <img
+                  src={credit.imageUrl}
+                  alt={`Imagem por ${credit.author}`}
+                  class="credit-image"
+                />
+              )}
+
+              <div class="credit-info">
+                <p class="credit-author">
+                  <strong>Foto por:</strong> {credit.author}
+                </p>
+                <p class="credit-source">
+                  <strong>Fonte:</strong>
+                  <a href={credit.url} target="_blank" rel="noopener noreferrer">
+                    {credit.source.charAt(0).toUpperCase() + credit.source.slice(1)}
+                  </a>
+                </p>
+                <p class="credit-license">
+                  <strong>Licença:</strong> {credit.license}
+                </p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+    )
+  }
+
+  <div class="sources-note">
+    <p>
+      <strong>Nota sobre Transparência:</strong> Este blog é monetizado através de links de afiliação.
+      Alguns links podem levar a produtos ou serviços que recomendamos. Nossas opiniões são sempre
+      nossas e não são influenciadas por compensações.
+    </p>
+  </div>
+</div>
+
+<style>
+  .article-sources {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 2px solid #eee;
+  }
+
+  section {
+    margin-bottom: 2.5rem;
+  }
+
+  h3 {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-bottom: 1rem;
+  }
+
+  /* SOURCES SECTION */
+  .sources-intro {
+    font-size: 0.95rem;
+    color: #666;
+    margin-bottom: 1.5rem;
+    font-style: italic;
+  }
+
+  .sources-list {
+    list-style: decimal;
+    padding-left: 2rem;
+  }
+
+  .source-item {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #f0f0f0;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  .source-header {
+    margin-bottom: 0.5rem;
+  }
+
+  .source-type-badge {
+    display: inline-block;
+    background: #f0f0f0;
+    color: #666;
+    padding: 0.4rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 500;
+  }
+
+  .source-title {
+    display: block;
+    color: #667eea;
+    font-weight: 600;
+    margin: 0.5rem 0;
+    text-decoration: none;
+    border-bottom: 1px solid #667eea;
+    transition: all 300ms ease;
+
+    &:hover {
+      color: #764ba2;
+      border-bottom-color: #764ba2;
+    }
+  }
+
+  .source-author,
+  .source-date {
+    font-size: 0.9rem;
+    color: #666;
+    margin: 0.3rem 0;
+  }
+
+  .source-url {
+    font-size: 0.85rem;
+    color: #999;
+    word-break: break-all;
+    margin: 0.5rem 0 0;
+    font-family: 'Courier New', monospace;
+  }
+
+  /* CREDITS SECTION */
+  .credits-intro {
+    font-size: 0.95rem;
+    color: #666;
+    margin-bottom: 1.5rem;
+    font-style: italic;
+  }
+
+  .credits-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .credit-item {
+    background: #fafafa;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid #eee;
+    transition: box-shadow 300ms ease;
+
+    &:hover {
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+  }
+
+  .credit-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .credit-info {
+    padding: 1rem;
+  }
+
+  .credit-author,
+  .credit-source,
+  .credit-license {
+    font-size: 0.9rem;
+    margin: 0.4rem 0;
+
+    strong {
+      color: #333;
+    }
+  }
+
+  .credit-source a {
+    color: #667eea;
+    text-decoration: none;
+    border-bottom: 1px solid #667eea;
+
+    &:hover {
+      color: #764ba2;
+      border-bottom-color: #764ba2;
+    }
+  }
+
+  /* SOURCES NOTE */
+  .sources-note {
+    background: #f9f9f9;
+    border-left: 4px solid #667eea;
+    padding: 1rem;
+    border-radius: 4px;
+    margin-top: 2rem;
+
+    p {
+      margin: 0;
+      font-size: 0.9rem;
+      color: #666;
+      line-height: 1.6;
+    }
+  }
+
+  /* RESPONSIVIDADE */
+  @media (max-width: 768px) {
+    .article-sources {
+      margin-top: 2rem;
+      padding-top: 1.5rem;
+    }
+
+    h3 {
+      font-size: 1.2rem;
+    }
+
+    .credits-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .source-title {
+      font-size: 0.95rem;
+    }
+  }
+
+  /* DARK MODE */
+  @media (prefers-color-scheme: dark) {
+    .source-type-badge {
+      background: rgba(255, 255, 255, 0.1);
+      color: #b0b0b0;
+    }
+
+    .source-item {
+      border-bottom-color: rgba(255, 255, 255, 0.1);
+    }
+
+    .source-author,
+    .source-date,
+    .source-url,
+    .credit-author,
+    .credit-source,
+    .credit-license {
+      color: #a0a0a0;
+    }
+
+    .credit-item {
+      background: rgba(255, 255, 255, 0.05);
+      border-color: rgba(255, 255, 255, 0.1);
+    }
+
+    .sources-note {
+      background: rgba(255, 255, 255, 0.05);
+      border-left-color: #667eea;
+
+      p {
+        color: #b0b0b0;
+      }
+    }
+  }
+</style>

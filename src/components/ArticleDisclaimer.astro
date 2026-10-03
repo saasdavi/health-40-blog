@@ -1,0 +1,201 @@
+---
+// ArticleDisclaimer.astro - Componente de disclaimer de saúde (E-E-A-T: Confiança)
+
+interface Props {
+  message?: string;
+  doctorConsultation?: boolean;
+  variant?: 'warning' | 'info' | 'important';
+}
+
+const {
+  message = 'Este artigo é informativo e não substitui orientação médica profissional. Sempre consulte um profissional de saúde antes de fazer mudanças significativas em sua rotina.',
+  doctorConsultation = true,
+  variant = 'warning',
+} = Astro.props;
+---
+
+<div class:list={['article-disclaimer', variant]}>
+  <div class="disclaimer-header">
+    <span class="disclaimer-icon">
+      {variant === 'important' ? '⚠️' : variant === 'info' ? 'ℹ️' : '⚠️'}
+    </span>
+    <h3>Aviso de Saúde Importante</h3>
+  </div>
+
+  <p class="disclaimer-text">{message}</p>
+
+  {doctorConsultation && (
+    <div class="disclaimer-actions">
+      <p>
+        <strong>Quando procurar um profissional:</strong>
+      </p>
+      <ul>
+        <li>Se os sintomas persistirem por mais de 2 semanas</li>
+        <li>Se o problema interferir em sua vida diária</li>
+        <li>Se houver mudanças repentinas em sua saúde</li>
+        <li>Antes de iniciar novos suplementos ou medicamentos</li>
+      </ul>
+    </div>
+  )}
+
+  <p class="disclaimer-footer">
+    O autor e a plataforma não são responsáveis por qualquer dano ou lesão resultante
+    do uso das informações contidas neste artigo.
+  </p>
+</div>
+
+<style>
+  .article-disclaimer {
+    border-left: 5px solid;
+    border-radius: 4px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    background-color: #fafafa;
+
+    &.warning {
+      border-left-color: #ff9800;
+      background-color: #fff8f0;
+
+      .disclaimer-icon {
+        color: #ff9800;
+      }
+    }
+
+    &.info {
+      border-left-color: #2196f3;
+      background-color: #f0f8ff;
+
+      .disclaimer-icon {
+        color: #2196f3;
+      }
+    }
+
+    &.important {
+      border-left-color: #d32f2f;
+      background-color: #ffebee;
+
+      .disclaimer-icon {
+        color: #d32f2f;
+      }
+    }
+  }
+
+  .disclaimer-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+  }
+
+  .disclaimer-icon {
+    font-size: 1.5rem;
+    flex-shrink: 0;
+  }
+
+  .disclaimer-header h3 {
+    margin: 0;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+
+  .disclaimer-text {
+    margin: 0.5rem 0 1rem;
+    line-height: 1.6;
+    color: #333;
+    font-weight: 500;
+  }
+
+  .disclaimer-actions {
+    background: rgba(255, 255, 255, 0.6);
+    border-radius: 3px;
+    padding: 1rem;
+    margin: 1rem 0;
+
+    p {
+      margin: 0 0 0.5rem;
+      font-weight: 600;
+      color: #333;
+      font-size: 0.95rem;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 1.5rem;
+
+      li {
+        margin-bottom: 0.4rem;
+        color: #555;
+        font-size: 0.9rem;
+      }
+    }
+  }
+
+  .disclaimer-footer {
+    margin: 1rem 0 0;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    font-size: 0.85rem;
+    color: #666;
+    font-style: italic;
+  }
+
+  /* Responsividade */
+  @media (max-width: 600px) {
+    .article-disclaimer {
+      padding: 1rem;
+      margin: 1.5rem 0;
+    }
+
+    .disclaimer-header {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .disclaimer-header h3 {
+      font-size: 1rem;
+    }
+
+    .disclaimer-text {
+      font-size: 0.95rem;
+    }
+  }
+
+  /* Dark mode support */
+  @media (prefers-color-scheme: dark) {
+    .article-disclaimer {
+      background-color: rgba(255, 255, 255, 0.05);
+
+      &.warning {
+        background-color: rgba(255, 152, 0, 0.1);
+      }
+
+      &.info {
+        background-color: rgba(33, 150, 243, 0.1);
+      }
+
+      &.important {
+        background-color: rgba(211, 47, 47, 0.1);
+      }
+    }
+
+    .disclaimer-header h3,
+    .disclaimer-text {
+      color: #f0f0f0;
+    }
+
+    .disclaimer-actions {
+      background: rgba(255, 255, 255, 0.1);
+
+      p,
+      li {
+        color: #e0e0e0;
+      }
+    }
+
+    .disclaimer-footer {
+      color: #a0a0a0;
+      border-top-color: rgba(255, 255, 255, 0.1);
+    }
+  }
+</style>

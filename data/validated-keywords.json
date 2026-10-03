@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-10-03T18:31:31.648Z",
+  "metadata": {
+    "totalValidated": 0,
+    "totalTested": 5,
+    "validatedBySource": {
+      "google_search": 0,
+      "google_ads": 0,
+      "manual": 0
+    },
+    "note": "APENAS keywords com demanda COMPROVADA (não inventada)"
+  },
+  "validatedKeywords": []
+}

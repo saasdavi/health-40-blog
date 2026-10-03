@@ -1,0 +1,102 @@
+---
+// CTAMounjaxi.astro - CTA destacado para Mounjaxi Vitta
+interface Props {
+  position?: 'inline' | 'full';
+}
+
+const { position = 'full' } = Astro.props;
+---
+
+<div class:list={['cta-mounjaxi', position]}>
+  <div class="cta-content">
+    <h3>Pronto para transformar seu corpo aos 40+?</h3>
+    <p>
+      Mounjaxi Vitta foi formulado especificamente para mulheres 40+ que querem
+      resultados reais. Acelera metabolismo, suprime apetite e aumenta energia.
+    </p>
+
+    <div class="cta-benefits">
+      <span class="benefit">✓ Frete grátis</span>
+      <span class="benefit">✓ 100% natural</span>
+      <span class="benefit">✓ Resultados comprovados</span>
+    </div>
+
+    <a href="https://mounjaxivitta.com.br/" target="_blank" class="cta-button">
+      Comprar Mounjaxi Vitta Agora
+    </a>
+  </div>
+</div>
+
+<style>
+  .cta-mounjaxi {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 2rem;
+    margin: 2rem 0;
+    text-align: center;
+  }
+
+  .cta-mounjaxi.inline {
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+  }
+
+  .cta-content h3 {
+    color: white;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+  }
+
+  .cta-content p {
+    color: rgba(255, 255, 255, 0.95);
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+  }
+
+  .cta-benefits {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+  }
+
+  .benefit {
+    font-size: 0.95rem;
+    font-weight: 500;
+  }
+
+  .cta-button {
+    display: inline-block;
+    background: #FF6B6B;
+    color: white;
+    padding: 0.8rem 2rem;
+    border-radius: 4px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    transition: background 300ms ease;
+    border-bottom: none;
+  }
+
+  .cta-button:hover {
+    background: #ff5252;
+    color: white;
+    border-bottom: none;
+  }
+
+  @media (max-width: 600px) {
+    .cta-mounjaxi {
+      padding: 1.5rem;
+    }
+
+    .cta-content h3 {
+      font-size: 1.3rem;
+    }
+
+    .cta-benefits {
+      gap: 1rem;
+    }
+  }
+</style>

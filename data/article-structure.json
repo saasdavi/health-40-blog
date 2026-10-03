@@ -1,0 +1,276 @@
+{
+  "version": "1.0.0",
+  "description": "Template de estrutura de seções para artigos E-E-A-T",
+  "templates": {
+    "default": {
+      "name": "Estrutura Padrão",
+      "description": "Estrutura completa para qualquer tópico de saúde",
+      "sections": [
+        {
+          "h2": "O que é [TOPIC]?",
+          "h3s": ["Definição", "Por que é importante aos 40+", "Impacto na saúde"],
+          "contentHint": "Introduza o conceito de forma clara e acessível. Explique por que é relevante para leitores 40+.",
+          "includeImage": true
+        },
+        {
+          "h2": "Causas e Fatores de Risco",
+          "h3s": ["Fatores biológicos", "Hábitos de vida", "Genética e hereditariedade", "Impacto da idade"],
+          "contentHint": "Detalhe as principais causas. Use dados científicos. Conecte com realidade de vida aos 40+.",
+          "includeImage": false
+        },
+        {
+          "h2": "Sinais e Sintomas",
+          "h3s": ["Principais sintomas", "Quando procurar um médico", "Diagnóstico"],
+          "contentHint": "Liste sintomas de forma clara. Indique quando buscar ajuda profissional. Mencione testes de diagnóstico.",
+          "includeImage": true
+        },
+        {
+          "h2": "Estratégias Práticas para Controlar [TOPIC]",
+          "h3s": ["Mudanças na alimentação", "Exercício físico", "Gerenciamento do estresse", "Sono e descanso"],
+          "contentHint": "Forneça dicas concretas e acionáveis. Priorize soluções naturais. Mencione timing e frequência.",
+          "includeImage": true
+        },
+        {
+          "h2": "Tratamentos Profissionais",
+          "h3s": ["Opções médicas", "Medicamentos", "Terapias alternativas", "Quando procurar ajuda profissional"],
+          "contentHint": "Eduque sobre opções de tratamento. Cite benefícios e considerações. Sempre recomende consultar profissional.",
+          "includeImage": false
+        },
+        {
+          "h2": "Conclusão e Próximos Passos",
+          "h3s": ["Resumo das principais estratégias", "Seu plano de ação", "Recursos adicionais"],
+          "contentHint": "Recapitule pontos principais. Encoraje ação. Sugira próximos passos concretos.",
+          "includeImage": false
+        }
+      ]
+    },
+    "problema-solucao": {
+      "name": "Problema > Solução",
+      "description": "Para artigos focados em resolver um problema específico",
+      "sections": [
+        {
+          "h2": "O Problema: Por que [TOPIC] é um desafio aos 40+",
+          "h3s": ["Realidade dos 40+", "Impacto na vida diária", "Estatísticas relevantes"],
+          "contentHint": "Valide a experiência do leitor. Mostre que o problema é comum e real.",
+          "includeImage": true
+        },
+        {
+          "h2": "Raízes e Causas Profundas",
+          "h3s": ["Por que acontece nesta idade", "Mudanças biológicas", "Fatores ambientais"],
+          "contentHint": "Ajude o leitor entender 'por quê' antes do 'como'.",
+          "includeImage": false
+        },
+        {
+          "h2": "Soluções Imediatas (Curto Prazo)",
+          "h3s": ["O que fazer hoje", "Primeiras mudanças", "Resultados rápidos"],
+          "contentHint": "Forneça wins rápidos para manter motivação.",
+          "includeImage": false
+        },
+        {
+          "h2": "Transformação Completa (Longo Prazo)",
+          "h3s": ["Estratégia de 30 dias", "Estratégia de 90 dias", "Mudanças permanentes"],
+          "contentHint": "Estruture em períodos. Mostre progresso tangível.",
+          "includeImage": true
+        },
+        {
+          "h2": "Evitando Armadilhas Comuns",
+          "h3s": ["Erros típicos", "O que não funciona", "Ajustes para sucesso"],
+          "contentHint": "Antecipe problemas. Mostre expertise em conhecer falhas comuns.",
+          "includeImage": false
+        },
+        {
+          "h2": "Seu Plano de Ação",
+          "h3s": ["Comece hoje", "Próximas semanas", "Acompanhamento"],
+          "contentHint": "Empodere com um roadmap claro.",
+          "includeImage": false
+        }
+      ]
+    },
+    "comparacao": {
+      "name": "Comparação de Opções",
+      "description": "Para artigos que comparam diferentes abordagens ou soluções",
+      "sections": [
+        {
+          "h2": "Visão Geral das Opções para [TOPIC]",
+          "h3s": ["O que estamos comparando", "Por que importa aos 40+", "Critérios de avaliação"],
+          "contentHint": "Estabeleça o contexto e critérios justos.",
+          "includeImage": true
+        },
+        {
+          "h2": "Opção 1: [APPROACH]",
+          "h3s": ["Como funciona", "Benefícios principais", "Desvantagens", "Melhor para"],
+          "contentHint": "Seja honesto sobre prós e contras.",
+          "includeImage": false
+        },
+        {
+          "h2": "Opção 2: [APPROACH]",
+          "h3s": ["Como funciona", "Benefícios principais", "Desvantagens", "Melhor para"],
+          "contentHint": "Equalize a cobertura entre opções.",
+          "includeImage": false
+        },
+        {
+          "h2": "Opção 3: [APPROACH]",
+          "h3s": ["Como funciona", "Benefícios principais", "Desvantagens", "Melhor para"],
+          "contentHint": "Mantenha formato consistente.",
+          "includeImage": false
+        },
+        {
+          "h2": "Tabela Comparativa",
+          "h3s": ["Lado a lado", "Ranking por critério", "Custo-benefício"],
+          "contentHint": "Use tabelas para clareza visual.",
+          "includeImage": false
+        },
+        {
+          "h2": "Qual é a Melhor Para Você?",
+          "h3s": ["Critérios de decisão", "Minha recomendação", "Próximos passos"],
+          "contentHint": "Encerre com direção clara sem ser prescritivo demais.",
+          "includeImage": false
+        }
+      ]
+    },
+    "guia-completo": {
+      "name": "Guia Completo & Detalhado",
+      "description": "Para artigos que cobrem um tópico em profundidade máxima",
+      "sections": [
+        {
+          "h2": "Introdução: Tudo sobre [TOPIC]",
+          "h3s": ["O que você vai aprender", "Tempo estimado", "Pré-requisitos"],
+          "contentHint": "Estabeleça expectativas. Mostre valor do tempo investido.",
+          "includeImage": true
+        },
+        {
+          "h2": "Fundamentos: Os Básicos",
+          "h3s": ["Conceitos essenciais", "Linguagem-chave", "O que todos devem saber"],
+          "contentHint": "Não assuma conhecimento prévio.",
+          "includeImage": false
+        },
+        {
+          "h2": "História e Contexto",
+          "h3s": ["Como chegamos aqui", "Evolução científica", "Relevância atual"],
+          "contentHint": "Dê contexto que aumenta compreensão.",
+          "includeImage": false
+        },
+        {
+          "h2": "Seção 1: [SUBTOPIC MAJOR]",
+          "h3s": ["Detalhe A", "Detalhe B", "Detalhe C", "Aplicação prática"],
+          "contentHint": "Mergulhe profundamente. Forneça exemplos.",
+          "includeImage": true
+        },
+        {
+          "h2": "Seção 2: [SUBTOPIC MAJOR]",
+          "h3s": ["Detalhe A", "Detalhe B", "Detalhe C", "Aplicação prática"],
+          "contentHint": "Continue a profundidade. Conecte com seção anterior.",
+          "includeImage": true
+        },
+        {
+          "h2": "Seção 3: [SUBTOPIC MAJOR]",
+          "h3s": ["Detalhe A", "Detalhe B", "Detalhe C", "Aplicação prática"],
+          "contentHint": "Mantenha consistência. Aumento de complexidade gradual.",
+          "includeImage": false
+        },
+        {
+          "h2": "Casos de Uso e Exemplos Reais",
+          "h3s": ["Cenário 1: [PERSONA]", "Cenário 2: [PERSONA]", "Lições aprendidas"],
+          "contentHint": "Mostre como real pessoas usam essas informações.",
+          "includeImage": false
+        },
+        {
+          "h2": "Erros Comuns e Como Evitá-los",
+          "h3s": ["Erro 1", "Erro 2", "Erro 3", "Checklist de prevenção"],
+          "contentHint": "Mostre expertise em aprender com o passado.",
+          "includeImage": false
+        },
+        {
+          "h2": "Perguntas Frequentes",
+          "h3s": ["P: [FAQ 1]", "P: [FAQ 2]", "P: [FAQ 3]", "Recursos adicionais"],
+          "contentHint": "Antecipe dúvidas. Seja conciso nas respostas.",
+          "includeImage": false
+        },
+        {
+          "h2": "Seu Plano de Estudo e Ação",
+          "h3s": ["Como usar este guia", "Estrutura de aprendizado", "Implementação"],
+          "contentHint": "Transforme conhecimento em ação.",
+          "includeImage": false
+        }
+      ]
+    },
+    "ano-novo": {
+      "name": "Resolução & Transformação",
+      "description": "Para artigos focados em metas e resoluções de saúde",
+      "sections": [
+        {
+          "h2": "Sua Resolução de Saúde Aos 40+",
+          "h3s": ["Por que agora é diferente", "O que realmente importa", "Realismo e expectativa"],
+          "contentHint": "Inspire sem ser clichê. Validar desafios reais.",
+          "includeImage": true
+        },
+        {
+          "h2": "O Que Você Quer Alcançar",
+          "h3s": ["Visão clara do sucesso", "Métricas mensuráveis", "Timeline realista"],
+          "contentHint": "Ajude definir metas SMART.",
+          "includeImage": false
+        },
+        {
+          "h2": "Preparação Mental e Física",
+          "h3s": ["Mentalidade para sucesso", "Preparação prática", "Removendo obstáculos"],
+          "contentHint": "Prepare antes de iniciar. Evite motivação vazia.",
+          "includeImage": false
+        },
+        {
+          "h2": "Plano Detalhado: Semanas 1-4",
+          "h3s": ["Semana 1: Fundação", "Semana 2: Construção", "Semana 3: Consolidação", "Semana 4: Avaliação"],
+          "contentHint": "Estruture os primeiros 30 dias. Use marcos pequenos.",
+          "includeImage": true
+        },
+        {
+          "h2": "Meses 2-3: Aprofundamento",
+          "h3s": ["Aumentando intensidade", "Ajustando estratégia", "Mantendo motivação"],
+          "contentHint": "Mostre como evoluir após fase inicial.",
+          "includeImage": false
+        },
+        {
+          "h2": "Sustentabilidade a Longo Prazo",
+          "h3s": ["Transformando em hábito", "Prevendo platôs", "Mantendo progresso"],
+          "contentHint": "Endereçar a realidade de longo prazo.",
+          "includeImage": false
+        },
+        {
+          "h2": "Rastreando Progresso",
+          "h3s": ["O que medir", "Frequência de avaliação", "Ajustando quando necessário"],
+          "contentHint": "Dados mantêm motivação. Defina métricas claras.",
+          "includeImage": false
+        },
+        {
+          "h2": "Seu Compromisso Pessoal",
+          "h3s": ["Declaração de intenção", "Recursos de suporte", "Próximo passo hoje"],
+          "contentHint": "Termine com ação imediata.",
+          "includeImage": false
+        }
+      ]
+    }
+  },
+  "guidelines": {
+    "h1-structure": "Um único H1 que é o título do artigo",
+    "h2-count": "4-6 H2s (seções principais)",
+    "h3-per-h2": "3-4 H3s por H2",
+    "content-per-section": "200-400 palavras por seção",
+    "image-placement": "Uma imagem a cada 2-3 seções",
+    "alt-text-requirement": "Alt text descritivo, 100-150 caracteres",
+    "internal-links": "3-5 links internos para outros artigos do blog",
+    "external-links": "3-5 links para fontes confiáveis (não concorrentes)",
+    "word-count-target": "1500-2500 palavras (pode variar conforme complexidade)",
+    "reading-time": "7-12 minutos",
+    "tone": "Profissional mas acessível. Especialista não condescendente.",
+    "voice": "Conselho prático de especialista que entende desafios dos 40+",
+    "e-e-a-t-checklist": [
+      "Tem autor identificado?",
+      "Tem disclaimer de saúde?",
+      "Tem 3+ fontes citadas?",
+      "Tem 1500+ palavras?",
+      "Tem alt text em todas as imagens?",
+      "Tem crédito de imagem?",
+      "Tem health warning ativo?",
+      "Tem 4+ seções bem estruturadas?"
+    ]
+  }
+}
