@@ -203,19 +203,6 @@
       }
     },
     {
-      "keyword": "caminhada emagrece",
-      "volume": 12100,
-      "competition": "LOW",
-      "cluster": "emagrecimento",
-      "absorve": [
-        "melhor exercício para emagrecer"
-      ],
-      "serp": {
-        "facil": null,
-        "nivel": "NÃO CHECADO"
-      }
-    },
-    {
       "keyword": "o que é colesterol",
       "volume": 12100,
       "competition": "LOW",
@@ -505,6 +492,124 @@
         "facil": false,
         "nivel": "DIFÍCIL",
         "topoDoGoogle": "Drogaria São Paulo, Einstein, SciELO, YouTube Drauzio; tema de risco clínico",
+        "aiOverview": true
+      },
+      "fontes": []
+    },
+    {
+      "keyword": "vitamina d baixa sintomas",
+      "volume": 12100,
+      "competition": "LOW",
+      "cluster": "nutricao",
+      "absorve": [
+        "Qual é o nível ideal de vitamina D?",
+        "Como aumentar a vitamina D?",
+        "Quais são os benefícios da vitamina D?",
+        "Que vitamina pode causar sono excessivo e cansaço?",
+        "vitamina d abaixo de 20",
+        "sintomas de vitamina d baixa em mulher"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "YouTube, milenamiguita, cuidadospelavida, policenter, G1, nutrify, alergoclinica, clinicaacor, labsl",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://nav.dasa.com.br/blog/falta-de-vitamina-d",
+        "https://imeb.com.br/6-sintomas-de-deficiencia-de-vitamina-d/",
+        "https://www.padrao.com.br/blog/falta-de-vitamina-d",
+        "https://www.fleury.com.br/noticias/falta-de-vitamina-d",
+        "https://www.einstein.br/n/vida-saudavel/descubra-os-riscos-da-falta-de-vitamina-d-para-o-organismo",
+        "https://www.postalsaude.com.br/10-sintomas-da-falta-de-vitamina-d/"
+      ]
+    },
+    {
+      "keyword": "alimentos que aumentam a testosterona",
+      "volume": 8100,
+      "competition": "MEDIUM",
+      "cluster": "hormonios",
+      "absorve": [
+        "Como aumentar a testosterona 100% natural?",
+        "O que derruba a testosterona do homem?",
+        "Quais são os inimigos da testosterona?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "labsl, Instagram, xsteam, Facebook, feitodeiridium, Scribd, portaldoholanda (2017)",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.valesaude.com.br/saude-v/quais-sao-os-alimentos-que-aumentam-a-testosterona/",
+        "https://www.conexasaude.com.br/blog/como-aumentar-a-testosterona-o-guia-definitivo",
+        "https://fecondare.com.br/artigos/alimentos-que-aumentam-testosterona/",
+        "https://www.tuasaude.com/alimentos-que-aumentam-a-testosterona/",
+        "https://www.saudeamericas.com.br/post/como-aumentar-testosterona-naturalmente/",
+        "https://labsl.com.br/blog/aumentar-testosterona-naturamente-2026/"
+      ]
+    },
+    {
+      "keyword": "caminhada emagrece",
+      "volume": 12100,
+      "competition": "LOW",
+      "cluster": "emagrecimento",
+      "absorve": [
+        "Quantos minutos de caminhada por dia para perder peso?",
+        "Quanto caminhar para emagrecer 1 kg?",
+        "É possível perder barriga só com caminhada?",
+        "Em quantos dias a caminhada começa a fazer efeito?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIA-FÁCIL",
+        "topoDoGoogle": "tjdft (2017), drogaraia, Einstein, saudeamericas, riomarrecife, netshoes, oceandrop",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.einstein.br/n/vida-saudavel/fazer-caminhada",
+        "https://www.saudeamericas.com.br/post/30-minutos-de-caminhada-por-dia-emagrece/",
+        "https://www.drogaraia.com.br/blog/atividade-fisica/corrida-e-caminhada/caminhada-para-emagrecer",
+        "https://www.tjdft.jus.br/informacoes/programas-projetos-e-acoes/pro-vida/dicas-de-saude/pilulas-de-saude/11-beneficios-da-caminhada-para-o-corpo-e-a-mente"
+      ]
+    },
+    {
+      "keyword": "idade metabólica",
+      "volume": 3400,
+      "competition": "LOW",
+      "cluster": "emagrecimento",
+      "absorve": [
+        "o que é idade metabólica",
+        "idade biológica",
+        "É possível diminuir a idade metabólica?",
+        "Qual o valor normal do metabolismo?",
+        "Qual é a tabela de metabolismo por idade?",
+        "idade metabólica calcular"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "oceandrop, trainerstudio, Tua Saúde, tomaconta, YouTube, Instagram, Doctoralia, holmesplace",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.tuasaude.com/idade-metabolica/",
+        "https://www.oceandrop.com.br/blog/calcular-idade-metabolica",
+        "https://www.doctoralia.com.br/perguntas-respostas/tenho-55-anos-e-minha-idade-metabolica-deu-34-isso-e-bom-ou-ruim",
+        "https://www.tomaconta.com/blog/idade-metabolica",
+        "https://www.holmesplace.com/pt/pt/blog/fitness/como-melhorar-a-sua-idade-metabolica"
+      ]
+    },
+    {
+      "keyword": "pressão alta o que fazer",
+      "volume": 12100,
+      "competition": "LOW",
+      "cluster": "pressao",
+      "absorve": [],
+      "serp": {
+        "facil": false,
+        "nivel": "MÉDIA",
+        "topoDoGoogle": "saudeamericas, drconsulta, gov.br, Boehringer, Nav Dasa, Tua Saúde; tema de emergência (crise hipertensiva)",
         "aiOverview": true
       },
       "fontes": []

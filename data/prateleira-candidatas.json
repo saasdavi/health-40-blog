@@ -110,6 +110,50 @@
       "volume": 2400,
       "cluster": "musculo",
       "status": "sem-serp"
+    },
+    {
+      "keyword": "como acelerar o metabolismo",
+      "volume": 9900,
+      "cluster": "emagrecimento",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "alimentos anti inflamatórios",
+      "volume": 6600,
+      "cluster": "nutricao",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "exames de rotina",
+      "volume": 6600,
+      "cluster": "exames",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "metabolismo lento",
+      "volume": 2900,
+      "cluster": "emagrecimento",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "magnésio para que serve",
+      "volume": 40500,
+      "cluster": "nutricao",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "ômega 3 para que serve",
+      "volume": 60500,
+      "cluster": "nutricao",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "creatina para idosos",
+      "volume": 3600,
+      "cluster": "musculo",
+      "status": "sem-serp"
     }
-  ]
+  ],
+  "semDemanda": "Frases longas do kit com volume < 200/mês no Google BR (não viram artigo próprio; entram como H2 de artigo-mãe): como perder barriga depois dos 40 (110), musculação depois dos 40 (30), treino de força para iniciantes (20), hipertrofia depois dos 40 (10), alimentos para reduzir gordura visceral (10), efeito platô emagrecimento (210)",
+  "foraDoEscopo": "Transacionais do kit (comprar creatina, assinar plano de treino, ebook, teste de longevidade): o robô não escreve sobre marcas/produtos"
 }
