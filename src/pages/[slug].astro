@@ -1,0 +1,270 @@
+---
+import { readFileSync } from 'fs';
+import { resolve } from 'path';
+
+let article = null;
+let allArticles = [];
+
+try {
+  const articlesPath = resolve('data/articles.json');
+  const articlesData = JSON.parse(readFileSync(articlesPath, 'utf-8'));
+  allArticles = articlesData.articles || [];
+
+  const { slug } = Astro.params;
+  article = allArticles.find((a: any) => a.slug === slug);
+} catch (e) {
+  console.warn('Could not read articles.json');
+}
+
+export async function getStaticPaths() {
+  let articles = [];
+  try {
+    const articlesPath = resolve('data/articles.json');
+    const articlesData = JSON.parse(readFileSync(articlesPath, 'utf-8'));
+    articles = articlesData.articles || [];
+  } catch (e) {
+    console.warn('Could not read articles.json');
+  }
+
+  return articles.map((article: any) => ({
+    params: { slug: article.slug },
+    props: { article }
+  }));
+}
+
+const { article: propsArticle } = Astro.props;
+if (!propsArticle && !article) {
+  return new Response('Not found', { status: 404 });
+}
+
+const currentArticle = propsArticle || article;
+---
+
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{currentArticle.title} - Saúde 40+</title>
+    <meta name="description" content={currentArticle.description} />
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      :root {
+        --primary: #667eea;
+        --text: #1a1a1a;
+        --text-light: #666;
+        --bg-light: #f8f9fb;
+        --border: #e0e0e0;
+      }
+
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        line-height: 1.8;
+        color: var(--text);
+        background: white;
+      }
+
+      .container {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 0 1.5rem;
+      }
+
+      header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 3rem 1.5rem;
+        margin-bottom: 3rem;
+        text-align: center;
+      }
+
+      header h1 {
+        font-size: 2.5rem;
+        margin-bottom: 1rem;
+        font-weight: 700;
+      }
+
+      .meta {
+        display: flex;
+        justify-content: center;
+        gap: 2rem;
+        font-size: 0.95rem;
+        opacity: 0.95;
+        margin-top: 1rem;
+      }
+
+      .meta span {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      article {
+        background: white;
+        padding: 2rem;
+        border-radius: 8px;
+        margin-bottom: 3rem;
+      }
+
+      article h2 {
+        font-size: 1.8rem;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+        color: var(--text);
+      }
+
+      article h3 {
+        font-size: 1.3rem;
+        margin-top: 1.5rem;
+        margin-bottom: 0.8rem;
+        color: var(--text);
+      }
+
+      article p {
+        margin-bottom: 1rem;
+        line-height: 1.8;
+      }
+
+      article ul, article ol {
+        margin-left: 2rem;
+        margin-bottom: 1rem;
+      }
+
+      article li {
+        margin-bottom: 0.5rem;
+        line-height: 1.8;
+      }
+
+      .disclaimer {
+        background: #fff3cd;
+        border-left: 4px solid #ffc107;
+        padding: 1.5rem;
+        margin: 2rem 0;
+        border-radius: 4px;
+        font-size: 0.95rem;
+      }
+
+      .disclaimer strong {
+        color: #856404;
+      }
+
+      .tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        margin-top: 2rem;
+        padding-top: 2rem;
+        border-top: 1px solid var(--border);
+      }
+
+      .tag {
+        background: var(--bg-light);
+        padding: 0.4rem 0.8rem;
+        border-radius: 20px;
+        font-size: 0.85rem;
+        color: var(--primary);
+        cursor: pointer;
+        transition: background 0.3s;
+      }
+
+      .tag:hover {
+        background: var(--primary);
+        color: white;
+      }
+
+      .back-link {
+        display: inline-block;
+        margin-bottom: 2rem;
+        color: var(--primary);
+        text-decoration: none;
+        font-weight: 600;
+        transition: color 0.3s;
+      }
+
+      .back-link:hover {
+        text-decoration: underline;
+      }
+
+      footer {
+        border-top: 1px solid var(--border);
+        padding: 2rem 0;
+        margin-top: 4rem;
+        text-align: center;
+        color: var(--text-light);
+        font-size: 0.9rem;
+      }
+
+      footer a {
+        color: var(--primary);
+        text-decoration: none;
+        margin: 0 1rem;
+      }
+
+      @media (max-width: 768px) {
+        header h1 {
+          font-size: 1.8rem;
+        }
+
+        .meta {
+          flex-direction: column;
+          gap: 0.5rem;
+        }
+
+        article {
+          padding: 1rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1>{currentArticle.title}</h1>
+        <p>{currentArticle.description}</p>
+        <div class="meta">
+          <span>📅 {currentArticle.createdAt ? new Date(currentArticle.createdAt).toLocaleDateString('pt-BR') : 'Data não disponível'}</span>
+          <span>📖 {currentArticle.wordCount || 0} palavras</span>
+          <span>⏱️ {Math.ceil((currentArticle.wordCount || 0) / 200)} min de leitura</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="container">
+      <a href="/" class="back-link">← Voltar ao Blog</a>
+
+      <article>
+        <div class="disclaimer">
+          <strong>⚠️ Aviso Importante:</strong> Este conteúdo é apenas informativo e não substitui orientação médica profissional.
+          Sempre consulte um médico qualificado antes de fazer mudanças na sua saúde.
+        </div>
+
+        <div set:html={currentArticle.content} />
+
+        {currentArticle.keywords && (
+          <div class="tags">
+            {currentArticle.keywords.primaryKeyword && (
+              <span class="tag">{currentArticle.keywords.primaryKeyword}</span>
+            )}
+            {currentArticle.keywords.secondaryKeywords && currentArticle.keywords.secondaryKeywords.map((tag: string) => (
+              <span class="tag">{tag}</span>
+            ))}
+          </div>
+        )}
+      </article>
+    </main>
+
+    <footer>
+      <p>
+        <a href="/">Início</a>
+        <a href="/sobre">Sobre</a>
+        <a href="/contato">Contato</a>
+        <a href="/termos-uso">Termos</a>
+      </p>
+      <p style="margin-top: 1rem;">© 2026 Saúde 40+ • Conteúdo Original • Sistema Autônomo de Publicação</p>
+    </footer>
+  </body>
+</html>
