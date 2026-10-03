@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "lastUpdated": "2026-10-03T03:57:36.830Z",
   "metadata": {
-    "totalKeywords": 444,
+    "totalKeywords": 517,
     "statusBreakdown": {
       "discovered": 444,
       "researched": 0,
@@ -9319,6 +9319,1247 @@
       "discoveredAt": "2026-10-03T03:52:05.707Z",
       "lastUpdated": "2026-10-03T03:52:05.707Z",
       "notes": "Long-tail from atividade física cansaço"
+    },
+    {
+      "id": "kw_expand_2",
+      "keyword": "whey protein 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "alimentacao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.201Z",
+      "lastUpdated": "2026-10-03T16:23:37.201Z",
+      "notes": "Expandido de tema: alimentacao"
+    },
+    {
+      "id": "kw_expand_5",
+      "keyword": "cálcio mulheres 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "alimentacao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.201Z",
+      "lastUpdated": "2026-10-03T16:23:37.201Z",
+      "notes": "Expandido de tema: alimentacao"
+    },
+    {
+      "id": "kw_expand_6",
+      "keyword": "ferro 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "alimentacao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.201Z",
+      "lastUpdated": "2026-10-03T16:23:37.201Z",
+      "notes": "Expandido de tema: alimentacao"
+    },
+    {
+      "id": "kw_expand_10",
+      "keyword": "receita saudável 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "alimentacao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.201Z",
+      "lastUpdated": "2026-10-03T16:23:37.201Z",
+      "notes": "Expandido de tema: alimentacao"
+    },
+    {
+      "id": "kw_expand_11",
+      "keyword": "receita fácil 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "alimentacao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.201Z",
+      "lastUpdated": "2026-10-03T16:23:37.201Z",
+      "notes": "Expandido de tema: alimentacao"
+    },
+    {
+      "id": "kw_expand_12",
+      "keyword": "receita colesterol baixo",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "alimentacao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.201Z",
+      "lastUpdated": "2026-10-03T16:23:37.201Z",
+      "notes": "Expandido de tema: alimentacao"
+    },
+    {
+      "id": "kw_expand_13",
+      "keyword": "receita emagrecer",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "alimentacao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.201Z",
+      "lastUpdated": "2026-10-03T16:23:37.201Z",
+      "notes": "Expandido de tema: alimentacao"
+    },
+    {
+      "id": "kw_expand_14",
+      "keyword": "dieta colesterol 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "alimentacao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.201Z",
+      "lastUpdated": "2026-10-03T16:23:37.201Z",
+      "notes": "Expandido de tema: alimentacao"
+    },
+    {
+      "id": "kw_expand_15",
+      "keyword": "dieta emagrecer 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "alimentacao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.201Z",
+      "lastUpdated": "2026-10-03T16:23:37.201Z",
+      "notes": "Expandido de tema: alimentacao"
+    },
+    {
+      "id": "kw_expand_16",
+      "keyword": "dieta energia 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "alimentacao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.201Z",
+      "lastUpdated": "2026-10-03T16:23:37.201Z",
+      "notes": "Expandido de tema: alimentacao"
+    },
+    {
+      "id": "kw_expand_17",
+      "keyword": "dieta menopausa",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "alimentacao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.201Z",
+      "lastUpdated": "2026-10-03T16:23:37.201Z",
+      "notes": "Expandido de tema: alimentacao"
+    },
+    {
+      "id": "kw_expand_24",
+      "keyword": "hipertrofia 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "esporte",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.201Z",
+      "lastUpdated": "2026-10-03T16:23:37.201Z",
+      "notes": "Expandido de tema: esporte"
+    },
+    {
+      "id": "kw_expand_27",
+      "keyword": "corrida 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "esporte",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.201Z",
+      "lastUpdated": "2026-10-03T16:23:37.201Z",
+      "notes": "Expandido de tema: esporte"
+    },
+    {
+      "id": "kw_expand_29",
+      "keyword": "flexibilidade 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "esporte",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.201Z",
+      "lastUpdated": "2026-10-03T16:23:37.201Z",
+      "notes": "Expandido de tema: esporte"
+    },
+    {
+      "id": "kw_expand_35",
+      "keyword": "dor costas exercício",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "esporte",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.201Z",
+      "lastUpdated": "2026-10-03T16:23:37.201Z",
+      "notes": "Expandido de tema: esporte"
+    },
+    {
+      "id": "kw_expand_47",
+      "keyword": "higiene sono",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "sono",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.201Z",
+      "lastUpdated": "2026-10-03T16:23:37.201Z",
+      "notes": "Expandido de tema: sono"
+    },
+    {
+      "id": "kw_expand_59",
+      "keyword": "dor articulação",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "saude",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: saude"
+    },
+    {
+      "id": "kw_expand_64",
+      "keyword": "fadiga crônica 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "energia",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: energia"
+    },
+    {
+      "id": "kw_expand_65",
+      "keyword": "baixa energia 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "energia",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: energia"
+    },
+    {
+      "id": "kw_expand_67",
+      "keyword": "aumentar disposição 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "energia",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: energia"
+    },
+    {
+      "id": "kw_expand_74",
+      "keyword": "ansiedade 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "mental",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: mental"
+    },
+    {
+      "id": "kw_expand_75",
+      "keyword": "controlar ansiedade",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "mental",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: mental"
+    },
+    {
+      "id": "kw_expand_76",
+      "keyword": "depressão 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "mental",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: mental"
+    },
+    {
+      "id": "kw_expand_77",
+      "keyword": "tristeza 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "mental",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: mental"
+    },
+    {
+      "id": "kw_expand_78",
+      "keyword": "estresse 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "mental",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: mental"
+    },
+    {
+      "id": "kw_expand_79",
+      "keyword": "stress trabalho",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "mental",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: mental"
+    },
+    {
+      "id": "kw_expand_80",
+      "keyword": "meditação 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "mental",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: mental"
+    },
+    {
+      "id": "kw_expand_81",
+      "keyword": "yoga mente",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "mental",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: mental"
+    },
+    {
+      "id": "kw_expand_82",
+      "keyword": "mindfulness 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "mental",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: mental"
+    },
+    {
+      "id": "kw_expand_83",
+      "keyword": "relacionamento 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "mental",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: mental"
+    },
+    {
+      "id": "kw_expand_84",
+      "keyword": "comunicação casal",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "mental",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: mental"
+    },
+    {
+      "id": "kw_expand_85",
+      "keyword": "pele 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "beleza",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: beleza"
+    },
+    {
+      "id": "kw_expand_86",
+      "keyword": "rugas 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "beleza",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: beleza"
+    },
+    {
+      "id": "kw_expand_87",
+      "keyword": "flacidez 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "beleza",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: beleza"
+    },
+    {
+      "id": "kw_expand_88",
+      "keyword": "cabelo 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "beleza",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: beleza"
+    },
+    {
+      "id": "kw_expand_89",
+      "keyword": "queda cabelo 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "beleza",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: beleza"
+    },
+    {
+      "id": "kw_expand_90",
+      "keyword": "cabelo branco 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "beleza",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: beleza"
+    },
+    {
+      "id": "kw_expand_92",
+      "keyword": "benefícios colágeno",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "beleza",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: beleza"
+    },
+    {
+      "id": "kw_expand_93",
+      "keyword": "cosmética 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "beleza",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: beleza"
+    },
+    {
+      "id": "kw_expand_94",
+      "keyword": "produto natural pele",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "beleza",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: beleza"
+    },
+    {
+      "id": "kw_expand_95",
+      "keyword": "rejuvenescimento 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "beleza",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: beleza"
+    },
+    {
+      "id": "kw_expand_96",
+      "keyword": "antienvelhecimento",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "beleza",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: beleza"
+    },
+    {
+      "id": "kw_expand_97",
+      "keyword": "exames 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "prevencao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: prevencao"
+    },
+    {
+      "id": "kw_expand_98",
+      "keyword": "colonoscopia 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "prevencao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: prevencao"
+    },
+    {
+      "id": "kw_expand_99",
+      "keyword": "mamografia 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "prevencao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: prevencao"
+    },
+    {
+      "id": "kw_expand_100",
+      "keyword": "vacina 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "prevencao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: prevencao"
+    },
+    {
+      "id": "kw_expand_101",
+      "keyword": "imunidade 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "prevencao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: prevencao"
+    },
+    {
+      "id": "kw_expand_102",
+      "keyword": "monitorar saúde 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "prevencao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: prevencao"
+    },
+    {
+      "id": "kw_expand_103",
+      "keyword": "pressão arterial",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "prevencao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: prevencao"
+    },
+    {
+      "id": "kw_expand_104",
+      "keyword": "hábito saudável 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "prevencao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: prevencao"
+    },
+    {
+      "id": "kw_expand_105",
+      "keyword": "parar de fumar 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "prevencao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: prevencao"
+    },
+    {
+      "id": "kw_expand_106",
+      "keyword": "prevenir colesterol",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "prevencao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: prevencao"
+    },
+    {
+      "id": "kw_expand_107",
+      "keyword": "prevenir diabetes",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "prevencao",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: prevencao"
+    },
+    {
+      "id": "kw_expand_109",
+      "keyword": "qual suplemento tomar",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "medicamentos",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: medicamentos"
+    },
+    {
+      "id": "kw_expand_111",
+      "keyword": "vitamina c",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "medicamentos",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: medicamentos"
+    },
+    {
+      "id": "kw_expand_112",
+      "keyword": "vitamina d",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "medicamentos",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: medicamentos"
+    },
+    {
+      "id": "kw_expand_113",
+      "keyword": "cálcio suplemento",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "medicamentos",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: medicamentos"
+    },
+    {
+      "id": "kw_expand_114",
+      "keyword": "ferro suplemento",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "medicamentos",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: medicamentos"
+    },
+    {
+      "id": "kw_expand_116",
+      "keyword": "polivitamínico 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "medicamentos",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: medicamentos"
+    },
+    {
+      "id": "kw_expand_117",
+      "keyword": "multivitamínico",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "medicamentos",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: medicamentos"
+    },
+    {
+      "id": "kw_expand_118",
+      "keyword": "medicamento 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "medicamentos",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: medicamentos"
+    },
+    {
+      "id": "kw_expand_119",
+      "keyword": "efeitos colaterais",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "medicamentos",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: medicamentos"
+    },
+    {
+      "id": "kw_expand_120",
+      "keyword": "hobby 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "lazer",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: lazer"
+    },
+    {
+      "id": "kw_expand_121",
+      "keyword": "atividade lazer 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "lazer",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: lazer"
+    },
+    {
+      "id": "kw_expand_122",
+      "keyword": "viajar 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "lazer",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: lazer"
+    },
+    {
+      "id": "kw_expand_123",
+      "keyword": "viagem saudável",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "lazer",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: lazer"
+    },
+    {
+      "id": "kw_expand_124",
+      "keyword": "diversão 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "lazer",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: lazer"
+    },
+    {
+      "id": "kw_expand_125",
+      "keyword": "encontros sociais",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "lazer",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: lazer"
+    },
+    {
+      "id": "kw_expand_126",
+      "keyword": "aprender 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "lazer",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: lazer"
+    },
+    {
+      "id": "kw_expand_127",
+      "keyword": "novo hobby 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "lazer",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: lazer"
+    },
+    {
+      "id": "kw_expand_128",
+      "keyword": "comunidade 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "lazer",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: lazer"
+    },
+    {
+      "id": "kw_expand_129",
+      "keyword": "amigos 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "lazer",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: lazer"
+    },
+    {
+      "id": "kw_expand_130",
+      "keyword": "grupos 40+",
+      "source": [
+        "tema_expansion"
+      ],
+      "status": "discovered",
+      "volume": null,
+      "competition": null,
+      "trend": null,
+      "intent": "informational",
+      "theme": "lazer",
+      "validated": false,
+      "discoveredAt": "2026-10-03T16:23:37.202Z",
+      "lastUpdated": "2026-10-03T16:23:37.202Z",
+      "notes": "Expandido de tema: lazer"
     }
   ]
 }
