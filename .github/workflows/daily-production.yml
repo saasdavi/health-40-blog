@@ -82,21 +82,3 @@ jobs:
           console.log(\`   🌐 Published: \${published}\`);
           "
 
-      - name: 💬 Slack Notification
-        if: failure() && secrets.SLACK_WEBHOOK != ''
-        uses: slackapi/slack-github-action@v1.24.0
-        with:
-          webhook-url: ${{ secrets.SLACK_WEBHOOK }}
-          payload: |
-            {
-              "text": "❌ Daily article production failed",
-              "blocks": [
-                {
-                  "type": "section",
-                  "text": {
-                    "type": "mrkdwn",
-                    "text": "*❌ Daily Article Production*\nFailed at: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
-                  }
-                }
-              ]
-            }
