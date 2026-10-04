@@ -1,0 +1,2267 @@
+[
+ {
+  "k": "psoríase",
+  "v": 246000,
+  "c": "LOW"
+ },
+ {
+  "k": "foliculite",
+  "v": 165000,
+  "c": "LOW"
+ },
+ {
+  "k": "milium",
+  "v": 165000,
+  "c": "LOW"
+ },
+ {
+  "k": "ácido tranexâmico",
+  "v": 165000,
+  "c": "HIGH"
+ },
+ {
+  "k": "impetigo",
+  "v": 135000,
+  "c": "LOW"
+ },
+ {
+  "k": "câncer de pele",
+  "v": 135000,
+  "c": "LOW"
+ },
+ {
+  "k": "sabonete de enxofre",
+  "v": 135000,
+  "c": "HIGH"
+ },
+ {
+  "k": "ácido hialurônico",
+  "v": 135000,
+  "c": "HIGH"
+ },
+ {
+  "k": "niacinamida",
+  "v": 135000,
+  "c": "HIGH"
+ },
+ {
+  "k": "óleo de melaleuca",
+  "v": 135000,
+  "c": "HIGH"
+ },
+ {
+  "k": "protetor solar facial",
+  "v": 135000,
+  "c": "HIGH"
+ },
+ {
+  "k": "hidratante facial",
+  "v": 110000,
+  "c": "HIGH"
+ },
+ {
+  "k": "retinol",
+  "v": 110000,
+  "c": "HIGH"
+ },
+ {
+  "k": "ácido salicílico",
+  "v": 110000,
+  "c": "HIGH"
+ },
+ {
+  "k": "adapaleno",
+  "v": 90500,
+  "c": "HIGH"
+ },
+ {
+  "k": "ácido glicólico",
+  "v": 90500,
+  "c": "HIGH"
+ },
+ {
+  "k": "resveratrol",
+  "v": 90500,
+  "c": "HIGH"
+ },
+ {
+  "k": "botox",
+  "v": 90500,
+  "c": "LOW"
+ },
+ {
+  "k": "dermatite de contato",
+  "v": 74000,
+  "c": "LOW"
+ },
+ {
+  "k": "sarna",
+  "v": 74000,
+  "c": "LOW"
+ },
+ {
+  "k": "melanoma",
+  "v": 74000,
+  "c": "LOW"
+ },
+ {
+  "k": "adesivo para espinha",
+  "v": 74000,
+  "c": "HIGH"
+ },
+ {
+  "k": "isotretinoína",
+  "v": 74000,
+  "c": "LOW"
+ },
+ {
+  "k": "melasma",
+  "v": 60500,
+  "c": "LOW"
+ },
+ {
+  "k": "cobreiro",
+  "v": 60500,
+  "c": "LOW"
+ },
+ {
+  "k": "urticária",
+  "v": 60500,
+  "c": "LOW"
+ },
+ {
+  "k": "queloide",
+  "v": 60500,
+  "c": "LOW"
+ },
+ {
+  "k": "celulite",
+  "v": 60500,
+  "c": "LOW"
+ },
+ {
+  "k": "queratose pilar",
+  "v": 60500,
+  "c": "LOW"
+ },
+ {
+  "k": "limpeza de pele",
+  "v": 60500,
+  "c": "HIGH"
+ },
+ {
+  "k": "sabonete facial",
+  "v": 60500,
+  "c": "HIGH"
+ },
+ {
+  "k": "protetor solar com cor",
+  "v": 60500,
+  "c": "HIGH"
+ },
+ {
+  "k": "cravos",
+  "v": 49500,
+  "c": "LOW"
+ },
+ {
+  "k": "estrias",
+  "v": 49500,
+  "c": "LOW"
+ },
+ {
+  "k": "glicerina",
+  "v": 49500,
+  "c": "HIGH"
+ },
+ {
+  "k": "peróxido de benzoíla",
+  "v": 49500,
+  "c": "HIGH"
+ },
+ {
+  "k": "hidroquinona",
+  "v": 49500,
+  "c": "HIGH"
+ },
+ {
+  "k": "preenchimento labial",
+  "v": 49500,
+  "c": "LOW"
+ },
+ {
+  "k": "peeling",
+  "v": 49500,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "brotoeja",
+  "v": 49500,
+  "c": "LOW"
+ },
+ {
+  "k": "pano branco",
+  "v": 40500,
+  "c": "LOW"
+ },
+ {
+  "k": "microagulhamento",
+  "v": 40500,
+  "c": "HIGH"
+ },
+ {
+  "k": "lifting facial",
+  "v": 40500,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "dermatite perioral",
+  "v": 33100,
+  "c": "LOW"
+ },
+ {
+  "k": "pés de galinha",
+  "v": 33100,
+  "c": "LOW"
+ },
+ {
+  "k": "sérum",
+  "v": 33100,
+  "c": "HIGH"
+ },
+ {
+  "k": "protetor solar em bastão",
+  "v": 33100,
+  "c": "HIGH"
+ },
+ {
+  "k": "ácido ascórbico",
+  "v": 33100,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "sculptra",
+  "v": 33100,
+  "c": "LOW"
+ },
+ {
+  "k": "ultraformer",
+  "v": 33100,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "fps",
+  "v": 33100,
+  "c": "LOW"
+ },
+ {
+  "k": "foliculite na virilha",
+  "v": 33100,
+  "c": "LOW"
+ },
+ {
+  "k": "bigode chinês",
+  "v": 27100,
+  "c": "LOW"
+ },
+ {
+  "k": "esfoliação facial",
+  "v": 27100,
+  "c": "HIGH"
+ },
+ {
+  "k": "gua sha",
+  "v": 27100,
+  "c": "HIGH"
+ },
+ {
+  "k": "água termal",
+  "v": 27100,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina c no rosto",
+  "v": 27100,
+  "c": "HIGH"
+ },
+ {
+  "k": "ácido azelaico",
+  "v": 27100,
+  "c": "HIGH"
+ },
+ {
+  "k": "dermaplaning",
+  "v": 27100,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "pé de atleta",
+  "v": 22200,
+  "c": "LOW"
+ },
+ {
+  "k": "olheiras",
+  "v": 22200,
+  "c": "HIGH"
+ },
+ {
+  "k": "ácido lático",
+  "v": 22200,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "óleo de rosa mosqueta",
+  "v": 22200,
+  "c": "HIGH"
+ },
+ {
+  "k": "peeling de fenol",
+  "v": 22200,
+  "c": "LOW"
+ },
+ {
+  "k": "colágeno hidrolisado",
+  "v": 22200,
+  "c": "HIGH"
+ },
+ {
+  "k": "astaxantina",
+  "v": 22200,
+  "c": "HIGH"
+ },
+ {
+  "k": "tricotilomania",
+  "v": 22200,
+  "c": "LOW"
+ },
+ {
+  "k": "protetor solar em spray",
+  "v": 22200,
+  "c": "HIGH"
+ },
+ {
+  "k": "massagem facial",
+  "v": 18100,
+  "c": "HIGH"
+ },
+ {
+  "k": "toalha de rosto",
+  "v": 18100,
+  "c": "HIGH"
+ },
+ {
+  "k": "radiesse",
+  "v": 18100,
+  "c": "HIGH"
+ },
+ {
+  "k": "laser lavieen",
+  "v": 18100,
+  "c": "LOW"
+ },
+ {
+  "k": "crioterapia",
+  "v": 18100,
+  "c": "LOW"
+ },
+ {
+  "k": "óxido de zinco",
+  "v": 18100,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "rosácea",
+  "v": 14800,
+  "c": "LOW"
+ },
+ {
+  "k": "preenchimento de olheiras",
+  "v": 14800,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "fios de pdo",
+  "v": 14800,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "dermapen",
+  "v": 14800,
+  "c": "HIGH"
+ },
+ {
+  "k": "carboxiterapia",
+  "v": 14800,
+  "c": "LOW"
+ },
+ {
+  "k": "poros dilatados",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "cicatriz hipertrófica",
+  "v": 12100,
+  "c": "LOW"
+ },
+ {
+  "k": "tônico facial",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "skincare coreano",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "tretinoína",
+  "v": 12100,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "ácido mandélico",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "bioestimulador de colágeno",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "profhilo",
+  "v": 12100,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "dermatilomania",
+  "v": 12100,
+  "c": "LOW"
+ },
+ {
+  "k": "dióxido de titânio",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "protetor solar para pele oleosa",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "bronzeamento",
+  "v": 12100,
+  "c": "LOW"
+ },
+ {
+  "k": "dermatite de contato alérgica",
+  "v": 9900,
+  "c": "LOW"
+ },
+ {
+  "k": "centella asiática",
+  "v": 9900,
+  "c": "HIGH"
+ },
+ {
+  "k": "ácido ferúlico",
+  "v": 9900,
+  "c": "HIGH"
+ },
+ {
+  "k": "polypodium leucotomos",
+  "v": 9900,
+  "c": "HIGH"
+ },
+ {
+  "k": "protetor solar em pó",
+  "v": 9900,
+  "c": "HIGH"
+ },
+ {
+  "k": "rinofima",
+  "v": 8100,
+  "c": "LOW"
+ },
+ {
+  "k": "bolinhas na pele",
+  "v": 8100,
+  "c": "LOW"
+ },
+ {
+  "k": "rugas",
+  "v": 8100,
+  "c": "LOW"
+ },
+ {
+  "k": "máscara facial",
+  "v": 8100,
+  "c": "HIGH"
+ },
+ {
+  "k": "pantenol",
+  "v": 8100,
+  "c": "HIGH"
+ },
+ {
+  "k": "ureia no creme",
+  "v": 8100,
+  "c": "HIGH"
+ },
+ {
+  "k": "laser de co2",
+  "v": 8100,
+  "c": "LOW"
+ },
+ {
+  "k": "mesoterapia",
+  "v": 8100,
+  "c": "LOW"
+ },
+ {
+  "k": "radicais livres",
+  "v": 8100,
+  "c": "LOW"
+ },
+ {
+  "k": "luz azul",
+  "v": 8100,
+  "c": "LOW"
+ },
+ {
+  "k": "queilite actínica",
+  "v": 8100,
+  "c": "LOW"
+ },
+ {
+  "k": "pé rachado",
+  "v": 8100,
+  "c": "HIGH"
+ },
+ {
+  "k": "foliculite no couro cabeludo",
+  "v": 8100,
+  "c": "LOW"
+ },
+ {
+  "k": "virilha escura",
+  "v": 8100,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "desmossomos",
+  "v": 6600,
+  "c": "LOW"
+ },
+ {
+  "k": "pele oleosa",
+  "v": 6600,
+  "c": "HIGH"
+ },
+ {
+  "k": "queratose actínica",
+  "v": 6600,
+  "c": "LOW"
+ },
+ {
+  "k": "papada",
+  "v": 6600,
+  "c": "LOW"
+ },
+ {
+  "k": "estrias vermelhas",
+  "v": 6600,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "manchas no rosto",
+  "v": 6600,
+  "c": "HIGH"
+ },
+ {
+  "k": "alfa arbutin",
+  "v": 6600,
+  "c": "HIGH"
+ },
+ {
+  "k": "radiofrequência facial",
+  "v": 6600,
+  "c": "HIGH"
+ },
+ {
+  "k": "intradermoterapia",
+  "v": 6600,
+  "c": "LOW"
+ },
+ {
+  "k": "pós barba",
+  "v": 6600,
+  "c": "HIGH"
+ },
+ {
+  "k": "rubor facial",
+  "v": 5400,
+  "c": "LOW"
+ },
+ {
+  "k": "hiperpigmentação pós inflamatória",
+  "v": 5400,
+  "c": "LOW"
+ },
+ {
+  "k": "foliculite decalvante",
+  "v": 5400,
+  "c": "LOW"
+ },
+ {
+  "k": "hiperplasia sebácea",
+  "v": 5400,
+  "c": "LOW"
+ },
+ {
+  "k": "estrias brancas",
+  "v": 5400,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "ácido kójico",
+  "v": 5400,
+  "c": "HIGH"
+ },
+ {
+  "k": "protetor solar toque seco",
+  "v": 5400,
+  "c": "HIGH"
+ },
+ {
+  "k": "creme para olhos",
+  "v": 5400,
+  "c": "HIGH"
+ },
+ {
+  "k": "dermatite de fralda",
+  "v": 5400,
+  "c": "LOW"
+ },
+ {
+  "k": "púrpura senil",
+  "v": 5400,
+  "c": "LOW"
+ },
+ {
+  "k": "axilas escuras",
+  "v": 5400,
+  "c": "LOW"
+ },
+ {
+  "k": "melanócitos",
+  "v": 4400,
+  "c": "LOW"
+ },
+ {
+  "k": "pele seca",
+  "v": 4400,
+  "c": "LOW"
+ },
+ {
+  "k": "coceira na pele",
+  "v": 4400,
+  "c": "LOW"
+ },
+ {
+  "k": "alergia de pele",
+  "v": 4400,
+  "c": "LOW"
+ },
+ {
+  "k": "sulco nasogeniano",
+  "v": 4400,
+  "c": "LOW"
+ },
+ {
+  "k": "peptídeos de cobre",
+  "v": 4400,
+  "c": "HIGH"
+ },
+ {
+  "k": "fios de sustentação",
+  "v": 4400,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "protetor solar oral",
+  "v": 4400,
+  "c": "HIGH"
+ },
+ {
+  "k": "descamação da pele",
+  "v": 3600,
+  "c": "LOW"
+ },
+ {
+  "k": "células de langerhans",
+  "v": 3600,
+  "c": "LOW"
+ },
+ {
+  "k": "fototipos de pele",
+  "v": 3600,
+  "c": "LOW"
+ },
+ {
+  "k": "cravos brancos",
+  "v": 3600,
+  "c": "LOW"
+ },
+ {
+  "k": "ozonoterapia",
+  "v": 3600,
+  "c": "LOW"
+ },
+ {
+  "k": "poros abertos",
+  "v": 2900,
+  "c": "HIGH"
+ },
+ {
+  "k": "olheiras profundas",
+  "v": 2900,
+  "c": "HIGH"
+ },
+ {
+  "k": "bolsas embaixo dos olhos",
+  "v": 2900,
+  "c": "HIGH"
+ },
+ {
+  "k": "rotina de skincare",
+  "v": 2900,
+  "c": "HIGH"
+ },
+ {
+  "k": "fronha de seda",
+  "v": 2900,
+  "c": "HIGH"
+ },
+ {
+  "k": "bakuchiol",
+  "v": 2900,
+  "c": "HIGH"
+ },
+ {
+  "k": "ceramidas",
+  "v": 2900,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "bisabolol",
+  "v": 2900,
+  "c": "LOW"
+ },
+ {
+  "k": "queimadura solar",
+  "v": 2900,
+  "c": "LOW"
+ },
+ {
+  "k": "pele mista",
+  "v": 2400,
+  "c": "LOW"
+ },
+ {
+  "k": "psoríase em placas",
+  "v": 2400,
+  "c": "LOW"
+ },
+ {
+  "k": "esqualano",
+  "v": 2400,
+  "c": "HIGH"
+ },
+ {
+  "k": "subcisão",
+  "v": 2400,
+  "c": "LOW"
+ },
+ {
+  "k": "calcanhar rachado",
+  "v": 2400,
+  "c": "HIGH"
+ },
+ {
+  "k": "pele sensível",
+  "v": 1900,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "pele acneica",
+  "v": 1900,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "rugas na testa",
+  "v": 1900,
+  "c": "HIGH"
+ },
+ {
+  "k": "lábios finos",
+  "v": 1900,
+  "c": "LOW"
+ },
+ {
+  "k": "casca de laranja",
+  "v": 1900,
+  "c": "LOW"
+ },
+ {
+  "k": "óleo de limpeza",
+  "v": 1900,
+  "c": "HIGH"
+ },
+ {
+  "k": "slugging",
+  "v": 1900,
+  "c": "LOW"
+ },
+ {
+  "k": "drenagem linfática facial",
+  "v": 1900,
+  "c": "HIGH"
+ },
+ {
+  "k": "niacinamida 10",
+  "v": 1900,
+  "c": "HIGH"
+ },
+ {
+  "k": "argireline",
+  "v": 1900,
+  "c": "HIGH"
+ },
+ {
+  "k": "radiodermite",
+  "v": 1900,
+  "c": "LOW"
+ },
+ {
+  "k": "tecido subcutâneo",
+  "v": 1600,
+  "c": "LOW"
+ },
+ {
+  "k": "glândula sebácea",
+  "v": 1600,
+  "c": "LOW"
+ },
+ {
+  "k": "pele vermelha",
+  "v": 1600,
+  "c": "LOW"
+ },
+ {
+  "k": "flacidez da pele",
+  "v": 1600,
+  "c": "LOW"
+ },
+ {
+  "k": "olheiras roxas",
+  "v": 1600,
+  "c": "HIGH"
+ },
+ {
+  "k": "rolo de jade",
+  "v": 1600,
+  "c": "HIGH"
+ },
+ {
+  "k": "skincare masculino",
+  "v": 1600,
+  "c": "HIGH"
+ },
+ {
+  "k": "retinaldeído",
+  "v": 1600,
+  "c": "HIGH"
+ },
+ {
+  "k": "laser fracionado",
+  "v": 1600,
+  "c": "LOW"
+ },
+ {
+  "k": "luz intensa pulsada",
+  "v": 1600,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "protetor solar para pele seca",
+  "v": 1600,
+  "c": "HIGH"
+ },
+ {
+  "k": "estrias na gravidez",
+  "v": 1600,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "ph da pele",
+  "v": 1300,
+  "c": "LOW"
+ },
+ {
+  "k": "manchas senis",
+  "v": 1300,
+  "c": "LOW"
+ },
+ {
+  "k": "alantoína",
+  "v": 1300,
+  "c": "LOW"
+ },
+ {
+  "k": "terapia fotodinâmica",
+  "v": 1300,
+  "c": "LOW"
+ },
+ {
+  "k": "cotovelos escuros",
+  "v": 1300,
+  "c": "LOW"
+ },
+ {
+  "k": "vasinhos no rosto",
+  "v": 1000,
+  "c": "LOW"
+ },
+ {
+  "k": "máscara de argila verde",
+  "v": 1000,
+  "c": "HIGH"
+ },
+ {
+  "k": "hidrafacial",
+  "v": 1000,
+  "c": "HIGH"
+ },
+ {
+  "k": "melasma na gravidez",
+  "v": 1000,
+  "c": "LOW"
+ },
+ {
+  "k": "pele desidratada",
+  "v": 880,
+  "c": "LOW"
+ },
+ {
+  "k": "pele fina",
+  "v": 880,
+  "c": "LOW"
+ },
+ {
+  "k": "manchas nas mãos",
+  "v": 880,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "argila branca no rosto",
+  "v": 880,
+  "c": "HIGH"
+ },
+ {
+  "k": "ácido hialurônico no rosto",
+  "v": 880,
+  "c": "HIGH"
+ },
+ {
+  "k": "índice uv",
+  "v": 880,
+  "c": "LOW"
+ },
+ {
+  "k": "alergia a desodorante",
+  "v": 880,
+  "c": "LOW"
+ },
+ {
+  "k": "camada córnea",
+  "v": 720,
+  "c": "LOW"
+ },
+ {
+  "k": "corpúsculos de pacini",
+  "v": 720,
+  "c": "LOW"
+ },
+ {
+  "k": "pele normal",
+  "v": 720,
+  "c": "LOW"
+ },
+ {
+  "k": "pele madura",
+  "v": 720,
+  "c": "HIGH"
+ },
+ {
+  "k": "pele com rosácea",
+  "v": 720,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "pele grossa",
+  "v": 720,
+  "c": "LOW"
+ },
+ {
+  "k": "skincare para pele oleosa",
+  "v": 720,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina e na pele",
+  "v": 720,
+  "c": "HIGH"
+ },
+ {
+  "k": "limpeza de pele profissional",
+  "v": 720,
+  "c": "HIGH"
+ },
+ {
+  "k": "tech neck",
+  "v": 720,
+  "c": "LOW"
+ },
+ {
+  "k": "filtro solar físico",
+  "v": 720,
+  "c": "HIGH"
+ },
+ {
+  "k": "camada basal",
+  "v": 590,
+  "c": "LOW"
+ },
+ {
+  "k": "derme papilar",
+  "v": 590,
+  "c": "LOW"
+ },
+ {
+  "k": "derme reticular",
+  "v": 590,
+  "c": "LOW"
+ },
+ {
+  "k": "pele opaca",
+  "v": 590,
+  "c": "LOW"
+ },
+ {
+  "k": "pele sem viço",
+  "v": 590,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "pseudofoliculite da barba",
+  "v": 590,
+  "c": "LOW"
+ },
+ {
+  "k": "linhas de marionete",
+  "v": 590,
+  "c": "LOW"
+ },
+ {
+  "k": "celulite grau 3",
+  "v": 590,
+  "c": "LOW"
+ },
+ {
+  "k": "máscara de tecido",
+  "v": 590,
+  "c": "HIGH"
+ },
+ {
+  "k": "idebenona",
+  "v": 590,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "laser para melasma",
+  "v": 590,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "roupa com proteção uv",
+  "v": 590,
+  "c": "HIGH"
+ },
+ {
+  "k": "lábios rachados",
+  "v": 590,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "couro cabeludo queimado de sol",
+  "v": 590,
+  "c": "LOW"
+ },
+ {
+  "k": "cuidados com tatuagem",
+  "v": 590,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "eumelanina e feomelanina",
+  "v": 480,
+  "c": "LOW"
+ },
+ {
+  "k": "fototipo 4",
+  "v": 480,
+  "c": "LOW"
+ },
+ {
+  "k": "barreira cutânea danificada",
+  "v": 480,
+  "c": "LOW"
+ },
+ {
+  "k": "flacidez facial",
+  "v": 480,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "esfoliação química",
+  "v": 480,
+  "c": "HIGH"
+ },
+ {
+  "k": "ordem dos produtos de skincare",
+  "v": 480,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "microbotox",
+  "v": 480,
+  "c": "LOW"
+ },
+ {
+  "k": "peeling de jessner",
+  "v": 480,
+  "c": "HIGH"
+ },
+ {
+  "k": "colágeno tipo 1 e 3",
+  "v": 390,
+  "c": "HIGH"
+ },
+ {
+  "k": "pele com manchas",
+  "v": 390,
+  "c": "LOW"
+ },
+ {
+  "k": "pele cinzenta",
+  "v": 390,
+  "c": "LOW"
+ },
+ {
+  "k": "pele áspera",
+  "v": 390,
+  "c": "LOW"
+ },
+ {
+  "k": "psoríase inversa",
+  "v": 390,
+  "c": "LOW"
+ },
+ {
+  "k": "cicatrizes ice pick",
+  "v": 390,
+  "c": "LOW"
+ },
+ {
+  "k": "probiótico para pele",
+  "v": 390,
+  "c": "HIGH"
+ },
+ {
+  "k": "raios uvb",
+  "v": 390,
+  "c": "LOW"
+ },
+ {
+  "k": "joelhos escuros",
+  "v": 390,
+  "c": "LOW"
+ },
+ {
+  "k": "fototipo 1",
+  "v": 320,
+  "c": "LOW"
+ },
+ {
+  "k": "pele repuxando",
+  "v": 320,
+  "c": "LOW"
+ },
+ {
+  "k": "pontos pretos",
+  "v": 320,
+  "c": "LOW"
+ },
+ {
+  "k": "esfoliante enzimático",
+  "v": 320,
+  "c": "HIGH"
+ },
+ {
+  "k": "limpar pincel de maquiagem",
+  "v": 320,
+  "c": "HIGH"
+ },
+ {
+  "k": "zinco na pele",
+  "v": 320,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "peeling de ácido salicílico",
+  "v": 320,
+  "c": "HIGH"
+ },
+ {
+  "k": "raios uva",
+  "v": 320,
+  "c": "LOW"
+ },
+ {
+  "k": "cicatriz cirúrgica",
+  "v": 320,
+  "c": "LOW"
+ },
+ {
+  "k": "camada granulosa",
+  "v": 260,
+  "c": "LOW"
+ },
+ {
+  "k": "melanogênese",
+  "v": 260,
+  "c": "LOW"
+ },
+ {
+  "k": "pele reativa",
+  "v": 260,
+  "c": "LOW"
+ },
+ {
+  "k": "pele na menopausa",
+  "v": 260,
+  "c": "LOW"
+ },
+ {
+  "k": "rugas de expressão",
+  "v": 260,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "rugas profundas",
+  "v": 260,
+  "c": "HIGH"
+ },
+ {
+  "k": "rugas entre as sobrancelhas",
+  "v": 260,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "essência facial",
+  "v": 260,
+  "c": "HIGH"
+ },
+ {
+  "k": "skincare para pele madura",
+  "v": 260,
+  "c": "HIGH"
+ },
+ {
+  "k": "fitosfingosina",
+  "v": 260,
+  "c": "LOW"
+ },
+ {
+  "k": "chá verde na pele",
+  "v": 260,
+  "c": "LOW"
+ },
+ {
+  "k": "botox para suor",
+  "v": 260,
+  "c": "LOW"
+ },
+ {
+  "k": "laser para vasinhos",
+  "v": 260,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "colágeno funciona",
+  "v": 260,
+  "c": "HIGH"
+ },
+ {
+  "k": "pele e menopausa",
+  "v": 260,
+  "c": "LOW"
+ },
+ {
+  "k": "melhor fps",
+  "v": 260,
+  "c": "LOW"
+ },
+ {
+  "k": "pele ardendo",
+  "v": 210,
+  "c": "LOW"
+ },
+ {
+  "k": "contorno da mandíbula",
+  "v": 210,
+  "c": "LOW"
+ },
+ {
+  "k": "peeling de ácido glicólico",
+  "v": 210,
+  "c": "HIGH"
+ },
+ {
+  "k": "protetor solar reef safe",
+  "v": 210,
+  "c": "HIGH"
+ },
+ {
+  "k": "queimadura solar com bolhas",
+  "v": 210,
+  "c": "LOW"
+ },
+ {
+  "k": "glândulas sudoríparas écrinas",
+  "v": 170,
+  "c": "LOW"
+ },
+ {
+  "k": "glândulas sudoríparas apócrinas",
+  "v": 170,
+  "c": "LOW"
+ },
+ {
+  "k": "pele de fumante",
+  "v": 170,
+  "c": "LOW"
+ },
+ {
+  "k": "peeling de tca",
+  "v": 170,
+  "c": "HIGH"
+ },
+ {
+  "k": "nefertiti lift",
+  "v": 170,
+  "c": "LOW"
+ },
+ {
+  "k": "pele de idoso",
+  "v": 170,
+  "c": "LOW"
+ },
+ {
+  "k": "pele oleosa sensível",
+  "v": 140,
+  "c": "HIGH"
+ },
+ {
+  "k": "pintas suspeitas",
+  "v": 140,
+  "c": "LOW"
+ },
+ {
+  "k": "cicatriz boxcar",
+  "v": 140,
+  "c": "LOW"
+ },
+ {
+  "k": "skin cycling",
+  "v": 140,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "skincare para pele seca",
+  "v": 140,
+  "c": "HIGH"
+ },
+ {
+  "k": "pele do bebê",
+  "v": 140,
+  "c": "LOW"
+ },
+ {
+  "k": "disbiose cutânea",
+  "v": 110,
+  "c": "LOW"
+ },
+ {
+  "k": "pele queimada de sol",
+  "v": 110,
+  "c": "LOW"
+ },
+ {
+  "k": "própolis na pele",
+  "v": 110,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "filtro solar químico",
+  "v": 110,
+  "c": "HIGH"
+ },
+ {
+  "k": "água e pele",
+  "v": 110,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "tatuagem e sol",
+  "v": 110,
+  "c": "LOW"
+ },
+ {
+  "k": "microbioma da pele",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "hiperqueratinização folicular",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "terminações nervosas da pele",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "fototipo 6",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "pele escamando",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "melasma dérmico",
+  "v": 90,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "melasma misto",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "gordura embaixo do queixo",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "manchas no colo",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "tinosorb",
+  "v": 90,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "protetor solar híbrido",
+  "v": 90,
+  "c": "HIGH"
+ },
+ {
+  "k": "coceira em idosos",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "barreira da pele",
+  "v": 70,
+  "c": "LOW"
+ },
+ {
+  "k": "regra do abcde",
+  "v": 70,
+  "c": "LOW"
+ },
+ {
+  "k": "dupla limpeza",
+  "v": 70,
+  "c": "HIGH"
+ },
+ {
+  "k": "bálsamo de limpeza",
+  "v": 70,
+  "c": "HIGH"
+ },
+ {
+  "k": "alta frequência na pele",
+  "v": 70,
+  "c": "HIGH"
+ },
+ {
+  "k": "retirada de pintas",
+  "v": 70,
+  "c": "LOW"
+ },
+ {
+  "k": "alimentos para a pele",
+  "v": 70,
+  "c": "LOW"
+ },
+ {
+  "k": "reaplicar protetor solar",
+  "v": 70,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "protetor solar todos os dias",
+  "v": 70,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "protetor solar dentro de casa",
+  "v": 70,
+  "c": "LOW"
+ },
+ {
+  "k": "protetor solar e vitamina d",
+  "v": 70,
+  "c": "LOW"
+ },
+ {
+  "k": "pele masculina",
+  "v": 70,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "camada lúcida",
+  "v": 50,
+  "c": "LOW"
+ },
+ {
+  "k": "skinimalism",
+  "v": 50,
+  "c": "LOW"
+ },
+ {
+  "k": "skincare pela manhã",
+  "v": 50,
+  "c": "HIGH"
+ },
+ {
+  "k": "estresse e pele",
+  "v": 50,
+  "c": "LOW"
+ },
+ {
+  "k": "protetor solar à prova d água",
+  "v": 50,
+  "c": "HIGH"
+ },
+ {
+  "k": "fotoestabilidade",
+  "v": 50,
+  "c": "LOW"
+ },
+ {
+  "k": "pele dos olhos",
+  "v": 50,
+  "c": "LOW"
+ },
+ {
+  "k": "pele dos lábios",
+  "v": 50,
+  "c": "LOW"
+ },
+ {
+  "k": "vitamina de pele",
+  "v": 40,
+  "c": "LOW"
+ },
+ {
+  "k": "glicação do colágeno",
+  "v": 40,
+  "c": "LOW"
+ },
+ {
+  "k": "skincare 40 anos",
+  "v": 40,
+  "c": "HIGH"
+ },
+ {
+  "k": "compressa fria no rosto",
+  "v": 40,
+  "c": "HIGH"
+ },
+ {
+  "k": "intestino e pele",
+  "v": 40,
+  "c": "LOW"
+ },
+ {
+  "k": "fps 30 ou 50",
+  "v": 40,
+  "c": "HIGH"
+ },
+ {
+  "k": "pele do pescoço",
+  "v": 40,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "retinol na gravidez",
+  "v": 40,
+  "c": "LOW"
+ },
+ {
+  "k": "colágeno na menopausa",
+  "v": 40,
+  "c": "HIGH"
+ },
+ {
+  "k": "elastina na pele",
+  "v": 30,
+  "c": "LOW"
+ },
+ {
+  "k": "perda de água transepidérmica",
+  "v": 30,
+  "c": "LOW"
+ },
+ {
+  "k": "skincare na gravidez",
+  "v": 30,
+  "c": "HIGH"
+ },
+ {
+  "k": "odor no suor",
+  "v": 30,
+  "c": "LOW"
+ },
+ {
+  "k": "perda de volume no rosto",
+  "v": 20,
+  "c": "LOW"
+ },
+ {
+  "k": "skincare para iniciantes",
+  "v": 20,
+  "c": "HIGH"
+ },
+ {
+  "k": "skincare 50 anos",
+  "v": 20,
+  "c": "HIGH"
+ },
+ {
+  "k": "alimentos para pele bonita",
+  "v": 20,
+  "c": "LOW"
+ },
+ {
+  "k": "protetor solar para esportistas",
+  "v": 20,
+  "c": "HIGH"
+ },
+ {
+  "k": "protetor solar por cima da maquiagem",
+  "v": 20,
+  "c": "HIGH"
+ },
+ {
+  "k": "pele do colo",
+  "v": 20,
+  "c": "LOW"
+ },
+ {
+  "k": "pele das mãos",
+  "v": 20,
+  "c": "LOW"
+ },
+ {
+  "k": "matriz extracelular da pele",
+  "v": 20,
+  "c": "LOW"
+ },
+ {
+  "k": "assadura embaixo das mamas",
+  "v": 20,
+  "c": "LOW"
+ },
+ {
+  "k": "manto ácido da pele",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "fator de hidratação natural",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "pele estressada",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "glicação e envelhecimento",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "sono e pele",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "luz azul e pele",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "vitamina ce escorbuto",
+  "v": 10,
+  "c": null
+ },
+ {
+  "k": "frio e pele",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "quanto de protetor solar passar",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "pha gluconolactona",
+  "v": 10,
+  "c": "HIGH"
+ },
+ {
+  "k": "alcaçuz na pele",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "escala ppd",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "ceramidas da pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "peptídeos antimicrobianos da pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "composição do sebo",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "microcirculação da pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "mastócitos na pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "sistema imunológico da pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "receptores de estrogênio na pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "andrógenos e pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "cortisol e pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "ages na pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "sebo e acne",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele e hormônios",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "septos fibrosos da pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "adipócitos da hipoderme",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele seca com a idade",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele desidratada por ácidos",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele pós procedimento",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele depois dos 50",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele com cravos fechados",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele com acne inflamatória",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele de quem treina",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele de quem trabalha à noite",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele e poluição",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele com ar seco",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele alérgica a fragrância",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele alérgica a protetor solar",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele inchada ao acordar",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele alérgica ao frio",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "acne comedônica",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "acne inflamatória",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "acne cística",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "acne conglobata",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "acne hormonal adulta",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "acne e síndrome dos ovários policísticos",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "acne fúngica",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "acne cosmética",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "acne por medicamento",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "rosácea ocular",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "dermatite atópica",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "dermatite atópica em adultos",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "dermatite seborreica",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "dermatite seborreica no rosto",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "psoríase gutata",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "vitiligo",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "micose de pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "herpes labial",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "herpes zoster",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "carcinoma basocelular",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "eczema",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "cicatriz de acne",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "código de barras no lábio",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "retinol sanduíche",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "como misturar ácidos",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "skincare à noite",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "guardar cosméticos na geladeira",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "botox preventivo",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "preenchimento facial",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "lipo de papada",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "bichectomia",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "açúcar e pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "dieta e acne",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "estresse e acne",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "cigarro e pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "álcool e pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "poluição e pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "dieta de baixo índice glicêmico e acne",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "leite e acne",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "ômega 3 e pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "zinco para acne",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "vitamina de psoríase",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "exercício e pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "lavar o rosto depois do treino",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "ar condicionado e pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "banho quente e pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "sauna e pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "ansiedade e psoríase",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "jejum intermitente e pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "chá verde e pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "deficiência de ferro e pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "mudança de estação e pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "vasinhos e genética",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "mindfulness e acne",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "alimentos que causam acne",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "luz visível e pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "infravermelho e pele",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "selo uva",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "regra dos dois dedos",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "medicamento que dá mancha no sol",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "chapéu e óculos com proteção uv",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "guarda sol protege",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "rebote do sol",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "cafeína nos olhos",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "acne neonatal",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "acne na adolescência",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "skincare na amamentação",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele depois de barbear",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele depois de depilação a laser",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "pele em tratamento oncológico",
+  "v": 0,
+  "c": null
+ }
+]
