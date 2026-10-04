@@ -82,7 +82,8 @@ function lerTabela(arq) {
   const head = cel(linhas[iHead]);
   const ik = head.findIndex((h) => /^(keyword|palavra|termo)/i.test(h));
   const iv = head.findIndex((h) => /avg|volume|search|buscas|pesquisas/i.test(h) && !/trend|tend/i.test(h));
-  return linhas.slice(iHead + 1).map((l) => { const c = cel(l); return { keyword: c[ik], volume: numero(c[iv]) }; }).filter((r) => r.keyword);
+  const ic = head.findIndex((h) => /^competition$|^concorr/i.test(h));
+  return linhas.slice(iHead + 1).map((l) => { const c = cel(l); return { keyword: c[ik], volume: numero(c[iv]), competicao: ic >= 0 ? (c[ic] || '').toUpperCase() : '' }; }).filter((r) => r.keyword);
 }
 
 function analisar() {
@@ -117,10 +118,61 @@ function analisar() {
   console.log(`\nGravado em ${DIR}/clusters.json. Próximo passo: checar o Google (SERP) dos que passaram.`);
 }
 
+// Importa o CSV do "Descobrir novas palavras-chave" (milhares de ideias que o Google gera a partir de sementes):
+// agrupa por tema, descarta intenção de compra e grava as melhores como candidatas.
+//   node scripts/combinar-palavras.js importar arquivo.csv [--categoria nome] [--semente "palavra" ...] [--min 1000]
+function importar() {
+  if (!arg) throw new Error('uso: importar arquivo.csv');
+  const min = flag('--min', 1000);
+  const catArg = process.argv.includes('--categoria') ? process.argv[process.argv.indexOf('--categoria') + 1] : null;
+  const ing = JSON.parse(fs.readFileSync(path.join(DIR, 'ingredientes.json'), 'utf8'));
+  const temas = [];
+  for (const [cat, ts] of Object.entries(ing.categorias)) if (!catArg || cat === catArg) for (const t of ts) temas.push({ t, cat, n: norm(t) });
+  // sementes novas: --semente "melasma" --semente "caspa" (as mesmas que você digitou no Planejador)
+  process.argv.forEach((a, i) => { if (a === '--semente' && process.argv[i + 1]) temas.push({ t: process.argv[i + 1], cat: catArg || 'geral', n: norm(process.argv[i + 1]) }); });
+  temas.sort((a, b) => b.n.length - a.n.length); // o tema mais específico vence
+  const fila = JSON.parse(fs.readFileSync('data/keywords-validated.json', 'utf8')).keywords.map((k) => norm(k.keyword));
+  const grupos = new Map();
+  let lidas = 0, comerciais = 0, semTema = 0;
+  for (const r of lerTabela(arg)) {
+    if (!(r.volume > 0)) continue;
+    lidas++;
+    const k = norm(r.keyword);
+    if (COMERCIAL.test(k) || r.competicao === 'HIGH') { comerciais++; continue; }
+    const m = temas.find((x) => k.includes(x.n));
+    if (!m) { semTema++; continue; }
+    if (!grupos.has(m.t)) grupos.set(m.t, { tema: m.t, categoria: m.cat, itens: new Map() });
+    const sig = assinatura(r.keyword), g = grupos.get(m.t).itens;
+    if (!g.has(sig) || g.get(sig).volume < r.volume) g.set(sig, { frase: r.keyword, volume: r.volume });
+  }
+  const cand = JSON.parse(fs.readFileSync('data/prateleira-candidatas.json', 'utf8'));
+  const jaTem = new Set([...cand.candidatas.map((c) => norm(c.keyword)), ...fila]);
+  let novas = 0;
+  const saida = [];
+  for (const g of grupos.values()) {
+    const itens = [...g.itens.values()].sort((a, b) => b.volume - a.volume);
+    const [principal, ...caudas] = itens;
+    const soma = itens.reduce((x, y) => x + y.volume, 0);
+    const estimado = Math.round(principal.volume + 0.65 * (soma - principal.volume));
+    const ok = estimado >= min && !jaTem.has(norm(principal.frase));
+    saida.push({ categoria: g.categoria, principal: principal.frase, volumePrincipal: principal.volume, volumeEstimado: estimado, caudas: caudas.length, novo: ok });
+    if (ok) {
+      cand.candidatas.push({ keyword: principal.frase, volume: principal.volume, cluster: g.categoria, status: `sem-serp; importada do Planejador; cluster estimado ${estimado}; absorve: ${caudas.slice(0, 6).map((x) => `${x.frase} (${x.volume})`).join(', ')}` });
+      novas++;
+    }
+  }
+  saida.sort((a, b) => b.volumeEstimado - a.volumeEstimado);
+  fs.writeFileSync(path.join(DIR, 'importacao.json'), JSON.stringify(saida, null, 1));
+  fs.writeFileSync('data/prateleira-candidatas.json', JSON.stringify(cand, null, 1));
+  console.log(`${lidas} ideias com volume | descartadas por compra/marca: ${comerciais} | sem tema conhecido: ${semTema} | clusters: ${grupos.size} | candidatas novas: ${novas}`);
+  for (const o of saida.slice(0, 25)) console.log(`${o.novo ? '✅' : '·'} ${String(o.volumeEstimado).padStart(7)}  ${o.categoria} · ${o.principal}  [${o.caudas} caudas]`);
+}
+
 try {
   if (cmd === 'gerar') gerar();
   else if (cmd === 'analisar') analisar();
-  else console.log('uso: node scripts/combinar-palavras.js gerar | analisar arquivo.csv');
+  else if (cmd === 'importar') importar();
+  else console.log('uso: node scripts/combinar-palavras.js gerar | analisar arquivo.csv | importar arquivo.csv');
 } catch (e) {
   console.error('Erro:', e.message);
   process.exit(1);
