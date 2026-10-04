@@ -1,5 +1,7 @@
 # CLAUDE.md - Project Intelligence Guide
 
+> **ESTADO ATUAL E PRÓXIMOS PASSOS:** `PROXIMOS-PASSOS.md` (1 página; leia antes de tudo e atualize ao terminar).
+>
 > **LEIA PRIMEIRO:** o fluxo atual (3 artigos/dia, Haiku 4.5, demanda → pauta → Google → fila, banco de palavras, regras de segurança) está em `ESTRATEGIA-E-FLUXO-AUTOMATICO.md`. Onde este arquivo disser "2/day", "Haiku 3.5" ou "Google Custom Search", vale o novo documento.
 
 ## Project Overview
