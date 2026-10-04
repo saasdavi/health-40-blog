@@ -28,8 +28,8 @@ const slugify = (t) => semAcento(t).replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g
 const STOP = new Set(['de', 'da', 'do', 'das', 'dos', 'a', 'o', 'e', 'em', 'na', 'no', 'para', 'por', 'um', 'uma', 'que', 'com', 'os', 'as', 'se']);
 const termos = (t) => semAcento(t).split(/[^a-z0-9]+/).filter((w) => w.length > 1 && !STOP.has(w));
 
-// Termos que o blog não cobre: marca, produto, compra, suplemento.
-const COMERCIAL = /\b(comprar|preco|preço|onde comprar|melhor marca|promocao|cupom|kit|capsulas?|comprimidos?|suplemento|creatina|whey|termogenico|quelato|dimalato|verisol|renova|coenzima|colageno hidrolisado|vitamina k2)\b/i;
+// Termos que o blog não cobre: marca, produto e compra. Suplemento pode virar pauta informativa (benefícios, sem dose, marca ou venda).
+const COMERCIAL = /\b(comprar|preco|preço|onde comprar|melhor marca|promocao|cupom|kit|capsulas?|comprimidos?|termogenico|dimalato|verisol|renova|colageno hidrolisado)\b/i;
 // Temas de urgência: não viram artigo próprio.
 const URGENCIA = /\b(crise|pico de pressao|emergencia|infarto|avc|derrame|overdose|socorro|morte por)\b/i;
 // Temas de risco: obrigam nota de cuidado para o robô.
@@ -87,7 +87,7 @@ for (const p of alvo) {
   if (fontes.length && dominios.size < MIN_DOMINIOS) erro(p, `fontes de só ${dominios.size} site(s) (mínimo ${MIN_DOMINIOS})`);
   if (new Set(fontes).size !== fontes.length) erro(p, 'URL de fonte repetida');
 
-  if (COMERCIAL.test(semAcento(p.keyword))) erro(p, 'termo comercial/marca/suplemento (fora do escopo)');
+  if (COMERCIAL.test(semAcento(p.keyword))) erro(p, 'termo comercial/marca (fora do escopo)');
   if (URGENCIA.test(semAcento(p.keyword))) erro(p, 'tema de urgência não vira artigo próprio (use como H2 de alerta)');
   const precisaNota = RISCO.test(semAcento(p.keyword)) || CLUSTERS_RISCO.has(p.cluster);
   if (precisaNota && !(p.notas && p.notas.length > 20)) erro(p, 'tema de saúde sem "notas" de cuidado para o robô');

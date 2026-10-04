@@ -4,6 +4,7 @@ Dados completos: `data/pesquisa/sono-volumes.json` (142 frases medidas, 33 volta
 ## Pautas prontas (volume ≥ 1.000, concorrência baixa, informativas)
 | Pauta | Buscas/mês | Agrupa |
 |---|---|---|
+| melatonina para que serve | 74.000 | informativo: benefícios, sem dose, marca ou venda (revisão) |
 | ritmo circadiano | 40.500 | relógio biológico, cronotipo |
 | como dormir rápido | 22.200 | relaxamento para dormir, respiração para dormir |
 | sono rem | 18.100 | fases do sono, ciclo do sono, sono profundo |
@@ -25,7 +26,6 @@ Dados completos: `data/pesquisa/sono-volumes.json` (142 frases medidas, 33 volta
 | acordar cansado | 1.000 | |
 
 ## Descartadas
-- melatonina para que serve (74.000): suplemento.
 - polissonografia (60.500): exame, só com revisão.
 - paralisia do sono (74.000): topo dominado por autoridades (já checada).
 - fadiga (27.100): amplo, fora do tema sono.
