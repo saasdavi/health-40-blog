@@ -35,7 +35,7 @@ if (ETAPA === 2 && !TODOS) {
 }
 const alvoPorTema = Math.max(20, Math.floor(ALVO / Math.max(1, porTema.length)));
 
-const todas = new Set();
+const todas = new Map(); // forma normalizada (sem acento) -> frase original COM acentos
 for (const { cat, t } of porTema) {
   if (ETAPA === 2 && !TODOS && !temasValidos.has(t)) continue;
   const f = [];
@@ -53,11 +53,11 @@ for (const { cat, t } of porTema) {
   for (const frase of f) {
     const k = norm(frase);
     if (k.length > 80 || COMERCIAL.test(k) || todas.has(k)) continue;
-    todas.add(k);
+    todas.set(k, frase.replace(/\s+/g, ' ').trim());
     if (++n >= alvoPorTema) break;
   }
 }
-const lista = [...todas];
+const lista = [...todas.values()];
 fs.mkdirSync('data/pesquisa', { recursive: true });
 fs.writeFileSync(SAIDA, lista.join('\n') + '\n');
 console.log(`etapa ${ETAPA}: ${ETAPA === 2 && !TODOS ? temasValidos.size + ' temas com demanda' : porTema.length + ' temas'} -> ${lista.length} frases únicas em ${SAIDA} (≈${alvoPorTema} por tema). Créditos estimados para medir: ${lista.length}.`);
