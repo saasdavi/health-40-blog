@@ -1522,6 +1522,566 @@
    "cluster": "ossos-articulacoes",
    "status": "sem-serp; importada do Planejador; cluster estimado 1000; absorve: ",
    "papel": "pilar"
+  },
+  {
+   "keyword": "colesterol",
+   "volume": 60500,
+   "cluster": "coracao",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "triglicerídeos",
+   "volume": 135000,
+   "cluster": "coracao",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "emagrecer",
+   "volume": 33100,
+   "cluster": "emagrecimento",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "menopausa",
+   "volume": 49500,
+   "cluster": "menopausa",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "colesterol das hdl",
+   "volume": 74000,
+   "cluster": "coracao",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "dieta emagrecer",
+   "volume": 40500,
+   "cluster": "emagrecimento",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "triglicérides alto",
+   "volume": 49500,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "perimenopausa",
+   "volume": 40500,
+   "cluster": "menopausa",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "sarcopenia o que é",
+   "volume": 33100,
+   "cluster": "coluna",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "câimbras",
+   "volume": 33100,
+   "cluster": "coluna",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "cabelo grisalho",
+   "volume": 22200,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "cabelo caindo muito",
+   "volume": 9900,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "dor nas costas no meio",
+   "volume": 22200,
+   "cluster": "coluna",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "climatério o que é",
+   "volume": 9900,
+   "cluster": "menopausa",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "recomeçar",
+   "volume": 18100,
+   "cluster": "sintomas",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "hiperplasia prostática",
+   "volume": 14800,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "dores nas costas o que pode ser",
+   "volume": 14800,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "cabelo branco",
+   "volume": 12100,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "homa ir",
+   "volume": 12100,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "urina escura",
+   "volume": 12100,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "gordura abdominal",
+   "volume": 3600,
+   "cluster": "emagrecimento",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "insonia o que é",
+   "volume": 1000,
+   "cluster": "sono",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "insulina alta",
+   "volume": 9900,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "babosa no cabelo",
+   "volume": 9900,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "suco detox emagrece",
+   "volume": 9900,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "meditacaoparadormir",
+   "volume": 9900,
+   "cluster": "sono",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "meditação ao dormir",
+   "volume": 9900,
+   "cluster": "sono",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "meditaçãopara dormir",
+   "volume": 9900,
+   "cluster": "sono",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "cabelo caindo",
+   "volume": 4400,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "alimentos ricos em vitamina d",
+   "volume": 8100,
+   "cluster": "exames",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "fases sono",
+   "volume": 4400,
+   "cluster": "sono",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "hpb",
+   "volume": 8100,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "glicemia alta",
+   "volume": 8100,
+   "cluster": "exames",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "ciclo do sono",
+   "volume": 8100,
+   "cluster": "sono",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "meditacoes iasd",
+   "volume": 8100,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "dieta para perder barriga",
+   "volume": 8100,
+   "cluster": "emagrecimento",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "dor nas costas ao respirar",
+   "volume": 8100,
+   "cluster": "coluna",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "queda de cabelo o que pode ser",
+   "volume": 8100,
+   "cluster": "pele-cabelo",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "causa insonia",
+   "volume": 3600,
+   "cluster": "sono",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "pilates e idosos",
+   "volume": 1900,
+   "cluster": "exercicio",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "triglicerides",
+   "volume": 6600,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "totg",
+   "volume": 6600,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "região lombar",
+   "volume": 6600,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "glicemia pós prandial",
+   "volume": 6600,
+   "cluster": "exames",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "fogacho",
+   "volume": 3600,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "dor muscular nas costas",
+   "volume": 4400,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "hiperpigmentação",
+   "volume": 5400,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "dor nas costas embaixo",
+   "volume": 5400,
+   "cluster": "coluna",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "deficiência de vitamina d",
+   "volume": 5400,
+   "cluster": "exames",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "esquecimentos",
+   "volume": 3600,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "nofap",
+   "volume": 4400,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "benefícios da hidroginástica",
+   "volume": 2900,
+   "cluster": "exercicio",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "cabelo ralo",
+   "volume": 4400,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "pontas duplas",
+   "volume": 4400,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "cabelo oleoso",
+   "volume": 4400,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "sons para dormir",
+   "volume": 4400,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "excesso de vitamina d",
+   "volume": 4400,
+   "cluster": "exames",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "relação albumina creatinina",
+   "volume": 4400,
+   "cluster": "exames",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "ejaculação retardada",
+   "volume": 1000,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "quedas idosos",
+   "volume": 1000,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "gravidez e insonia",
+   "volume": 1900,
+   "cluster": "sono",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "causas de queda de cabelo",
+   "volume": 3600,
+   "cluster": "pele-cabelo",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "como pegar sono rapido",
+   "volume": 1900,
+   "cluster": "sono",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "insonia e ansiedade",
+   "volume": 1300,
+   "cluster": "sono",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "açúcar no sangue",
+   "volume": 2900,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "insonia fatal",
+   "volume": 1900,
+   "cluster": "sono",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "coluna travada",
+   "volume": 3600,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "saúde do homem",
+   "volume": 3600,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "exame de glicemia",
+   "volume": 3600,
+   "cluster": "exames",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "insonia quais as causas",
+   "volume": 3600,
+   "cluster": "sono",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "sono profundo",
+   "volume": 2400,
+   "cluster": "sono",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "insonia que fazer",
+   "volume": 1900,
+   "cluster": "sono",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "ceramidas",
+   "volume": 2900,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "ferro baixo",
+   "volume": 2900,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "hidrolisado",
+   "volume": 2900,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "urinar muito",
+   "volume": 2900,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "alimentos ricos em vitaminas",
+   "volume": 2900,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "quantos fios de cabelo caem por dia",
+   "volume": 2900,
+   "cluster": "geral",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "alongamento em idosos",
+   "volume": 1000,
+   "cluster": "exercicio",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
+  },
+  {
+   "keyword": "musculação em idosos",
+   "volume": 1000,
+   "cluster": "exercicio",
+   "status": "sem-serp",
+   "origem": "ordem-de-validacao 2026-10-04"
   }
  ],
  "semDemanda": "Frases longas do kit com volume < 200/mês no Google BR (não viram artigo próprio; entram como H2 de artigo-mãe): como perder barriga depois dos 40 (110), musculação depois dos 40 (30), treino de força para iniciantes (20), hipertrofia depois dos 40 (10), alimentos para reduzir gordura visceral (10), efeito platô emagrecimento (210)",

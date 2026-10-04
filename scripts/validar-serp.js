@@ -10,6 +10,7 @@
 //   fontes  = >= 4 páginas de domínios diferentes, sem rede social, vídeo ou loja
 //   comercial = 4+ lojas/farmácias entre os 10 primeiros -> descarta
 import fs from 'fs';
+import { tratamento } from './filtros.js';
 
 const args = process.argv.slice(2);
 const opt = (n) => { const i = args.indexOf(n); return i >= 0 ? args[i + 1] : null; };
@@ -130,6 +131,8 @@ async function main() {
           absorve: res.absorve,
           serp: { facil: true, nivel: res.nivel, topoDoGoogle: res.topoDoGoogle, aiOverview: res.aiOverview },
           fontes: res.fontes, notas: NOTAS_PADRAO, revisar: true,
+          // tema sensível (remédio, urgência, sexualidade...) só publica depois de revisão humana (o robô pula sensivel+revisar)
+          ...(tratamento(c.keyword) === 'sensivel' ? { sensivel: true } : {}),
         });
         promovidas.push(c.keyword);
       }
