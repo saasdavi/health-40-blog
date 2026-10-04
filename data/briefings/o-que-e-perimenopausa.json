@@ -26,7 +26,13 @@
   "autoridadesTop5": [],
   "respostaDaIA": true
  },
- "metaEscrita": null,
+ "metaEscrita": {
+  "medianaPalavras": 921,
+  "medianaH2": 5,
+  "medianaImagens": 25,
+  "faqNoTopo": "0/2",
+  "secoesQueOTopoCobre": []
+ },
  "pontes": [
   {
    "para": "com quantos anos a mulher entra na menopausa",

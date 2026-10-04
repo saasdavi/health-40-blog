@@ -21,7 +21,16 @@
   "autoridadesTop5": [],
   "respostaDaIA": true
  },
- "metaEscrita": null,
+ "metaEscrita": {
+  "medianaPalavras": 1269,
+  "medianaH2": 9,
+  "medianaImagens": 3,
+  "faqNoTopo": "2/3",
+  "secoesQueOTopoCobre": [
+   "o que e resistencia a insulina (2/3)",
+   "conclusao (2/3)"
+  ]
+ },
  "pontes": [
   {
    "para": "resistência à insulina",

@@ -1,8 +1,8 @@
 {
  "resumo": {
   "publicados": 8,
-  "prontosParaUsar": 0,
-  "pautasValidadasSemTexto": 63,
+  "prontosParaUsar": 2,
+  "pautasValidadasSemTexto": 61,
   "planejadasAValidar": 886,
   "vagas": 146,
   "espacosDoPlano": 1095
@@ -157,6 +157,40 @@
    "publicadoEm": "2026-10-04T11:51:40.508Z",
    "escritoEm": "2026-10-04T11:51:37.331Z",
    "previstoPara": null,
+   "pontesSugeridas": []
+  },
+  {
+   "slug": "labirintite",
+   "titulo": "Labirintite: O Que É, Sintomas e Como Tratar",
+   "palavraChave": "labirintite",
+   "cluster": "ouvido-equilibrio",
+   "volume": 110000,
+   "status": "pronto",
+   "palavras": 1435,
+   "h2": 13,
+   "imagens": 3,
+   "fontes": 4,
+   "auditoria": 100,
+   "publicadoEm": null,
+   "escritoEm": "2026-10-04T16:35:56.582Z",
+   "previstoPara": "2026-10-05",
+   "pontesSugeridas": []
+  },
+  {
+   "slug": "gordura-no-figado",
+   "titulo": "Gordura no Fígado: Sintomas, Causas e Como Reverter",
+   "palavraChave": "gordura no fígado",
+   "cluster": "figado-metabolismo",
+   "volume": 90500,
+   "status": "pronto",
+   "palavras": 1614,
+   "h2": 13,
+   "imagens": 3,
+   "fontes": 6,
+   "auditoria": 88,
+   "publicadoEm": null,
+   "escritoEm": "2026-10-04T16:36:43.601Z",
+   "previstoPara": "2026-10-05",
    "pontesSugeridas": []
   }
  ]

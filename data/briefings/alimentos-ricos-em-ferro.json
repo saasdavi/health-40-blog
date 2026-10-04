@@ -28,7 +28,13 @@
   "autoridadesTop5": [],
   "respostaDaIA": true
  },
- "metaEscrita": null,
+ "metaEscrita": {
+  "medianaPalavras": 1090,
+  "medianaH2": 5,
+  "medianaImagens": 21,
+  "faqNoTopo": "0/3",
+  "secoesQueOTopoCobre": []
+ },
  "pontes": [
   {
    "para": "alimentos ricos em fibras",

@@ -22,7 +22,15 @@
   "autoridadesTop5": [],
   "respostaDaIA": true
  },
- "metaEscrita": null,
+ "metaEscrita": {
+  "medianaPalavras": 1786,
+  "medianaH2": 8,
+  "medianaImagens": 5,
+  "faqNoTopo": "0/3",
+  "secoesQueOTopoCobre": [
+   "sintomas de colesterol alto (2/3)"
+  ]
+ },
  "pontes": [
   {
    "para": "o que é colesterol",

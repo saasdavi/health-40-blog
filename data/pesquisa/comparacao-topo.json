@@ -1,0 +1,612 @@
+{
+ "gerado": "2026-10-04",
+ "avaliados": 10,
+ "resultado": [
+  {
+   "geradoEm": "2026-10-04T16:34:07.135Z",
+   "keyword": "alimentos ricos em ferro",
+   "volume": 40500,
+   "publicado": false,
+   "concorrentesLidos": 3,
+   "tentados": 6,
+   "medianaTopo": {
+    "palavras": 1090,
+    "h2": 5,
+    "imagens": 21,
+    "imagensComAlt": 12,
+    "tituloChars": 64,
+    "descricaoChars": 181,
+    "linksInternos": 1
+   },
+   "faqNoTopo": "0/3",
+   "secoesComuns": [],
+   "concorrentes": [
+    {
+     "host": "claudia.abril.com.br",
+     "palavras": 951,
+     "h2": 1,
+     "imagens": 47,
+     "data": "2016-01-21"
+    },
+    {
+     "host": "comida.umcomo.com.br",
+     "palavras": 1090,
+     "h2": 7,
+     "imagens": 21,
+     "data": "2015-09-30"
+    },
+    {
+     "host": "tuasaude.com",
+     "palavras": 1276,
+     "h2": 5,
+     "imagens": 1,
+     "data": "2023-05-25"
+    }
+   ],
+   "meta": "publicar com ≥ 1090 palavras, ≥ 5 H2, ≥ 21 imagens; cobrir: —",
+   "observacao": "3 página(s) do topo não acessíveis"
+  },
+  {
+   "geradoEm": "2026-10-04T16:33:44.935Z",
+   "keyword": "alimentos ricos em fibras",
+   "volume": 49500,
+   "publicado": false,
+   "concorrentesLidos": 6,
+   "tentados": 6,
+   "medianaTopo": {
+    "palavras": 959,
+    "h2": 5,
+    "imagens": 6,
+    "imagensComAlt": 3,
+    "tituloChars": 66,
+    "descricaoChars": 148,
+    "linksInternos": 1
+   },
+   "faqNoTopo": "1/6",
+   "secoesComuns": [],
+   "concorrentes": [
+    {
+     "host": "diabetes.org.br",
+     "palavras": 1471,
+     "h2": 1,
+     "imagens": 2,
+     "data": "2021-05-28"
+    },
+    {
+     "host": "panelinhafit.com.br",
+     "palavras": 908,
+     "h2": 3,
+     "imagens": 3,
+     "data": null
+    },
+    {
+     "host": "enterogermina.com",
+     "palavras": 2175,
+     "h2": 23,
+     "imagens": 187,
+     "data": null
+    },
+    {
+     "host": "tuasaude.com",
+     "palavras": 1010,
+     "h2": 4,
+     "imagens": 2,
+     "data": "2023-06-19"
+    },
+    {
+     "host": "mahta.bio",
+     "palavras": 663,
+     "h2": 5,
+     "imagens": 13,
+     "data": "2025-11-13"
+    },
+    {
+     "host": "prodietnutrition.com",
+     "palavras": 545,
+     "h2": 5,
+     "imagens": 8,
+     "data": "2021-09-07"
+    }
+   ],
+   "meta": "publicar com ≥ 959 palavras, ≥ 5 H2, ≥ 6 imagens; cobrir: —"
+  },
+  {
+   "geradoEm": "2026-10-04T16:33:22.998Z",
+   "keyword": "como baixar colesterol",
+   "volume": 14800,
+   "publicado": true,
+   "concorrentesLidos": 3,
+   "tentados": 5,
+   "medianaTopo": {
+    "palavras": 1786,
+    "h2": 8,
+    "imagens": 5,
+    "imagensComAlt": 2,
+    "tituloChars": 60,
+    "descricaoChars": 198,
+    "linksInternos": 10
+   },
+   "faqNoTopo": "0/3",
+   "secoesComuns": [
+    "sintomas de colesterol alto (2/3)"
+   ],
+   "concorrentes": [
+    {
+     "host": "rededorsaoluiz.com.br",
+     "palavras": 1786,
+     "h2": 6,
+     "imagens": 5,
+     "data": "2023-08-25"
+    },
+    {
+     "host": "tuasaude.com",
+     "palavras": 1407,
+     "h2": 9,
+     "imagens": 2,
+     "data": "2023-04-13"
+    },
+    {
+     "host": "nav.dasa.com.br",
+     "palavras": 1870,
+     "h2": 8,
+     "imagens": 36,
+     "data": null
+    }
+   ],
+   "nosso": {
+    "palavras": 1415,
+    "h2": 12,
+    "imagens": 3,
+    "imagensComAlt": 2,
+    "tituloChars": 40,
+    "descricaoChars": 126,
+    "linksInternos": 2,
+    "faq": true
+   },
+   "lacunas": [
+    "palavras: 1415 vs topo 1786 (faltam ~371)",
+    "imagens: 3 vs topo 5 (faltam ~2)"
+   ],
+   "vantagens": [
+    "subtítulos H2: 12 vs topo 8"
+   ],
+   "observacao": "2 página(s) do topo não acessíveis"
+  },
+  {
+   "geradoEm": "2026-10-04T16:33:27.996Z",
+   "keyword": "como meditar",
+   "volume": 4400,
+   "publicado": true,
+   "concorrentesLidos": 3,
+   "tentados": 4,
+   "medianaTopo": {
+    "palavras": 1440,
+    "h2": 4,
+    "imagens": 6,
+    "imagensComAlt": 6,
+    "tituloChars": 52,
+    "descricaoChars": 161,
+    "linksInternos": 0
+   },
+   "faqNoTopo": "1/3",
+   "secoesComuns": [],
+   "concorrentes": [
+    {
+     "host": "portal.pucrs.br",
+     "palavras": 1440,
+     "h2": 0,
+     "imagens": 6,
+     "data": "2024-09-12"
+    },
+    {
+     "host": "revistagalileu.globo.com",
+     "palavras": 1549,
+     "h2": 25,
+     "imagens": 11,
+     "data": null
+    },
+    {
+     "host": "tuasaude.com",
+     "palavras": 1335,
+     "h2": 4,
+     "imagens": 2,
+     "data": "2023-01-30"
+    }
+   ],
+   "nosso": {
+    "palavras": 1640,
+    "h2": 14,
+    "imagens": 3,
+    "imagensComAlt": 2,
+    "tituloChars": 44,
+    "descricaoChars": 132,
+    "linksInternos": 0,
+    "faq": true
+   },
+   "lacunas": [
+    "imagens: 3 vs topo 6 (faltam ~3)",
+    "imagens com alt: 2 vs topo 6 (faltam ~4)"
+   ],
+   "vantagens": [
+    "subtítulos H2: 14 vs topo 4"
+   ],
+   "observacao": "1 página(s) do topo não acessíveis"
+  },
+  {
+   "geradoEm": "2026-10-04T16:33:41.985Z",
+   "keyword": "hemoglobina glicada",
+   "volume": 135000,
+   "publicado": true,
+   "concorrentesLidos": 6,
+   "tentados": 6,
+   "medianaTopo": {
+    "palavras": 569,
+    "h2": 3,
+    "imagens": 3,
+    "imagensComAlt": 2,
+    "tituloChars": 56,
+    "descricaoChars": 138,
+    "linksInternos": 8
+   },
+   "faqNoTopo": "1/6",
+   "secoesComuns": [
+    "o que e hemoglobina glicada (2/6)"
+   ],
+   "concorrentes": [
+    {
+     "host": "biolabor.com.br",
+     "palavras": 329,
+     "h2": 1,
+     "imagens": 1,
+     "data": "2023-11-27"
+    },
+    {
+     "host": "laboratorioarycosta.com.br",
+     "palavras": 385,
+     "h2": 1,
+     "imagens": 2,
+     "data": null
+    },
+    {
+     "host": "lafelab.com.br",
+     "palavras": 481,
+     "h2": 1,
+     "imagens": 25,
+     "data": null
+    },
+    {
+     "host": "rededorsaoluiz.com.br",
+     "palavras": 656,
+     "h2": 12,
+     "imagens": 0,
+     "data": null
+    },
+    {
+     "host": "nav.dasa.com.br",
+     "palavras": 1599,
+     "h2": 7,
+     "imagens": 36,
+     "data": null
+    },
+    {
+     "host": "altadiagnosticos.com.br",
+     "palavras": 1062,
+     "h2": 5,
+     "imagens": 4,
+     "data": null
+    }
+   ],
+   "nosso": {
+    "palavras": 1303,
+    "h2": 13,
+    "imagens": 3,
+    "imagensComAlt": 2,
+    "tituloChars": 46,
+    "descricaoChars": 134,
+    "linksInternos": 2,
+    "faq": false
+   },
+   "lacunas": [],
+   "vantagens": [
+    "palavras: 1303 vs topo 569",
+    "subtítulos H2: 13 vs topo 3"
+   ]
+  },
+  {
+   "geradoEm": "2026-10-04T16:33:33.992Z",
+   "keyword": "o que é gordura visceral",
+   "volume": 8100,
+   "publicado": true,
+   "concorrentesLidos": 3,
+   "tentados": 4,
+   "medianaTopo": {
+    "palavras": 1037,
+    "h2": 7,
+    "imagens": 2,
+    "imagensComAlt": 2,
+    "tituloChars": 57,
+    "descricaoChars": 148,
+    "linksInternos": 14
+   },
+   "faqNoTopo": "1/3",
+   "secoesComuns": [],
+   "concorrentes": [
+    {
+     "host": "lusiadas.pt",
+     "palavras": 1037,
+     "h2": 10,
+     "imagens": 2,
+     "data": null
+    },
+    {
+     "host": "tuasaude.com",
+     "palavras": 2085,
+     "h2": 7,
+     "imagens": 1,
+     "data": "2022-12-20"
+    },
+    {
+     "host": "altadiagnosticos.com.br",
+     "palavras": 996,
+     "h2": 7,
+     "imagens": 4,
+     "data": null
+    }
+   ],
+   "nosso": {
+    "palavras": 1994,
+    "h2": 13,
+    "imagens": 3,
+    "imagensComAlt": 2,
+    "tituloChars": 47,
+    "descricaoChars": 139,
+    "linksInternos": 3,
+    "faq": true
+   },
+   "lacunas": [],
+   "vantagens": [
+    "palavras: 1994 vs topo 1037",
+    "subtítulos H2: 13 vs topo 7",
+    "imagens: 3 vs topo 2"
+   ],
+   "observacao": "1 página(s) do topo não acessíveis"
+  },
+  {
+   "geradoEm": "2026-10-04T16:33:38.057Z",
+   "keyword": "o que é perimenopausa",
+   "volume": 8100,
+   "publicado": true,
+   "concorrentesLidos": 2,
+   "tentados": 3,
+   "medianaTopo": {
+    "palavras": 921,
+    "h2": 5,
+    "imagens": 25,
+    "imagensComAlt": 22,
+    "tituloChars": 64,
+    "descricaoChars": 136,
+    "linksInternos": 8
+   },
+   "faqNoTopo": "0/2",
+   "secoesComuns": [],
+   "concorrentes": [
+    {
+     "host": "altadiagnosticos.com.br",
+     "palavras": 738,
+     "h2": 6,
+     "imagens": 4,
+     "data": null
+    },
+    {
+     "host": "saude.abril.com.br",
+     "palavras": 1103,
+     "h2": 3,
+     "imagens": 45,
+     "data": "2025-01-21"
+    }
+   ],
+   "nosso": {
+    "palavras": 1320,
+    "h2": 10,
+    "imagens": 3,
+    "imagensComAlt": 2,
+    "tituloChars": 48,
+    "descricaoChars": 128,
+    "linksInternos": 2,
+    "faq": false
+   },
+   "lacunas": [
+    "imagens: 3 vs topo 25 (faltam ~22)",
+    "imagens com alt: 2 vs topo 22 (faltam ~20)"
+   ],
+   "vantagens": [
+    "palavras: 1320 vs topo 921",
+    "subtítulos H2: 10 vs topo 5"
+   ],
+   "observacao": "1 página(s) do topo não acessíveis"
+  },
+  {
+   "geradoEm": "2026-10-04T16:33:37.465Z",
+   "keyword": "o que é resistência à insulina",
+   "volume": 6600,
+   "publicado": true,
+   "concorrentesLidos": 3,
+   "tentados": 3,
+   "medianaTopo": {
+    "palavras": 1269,
+    "h2": 9,
+    "imagens": 3,
+    "imagensComAlt": 1,
+    "tituloChars": 59,
+    "descricaoChars": 128,
+    "linksInternos": 2
+   },
+   "faqNoTopo": "2/3",
+   "secoesComuns": [
+    "o que e resistencia a insulina (2/3)",
+    "conclusao (2/3)"
+   ],
+   "concorrentes": [
+    {
+     "host": "labvital.com.br",
+     "palavras": 1269,
+     "h2": 11,
+     "imagens": 3,
+     "data": "2026-03-12"
+    },
+    {
+     "host": "continentalhospitals.com",
+     "palavras": 2317,
+     "h2": 7,
+     "imagens": 17,
+     "data": null
+    },
+    {
+     "host": "labsl.com.br",
+     "palavras": 783,
+     "h2": 9,
+     "imagens": 0,
+     "data": null
+    }
+   ],
+   "nosso": {
+    "palavras": 1183,
+    "h2": 10,
+    "imagens": 3,
+    "imagensComAlt": 2,
+    "tituloChars": 40,
+    "descricaoChars": 143,
+    "linksInternos": 2,
+    "faq": false
+   },
+   "lacunas": [
+    "sem FAQ (presente em 2/3 do topo)"
+   ],
+   "vantagens": [
+    "imagens com alt: 2 vs topo 1"
+   ]
+  },
+  {
+   "geradoEm": "2026-10-04T16:33:25.768Z",
+   "keyword": "quanto de proteína por dia",
+   "volume": 5400,
+   "publicado": true,
+   "concorrentesLidos": 2,
+   "tentados": 3,
+   "medianaTopo": {
+    "palavras": 1113,
+    "h2": 7,
+    "imagens": 11,
+    "imagensComAlt": 6,
+    "tituloChars": 56,
+    "descricaoChars": 137,
+    "linksInternos": 31
+   },
+   "faqNoTopo": "1/2",
+   "secoesComuns": [],
+   "concorrentes": [
+    {
+     "host": "drauziovarella.uol.com.br",
+     "palavras": 1139,
+     "h2": 3,
+     "imagens": 14,
+     "data": "2025-06-13"
+    },
+    {
+     "host": "piracanjubaproforce.com.br",
+     "palavras": 1087,
+     "h2": 10,
+     "imagens": 7,
+     "data": "2025-05-28"
+    }
+   ],
+   "nosso": {
+    "palavras": 1188,
+    "h2": 12,
+    "imagens": 3,
+    "imagensComAlt": 2,
+    "tituloChars": 50,
+    "descricaoChars": 145,
+    "linksInternos": 2,
+    "faq": false
+   },
+   "lacunas": [
+    "imagens: 3 vs topo 11 (faltam ~8)",
+    "imagens com alt: 2 vs topo 6 (faltam ~4)",
+    "sem FAQ (presente em 1/2 do topo)"
+   ],
+   "vantagens": [
+    "subtítulos H2: 12 vs topo 7"
+   ],
+   "observacao": "1 página(s) do topo não acessíveis"
+  },
+  {
+   "geradoEm": "2026-10-04T16:33:34.708Z",
+   "keyword": "triglicerídeos altos sintomas",
+   "volume": 14800,
+   "publicado": true,
+   "concorrentesLidos": 4,
+   "tentados": 4,
+   "medianaTopo": {
+    "palavras": 1041,
+    "h2": 5,
+    "imagens": 1,
+    "imagensComAlt": 1,
+    "tituloChars": 62,
+    "descricaoChars": 166,
+    "linksInternos": 3
+   },
+   "faqNoTopo": "2/4",
+   "secoesComuns": [
+    "o que sao triglicerideos (2/4)"
+   ],
+   "concorrentes": [
+    {
+     "host": "tuasaude.com",
+     "palavras": 907,
+     "h2": 4,
+     "imagens": 2,
+     "data": "2013-10-15"
+    },
+    {
+     "host": "rededorsaoluiz.com.br",
+     "palavras": 353,
+     "h2": 6,
+     "imagens": 0,
+     "data": "2026-03-31"
+    },
+    {
+     "host": "altadiagnosticos.com.br",
+     "palavras": 1175,
+     "h2": 10,
+     "imagens": 4,
+     "data": null
+    },
+    {
+     "host": "posenato.med.br",
+     "palavras": 2125,
+     "h2": 2,
+     "imagens": 0,
+     "data": "2025-11-08"
+    }
+   ],
+   "nosso": {
+    "palavras": 1602,
+    "h2": 14,
+    "imagens": 1,
+    "imagensComAlt": 0,
+    "tituloChars": 46,
+    "descricaoChars": 145,
+    "linksInternos": 2,
+    "faq": true
+   },
+   "lacunas": [
+    "imagens com alt: 0 vs topo 1 (faltam ~1)"
+   ],
+   "vantagens": [
+    "palavras: 1602 vs topo 1041",
+    "subtítulos H2: 14 vs topo 5"
+   ]
+  }
+ ]
+}

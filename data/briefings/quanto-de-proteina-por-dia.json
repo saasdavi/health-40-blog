@@ -22,7 +22,13 @@
   "autoridadesTop5": [],
   "respostaDaIA": true
  },
- "metaEscrita": null,
+ "metaEscrita": {
+  "medianaPalavras": 1113,
+  "medianaH2": 7,
+  "medianaImagens": 11,
+  "faqNoTopo": "1/2",
+  "secoesQueOTopoCobre": []
+ },
  "pontes": [],
  "fontes": [
   "https://drauziovarella.uol.com.br/alimentacao/qual-a-quantidade-ideal-de-proteinas-diarias/",

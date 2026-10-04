@@ -40,7 +40,13 @@
   ],
   "respostaDaIA": true
  },
- "metaEscrita": null,
+ "metaEscrita": {
+  "medianaPalavras": 959,
+  "medianaH2": 5,
+  "medianaImagens": 6,
+  "faqNoTopo": "1/6",
+  "secoesQueOTopoCobre": []
+ },
  "pontes": [
   {
    "para": "alimentos ricos em ferro",

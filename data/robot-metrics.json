@@ -33,5 +33,28 @@
     },
     "custoUSD": 0.0528,
     "custoPorPublicadoUSD": 0.0528
+  },
+  {
+    "data": "2026-10-04T16:36:43.603Z",
+    "modeloRedator": "claude-haiku-4-5-20251001",
+    "modeloValidador": "claude-haiku-4-5-20251001",
+    "tentativas": 4,
+    "aprovados": 2,
+    "publicados": 0,
+    "falhas": 0,
+    "uso": {
+      "redator:claude-haiku-4-5-20251001": {
+        "chamadas": 4,
+        "entrada": 56942,
+        "saida": 16110
+      },
+      "validador:claude-haiku-4-5-20251001": {
+        "chamadas": 2,
+        "entrada": 30003,
+        "saida": 58
+      }
+    },
+    "custoUSD": 0.1678,
+    "custoPorPublicadoUSD": 0.1678
   }
 ]

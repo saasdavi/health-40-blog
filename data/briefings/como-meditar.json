@@ -22,7 +22,13 @@
   "autoridadesTop5": [],
   "respostaDaIA": true
  },
- "metaEscrita": null,
+ "metaEscrita": {
+  "medianaPalavras": 1440,
+  "medianaH2": 4,
+  "medianaImagens": 6,
+  "faqNoTopo": "1/3",
+  "secoesQueOTopoCobre": []
+ },
  "pontes": [],
  "fontes": [
   "https://portal.pucrs.br/noticias/impacto-social/dicas-para-meditar/",

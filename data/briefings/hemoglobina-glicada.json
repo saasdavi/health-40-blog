@@ -35,7 +35,15 @@
   "autoridadesTop5": [],
   "respostaDaIA": true
  },
- "metaEscrita": null,
+ "metaEscrita": {
+  "medianaPalavras": 569,
+  "medianaH2": 3,
+  "medianaImagens": 3,
+  "faqNoTopo": "1/6",
+  "secoesQueOTopoCobre": [
+   "o que e hemoglobina glicada (2/6)"
+  ]
+ },
  "pontes": [],
  "fontes": [
   "https://altadiagnosticos.com.br/saude/hemoglobina-glicada/",

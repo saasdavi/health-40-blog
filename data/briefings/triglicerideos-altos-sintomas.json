@@ -22,7 +22,15 @@
   "autoridadesTop5": [],
   "respostaDaIA": true
  },
- "metaEscrita": null,
+ "metaEscrita": {
+  "medianaPalavras": 1041,
+  "medianaH2": 5,
+  "medianaImagens": 1,
+  "faqNoTopo": "2/4",
+  "secoesQueOTopoCobre": [
+   "o que sao triglicerideos (2/4)"
+  ]
+ },
  "pontes": [
   {
    "para": "triglicerídeos altos",
