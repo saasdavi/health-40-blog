@@ -1,0 +1,47 @@
+{
+ "keyword": "alimentos ricos em ferro",
+ "slug": "alimentos-ricos-em-ferro",
+ "volume": 40500,
+ "cluster": "alimentacao",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Informativo. NÃO indicar suplemento de ferro nem dose: ferro em excesso faz mal. Fraqueza, cansaço persistente ou suspeita de anemia pedem exame (hemograma/ferritina) e consulta; não diagnosticar. Mencionar a absorção (vitamina C, café e cálcio junto das refeições). REVISAR antes de publicar.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "Como subir ferro rápido?",
+  "Qual é a fruta que tem bastante ferro?",
+  "Qual suco é rico em ferro?",
+  "Qual é o legume com mais ferro?",
+  "Ferro heme e não heme",
+  "Como aumentar a absorção do ferro"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": "2026-10-04",
+  "top3Organicos": [
+   "https://menshealth.pt/5810816185/7-alimentos-ricos-em-ferro/",
+   "https://claudia.abril.com.br/saude/10-alimentos-ricos-em-ferro-para-turbinar-seu-cardapio/",
+   "https://oantagonista.com.br/ladooa/variedades/11-alimentos-ricos-em-ferro-para-aumentar-a-imunidade-e-a-disposicao/"
+  ],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "alimentos ricos em fibras",
+   "ancoras": [
+    "alimentos ricos em fibras"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://www.tuasaude.com/alimentos-ricos-em-ferro/",
+  "https://www.h9j.com.br/blog/Alimentos-ricos-ferro/",
+  "https://solimlab.com.br/alimentos-ricos-em-ferro/",
+  "https://www.saboresajinomoto.com.br/blog/alimentos-ricos-em-ferro",
+  "https://www.spatzmedical.com/br/blog/7-alimentos-ricos-em-ferro/"
+ ]
+}

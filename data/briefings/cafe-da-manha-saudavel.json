@@ -1,0 +1,50 @@
+{
+ "keyword": "café da manhã saudável",
+ "slug": "cafe-da-manha-saudavel",
+ "volume": 22200,
+ "cluster": "nutricao",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Alimentação geral, sem dieta nem promessa de emagrecimento. Quem tem diabetes, intolerância ou outra condição deve ajustar com nutricionista. Sem marcas nem suplementos.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "O que devo comer no café da manhã saudável?",
+  "Quais são 7 opções saudáveis para café da manhã?",
+  "O que pode substituir o pão no café da manhã?",
+  "O que comer no café da manhã para perder barriga?"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "lanche saudável",
+   "ancoras": [
+    "lanche saudável"
+   ]
+  },
+  {
+   "para": "jantar saudável",
+   "ancoras": [
+    "jantar saudável"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://www.seara.com.br/materia/cafe-da-manha-saudavel/",
+  "https://araujo.com.br/blog/cafe-da-manha-saudavel/",
+  "https://www.tiasonia.com.br/posts/cafe-da-manha-saudavel-7-opcoes-saudaveis-e-gostosas",
+  "https://www.colgate.com.br/oral-health/nutrition-and-oral-health/healthy-breakfast",
+  "https://www.tuasaude.com/o-que-comer-no-cafe-da-manha-para-emagrecer/",
+  "https://blog.ciaathletica.com.br/alimentacao-saudavel/cafe-da-manha-saudavel-e-simples/",
+  "https://blog.havan.com.br/cafe-da-manha-saudavel/",
+  "https://boaforma.abril.com.br/dieta/3-estrategias-simples-para-deixar-o-seu-cafe-da-manha-ainda-mais-saudavel/"
+ ]
+}

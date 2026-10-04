@@ -1,0 +1,45 @@
+{
+ "keyword": "dores lombares",
+ "slug": "dores-lombares",
+ "volume": 74000,
+ "cluster": "coluna",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Destacar sinais de alerta (perda de controle de urina/fezes, fraqueza nas pernas, febre, trauma); sem prometer cura por exercício ou aparelho.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "como saber se a lombar está inflamada",
+  "quando uma dor lombar é preocupante",
+  "o que fazer para aliviar a dor na região lombar",
+  "o que pode provocar dores lombares"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "dor nas costas",
+   "ancoras": [
+    "dor nas costas",
+    "o que é dor nas costas",
+    "dores nas costas em baixo",
+    "dor nas costas alongamento",
+    "dor nas costas exercícios"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://bvsms.saude.gov.br/lombalgia-dor-nas-costas/",
+  "https://www.einstein.br/n/vida-saudavel/dor-na-lombar-conheca-os-diferentes-tipos-e-quando-se-preocupar",
+  "https://www.santapaula.com.br/blog/dor-lombar/",
+  "https://www.maededeus.com.br/blog/artigo/dor-na-lombar-principais-causas-sinais-de-alerta-quando-procurar-avaliacao",
+  "https://www.drricardokirihara.com.br/como-aliviar-dor-na-lombar-saiba-mais"
+ ]
+}

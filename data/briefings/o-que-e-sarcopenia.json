@@ -1,0 +1,45 @@
+{
+ "keyword": "o que é sarcopenia",
+ "slug": "o-que-e-sarcopenia",
+ "volume": 27100,
+ "cluster": "musculo-e-forca",
+ "papel": "satelite",
+ "pilar": "sarcopenia",
+ "sensivel": false,
+ "notas": "",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "Quais são os sintomas da sarcopenia?",
+  "Qual a melhor vitamina para sarcopenia?",
+  "Quem tem sarcopenia sente dor?",
+  "O que leva a pessoa a ter sarcopenia?",
+  "perda de massa muscular",
+  "O que fazer para recuperar a perda de massa muscular?"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "sarcopenia",
+   "ancoras": [
+    "sarcopenia",
+    "sarcopenia causas",
+    "sarcopenia exercícios"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://www.icc.ufscar.br/pt-br/projetos/parcerias/coluna-envelheciencia/o-que-e-sarcopenia-o-que-eu-preciso-saber-para-preveni-la-e-trata-la",
+  "https://hospitalsiriolibanes.org.br/blog/geriatra/nutricao-sarcopenia-como-evitar-perda-massa-muscular",
+  "https://nav.dasa.com.br/blog/sarcopenia",
+  "https://felipebozigeriatria.com.br/sarcopenia-prevencao/",
+  "https://www.einstein.br/n/vida-saudavel/o-que-provoca-a-sarcopenia-entenda-a-condicao-que-afeta-a-forca-muscular"
+ ]
+}

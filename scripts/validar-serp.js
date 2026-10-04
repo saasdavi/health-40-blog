@@ -6,7 +6,7 @@
 // Para cada candidata com volume: busca o Google Brasil, mede quão difícil é o topo,
 // extrai fontes legíveis, perguntas relacionadas (viram H2) e grava o veredito.
 // Regras (as mesmas decididas à mão até aqui):
-//   fácil   = no máximo 2 autoridades entre os 5 primeiros resultados
+//   fácil   = no máximo 1 autoridade entre os 3 primeiros ORGÂNICOS (anúncio não conta) e no máximo 2 entre os 5 primeiros
 //   fontes  = >= 4 páginas de domínios diferentes, sem rede social, vídeo ou loja
 //   comercial = 4+ lojas/farmácias entre os 10 primeiros -> descarta
 import fs from 'fs';
@@ -63,6 +63,9 @@ function avaliar(cand, serp) {
   const organico = (serp.organic || []).slice(0, 10);
   const top5 = organico.slice(0, 5);
   const ano = new Date().getFullYear();
+  // Só resultados ORGÂNICOS (o campo `organic` do Serper não traz anúncio patrocinado, resposta de IA, vídeo nem 'as pessoas também perguntam').
+  const top3 = organico.slice(0, 3);
+  const autoridades3 = top3.filter((o) => AUTORIDADES.test(dominio(o.link)));
   const autoridades = top5.filter((o) => AUTORIDADES.test(dominio(o.link)));
   const fracos = organico.filter((o) => FRACAS.test(dominio(o.link)) || (anoDe(o.date) && anoDe(o.date) <= ano - 3));
   const lojas = organico.filter((o) => LOJAS.test(dominio(o.link)));
@@ -84,6 +87,7 @@ function avaliar(cand, serp) {
   if (COMERCIAL.test(semAcento(cand.keyword))) { veredito = 'fora'; motivos.push('termo comercial'); }
   if (URGENCIA.test(semAcento(cand.keyword))) { veredito = 'fora'; motivos.push('tema de urgência'); }
   if (lojas.length >= 4) { veredito = 'fora'; motivos.push(`${lojas.length} lojas no topo (intenção de compra)`); }
+  if (veredito === 'facil' && autoridades3.length >= 2) { veredito = 'dificil'; motivos.push(`${autoridades3.length} autoridades nos 3 primeiros orgânicos`); }
   if (veredito === 'facil' && autoridades.length >= 3) { veredito = 'dificil'; motivos.push(`${autoridades.length} autoridades no top 5`); }
   if (veredito === 'facil' && fontes.length < MIN_FONTES) { veredito = 'sem-fontes'; motivos.push(`só ${fontes.length} fontes utilizáveis`); }
   const nivel = veredito !== 'facil' ? null : autoridades.length === 0 && fracos.length >= 3 ? 'FÁCIL' : 'MÉDIA-FÁCIL';
@@ -93,7 +97,10 @@ function avaliar(cand, serp) {
     veredito,
     nivel,
     motivos,
+    autoridadesTop3: autoridades3.map((o) => dominio(o.link)),
     autoridadesTop5: autoridades.map((o) => dominio(o.link)),
+    topoUrls: organico.slice(0, 5).map((o) => o.link),
+    top3Urls: top3.map((o) => o.link),
     fracosTop10: fracos.length,
     topoDoGoogle: top5.map((o) => dominio(o.link)).join(', '),
     aiOverview: Boolean(serp.answerBox || serp.knowledgeGraph),
@@ -130,7 +137,7 @@ async function main() {
           keyword: c.keyword, volume: c.volume, competition: 'LOW', cluster: c.cluster || 'geral',
           absorve: res.absorve,
           serp: { facil: true, nivel: res.nivel, topoDoGoogle: res.topoDoGoogle, aiOverview: res.aiOverview },
-          fontes: res.fontes, notas: NOTAS_PADRAO, revisar: true,
+          fontes: res.fontes, notas: NOTAS_PADRAO, revisar: true, topoUrls: res.topoUrls,
           // tema sensível (remédio, urgência, sexualidade...) só publica depois de revisão humana (o robô pula sensivel+revisar)
           ...(tratamento(c.keyword) === 'sensivel' ? { sensivel: true } : {}),
         });

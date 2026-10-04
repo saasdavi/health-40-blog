@@ -1,0 +1,41 @@
+{
+ "keyword": "sarcopenia",
+ "slug": "sarcopenia",
+ "volume": 135000,
+ "cluster": "musculo-e-forca",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "",
+ "apoio": [
+  {
+   "palavra": "sarcopenia causas",
+   "volume": 90
+  },
+  {
+   "palavra": "sarcopenia exercícios",
+   "volume": 40
+  }
+ ],
+ "perguntasDoGoogle": [
+  "perda de massa muscular depois dos 40"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": false
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "o que é sarcopenia",
+   "ancoras": [
+    "o que é sarcopenia"
+   ]
+  }
+ ],
+ "fontes": []
+}

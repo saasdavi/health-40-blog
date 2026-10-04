@@ -1,0 +1,41 @@
+{
+ "keyword": "próstata aumentada",
+ "slug": "prostata-aumentada",
+ "volume": 18100,
+ "cluster": "prostata",
+ "papel": "satelite",
+ "pilar": "próstata",
+ "sensivel": false,
+ "notas": "Não prometer cura nem indicar remédio ou suplemento; deixar claro que aumento benigno não é câncer, mas que PSA e exame são com urologista.",
+ "apoio": [
+  {
+   "palavra": "próstata aumentada e grave",
+   "volume": 260
+  }
+ ],
+ "perguntasDoGoogle": [
+  "é perigoso ter próstata aumentada",
+  "o que é bom para diminuir a próstata crescida",
+  "qual o melhor remédio para próstata aumentada",
+  "quais os sintomas de uma próstata crescida",
+  "próstata aumentada é câncer"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://www.institutodaprostata.com/pt/blog/prostata-aumentada-como-quando-e-porque-se-deve-preocupar",
+  "https://www.takanourologia.com.br/blog/prostata-aumentada-hpb/",
+  "https://drpaulomaron.com.br/prostata-aumentada/",
+  "https://www.hospitalaguasclaras.com.br/blog/prostata-aumentada/",
+  "https://thiagohota.com.br/sintomas-da-prostata-aumentada-7-sinais-de-alerta/",
+  "https://drtiagoguirro.com.br/hpb-tratamento-prostata-inchada/"
+ ]
+}

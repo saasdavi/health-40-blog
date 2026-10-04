@@ -1,0 +1,51 @@
+{
+ "keyword": "hemoglobina glicada",
+ "slug": "hemoglobina-glicada",
+ "volume": 135000,
+ "cluster": "exames",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Não diagnosticar diabetes; valores de referência só como informados nas fontes; orientar a levar o resultado ao médico.",
+ "apoio": [
+  {
+   "palavra": "como interpretar hemoglobina glicada",
+   "volume": 20
+  }
+ ],
+ "perguntasDoGoogle": [
+  "Qual o valor normal da hemoglobina glicosilada?",
+  "Quando a hemoglobina glicada é perigosa?",
+  "O que significa hemoglobina glicosilada alta?",
+  "Qual a diferença entre hemoglobina glicada e glicose?",
+  "qual nível de hemoglobina glicada é preocupante",
+  "sintomas quando a hemoglobina glicada está alta",
+  "o que faz subir a hemoglobina glicada",
+  "diferença entre hemoglobina glicada e diabetes"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": "2026-10-04",
+  "top3Organicos": [
+   "https://www.biolabor.com.br/exame/hemoglobina-glicada-hba1c/",
+   "https://www.ident.com.br/ia/pergunta/226596-a-hemoglobina-glicosilada-a1c-hba1c-e-uma-ferramenta",
+   "https://www.doctoralia.com.br/perguntas-respostas/qual-o-valor-maximo-encontrado-no-teste-de-hemoglobina-glicosilada-em-um-diabetico"
+  ],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://altadiagnosticos.com.br/saude/hemoglobina-glicada/",
+  "https://laboratoriosaogeronimo.com.br/post/exame-de-hemoglobina-glicada-valores-preparo-e-diagnostico/315",
+  "https://www.rededorsaoluiz.com.br/exames-e-procedimentos/analises-clinicas/hemoglobina-glicada",
+  "https://laboratoriocella.com.br/glicemia-e-hemoglobina-glicada-quando-pedir-e-como-entender-seus-resultados/",
+  "https://hilab.com.br/blog/hemoglobina-glicada-o-que-e-e-para-que-serve-o-exame/",
+  "https://www.rededorsaoluiz.com.br/exames-e-procedimentos/analises-clinicas/hemoglobina-glicosilada",
+  "https://nav.dasa.com.br/blog/hemoglobina-glicada",
+  "https://salomaozoppi.com.br/saude/hemoglobina-glicada",
+  "https://www.anad.org.br/hemoglobina-glicosilada-voce-sabia-que-este-exame-pode-mostrar-o-comportamento-da-glicose-no-seu-organismo/"
+ ]
+}

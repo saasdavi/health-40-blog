@@ -1,0 +1,35 @@
+{
+ "keyword": "azia",
+ "slug": "azia",
+ "volume": 49500,
+ "cluster": "digestivo",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Incluir sinais de alerta (dor no peito pode ser infarto) em 'Quando procurar um médico'; sem indicar antiácido/remédio.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "Qual o motivo de ter azia?",
+  "O que é bom para aliviar azia?",
+  "Como saber se estou com azia ou refluxo?",
+  "O que comer quando estiver com azia?"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://www.unimedriopreto.com.br/blog/o-que-e-a-azia/",
+  "https://nav.dasa.com.br/blog/azia",
+  "https://altadiagnosticos.com.br/saude/azia/",
+  "https://www.einstein.br/n/vida-saudavel/azia-e-um-problema-de-saude-comum-que-melhora-com-mudanca-de-habitos",
+  "https://www.tuasaude.com/azia/",
+  "https://araujo.com.br/blog/azia-e-ma-digestao/"
+ ]
+}

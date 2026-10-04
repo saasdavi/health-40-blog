@@ -1,0 +1,42 @@
+{
+ "keyword": "ferro baixo sintomas",
+ "slug": "ferro-baixo-sintomas",
+ "volume": 3600,
+ "cluster": "nutricao",
+ "papel": null,
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Não indicar suplemento de ferro nem dose (risco de excesso); investigar causa (perda menstrual, absorção) com médico. Exame: ferritina/hemograma.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "O que acontece quando o ferro está muito baixo?",
+  "Como repor o ferro rapidamente?",
+  "O que rouba o ferro do organismo?",
+  "Qual nível de ferro é preocupante?",
+  "ferritina baixa"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "vitamina d baixa sintomas",
+   "ancoras": [
+    "vitamina d baixa sintomas"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://www.tuasaude.com/sintomas-de-falta-de-ferro/",
+  "https://drauziovarella.uol.com.br/coluna-da-mariana-varella/6-sinais-de-deficiencia-de-ferro/",
+  "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-nutricionais/minerais/defici%C3%AAncia-de-ferro",
+  "https://www.megaimagem.com.br/blog/falta-de-ferro-conheca-os-impactos-na-saude-ao-longo-do-tempo/",
+  "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/nayana-siebra/especialista-lista-8-sintomas-que-indicam-anemia-ferropriva-confira-1.3335992"
+ ]
+}

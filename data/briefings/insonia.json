@@ -1,0 +1,117 @@
+{
+ "keyword": "insônia",
+ "slug": "insonia",
+ "volume": 40500,
+ "cluster": "sono",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Sem indicar remédio para dormir nem melatonina; falar de higiene do sono e TCC-I só como as fontes informam; orientar procurar médico se persistir.",
+ "apoio": [
+  {
+   "palavra": "cid10 insonia",
+   "volume": 880
+  },
+  {
+   "palavra": "insonia como resolver",
+   "volume": 590
+  },
+  {
+   "palavra": "insonia de manutencao",
+   "volume": 480
+  },
+  {
+   "palavra": "insonia tem cura",
+   "volume": 480
+  },
+  {
+   "palavra": "insonia terminal",
+   "volume": 480
+  },
+  {
+   "palavra": "causa de insonia",
+   "volume": 390
+  },
+  {
+   "palavra": "causadores de insonia",
+   "volume": 390
+  },
+  {
+   "palavra": "insonia cid10",
+   "volume": 390
+  },
+  {
+   "palavra": "insonia como curar",
+   "volume": 320
+  },
+  {
+   "palavra": "gravidez da insonia",
+   "volume": 260
+  },
+  {
+   "palavra": "insonia nao organica",
+   "volume": 210
+  },
+  {
+   "palavra": "insonia inicial",
+   "volume": 170
+  },
+  {
+   "palavra": "insonia severa",
+   "volume": 170
+  },
+  {
+   "palavra": "medicos para insonia",
+   "volume": 170
+  },
+  {
+   "palavra": "a insonia",
+   "volume": 140
+  }
+ ],
+ "perguntasDoGoogle": [
+  "o que leva uma pessoa a ter insônia",
+  "quais são os 3 tipos de insônia",
+  "o que fazer para tirar a insônia",
+  "como é a insônia da ansiedade"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "insônia causas",
+   "ancoras": [
+    "insônia causas",
+    "causas da insonia repentina",
+    "insônia causas hormonais",
+    "insônia terminal causas",
+    "causas de insonia e tratamento"
+   ]
+  },
+  {
+   "para": "insônia o que fazer",
+   "ancoras": [
+    "insônia o que fazer",
+    "ansiedade insonia o que fazer",
+    "insonia oq fazer",
+    "ansiedade e insonia o que fazer",
+    "insonia e ansiedade o que fazer"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://nav.dasa.com.br/blog/insonia",
+  "https://araujo.com.br/blog/insonia/",
+  "https://hospitalsiriolibanes.org.br/blog/alimentacaoebemestar/insonia-10-dicas-para-dormir-melhor",
+  "https://www.gndi.com.br/blog-da-saude/conheca-as-causas-e-tratamentos-para-insonia",
+  "https://cuidadospelavida.com.br/blog/sintomas/insonia",
+  "https://arclinica.com.br/insonia/"
+ ]
+}

@@ -2,6 +2,7 @@
 //   node scripts/promover-pauta.js arquivo.json     (ou JSON pelo stdin: echo '{...}' | node scripts/promover-pauta.js -)
 // Campos: topoUrls[] (URLs do top 5, para scripts/comparar-topo.js), keyword, volume, cluster, topoDoGoogle, autoridades[], fracos, nivel, fontes[], absorve[], perguntas[], relacionadas[],
 //         notas, sensivel (bool), aiOverview (bool), competition, secundarias[{palavra,volume}], papel, veredito ('facil'|'dificil'|'fora'|'canibaliza'|'sem-fontes'), motivos[]
+// Regra do top 3 orgânico (anúncio não conta): no máximo 1 autoridade nos 3 primeiros orgânicos e 2 nos 5 primeiros; use autoridadesTop3[] e autoridades[].
 // Só promove se veredito = 'facil', >= 4 fontes, notas escritas e sem canibalização (>= 75% de termos iguais a uma pauta da fila).
 // Sempre grava a checagem em data/pesquisa/serp-resultados.json e as perguntas/relacionadas em data/pesquisa/ideias-do-google.json.
 import fs from 'fs';
@@ -21,12 +22,14 @@ const motivos = [...(dado.motivos || [])];
 const canib = fila.keywords.find((k) => norm(k.keyword) !== norm(dado.keyword) && jaccard(dado.keyword, k.keyword) >= 0.75);
 if (fila.keywords.some((k) => norm(k.keyword) === norm(dado.keyword))) { veredito = 'ja-na-fila'; motivos.push('já está na fila'); }
 else if (canib) { veredito = 'canibaliza'; motivos.push(`parecida com "${canib.keyword}"`); }
+if (veredito === 'facil' && (dado.autoridadesTop3 || []).length >= 2) { veredito = 'dificil'; motivos.push(`${dado.autoridadesTop3.length} autoridades nos 3 primeiros orgânicos`); }
+if (veredito === 'facil' && (dado.autoridades || []).length >= 3) { veredito = 'dificil'; motivos.push(`${dado.autoridades.length} autoridades no top 5`); }
 if (veredito === 'facil' && (dado.fontes || []).length < 4) { veredito = 'sem-fontes'; motivos.push(`só ${(dado.fontes || []).length} fontes`); }
 if (veredito === 'facil' && !(dado.notas || '').trim()) { veredito = 'sem-notas'; motivos.push('faltam notas de segurança'); }
 
 // registro da checagem (sempre)
 const serp = fs.existsSync(SERP) ? JSON.parse(fs.readFileSync(SERP, 'utf8')) : {};
-serp[dado.keyword] = { data: hoje, fonte: dado.fonteDados || 'HYPD serp_results', veredito, nivel: dado.nivel || null, motivos, autoridadesTop5: dado.autoridades || [], fracosTop10: dado.fracos ?? null, topoDoGoogle: dado.topoDoGoogle || '', aiOverview: !!dado.aiOverview, perguntas: dado.perguntas || [], relacionadas: dado.relacionadas || [], fontes: dado.fontes || [], topoUrls: dado.topoUrls || [] };
+serp[dado.keyword] = { data: hoje, fonte: dado.fonteDados || 'HYPD serp_results', veredito, nivel: dado.nivel || null, motivos, autoridadesTop3: dado.autoridadesTop3 || [], autoridadesTop5: dado.autoridades || [], fracosTop10: dado.fracos ?? null, topoDoGoogle: dado.topoDoGoogle || '', aiOverview: !!dado.aiOverview, perguntas: dado.perguntas || [], relacionadas: dado.relacionadas || [], fontes: dado.fontes || [], topoUrls: dado.topoUrls || [] };
 fs.writeFileSync(SERP, JSON.stringify(serp, null, 1));
 const ideias = JSON.parse(fs.readFileSync(IDEIAS, 'utf8'));
 const tem = new Set(ideias.ideias.map((i) => norm(i.ideia)));

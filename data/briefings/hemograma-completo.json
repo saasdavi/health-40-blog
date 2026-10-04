@@ -1,0 +1,35 @@
+{
+ "keyword": "hemograma completo",
+ "slug": "hemograma-completo",
+ "volume": 60500,
+ "cluster": "exames",
+ "papel": null,
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Valores de referência variam por laboratório; não interpretar resultado individual; sem preço.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "quais doenças o hemograma detecta",
+  "qual é o valor normal do hemograma completo",
+  "quando o resultado do hemograma é preocupante",
+  "passo a passo para interpretar um hemograma"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://nav.dasa.com.br/blog/hemograma-completo",
+  "https://altadiagnosticos.com.br/saude/hemograma-completo/",
+  "https://www.amaissaude.com.br/sp/noticias/hemograma-completo",
+  "https://drconsulta.com/conteudo/exame-hemograma-completo/",
+  "https://sanarmed.com/exames/hemograma/",
+  "https://fleminglaboratorio.com/glossario/passo-a-passo-interpretar-hemograma-completo/"
+ ]
+}

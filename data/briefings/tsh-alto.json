@@ -1,0 +1,36 @@
+{
+ "keyword": "tsh alto",
+ "slug": "tsh-alto",
+ "volume": 12100,
+ "cluster": "exames",
+ "papel": null,
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Faixas de referência divergem entre fontes: citar como 'cada laboratório define'; sem sugerir levotiroxina por conta própria.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "qual valor de TSH é preocupante",
+  "tsh alto e t4 normal",
+  "tsh alto sintomas",
+  "tsh alto engorda",
+  "quando o tsh é considerado alto"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://altadiagnosticos.com.br/saude/tsh-alto/",
+  "https://www.rededorsaoluiz.com.br/noticias/artigo/tsh-alto-sintomas-causas-e-tratamento",
+  "https://hilab.com.br/blog/o-que-significa-um-tsh-alto/",
+  "https://telemedicinamorsch.com.br/blog/tsh-alto",
+  "https://www.tuasaude.com/tsh-alto/",
+  "https://imagdiagnostico.com.br/saude/tsh-alto"
+ ]
+}

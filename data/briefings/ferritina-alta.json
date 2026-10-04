@@ -1,0 +1,50 @@
+{
+ "keyword": "ferritina alta",
+ "slug": "ferritina-alta",
+ "volume": 60500,
+ "cluster": "exames",
+ "papel": "satelite",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Não afirmar câncer; explicar que muitas vezes é inflamação; sem dieta restritiva nem suplemento de ferro.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "qual o motivo da ferritina estar muito alta",
+  "tabela de ferritina por idade",
+  "hemocromatose tem cura",
+  "ferritina alta valores",
+  "ferritina alta é perigoso",
+  "ferritina alta e câncer"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "creatinina alta",
+   "ancoras": [
+    "creatinina alta"
+   ]
+  },
+  {
+   "para": "ureia alta",
+   "ancoras": [
+    "ureia alta"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://www.rededorsaoluiz.com.br/noticias/artigo/ferritina-alta-o-que-significa-e-por-que-merece-atencao",
+  "https://www.drogaraia.com.br/blog/saude/vacinacao-exames-e-testes/ferritina-alta",
+  "https://www.clinicasim.com/blog/clinica-geral/ferritina-alta-causas-e-tratamento/",
+  "https://nutritotal.com.br/pro/ferritina-alta/",
+  "https://posenato.med.br/blog/exames/ferritina/",
+  "https://drmarcelbrunetto.com.br/excesso-de-ferro-no-organismo/"
+ ]
+}

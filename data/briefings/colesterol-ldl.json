@@ -1,0 +1,66 @@
+{
+ "keyword": "colesterol ldl",
+ "slug": "colesterol-ldl",
+ "volume": 74000,
+ "cluster": "colesterol",
+ "papel": "satelite",
+ "pilar": "o que é colesterol",
+ "sensivel": false,
+ "notas": "Metas de LDL dependem do risco de cada pessoa: dizer que o médico define; sem indicar estatina ou dose; sem dieta milagrosa.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "Quando o LDL é preocupante?",
+  "Qual é o valor ideal do colesterol LDL?",
+  "O que fazer quando o colesterol LDL está alto?",
+  "O que causa o colesterol LDL ficar alto?",
+  "colesterol ldl o que é",
+  "ldl alto"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "o que é colesterol",
+   "ancoras": [
+    "o que é colesterol",
+    "colesterol alto valores",
+    "colesterol alto o que não comer",
+    "alimentos que aumenta o colesterol",
+    "alimentos que aumentam o colesterol ruim"
+   ]
+  },
+  {
+   "para": "colesterol hdl",
+   "ancoras": [
+    "colesterol hdl"
+   ]
+  },
+  {
+   "para": "colesterol alterado",
+   "ancoras": [
+    "colesterol alterado"
+   ]
+  },
+  {
+   "para": "colesterol alto sintomas",
+   "ancoras": [
+    "colesterol alto sintomas"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://www.tuasaude.com/colesterol-ldl/",
+  "https://www.einstein.br/n/vida-saudavel/quando-colesterol-considerado-alto-saiba-o-que-influencua",
+  "https://www.clinicasim.com/blog/exames-laboratoriais/colesterol-e-fracoes-o-que-significam-ldl-hdl-e-vldl-no-exame-de-sangue/",
+  "https://www.unimed.coop.br/site/web/cascavel/-/hdl-x-ldl-o-que-saber-sobre-colesterol-para-manter-sua-sa%C3%BAde-card%C3%ADaca",
+  "https://labvital.com.br/glossario/o-que-e-colesterol-ldl/",
+  "https://labsl.com.br/blog/colesterol-ldl/"
+ ]
+}

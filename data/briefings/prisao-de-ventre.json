@@ -1,0 +1,35 @@
+{
+ "keyword": "prisão de ventre",
+ "slug": "prisao-de-ventre",
+ "volume": 33100,
+ "cluster": "digestao",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Sinais de alerta: sangue nas fezes, dor forte, perda de peso; sem laxante nem 'limpeza' de intestino.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "o que fazer para tirar prisão de ventre",
+  "qual é o sintoma da prisão de ventre",
+  "quanto tempo é normal ter prisão de ventre",
+  "como limpar o intestino de fezes acumuladas rápido"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://drauziovarella.uol.com.br/doencas-e-sintomas/prisao-de-ventre-constipacao-intestinal/",
+  "https://www.rededorsaoluiz.com.br/doencas/prisao-de-ventre",
+  "https://nav.dasa.com.br/blog/prisao-de-ventre",
+  "https://nav.dasa.com.br/blog/constipacao",
+  "https://gastroen.com.br/prisao-de-ventre-causas-sintomas-e-solucoes/",
+  "https://hepatogastro.com.br/nao-sabe-como-evitar-a-prisao-de-ventre-confira-5-dicas/"
+ ]
+}

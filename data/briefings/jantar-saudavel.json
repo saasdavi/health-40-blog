@@ -1,0 +1,50 @@
+{
+ "keyword": "jantar saudável",
+ "slug": "jantar-saudavel",
+ "volume": 5400,
+ "cluster": "nutricao",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Sem dieta nem promessa de emagrecer. Em jantar para diabéticos, não indicar quantidades nem substituir orientação de médico/nutricionista. Sem marcas.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "O que é uma janta saudável?",
+  "Jantar saudável para diabéticos",
+  "Jantar saudável para emagrecer",
+  "Jantar leve (light)",
+  "Cardápio semanal para jantar saudável",
+  "Opções para substituir o jantar"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "café da manhã saudável",
+   "ancoras": [
+    "café da manhã saudável"
+   ]
+  },
+  {
+   "para": "lanche saudável",
+   "ancoras": [
+    "lanche saudável"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://www.gazetadopovo.com.br/conteudo-publicitario/veg-e-lev/receitas-jantar-saudavel/",
+  "https://www.vitao.com.br/blog/jantar-saudavel-o-que-comer-ou-nao-a-noite",
+  "https://institucional.ifood.com.br/consumidores/o-que-pedir-para-jantar-saudavel/",
+  "https://www.deliway.com.br/blog/jantar-saudavel",
+  "https://www.receiteria.com.br/receitas-para-jantar-fitness/",
+  "https://ndmais.com.br/gastronomia/receitas/jantar-para-emagrecer-com-receita-facil-e-saudavel/"
+ ]
+}

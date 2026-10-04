@@ -1,0 +1,35 @@
+{
+ "keyword": "noctúria",
+ "slug": "nocturia",
+ "volume": 22200,
+ "cluster": "urinario",
+ "papel": null,
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Sem remédio; falar de hábitos e investigação (próstata, diabetes, apneia); linkar com 'próstata aumentada'.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "é normal urinar 4 vezes durante a noite",
+  "qual remédio é bom para noctúria",
+  "como combater a noctúria",
+  "urinar muito à noite"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://www.rededorsaoluiz.com.br/doencas/nocturia",
+  "https://drauziovarella.uol.com.br/doencas-e-sintomas/nocturia/",
+  "https://www.einstein.br/n/vida-saudavel/nocturia-acordar-varias-vezes-para-urinar-a-noite-afeta-a-qualidade-do-sono",
+  "https://drpaulomaron.com.br/nocturia/",
+  "https://drleonardonogueira.com.br/blog/o-que-e-nocturia/",
+  "https://danielhampl.com.br/nocturia-acordar-para-fazer-xixi-durante-a-noite/"
+ ]
+}

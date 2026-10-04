@@ -1,0 +1,51 @@
+{
+ "keyword": "ressecamento da pele",
+ "slug": "ressecamento-da-pele",
+ "volume": 8100,
+ "cluster": "pele-cabelo",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Sem indicar cremes, marcas ou suplementos. Cuidados gerais (banho morno, hidratação, evitar buchas). Citar que pele muito seca persistente pode ligar a hipotireoidismo ou diabetes e merece avaliação médica.",
+ "apoio": [
+  {
+   "palavra": "ressecamento da pele causas",
+   "volume": 10
+  }
+ ],
+ "perguntasDoGoogle": [
+  "Que tipo de doença causa ressecamento da pele?",
+  "O que é bom para tirar o ressecamento da pele?",
+  "Qual a falta de vitamina que deixa a pele ressecada?",
+  "Quais são 5 sinais de ressecamento da pele?"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "manchas na pele",
+   "ancoras": [
+    "manchas na pele",
+    "como clarear manchas da pele",
+    "manchas na pele tratamento",
+    "manchas na pele o que fazer"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://www.tuasaude.com/causas-da-pele-seca/",
+  "https://www.rededorsaoluiz.com.br/doencas/pele-ressecada",
+  "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-da-pele/dist%C3%BArbios-da-queratiniza%C3%A7%C3%A3o/pele-seca-xerodermia",
+  "https://www.minhavida.com.br/materias/materia-20414",
+  "https://www.nsctotal.com.br/saude/6-formas-de-evitar-o-ressecamento-da-pele",
+  "https://claudia.abril.com.br/beleza/como-diminuir-coceira-ressecamento-e-vermelhidao-da-pele-no-inverno/",
+  "https://www.draglaucialabinas.com.br/cuidados-com-a-pele-seca"
+ ]
+}

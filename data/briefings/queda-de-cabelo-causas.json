@@ -1,0 +1,53 @@
+{
+ "keyword": "queda de cabelo causas",
+ "slug": "queda-de-cabelo-causas",
+ "volume": 7200,
+ "cluster": "pele-cabelo",
+ "papel": "satelite",
+ "pilar": "queda de cabelo",
+ "sensivel": false,
+ "notas": "Não indicar minoxidil, vitamina ou suplemento; só causas e quando procurar dermatologista. Citar 'queda normal' como nas fontes (faixas variam: 50–100, 50–150, 100–120 fios/dia).",
+ "apoio": [
+  {
+   "palavra": "causas de queda de cabelo feminino",
+   "volume": 480
+  }
+ ],
+ "perguntasDoGoogle": [
+  "Qual é a falta de vitamina que faz o cabelo cair?",
+  "Quando o cabelo cai muito é sinal de que?",
+  "O que fazer quando o cabelo está caindo muito?",
+  "causas da queda de cabelo",
+  "queda de cabelo excessiva",
+  "queda de cabelo feminino"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "queda de cabelo",
+   "ancoras": [
+    "queda de cabelo",
+    "queda de cabelo como tratar",
+    "como evitar queda de cabelo",
+    "exames para queda de cabelo",
+    "queda de cabelo é normal"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://www.einstein.br/n/vida-saudavel/queda-de-cabelo-10-perguntas-para-entender-causas-tipos-e-tratamentos",
+  "https://drauziovarella.uol.com.br/geral/queda-de-cabelo-tipos-e-causas-mais-frequentes/",
+  "https://nav.dasa.com.br/blog/queda-de-cabelo",
+  "https://www.tuasaude.com/queda-de-cabelo-o-que-pode-ser/",
+  "https://www.totalmedcare.com.br/queda-de-cabelo-excessiva-o-que-pode-ser/",
+  "https://qualiipanema.com.br/queda-de-cabelo-quando-me-preocupar/"
+ ]
+}

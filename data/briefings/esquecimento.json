@@ -1,0 +1,99 @@
+{
+ "keyword": "esquecimento",
+ "slug": "esquecimento",
+ "volume": 3600,
+ "cluster": "memoria",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Não sugerir diagnóstico de Alzheimer/demência; listar o que merece avaliação de neurologista; sem suplemento de memória.",
+ "apoio": [
+  {
+   "palavra": "esquecimento o que pode ser",
+   "volume": 880
+  },
+  {
+   "palavra": "esquecimento frequente",
+   "volume": 720
+  },
+  {
+   "palavra": "esquecimento repentino",
+   "volume": 590
+  },
+  {
+   "palavra": "problemas de esquecimento",
+   "volume": 390
+  },
+  {
+   "palavra": "esquecimento constante",
+   "volume": 320
+  },
+  {
+   "palavra": "esquecimento de coisas recentes",
+   "volume": 320
+  },
+  {
+   "palavra": "esquecimento constante o que pode ser",
+   "volume": 170
+  },
+  {
+   "palavra": "esquecimento frequente o que pode ser",
+   "volume": 140
+  },
+  {
+   "palavra": "muito esquecimento o que pode ser",
+   "volume": 140
+  },
+  {
+   "palavra": "o esquecimento",
+   "volume": 140
+  },
+  {
+   "palavra": "esquecimento repentino o que pode ser",
+   "volume": 110
+  },
+  {
+   "palavra": "esquecimento de palavras ao falar",
+   "volume": 90
+  },
+  {
+   "palavra": "esquecimento frequente em jovens",
+   "volume": 90
+  },
+  {
+   "palavra": "esquecimento pode ser o que",
+   "volume": 90
+  },
+  {
+   "palavra": "esquecimento de palavras",
+   "volume": 50
+  }
+ ],
+ "perguntasDoGoogle": [
+  "quando o esquecimento é preocupante",
+  "quais são os tipos de esquecimento",
+  "qual falta de vitamina causa esquecimento",
+  "esquecimento é sinal de TDAH",
+  "quais são os 4 primeiros sinais do Alzheimer",
+  "perda de memória causas"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://leonardoneurologia.com.br/neurologia/esquecimento-no-idoso",
+  "https://www.uol.com.br/vivabem/noticias/redacao/2025/03/11/esquecimento-nao-e-necessariamente-alzheimer-quando-ficar-atento.amp.htm",
+  "https://www.gscuidadoresdeidosos.com.br/esquecimento-natural-da-idade-ou-primeiros-sinais-de-alzheimer-como-diferenciar-e-agir/",
+  "https://nav.dasa.com.br/blog/problemas-de-memoria",
+  "https://glianeurologia.com.br/blog/perda-de-memoria/",
+  "https://www.saudeamericas.com.br/post/tipos-de-perda-de-memoria/",
+  "https://www.tuasaude.com/causas-da-perda-de-memoria/"
+ ]
+}

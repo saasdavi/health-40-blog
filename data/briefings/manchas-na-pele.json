@@ -1,0 +1,56 @@
+{
+ "keyword": "manchas na pele",
+ "slug": "manchas-na-pele",
+ "volume": 18100,
+ "cluster": "pele-cabelo",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Citar a regra ABCDE e sinais de alerta; sem ácidos, receitas caseiras ou clareadores.",
+ "apoio": [
+  {
+   "palavra": "como clarear manchas da pele",
+   "volume": 210
+  },
+  {
+   "palavra": "manchas na pele tratamento",
+   "volume": 20
+  },
+  {
+   "palavra": "manchas na pele o que fazer",
+   "volume": 10
+  }
+ ],
+ "perguntasDoGoogle": [
+  "qual tipo de mancha na pele devo me preocupar",
+  "quais doenças podem causar manchas na pele",
+  "como é a mancha de estresse",
+  "como saber se a mancha é perigosa"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "ressecamento da pele",
+   "ancoras": [
+    "ressecamento da pele",
+    "ressecamento da pele causas"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://vencerocancer.org.br/saude/manchas-na-pele/",
+  "https://www.panvel.com/blog/panvel-explica/manchas-na-pele/",
+  "https://www.endoclinic.com.br/manchas-na-pele-quando-se-preocupar-e-como-identificar-os-sinais/",
+  "https://emfoco.med.br/manchas-na-pele-quando-procurar-um-dermatologista/",
+  "https://bvsms.saude.gov.br/pintas-e-manchas-na-pele/",
+  "https://nav.dasa.com.br/blog/manchas-na-pele"
+ ]
+}

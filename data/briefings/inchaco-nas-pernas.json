@@ -1,0 +1,35 @@
+{
+ "keyword": "inchaço nas pernas",
+ "slug": "inchaco-nas-pernas",
+ "volume": 22200,
+ "cluster": "circulacao",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Destacar sinais de alerta (uma perna só e súbito, dor, falta de ar = pronto-socorro por risco de trombose); sem diurético caseiro.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "quando o inchaço nas pernas é preocupante",
+  "o que é bom para desinchar as pernas",
+  "o que causa retenção de líquido nas pernas",
+  "medicamentos que causam inchaço nas pernas"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://altadiagnosticos.com.br/saude/inchaco-nas-pernas/",
+  "https://www.hospitalaguasclaras.com.br/blog/inchaco-pernas/",
+  "https://www.levesaude.com.br/blog/sua-saude/pernas-inchadas-causas-comuns-e-quando-voce-deve-se-preocupar",
+  "https://nav.dasa.com.br/blog/inchaco-nas-pernas",
+  "https://baraovascular.com.br/principais-sintomas-vasculares/inchaco-nas-pernas/",
+  "https://www.clinicasim.com/blog/angiologia/o-que-causa-inchaco-nas-pernas/"
+ ]
+}

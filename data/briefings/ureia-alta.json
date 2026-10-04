@@ -1,0 +1,48 @@
+{
+ "keyword": "ureia alta",
+ "slug": "ureia-alta",
+ "volume": 22200,
+ "cluster": "exames",
+ "papel": null,
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Resultado isolado não fecha diagnóstico; avaliar com creatinina; não restringir proteína por conta própria; linkar com 'creatinina alta'.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "qual é o valor da ureia preocupante",
+  "o que faz para baixar a ureia",
+  "o que não pode comer com ureia alta",
+  "qual alimento faz subir a ureia"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "ferritina alta",
+   "ancoras": [
+    "ferritina alta"
+   ]
+  },
+  {
+   "para": "creatinina alta",
+   "ancoras": [
+    "creatinina alta"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://nefroclinicas.com.br/blog/o-que-e-ureia-o-que-acontece-quando-ela-esta-alta-e-qual-o-valor-adequado",
+  "https://nav.dasa.com.br/blog/ureia-alta",
+  "https://www.tuasaude.com/ureia-alta/",
+  "https://www.rededorsaoluiz.com.br/richet/exames-e-procedimentos/analises-clinicas/ureia",
+  "https://laboratoriosaogeronimo.com.br/post/exame-de-ureia-tudo-o-que-voce-precisa-saber/283",
+  "https://www.s2medica.com.br/blogs/ureia-alta-entenda-o-que-indica-e-quando-se-preocupar"
+ ]
+}

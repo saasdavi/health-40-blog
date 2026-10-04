@@ -1,0 +1,57 @@
+{
+ "keyword": "cabelos brancos",
+ "slug": "cabelos-brancos",
+ "volume": 12100,
+ "cluster": "pele-cabelo",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Sem indicar tinturas, shampoos ou marcas. Explicar que a causa principal é genética e idade; cabelos brancos muito cedo (antes dos 20) merecem avaliação médica para checar vitamina B12, tireoide e outras causas. Sem promessa de reverter.",
+ "apoio": [
+  {
+   "palavra": "cabelos brancos para mulheres",
+   "volume": 390
+  },
+  {
+   "palavra": "cabelos brancos causas",
+   "volume": 320
+  },
+  {
+   "palavra": "cabelos brancos tratamento",
+   "volume": 170
+  },
+  {
+   "palavra": "como cuidar de cabelos brancos",
+   "volume": 70
+  },
+  {
+   "palavra": "causas dos cabelos brancos",
+   "volume": 10
+  }
+ ],
+ "perguntasDoGoogle": [
+  "É normal ter cabelos brancos?",
+  "O cabelo branco pode voltar a ser preto?",
+  "O que é canície precoce?",
+  "Cabelo branco é sinal de doença?",
+  "Cabelos brancos: causas"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://drauziovarella.uol.com.br/dermatologia/cabelos-brancos-antes-dos-30-por-que-isso-ocorre/",
+  "https://g1.globo.com/saude/bem-estar/noticia/2025/07/22/por-que-os-cabelos-ficam-brancos-entenda-as-causas-e-veja-como-cuidar-dos-fios.ghtml",
+  "https://www.uol.com.br/vivabem/noticias/redacao/2026/02/23/surgimento-dos-cabelos-grisalhos-pode-ser-freado-entenda-o-que-ja-se-sabe.htm",
+  "https://www.dermaclub.com.br/blog/todos-os-temas/cabelo-branco.html",
+  "https://www.natura.com.br/blog/cabelo/por-que-os-cabelos-ficam-brancos",
+  "https://www.renefurterer.com/pt-pt/dicas/cabelos-grisalhos-e-brancos"
+ ]
+}

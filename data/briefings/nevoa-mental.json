@@ -1,0 +1,35 @@
+{
+ "keyword": "névoa mental",
+ "slug": "nevoa-mental",
+ "volume": 8100,
+ "cluster": "memoria",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Não é diagnóstico; sem suplemento ou nootrópico; linkar internamente com 'esquecimento'.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "o que é bom para névoa mental",
+  "quais são os sintomas da névoa mental",
+  "o que são névoas mentais",
+  "brain fog"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://spdm.org.br/blog/nevoa-mental-sintomas-impactos-e-o-que-a-ciencia-ja-sabe/",
+  "https://www.omint.com.br/blog/nevoa-mental/",
+  "https://www.doctoralia.com.br/blog/resistencia-insulina-nevoa-mental-foco",
+  "https://educacaomedica.afya.com.br/blog/nevoa-cerebral-quais-sao-os-sintomas",
+  "https://www.nationalgeographicbrasil.com/ciencia/2025/05/o-que-e-exatamente-o-brain-fog-ou-nevoa-mental-veja-o-que-os-cientistas-estao-descobrindo",
+  "https://masci.com.br/estresse-causa-nevoa-mental-e-dificuldade-de-memoria/"
+ ]
+}

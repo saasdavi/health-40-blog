@@ -47,6 +47,10 @@ jobs:
         continue-on-error: true
         run: node scripts/validar-pautas.js --online --limite 9
 
+      - name: 📋 Briefing por pauta (perguntas do Google, meta de escrita, pontes)
+        continue-on-error: true
+        run: node scripts/briefing.js
+
       - name: 🤖 ARTICLE ROBOT 3/DIA - Fluxo Completo
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

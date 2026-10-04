@@ -1,0 +1,48 @@
+{
+ "keyword": "creatinina alta",
+ "slug": "creatinina-alta",
+ "volume": 33100,
+ "cluster": "exames",
+ "papel": "satelite",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Não prometer 'baixar creatinina' com alimento ou chá; sem suplemento de creatina como recomendação; encaminhar ao nefrologista.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "o que fazer para baixar a creatinina alta",
+  "o que não comer quando a creatinina está alta",
+  "tabela de creatinina por idade",
+  "o que provoca o excesso de creatina"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "ferritina alta",
+   "ancoras": [
+    "ferritina alta"
+   ]
+  },
+  {
+   "para": "ureia alta",
+   "ancoras": [
+    "ureia alta"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://www.rededorsaoluiz.com.br/noticias/artigo/creatinina-alta-o-que-e-sintomas-significado-e-o-que-fazer",
+  "https://nav.dasa.com.br/blog/creatinina-alta",
+  "https://www.hospitalsamaritano.com.br/blog/como-baixar-creatinina-alta/",
+  "https://www.h9j.com.br/blog/o-que-e-creatinina-alta/",
+  "https://www.tuasaude.com/creatinina-alta/",
+  "https://fleminglaboratorio.com/glossario/creatinina-alta-o-que-significa/"
+ ]
+}

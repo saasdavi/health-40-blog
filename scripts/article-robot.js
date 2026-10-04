@@ -110,6 +110,20 @@ class ArticleRobot {
     return Math.max(0, DAILY_LIMIT - feitos);
   }
 
+  // Briefing salvo no GitHub (scripts/briefing.js): perguntas do Google, buscas relacionadas, meta de escrita e pontes de link.
+  // Só acrescenta ao prompt; sem arquivo, não muda nada. Os FATOS continuam vindo só dos trechos das fontes.
+  briefing(p) {
+    const b = this.readJson(`data/briefings/${slugify(p.keyword)}.json`, null);
+    if (!b) return '';
+    const partes = [];
+    if (b.perguntasDoGoogle?.length) partes.push(`PERGUNTAS REAIS que o Google mostra para este tema (responda cada uma, de forma curta, em seções H2 ou na seção de perguntas frequentes, SÓ com o que as fontes sustentam): ${b.perguntasDoGoogle.join(' | ')}.`);
+    if (b.buscasRelacionadas?.length) partes.push(`Buscas relacionadas (use como variações naturais): ${b.buscasRelacionadas.join('; ')}.`);
+    if (b.metaEscrita) partes.push(`META vinda do topo orgânico do Google: cerca de ${b.metaEscrita.medianaPalavras} palavras, ${b.metaEscrita.medianaH2} seções H2 e ${b.metaEscrita.medianaImagens} imagens${b.metaEscrita.secoesQueOTopoCobre?.length ? `; o topo cobre: ${b.metaEscrita.secoesQueOTopoCobre.join('; ')}` : ''}. Seja mais completo e mais claro, sem passar de 1.800 palavras.`);
+    const pontes = (b.pontes || []).map((x) => ({ x, art: this.artigoPorKeyword(x.para) })).filter((y) => y.art).slice(0, 3);
+    if (pontes.length) partes.push(`PONTES de link interno (use quando fizer sentido no texto; âncora natural): ${pontes.map(({ x, art }) => `/${art.slug}/ — âncoras possíveis: ${x.ancoras.slice(0, 3).join(' | ')}`).join(' ;; ')}.`);
+    return partes.join('\n');
+  }
+
   artigoPorKeyword(kw) {
     return this.db.articles.find(a => a.status === 'published' && a.validador === 'APROVADO' && (a.primaryKeyword || '').toLowerCase() === String(kw || '').toLowerCase());
   }
@@ -217,6 +231,7 @@ class ArticleRobot {
 PALAVRA-CHAVE PRINCIPAL: "${p.keyword}" (${p.volume} buscas/mês no Brasil). Uma pauta = uma intenção = uma URL.
 ${p.absorve?.length ? `Variações que viram SEÇÕES H2 deste mesmo artigo (não artigos novos): ${p.absorve.join('; ')}.` : ''}
 ${this.linksTorre(p)}
+${this.briefing(p)}
 ${p.secundarias?.length ? `Palavras secundárias com busca comprovada (cubra a demanda delas de forma natural em títulos de seção ou no texto, só quando as fontes sustentarem; sem forçar nem repetir): ${p.secundarias.map((s) => `${s.palavra} (${s.volume})`).join('; ')}.` : ''}
 ${(() => {
       const seo = fontesLidas.map((f) => f.seo).filter(Boolean);

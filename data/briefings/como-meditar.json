@@ -1,0 +1,33 @@
+{
+ "keyword": "como meditar",
+ "slug": "como-meditar",
+ "volume": 4400,
+ "cluster": "saude-mental",
+ "papel": null,
+ "pilar": null,
+ "sensivel": false,
+ "notas": "",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "O que se deve pensar na meditação?",
+  "Quais são os 3 tipos de meditação?",
+  "É possível meditar deitado?",
+  "Quais são os 4 pilares da meditação?"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://portal.pucrs.br/noticias/impacto-social/dicas-para-meditar/",
+  "https://revistagalileu.globo.com/sociedade/comportamento/noticia/2024/10/como-meditar-em-casa-comece-seguindo-estes-7-passos.ghtml",
+  "https://www.tuasaude.com/como-meditar/",
+  "https://www.valesaude.com.br/saude-v/como-meditar-corretamente/"
+ ]
+}

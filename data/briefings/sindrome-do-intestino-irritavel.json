@@ -1,0 +1,35 @@
+{
+ "keyword": "síndrome do intestino irritável",
+ "slug": "sindrome-do-intestino-irritavel",
+ "volume": 33100,
+ "cluster": "digestao",
+ "papel": "satelite",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Diagnóstico é do médico (critérios de Roma); dieta low FODMAP só com acompanhamento; sem remédio.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "como identificar a síndrome do intestino irritável",
+  "o que não pode comer na síndrome do intestino irritável",
+  "quanto tempo dura uma crise do intestino irritável",
+  "dieta low fodmap"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://drauziovarella.uol.com.br/doencas-e-sintomas/sindrome-do-intestino-irritavel/",
+  "https://altadiagnosticos.com.br/saude/sindrome-do-intestino-irritavel/",
+  "https://nav.dasa.com.br/blog/sindrome-do-intestino-irritavel",
+  "https://fbg.org.br/revista-fbg/2025/07/07/sindrome-do-intestino-irritavel/",
+  "https://spximagem.com.br/sindrome-do-intestino-irritavel/",
+  "https://doclist.com.br/saude/sindrome-do-intestino-irritavel"
+ ]
+}

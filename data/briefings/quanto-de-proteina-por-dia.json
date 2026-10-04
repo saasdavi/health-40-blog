@@ -1,0 +1,32 @@
+{
+ "keyword": "quanto de proteína por dia",
+ "slug": "quanto-de-proteina-por-dia",
+ "volume": 5400,
+ "cluster": "musculo-e-forca",
+ "papel": null,
+ "pilar": null,
+ "sensivel": false,
+ "notas": "",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "Como fazer o cálculo de proteína por kg?",
+  "Quantas gramas de proteína por dia para ganhar massa muscular?",
+  "Como comer 100 gramas de proteína por dia?",
+  "Quantos ovos equivalem a 30g de proteína?"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://drauziovarella.uol.com.br/alimentacao/qual-a-quantidade-ideal-de-proteinas-diarias/",
+  "https://www.einstein.br/n/vida-saudavel/proteina-como-garantir-um-consumo-adequado-do-nutriente",
+  "https://www.piracanjubaproforce.com.br/conteudos/quantidade-de-proteina-por-dia-qual-a-ideal"
+ ]
+}

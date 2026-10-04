@@ -1,0 +1,36 @@
+{
+ "keyword": "visão embaçada",
+ "slug": "visao-embacada",
+ "volume": 9900,
+ "cluster": "olhos",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Seção de alerta obrigatória: início súbito, dor, olho vermelho, cortina/flashes, fraqueza de um lado = pronto-socorro. Não indicar colírio nem vitamina.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "Qual falta de vitamina causa visão embaçada?",
+  "O que fazer para melhorar a visão embaçada?",
+  "Quais são os primeiros sintomas de perda de visão?",
+  "visão turva",
+  "visão embaçada de repente"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://nav.dasa.com.br/blog/visao-turva",
+  "https://www.cemahospital.com.br/blog/visao-embacada",
+  "https://coioftalmologia.com.br/blog/saude-ocular/visao-embacada/",
+  "https://centrodecatarata.com.br/visao-embacada/",
+  "https://hospdeolhos.com.br/noticias/por-que-visao-fica-embacada-de-repente",
+  "https://blog.amorsaude.com.br/visao-embacada-de-repente/"
+ ]
+}

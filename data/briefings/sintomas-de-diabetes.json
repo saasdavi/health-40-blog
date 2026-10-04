@@ -1,0 +1,37 @@
+{
+ "keyword": "sintomas de diabetes",
+ "slug": "sintomas-de-diabetes",
+ "volume": 60500,
+ "cluster": "diabetes",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Não diagnosticar; só exame de sangue confirma (jejum ≥126 mg/dL em duas ocasiões, como nas fontes). Diferenciar tipo 1 (rápido) e tipo 2 (lento, às vezes sem sintoma). Sem indicar remédio.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "Quais são os 7 sinais de diabetes?",
+  "Quem tem diabetes sente o quê no corpo?",
+  "Que a gente sente quando a glicose está alta?",
+  "Como desconfiar de diabetes?",
+  "sintomas de diabetes tipo 2",
+  "sintomas de pré diabetes no corpo"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://medicina.afya.com.br/blog/diabetes-sintomas",
+  "https://www.valemaissaude.com.br/materia/sintomas-do-diabetes-mellitus-tipo-2",
+  "https://www.rededorsaoluiz.com.br/doencas/diabetes",
+  "https://vitacheckup.com.br/2025/12/sintomas-de-diabetes/",
+  "https://www.gndi.com.br/w/blog-da-saude/diabetes-tipo-1-e-2-sintomas-e-cuidados",
+  "https://www.tuasaude.com/como-identificar-os-primeiros-sintomas-da-diabetes/"
+ ]
+}

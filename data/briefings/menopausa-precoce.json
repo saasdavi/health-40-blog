@@ -1,0 +1,69 @@
+{
+ "keyword": "menopausa precoce",
+ "slug": "menopausa-precoce",
+ "volume": 12100,
+ "cluster": "menopausa",
+ "papel": "satelite",
+ "pilar": "o que é menopausa",
+ "sensivel": false,
+ "notas": "",
+ "apoio": [
+  {
+   "palavra": "menopausa precoce idade",
+   "volume": 590
+  }
+ ],
+ "perguntasDoGoogle": [
+  "Quais são os efeitos da menopausa precoce?",
+  "Quais as causas da menopausa precoce?",
+  "Menopausa precoce tem tratamento?",
+  "Qual a diferença entre perimenopausa e climatério?"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "o que é menopausa",
+   "ancoras": [
+    "o que é menopausa",
+    "emagrecer na menopausa",
+    "dieta na menopausa",
+    "sintomas da menopausa aos 50 anos",
+    "sexo na menopausa"
+   ]
+  },
+  {
+   "para": "com quantos anos a mulher entra na menopausa",
+   "ancoras": [
+    "com quantos anos a mulher entra na menopausa"
+   ]
+  },
+  {
+   "para": "pré menopausa",
+   "ancoras": [
+    "pré menopausa",
+    "idade pré menopausa"
+   ]
+  },
+  {
+   "para": "alimentos para menopausa",
+   "ancoras": [
+    "alimentos para menopausa"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://www.msdmanuals.com/pt/casa/problemas-de-sa%C3%BAde-feminina/dist%C3%BArbios-menstruais-e-sangramento-uteino-an%C3%B4malo/menopausa-precoce",
+  "https://www.endocrino.org.br/2009/07/30/menopausa-precoce/",
+  "https://fertilitat.com.br/noticias/10-sinais-da-menopausa-precoce/",
+  "https://medsenior.com.br/noticia/menopausa-precoce-sinais-de-alerta-e-tratamentos-disponiveis/",
+  "https://www.maternidadebrasilia.com.br/blog/menopausa-precoce/"
+ ]
+}

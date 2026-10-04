@@ -1,0 +1,35 @@
+{
+ "keyword": "varizes",
+ "slug": "varizes",
+ "volume": 49500,
+ "cluster": "circulacao",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Sem preço nem promessa de 'eliminar em 7 dias'; citar meias de compressão só como as fontes; sinais de trombose vão para 'inchaço nas pernas'.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "como saber se são vasinhos ou varizes",
+  "quais são os sintomas de varizes inflamadas",
+  "o que fazer quando tem varizes nas pernas",
+  "como tratar varizes"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-do-cora%C3%A7%C3%A3o-e-dos-vasos-sangu%C3%ADneos/dist%C3%BArbios-venosos/varizes",
+  "https://bvsms.saude.gov.br/varizes/",
+  "https://sbacv.org.br/varizes/",
+  "https://nav.dasa.com.br/blog/varizes",
+  "https://baraovascular.com.br/todos-os-tratamentos/o-que-sao-varizes/",
+  "https://emfoco.med.br/varizes-e-vasinhos-saiba-a-diferenca-e-busque-ajuda/"
+ ]
+}

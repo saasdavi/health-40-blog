@@ -1,0 +1,67 @@
+{
+ "keyword": "o que é perimenopausa",
+ "slug": "o-que-e-perimenopausa",
+ "volume": 8100,
+ "cluster": "menopausa",
+ "papel": "satelite",
+ "pilar": "o que é menopausa",
+ "sensivel": false,
+ "notas": "",
+ "apoio": [
+  {
+   "palavra": "idade perimenopausa",
+   "volume": 210
+  }
+ ],
+ "perguntasDoGoogle": [
+  "Quais são os primeiros sinais da perimenopausa?",
+  "Qual a diferença entre pré-menopausa e perimenopausa?",
+  "Qual é a idade da perimenopausa?"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "com quantos anos a mulher entra na menopausa",
+   "ancoras": [
+    "com quantos anos a mulher entra na menopausa"
+   ]
+  },
+  {
+   "para": "o que é menopausa",
+   "ancoras": [
+    "o que é menopausa",
+    "emagrecer na menopausa",
+    "dieta na menopausa",
+    "sintomas da menopausa aos 50 anos",
+    "sexo na menopausa"
+   ]
+  },
+  {
+   "para": "menopausa precoce",
+   "ancoras": [
+    "menopausa precoce",
+    "menopausa precoce idade"
+   ]
+  },
+  {
+   "para": "pré menopausa",
+   "ancoras": [
+    "pré menopausa",
+    "idade pré menopausa"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://www.einstein.br/n/vida-saudavel/climaterio-perimenopausa-ou-menopausa-afinal-em-que-fase-estou",
+  "https://altadiagnosticos.com.br/saude/perimenopausa/",
+  "https://saude.abril.com.br/medicina/perimenopausa-o-que-e-quanto-tempo-dura-e-o-que-fazer/"
+ ]
+}

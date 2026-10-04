@@ -1,0 +1,53 @@
+{
+ "keyword": "glicemia normal",
+ "slug": "glicemia-normal",
+ "volume": 27100,
+ "cluster": "diabetes",
+ "papel": "satelite",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Citar faixas só como aparecem nas fontes (jejum 70–99, pré-diabetes 100–125, ≥126 confirmado).",
+ "apoio": [
+  {
+   "palavra": "glicemia de jejum normal",
+   "volume": 880
+  },
+  {
+   "palavra": "glicemia normal por idade",
+   "volume": 140
+  },
+  {
+   "palavra": "glicemia normal para idosos",
+   "volume": 30
+  },
+  {
+   "palavra": "tabela glicemia normal",
+   "volume": 20
+  }
+ ],
+ "perguntasDoGoogle": [
+  "Qual o nível de glicemia normal por idade?",
+  "Quando a glicemia é alta?",
+  "Qual o nível de glicose perigosa?",
+  "Qual o valor normal da glicemia após comer?",
+  "glicemia 99 é normal"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://abeso.org.br/qual-o-valor-normal-da-glicemia-saiba-o-que-e-e-como-medir-corretamente/",
+  "https://nav.dasa.com.br/blog/glicose-alta",
+  "https://www.gestaods.com.br/blog/tabela-de-glicemia-por-idade/",
+  "https://www.einstein.br/n/vida-saudavel/qual-e-o-valor-normal-da-glicose-apos-as-refeicoes-medico-explica",
+  "https://www.apphealth.com.br/tabela-de-glicemia-por-idade-o-que-voce-precisa-saber",
+  "https://labvital.com.br/glossario/glicemia-em-jejum-valores-de-referencia-e-interpretacao/"
+ ]
+}

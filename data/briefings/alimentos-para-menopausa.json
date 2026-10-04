@@ -1,0 +1,54 @@
+{
+ "keyword": "alimentos para menopausa",
+ "slug": "alimentos-para-menopausa",
+ "volume": 1000,
+ "cluster": "menopausa",
+ "papel": "satelite",
+ "pilar": "o que é menopausa",
+ "sensivel": false,
+ "notas": "",
+ "apoio": [],
+ "perguntasDoGoogle": [],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": false
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "o que é menopausa",
+   "ancoras": [
+    "o que é menopausa",
+    "emagrecer na menopausa",
+    "dieta na menopausa",
+    "sintomas da menopausa aos 50 anos",
+    "sexo na menopausa"
+   ]
+  },
+  {
+   "para": "com quantos anos a mulher entra na menopausa",
+   "ancoras": [
+    "com quantos anos a mulher entra na menopausa"
+   ]
+  },
+  {
+   "para": "menopausa precoce",
+   "ancoras": [
+    "menopausa precoce",
+    "menopausa precoce idade"
+   ]
+  },
+  {
+   "para": "pré menopausa",
+   "ancoras": [
+    "pré menopausa",
+    "idade pré menopausa"
+   ]
+  }
+ ],
+ "fontes": []
+}

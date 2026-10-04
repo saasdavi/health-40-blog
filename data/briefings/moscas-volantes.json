@@ -1,0 +1,35 @@
+{
+ "keyword": "moscas volantes",
+ "slug": "moscas-volantes",
+ "volume": 22200,
+ "cluster": "visao",
+ "papel": null,
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Sinais de alerta: chuva de pontos, flashes, sombra de cortina = urgência (descolamento de retina); sem 'eliminar' em casa.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "o que causa o aparecimento de moscas volantes",
+  "o que fazer para eliminar as moscas volantes",
+  "é perigosa mosca volante",
+  "é possível curar moscas volantes"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://cbv.med.br/oftalmologia/moscas-volantes-e-flashes/",
+  "https://www.msdmanuals.com/pt/profissional/dist%C3%BArbios-oftalmol%C3%B3gicos/sintomas-de-dist%C3%BArbios-oft%C3%A1lmicos/moscas-volantes",
+  "https://drauziovarella.uol.com.br/oftalmologia/problemas-da-visao-o-que-sao-moscas-volantes/",
+  "https://coioftalmologia.com.br/blog/doencas-e-condicoes/o-que-sao-moscas-volantes/",
+  "https://corv.com.br/moscas-volantes-nos-olhos/",
+  "https://clinicaqueiroz.com.br/blog/moscas-volantes-e-flashes-de-luz-quando-e-normal-e-quando-e-risco-para-a-retina"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "keyword": "lanche saudável",
+ "slug": "lanche-saudavel",
+ "volume": 12100,
+ "cluster": "nutricao",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Ideias práticas de lanche, sem promessa de emagrecimento. Citar quem tem diabetes ou restrição alimentar para ajustar com profissional. Sem marcas.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "Lanche saudável da tarde",
+  "Lanche saudável para substituir o jantar",
+  "Lanche da tarde fit para emagrecer",
+  "Lanche saudável para levar ao trabalho",
+  "O que é saudável comer à tarde?"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "café da manhã saudável",
+   "ancoras": [
+    "café da manhã saudável"
+   ]
+  },
+  {
+   "para": "jantar saudável",
+   "ancoras": [
+    "jantar saudável"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://www.saboresajinomoto.com.br/blog/lanches-saudaveis",
+  "https://www.tiasonia.com.br/posts/lanches-saudaveis-para-tarde-10-opcoes-que-nao-podem-faltar",
+  "https://www.seara.com.br/materia/12-lanches-leves-para-substituir-o-jantar-no-calor/",
+  "https://institucional.ifood.com.br/noticias/lanche/",
+  "https://www.receiteria.com.br/receitas-de-lanches-fitness/",
+  "https://blog.livup.com.br/lanches-para-levar-para-o-trabalho/",
+  "https://receitas.globo.com/dietas/saudavel/como-fazer-lanches-saudaveis-para-substituir-ultraprocessados.ghtml"
+ ]
+}

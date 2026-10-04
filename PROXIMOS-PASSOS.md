@@ -79,6 +79,13 @@ O HYPD é um conector que pede aprovação a cada chamada (só o usuário muda i
 ## Teto de 3 artigos por dia
 Cada execução agendada faz 1 artigo (`BATCH_SIZE` padrão 1, 3 execuções por dia). Além disso o robô tem um **teto diário**: `DAILY_LIMIT` (padrão 3, dia de Brasília). Se já foram publicados 3 no dia, a execução termina sem erro ("Teto do dia atingido"), mesmo que alguém dispare manualmente com lote maior. Mudar o ritmo no futuro = mudar `DAILY_LIMIT` e o número de execuções do workflow.
 
+## Regras de trabalho (decididas pelo usuário em 04/10/2026)
+1. **Top 3 orgânico, anúncio não conta.** Olhamos os 3 primeiros resultados ORGÂNICOS do Google; anúncios patrocinados, resposta da IA, vídeos, 'as pessoas também perguntam' e carrossel de imagens não entram. Regra de entrada: no máximo **1 autoridade** nos 3 primeiros orgânicos (padrão adotado; o usuário pode endurecer para 0) e no máximo 2 no top 5, sem lojas dominando, >= 4 fontes, >= 1.000 buscas somadas. Implementada em `scripts/validar-serp.js` e `scripts/promover-pauta.js` (campos `autoridadesTop3` e `top3Urls`).
+2. **Lemos só a página do tema.** Do concorrente lemos apenas a URL que ranqueia para a frase da pauta (nunca o site inteiro). Serve de roteiro (subtítulos, tamanho, imagens, FAQ); os fatos vêm só das nossas fontes. O domínio só entra na decisão 'vale escrever?' (autoridade).
+3. **Pesquisa pronta antes de escrever.** Cada pauta tem um briefing em `data/briefings/<slug>.json` (gerado por `node scripts/briefing.js`, também rodado no workflow diário antes do robô): perguntas do Google, buscas relacionadas, top 3 orgânico, meta de escrita (da comparação com o topo, quando existe), pontes de link e cuidados. O robô lê o briefing e o acrescenta ao prompt (`briefing(p)` em `scripts/article-robot.js`).
+4. **Modelo:** Haiku 4.5 como redator e validador (decisão do usuário). Trocar = `ROBOT_MODEL` / `VALIDATOR_MODEL` no workflow, só se a qualidade decepcionar.
+5. Revisão humana por amostragem (~10% por semana) e liberação de temas sensíveis.
+
 ## Trava de segurança do robô (04/10/2026)
 O robô publica sozinho qualquer pauta com SERP fácil e fontes; **`revisar: true` sozinho não o impede**. Por isso pautas de tema sensível levam `sensivel: true` além de `revisar: true`, e o `escolherPauta` do `scripts/article-robot.js` **pula** as que têm os dois. Para liberar: revisar a pauta/artigo e apagar `sensivel` e `revisar` em `data/keywords-validated.json`. Hoje bloqueada: ereção matinal. Toda pauta nova de remédio, urgência, sexualidade ou pornografia deve entrar com `sensivel: true`.
 

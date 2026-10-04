@@ -1,0 +1,41 @@
+{
+ "keyword": "pressão 14 por 9",
+ "slug": "pressao-14-por-9",
+ "volume": 18100,
+ "cluster": "coracao",
+ "papel": null,
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Não é artigo de emergência: explicar como medir certo (repouso, sem café) e que diagnóstico exige repetição; sem remédio nem dose; sinais de alerta (dor no peito, falta de ar, fraqueza de um lado) = pronto-socorro. Tratar 'pico de pressão' só como seção de alerta (≥180/120 com sintomas = emergência); não dar conduta de tratamento.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "a pressão arterial de 14.8 é considerada alta",
+  "a pressão diastólica alta é perigosa",
+  "a pressão 14x8 no frio é considerada alta",
+  "pressão 15 por 9 é normal",
+  "pressão mínima alta",
+  "pressão 14x9 é perigosa",
+  "pico de pressão alta",
+  "quando um pico de pressão é emergência",
+  "pico de pressão alta é perigoso",
+  "como controlar a pressão em momentos de estresse"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://carloseduardopassarini.com.br/pressao-14-por-9-e-perigoso/",
+  "https://cardiologistaemsp.com.br/blog/2026/05/12/pressao-14x9-e-perigosa/",
+  "https://www.tuasaude.com/news/2026/04/02/pressao-14-por-9-de-manha-e-perigoso-os-erros-mais-comuns-ao-medir-a-pressao-em-casa/",
+  "https://g1.globo.com/saude/noticia/2023/06/28/14-por-9-os-dois-numeros-que-levam-a-pressao-alta-saiba-como-e-feito-o-diagnostico-de-hipertensao.ghtml",
+  "https://www.rededorsaoluiz.com.br/noticias/artigo/hipertensao-nao-sinto-nada-e-a-pressao-e-alta-devo-tratar",
+  "https://www.drataisalbano.com.br/pressao-alta-tratamento-sintomas/"
+ ]
+}

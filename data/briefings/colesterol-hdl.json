@@ -1,0 +1,69 @@
+{
+ "keyword": "colesterol hdl",
+ "slug": "colesterol-hdl",
+ "volume": 74000,
+ "cluster": "colesterol",
+ "papel": "satelite",
+ "pilar": "o que é colesterol",
+ "sensivel": false,
+ "notas": "Valores de referência variam por laboratório e risco; não prometer \"aumentar HDL\" com alimento ou suplemento; encaminhar ao médico.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "Qual é o valor normal de um colesterol HDL?",
+  "Quando o HDL é preocupante?",
+  "O que é o HDL e o LDL?",
+  "colesterol hdl baixo",
+  "colesterol hdl alto",
+  "como aumentar o HDL",
+  "colesterol bom como aumentar",
+  "Qual a fruta que aumenta o HDL?",
+  "Qual vitamina aumenta o HDL?"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "o que é colesterol",
+   "ancoras": [
+    "o que é colesterol",
+    "colesterol alto valores",
+    "colesterol alto o que não comer",
+    "alimentos que aumenta o colesterol",
+    "alimentos que aumentam o colesterol ruim"
+   ]
+  },
+  {
+   "para": "colesterol ldl",
+   "ancoras": [
+    "colesterol ldl"
+   ]
+  },
+  {
+   "para": "colesterol alterado",
+   "ancoras": [
+    "colesterol alterado"
+   ]
+  },
+  {
+   "para": "colesterol alto sintomas",
+   "ancoras": [
+    "colesterol alto sintomas"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://www.tuasaude.com/colesterol-hdl/",
+  "https://debemcomavida.mdsgroup.com.br/blog/saude/colesterol-hdl/",
+  "https://posenato.med.br/blog/colesterol-hdl/",
+  "https://www.rededorsaoluiz.com.br/exames-e-procedimentos/analises-clinicas/hdl",
+  "https://laboratoriosaogeronimo.com.br/post/colesterol-hdl-para-que-serve-exames-e-como-controlar/266",
+  "https://altadiagnosticos.com.br/saude/colesterol-hdl/"
+ ]
+}

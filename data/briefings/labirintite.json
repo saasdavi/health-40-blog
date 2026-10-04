@@ -1,0 +1,37 @@
+{
+ "keyword": "labirintite",
+ "slug": "labirintite",
+ "volume": 110000,
+ "cluster": "ouvido-equilibrio",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Explicar que labirintite verdadeira é rara e o termo é usado para qualquer tontura; sem medicamento; ligar com 'tontura ao levantar'.",
+ "apoio": [],
+ "perguntasDoGoogle": [
+  "a labirintite é uma doença",
+  "qual é o termo técnico para tontura",
+  "o que causa tonturas",
+  "como faz para curar labirintite",
+  "labirintite sintomas",
+  "labirintite emocional"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [],
+ "fontes": [
+  "https://www.einstein.br/n/glossario-de-saude/labirintite",
+  "https://www.valesaude.com.br/doencas-e-sintomas/labirintite/",
+  "https://drauziovarella.uol.com.br/doencas-e-sintomas/labirintite/",
+  "https://www.tuasaude.com/labirintite/",
+  "https://otoneuro.med.br/labirintite-existe-mesmo-entenda-o-termo-correto/",
+  "https://conectamedico.com.br/blog/doencas-e-condicoes/labirintite-causas-sintomas-e-como-tratar-com-seguranca/"
+ ]
+}

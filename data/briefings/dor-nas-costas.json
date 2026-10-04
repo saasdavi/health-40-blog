@@ -1,0 +1,65 @@
+{
+ "keyword": "dor nas costas",
+ "slug": "dor-nas-costas",
+ "volume": 49500,
+ "cluster": "coluna",
+ "papel": "pilar",
+ "pilar": null,
+ "sensivel": false,
+ "notas": "Não competir com 'dores lombares': este artigo é geral (alta, média, baixa; costas ou rins) e deve linkar para o de dores lombares. Sinais de alerta obrigatórios: dormência ou fraqueza nas pernas, perda de urina ou fezes, febre, dor após queda, dor noturna que não alivia, perda de peso sem causa. Sem indicar medicamentos nem diagnosticar.",
+ "apoio": [
+  {
+   "palavra": "o que é dor nas costas",
+   "volume": 720
+  },
+  {
+   "palavra": "dores nas costas em baixo",
+   "volume": 390
+  },
+  {
+   "palavra": "dor nas costas alongamento",
+   "volume": 390
+  },
+  {
+   "palavra": "dor nas costas exercícios",
+   "volume": 90
+  },
+  {
+   "palavra": "dor nas costas na menopausa",
+   "volume": 30
+  }
+ ],
+ "perguntasDoGoogle": [
+  "Qual dor nas costas é preocupante?",
+  "Qual órgão pode dar dor nas costas?",
+  "O que é bom para aliviar a dor nas costas?",
+  "Como saber se é dor nas costas ou nos rins?",
+  "Dor nas costas: sinais de alerta"
+ ],
+ "buscasRelacionadas": [],
+ "google": {
+  "checadoEm": null,
+  "top3Organicos": [],
+  "autoridadesTop3": [],
+  "autoridadesTop5": [],
+  "respostaDaIA": true
+ },
+ "metaEscrita": null,
+ "pontes": [
+  {
+   "para": "dores lombares",
+   "ancoras": [
+    "dores lombares"
+   ]
+  }
+ ],
+ "fontes": [
+  "https://nav.dasa.com.br/blog/dor-nas-costas",
+  "https://www.rededorsaoluiz.com.br/doencas/dor-nas-costas",
+  "https://www.tuasaude.com/dor-nas-costas/",
+  "https://drwilliamzarza.com.br/dor-nas-costas-quando-pode-ser-preocupante/",
+  "https://www.drlucianopellegrino.com.br/dor-nas-costas/",
+  "https://portal.afya.com.br/saude/oms-lanca-manual-com-o-que-funciona-e-nao-funciona-para-dor-nas-costas",
+  "https://www.drfelipecalmon.com.br/o-que-alivia-a-dor-nas-costas"
+ ]
+}
