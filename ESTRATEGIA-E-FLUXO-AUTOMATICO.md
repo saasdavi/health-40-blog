@@ -241,3 +241,5 @@ Todas as 23 frases estão no banco (`fonte: hypd-angulos-pornografia`) com a mar
 | `data/prateleira-candidatas.json` | candidatas com volume aguardando o Google |
 
 **Honestidade sobre o banco:** 'volume medido' quer dizer que o Google tem número para a frase, não que cada frase vire artigo. Faixas do banco: >= 10 mil: 188 | 1 mil a 9.999: 643 | 100 a 999: 983 | 10 a 99: 1660. Muitas frases são grafias repetidas ou ideias relacionadas fora do foco (ex.: 'meditação ... louise hay'); a demanda que conta é a do GRUPO por intenção (regra de 1.000 somadas), validada no Google.
+
+**Listas guardadas em 04/10/2026 (nada se joga fora):** `data/pesquisa/sem-dado.json` (63 frases que o HYPD devolveu sem dado; não é demanda zero), `data/pesquisa/lotes/pressao-alta-sintomas-lista-ltkwid.txt` (28 frases) e `...-gprsea.txt` (9 frases): palavras sem volume, para medir no Planejador. As páginas antigas do HYPD que não foram lidas expiram em 24 h; as palavras mais fortes já estão no banco.

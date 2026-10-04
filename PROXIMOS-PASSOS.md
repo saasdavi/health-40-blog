@@ -67,6 +67,8 @@ Blog de saúde, 3 artigos/dia por 365 dias (1.095 pautas), cada pauta validada c
 ## Trava de segurança do robô (04/10/2026)
 O robô publica sozinho qualquer pauta com SERP fácil e fontes; **`revisar: true` sozinho não o impede**. Por isso pautas de tema sensível levam `sensivel: true` além de `revisar: true`, e o `escolherPauta` do `scripts/article-robot.js` **pula** as que têm os dois. Para liberar: revisar a pauta/artigo e apagar `sensivel` e `revisar` em `data/keywords-validated.json`. Hoje bloqueada: ereção matinal. Toda pauta nova de remédio, urgência, sexualidade ou pornografia deve entrar com `sensivel: true`.
 
+- Medir no Planejador as listas sem volume: `data/pesquisa/sem-dado.json` (63), `data/pesquisa/lotes/pressao-alta-sintomas-lista-*.txt` (37) e a lista de 421 de disfunção erétil.
+
 ## Cuidados
 - Nunca colocar chaves no chat nem em arquivo versionado: só como secret do repositório.
 - Resultados do HYPD expiram em 24 h: ingerir no mesmo dia.
