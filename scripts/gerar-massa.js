@@ -13,6 +13,7 @@ const ALVO = Number(opt('--alvo', 100000));
 const CAT = opt('--categoria');
 const SAIDA = opt('--saida', 'data/pesquisa/entrada.txt');
 const ETAPA = Number(opt('--etapa', 1));
+const TODOS = args.includes('--todos'); // etapa 2 sem o filtro de demanda (para medir de graça no Planejador)
 
 const norm = (t) => t.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/\s+/g, ' ').trim();
 const COMERCIAL = /\b(comprar|preco|onde comprar|melhor marca|promocao|cupom|kit|capsulas?|comprimidos?|suplemento|creatina|whey|termogenico|quelato|remedio|medicamento|shampoo|creme|serum)\b/;
@@ -28,7 +29,7 @@ for (const [cat, temas] of Object.entries(cfg.categorias)) {
   for (const t of temas) porTema.push({ cat, t });
 }
 let temasValidos = null;
-if (ETAPA === 2) {
+if (ETAPA === 2 && !TODOS) {
   const banco = new Map(JSON.parse(fs.readFileSync('data/pesquisa/banco-de-palavras.json', 'utf8')).palavras.map((p) => [norm(p.palavra), p.volume]));
   temasValidos = new Set(porTema.filter(({ t }) => (banco.get(norm(t)) || 0) >= 1000).map(({ t }) => t));
 }
@@ -36,7 +37,7 @@ const alvoPorTema = Math.max(20, Math.floor(ALVO / Math.max(1, porTema.length)))
 
 const todas = new Set();
 for (const { cat, t } of porTema) {
-  if (ETAPA === 2 && !temasValidos.has(t)) continue;
+  if (ETAPA === 2 && !TODOS && !temasValidos.has(t)) continue;
   const f = [];
   if (ETAPA === 1) {
     f.push(t);
@@ -59,4 +60,4 @@ for (const { cat, t } of porTema) {
 const lista = [...todas];
 fs.mkdirSync('data/pesquisa', { recursive: true });
 fs.writeFileSync(SAIDA, lista.join('\n') + '\n');
-console.log(`etapa ${ETAPA}: ${ETAPA === 2 ? temasValidos.size + ' temas com demanda' : porTema.length + ' temas'} -> ${lista.length} frases únicas em ${SAIDA} (≈${alvoPorTema} por tema). Créditos estimados para medir: ${lista.length}.`);
+console.log(`etapa ${ETAPA}: ${ETAPA === 2 && !TODOS ? temasValidos.size + ' temas com demanda' : porTema.length + ' temas'} -> ${lista.length} frases únicas em ${SAIDA} (≈${alvoPorTema} por tema). Créditos estimados para medir: ${lista.length}.`);
