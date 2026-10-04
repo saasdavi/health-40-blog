@@ -123,3 +123,19 @@ Crescimento: cada 1.000 palavras ocupam ~130 KB. Até algumas dezenas de milhare
 - Meta: **1.095 pautas validadas (3 por dia durante 1 ano)**, planejadas em `data/plano-editorial.json` (a criar) e com demanda comprovada.
 - Só depois de fechar esse ano planejado e validado se decide **aumentar o número de publicações por dia**. Antes disso, o ritmo fica em 3.
 - Ao decidir aumentar, conferir: (1) estoque de pautas validadas para o novo ritmo, (2) custo por artigo na API de redação (`data/metrics`), (3) taxa de aprovação do robô e amostragem humana de qualidade, (4) indexação e impressões no Search Console, para não publicar mais do que o Google consegue absorver.
+
+## 11. Domínio próprio e Google Search Console (semana de 2026-10-04)
+
+Hoje o site responde em `https://health-40-blog.vercel.app` e esse endereço está escrito em vários arquivos (canonical, sitemap, robots, schema, scripts). O e-mail de contato já usa `contato@saude40mais.com`, então `saude40mais.com` / `saude40mais.com.br` é o candidato natural. **Escolha o domínio definitivo antes de acumular muitos artigos**: trocar depois exige redirecionamentos e perde sinal.
+
+Passo a passo:
+1. **Comprar** o domínio (.com.br pelo Registro.br, com o CNPJ do responsável, ou .com em registrador internacional). Decidir o canônico: com ou sem `www` (recomendado: **sem www**, e redirecionar o outro).
+2. **Vercel**: Project → Settings → Domains → adicionar o domínio e o `www`; copiar os registros DNS que o Vercel mostra (normalmente `A 76.76.21.21` para o domínio raiz e `CNAME cname.vercel-dns.com` para `www`) e criar no painel do registrador. Marcar o domínio sem www como principal; o Vercel redireciona os demais, inclusive `health-40-blog.vercel.app`. O HTTPS é emitido sozinho.
+3. **No repositório**: `node scripts/trocar-dominio.js https://SEUDOMINIO` mostra o que mudaria (simulação). Com `--aplicar`, troca SITE.url, robots.txt, schema, canonical e scripts, e regenera o sitemap. Depois commit e push (o Vercel faz o deploy).
+4. **Search Console**: criar a propriedade do tipo **Domínio** (verificação por registro TXT no DNS; cobre http, https, www e subdomínios). Alternativa: propriedade por prefixo de URL, colando o código em `SITE.googleSiteVerification` (`src/config/site.ts`), que o `SEO.astro` já imprime como meta tag.
+5. **Enviar o sitemap** `https://SEUDOMINIO/sitemap.xml` (Search Console → Sitemaps). Em "Inspeção de URL", pedir indexação da home e de 3 a 5 artigos.
+6. **Bing Webmaster Tools**: importar a propriedade direto do Search Console.
+7. **E-mail do domínio**: criar `contato@SEUDOMINIO` (ou encaminhamento) e atualizar `contactEmail` em `src/config/site.ts`, para bater com o rodapé e as páginas legais.
+8. Registrar, mês a mês, indexadas, impressões, cliques e posição por categoria (marcos do plano de 12 meses).
+
+Observações: o Google ignora `Crawl-delay` do robots.txt; não é problema. O endereço no rodapé legal (`legal.endereco`) está vazio e a página de contato pode exigir um; decidir se vai exibir.
