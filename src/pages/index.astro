@@ -2,18 +2,21 @@
 import { SITE } from '../config/site';
 import { readFileSync } from 'fs';
 import { resolve } from 'path';
+import { artigosPublicados, temasComArtigos } from '../lib/temas';
 
 let articles = [];
 try {
   const articlesPath = resolve('data/articles.json');
   const articlesData = JSON.parse(readFileSync(articlesPath, 'utf-8'));
   articles = articlesData.articles
-    .filter((a: any) => a.status === 'published' && a.validador === 'APROVADO' && a.featuredImage)
+    .filter((a: any) => a.status === 'published' && a.featuredImage && (a.validador === 'APROVADO' || a.origem === 'importado'))
     .sort((a: any, b: any) => new Date(b.publishedAt || b.createdAt || 0).getTime() - new Date(a.publishedAt || a.createdAt || 0).getTime())
     .slice(0, 6);
 } catch (e) {
   console.warn('Could not read articles.json');
 }
+const todosPublicados = artigosPublicados();
+const temasMenu = temasComArtigos(todosPublicados);
 ---
 
 <html lang="pt-BR">
@@ -479,7 +482,8 @@ try {
         </div>
         <div style="display: flex; gap: 2rem;">
           <a href="/" style="color: var(--text); text-decoration: none; font-weight: 500; transition: color 0.3s;">Início</a>
-          <a href="#artigos" style="color: var(--text); text-decoration: none; font-weight: 500; transition: color 0.3s;">Artigos</a>
+          <a href="/artigos/" style="color: var(--text); text-decoration: none; font-weight: 500; transition: color 0.3s;">Artigos</a>
+          <details style="position: relative;"><summary style="cursor: pointer; font-weight: 500; list-style: none;">Temas ▾</summary><div style="position: absolute; right: 0; top: 2rem; background: #fff; border: 1px solid var(--border); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,.08); padding: .5rem; min-width: 230px; display: grid; z-index: 200;">{temasMenu.map((t) => <a href={`/tema/${t.slug}/`} style="padding: .45rem .7rem; color: var(--text); text-decoration: none;">{t.nome} <span style="color:#a0aec0;font-size:.85em">({t.total})</span></a>)}</div></details>
           <a href="/sobre" style="color: var(--text); text-decoration: none; font-weight: 500; transition: color 0.3s;">Sobre</a>
         </div>
       </div>
@@ -526,6 +530,7 @@ try {
       {articles.length > 1 && (
         <section class="articles-section">
           <h2>Mais Artigos</h2>
+          <p style="margin: -0.5rem 0 1rem;">{temasMenu.map((t) => <a href={`/tema/${t.slug}/`} style="display:inline-block;border:1px solid #d9dcf0;border-radius:999px;padding:.25rem .8rem;margin:.2rem .3rem .2rem 0;font-size:.9rem;color:#4a5568;text-decoration:none;">{t.nome}</a>)}</p>
           <div class="articles-grid">
             {articles.slice(1).map((article: any) => (
               <a href={`/${article.slug || 'artigo'}/`} class="card-link">
@@ -546,6 +551,7 @@ try {
               </a>
             ))}
           </div>
+          <p style="text-align:center;margin-top:1.5rem;"><a href="/artigos/" class="btn">Ver todos os {todosPublicados.length} artigos →</a></p>
         </section>
       )}
 

@@ -23,6 +23,7 @@ function generateSitemap() {
     // Static pages
     const staticPages = [
       { url: '/', changefreq: 'daily', priority: '1.0' },
+      { url: '/artigos/', changefreq: 'daily', priority: '0.9' },
       { url: '/sobre', changefreq: 'monthly', priority: '0.8' },
       { url: '/contato', changefreq: 'monthly', priority: '0.7' },
       { url: '/politica-privacidade', changefreq: 'yearly', priority: '0.5' },

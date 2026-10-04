@@ -1,0 +1,27 @@
+---
+// /tema/<tema>/ : artigos de um tema, 12 por página.
+import ListaLayout from '../../../layouts/ListaLayout.astro';
+import { artigosPublicados, temasComArtigos } from '../../../lib/temas';
+
+export async function getStaticPaths({ paginate }: any) {
+  const todos = artigosPublicados();
+  return temasComArtigos(todos).flatMap((t) =>
+    paginate(todos.filter((a) => a.tema.slug === t.slug), { pageSize: 12, params: { tema: t.slug }, props: { tema: t } })
+  );
+}
+const { page, tema } = Astro.props;
+const n = page.currentPage;
+const base = `/tema/${tema.slug}`;
+---
+<ListaLayout
+  title={`${tema.nome}: artigos${n > 1 ? ` (página ${n})` : ''} | Saúde 40+`}
+  description={tema.descricao}
+  path={n > 1 ? `${base}/${n}/` : `${base}/`}
+  h1={tema.nome}
+  intro={tema.descricao}
+  artigos={page.data}
+  paginaAtual={n}
+  totalPaginas={page.lastPage}
+  base={base}
+  temaAtual={tema.slug}
+/>

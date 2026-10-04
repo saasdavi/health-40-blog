@@ -1,0 +1,116 @@
+---
+// Layout das páginas de lista (todos os artigos e artigos por tema): menu com Temas, cards e paginação.
+import BaseLayout from './BaseLayout.astro';
+import { SITE } from '../config/site';
+import { artigosPublicados, temasComArtigos } from '../lib/temas';
+import type { ArtigoLista } from '../lib/temas';
+
+interface Props { title: string; description: string; path: string; h1: string; intro?: string; artigos: ArtigoLista[]; paginaAtual: number; totalPaginas: number; base: string; temaAtual?: string }
+const { title, description, path, h1, intro, artigos, paginaAtual, totalPaginas, base, temaAtual } = Astro.props;
+const temas = temasComArtigos(artigosPublicados());
+const link = (n: number) => (n === 1 ? `${base}/` : `${base}/${n}/`);
+const year = new Date().getFullYear();
+---
+<BaseLayout title={title} description={description} path={path}>
+  <header class="pg-header">
+    <div class="pg-wrap pg-header-in">
+      <a href="/" class="pg-brand"><img src="/logo.svg" alt={SITE.name} height="40" /></a>
+      <nav class="pg-nav" aria-label="Principal">
+        <a href="/">Início</a>
+        <a href="/artigos/">Artigos</a>
+        <details class="pg-temas">
+          <summary>Temas</summary>
+          <div class="pg-temas-lista">
+            {temas.map((t) => <a href={`/tema/${t.slug}/`}>{t.nome} <span>({t.total})</span></a>)}
+          </div>
+        </details>
+        <a href="/sobre/">Sobre</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="pg-wrap lista-main">
+    <h1>{h1}</h1>
+    {intro && <p class="lista-intro">{intro}</p>}
+
+    <div class="lista-chips" aria-label="Temas">
+      <a href="/artigos/" class={!temaAtual ? 'ativo' : ''}>Todos</a>
+      {temas.map((t) => <a href={`/tema/${t.slug}/`} class={temaAtual === t.slug ? 'ativo' : ''}>{t.nome}</a>)}
+    </div>
+
+    {artigos.length === 0 && <p>Ainda não há artigos publicados neste tema.</p>}
+    <div class="lista-grid">
+      {artigos.map((a) => (
+        <a href={`/${a.slug}/`} class="lista-card">
+          <img loading="lazy" src={a.featuredImage} alt={a.imageAlt || a.title} />
+          <div class="lista-card-corpo">
+            <span class="lista-tema">{a.tema.nome}</span>
+            <h2>{a.title}</h2>
+            <p>{a.description}</p>
+            <span class="lista-meta">⏱️ {Math.max(1, Math.ceil((a.wordCount || 0) / 200))} min de leitura</span>
+          </div>
+        </a>
+      ))}
+    </div>
+
+    {totalPaginas > 1 && (
+      <nav class="lista-paginas" aria-label="Páginas">
+        {paginaAtual > 1 && <a href={link(paginaAtual - 1)}>← Anterior</a>}
+        <span>Página {paginaAtual} de {totalPaginas}</span>
+        {paginaAtual < totalPaginas && <a href={link(paginaAtual + 1)}>Próxima →</a>}
+      </nav>
+    )}
+  </main>
+
+  <footer class="pg-footer">
+    <div class="pg-wrap">
+      <nav class="pg-footer-nav" aria-label="Institucional">
+        <a href="/">Início</a>
+        <a href="/artigos/">Artigos</a>
+        <a href="/sobre/">Sobre</a>
+        <a href="/contato/">Contato</a>
+        <a href="/aviso-medico/">Aviso médico</a>
+        <a href="/politica-privacidade/">Privacidade</a>
+      </nav>
+      <p>© {year} {SITE.name} • Todos os direitos reservados</p>
+    </div>
+  </footer>
+</BaseLayout>
+
+<style is:global>
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #2d3748; background: #fff; line-height: 1.6; }
+  .pg-wrap { max-width: 1040px; margin: 0 auto; padding: 0 1.25rem; }
+  .pg-header { border-bottom: 1px solid #e8eaf2; background: #fff; position: sticky; top: 0; z-index: 50; }
+  .pg-header-in { display: flex; align-items: center; justify-content: space-between; min-height: 64px; }
+  .pg-nav { display: flex; gap: 1.25rem; align-items: center; }
+  .pg-nav a, .pg-nav summary, .pg-footer-nav a { color: #4a5568; text-decoration: none; font-size: 0.95rem; cursor: pointer; }
+  .pg-nav a:hover, .pg-nav summary:hover, .pg-footer-nav a:hover { color: #667eea; }
+  .pg-temas { position: relative; }
+  .pg-temas summary { list-style: none; }
+  .pg-temas summary::after { content: ' ▾'; font-size: 0.8em; }
+  .pg-temas-lista { position: absolute; right: 0; top: 2rem; background: #fff; border: 1px solid #e8eaf2; border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,.08); padding: .5rem; min-width: 230px; display: grid; }
+  .pg-temas-lista a { padding: .45rem .7rem; border-radius: 6px; }
+  .pg-temas-lista a:hover { background: #f4f5ff; }
+  .pg-temas-lista span { color: #a0aec0; font-size: .85em; }
+  .lista-main { padding-top: 2rem; padding-bottom: 3rem; }
+  .lista-main h1 { font-size: 2rem; margin: 0 0 .4rem; color: #1a202c; }
+  .lista-intro { color: #4a5568; margin: 0 0 1.2rem; }
+  .lista-chips { display: flex; flex-wrap: wrap; gap: .5rem; margin: 1rem 0 1.8rem; }
+  .lista-chips a { border: 1px solid #d9dcf0; border-radius: 999px; padding: .3rem .85rem; font-size: .9rem; color: #4a5568; text-decoration: none; }
+  .lista-chips a:hover { border-color: #667eea; color: #667eea; }
+  .lista-chips a.ativo { background: #667eea; border-color: #667eea; color: #fff; }
+  .lista-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.4rem; }
+  .lista-card { display: flex; flex-direction: column; background: #fff; border: 1px solid #eceef7; border-radius: 14px; overflow: hidden; text-decoration: none; color: inherit; box-shadow: 0 2px 10px rgba(0,0,0,.04); transition: transform .15s, box-shadow .15s; }
+  .lista-card:hover { transform: translateY(-3px); box-shadow: 0 10px 24px rgba(0,0,0,.08); }
+  .lista-card img { width: 100%; height: 170px; object-fit: cover; }
+  .lista-card-corpo { padding: 1rem 1.1rem 1.2rem; display: flex; flex-direction: column; gap: .4rem; }
+  .lista-tema { font-size: .75rem; text-transform: uppercase; letter-spacing: .04em; color: #667eea; font-weight: 600; }
+  .lista-card h2 { font-size: 1.1rem; line-height: 1.3; margin: 0; color: #1a202c; }
+  .lista-card p { margin: 0; font-size: .92rem; color: #4a5568; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .lista-meta { font-size: .82rem; color: #718096; }
+  .lista-paginas { display: flex; justify-content: center; align-items: center; gap: 1.2rem; margin-top: 2.2rem; }
+  .lista-paginas a { color: #667eea; text-decoration: none; font-weight: 600; }
+  .pg-footer { border-top: 1px solid #e8eaf2; padding: 2rem 0; font-size: .9rem; color: #718096; }
+  .pg-footer-nav { display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: .8rem; }
+  @media (max-width: 640px) { .pg-header-in { flex-wrap: wrap; padding: .5rem 0; gap: .5rem; } .pg-temas-lista { right: auto; left: 0; } }
+</style>

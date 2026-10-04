@@ -1,0 +1,22 @@
+---
+// /artigos/ : todos os artigos publicados, 12 por página.
+import ListaLayout from '../../layouts/ListaLayout.astro';
+import { artigosPublicados } from '../../lib/temas';
+
+export async function getStaticPaths({ paginate }: any) {
+  return paginate(artigosPublicados(), { pageSize: 12 });
+}
+const { page } = Astro.props;
+const n = page.currentPage;
+---
+<ListaLayout
+  title={n > 1 ? `Todos os artigos (página ${n}) | Saúde 40+` : 'Todos os artigos | Saúde 40+'}
+  description="Todos os artigos do Saúde 40+: saúde, exames e bem-estar depois dos 40 anos, com fontes e orientação para procurar um médico."
+  path={n > 1 ? `/artigos/${n}/` : '/artigos/'}
+  h1="Todos os artigos"
+  intro={`${page.total} artigos sobre saúde depois dos 40. Escolha um tema ou navegue pela lista.`}
+  artigos={page.data}
+  paginaAtual={n}
+  totalPaginas={page.lastPage}
+  base="/artigos"
+/>
