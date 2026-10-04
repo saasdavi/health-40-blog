@@ -97,7 +97,37 @@
    "cluster": "menopausa",
    "status": "sem-serp",
    "papel": "satelite",
-   "pilar": "o que é menopausa"
+   "pilar": "o que é menopausa",
+   "secundarias": [
+    {
+     "palavra": "medicamento para calores da menopausa",
+     "volume": 170
+    },
+    {
+     "palavra": "remédio para os calores da menopausa",
+     "volume": 50
+    },
+    {
+     "palavra": "calores noturnos menopausa",
+     "volume": 50
+    },
+    {
+     "palavra": "menopausa calores noturnos",
+     "volume": 20
+    },
+    {
+     "palavra": "calores e menopausa",
+     "volume": 10
+    },
+    {
+     "palavra": "medicamento para calores menopausa",
+     "volume": 10
+    },
+    {
+     "palavra": "menopausa calores o que fazer",
+     "volume": 10
+    }
+   ]
   },
   {
    "keyword": "progesterona na menopausa",
@@ -113,7 +143,45 @@
    "cluster": "menopausa",
    "status": "sem-serp",
    "papel": "satelite",
-   "pilar": "climatério"
+   "pilar": "climatério",
+   "secundarias": [
+    {
+     "palavra": "climatério sintomas iniciais",
+     "volume": 590
+    },
+    {
+     "palavra": "climaterio sintomas e sinais",
+     "volume": 110
+    },
+    {
+     "palavra": "climatério sintomas idade",
+     "volume": 90
+    },
+    {
+     "palavra": "climatério feminino sintomas",
+     "volume": 70
+    },
+    {
+     "palavra": "gravidez no climatério sintomas",
+     "volume": 70
+    },
+    {
+     "palavra": "climatério e menopausa sintomas",
+     "volume": 30
+    },
+    {
+     "palavra": "climatério sintomas e tratamento",
+     "volume": 30
+    },
+    {
+     "palavra": "climatério sintomas físicos",
+     "volume": 30
+    },
+    {
+     "palavra": "climaterio idade sintomas",
+     "volume": 10
+    }
+   ]
   },
   {
    "keyword": "sarcopenia em idosos",
@@ -143,7 +211,17 @@
    "keyword": "magnésio para que serve",
    "volume": 40500,
    "cluster": "nutricao",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "secundarias": [
+    {
+     "palavra": "bio magnésio para que serve",
+     "volume": 210
+    },
+    {
+     "palavra": "magnesio treonato 500mg para que serve",
+     "volume": 10
+    }
+   ]
   },
   {
    "keyword": "ômega 3 para que serve",
@@ -172,6 +250,62 @@
     {
      "palavra": "alongamento antes de dormir",
      "volume": 390
+    },
+    {
+     "palavra": "alongamento para idosos em pé",
+     "volume": 170
+    },
+    {
+     "palavra": "alongamento para idosos sentados",
+     "volume": 170
+    },
+    {
+     "palavra": "exercicio de alongamento para idoso",
+     "volume": 140
+    },
+    {
+     "palavra": "alongamento na terceira idade",
+     "volume": 70
+    },
+    {
+     "palavra": "alongamento para terceira idade",
+     "volume": 70
+    },
+    {
+     "palavra": "alongamento para idosos pdf",
+     "volume": 50
+    },
+    {
+     "palavra": "alongamento 3 idade",
+     "volume": 30
+    },
+    {
+     "palavra": "alongamento com bastão para idosos",
+     "volume": 30
+    },
+    {
+     "palavra": "alongamento para 3 idade",
+     "volume": 30
+    },
+    {
+     "palavra": "dor no joelho alongamento",
+     "volume": 20
+    },
+    {
+     "palavra": "alongamento com cabo de vassoura para idosos",
+     "volume": 10
+    },
+    {
+     "palavra": "alongamento com idosos",
+     "volume": 10
+    },
+    {
+     "palavra": "alongamento corporal para idosos",
+     "volume": 10
+    },
+    {
+     "palavra": "alongamento de idosos",
+     "volume": 10
     }
    ],
    "papel": "pilar"
@@ -201,7 +335,13 @@
    "volume": 12100,
    "cluster": "coluna",
    "status": "sem-serp",
-   "papel": "pilar"
+   "papel": "pilar",
+   "secundarias": [
+    {
+     "palavra": "como aliviar ciática",
+     "volume": 10
+    }
+   ]
   },
   {
    "keyword": "tgo e tgp altos",
@@ -248,7 +388,37 @@
    "volume": 8100,
    "cluster": "pele-cabelo",
    "status": "sem-serp",
-   "papel": "pilar"
+   "papel": "pilar",
+   "secundarias": [
+    {
+     "palavra": "rugas no pescoço",
+     "volume": 720
+    },
+    {
+     "palavra": "como prevenir rugas",
+     "volume": 40
+    },
+    {
+     "palavra": "como reduzir rugas",
+     "volume": 20
+    },
+    {
+     "palavra": "prevenção de rugas",
+     "volume": 10
+    },
+    {
+     "palavra": "rugas causas",
+     "volume": 10
+    },
+    {
+     "palavra": "rugas tratamento",
+     "volume": 10
+    },
+    {
+     "palavra": "rugas o que fazer",
+     "volume": 10
+    }
+   ]
   },
   {
    "keyword": "hipertensão arterial",
@@ -278,6 +448,50 @@
     {
      "palavra": "como evitar quedas em idosos",
      "volume": 40
+    },
+    {
+     "palavra": "causa de quedas em idosos",
+     "volume": 30
+    },
+    {
+     "palavra": "envelhecimento e quedas de idosos",
+     "volume": 10
+    },
+    {
+     "palavra": "oms quedas em idosos",
+     "volume": 10
+    },
+    {
+     "palavra": "quedas com idosos",
+     "volume": 10
+    },
+    {
+     "palavra": "quedas de idosos em domicílio",
+     "volume": 10
+    },
+    {
+     "palavra": "quedas em idosos slides",
+     "volume": 10
+    },
+    {
+     "palavra": "quedas em pessoas idosas",
+     "volume": 10
+    },
+    {
+     "palavra": "quedas frequentes em idosos",
+     "volume": 10
+    },
+    {
+     "palavra": "quedas idosos pdf",
+     "volume": 10
+    },
+    {
+     "palavra": "quedas nos idosos dgs",
+     "volume": 10
+    },
+    {
+     "palavra": "tipos de quedas nos idosos",
+     "volume": 10
     }
    ],
    "papel": "pilar"
@@ -307,6 +521,10 @@
     {
      "palavra": "glicemia de jejum 100",
      "volume": 40
+    },
+    {
+     "palavra": "glicemia de jejum 126",
+     "volume": 20
     }
    ],
    "papel": "satelite",
@@ -392,6 +610,10 @@
     {
      "palavra": "alopecia masculina",
      "volume": 480
+    },
+    {
+     "palavra": "oq é alopecia",
+     "volume": 10
     }
    ]
   },
@@ -405,13 +627,25 @@
    "keyword": "melasma",
    "volume": 60500,
    "cluster": "pele-cabelo",
-   "status": "sem-serp; absorve: como cuidar do melasma, hiperpigmentação (5400), manchas no rosto (6600)"
+   "status": "sem-serp; absorve: como cuidar do melasma, hiperpigmentação (5400), manchas no rosto (6600)",
+   "secundarias": [
+    {
+     "palavra": "como cuidar do melasma",
+     "volume": 50
+    }
+   ]
   },
   {
    "keyword": "estrias",
    "volume": 49500,
    "cluster": "pele-cabelo",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "secundarias": [
+    {
+     "palavra": "como cuidar das estrias",
+     "volume": 50
+    }
+   ]
   },
   {
    "keyword": "caspa",
@@ -428,6 +662,22 @@
     {
      "palavra": "sinais de calvície",
      "volume": 880
+    },
+    {
+     "palavra": "tratamento calvície masculina",
+     "volume": 720
+    },
+    {
+     "palavra": "tratamento de calvície",
+     "volume": 320
+    },
+    {
+     "palavra": "calvície tratamento",
+     "volume": 140
+    },
+    {
+     "palavra": "tratamento contra calvície",
+     "volume": 90
     },
     {
      "palavra": "como prevenir calvície",
@@ -453,8 +703,16 @@
      "volume": 880
     },
     {
+     "palavra": "couro cabeludo oleoso",
+     "volume": 590
+    },
+    {
      "palavra": "couro cabeludo seco",
      "volume": 210
+    },
+    {
+     "palavra": "saúde do couro cabeludo",
+     "volume": 50
     }
    ]
   },
@@ -487,10 +745,6 @@
    "status": "sem-serp; cluster: psa total e livre (22200), exame psa (14800), psa livre (6600), psa normal (1600), psa alto (1300); absorve 'exame de próstata' se SERP indicar mesma intenção; cuidado: não interpretar resultado individual",
    "secundarias": [
     {
-     "palavra": "valor psa normal",
-     "volume": 210
-    },
-    {
      "palavra": "psa por idade",
      "volume": 110
     },
@@ -505,6 +759,14 @@
     {
      "palavra": "psa após prostatectomia",
      "volume": 70
+    },
+    {
+     "palavra": "psa subindo após prostatectomia",
+     "volume": 20
+    },
+    {
+     "palavra": "como interpretar psa",
+     "volume": 10
     }
    ]
   },
@@ -535,6 +797,10 @@
      "volume": 590
     },
     {
+     "palavra": "suplementos para próstata",
+     "volume": 390
+    },
+    {
      "palavra": "próstata grande",
      "volume": 210
     },
@@ -561,6 +827,26 @@
     {
      "palavra": "próstata grau 1",
      "volume": 30
+    },
+    {
+     "palavra": "hormonioterapia próstata",
+     "volume": 20
+    },
+    {
+     "palavra": "café e próstata",
+     "volume": 20
+    },
+    {
+     "palavra": "próstata 40 gramas",
+     "volume": 20
+    },
+    {
+     "palavra": "tomate e próstata",
+     "volume": 10
+    },
+    {
+     "palavra": "cerveja e próstata",
+     "volume": 10
     }
    ],
    "papel": "pilar"
@@ -589,7 +875,69 @@
    "cluster": "sono",
    "status": "sem-serp",
    "papel": "satelite",
-   "pilarPlanejado": "sono"
+   "pilarPlanejado": "sono",
+   "secundarias": [
+    {
+     "palavra": "a paralisia do sono pode matar",
+     "volume": 260
+    },
+    {
+     "palavra": "existe paralisia do sono",
+     "volume": 210
+    },
+    {
+     "palavra": "alucinações paralisia do sono",
+     "volume": 170
+    },
+    {
+     "palavra": "a paralisia do sono",
+     "volume": 140
+    },
+    {
+     "palavra": "dormir de barriga para cima causa paralisia do sono",
+     "volume": 140
+    },
+    {
+     "palavra": "google o que é paralisia do sono",
+     "volume": 140
+    },
+    {
+     "palavra": "do sono paralisia",
+     "volume": 90
+    },
+    {
+     "palavra": "dormir de barriga para cima da paralisia do sono",
+     "volume": 90
+    },
+    {
+     "palavra": "motivo da paralisia do sono",
+     "volume": 50
+    },
+    {
+     "palavra": "dormir de barriga para cima paralisia do sono",
+     "volume": 30
+    },
+    {
+     "palavra": "explicação paralisia do sono",
+     "volume": 30
+    },
+    {
+     "palavra": "dormir de fone causa paralisia do sono",
+     "volume": 20
+    },
+    {
+     "palavra": "existe tratamento para paralisia do sono",
+     "volume": 20
+    },
+    {
+     "palavra": "alucinações na paralisia do sono",
+     "volume": 10
+    },
+    {
+     "palavra": "ansiedade e paralisia do sono",
+     "volume": 10
+    }
+   ]
   },
   {
    "keyword": "bruxismo",
@@ -610,6 +958,10 @@
     {
      "palavra": "cochilo faz bem",
      "volume": 50
+    },
+    {
+     "palavra": "cochilo de 20 minutos",
+     "volume": 20
     }
    ]
   },
@@ -625,7 +977,69 @@
    "cluster": "sono",
    "status": "sem-serp; cluster: ciclo do sono (8100), fases do sono (4400), sono profundo (2400)",
    "papel": "satelite",
-   "pilarPlanejado": "sono"
+   "pilarPlanejado": "sono",
+   "secundarias": [
+    {
+     "palavra": "fase do sono rem",
+     "volume": 880
+    },
+    {
+     "palavra": "fase rem do sono",
+     "volume": 880
+    },
+    {
+     "palavra": "fases do sono rem",
+     "volume": 880
+    },
+    {
+     "palavra": "ciclo do sono rem",
+     "volume": 50
+    },
+    {
+     "palavra": "estagio do sono rem",
+     "volume": 50
+    },
+    {
+     "palavra": "diferença sono rem e sono profundo",
+     "volume": 40
+    },
+    {
+     "palavra": "estagio rem do sono",
+     "volume": 40
+    },
+    {
+     "palavra": "ciclo de sono rem",
+     "volume": 30
+    },
+    {
+     "palavra": "ciclo rem do sono",
+     "volume": 30
+    },
+    {
+     "palavra": "fase rem sono",
+     "volume": 30
+    },
+    {
+     "palavra": "ciclo sono rem",
+     "volume": 20
+    },
+    {
+     "palavra": "diferença entre sono profundo e rem",
+     "volume": 20
+    },
+    {
+     "palavra": "diferença entre sono profundo e sono rem",
+     "volume": 20
+    },
+    {
+     "palavra": "diferença sono profundo e rem",
+     "volume": 20
+    },
+    {
+     "palavra": "estagio rem sono",
+     "volume": 20
+    }
+   ]
   },
   {
    "keyword": "dor de cabeça ao acordar",
@@ -639,7 +1053,69 @@
    "cluster": "sono",
    "status": "sem-serp; absorve: hábitos para dormir melhor, regras para dormir melhor",
    "papel": "satelite",
-   "pilarPlanejado": "sono"
+   "pilarPlanejado": "sono",
+   "secundarias": [
+    {
+     "palavra": "higiene do sono como fazer",
+     "volume": 880
+    },
+    {
+     "palavra": "higiene de sono",
+     "volume": 90
+    },
+    {
+     "palavra": "higiene do sono para crianças",
+     "volume": 90
+    },
+    {
+     "palavra": "medidas de higiene do sono",
+     "volume": 90
+    },
+    {
+     "palavra": "higiene do sono psicologia",
+     "volume": 70
+    },
+    {
+     "palavra": "higiene sono",
+     "volume": 70
+    },
+    {
+     "palavra": "higiene do sono adulto",
+     "volume": 50
+    },
+    {
+     "palavra": "higiene do sono infantil",
+     "volume": 50
+    },
+    {
+     "palavra": "higiene do sono o que é",
+     "volume": 50
+    },
+    {
+     "palavra": "medidas higiene do sono",
+     "volume": 50
+    },
+    {
+     "palavra": "dicas de higiene do sono",
+     "volume": 40
+    },
+    {
+     "palavra": "higiene do sono ansiedade",
+     "volume": 40
+    },
+    {
+     "palavra": "higiene do sono criança",
+     "volume": 40
+    },
+    {
+     "palavra": "a higiene do sono",
+     "volume": 30
+    },
+    {
+     "palavra": "higiene do sono infantil pdf",
+     "volume": 30
+    }
+   ]
   },
   {
    "keyword": "sonambulismo",
@@ -653,7 +1129,69 @@
    "cluster": "sono",
    "status": "sem-serp; absorve: relaxamento para dormir (2400), respiração para dormir",
    "papel": "satelite",
-   "pilarPlanejado": "meditação"
+   "pilarPlanejado": "meditação",
+   "secundarias": [
+    {
+     "palavra": "meditação para dormir louise hay",
+     "volume": 720
+    },
+    {
+     "palavra": "camila zen meditação dormir",
+     "volume": 590
+    },
+    {
+     "palavra": "meditacao para dormir profundamente",
+     "volume": 590
+    },
+    {
+     "palavra": "meditação para dormir profundo",
+     "volume": 590
+    },
+    {
+     "palavra": "meditação para dormir bem",
+     "volume": 480
+    },
+    {
+     "palavra": "meditacao dormir bem",
+     "volume": 480
+    },
+    {
+     "palavra": "meditacao guiada para dormir profundamente",
+     "volume": 480
+    },
+    {
+     "palavra": "meditacao para dormir e relaxar",
+     "volume": 480
+    },
+    {
+     "palavra": "meditacao para relaxar e dormir",
+     "volume": 480
+    },
+    {
+     "palavra": "meditação e relaxamento para dormir",
+     "volume": 480
+    },
+    {
+     "palavra": "meditação para dormir fabio lima",
+     "volume": 480
+    },
+    {
+     "palavra": "camila zen meditacao para dormir",
+     "volume": 390
+    },
+    {
+     "palavra": "meditação para dormir camila zen",
+     "volume": 390
+    },
+    {
+     "palavra": "meditação para acalmar a mente e dormir",
+     "volume": 320
+    },
+    {
+     "palavra": "meditação para crianca dormir",
+     "volume": 320
+    }
+   ]
   },
   {
    "keyword": "pesadelos",
@@ -671,7 +1209,13 @@
    "keyword": "luz azul",
    "volume": 8100,
    "cluster": "sono",
-   "status": "sem-serp; absorve: luz azul e sono, celular antes de dormir; sem indicar óculos ou produtos"
+   "status": "sem-serp; absorve: luz azul e sono, celular antes de dormir; sem indicar óculos ou produtos",
+   "secundarias": [
+    {
+     "palavra": "luz azul e sono",
+     "volume": 20
+    }
+   ]
   },
   {
    "keyword": "privação de sono",
@@ -764,12 +1308,40 @@
    "status": "sem-serp; importada do Planejador; cluster estimado 18555; absorve: rigidez nas articulações (590), alimentos para articulações (110)",
    "secundarias": [
     {
+     "palavra": "colágeno para as articulações",
+     "volume": 720
+    },
+    {
      "palavra": "rigidez nas articulações",
      "volume": 590
     },
     {
+     "palavra": "colágeno para ossos e articulações",
+     "volume": 320
+    },
+    {
+     "palavra": "colageno articulações",
+     "volume": 260
+    },
+    {
+     "palavra": "colageno para pele e articulações",
+     "volume": 210
+    },
+    {
+     "palavra": "ácido hialurônico para articulações",
+     "volume": 210
+    },
+    {
      "palavra": "alimentos para articulações",
      "volume": 110
+    },
+    {
+     "palavra": "como fortalecer as articulações",
+     "volume": 90
+    },
+    {
+     "palavra": "saúde das articulações",
+     "volume": 30
     }
    ],
    "papel": "pilar"
@@ -779,7 +1351,17 @@
    "volume": 9900,
    "cluster": "ossos-articulacoes",
    "status": "sem-serp; importada do Planejador; cluster estimado 12760; absorve: cartilagem do joelho (4400)",
-   "papel": "pilar"
+   "papel": "pilar",
+   "secundarias": [
+    {
+     "palavra": "colageno para cartilagem",
+     "volume": 260
+    },
+    {
+     "palavra": "cartilagem c2",
+     "volume": 70
+    }
+   ]
   },
   {
    "keyword": "ossos",
@@ -792,8 +1374,20 @@
      "volume": 880
     },
     {
+     "palavra": "magnésio para os ossos",
+     "volume": 880
+    },
+    {
+     "palavra": "colágeno para os ossos",
+     "volume": 590
+    },
+    {
      "palavra": "saúde óssea",
      "volume": 480
+    },
+    {
+     "palavra": "colageno para ossos",
+     "volume": 390
     },
     {
      "palavra": "perda de massa óssea",
@@ -806,6 +1400,14 @@
     {
      "palavra": "como fortalecer os ossos",
      "volume": 320
+    },
+    {
+     "palavra": "fortalecimento dos ossos",
+     "volume": 210
+    },
+    {
+     "palavra": "vitamina d para os ossos",
+     "volume": 210
     },
     {
      "palavra": "leite fortalece os ossos",
@@ -856,7 +1458,13 @@
    "volume": 6600,
    "cluster": "ossos-articulacoes",
    "status": "sem-serp; importada do Planejador; cluster estimado 6600; absorve: ",
-   "papel": "pilar"
+   "papel": "pilar",
+   "secundarias": [
+    {
+     "palavra": "alongamento para coluna idosos",
+     "volume": 10
+    }
+   ]
   },
   {
    "keyword": "exercícios para joelho",

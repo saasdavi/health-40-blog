@@ -105,6 +105,12 @@
         "https://www.tuasaude.com/como-eliminar-a-gordura-visceral/",
         "https://altadiagnosticos.com.br/saude/gordura-visceral/",
         "https://pesquisa.bvsalud.org/portal/resource/pt/lil-393738"
+      ],
+      "secundarias": [
+        {
+          "palavra": "perder gordura visceral",
+          "volume": 480
+        }
       ]
     },
     {
@@ -182,7 +188,13 @@
         "https://saude.abril.com.br/medicina/perimenopausa-o-que-e-quanto-tempo-dura-e-o-que-fazer/"
       ],
       "papel": "satelite",
-      "pilar": "o que é menopausa"
+      "pilar": "o que é menopausa",
+      "secundarias": [
+        {
+          "palavra": "idade perimenopausa",
+          "volume": 210
+        }
+      ]
     },
     {
       "keyword": "como baixar triglicerídeos",
@@ -473,7 +485,15 @@
       ],
       "secundarias": [
         {
+          "palavra": "emagrecer na menopausa",
+          "volume": 720
+        },
+        {
           "palavra": "dieta na menopausa",
+          "volume": 720
+        },
+        {
+          "palavra": "sintomas da menopausa aos 50 anos",
           "volume": 720
         },
         {
@@ -481,24 +501,48 @@
           "volume": 480
         },
         {
+          "palavra": "vitaminas para mulheres na menopausa",
+          "volume": 480
+        },
+        {
+          "palavra": "sintomas da menopausa aos 47 anos",
+          "volume": 480
+        },
+        {
+          "palavra": "remédio para fogachos da menopausa",
+          "volume": 390
+        },
+        {
+          "palavra": "calor da menopausa o que fazer",
+          "volume": 320
+        },
+        {
+          "palavra": "ondas de calor menopausa",
+          "volume": 320
+        },
+        {
           "palavra": "pele na menopausa",
           "volume": 260
+        },
+        {
+          "palavra": "idade de menopausa",
+          "volume": 170
+        },
+        {
+          "palavra": "medicamento para fogachos da menopausa",
+          "volume": 170
         },
         {
           "palavra": "cabelo na menopausa",
           "volume": 140
         },
         {
-          "palavra": "menopausa e sono",
-          "volume": 50
+          "palavra": "menopausa aos 40 anos",
+          "volume": 140
         },
         {
-          "palavra": "menopausa e cabelo",
-          "volume": 30
-        },
-        {
-          "palavra": "exercícios na menopausa",
-          "volume": 30
+          "palavra": "menopausa da calor",
+          "volume": 110
         }
       ],
       "papel": "pilar"
@@ -528,7 +572,13 @@
         "https://www.maternidadebrasilia.com.br/blog/menopausa-precoce/"
       ],
       "papel": "satelite",
-      "pilar": "o que é menopausa"
+      "pilar": "o que é menopausa",
+      "secundarias": [
+        {
+          "palavra": "menopausa precoce idade",
+          "volume": 590
+        }
+      ]
     },
     {
       "keyword": "colesterol hdl",
@@ -638,7 +688,69 @@
         "aiOverview": true
       },
       "fontes": [],
-      "papel": "pilar"
+      "papel": "pilar",
+      "secundarias": [
+        {
+          "palavra": "climatério significado",
+          "volume": 480
+        },
+        {
+          "palavra": "cid10 climaterio",
+          "volume": 320
+        },
+        {
+          "palavra": "menopausa e climaterio",
+          "volume": 260
+        },
+        {
+          "palavra": "climaterio precoce",
+          "volume": 170
+        },
+        {
+          "palavra": "climatério engorda",
+          "volume": 170
+        },
+        {
+          "palavra": "climaterio febrasgo",
+          "volume": 110
+        },
+        {
+          "palavra": "com quantos anos começa o climaterio",
+          "volume": 90
+        },
+        {
+          "palavra": "climaterio oq é",
+          "volume": 70
+        },
+        {
+          "palavra": "climaterio menopausa",
+          "volume": 50
+        },
+        {
+          "palavra": "climatério ministério da saúde",
+          "volume": 50
+        },
+        {
+          "palavra": "defina climatério",
+          "volume": 50
+        },
+        {
+          "palavra": "febrasgo climaterio",
+          "volume": 50
+        },
+        {
+          "palavra": "menopausa ou climaterio",
+          "volume": 50
+        },
+        {
+          "palavra": "climatério definição",
+          "volume": 40
+        },
+        {
+          "palavra": "climatério feminino",
+          "volume": 40
+        }
+      ]
     },
     {
       "keyword": "reposição hormonal",
@@ -870,7 +982,69 @@
         "https://endocardiorc.com.br/fogachos-e-ondas-de-calor-na-menopausa-o-que-sao-por-que-acontecem-e-como-aliviar/",
         "https://clinicaserpas.com.br/blog/tem-hora-para-os-fogachos-aparecerem"
       ],
-      "papel": "pilar"
+      "papel": "pilar",
+      "secundarias": [
+        {
+          "palavra": "medicamento para fogachos",
+          "volume": 170
+        },
+        {
+          "palavra": "fogachos tratamento natural",
+          "volume": 110
+        },
+        {
+          "palavra": "fogachos medicamento",
+          "volume": 110
+        },
+        {
+          "palavra": "fogachos medicamentos",
+          "volume": 110
+        },
+        {
+          "palavra": "antidepressivo para fogachos",
+          "volume": 50
+        },
+        {
+          "palavra": "fogachos e pressão alta",
+          "volume": 50
+        },
+        {
+          "palavra": "fogachos tratamento fitoterápico",
+          "volume": 30
+        },
+        {
+          "palavra": "fogachos tratamento antidepressivo",
+          "volume": 20
+        },
+        {
+          "palavra": "fogachos bula",
+          "volume": 10
+        },
+        {
+          "palavra": "fogachos causas",
+          "volume": 10
+        },
+        {
+          "palavra": "fogachos e dor de cabeça",
+          "volume": 10
+        },
+        {
+          "palavra": "fogachos e suores noturnos",
+          "volume": 10
+        },
+        {
+          "palavra": "fogachos intensos",
+          "volume": 10
+        },
+        {
+          "palavra": "fogachos na tpm",
+          "volume": 10
+        },
+        {
+          "palavra": "fogachos o que fazer",
+          "volume": 10
+        }
+      ]
     },
     {
       "keyword": "colesterol alterado",
@@ -902,7 +1076,13 @@
       },
       "fontes": [],
       "papel": "satelite",
-      "pilar": "o que é menopausa"
+      "pilar": "o que é menopausa",
+      "secundarias": [
+        {
+          "palavra": "idade pré menopausa",
+          "volume": 880
+        }
+      ]
     },
     {
       "keyword": "gordura no fígado",
@@ -1002,6 +1182,10 @@
         {
           "palavra": "glicemia normal para idosos",
           "volume": 30
+        },
+        {
+          "palavra": "tabela glicemia normal",
+          "volume": 20
         }
       ],
       "papel": "satelite",
@@ -1274,6 +1458,62 @@
         {
           "palavra": "exercícios de equilíbrio para idosos",
           "volume": 880
+        },
+        {
+          "palavra": "exercicios para idosos fortalecimento",
+          "volume": 480
+        },
+        {
+          "palavra": "exercicios de equilibrio idosos",
+          "volume": 260
+        },
+        {
+          "palavra": "exercicios para equilibrio em idosos",
+          "volume": 210
+        },
+        {
+          "palavra": "exercicios de musculação para idosos",
+          "volume": 170
+        },
+        {
+          "palavra": "exercicios para idosos na academia",
+          "volume": 90
+        },
+        {
+          "palavra": "exercícios de equilíbrio para idosos fisioterapia",
+          "volume": 90
+        },
+        {
+          "palavra": "exercicios alongamento para idosos",
+          "volume": 40
+        },
+        {
+          "palavra": "exercicios para idosos academia",
+          "volume": 40
+        },
+        {
+          "palavra": "exercícios de alongamento para idosos pdf",
+          "volume": 40
+        },
+        {
+          "palavra": "alongamento idosos exercicios",
+          "volume": 30
+        },
+        {
+          "palavra": "exercicios de alongamento para idosos",
+          "volume": 30
+        },
+        {
+          "palavra": "exercícios para idosos musculação",
+          "volume": 30
+        },
+        {
+          "palavra": "exercicios para melhorar equilibrio em idosos",
+          "volume": 20
+        },
+        {
+          "palavra": "exercícios para equilíbrio e coordenação motora em idosos",
+          "volume": 20
         }
       ]
     },
@@ -1291,7 +1531,45 @@
       },
       "fontes": [],
       "papel": "satelite",
-      "pilar": "insônia"
+      "pilar": "insônia",
+      "secundarias": [
+        {
+          "palavra": "causas da insonia repentina",
+          "volume": 20
+        },
+        {
+          "palavra": "insônia causas hormonais",
+          "volume": 20
+        },
+        {
+          "palavra": "insônia terminal causas",
+          "volume": 20
+        },
+        {
+          "palavra": "causas de insonia e tratamento",
+          "volume": 10
+        },
+        {
+          "palavra": "causas de insonia em jovens",
+          "volume": 10
+        },
+        {
+          "palavra": "causas para insonia",
+          "volume": 10
+        },
+        {
+          "palavra": "insonia causas emocionais",
+          "volume": 10
+        },
+        {
+          "palavra": "insonia cronica causas",
+          "volume": 10
+        },
+        {
+          "palavra": "insônia causas psicológicas",
+          "volume": 10
+        }
+      ]
     },
     {
       "keyword": "insônia o que fazer",
@@ -1307,7 +1585,49 @@
       },
       "fontes": [],
       "papel": "satelite",
-      "pilar": "insônia"
+      "pilar": "insônia",
+      "secundarias": [
+        {
+          "palavra": "ansiedade insonia o que fazer",
+          "volume": 140
+        },
+        {
+          "palavra": "insonia oq fazer",
+          "volume": 70
+        },
+        {
+          "palavra": "ansiedade e insonia o que fazer",
+          "volume": 20
+        },
+        {
+          "palavra": "insonia e ansiedade o que fazer",
+          "volume": 20
+        },
+        {
+          "palavra": "bebê com insônia o que fazer",
+          "volume": 10
+        },
+        {
+          "palavra": "insonia ansiedade o que fazer",
+          "volume": 10
+        },
+        {
+          "palavra": "insonia como fazer para dormir",
+          "volume": 10
+        },
+        {
+          "palavra": "insonia forte o que fazer",
+          "volume": 10
+        },
+        {
+          "palavra": "insonia grave o que fazer",
+          "volume": 10
+        },
+        {
+          "palavra": "insonia infantil o que fazer",
+          "volume": 10
+        }
+      ]
     },
     {
       "keyword": "perda de massa muscular",
@@ -1375,16 +1695,8 @@
       "papel": "pilar",
       "secundarias": [
         {
-          "palavra": "hemoglobina glicosilada",
-          "volume": 135000
-        },
-        {
-          "palavra": "hba1c",
-          "volume": 14800
-        },
-        {
-          "palavra": "tabela hemoglobina glicada",
-          "volume": 2900
+          "palavra": "como interpretar hemoglobina glicada",
+          "volume": 20
         }
       ]
     },
@@ -1648,6 +1960,14 @@
       "notas": "Sem recomendar minoxidil, vitaminas ou suplementos; falar em investigar tireoide e ferro com médico.",
       "secundarias": [
         {
+          "palavra": "queda de cabelo como tratar",
+          "volume": 880
+        },
+        {
+          "palavra": "como evitar queda de cabelo",
+          "volume": 880
+        },
+        {
           "palavra": "exames para queda de cabelo",
           "volume": 880
         },
@@ -1656,11 +1976,39 @@
           "volume": 880
         },
         {
+          "palavra": "queda cabelo",
+          "volume": 720
+        },
+        {
+          "palavra": "imecap hair para queda de cabelo",
+          "volume": 720
+        },
+        {
           "palavra": "queda de cabelo na menopausa",
           "volume": 720
         },
         {
+          "palavra": "melhor tratamento para queda de cabelo",
+          "volume": 590
+        },
+        {
+          "palavra": "tratamento capilar para queda de cabelo",
+          "volume": 590
+        },
+        {
+          "palavra": "especialista em queda de cabelo",
+          "volume": 590
+        },
+        {
           "palavra": "queda de cabelo em excesso",
+          "volume": 590
+        },
+        {
+          "palavra": "oq é bom para queda de cabelo",
+          "volume": 590
+        },
+        {
+          "palavra": "anti queda de cabelo",
           "volume": 590
         },
         {
@@ -1668,44 +2016,8 @@
           "volume": 590
         },
         {
-          "palavra": "queda de cabelo em mulheres",
+          "palavra": "especialista queda de cabelo",
           "volume": 590
-        },
-        {
-          "palavra": "ansiedade e queda de cabelo",
-          "volume": 320
-        },
-        {
-          "palavra": "caspa e queda de cabelo",
-          "volume": 320
-        },
-        {
-          "palavra": "hipotireoidismo e queda de cabelo",
-          "volume": 260
-        },
-        {
-          "palavra": "quando a queda de cabelo é preocupante",
-          "volume": 210
-        },
-        {
-          "palavra": "queda de cabelo feminino em excesso",
-          "volume": 170
-        },
-        {
-          "palavra": "ferritina baixa e queda de cabelo",
-          "volume": 110
-        },
-        {
-          "palavra": "queda de cabelo no banho",
-          "volume": 110
-        },
-        {
-          "palavra": "queda de cabelo sintomas",
-          "volume": 40
-        },
-        {
-          "palavra": "queda de cabelo tem cura",
-          "volume": 40
         }
       ],
       "papel": "pilar"
@@ -1739,7 +2051,69 @@
         "https://www.tuasaude.com/causas-da-perda-de-memoria/"
       ],
       "notas": "Não sugerir diagnóstico de Alzheimer/demência; listar o que merece avaliação de neurologista; sem suplemento de memória.",
-      "papel": "pilar"
+      "papel": "pilar",
+      "secundarias": [
+        {
+          "palavra": "esquecimento o que pode ser",
+          "volume": 880
+        },
+        {
+          "palavra": "esquecimento frequente",
+          "volume": 720
+        },
+        {
+          "palavra": "esquecimento repentino",
+          "volume": 590
+        },
+        {
+          "palavra": "problemas de esquecimento",
+          "volume": 390
+        },
+        {
+          "palavra": "esquecimento constante",
+          "volume": 320
+        },
+        {
+          "palavra": "esquecimento de coisas recentes",
+          "volume": 320
+        },
+        {
+          "palavra": "esquecimento constante o que pode ser",
+          "volume": 170
+        },
+        {
+          "palavra": "esquecimento frequente o que pode ser",
+          "volume": 140
+        },
+        {
+          "palavra": "muito esquecimento o que pode ser",
+          "volume": 140
+        },
+        {
+          "palavra": "o esquecimento",
+          "volume": 140
+        },
+        {
+          "palavra": "esquecimento repentino o que pode ser",
+          "volume": 110
+        },
+        {
+          "palavra": "esquecimento de palavras ao falar",
+          "volume": 90
+        },
+        {
+          "palavra": "esquecimento frequente em jovens",
+          "volume": 90
+        },
+        {
+          "palavra": "esquecimento pode ser o que",
+          "volume": 90
+        },
+        {
+          "palavra": "esquecimento de palavras",
+          "volume": 50
+        }
+      ]
     },
     {
       "keyword": "insônia",
@@ -1767,7 +2141,69 @@
         "https://arclinica.com.br/insonia/"
       ],
       "notas": "Sem indicar remédio para dormir nem melatonina; falar de higiene do sono e TCC-I só como as fontes informam; orientar procurar médico se persistir.",
-      "papel": "pilar"
+      "papel": "pilar",
+      "secundarias": [
+        {
+          "palavra": "cid10 insonia",
+          "volume": 880
+        },
+        {
+          "palavra": "insonia como resolver",
+          "volume": 590
+        },
+        {
+          "palavra": "insonia de manutencao",
+          "volume": 480
+        },
+        {
+          "palavra": "insonia tem cura",
+          "volume": 480
+        },
+        {
+          "palavra": "insonia terminal",
+          "volume": 480
+        },
+        {
+          "palavra": "causa de insonia",
+          "volume": 390
+        },
+        {
+          "palavra": "causadores de insonia",
+          "volume": 390
+        },
+        {
+          "palavra": "insonia cid10",
+          "volume": 390
+        },
+        {
+          "palavra": "insonia como curar",
+          "volume": 320
+        },
+        {
+          "palavra": "gravidez da insonia",
+          "volume": 260
+        },
+        {
+          "palavra": "insonia nao organica",
+          "volume": 210
+        },
+        {
+          "palavra": "insonia inicial",
+          "volume": 170
+        },
+        {
+          "palavra": "insonia severa",
+          "volume": 170
+        },
+        {
+          "palavra": "medicos para insonia",
+          "volume": 170
+        },
+        {
+          "palavra": "a insonia",
+          "volume": 140
+        }
+      ]
     },
     {
       "keyword": "manchas na pele",
@@ -1795,7 +2231,21 @@
         "https://nav.dasa.com.br/blog/manchas-na-pele"
       ],
       "notas": "Citar a regra ABCDE e sinais de alerta; sem ácidos, receitas caseiras ou clareadores.",
-      "papel": "pilar"
+      "papel": "pilar",
+      "secundarias": [
+        {
+          "palavra": "como clarear manchas da pele",
+          "volume": 210
+        },
+        {
+          "palavra": "manchas na pele tratamento",
+          "volume": 20
+        },
+        {
+          "palavra": "manchas na pele o que fazer",
+          "volume": 10
+        }
+      ]
     },
     {
       "keyword": "tontura ao levantar",
@@ -2285,7 +2735,69 @@
       ],
       "notas": "Recomendar avaliação médica antes de começar, principalmente com doença cardíaca, pressão alta ou problemas articulares. Sem promessa de emagrecimento ou de 'definir' o corpo.",
       "papel": "satelite",
-      "pilarPlanejado": "hidroginástica"
+      "pilarPlanejado": "hidroginástica",
+      "secundarias": [
+        {
+          "palavra": "beneficios hidroginástica",
+          "volume": 320
+        },
+        {
+          "palavra": "benefícios da hidroginástica para o corpo",
+          "volume": 170
+        },
+        {
+          "palavra": "hidroginástica benefícios para o corpo",
+          "volume": 170
+        },
+        {
+          "palavra": "beneficios da hidroginastica para idosos",
+          "volume": 140
+        },
+        {
+          "palavra": "hidroginastica quais sao os beneficios",
+          "volume": 140
+        },
+        {
+          "palavra": "os benefícios da hidroginastica",
+          "volume": 90
+        },
+        {
+          "palavra": "hidroginástica benefícios para coluna",
+          "volume": 70
+        },
+        {
+          "palavra": "benefícios da hidroginástica para coluna",
+          "volume": 50
+        },
+        {
+          "palavra": "benefícios da hidroginástica para saúde",
+          "volume": 50
+        },
+        {
+          "palavra": "beneficios da hidroginástica para a saude",
+          "volume": 30
+        },
+        {
+          "palavra": "benefícios de fazer hidroginástica",
+          "volume": 30
+        },
+        {
+          "palavra": "a hidroginastica e seus beneficios",
+          "volume": 20
+        },
+        {
+          "palavra": "benefícios da hidroginástica para jovens",
+          "volume": 20
+        },
+        {
+          "palavra": "benefícios de hidroginástica",
+          "volume": 20
+        },
+        {
+          "palavra": "hidroginastica e seus beneficios",
+          "volume": 20
+        }
+      ]
     },
     {
       "keyword": "longevidade",
@@ -2314,7 +2826,29 @@
         "https://gq.globo.com/bem-estar/saude/noticia/2026/08/4-habitos-especialista-longevidade-adotaria-hoje-para-envelhecer-melhor.ghtml"
       ],
       "notas": "Sem promessas de viver mais, de 'anti-idade' nem de suplementos ou tratamentos. Hábitos com base em fontes: atividade física, alimentação, sono, vínculos sociais e acompanhamento médico. Diferenciar expectativa de vida de qualidade de vida.",
-      "papel": "pilar"
+      "papel": "pilar",
+      "secundarias": [
+        {
+          "palavra": "longevidade o que significa",
+          "volume": 210
+        },
+        {
+          "palavra": "clube da longevidade",
+          "volume": 40
+        },
+        {
+          "palavra": "longevidade masculina",
+          "volume": 10
+        },
+        {
+          "palavra": "longevidade alimentação",
+          "volume": 10
+        },
+        {
+          "palavra": "longevidade dicionario",
+          "volume": 10
+        }
+      ]
     },
     {
       "keyword": "cabelos brancos",
@@ -2351,6 +2885,18 @@
         {
           "palavra": "cabelos brancos causas",
           "volume": 320
+        },
+        {
+          "palavra": "cabelos brancos tratamento",
+          "volume": 170
+        },
+        {
+          "palavra": "como cuidar de cabelos brancos",
+          "volume": 70
+        },
+        {
+          "palavra": "causas dos cabelos brancos",
+          "volume": 10
         }
       ],
       "papel": "pilar"
@@ -2382,7 +2928,13 @@
         "https://www.draglaucialabinas.com.br/cuidados-com-a-pele-seca"
       ],
       "notas": "Sem indicar cremes, marcas ou suplementos. Cuidados gerais (banho morno, hidratação, evitar buchas). Citar que pele muito seca persistente pode ligar a hipotireoidismo ou diabetes e merece avaliação médica.",
-      "papel": "pilar"
+      "papel": "pilar",
+      "secundarias": [
+        {
+          "palavra": "ressecamento da pele causas",
+          "volume": 10
+        }
+      ]
     },
     {
       "keyword": "dor nas costas",
@@ -2558,24 +3110,36 @@
       "notas": "TEMA SENSÍVEL. Concorrência são médicos: fontes sólidas, linguagem prudente. Informativo, SEM remédio (sildenafil, tadalafil), SEM suplemento, sem diagnosticar. Dizer que a falta ocasional é comum e a falta persistente por semanas merece consulta com urologista (pode ligar a vasos/coração, diabetes, hormônios, sono e fatores emocionais). Torre: pilar; satélites ereção fraca, ansiedade de desempenho, ejaculação retardada, falta de desejo masculino. Evitar linguagem vulgar nos títulos. REVISAR por humano antes de publicar.",
       "secundarias": [
         {
-          "palavra": "acordar sem ereção",
-          "volume": 140
-        },
-        {
-          "palavra": "ereção durante o sono",
-          "volume": 50
-        },
-        {
-          "palavra": "falta de ereção matinal",
+          "palavra": "falta de ereçao matinal",
           "volume": 260
         },
         {
-          "palavra": "ereções matinais",
+          "palavra": "ereçao matinal significado",
           "volume": 90
         },
         {
-          "palavra": "sem ereção matinal",
+          "palavra": "sem erecao matinal",
           "volume": 90
+        },
+        {
+          "palavra": "nao tenho erecao matinal",
+          "volume": 50
+        },
+        {
+          "palavra": "ausencia de erecao matinal",
+          "volume": 30
+        },
+        {
+          "palavra": "ausencia ereçao matinal",
+          "volume": 10
+        },
+        {
+          "palavra": "erecao matinal testosterona",
+          "volume": 10
+        },
+        {
+          "palavra": "oq é ereção matinal",
+          "volume": 10
         }
       ],
       "papel": "pilar",

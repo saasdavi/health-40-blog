@@ -6,12 +6,14 @@
 //   - palavra de compra/marca/competição HIGH -> ignorada
 //   node scripts/distribuir-secundarias.js [--aplicar] [--min 30]
 import fs from 'fs';
+import { tratamento } from './filtros.js';
 
 const aplicar = process.argv.includes('--aplicar');
 const i = process.argv.indexOf('--min');
-const MIN = i >= 0 ? Number(process.argv[i + 1]) : 30;
+const MIN = i >= 0 ? Number(process.argv[i + 1]) : 10; // frases de 10 a 99 buscas são ótimas como apoio e âncora de link
 const PROPRIA = 1000;
-const COMERCIAL = /\b(comprar|preco|onde comprar|melhor marca|promocao|cupom|kit|capsulas?|comprimidos?|suplemento|creatina|whey|termogenico|quelato|remedio|medicamento|shampoo|creme|serum)\b/;
+// política de 04/10/2026 (sem preconceito de conteúdo): só intenção de compra e fora do assunto ficam de fora (filtros.json)
+const COMERCIAL = /\b(comprar|preco|onde comprar|melhor marca|promocao|cupom|kit)\b/;
 const norm = (t) => t.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
 const STOP = new Set(['de', 'da', 'do', 'das', 'dos', 'a', 'o', 'e', 'em', 'na', 'no', 'para', 'por', 'um', 'uma', 'que', 'com', 'os', 'as', 'se', 'ao']);
 const radical = (w) => (w.length >= 5 ? w.slice(0, -2) : w);
@@ -29,7 +31,7 @@ const atribuicoes = new Map();
 const proprias = [];
 let semDono = 0, ignoradas = 0;
 for (const p of banco) {
-  if (!(p.volume >= MIN) || p.competicao === 'HIGH' || COMERCIAL.test(norm(p.palavra))) { ignoradas++; continue; }
+  if (!(p.volume >= MIN) || tratamento(p.palavra) === 'excluir' || COMERCIAL.test(norm(p.palavra))) { ignoradas++; continue; }
   if (p.status === 'fila' || p.status === 'candidata') continue;
   const tp = new Set(termos(p.palavra));
   // dono = pauta cujos termos estão TODOS na palavra; vence a mais específica (mais termos)
@@ -49,7 +51,7 @@ for (const [d, lista] of atribuicoes) {
   d.ref.secundarias = lista.slice(0, 15);
   total += d.ref.secundarias.length;
 }
-console.log(`pautas com secundárias: ${atribuicoes.size} | palavras distribuídas: ${total} | sem pauta correspondente: ${semDono} | ignoradas (compra/competição alta/pouco volume): ${ignoradas}`);
+console.log(`pautas com secundárias: ${atribuicoes.size} | palavras distribuídas: ${total} | sem pauta correspondente: ${semDono} | ignoradas (compra/fora do assunto/pouco volume): ${ignoradas}`);
 console.log(`\npautas próprias em potencial (volume >= ${PROPRIA}, variação de uma pauta existente): ${proprias.length}`);
 for (const x of proprias.slice(0, 15)) console.log(`${String(x.volume).padStart(7)}  ${x.palavra}  (perto de "${x.perto}")`);
 const top = [...atribuicoes.entries()].sort((a, b) => b[1].length - a[1].length).slice(0, 5);
