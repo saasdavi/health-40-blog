@@ -7,6 +7,7 @@
 // (fila | candidata | absorvida | banco) e imprime um resumo. Rode logo depois de cada pesquisa:
 // os resultados do HYPD expiram em 24 horas.
 import fs from 'fs';
+import { classificar } from './filtros.js';
 
 const args = process.argv.slice(2);
 const opt = (n, d = null) => { const i = args.indexOf(n); return i >= 0 ? args[i + 1] : d; };
@@ -88,13 +89,13 @@ const absorvidas = new Set([...fila.values()].flatMap((k) => (k.absorve || []).m
 const palavras = [...banco.entries()].map(([k, e]) => ({
   palavra: e.palavra, volume: e.volume, competicao: e.competicao || '', fonte: e.fonte,
   categoria: temas.find(([t]) => k.includes(t))?.[1] || 'sem-categoria',
-  status: fila.has(k) ? 'fila' : cands.has(k) ? 'candidata' : absorvidas.has(k) ? 'absorvida' : 'banco',
+  status: fila.has(k) ? 'fila' : classificar(e.palavra) ? 'filtrada' : cands.has(k) ? 'candidata' : absorvidas.has(k) ? 'absorvida' : 'banco',
 })).sort((a, b) => b.volume - a.volume);
 
 fs.writeFileSync(SAIDA, JSON.stringify({
   atualizado: new Date().toISOString().slice(0, 10),
   origem: existente.origem || 'HYPD research_get_search_volume (Google Ads, Brasil, 12 meses); volume = média mensal',
-  campos: existente.campos || 'palavra, volume, competicao (HIGH costuma indicar compra), fonte (lote), categoria (por tema), status (fila|candidata|absorvida|banco)',
+  campos: existente.campos || 'palavra, volume, competicao (HIGH costuma indicar compra), fonte (lote), categoria (por tema), status (fila|candidata|absorvida|filtrada|banco)',
   palavras,
 }));
 const util = palavras.filter((p) => p.status === 'banco' && p.volume >= 1000 && p.competicao !== 'HIGH').length;
