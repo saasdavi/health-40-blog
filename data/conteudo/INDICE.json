@@ -2,7 +2,7 @@
  "resumo": {
   "publicados": 8,
   "prontosParaUsar": 38,
-  "pautasValidadasSemTexto": 24,
+  "pautasValidadasSemTexto": 23,
   "planejadasAValidar": 886,
   "vagas": 146,
   "espacosDoPlano": 1095
@@ -869,6 +869,28 @@
    "pontesSugeridas": [
     "o que é colesterol",
     "colesterol ldl",
+    "colesterol alterado",
+    "colesterol alto sintomas"
+   ]
+  },
+  {
+   "slug": "colesterol-ldl",
+   "titulo": "Colesterol LDL: o que é e como reduzir",
+   "palavraChave": "colesterol ldl",
+   "cluster": "colesterol",
+   "volume": 74000,
+   "status": "pronto",
+   "palavras": 1042,
+   "h2": 10,
+   "imagens": 3,
+   "fontes": 3,
+   "auditoria": 96,
+   "publicadoEm": null,
+   "escritoEm": "2026-10-04T19:35:50.569Z",
+   "previstoPara": "2026-10-24",
+   "pontesSugeridas": [
+    "o que é colesterol",
+    "colesterol hdl",
     "colesterol alterado",
     "colesterol alto sintomas"
    ]
