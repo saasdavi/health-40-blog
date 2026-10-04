@@ -2413,6 +2413,151 @@
         }
       ],
       "papel": "pilar"
+    },
+    {
+      "keyword": "alimentos ricos em fibras",
+      "volume": 49500,
+      "competition": "LOW",
+      "cluster": "alimentacao",
+      "absorve": [
+        "Qual a melhor fibra para diabetes?",
+        "Quais são as fibras insolúveis?",
+        "O que as fibras fazem no intestino?",
+        "Alimentos ricos em fibras para emagrecer",
+        "Frutas ricas em fibras",
+        "Alimentos ricos em fibras insolúveis"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIA-FÁCIL",
+        "topoDoGoogle": "Sociedade Brasileira de Diabetes, Panelinha Fit (2022), Enterogermina, Tua Saúde, Mahta, Prodiet (2021)",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://diabetes.org.br/fibras-alimentares-o-que-e-importante-saber/",
+        "https://www.tuasaude.com/alimentos-ricos-em-fibras/",
+        "https://hospitalsiriolibanes.org.br/blog/alimentacaoebemestar/alimentos-ricos-em-fibras-ajudam-a-normalizar-funcao-intestinal",
+        "https://nav.dasa.com.br/blog/alimentos-ricos-em-fibras",
+        "https://www.unimedfortaleza.com.br/alimentacao/alimentos-ricos-em-fibras"
+      ],
+      "notas": "Informativo, sem suplemento de fibra nem marca (Enterogermina, psyllium em pó). Citar a meta diária só com a fonte. Aumentar fibra aos poucos e beber água; quem tem doença intestinal ou diabetes deve falar com o médico. Linkar para os artigos de intestino/digestão quando existirem. REVISAR antes de publicar.",
+      "papel": "pilar",
+      "revisar": true
+    },
+    {
+      "keyword": "alimentos ricos em ferro",
+      "volume": 40500,
+      "competition": "LOW",
+      "cluster": "alimentacao",
+      "absorve": [
+        "Como subir ferro rápido?",
+        "Qual é a fruta que tem bastante ferro?",
+        "Qual suco é rico em ferro?",
+        "Qual é o legume com mais ferro?",
+        "Ferro heme e não heme",
+        "Como aumentar a absorção do ferro"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "HealthifyMe, Men's Health PT, Claudia (2016), Facebook, O Antagonista",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.tuasaude.com/alimentos-ricos-em-ferro/",
+        "https://www.h9j.com.br/blog/Alimentos-ricos-ferro/",
+        "https://solimlab.com.br/alimentos-ricos-em-ferro/",
+        "https://www.saboresajinomoto.com.br/blog/alimentos-ricos-em-ferro",
+        "https://www.spatzmedical.com/br/blog/7-alimentos-ricos-em-ferro/"
+      ],
+      "notas": "Informativo. NÃO indicar suplemento de ferro nem dose: ferro em excesso faz mal. Fraqueza, cansaço persistente ou suspeita de anemia pedem exame (hemograma/ferritina) e consulta; não diagnosticar. Mencionar a absorção (vitamina C, café e cálcio junto das refeições). REVISAR antes de publicar.",
+      "papel": "pilar",
+      "revisar": true
+    },
+    {
+      "keyword": "ritmo circadiano",
+      "volume": 40500,
+      "competition": "LOW",
+      "cluster": "sono",
+      "absorve": [
+        "Como regular o ritmo circadiano?",
+        "O que acontece quando o ciclo circadiano está desregulado?",
+        "Como saber o meu ciclo circadiano?",
+        "O que é ritmo circadiano e como funciona?",
+        "Ritmo circadiano do sono",
+        "Ritmo circadiano desregulado"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIA-FÁCIL",
+        "topoDoGoogle": "Wikipedia, MSD Manuais, Tua Saúde (2026), Afya (2025), BBC (2022)",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-cerebrais-da-medula-espinal-e-dos-nervos/dist%C3%BArbios-do-sono/dist%C3%BArbios-do-sono-ligados-ao-ritmo-circadiano",
+        "https://www.tuasaude.com/ciclo-circadino/",
+        "https://medicina.afya.com.br/blog/ciclo-circadiano-desempenho-nos-estudos",
+        "https://www.bbc.com/portuguese/geral-61548390",
+        "https://www.unimedcampinas.com.br/blog/cuidado-continuo/o-que-e-ciclo-circadiano-e-qual-sua-importancia-na-saude",
+        "https://drconsulta.com/conteudo/o-que-e-ciclo-circadiano/"
+      ],
+      "notas": "Informativo, sem melatonina nem indicar remédio para dormir. Absorve 'relógio biológico' e 'cronotipo'. Insônia persistente, sonolência excessiva ou trabalho em turnos com sintomas pedem avaliação médica. Linkar para os artigos de sono (higiene do sono, insônia). REVISAR antes de publicar.",
+      "papel": "pilar",
+      "revisar": true
+    },
+    {
+      "keyword": "ereção matinal",
+      "volume": 1300,
+      "competition": "LOW",
+      "cluster": "prostata",
+      "absorve": [
+        "Como voltar a ter ereções matinais?",
+        "Porque tenho ereções matinais?",
+        "É normal não ter ereções durante o dia?",
+        "É normal um homem ter ereções do nada?",
+        "Porque não tenho mais ereções matinais",
+        "Ereções involuntárias durante o dia",
+        "Ereções fracas o que fazer"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIA-FÁCIL",
+        "topoDoGoogle": "clínicas de urologia (urologistajf, Dr. Ari Miotto, Dr. Luís Fernando Dip, Urocentro), Facebook VivaBem; vídeos YouTube de urologistas",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://urologistajf.com.br/erecao-matinal-saude-masculina/",
+        "https://drarimiotto.com.br/erecao-matinal-ausente/",
+        "https://drluisfernandodip.com.br/erecao-matinal-por-que-ela-acontece/",
+        "https://urocentro.com/erecoes-matinais-sao-bom-ou-mau-sinal/",
+        "https://www.uroville.com.br/o-que-e-erecao-matinal/",
+        "https://www.dredgarsarmento.com.br/conteudos/erecao-matinal-o-que-indica-e-quando-o-sumico-merece-investigacao/"
+      ],
+      "notas": "TEMA SENSÍVEL. Concorrência são médicos: fontes sólidas, linguagem prudente. Informativo, SEM remédio (sildenafil, tadalafil), SEM suplemento, sem diagnosticar. Dizer que a falta ocasional é comum e a falta persistente por semanas merece consulta com urologista (pode ligar a vasos/coração, diabetes, hormônios, sono e fatores emocionais). Torre: pilar; satélites ereção fraca, ansiedade de desempenho, ejaculação retardada, falta de desejo masculino. Evitar linguagem vulgar nos títulos. REVISAR por humano antes de publicar.",
+      "secundarias": [
+        {
+          "palavra": "acordar sem ereção",
+          "volume": 140
+        },
+        {
+          "palavra": "ereção durante o sono",
+          "volume": 50
+        },
+        {
+          "palavra": "falta de ereção matinal",
+          "volume": 260
+        },
+        {
+          "palavra": "ereções matinais",
+          "volume": 90
+        },
+        {
+          "palavra": "sem ereção matinal",
+          "volume": 90
+        }
+      ],
+      "papel": "pilar",
+      "revisar": true
     }
   ],
   "descartadas": "Mounjaxi/suplemento/termogênico (volume < 400 ou sem medição), '... 40+' de cauda longa sem volume, 'como emagrecer depois dos 40' (260/mês, concorrência HIGH)."

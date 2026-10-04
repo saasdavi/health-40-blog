@@ -158,20 +158,6 @@
    "status": "sem-serp"
   },
   {
-   "keyword": "alimentos ricos em fibras",
-   "volume": 49500,
-   "cluster": "alimentacao",
-   "status": "sem-serp",
-   "papel": "pilar"
-  },
-  {
-   "keyword": "alimentos ricos em ferro",
-   "volume": 40500,
-   "cluster": "alimentacao",
-   "status": "sem-serp",
-   "papel": "pilar"
-  },
-  {
    "keyword": "ácido fólico para que serve",
    "volume": 33100,
    "cluster": "nutricao",
@@ -610,12 +596,6 @@
    "volume": 74000,
    "cluster": "sono",
    "status": "sem-serp; absorve: ranger os dentes durante o sono; sem indicar placa/produto"
-  },
-  {
-   "keyword": "ritmo circadiano",
-   "volume": 40500,
-   "cluster": "sono",
-   "status": "sem-serp; absorve: relógio biológico, cronotipo"
   },
   {
    "keyword": "cochilo",
