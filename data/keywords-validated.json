@@ -1788,6 +1788,35 @@
         "https://fleminglaboratorio.com/glossario/passo-a-passo-interpretar-hemograma-completo/"
       ],
       "notas": "Valores de referência variam por laboratório; não interpretar resultado individual; sem preço."
+    },
+    {
+      "keyword": "pressão 14 por 9",
+      "volume": 18100,
+      "competition": "LOW",
+      "cluster": "coracao",
+      "absorve": [
+        "a pressão arterial de 14.8 é considerada alta",
+        "a pressão diastólica alta é perigosa",
+        "a pressão 14x8 no frio é considerada alta",
+        "pressão 15 por 9 é normal",
+        "pressão mínima alta",
+        "pressão 14x9 é perigosa"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Hospital Moinhos (2018), Rede D'Or, Instagram, Clínica Átrios, Pílulas de Saúde, Doctoralia; sem gov.br no topo orgânico",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://carloseduardopassarini.com.br/pressao-14-por-9-e-perigoso/",
+        "https://cardiologistaemsp.com.br/blog/2026/05/12/pressao-14x9-e-perigosa/",
+        "https://www.tuasaude.com/news/2026/04/02/pressao-14-por-9-de-manha-e-perigoso-os-erros-mais-comuns-ao-medir-a-pressao-em-casa/",
+        "https://g1.globo.com/saude/noticia/2023/06/28/14-por-9-os-dois-numeros-que-levam-a-pressao-alta-saiba-como-e-feito-o-diagnostico-de-hipertensao.ghtml",
+        "https://www.rededorsaoluiz.com.br/noticias/artigo/hipertensao-nao-sinto-nada-e-a-pressao-e-alta-devo-tratar",
+        "https://www.drataisalbano.com.br/pressao-alta-tratamento-sintomas/"
+      ],
+      "notas": "Não é artigo de emergência: explicar como medir certo (repouso, sem café) e que diagnóstico exige repetição; sem remédio nem dose; sinais de alerta (dor no peito, falta de ar, fraqueza de um lado) = pronto-socorro."
     }
   ],
   "descartadas": "Mounjaxi/suplemento/termogênico (volume < 400 ou sem medição), '... 40+' de cauda longa sem volume, 'como emagrecer depois dos 40' (260/mês, concorrência HIGH)."

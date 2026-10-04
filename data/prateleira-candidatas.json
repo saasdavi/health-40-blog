@@ -206,6 +206,19 @@
       "volume": 40500,
       "cluster": "coracao",
       "status": "sem-serp"
+    },
+    {
+      "keyword": "pressão alta sintomas",
+      "volume": null,
+      "cluster": "coracao",
+      "status": "serp-ok-falta-volume",
+      "nota": "Google Ads não devolve volume; topo fraco (Ident, Picdoc, Vitat, Saúde em Dia). Aguardando volume da extensão do usuário. Variantes da extensão: iniciais, dor de cabeça, olhos, calor, o que fazer, como saber se estou com pressão alta"
+    },
+    {
+      "keyword": "hipertensão",
+      "volume": 40500,
+      "cluster": "coracao",
+      "status": "sem-serp"
     }
   ],
   "semDemanda": "Frases longas do kit com volume < 200/mês no Google BR (não viram artigo próprio; entram como H2 de artigo-mãe): como perder barriga depois dos 40 (110), musculação depois dos 40 (30), treino de força para iniciantes (20), hipertrofia depois dos 40 (10), alimentos para reduzir gordura visceral (10), efeito platô emagrecimento (210)",
