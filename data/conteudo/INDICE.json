@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 8,
-  "prontosParaUsar": 38,
+  "publicados": 9,
+  "prontosParaUsar": 37,
   "pautasValidadasSemTexto": 22,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -165,15 +165,15 @@
    "palavraChave": "labirintite",
    "cluster": "ouvido-equilibrio",
    "volume": 110000,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1435,
    "h2": 13,
    "imagens": 3,
    "fontes": 4,
    "auditoria": 100,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-04T20:14:57.813Z",
    "escritoEm": "2026-10-04T16:35:56.582Z",
-   "previstoPara": "2026-10-05",
+   "previstoPara": null,
    "pontesSugeridas": []
   },
   {

@@ -121,4 +121,15 @@
       <image:caption>Hemoglobina glicada é o exame que mostra seu controle de glicose nos últimos 3 meses. Entenda valores, sintomas e quando se preocupar.</image:caption>
     </image:image>
   </url>
+  <url>
+    <loc>https://health-40-blog.vercel.app/labirintite</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>/images/labirintite/labirintite-capa.jpg</image:loc>
+      <image:title>Labirintite: O Que É, Sintomas e Como Tratar</image:title>
+      <image:caption>Labirintite é inflamação do labirinto. Conheça sintomas reais, causas e tratamento seguro para recuperar seu equilíbrio e qualidade de vida.</image:caption>
+    </image:image>
+  </url>
 </urlset>

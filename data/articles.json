@@ -834,7 +834,7 @@
         ]
       },
       "volume": 110000,
-      "status": "draft",
+      "status": "published",
       "createdAt": "2026-10-04T16:35:53.655Z",
       "scores": {
         "auditoria": 100
@@ -887,7 +887,7 @@
         "pexels:5938362"
       ],
       "altConferido": false,
-      "estoque": true,
+      "estoque": false,
       "estocadoEm": "2026-10-04T16:35:56.582Z",
       "validacao": {
         "palavraChave": "labirintite",
@@ -955,7 +955,9 @@
           ]
         },
         "validadoEm": "2026-10-04T16:35:56.582Z"
-      }
+      },
+      "publishedAt": "2026-10-04T20:14:57.813Z",
+      "publicadoDoEstoqueEm": "2026-10-04T20:14:57.813Z"
     },
     {
       "id": "art_1791131939237_dyo9",
@@ -8928,6 +8930,6 @@
   ],
   "stats": {
     "total": 50,
-    "published": 8
+    "published": 9
   }
 }
