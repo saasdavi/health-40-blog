@@ -221,30 +221,6 @@
    "nota": "Google Ads devolve nulo para termos 'pressão alta ...'. Topo fraco (Ident, Picdoc, Vitat). Precisa de volume pela extensão (Load Metrics)"
   },
   {
-   "keyword": "dor nas costas",
-   "volume": 49500,
-   "cluster": "coluna",
-   "status": "sem-serp; avaliar canibalização com 'dores lombares' (já na fila)"
-  },
-  {
-   "keyword": "longevidade",
-   "volume": 18100,
-   "cluster": "longevidade",
-   "status": "sem-serp; absorve: envelhecimento saudável (1000), idade biológica (880)"
-  },
-  {
-   "keyword": "cabelos brancos",
-   "volume": 12100,
-   "cluster": "pele-cabelo",
-   "status": "sem-serp; absorve: cabelos brancos causas (320), para mulheres (390)"
-  },
-  {
-   "keyword": "ressecamento da pele",
-   "volume": 8100,
-   "cluster": "pele-cabelo",
-   "status": "sem-serp"
-  },
-  {
    "keyword": "quedas em idosos",
    "volume": 1000,
    "cluster": "longevidade",

@@ -1956,6 +1956,119 @@
         "https://viverbem.unimedbh.com.br/qualidade-de-vida/beneficios-da-hidroginastica/"
       ],
       "notas": "Recomendar avaliação médica antes de começar, principalmente com doença cardíaca, pressão alta ou problemas articulares. Sem promessa de emagrecimento ou de 'definir' o corpo."
+    },
+    {
+      "keyword": "longevidade",
+      "volume": 18100,
+      "competition": "MEDIUM",
+      "cluster": "longevidade",
+      "absorve": [
+        "Qual é o conceito de longevidade?",
+        "Quais são os 5 pilares da longevidade?",
+        "É possível viver até 150 anos?",
+        "O que aumenta a longevidade?",
+        "Envelhecimento saudável: hábitos"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIA-FÁCIL",
+        "topoDoGoogle": "Sanarmed (Q&A), clínica Cefit, USP, MAG Seguros, GQ/Globo, Instituto Acqua Fitt, YouTube",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.cefitfisioterapia.com.br/post/longevidade-n%C3%A3o-%C3%A9-sorte-5-h%C3%A1bitos-de-envelhecimento-saud%C3%A1vel-e-com-vitali",
+        "https://sau.usp.br/conhecendo-a-sua-saude-para-uma-longevidade-saudavel/",
+        "https://sau.usp.br/envelhecimento-saudavel-10-segunda-revolucao-da-longevidade-jornal-da-usp/",
+        "https://vida.mag.com.br/guia-para-manter-o-bem-estar-e-alcancar-a-longevidade/",
+        "https://acquafittinstituto.com.br/blog/longevidade/",
+        "https://gq.globo.com/bem-estar/saude/noticia/2026/08/4-habitos-especialista-longevidade-adotaria-hoje-para-envelhecer-melhor.ghtml"
+      ],
+      "notas": "Sem promessas de viver mais, de 'anti-idade' nem de suplementos ou tratamentos. Hábitos com base em fontes: atividade física, alimentação, sono, vínculos sociais e acompanhamento médico. Diferenciar expectativa de vida de qualidade de vida."
+    },
+    {
+      "keyword": "cabelos brancos",
+      "volume": 12100,
+      "competition": "LOW",
+      "cluster": "pele-cabelo",
+      "absorve": [
+        "É normal ter cabelos brancos?",
+        "O cabelo branco pode voltar a ser preto?",
+        "O que é canície precoce?",
+        "Cabelo branco é sinal de doença?",
+        "Cabelos brancos: causas"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "UOL, Facebook, Beleza na Web, YouTube, René Furterer, Globoplay",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://drauziovarella.uol.com.br/dermatologia/cabelos-brancos-antes-dos-30-por-que-isso-ocorre/",
+        "https://g1.globo.com/saude/bem-estar/noticia/2025/07/22/por-que-os-cabelos-ficam-brancos-entenda-as-causas-e-veja-como-cuidar-dos-fios.ghtml",
+        "https://www.uol.com.br/vivabem/noticias/redacao/2026/02/23/surgimento-dos-cabelos-grisalhos-pode-ser-freado-entenda-o-que-ja-se-sabe.htm",
+        "https://www.dermaclub.com.br/blog/todos-os-temas/cabelo-branco.html",
+        "https://www.natura.com.br/blog/cabelo/por-que-os-cabelos-ficam-brancos",
+        "https://www.renefurterer.com/pt-pt/dicas/cabelos-grisalhos-e-brancos"
+      ],
+      "notas": "Sem indicar tinturas, shampoos ou marcas. Explicar que a causa principal é genética e idade; cabelos brancos muito cedo (antes dos 20) merecem avaliação médica para checar vitamina B12, tireoide e outras causas. Sem promessa de reverter."
+    },
+    {
+      "keyword": "ressecamento da pele",
+      "volume": 8100,
+      "competition": "LOW",
+      "cluster": "pele-cabelo",
+      "absorve": [
+        "Que tipo de doença causa ressecamento da pele?",
+        "O que é bom para tirar o ressecamento da pele?",
+        "Qual a falta de vitamina que deixa a pele ressecada?",
+        "Quais são 5 sinais de ressecamento da pele?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "clínicas de dermatologia, Minha Vida (2020), NSC Total (2023), Claudia, Facebook, Instagram",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.tuasaude.com/causas-da-pele-seca/",
+        "https://www.rededorsaoluiz.com.br/doencas/pele-ressecada",
+        "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-da-pele/dist%C3%BArbios-da-queratiniza%C3%A7%C3%A3o/pele-seca-xerodermia",
+        "https://www.minhavida.com.br/materias/materia-20414",
+        "https://www.nsctotal.com.br/saude/6-formas-de-evitar-o-ressecamento-da-pele",
+        "https://claudia.abril.com.br/beleza/como-diminuir-coceira-ressecamento-e-vermelhidao-da-pele-no-inverno/",
+        "https://www.draglaucialabinas.com.br/cuidados-com-a-pele-seca"
+      ],
+      "notas": "Sem indicar cremes, marcas ou suplementos. Cuidados gerais (banho morno, hidratação, evitar buchas). Citar que pele muito seca persistente pode ligar a hipotireoidismo ou diabetes e merece avaliação médica."
+    },
+    {
+      "keyword": "dor nas costas",
+      "volume": 49500,
+      "competition": "LOW",
+      "cluster": "coluna",
+      "absorve": [
+        "Qual dor nas costas é preocupante?",
+        "Qual órgão pode dar dor nas costas?",
+        "O que é bom para aliviar a dor nas costas?",
+        "Como saber se é dor nas costas ou nos rins?",
+        "Dor nas costas: sinais de alerta"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "clínicas ortopédicas e neurocirurgiões, Terra (2025), ITC Vertebral, Afya, fisioterapia",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://nav.dasa.com.br/blog/dor-nas-costas",
+        "https://www.rededorsaoluiz.com.br/doencas/dor-nas-costas",
+        "https://www.tuasaude.com/dor-nas-costas/",
+        "https://drwilliamzarza.com.br/dor-nas-costas-quando-pode-ser-preocupante/",
+        "https://www.drlucianopellegrino.com.br/dor-nas-costas/",
+        "https://portal.afya.com.br/saude/oms-lanca-manual-com-o-que-funciona-e-nao-funciona-para-dor-nas-costas",
+        "https://www.drfelipecalmon.com.br/o-que-alivia-a-dor-nas-costas"
+      ],
+      "notas": "Não competir com 'dores lombares': este artigo é geral (alta, média, baixa; costas ou rins) e deve linkar para o de dores lombares. Sinais de alerta obrigatórios: dormência ou fraqueza nas pernas, perda de urina ou fezes, febre, dor após queda, dor noturna que não alivia, perda de peso sem causa. Sem indicar medicamentos nem diagnosticar."
     }
   ],
   "descartadas": "Mounjaxi/suplemento/termogênico (volume < 400 ou sem medição), '... 40+' de cauda longa sem volume, 'como emagrecer depois dos 40' (260/mês, concorrência HIGH)."
