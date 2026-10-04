@@ -70,6 +70,9 @@ O HYPD é um conector que pede aprovação a cada chamada (só o usuário muda i
 2. Aba Actions > "Validar Google (SERP) das candidatas" > Run workflow (limite 60, promover = true). Ele checa o Google das candidatas por volume (hoje 177, +80 vindas da ordem de validação), promove as aprovadas à fila com `revisar: true` (e `sensivel: true` se o tema for sensível), roda `validar-pautas.js` e grava no `main`.
 3. Tema sensível, comp. alta e termos amplos ficam FORA dessa rodada automática (validar à mão quando houver alguém no computador).
 
+## Comparação com o topo do Google (como chegar ao top 10)
+`node scripts/comparar-topo.js` (e o workflow **Comparar nossos artigos com o topo do Google**, manual + toda segunda 09:17 UTC) lê as páginas do topo de cada pauta (`topoUrls` em `data/pesquisa/serp-resultados.json` + `fontes` da pauta), mede palavras, H2, imagens/alt, FAQ, título e descrição, e grava em `data/pesquisa/comparacao-topo.md/.json` a mediana do topo, as **lacunas** do nosso artigo (o que melhorar) e as vantagens; para pauta ainda não publicada, a **meta** para publicar. Precisa rodar no GitHub (o contêiner da sessão bloqueia sites de saúde). Teste local sem rede: `--mock scripts/fixtures/comparar-topo-mock.json` (não commitar a saída do mock). Falta: ligar as lacunas ao robô (reescrita automática) e, depois do Search Console, comparar com a posição real.
+
 ## Trava de segurança do robô (04/10/2026)
 O robô publica sozinho qualquer pauta com SERP fácil e fontes; **`revisar: true` sozinho não o impede**. Por isso pautas de tema sensível levam `sensivel: true` além de `revisar: true`, e o `escolherPauta` do `scripts/article-robot.js` **pula** as que têm os dois. Para liberar: revisar a pauta/artigo e apagar `sensivel` e `revisar` em `data/keywords-validated.json`. Hoje bloqueada: ereção matinal. Toda pauta nova de remédio, urgência, sexualidade ou pornografia deve entrar com `sensivel: true`.
 

@@ -1,0 +1,177 @@
+{
+ "https://www.h9j.com.br/blog/como-baixar-o-colesterol/": {
+  "titulo": "Fixture 0",
+  "tituloChars": 55,
+  "descricaoChars": 150,
+  "palavras": 1700,
+  "h2": 8,
+  "h3": 3,
+  "secoes": [
+   "o que é",
+   "causas",
+   "como tratar"
+  ],
+  "imagens": 4,
+  "imagensComAlt": 3,
+  "faq": true,
+  "schemaFaq": false,
+  "linksInternos": 3,
+  "data": "2026-01-10"
+ },
+ "https://www.rededorsaoluiz.com.br/noticias/artigo/como-baixar-o-colesterol-ruim-conheca-10-passos": {
+  "titulo": "Fixture 1",
+  "tituloChars": 55,
+  "descricaoChars": 150,
+  "palavras": 1820,
+  "h2": 9,
+  "h3": 3,
+  "secoes": [
+   "o que é",
+   "causas",
+   "como tratar",
+   "quando procurar um médico"
+  ],
+  "imagens": 5,
+  "imagensComAlt": 3,
+  "faq": false,
+  "schemaFaq": false,
+  "linksInternos": 3,
+  "data": "2026-01-10"
+ },
+ "https://www.tuasaude.com/4-dicas-para-diminuir-o-colesterol-mau/": {
+  "titulo": "Fixture 2",
+  "tituloChars": 55,
+  "descricaoChars": 150,
+  "palavras": 1940,
+  "h2": 10,
+  "h3": 3,
+  "secoes": [
+   "o que é",
+   "causas",
+   "como tratar"
+  ],
+  "imagens": 6,
+  "imagensComAlt": 3,
+  "faq": true,
+  "schemaFaq": false,
+  "linksInternos": 3,
+  "data": "2026-01-10"
+ },
+ "https://socesp.org.br/sala-de-imprensa/press-release/confira-dez-alimentos-que-ajudam-a-reduzir-o-colesterol/": {
+  "titulo": "Fixture 3",
+  "tituloChars": 55,
+  "descricaoChars": 150,
+  "palavras": 2060,
+  "h2": 11,
+  "h3": 3,
+  "secoes": [
+   "o que é",
+   "causas",
+   "como tratar",
+   "quando procurar um médico"
+  ],
+  "imagens": 4,
+  "imagensComAlt": 3,
+  "faq": false,
+  "schemaFaq": false,
+  "linksInternos": 3,
+  "data": "2026-01-10"
+ },
+ "https://nav.dasa.com.br/blog/colesterol-alto": {
+  "titulo": "Fixture 4",
+  "tituloChars": 55,
+  "descricaoChars": 150,
+  "palavras": 2180,
+  "h2": 12,
+  "h3": 3,
+  "secoes": [
+   "o que é",
+   "causas",
+   "como tratar"
+  ],
+  "imagens": 5,
+  "imagensComAlt": 3,
+  "faq": true,
+  "schemaFaq": false,
+  "linksInternos": 3,
+  "data": "2026-01-10"
+ },
+ "https://portal.pucrs.br/noticias/impacto-social/dicas-para-meditar/": {
+  "titulo": "Fixture 0",
+  "tituloChars": 55,
+  "descricaoChars": 150,
+  "palavras": 1700,
+  "h2": 8,
+  "h3": 3,
+  "secoes": [
+   "o que é",
+   "causas",
+   "como tratar"
+  ],
+  "imagens": 4,
+  "imagensComAlt": 3,
+  "faq": true,
+  "schemaFaq": false,
+  "linksInternos": 3,
+  "data": "2026-01-10"
+ },
+ "https://revistagalileu.globo.com/sociedade/comportamento/noticia/2024/10/como-meditar-em-casa-comece-seguindo-estes-7-passos.ghtml": {
+  "titulo": "Fixture 1",
+  "tituloChars": 55,
+  "descricaoChars": 150,
+  "palavras": 1820,
+  "h2": 9,
+  "h3": 3,
+  "secoes": [
+   "o que é",
+   "causas",
+   "como tratar",
+   "quando procurar um médico"
+  ],
+  "imagens": 5,
+  "imagensComAlt": 3,
+  "faq": false,
+  "schemaFaq": false,
+  "linksInternos": 3,
+  "data": "2026-01-10"
+ },
+ "https://www.tuasaude.com/como-meditar/": {
+  "titulo": "Fixture 2",
+  "tituloChars": 55,
+  "descricaoChars": 150,
+  "palavras": 1940,
+  "h2": 10,
+  "h3": 3,
+  "secoes": [
+   "o que é",
+   "causas",
+   "como tratar"
+  ],
+  "imagens": 6,
+  "imagensComAlt": 3,
+  "faq": true,
+  "schemaFaq": false,
+  "linksInternos": 3,
+  "data": "2026-01-10"
+ },
+ "https://www.valesaude.com.br/saude-v/como-meditar-corretamente/": {
+  "titulo": "Fixture 3",
+  "tituloChars": 55,
+  "descricaoChars": 150,
+  "palavras": 2060,
+  "h2": 11,
+  "h3": 3,
+  "secoes": [
+   "o que é",
+   "causas",
+   "como tratar",
+   "quando procurar um médico"
+  ],
+  "imagens": 4,
+  "imagensComAlt": 3,
+  "faq": false,
+  "schemaFaq": false,
+  "linksInternos": 3,
+  "data": "2026-01-10"
+ }
+}

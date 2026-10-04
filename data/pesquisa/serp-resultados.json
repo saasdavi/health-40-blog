@@ -24,7 +24,16 @@
    "Não tenho mais ereções espontâneas",
    "É normal ter ereções durante a noite"
   ],
-  "observacao": "Concorrentes são consultórios de urologia; vídeos de urologistas no YouTube. Resumo da IA cita drluisfernandodip, dredgarsarmento, drarimiotto, uroville, urologistajf, urocentro."
+  "observacao": "Concorrentes são consultórios de urologia; vídeos de urologistas no YouTube. Resumo da IA cita drluisfernandodip, dredgarsarmento, drarimiotto, uroville, urologistajf, urocentro.",
+  "topoUrls": [
+   "https://urologistajf.com.br/erecao-matinal-saude-masculina/",
+   "https://drarimiotto.com.br/erecao-matinal-ausente/",
+   "https://drluisfernandodip.com.br/erecao-matinal-por-que-ela-acontece/",
+   "https://urocentro.com/erecoes-matinais-sao-bom-ou-mau-sinal/",
+   "https://www.uroville.com.br/o-que-e-erecao-matinal/",
+   "https://www.dredgarsarmento.com.br/conteudos/erecao-matinal-o-que-indica-e-quando-o-sumico-merece-investigacao/",
+   "https://www.lucasfragaurologia.com.br/conteudos/erecao-matinal-sumiu-o-que-a-ausencia-de-erecao-espontanea-pode-indicar/"
+  ]
  },
  "alimentos ricos em fibras": {
   "data": "2026-10-04",
@@ -52,6 +61,14 @@
    "Alimentos ricos em fibras insolúveis",
    "Carnes ricas em fibras",
    "Alimentos ricos em fibras para crianças"
+  ],
+  "topoUrls": [
+   "https://diabetes.org.br/fibras-alimentares-o-que-e-importante-saber/",
+   "https://panelinhafit.com.br/blog/alimentos-ricos-em-fibra-e-suas-vantagens",
+   "https://www.enterogermina.com/pt-br/saude-intestinal/dicas-gerais-bem-estar/fibras-alimentares",
+   "https://www.tuasaude.com/frutas-ricas-em-fibras/",
+   "https://www.mahta.bio/blogs/mahta/10-alimentos-ricos-em-fibras-para-melhorar-a-digestao",
+   "https://prodietnutrition.com/blog/hora-do-lanche-alimentos-ricos-fibras-para-levar-na-bolsa/"
   ]
  },
  "alimentos ricos em ferro": {
@@ -69,7 +86,15 @@
    "Qual suco é rico em ferro?",
    "Qual é o legume com mais ferro?"
   ],
-  "relacionadas": []
+  "relacionadas": [],
+  "topoUrls": [
+   "https://menshealth.pt/5810816185/7-alimentos-ricos-em-ferro/",
+   "https://claudia.abril.com.br/saude/10-alimentos-ricos-em-ferro-para-turbinar-seu-cardapio/",
+   "https://oantagonista.com.br/ladooa/variedades/11-alimentos-ricos-em-ferro-para-aumentar-a-imunidade-e-a-disposicao/",
+   "https://www.celeiro.pt/cuide-de-si/temas-de-saude/alimentos-ricos-em-ferro",
+   "https://comida.umcomo.com.br/artigo/receitas-ricas-em-ferro-20207.html",
+   "https://www.tuasaude.com/alimentos-ricos-em-ferro/"
+  ]
  },
  "ritmo circadiano": {
   "data": "2026-10-04",
@@ -97,6 +122,14 @@
    "Ritmo circadiano como regular",
    "Ritmo circadiano planta",
    "Ritmo circadiano pdf"
+  ],
+  "topoUrls": [
+   "https://pt.wikipedia.org/wiki/Ritmo_circadiano",
+   "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-cerebrais-da-medula-espinal-e-dos-nervos/dist%C3%BArbios-do-sono/dist%C3%BArbios-do-sono-ligados-ao-ritmo-circadiano",
+   "https://www.tuasaude.com/ciclo-circadino/",
+   "https://medicina.afya.com.br/blog/ciclo-circadiano-desempenho-nos-estudos",
+   "https://www.bbc.com/portuguese/geral-61548390",
+   "https://www.unimedcampinas.com.br/blog/cuidado-continuo/o-que-e-ciclo-circadiano-e-qual-sua-importancia-na-saude"
   ]
  },
  "hemoglobina glicosilada": {
@@ -117,6 +150,45 @@
    "O que significa hemoglobina glicosilada alta?",
    "Qual a diferença entre hemoglobina glicada e glicose?"
   ],
-  "relacionadas": []
+  "relacionadas": [],
+  "topoUrls": [
+   "https://www.biolabor.com.br/exame/hemoglobina-glicada-hba1c/",
+   "https://www.ident.com.br/ia/pergunta/226596-a-hemoglobina-glicosilada-a1c-hba1c-e-uma-ferramenta",
+   "https://www.doctoralia.com.br/perguntas-respostas/qual-o-valor-maximo-encontrado-no-teste-de-hemoglobina-glicosilada-em-um-diabetico",
+   "https://laboratorioarycosta.com.br/exames/detalhe/619",
+   "https://www.lafelab.com.br/exames/hemoglobina-glicada-por-imunoensaio-sangue-total",
+   "https://www.rededorsaoluiz.com.br/exames-e-procedimentos/analises-clinicas/hemoglobina-glicosilada",
+   "https://nav.dasa.com.br/blog/hemoglobina-glicada"
+  ]
+ },
+ "hemoglobina glicada": {
+  "data": "2026-10-04",
+  "fonte": "HYPD serp_results",
+  "veredito": "canibaliza",
+  "nivel": "FÁCIL",
+  "motivos": [
+   "mesmo assunto de 'hemoglobina glicada' (já na fila): virou palavra de apoio"
+  ],
+  "autoridadesTop5": [],
+  "fracosTop10": 3,
+  "topoDoGoogle": "biolabor.com.br, ident.com.br (Q&A), doctoralia.com.br (2014), laboratorioarycosta.com.br, instagram.com, bioscience.org.br, lafelab.com.br",
+  "aiOverview": true,
+  "perguntas": [
+   "Qual o valor normal da hemoglobina glicosilada?",
+   "Quando a hemoglobina glicada é perigosa?",
+   "O que significa hemoglobina glicosilada alta?",
+   "Qual a diferença entre hemoglobina glicada e glicose?"
+  ],
+  "relacionadas": [],
+  "topoUrls": [
+   "https://www.biolabor.com.br/exame/hemoglobina-glicada-hba1c/",
+   "https://www.ident.com.br/ia/pergunta/226596-a-hemoglobina-glicosilada-a1c-hba1c-e-uma-ferramenta",
+   "https://www.doctoralia.com.br/perguntas-respostas/qual-o-valor-maximo-encontrado-no-teste-de-hemoglobina-glicosilada-em-um-diabetico",
+   "https://laboratorioarycosta.com.br/exames/detalhe/619",
+   "https://www.lafelab.com.br/exames/hemoglobina-glicada-por-imunoensaio-sangue-total",
+   "https://www.rededorsaoluiz.com.br/exames-e-procedimentos/analises-clinicas/hemoglobina-glicosilada",
+   "https://nav.dasa.com.br/blog/hemoglobina-glicada"
+  ],
+  "observacao": "topo checado via 'hemoglobina glicosilada' (mesmo assunto)"
  }
 }
