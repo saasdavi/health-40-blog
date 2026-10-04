@@ -74,7 +74,13 @@ jobs:
             git add .
             git commit -m "🤖 Auto: Daily article production"
             git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
-            git push origin main
+            # outras pessoas/sessões também gravam em main durante a execução: integra antes de enviar (3 tentativas)
+            ok=0
+            for i in 1 2 3; do
+              if git pull --rebase origin main && git push origin main; then ok=1; break; fi
+              echo "⚠️  tentativa $i falhou, repetindo..."; sleep 5
+            done
+            [ "$ok" = 1 ] || { echo "❌ push falhou após 3 tentativas"; exit 1; }
             echo "✅ Artigos publicados!"
           else
             echo "⏸️  Nenhum artigo novo para publicar"
