@@ -334,7 +334,8 @@
         "https://posenato.med.br/blog/sintomas-de-colesterol-alto/",
         "https://saude.novartis.com.br/colesterolalto/quais-os-sinais-e-sintomas-do-colesterol-alto/",
         "https://clinicanutrobarra.com.br/colesterol-alto/"
-      ]
+      ],
+      "notas": "Colesterol alto costuma não dar sintoma: dizer isso com clareza; sem dieta milagrosa, chá ou suplemento; só exame de sangue confirma; orientar médico para decidir tratamento."
     },
     {
       "keyword": "o que é menopausa",
@@ -415,7 +416,8 @@
         "https://www.rededorsaoluiz.com.br/exames-e-procedimentos/analises-clinicas/hdl",
         "https://laboratoriosaogeronimo.com.br/post/colesterol-hdl-para-que-serve-exames-e-como-controlar/266",
         "https://altadiagnosticos.com.br/saude/colesterol-hdl/"
-      ]
+      ],
+      "notas": "Valores de referência variam por laboratório e risco; não prometer \"aumentar HDL\" com alimento ou suplemento; encaminhar ao médico."
     },
     {
       "keyword": "colesterol ldl",
@@ -443,7 +445,8 @@
         "https://www.unimed.coop.br/site/web/cascavel/-/hdl-x-ldl-o-que-saber-sobre-colesterol-para-manter-sua-sa%C3%BAde-card%C3%ADaca",
         "https://labvital.com.br/glossario/o-que-e-colesterol-ldl/",
         "https://labsl.com.br/blog/colesterol-ldl/"
-      ]
+      ],
+      "notas": "Metas de LDL dependem do risco de cada pessoa: dizer que o médico define; sem indicar estatina ou dose; sem dieta milagrosa."
     },
     {
       "keyword": "com quantos anos a mulher entra na menopausa",
@@ -552,7 +555,8 @@
         "https://www.tuasaude.com/alimentos-que-aumentam-a-testosterona/",
         "https://www.saudeamericas.com.br/post/como-aumentar-testosterona-naturalmente/",
         "https://labsl.com.br/blog/aumentar-testosterona-naturamente-2026/"
-      ]
+      ],
+      "notas": "Não prometer aumento de testosterona por alimento; sem suplemento nem reposição como recomendação; exame e médico para sintomas."
     },
     {
       "keyword": "caminhada emagrece",
@@ -1394,7 +1398,9 @@
         "quando o esquecimento é preocupante",
         "quais são os tipos de esquecimento",
         "qual falta de vitamina causa esquecimento",
-        "esquecimento é sinal de TDAH"
+        "esquecimento é sinal de TDAH",
+        "quais são os 4 primeiros sinais do Alzheimer",
+        "perda de memória causas"
       ],
       "serp": {
         "facil": true,
@@ -1405,7 +1411,11 @@
       "fontes": [
         "https://leonardoneurologia.com.br/neurologia/esquecimento-no-idoso",
         "https://www.uol.com.br/vivabem/noticias/redacao/2025/03/11/esquecimento-nao-e-necessariamente-alzheimer-quando-ficar-atento.amp.htm",
-        "https://www.gscuidadoresdeidosos.com.br/esquecimento-natural-da-idade-ou-primeiros-sinais-de-alzheimer-como-diferenciar-e-agir/"
+        "https://www.gscuidadoresdeidosos.com.br/esquecimento-natural-da-idade-ou-primeiros-sinais-de-alzheimer-como-diferenciar-e-agir/",
+        "https://nav.dasa.com.br/blog/problemas-de-memoria",
+        "https://glianeurologia.com.br/blog/perda-de-memoria/",
+        "https://www.saudeamericas.com.br/post/tipos-de-perda-de-memoria/",
+        "https://www.tuasaude.com/causas-da-perda-de-memoria/"
       ],
       "notas": "Não sugerir diagnóstico de Alzheimer/demência; listar o que merece avaliação de neurologista; sem suplemento de memória."
     },

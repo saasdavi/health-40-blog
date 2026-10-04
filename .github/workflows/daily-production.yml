@@ -42,6 +42,10 @@ jobs:
       - name: 🏆 Prateleira de ouro (nível da fila)
         run: node scripts/prateleira.js
 
+      - name: ✅ Validar próximas pautas (regras + fontes online)
+        continue-on-error: true
+        run: node scripts/validar-pautas.js --online --limite 9
+
       - name: 🤖 ARTICLE ROBOT 3/DIA - Fluxo Completo
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
