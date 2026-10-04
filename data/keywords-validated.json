@@ -292,7 +292,9 @@
         "Quais são os sintomas da sarcopenia?",
         "Qual a melhor vitamina para sarcopenia?",
         "Quem tem sarcopenia sente dor?",
-        "O que leva a pessoa a ter sarcopenia?"
+        "O que leva a pessoa a ter sarcopenia?",
+        "perda de massa muscular",
+        "O que fazer para recuperar a perda de massa muscular?"
       ],
       "serp": {
         "facil": true,
@@ -395,7 +397,10 @@
         "O que é o HDL e o LDL?",
         "colesterol hdl baixo",
         "colesterol hdl alto",
-        "como aumentar o HDL"
+        "como aumentar o HDL",
+        "colesterol bom como aumentar",
+        "Qual a fruta que aumenta o HDL?",
+        "Qual vitamina aumenta o HDL?"
       ],
       "serp": {
         "facil": true,
@@ -970,6 +975,229 @@
         "facil": false,
         "nivel": "MÉDIA",
         "topoDoGoogle": "Drauzio, Natura, Tua Saúde, Ducray, Nissei, Einstein, GNDI; marcas de cosmético no topo; testar cauda longa (queda de cabelo causas 3,6 mil)",
+        "aiOverview": true
+      },
+      "fontes": []
+    },
+    {
+      "keyword": "queda de cabelo causas",
+      "volume": 7200,
+      "competition": "MEDIUM",
+      "cluster": "pele-cabelo",
+      "absorve": [
+        "Qual é a falta de vitamina que faz o cabelo cair?",
+        "Quando o cabelo cai muito é sinal de que?",
+        "O que fazer quando o cabelo está caindo muito?",
+        "causas da queda de cabelo",
+        "queda de cabelo excessiva",
+        "queda de cabelo feminino"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "kaliandra (2018), mealthclinic, ducray, agazeta (2018), dramayaramoyses, institutobh, aerp (2020), my-best",
+        "aiOverview": true
+      },
+      "notas": "Não indicar minoxidil, vitamina ou suplemento; só causas e quando procurar dermatologista. Citar 'queda normal' como nas fontes (faixas variam: 50–100, 50–150, 100–120 fios/dia).",
+      "fontes": [
+        "https://www.einstein.br/n/vida-saudavel/queda-de-cabelo-10-perguntas-para-entender-causas-tipos-e-tratamentos",
+        "https://drauziovarella.uol.com.br/geral/queda-de-cabelo-tipos-e-causas-mais-frequentes/",
+        "https://nav.dasa.com.br/blog/queda-de-cabelo",
+        "https://www.tuasaude.com/queda-de-cabelo-o-que-pode-ser/",
+        "https://www.totalmedcare.com.br/queda-de-cabelo-excessiva-o-que-pode-ser/",
+        "https://qualiipanema.com.br/queda-de-cabelo-quando-me-preocupar/"
+      ]
+    },
+    {
+      "keyword": "como controlar a ansiedade",
+      "volume": 12100,
+      "competition": "MEDIUM",
+      "cluster": "saude-mental",
+      "absorve": [
+        "Quanto tempo dura uma crise de ansiedade?",
+        "O que pode piorar a ansiedade?",
+        "Quais são os 7 tipos de ansiedade?",
+        "O que é estresse emocional?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIA-FÁCIL",
+        "topoDoGoogle": "YouTube (Saúde da Mente), CUF.pt, Mayo Clinic News, Einstein, grupo recanto, TJSC (PDF)",
+        "aiOverview": true
+      },
+      "notas": "Não substituir terapia nem medicação; incluir quando procurar ajuda profissional (CVV 188 para crise emocional). Sem promessas de cura.",
+      "fontes": [
+        "https://www.einstein.br/n/vida-saudavel/6-dicas-para-aprender-a-lidar-com-uma-crise-de-ansiedade-e-como-evita-la",
+        "https://www.conexasaude.com.br/blog/como-controlar-a-ansiedade",
+        "https://www.tuasaude.com/7-dicas-para-controlar-a-ansiedade/",
+        "https://www.diagnosticosdobrasil.com.br/artigo/aliviar-os-sintomas-da-ansiedade",
+        "https://www.cuf.pt/saude-a-z/ansiedade",
+        "https://newsnetwork.mayoclinic.org/pt/2025/04/17/onze-dicas-para-lidar-com-um-transtorno-de-ansiedade/"
+      ]
+    },
+    {
+      "keyword": "visão embaçada",
+      "volume": 9900,
+      "competition": "LOW",
+      "cluster": "olhos",
+      "absorve": [
+        "Qual falta de vitamina causa visão embaçada?",
+        "O que fazer para melhorar a visão embaçada?",
+        "Quais são os primeiros sintomas de perda de visão?",
+        "visão turva",
+        "visão embaçada de repente"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "amorsaude (2026), Everyday Health, allwood (óculos), Facebook, blicken, VER Hospital de Olhos (2021), Instagram",
+        "aiOverview": true
+      },
+      "notas": "Seção de alerta obrigatória: início súbito, dor, olho vermelho, cortina/flashes, fraqueza de um lado = pronto-socorro. Não indicar colírio nem vitamina.",
+      "fontes": [
+        "https://nav.dasa.com.br/blog/visao-turva",
+        "https://www.cemahospital.com.br/blog/visao-embacada",
+        "https://coioftalmologia.com.br/blog/saude-ocular/visao-embacada/",
+        "https://centrodecatarata.com.br/visao-embacada/",
+        "https://hospdeolhos.com.br/noticias/por-que-visao-fica-embacada-de-repente",
+        "https://blog.amorsaude.com.br/visao-embacada-de-repente/"
+      ]
+    },
+    {
+      "keyword": "sintomas de diabetes",
+      "volume": 60500,
+      "competition": "LOW",
+      "cluster": "diabetes",
+      "absorve": [
+        "Quais são os 7 sinais de diabetes?",
+        "Quem tem diabetes sente o quê no corpo?",
+        "Que a gente sente quando a glicose está alta?",
+        "Como desconfiar de diabetes?",
+        "sintomas de diabetes tipo 2",
+        "sintomas de pré diabetes no corpo"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIA-FÁCIL",
+        "topoDoGoogle": "valemaissaude (Novartis), afya, vitacheckup, Facebook, Rede D'Or, onetouch.pt, gndi",
+        "aiOverview": true
+      },
+      "notas": "Não diagnosticar; só exame de sangue confirma (jejum ≥126 mg/dL em duas ocasiões, como nas fontes). Diferenciar tipo 1 (rápido) e tipo 2 (lento, às vezes sem sintoma). Sem indicar remédio.",
+      "fontes": [
+        "https://medicina.afya.com.br/blog/diabetes-sintomas",
+        "https://www.valemaissaude.com.br/materia/sintomas-do-diabetes-mellitus-tipo-2",
+        "https://www.rededorsaoluiz.com.br/doencas/diabetes",
+        "https://vitacheckup.com.br/2025/12/sintomas-de-diabetes/",
+        "https://www.gndi.com.br/w/blog-da-saude/diabetes-tipo-1-e-2-sintomas-e-cuidados",
+        "https://www.tuasaude.com/como-identificar-os-primeiros-sintomas-da-diabetes/"
+      ]
+    },
+    {
+      "keyword": "ferro baixo sintomas",
+      "volume": 3600,
+      "competition": "LOW",
+      "cluster": "nutricao",
+      "absorve": [
+        "O que acontece quando o ferro está muito baixo?",
+        "Como repor o ferro rapidamente?",
+        "O que rouba o ferro do organismo?",
+        "Qual nível de ferro é preocupante?",
+        "ferritina baixa"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "sanarmed, diariodonordeste (2023), Instagram (vários), Facebook",
+        "aiOverview": true
+      },
+      "notas": "Não indicar suplemento de ferro nem dose (risco de excesso); investigar causa (perda menstrual, absorção) com médico. Exame: ferritina/hemograma.",
+      "fontes": [
+        "https://www.tuasaude.com/sintomas-de-falta-de-ferro/",
+        "https://drauziovarella.uol.com.br/coluna-da-mariana-varella/6-sinais-de-deficiencia-de-ferro/",
+        "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-nutricionais/minerais/defici%C3%AAncia-de-ferro",
+        "https://www.megaimagem.com.br/blog/falta-de-ferro-conheca-os-impactos-na-saude-ao-longo-do-tempo/",
+        "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/nayana-siebra/especialista-lista-8-sintomas-que-indicam-anemia-ferropriva-confira-1.3335992"
+      ]
+    },
+    {
+      "keyword": "exercícios para idosos",
+      "volume": 4400,
+      "competition": "LOW",
+      "cluster": "musculo-e-forca",
+      "absorve": [
+        "Qual é a planilha de treino para idosos?",
+        "Quais exercícios posso fazer na cama?",
+        "O que é bom para fortalecer as pernas de um idoso?",
+        "exercício para idosos em casa",
+        "caminhada e equilíbrio"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "YouTube, clinicalasensitive (2026), avidaplena (2021), albamed, Pinterest, institutodelongevidade",
+        "aiOverview": true
+      },
+      "notas": "Enquadrar para 50+/60+; avaliação médica antes de começar; segurança (apoio, sapato, ambiente). Sem prometer prevenção garantida de quedas.",
+      "fontes": [
+        "https://www.tuasaude.com/os-melhores-exercicios-para-a-terceira-idade/",
+        "https://blog.ciaathletica.com.br/bem-estar/platinum/exercicio-para-idosos/",
+        "https://www.cebap.org.br/exercicio-em-casa-5-atividades-para-idosos-praticarem-com-seguranca-e-autonomia",
+        "https://blog.clinicalasensitive.com.br/post/exercicios-de-fisioterapia-para-idosos-guia-pratico-seguranca-mobilidade",
+        "https://albamed.com.br/exercicios-mobilidade-idosos/"
+      ]
+    },
+    {
+      "keyword": "insônia causas",
+      "volume": 3600,
+      "competition": "LOW",
+      "cluster": "sono",
+      "absorve": [],
+      "serp": {
+        "facil": false,
+        "nivel": "MÉDIA",
+        "topoDoGoogle": "Nav Dasa, GNDI, Einstein, araujo, Alta, Drauzio, Pfizer, CIPES",
+        "aiOverview": true
+      },
+      "fontes": []
+    },
+    {
+      "keyword": "insônia o que fazer",
+      "volume": 1900,
+      "competition": "MEDIUM",
+      "cluster": "sono",
+      "absorve": [],
+      "serp": {
+        "facil": false,
+        "nivel": "MÉDIA-DIFÍCIL",
+        "topoDoGoogle": "Sírio-Libanês, Einstein, Unimed, Tua Saúde, GNDI, Pfizer, Drauzio",
+        "aiOverview": true
+      },
+      "fontes": []
+    },
+    {
+      "keyword": "perda de massa muscular",
+      "volume": 4400,
+      "competition": "LOW",
+      "cluster": "musculo-e-forca",
+      "absorve": [],
+      "serp": {
+        "facil": false,
+        "nivel": "MÉDIA",
+        "topoDoGoogle": "Sírio-Libanês, Tua Saúde, Dasa, Abbott, Drauzio, BBC; mesma intenção de 'o que é sarcopenia' (canibaliza)",
+        "aiOverview": true
+      },
+      "fontes": []
+    },
+    {
+      "keyword": "colesterol bom como aumentar",
+      "volume": 2400,
+      "competition": "LOW",
+      "cluster": "colesterol",
+      "absorve": [],
+      "serp": {
+        "facil": false,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Unit, Folha Vitória, Notícias ao Minuto, Minha Vida (2014), G1 (2016); mesma intenção de 'colesterol hdl' (canibaliza)",
         "aiOverview": true
       },
       "fontes": []
