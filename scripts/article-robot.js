@@ -114,7 +114,11 @@ class ArticleRobot {
         const site = (html.match(/<meta[^>]+property=["']og:site_name["'][^>]+content=["']([^"']+)["']/i) || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:site_name["']/i) || [])[1];
         // Subtítulos da página: mostram o que o concorrente bem posicionado cobre (roteiro de seções, não fonte de fatos)
         const topicos = [...html.matchAll(/<h[23][^>]*>([\s\S]*?)<\/h[23]>/gi)].map((m) => m[1].replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim()).filter((t) => t.length >= 8 && t.length <= 110 && !/leia (também|mais)|compartilh|coment[aá]rio|newsletter|siga|inscreva|publicidade|cookies|menu|pesquis/i.test(t)).slice(0, 14);
-        ok.push({ title, nome: NOMES_FONTE[host] || (site && site.trim().slice(0, 60)) || host, url, texto: texto.slice(0, 7000), topicos });
+        // Sinais de SEO da página (referência do que está no topo): título, descrição, tamanho, imagens e alt
+        const meta = (html.match(/<meta[^>]+name=["']description["'][^>]+content=["']([^"']*)["']/i) || html.match(/<meta[^>]+content=["']([^"']*)["'][^>]+name=["']description["']/i) || [])[1] || '';
+        const imgs = [...html.matchAll(/<img\b[^>]*>/gi)].map((m) => m[0]);
+        const seo = { titulo: title, descricao: meta.trim(), palavras: texto.split(/\s+/).length, imagens: imgs.length, imagensComAlt: imgs.filter((t) => /\balt=["'][^"']{8,}["']/i.test(t)).length, faq: /perguntas frequentes|\bfaq\b/i.test(html) };
+        ok.push({ title, nome: NOMES_FONTE[host] || (site && site.trim().slice(0, 60)) || host, url, texto: texto.slice(0, 7000), topicos, seo });
         console.log(`  📄 fonte lida (${texto.length} chars): ${url}`);
       } catch (e) { console.log(`  ⚠️  fonte inacessível (${e.message}): ${url}`); }
     }
@@ -178,6 +182,14 @@ class ArticleRobot {
 
 PALAVRA-CHAVE PRINCIPAL: "${p.keyword}" (${p.volume} buscas/mês no Brasil). Uma pauta = uma intenção = uma URL.
 ${p.absorve?.length ? `Variações que viram SEÇÕES H2 deste mesmo artigo (não artigos novos): ${p.absorve.join('; ')}.` : ''}
+${(() => {
+      const seo = fontesLidas.map((f) => f.seo).filter(Boolean);
+      if (!seo.length) return '';
+      const pal = seo.map((x) => x.palavras).sort((a, b) => a - b);
+      const mediana = pal[Math.floor(pal.length / 2)];
+      const alvo = Math.min(1800, Math.max(1300, Math.round(mediana * 1.1 / 50) * 50));
+      return `REFERÊNCIA DE SEO (páginas do topo do Google; o seu artigo precisa ser melhor, sem copiar): ${seo.map((x) => `"${x.titulo.slice(0, 70)}" (~${x.palavras} palavras, ${x.imagens} imagens, ${x.imagensComAlt} com alt${x.faq ? ', tem FAQ' : ''})`).join(' | ')}. Meta: cobrir tudo que elas cobrem e ser mais claro e mais seguro; mire cerca de ${alvo} palavras (nunca passe de 1.800). TITLE e DESCRIPTION devem ser diferentes dos títulos e descrições delas, com a palavra-chave e um benefício concreto para o leitor. Cada ALT descreve a cena e, quando natural, usa uma variação da palavra-chave (sem repetir o alt de outra imagem).`;
+    })()}
 ${(() => { const t = [...new Set(fontesLidas.flatMap((f) => f.topicos || []))].slice(0, 24); return t.length ? `Assuntos que as páginas mais bem posicionadas no Google cobrem (use como roteiro para o artigo ser tão completo quanto elas; escreva uma seção só se o assunto estiver nos TRECHOS DAS FONTES, nunca copie títulos nem frases): ${t.join(' | ')}.` : ''; })()}
 
 REGRAS (padrão Mente Curiosa):
