@@ -23,6 +23,8 @@ const ARTICLES_FILE = path.join(__dirname, '../data/articles.json');
 const KEYWORDS_FILE = path.join(__dirname, '../data/keywords-validated.json');
 
 const BATCH_SIZE = Number(process.env.BATCH_SIZE || 1);
+// Teto de publicações por dia (dia de Brasília). Padrão 3: cada execução agendada faz 1, e nenhuma execução (manual ou repetida) passa de 3 no dia.
+const DAILY_LIMIT = Number(process.env.DAILY_LIMIT || 3);
 const WRITER_MODEL = process.env.ROBOT_MODEL || 'claude-haiku-4-5-20251001';
 const VALIDATOR_MODEL = process.env.VALIDATOR_MODEL || 'claude-haiku-4-5-20251001';
 const MIN_SCORE = 80;
@@ -97,7 +99,15 @@ class ArticleRobot {
     const saiu = (kw) => publicados.some(a => (a.primaryKeyword || '').toLowerCase() === String(kw || '').toLowerCase());
     const espera = (k) => (k.papel === 'satelite' && k.pilar && !saiu(k.pilar) ? 1 : 0);
     livres.sort((a, b) => espera(a) - espera(b) || (a.cluster === ultima ? 1 : 0) - (b.cluster === ultima ? 1 : 0) || b.volume - a.volume);
-    return livres.slice(0, BATCH_SIZE);
+    return livres.slice(0, Math.min(BATCH_SIZE, this.restanteHoje()));
+  }
+
+  // Quantos artigos ainda cabem hoje (dia de Brasília, UTC-3) pelo teto DAILY_LIMIT
+  restanteHoje() {
+    const dia = (iso) => new Date(new Date(iso).getTime() - 3 * 3600e3).toISOString().slice(0, 10);
+    const hoje = dia(new Date().toISOString());
+    const feitos = this.db.articles.filter(a => a.status === 'published' && a.publishedAt && dia(a.publishedAt) === hoje).length;
+    return Math.max(0, DAILY_LIMIT - feitos);
   }
 
   artigoPorKeyword(kw) {
@@ -489,6 +499,7 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
   async executar() {
     if (!process.env.ANTHROPIC_API_KEY) throw new Error('ANTHROPIC_API_KEY ausente');
     console.log(`\n🤖 ARTICLE ROBOT — ${new Date().toISOString()}`);
+    if (this.restanteHoje() === 0) { console.log(`⏸️  Teto do dia atingido (${DAILY_LIMIT} artigos publicados hoje). Nada a fazer.`); return this.stats; }
     const pauta = this.escolherPauta();
     if (!pauta.length) { console.error('❌ FILA VAZIA: não há palavra validada livre em data/keywords-validated.json. Adicione palavras (volume + SERP fácil + fontes).'); process.exitCode = 1; return this.stats; }
 

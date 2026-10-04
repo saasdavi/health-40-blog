@@ -76,6 +76,9 @@ O HYPD é um conector que pede aprovação a cada chamada (só o usuário muda i
 ## Plano editorial de 12 meses (mapa)
 `node scripts/plano-editorial.js` gera `data/plano-editorial.json` e `.md`: 365 dias x 3 = 1.095 espaços a partir de 05/10/2026, sem repetir o mesmo cluster em espaços seguidos. Camadas (04/10): **63 validadas (6%)**, 175 a checar no Google (16%), 711 a validar (65%, grupos da ordem de validação), 146 vagas (13%, falta levantar palavras). Só 'validada' publica sozinha; o plano é um MAPA. Rodar de novo a cada rodada de validação: as camadas migram de 'a validar' para 'validada'. As vagas indicam onde levantar mais temas (últimos meses).
 
+## Teto de 3 artigos por dia
+Cada execução agendada faz 1 artigo (`BATCH_SIZE` padrão 1, 3 execuções por dia). Além disso o robô tem um **teto diário**: `DAILY_LIMIT` (padrão 3, dia de Brasília). Se já foram publicados 3 no dia, a execução termina sem erro ("Teto do dia atingido"), mesmo que alguém dispare manualmente com lote maior. Mudar o ritmo no futuro = mudar `DAILY_LIMIT` e o número de execuções do workflow.
+
 ## Trava de segurança do robô (04/10/2026)
 O robô publica sozinho qualquer pauta com SERP fácil e fontes; **`revisar: true` sozinho não o impede**. Por isso pautas de tema sensível levam `sensivel: true` além de `revisar: true`, e o `escolherPauta` do `scripts/article-robot.js` **pula** as que têm os dois. Para liberar: revisar a pauta/artigo e apagar `sensivel` e `revisar` em `data/keywords-validated.json`. Hoje bloqueada: ereção matinal. Toda pauta nova de remédio, urgência, sexualidade ou pornografia deve entrar com `sensivel: true`.
 
