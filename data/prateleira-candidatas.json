@@ -116,6 +116,96 @@
       "volume": 3600,
       "cluster": "musculo",
       "status": "sem-serp"
+    },
+    {
+      "keyword": "alimentos ricos em fibras",
+      "volume": 49500,
+      "cluster": "alimentacao",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "alimentos ricos em ferro",
+      "volume": 40500,
+      "cluster": "alimentacao",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "ácido fólico para que serve",
+      "volume": 33100,
+      "cluster": "nutricao",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "alongamento",
+      "volume": 33100,
+      "cluster": "exercicio",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "exame de próstata",
+      "volume": 18100,
+      "cluster": "prostata",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "artrite reumatoide sintomas",
+      "volume": 14800,
+      "cluster": "articulacoes",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "gama gt alto",
+      "volume": 14800,
+      "cluster": "exames",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "ciática",
+      "volume": 12100,
+      "cluster": "coluna",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "tgo e tgp altos",
+      "volume": 8100,
+      "cluster": "exames",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "falta de energia",
+      "volume": 8100,
+      "cluster": "sintomas",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "alimentos ricos em proteína",
+      "volume": 18100,
+      "cluster": "alimentacao",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "alimentos ricos em magnésio",
+      "volume": 12100,
+      "cluster": "alimentacao",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "triglicerídeos o que é",
+      "volume": 18100,
+      "cluster": "exames",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "rugas",
+      "volume": 8100,
+      "cluster": "pele-cabelo",
+      "status": "sem-serp"
+    },
+    {
+      "keyword": "hipertensão arterial",
+      "volume": 40500,
+      "cluster": "coracao",
+      "status": "sem-serp"
     }
   ],
   "semDemanda": "Frases longas do kit com volume < 200/mês no Google BR (não viram artigo próprio; entram como H2 de artigo-mãe): como perder barriga depois dos 40 (110), musculação depois dos 40 (30), treino de força para iniciantes (20), hipertrofia depois dos 40 (10), alimentos para reduzir gordura visceral (10), efeito platô emagrecimento (210)",
@@ -134,6 +224,11 @@
       "keyword": "gordura abdominal",
       "volume": 3600,
       "motivo": "Einstein, BBC e Drogasil no topo e volume baixo"
+    },
+    {
+      "keyword": "glaucoma sintomas",
+      "volume": 22200,
+      "motivo": "Rede D'Or, Einstein, Tua Saúde e hospitais de olhos dominam; tema com crise de emergência"
     }
   ]
 }

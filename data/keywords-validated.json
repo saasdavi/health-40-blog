@@ -1543,6 +1543,251 @@
         "https://mmiclinic.com.br/suor-noturno/"
       ],
       "notas": "Sinais de alerta: febre, perda de peso, gânglios, tosse; sem aprofundar menopausa (canibaliza 'calores da menopausa')."
+    },
+    {
+      "keyword": "labirintite",
+      "volume": 110000,
+      "competition": "LOW",
+      "cluster": "ouvido-equilibrio",
+      "absorve": [
+        "a labirintite é uma doença",
+        "qual é o termo técnico para tontura",
+        "o que causa tonturas",
+        "como faz para curar labirintite",
+        "labirintite sintomas",
+        "labirintite emocional"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIO",
+        "topoDoGoogle": "Clínica de otorrino, otoneuro.med.br, Tua Saúde (2 páginas), YouTube, Conecta Médico, Benegrip",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.einstein.br/n/glossario-de-saude/labirintite",
+        "https://www.valesaude.com.br/doencas-e-sintomas/labirintite/",
+        "https://drauziovarella.uol.com.br/doencas-e-sintomas/labirintite/",
+        "https://www.tuasaude.com/labirintite/",
+        "https://otoneuro.med.br/labirintite-existe-mesmo-entenda-o-termo-correto/",
+        "https://conectamedico.com.br/blog/doencas-e-condicoes/labirintite-causas-sintomas-e-como-tratar-com-seguranca/"
+      ],
+      "notas": "Explicar que labirintite verdadeira é rara e o termo é usado para qualquer tontura; sem medicamento; ligar com 'tontura ao levantar'."
+    },
+    {
+      "keyword": "cortisol alto",
+      "volume": 60500,
+      "competition": "LOW",
+      "cluster": "hormonios",
+      "absorve": [
+        "o que é bom para baixar o cortisol alto",
+        "quais são os 7 sinais de cortisol alto",
+        "que vitamina regula o cortisol",
+        "o que faz o cortisol aumentar"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIO",
+        "topoDoGoogle": "Vencer o Câncer, Exmed, Farmácias Nissei, Hermes Pardini, Unimed, Droga Raia; sem gov",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://vencerocancer.org.br/saude/cortisol-alto/",
+        "https://www.tuasaude.com/cortisol-alto/",
+        "https://www.hermespardini.com.br/blog/cortisol",
+        "https://www.farmaciasnissei.com.br/blog/cortisol",
+        "https://www.unimed.coop.br/site/web/cerrado/-/seu-corpo-em-alerta-o-que-o-cortisol-faz-por-voce-e-contra-voce",
+        "https://www.exmed.com.br/blog/dicas/cortisol-alto-o-que-pode-ser-e-sintomas/"
+      ],
+      "notas": "Sem remédio para cortisol nem suplemento 'regulador'; não confundir estresse com síndrome de Cushing (rara); exame com endocrinologista."
+    },
+    {
+      "keyword": "varizes",
+      "volume": 49500,
+      "competition": "LOW",
+      "cluster": "circulacao",
+      "absorve": [
+        "como saber se são vasinhos ou varizes",
+        "quais são os sintomas de varizes inflamadas",
+        "o que fazer quando tem varizes nas pernas",
+        "como tratar varizes"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Cuidados Pela Vida, Angioclam, Medicina em Foco, Clínica Zignani, Clinifemina, Hospital da Luz (PT)",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-do-cora%C3%A7%C3%A3o-e-dos-vasos-sangu%C3%ADneos/dist%C3%BArbios-venosos/varizes",
+        "https://bvsms.saude.gov.br/varizes/",
+        "https://sbacv.org.br/varizes/",
+        "https://nav.dasa.com.br/blog/varizes",
+        "https://baraovascular.com.br/todos-os-tratamentos/o-que-sao-varizes/",
+        "https://emfoco.med.br/varizes-e-vasinhos-saiba-a-diferenca-e-busque-ajuda/"
+      ],
+      "notas": "Sem preço nem promessa de 'eliminar em 7 dias'; citar meias de compressão só como as fontes; sinais de trombose vão para 'inchaço nas pernas'."
+    },
+    {
+      "keyword": "prisão de ventre",
+      "volume": 33100,
+      "competition": "LOW",
+      "cluster": "digestao",
+      "absorve": [
+        "o que fazer para tirar prisão de ventre",
+        "qual é o sintoma da prisão de ventre",
+        "quanto tempo é normal ter prisão de ventre",
+        "como limpar o intestino de fezes acumuladas rápido"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIO",
+        "topoDoGoogle": "Drauzio Varella no topo, Rede D'Or, Gastroen, Nav Dasa, clínicas e Hepatogastro",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://drauziovarella.uol.com.br/doencas-e-sintomas/prisao-de-ventre-constipacao-intestinal/",
+        "https://www.rededorsaoluiz.com.br/doencas/prisao-de-ventre",
+        "https://nav.dasa.com.br/blog/prisao-de-ventre",
+        "https://nav.dasa.com.br/blog/constipacao",
+        "https://gastroen.com.br/prisao-de-ventre-causas-sintomas-e-solucoes/",
+        "https://hepatogastro.com.br/nao-sabe-como-evitar-a-prisao-de-ventre-confira-5-dicas/"
+      ],
+      "notas": "Sinais de alerta: sangue nas fezes, dor forte, perda de peso; sem laxante nem 'limpeza' de intestino."
+    },
+    {
+      "keyword": "síndrome do intestino irritável",
+      "volume": 33100,
+      "competition": "MEDIUM",
+      "cluster": "digestao",
+      "absorve": [
+        "como identificar a síndrome do intestino irritável",
+        "o que não pode comer na síndrome do intestino irritável",
+        "quanto tempo dura uma crise do intestino irritável",
+        "dieta low fodmap"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIO",
+        "topoDoGoogle": "SPX Imagem, Amil Black, Doclist, blogs de gastro; Drauzio só na IA",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://drauziovarella.uol.com.br/doencas-e-sintomas/sindrome-do-intestino-irritavel/",
+        "https://altadiagnosticos.com.br/saude/sindrome-do-intestino-irritavel/",
+        "https://nav.dasa.com.br/blog/sindrome-do-intestino-irritavel",
+        "https://fbg.org.br/revista-fbg/2025/07/07/sindrome-do-intestino-irritavel/",
+        "https://spximagem.com.br/sindrome-do-intestino-irritavel/",
+        "https://doclist.com.br/saude/sindrome-do-intestino-irritavel"
+      ],
+      "notas": "Diagnóstico é do médico (critérios de Roma); dieta low FODMAP só com acompanhamento; sem remédio."
+    },
+    {
+      "keyword": "moscas volantes",
+      "volume": 22200,
+      "competition": "LOW",
+      "cluster": "visao",
+      "absorve": [
+        "o que causa o aparecimento de moscas volantes",
+        "o que fazer para eliminar as moscas volantes",
+        "é perigosa mosca volante",
+        "é possível curar moscas volantes"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Blogs de oftalmologistas, Instagram, Facebook, YouTube; sem portal grande no topo",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://cbv.med.br/oftalmologia/moscas-volantes-e-flashes/",
+        "https://www.msdmanuals.com/pt/profissional/dist%C3%BArbios-oftalmol%C3%B3gicos/sintomas-de-dist%C3%BArbios-oft%C3%A1lmicos/moscas-volantes",
+        "https://drauziovarella.uol.com.br/oftalmologia/problemas-da-visao-o-que-sao-moscas-volantes/",
+        "https://coioftalmologia.com.br/blog/doencas-e-condicoes/o-que-sao-moscas-volantes/",
+        "https://corv.com.br/moscas-volantes-nos-olhos/",
+        "https://clinicaqueiroz.com.br/blog/moscas-volantes-e-flashes-de-luz-quando-e-normal-e-quando-e-risco-para-a-retina"
+      ],
+      "notas": "Sinais de alerta: chuva de pontos, flashes, sombra de cortina = urgência (descolamento de retina); sem 'eliminar' em casa."
+    },
+    {
+      "keyword": "noctúria",
+      "volume": 22200,
+      "competition": "LOW",
+      "cluster": "urinario",
+      "absorve": [
+        "é normal urinar 4 vezes durante a noite",
+        "qual remédio é bom para noctúria",
+        "como combater a noctúria",
+        "urinar muito à noite"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "GPnotebook, Daniel Hampl, Instagram, Renascença (PT), Urology Care; sem portal forte",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.rededorsaoluiz.com.br/doencas/nocturia",
+        "https://drauziovarella.uol.com.br/doencas-e-sintomas/nocturia/",
+        "https://www.einstein.br/n/vida-saudavel/nocturia-acordar-varias-vezes-para-urinar-a-noite-afeta-a-qualidade-do-sono",
+        "https://drpaulomaron.com.br/nocturia/",
+        "https://drleonardonogueira.com.br/blog/o-que-e-nocturia/",
+        "https://danielhampl.com.br/nocturia-acordar-para-fazer-xixi-durante-a-noite/"
+      ],
+      "notas": "Sem remédio; falar de hábitos e investigação (próstata, diabetes, apneia); linkar com 'próstata aumentada'."
+    },
+    {
+      "keyword": "ureia alta",
+      "volume": 22200,
+      "competition": "LOW",
+      "cluster": "exames",
+      "absorve": [
+        "qual é o valor da ureia preocupante",
+        "o que faz para baixar a ureia",
+        "o que não pode comer com ureia alta",
+        "qual alimento faz subir a ureia"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "LabVital (3 páginas), Instagram, Facebook, YouTube; sem portal grande",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://nefroclinicas.com.br/blog/o-que-e-ureia-o-que-acontece-quando-ela-esta-alta-e-qual-o-valor-adequado",
+        "https://nav.dasa.com.br/blog/ureia-alta",
+        "https://www.tuasaude.com/ureia-alta/",
+        "https://www.rededorsaoluiz.com.br/richet/exames-e-procedimentos/analises-clinicas/ureia",
+        "https://laboratoriosaogeronimo.com.br/post/exame-de-ureia-tudo-o-que-voce-precisa-saber/283",
+        "https://www.s2medica.com.br/blogs/ureia-alta-entenda-o-que-indica-e-quando-se-preocupar"
+      ],
+      "notas": "Resultado isolado não fecha diagnóstico; avaliar com creatinina; não restringir proteína por conta própria; linkar com 'creatinina alta'."
+    },
+    {
+      "keyword": "hemograma completo",
+      "volume": 60500,
+      "competition": "LOW",
+      "cluster": "exames",
+      "absorve": [
+        "quais doenças o hemograma detecta",
+        "qual é o valor normal do hemograma completo",
+        "quando o resultado do hemograma é preocupante",
+        "passo a passo para interpretar um hemograma"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "LabVital (5 páginas), Fleming, Laboratório Vitória, Saúde iD",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://nav.dasa.com.br/blog/hemograma-completo",
+        "https://altadiagnosticos.com.br/saude/hemograma-completo/",
+        "https://www.amaissaude.com.br/sp/noticias/hemograma-completo",
+        "https://drconsulta.com/conteudo/exame-hemograma-completo/",
+        "https://sanarmed.com/exames/hemograma/",
+        "https://fleminglaboratorio.com/glossario/passo-a-passo-interpretar-hemograma-completo/"
+      ],
+      "notas": "Valores de referência variam por laboratório; não interpretar resultado individual; sem preço."
     }
   ],
   "descartadas": "Mounjaxi/suplemento/termogênico (volume < 400 ou sem medição), '... 40+' de cauda longa sem volume, 'como emagrecer depois dos 40' (260/mês, concorrência HIGH)."
