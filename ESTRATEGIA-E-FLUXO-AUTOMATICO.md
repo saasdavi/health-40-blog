@@ -197,7 +197,7 @@ Modelo: cada subcategoria é uma **torre**. A **pauta-pilar** é o termo amplo d
 | Pautas validadas e livres (fila do robô) | **64** (≈ 21 dias) |
 | Artigos já publicados | 7 |
 | Candidatas com volume, aguardando o Google | 97 |
-| Palavras no banco com volume medido | 2337 (fila 37, candidata 82, absorvida 12, filtrada 51, banco 2155; 81 marcadas como sensíveis) |
+| Palavras no banco com volume medido | 3474 (fila 37, candidata 82, absorvida 12, filtrada 52, banco 3291; 93 sensíveis) |
 | Pautas livres com `revisar: true` (revisão humana pendente) | 4 |
 | Faltam para a meta de 12 meses | 1031 |
 
@@ -224,3 +224,20 @@ Medidas 49 frases por ângulo; 23 voltaram com volume (as formais/compostas volt
 - **NoFap** (~4.400 por mês típico; o 14.800 do HYPD vem de um pico de 135.000 em set/2025 e 18.100 em ago/2026): pauta própria possível, com cuidado.
 - **Ângulos sem volume mensurável:** pornografia e ereção, e disfunção erétil, e libido, terapia, controle parental, culpa/vergonha. Voltaram sem dado; ficam como subtítulos do pilar de vício, não como pauta.
 Todas as 23 frases estão no banco (`fonte: hypd-angulos-pornografia`) com a marca `sensivel: sexualidadeCientifica`. Falta checar o Google antes de promover à fila.
+
+## 17. Inventário de dados (tudo de pesquisa fica no repositório; nada se joga fora)
+
+| Arquivo | O que guarda |
+|---|---|
+| `data/pesquisa/banco-de-palavras.json` | todas as palavras com volume medido (3474): palavra, volume, competição, fonte, categoria, status, marca `sensivel` |
+| `data/pesquisa/planejador-faixas.json` + `data/pesquisa/planejador/*.tsv` | faixas do Planejador (piso/teto) e os CSVs originais em UTF-8 |
+| `data/pesquisa/serp-resultados.json` | checagens do Google: topo, autoridades, perguntas, buscas relacionadas, veredito |
+| `data/pesquisa/ideias-do-google.json` | perguntas e buscas relacionadas do Google, ainda sem volume (para medir) |
+| `data/pesquisa/angulos.json` | tema -> ângulos -> volume do grupo e decisão (disfunção erétil, pornografia científica) |
+| `data/pesquisa/ordem-de-validacao.md/.json` | todas as palavras agrupadas e ordenadas: o que validar primeiro |
+| `data/pesquisa/filtros.json` | o que excluir, o que é sensível e o histórico de decisões |
+| `data/pesquisa/lotes/` | listas geradas e listas do ChatGPT (ex.: disfunção erétil, 421 frases ainda não medidas em lote) |
+| `data/keywords-validated.json` | fila de pautas validadas (robô) |
+| `data/prateleira-candidatas.json` | candidatas com volume aguardando o Google |
+
+**Honestidade sobre o banco:** 'volume medido' quer dizer que o Google tem número para a frase, não que cada frase vire artigo. Faixas do banco: >= 10 mil: 188 | 1 mil a 9.999: 643 | 100 a 999: 983 | 10 a 99: 1660. Muitas frases são grafias repetidas ou ideias relacionadas fora do foco (ex.: 'meditação ... louise hay'); a demanda que conta é a do GRUPO por intenção (regra de 1.000 somadas), validada no Google.

@@ -1,0 +1,93 @@
+{
+ "descricao": "Temas -> ângulos -> demanda medida. Cada ângulo é uma intenção de busca diferente; soma do grupo vale para a regra de 1.000. Atualizar a cada tema.",
+ "temas": {
+  "disfunção erétil": {
+   "data": "2026-10-04",
+   "politica": "informativo; sem remédio/dose/marca; alerta coração/diabetes; orientar urologista",
+   "angulos": [
+    {
+     "angulo": "ereção matinal (pilar)",
+     "volumeGrupo": 2340,
+     "principal": "ereção matinal 1.300",
+     "absorve": [
+      "acordar sem ereção 140",
+      "ereção durante o sono 50",
+      "falta de ereção matinal 260",
+      "ereções matinais 90"
+     ],
+     "decisao": "pauta validada no Google (fila, revisar)"
+    },
+    {
+     "angulo": "ereção fraca / não consigo manter",
+     "volumeGrupo": 2690,
+     "principal": "ereções fracas o que fazer 1.900; ereção fraca 480; não consigo manter ereção e ter ereção (faixa 100–1 mil)",
+     "decisao": "candidata; falta checar o Google"
+    },
+    {
+     "angulo": "ejaculação retardada",
+     "volumeGrupo": 4040,
+     "principal": "ejaculação retardada 1.000 (+16 variações)",
+     "decisao": "candidata; falta checar o Google; frases com remédio entram como sensíveis"
+    },
+    {
+     "angulo": "ansiedade de desempenho",
+     "volumeGrupo": 1050,
+     "principal": "ansiedade de desempenho 1.000; faixa 100–1 mil para 'sexual'; absorve falhar na hora h (~590)",
+     "decisao": "candidata; falta checar o Google"
+    },
+    {
+     "angulo": "falta de desejo masculino",
+     "volumeGrupo": 820,
+     "principal": "falta de desejo masculino o que fazer 390; falta de desejo sexual homem (faixa 100–1 mil, +900% YoY)",
+     "decisao": "quase 1.000; juntar a libido/testosterona"
+    },
+    {
+     "angulo": "como melhorar/manter a ereção",
+     "volumeGrupo": "~500 a ~1.500 (muitas grafias repetidas, ~20 com competição alta)",
+     "decisao": "seção do artigo de ereção fraca, não artigo próprio"
+    },
+    {
+     "angulo": "exercícios de kegel para homens",
+     "volumeGrupo": "faixa 1–10 mil",
+     "decisao": "candidata forte (categoria exercício)"
+    },
+    {
+     "angulo": "priapismo",
+     "volumeGrupo": "faixa 10–100 mil",
+     "decisao": "emergência: só como artigo de 'quando ir ao pronto-socorro', sensível"
+    }
+   ],
+   "listaChatGPT": "data/pesquisa/lotes/disfuncao-eretil-lista-chatgpt-2026-10-04.txt (421 frases, ainda NÃO medidas em lote)"
+  },
+  "pornografia (científica)": {
+   "data": "2026-10-04",
+   "politica": "saúde mental/sexual; sem conteúdo explícito, sem links, sem moralismo; só fontes reconhecidas",
+   "angulos": [
+    {
+     "angulo": "vício e como parar",
+     "volumeGrupo": 8470,
+     "principal": "vício em pornografia 4.400; como parar de ver pornografia 1.900; pornografia faz mal 1.300; como parar de assistir 320; efeitos no cérebro 170; sintomas 110; tem cura 90; é vício 90; adolescência 90",
+     "decisao": "pilar candidato; falta checar o Google"
+    },
+    {
+     "angulo": "masturbação faz mal",
+     "volumeGrupo": 2820,
+     "principal": "masturbação faz mal 2.400; excessiva 210; todo dia faz mal 210",
+     "decisao": "pauta separada candidata"
+    },
+    {
+     "angulo": "NoFap",
+     "volumeGrupo": 4400,
+     "principal": "nofap ~4.400/mês típico (pico 135.000 em set/2025, 18.100 em ago/2026); nofap funciona 40",
+     "decisao": "pauta própria possível, com cuidado"
+    },
+    {
+     "angulo": "pornografia e ereção/libido/relacionamento/terapia/controle parental",
+     "volumeGrupo": 0,
+     "principal": "voltaram sem dado no HYPD (não é demanda zero)",
+     "decisao": "subtítulos do pilar de vício"
+    }
+   ]
+  }
+ }
+}

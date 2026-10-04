@@ -1,0 +1,1932 @@
+{
+ "descricao": "Faixas do Planejador de Palavras-chave (conta sem gasto: só dá faixa). Piso = limite inferior (vale como número seguro). Arquivos originais convertidos para UTF-8 em data/pesquisa/planejador/.",
+ "atualizado": "2026-10-04",
+ "palavras": [
+  {
+   "palavra": "priapismo",
+   "faixaPiso": 10000,
+   "faixaTeto": 100000,
+   "concorrencia": "Baixa",
+   "indiceConcorrencia": "",
+   "arquivo": "print de tela do Planejador (lista grande de disfunção erétil)",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ereção matinal",
+   "faixaPiso": 1000,
+   "faixaTeto": 10000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ansiedade de desempenho",
+   "faixaPiso": 1000,
+   "faixaTeto": 10000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "8",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculação retardada",
+   "faixaPiso": 1000,
+   "faixaTeto": 10000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "8",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ereções fracas o que fazer",
+   "faixaPiso": 1000,
+   "faixaTeto": 10000,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "62",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculaçãoretardada",
+   "faixaPiso": 1000,
+   "faixaTeto": 10000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "8",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "exercícios de kegel para homens",
+   "faixaPiso": 1000,
+   "faixaTeto": 10000,
+   "concorrencia": "Média",
+   "indiceConcorrencia": "",
+   "arquivo": "print de tela do Planejador (lista grande de disfunção erétil)",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "medicamentos para disfunção erétil",
+   "faixaPiso": 1000,
+   "faixaTeto": 10000,
+   "concorrencia": "Alta",
+   "indiceConcorrencia": "",
+   "arquivo": "print de tela do Planejador (lista grande de disfunção erétil)",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "efeitos colaterais do tadalafil",
+   "faixaPiso": 1000,
+   "faixaTeto": 10000,
+   "concorrencia": "Baixa",
+   "indiceConcorrencia": "",
+   "arquivo": "print de tela do Planejador (lista grande de disfunção erétil)",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ereção fraca",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "26",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "acordar sem ereção",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "4",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "falta de ereçao matinal",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "25",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculaçao retardada tratamento",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "20",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remedio que retarda a ejaculaçao precoce",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "100",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remedio para ejaculaçao retardada",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "74",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculaçao retardada causas",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "2",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "demorar para ejacular",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "4",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculacao retardada",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "3",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculacao tardia",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "4",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculaçao retardada o que fazer",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "10",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculaçao retardada o que é",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "1",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculaçao tardia",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "4",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculação demorada",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "8",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculação retardada remedio",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "20",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "erecao matinal",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ereções matinais",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "4",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "medicamento para ejaculaçao retardada",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "44",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "medicamento para ejaculação retardada",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "44",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "medicamento que retarda a ejaculação",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "86",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "oq é ejaculação retardada",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "1",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "oque é ejaculação retardada",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "1",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "porque o homem falhar na hora h",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "8",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remedio para demorar a ejacular",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "97",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remedio para demorar a ejaculação",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "97",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remedio para demorar para ejacular",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "95",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remedio para ejaculacao retardada",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "33",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remedio para ejaculação retardada",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "33",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remedio que retarda a ejaculação",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "90",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remedio que retarda ejaculação",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "66",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remedio retarda ejaculacao",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "72",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remedios para ejaculaçao retardada",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "33",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remédio para demorar para gozar",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "87",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remédio para retarda a ejaculação",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "99",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "retarda a ejaculação",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "96",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "retarda o gozo",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "83",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "tesao matinal",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "tratamento ejaculacao retardada",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "20",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "tratamento para ejaculaçao retardada",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "33",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como melhorar a ereção",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "65",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como melhorar a ereção naturalmente",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "81",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter a ereção",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "78",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter o pau duro",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "57",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como melhorar ereção",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "51",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter a ereçao mais tempo",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "66",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter a ereção por mais tempo",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "66",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como deixar o pau duro rapido",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "3",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter erecao",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "56",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter mais tempo a ereçao",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "66",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "não consigo ter ereção",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Média",
+   "indiceConcorrencia": "",
+   "arquivo": "print de tela do Planejador (lista grande de disfunção erétil)",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "não consigo manter ereção",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Média",
+   "indiceConcorrencia": "",
+   "arquivo": "print de tela do Planejador (lista grande de disfunção erétil)",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "pênis não fica duro",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Baixa",
+   "indiceConcorrencia": "",
+   "arquivo": "print de tela do Planejador (lista grande de disfunção erétil)",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ansiedade de desempenho sexual",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Média",
+   "indiceConcorrencia": "",
+   "arquivo": "print de tela do Planejador (lista grande de disfunção erétil)",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "tratamento para impotência sexual",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Alta",
+   "indiceConcorrencia": "",
+   "arquivo": "print de tela do Planejador (lista grande de disfunção erétil)",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "falta de desejo sexual homem",
+   "faixaPiso": 100,
+   "faixaTeto": 1000,
+   "concorrencia": "Média",
+   "indiceConcorrencia": "",
+   "arquivo": "print de tela do Planejador (lista grande de disfunção erétil)",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ereção durante o sono",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "estresse causa impotência",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "14",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "é normal falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "43",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "28",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "estou falhando na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "46",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como não falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "30",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ereções fracas causas",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "21",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como perder o medo de falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "39",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "medo de falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "37",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "o que fazer para não falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "30",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ansiedade de desempenho escolar",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ansiedade desempenho",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "7",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ansiedade do desempenho",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "3",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ansiedade e desempenho escolar",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "atrasar a ejaculação",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "13",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "atrasar ejaculacao",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "41",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "atrasar ejaculação",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "60",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ausencia de erecao matinal",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "6",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ausencia de ereçao matinal",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "9",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ausencia de ereções matinais",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "25",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ausencia ereçao matinal",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Desconhecido",
+   "indiceConcorrencia": "",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como superar o medo de falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "29",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "demorar a ejacular",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "3",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "demorar a ejaculação",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "11",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "demorar na ejaculação",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "32",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "dicas para ejaculação retardada",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Desconhecido",
+   "indiceConcorrencia": "",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "dicas para nao falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "30",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculacao demorada",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "6",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculacao retardada causas",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculacao retardada sintomas",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculaçao retardada como curar",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "11",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculaçao retardada como tratar",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "32",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculaçao retardada homem",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculaçao retardada medicamento",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "3",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculaçao retardada remedio",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "54",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculaçao retardada sintomas",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "3",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculaçao retardada tem tratamento",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculaçao retardada tratamento natural",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculação atrasada",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "2",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculação retardada causas",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculação retardada como resolver",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "14",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculação retardada idade",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculação retardada medicamentos",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "3",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculação retardada remédio",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ejaculação tardia tratamento",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "19",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ele falhou na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "erecao matinal testosterona",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ereçao fraca remedio",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Desconhecido",
+   "indiceConcorrencia": "",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ereçao matinal significado",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "1",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ereçoes fracas",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "5",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "ereção retardada",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "4",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "falhando na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "62",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "falhar na hora h ansiedade",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "33",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "falhar na hora h é normal",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "18",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "falta de erecao matinal",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "13",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "fraca ereção",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "33",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "homem demorar a gozar",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "homem demorar para gozar",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "1",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "homem demorar pra gozar",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "homem falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "motivo para um homem falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "9",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "motivos da ejaculaçao retardada",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "nao tenho erecao matinal",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "22",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "nao tenho ereçao matinal",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "22",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "nao tenho ereções matinais",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "não estou tendo ereções matinais",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "26",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "não falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "38",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "não tenho mais ereções matinais",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "54",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "não ter ereções matinais",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "10",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "o homem falha na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Desconhecido",
+   "indiceConcorrencia": "",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "o que faz o homem falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "21",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "o que fazer quando falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "33",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "o que fazer se na hora h ele falha",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "4",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "o que leva o homem a falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "20",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "o que leva um homem a falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "19",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "o que pode fazer o homem falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "57",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "o que é falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "2",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "oq é ereção matinal",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Desconhecido",
+   "indiceConcorrencia": "",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "perda de ereções matinais",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "21",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "por qual motivo o homem falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "porque alguns homens falham na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "7",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "porque as vezes o homem falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "12",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "porque homem falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "10",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "porque os homens falham na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "prolongar a ejaculacao",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "83",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "quais os motivos de um homem falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "quando o homem falha na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "13",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remedio ejaculaçao retardada",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "100",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remedio natural para ejaculaçao retardada",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "100",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remedio para atrasar ejaculaçao",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "81",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remedio para curar ejaculaçao retardada",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Desconhecido",
+   "indiceConcorrencia": "",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remedio para demorar ejacular",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "93",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remedio para não falhar na hora h",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "76",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remédio para curar ejaculação retardada",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Desconhecido",
+   "indiceConcorrencia": "",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remédio para demorar ejacular",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "93",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "remédio para o homem demorar a gozar",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "54",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "sem erecao matinal",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "11",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "tecnica para demorar pra gozar",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "15",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como melhorar a ereçao masculina",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "100",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como melhorar a ereçao masculina naturalmente",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "100",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como aumentar a circulação peniana natural",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "39",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter ereçao por mais tempo",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "96",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter a ereçao firme por mais tempo",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como fazer para ter ereções mais duradouras",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "46",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter o pênis duro",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "62",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter a ereçao por muito tempo",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "11",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter ereções prolongadas",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "100",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como fazer para manter a ereçao por mais tempo",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "61",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como ter ereções por mais tempo",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "30",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como aumentar o tempo da ereçao",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "33",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como deixar o pau duro mais tempo",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como deixar o pau duro por mais tempo",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "22",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como fazer para manter a ereção",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "11",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter a ereçao mais firme",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "86",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter a ereçao por horas",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "72",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter a ereçao por maior tempo",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "86",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter a ereção após a ejaculação",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter a ereção depois da ejaculação",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "37",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter a ereção depois de gozar",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "30",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter a ereção durante o sexo",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "32",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter a ereção prolongada",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "82",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter ereção por muito tempo",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "43",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter ereção prolongada",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "92",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter ereções fortes",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "100",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter minha ereçao por mais tempo",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "71",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter o pau duro depois de gozar",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "1",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter o pau duro por mais tempo",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "43",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter o pinto duro",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "50",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter por mais tempo a ereção",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "14",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como melhorar a ereção matinal",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "55",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como melhorar a minha ereção",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "100",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como melhorar a qualidade da ereção",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "99",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como melhorar as ereções",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "44",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como melhorar minha erecao",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "66",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como melhorar o desempenho masculino",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Alto",
+   "indiceConcorrencia": "100",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como melhorar o tempo de ereçao",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "40",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como melhorar sua ereção",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "12",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como obter ereções mais fortes",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Desconhecido",
+   "indiceConcorrencia": "",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como ter erecoes fortes",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "38",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como ter erecoes mais duradouras",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "3",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como ter erecoes mais fortes e duradouras",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "29",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como ter erecoes poderosas",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como ter ereção prolongada",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "28",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como ter ereções duradouras",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Médio",
+   "indiceConcorrencia": "52",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como ter ereções mais duras",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como ter ereções mais forte",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "21",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como ter ereções mais potentes",
+   "faixaPiso": 10,
+   "faixaTeto": 100,
+   "concorrencia": "Baixo",
+   "indiceConcorrencia": "0",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "porque um homem pode falhar na hora h",
+   "faixaPiso": 0,
+   "faixaTeto": 0,
+   "concorrencia": "Desconhecido",
+   "indiceConcorrencia": "",
+   "arquivo": "keyword-stats-02-16-32-10-sementes.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como conseguir ereções maiores e mais fortes",
+   "faixaPiso": 0,
+   "faixaTeto": 0,
+   "concorrencia": "Desconhecido",
+   "indiceConcorrencia": "",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  },
+  {
+   "palavra": "como manter a ereçao por muito tempo yahoo",
+   "faixaPiso": 0,
+   "faixaTeto": 0,
+   "concorrencia": "Desconhecido",
+   "indiceConcorrencia": "",
+   "arquivo": "keyword-stats-02-39-31-como-melhorar-manter-erecao.tsv",
+   "data": "2026-10-04"
+  }
+ ]
+}
