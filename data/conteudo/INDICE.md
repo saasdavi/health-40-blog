@@ -6,7 +6,7 @@ Fonte dos textos: `data/articles.json`. Atualizado por `node scripts/banco-conte
 |---|---|---|
 | **Pronto para usar** (escrito, aprovado, guardado) | **37** | 12 |
 | Publicado (no ar) | 9 | |
-| Pauta validada, falta escrever | 20 | 6 |
+| Pauta validada, falta escrever | 19 | 6 |
 | Planejado, falta validar no Google | 886 | 295 |
 | Vagas (sem tema levantado) | 146 | |
 
@@ -60,6 +60,7 @@ Dias de conteúdo já escrito + pauta validada: **18** (a 3 por dia).
 | Ferritina alta: causas e o que fazer | 1137 | 96 | 2026-10-06 |
 | TSH alto: o que significa e quando investigar | 1107 | 96 | 2026-10-16 |
 | Pressão alta sintomas: saiba por que a doença é silenciosa | 1627 | 87 | 2026-12-23 |
+| Próstata aumentada: sintomas e o que fazer | 1046 | 92 | 2026-10-24 |
 
 ## Publicados
 
@@ -87,7 +88,6 @@ Dias de conteúdo já escrito + pauta validada: **18** (a 3 por dia).
 - alimentos anti inflamatórios (6600/mês)
 - queda de cabelo causas (7200/mês)
 - creatinina alta (33100/mês)
-- próstata aumentada (18100/mês)
 - ureia alta (22200/mês)
 - hemograma completo (60500/mês)
 - pressão 14 por 9 (18100/mês)

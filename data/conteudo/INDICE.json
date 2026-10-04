@@ -2,7 +2,7 @@
  "resumo": {
   "publicados": 9,
   "prontosParaUsar": 37,
-  "pautasValidadasSemTexto": 20,
+  "pautasValidadasSemTexto": 19,
   "planejadasAValidar": 886,
   "vagas": 146,
   "espacosDoPlano": 1095
@@ -964,6 +964,23 @@
    "publicadoEm": null,
    "escritoEm": "2026-10-04T22:11:43.257Z",
    "previstoPara": "2026-12-23",
+   "pontesSugeridas": []
+  },
+  {
+   "slug": "prostata-aumentada",
+   "titulo": "Próstata aumentada: sintomas e o que fazer",
+   "palavraChave": "próstata aumentada",
+   "cluster": "prostata",
+   "volume": 18100,
+   "status": "pronto",
+   "palavras": 1046,
+   "h2": 12,
+   "imagens": 3,
+   "fontes": 2,
+   "auditoria": 92,
+   "publicadoEm": null,
+   "escritoEm": "2026-10-04T22:13:03.890Z",
+   "previstoPara": "2026-10-24",
    "pontesSugeridas": []
   }
  ]
