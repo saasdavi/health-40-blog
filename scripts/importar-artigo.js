@@ -44,6 +44,7 @@ for (const nome of arquivos) {
     const i = robot.db.articles.findIndex((x) => x.slug === art.slug);
     if (i >= 0) { art.createdAt = robot.db.articles[i].createdAt || art.createdAt; robot.db.articles[i] = art; } else robot.db.articles.push(art);
     robot.gravar();
+    fs.mkdirSync(path.join(DIR, 'processados'), { recursive: true });
     fs.renameSync(caminho, path.join(DIR, 'processados', nome));
     fs.rmSync(caminho.replace(/\.txt$/, '.relatorio.md'), { force: true });
     guardados++;

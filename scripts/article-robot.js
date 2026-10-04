@@ -325,10 +325,10 @@ FOTO2_SECAO: <número do <h2>, diferente do da foto 1>
     if (i < 0) throw new Error('resposta sem separador ---');
     const header = raw.slice(0, i), body = raw.slice(i + 5);
     const get = (k) => (header.match(new RegExp(`^${k}:\\s*(.+)$`, 'm')) || [])[1]?.trim();
-    const title = get('TITLE'), description = get('DESCRIPTION'), capaBusca = get('CAPA_BUSCA'), capaAlt = get('CAPA_ALT');
+    const title = get('TITLE'), description = get('DESCRIPTION'), capaBusca = get('CAPA_BUSCA'), capaAlt = get('CAPA_ALT'), capaPexelsId = get('CAPA_PEXELS_ID');
     if (!title || !description || !capaBusca || !capaAlt) throw new Error('cabeçalho incompleto');
-    const fotos = [1, 2].map(n => ({ busca: get(`FOTO${n}_BUSCA`), alt: get(`FOTO${n}_ALT`), legenda: get(`FOTO${n}_LEGENDA`), secao: parseInt(get(`FOTO${n}_SECAO`), 10) || n + 1 })).filter(f => f.busca && f.alt);
-    return { title, description, capaBusca, capaAlt, fotos, body: body.trim().replace(/^```html\n?|```\s*$/g, '').trim() };
+    const fotos = [1, 2].map(n => ({ busca: get(`FOTO${n}_BUSCA`), alt: get(`FOTO${n}_ALT`), legenda: get(`FOTO${n}_LEGENDA`), pexelsId: get(`FOTO${n}_PEXELS_ID`), secao: parseInt(get(`FOTO${n}_SECAO`), 10) || n + 1 })).filter(f => f.busca && f.alt);
+    return { title, description, capaBusca, capaAlt, capaPexelsId, fotos, body: body.trim().replace(/^```html\n?|```\s*$/g, '').trim() };
   }
 
   montar(p, d, fontesLidas) {
@@ -353,7 +353,7 @@ FOTO2_SECAO: <número do <h2>, diferente do da foto 1>
       readingTime: Math.max(1, Math.round(words / 200)),
       sources: fontesLidas.map(f => ({ title: f.title, url: f.url })),
       bodyOriginal: d.body,
-      imagePlan: { capa: { busca: d.capaBusca, alt: d.capaAlt }, fotos: d.fotos },
+      imagePlan: { capa: { busca: d.capaBusca, alt: d.capaAlt, pexelsId: d.capaPexelsId }, fotos: d.fotos },
       volume: p.volume,
       status: 'generated',
       createdAt: now
@@ -479,7 +479,12 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
 
   // ---------- 5. imagem ----------
   // ---------- 5. imagens (Pexels + Pixabay) ----------
-  async buscarFoto(busca, preferir, usadas) {
+  async buscarFoto(busca, preferir, usadas, pexelsId) {
+    if (pexelsId && process.env.PEXEL_API_KEY) {
+      const r = await fetch(`https://api.pexels.com/v1/photos/${pexelsId}`, { headers: { Authorization: process.env.PEXEL_API_KEY } });
+      if (r.ok) { const f = await r.json(); return { id: `pexels:${f.id}`, url: f.src.large, width: 940, height: Math.round(940 * f.height / f.width), credit: { author: f.photographer, source: 'Pexels', url: f.url, license: 'Licença Pexels', licenseUrl: 'https://www.pexels.com/license/' } }; }
+      console.log(`  ⚠️  Pexels id ${pexelsId}: ${r.status}; usando busca`);
+    }
     const pexels = async () => {
       if (!process.env.PEXEL_API_KEY) return null;
       const r = await fetch(`https://api.pexels.com/v1/search?query=${encodeURIComponent(busca)}&per_page=20&orientation=landscape`, { headers: { Authorization: process.env.PEXEL_API_KEY } });
@@ -542,7 +547,7 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
     }
     const usadas = new Set(this.db.articles.flatMap(x => x.imageIds || []));
     const ids = [];
-    const capa = await this.buscarFoto(a.imagePlan.capa.busca, 'pexels', usadas);
+    const capa = await this.buscarFoto(a.imagePlan.capa.busca, 'pexels', usadas, a.imagePlan.capa.pexelsId);
     if (!capa) { console.log('  ⛔ sem foto de capa'); return false; }
     usadas.add(capa.id); ids.push(capa.id);
     a.featuredImage = await this.baixar(capa, a.slug, `${a.slug}-capa`);
@@ -552,7 +557,7 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
 
     const corpo = [];
     for (const [i, plano] of (a.imagePlan.fotos || []).entries()) {
-      const foto = await this.buscarFoto(plano.busca, i % 2 === 0 ? 'pixabay' : 'pexels', usadas);
+      const foto = await this.buscarFoto(plano.busca, i % 2 === 0 ? 'pixabay' : 'pexels', usadas, plano.pexelsId);
       if (!foto) { console.log(`  ⚠️  sem foto para "${plano.busca}"`); continue; }
       usadas.add(foto.id); ids.push(foto.id);
       const src = await this.baixar(foto, a.slug, plano.alt);

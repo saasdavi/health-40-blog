@@ -1,17 +1,19 @@
 PALAVRA_CHAVE: sarcopenia
 TITLE: Sarcopenia: o que é, sinais e como cuidar
 DESCRIPTION: Sarcopenia é a perda de força muscular. Veja sinais, como é avaliada, se tem tratamento e que exercícios e proteínas ajudam a partir dos 40 anos.
-CAPA_BUSCA: older adult strength training dumbbell
-CAPA_ALT: Pessoa mais velha faz exercício de força com halter
+CAPA_BUSCA: older woman exercising with dumbbells at home
+CAPA_PEXELS_ID: 36917075
+CAPA_ALT: Mulher mais velha faz exercício de força com um halter em casa
 CAPA_LEGENDA: Treino de força ajuda a preservar os músculos.
-FOTO1_BUSCA: older woman exercising with dumbbells at home
-FOTO1_ALT: Mulher mais velha faz exercício de força com um halter em casa
-FOTO1_LEGENDA: Exercício de força com halter em casa.
-FOTO1_SECAO: 5
+FOTO1_BUSCA: elderly man sitting on wooden chair outdoors
+FOTO1_PEXELS_ID: 2452500
+FOTO1_ALT: Homem idoso sentado em uma cadeira de madeira ao ar livre
+FOTO1_LEGENDA: Perder força pode dificultar tarefas simples, como levantar da cadeira.
+FOTO1_SECAO: 2
 FOTO2_BUSCA: senior man resistance band exercise
 FOTO2_ALT: Homem mais velho faz exercício com faixa elástica
 FOTO2_LEGENDA: Faixa elástica é uma opção simples para o treino de força.
-FOTO2_SECAO: 2
+FOTO2_SECAO: 5
 FONTE: Cruz-Jentoft AJ et al. Sarcopenia: revised European consensus on definition and diagnosis (EWGSOP2), Age and Ageing, 2019 | https://semeg.es/wp-content/uploads/2024/01/Sarcopenia-revised-european-consensus-on-definition-and-diagnosis-Age-Ageing-2019.pdf
 FONTE: Organização Mundial da Saúde. Atividade física | https://www.who.int/initiatives/behealthy/physical-activity/
 FONTE: Ministério da Saúde. Atividade física na saúde da pessoa idosa | https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-pessoa-idosa/atividade-fisica
