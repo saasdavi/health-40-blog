@@ -459,6 +459,150 @@
    "volume": 3600,
    "cluster": "saude-mental",
    "status": "sem-serp; absorve: mente acelerada à noite, como parar de pensar antes de dormir"
+  },
+  {
+   "keyword": "fosfatase alcalina",
+   "volume": 74000,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 74000; absorve: "
+  },
+  {
+   "keyword": "bursite",
+   "volume": 74000,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 74000; absorve: "
+  },
+  {
+   "keyword": "exercícios para ombro",
+   "volume": 40500,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 40500; absorve: "
+  },
+  {
+   "keyword": "gota",
+   "volume": 40500,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 46675; absorve: gota no pé (6600), sintomas de gota (2900)"
+  },
+  {
+   "keyword": "tendinite no ombro",
+   "volume": 22200,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 23435; absorve: tendinite no punho (1900)"
+  },
+  {
+   "keyword": "falta de vitamina d",
+   "volume": 18100,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 30970; absorve: alimentos ricos em vitamina d (8100), deficiência de vitamina d (5400), excesso de vitamina d (4400), exame de vitamina d (1900)"
+  },
+  {
+   "keyword": "alimentos ricos em cálcio",
+   "volume": 9900,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 10856; absorve: excesso de cálcio (720), deficiência de cálcio (320), exame de cálcio (320), cálcio baixo no sangue (110)"
+  },
+  {
+   "keyword": "medicamentos para osteoporose",
+   "volume": 1600,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 2133; absorve: exercícios para osteoporose (320), sinais de osteoporose (170), tratamento da osteoporose (170), musculação e osteoporose (70), café e osteoporose (40), como descobrir osteoporose (20)"
+  },
+  {
+   "keyword": "ligamento do joelho",
+   "volume": 22200,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 22200; absorve: "
+  },
+  {
+   "keyword": "articulações",
+   "volume": 18100,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 18555; absorve: rigidez nas articulações (590), alimentos para articulações (110)"
+  },
+  {
+   "keyword": "cartilagem",
+   "volume": 9900,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 12760; absorve: cartilagem do joelho (4400)"
+  },
+  {
+   "keyword": "ossos",
+   "volume": 8100,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 9062; absorve: alimentos para fortalecer os ossos (880), como fortalecer os ossos (320), leite fortalece os ossos (110), exercícios para fortalecer os ossos (90), saúde dos ossos (40), como cuidar dos ossos (20)"
+  },
+  {
+   "keyword": "pth",
+   "volume": 8100,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 8100; absorve: "
+  },
+  {
+   "keyword": "anti ccp",
+   "volume": 8100,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 8100; absorve: "
+  },
+  {
+   "keyword": "dores nos ossos",
+   "volume": 6600,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 6600; absorve: "
+  },
+  {
+   "keyword": "alongamento para coluna",
+   "volume": 6600,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 6600; absorve: "
+  },
+  {
+   "keyword": "exercícios para joelho",
+   "volume": 4400,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 4400; absorve: "
+  },
+  {
+   "keyword": "dor articular",
+   "volume": 3600,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 3600; absorve: "
+  },
+  {
+   "keyword": "exercícios para quadril",
+   "volume": 2900,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 2900; absorve: "
+  },
+  {
+   "keyword": "como fortalecer o joelho",
+   "volume": 2900,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 2978; absorve: corrida prejudica o joelho (110), bicicleta e joelho (10)"
+  },
+  {
+   "keyword": "deficiência de magnésio",
+   "volume": 1600,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 1600; absorve: "
+  },
+  {
+   "keyword": "alongamento para quadril",
+   "volume": 1300,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 1300; absorve: "
+  },
+  {
+   "keyword": "alimentos ricos em vitamina k",
+   "volume": 1300,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 1300; absorve: "
+  },
+  {
+   "keyword": "dedos inchados",
+   "volume": 1000,
+   "cluster": "ossos-articulacoes",
+   "status": "sem-serp; importada do Planejador; cluster estimado 1000; absorve: "
   }
  ],
  "semDemanda": "Frases longas do kit com volume < 200/mês no Google BR (não viram artigo próprio; entram como H2 de artigo-mãe): como perder barriga depois dos 40 (110), musculação depois dos 40 (30), treino de força para iniciantes (20), hipertrofia depois dos 40 (10), alimentos para reduzir gordura visceral (10), efeito platô emagrecimento (210)",
