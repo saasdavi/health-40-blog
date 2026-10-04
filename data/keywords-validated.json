@@ -868,64 +868,6 @@
       ]
     },
     {
-      "keyword": "dores lombares",
-      "volume": 74000,
-      "competition": "LOW",
-      "cluster": "coluna-dor",
-      "absorve": [
-        "Como saber se a lombar está inflamada?",
-        "Quando uma dor lombar é preocupante?",
-        "O que fazer para aliviar a dor na região lombar?",
-        "O que pode provocar dores lombares?",
-        "dor nas costas no meio",
-        "dores nas costas o que pode ser"
-      ],
-      "serp": {
-        "facil": true,
-        "nivel": "FÁCIL",
-        "topoDoGoogle": "AFP (2000), Correio Braziliense, Boa Forma (web story), Instagram, araujoefazzito (tag), Withings (2018), Facebook",
-        "aiOverview": true
-      },
-      "notas": "Seção obrigatória de sinais de alerta (perda de controle de urina/fezes, fraqueza nas pernas, febre, trauma); sem indicar remédio específico.",
-      "fontes": [
-        "https://www.maededeus.com.br/blog/artigo/dor-na-lombar-principais-causas-sinais-de-alerta-quando-procurar-avaliacao",
-        "https://bvsms.saude.gov.br/lombalgia-dor-nas-costas/",
-        "https://www.einstein.br/n/vida-saudavel/dor-na-lombar-conheca-os-diferentes-tipos-e-quando-se-preocupar",
-        "https://www.santapaula.com.br/blog/dor-lombar/",
-        "https://www.saudebemestar.pt/pt/clinica/ortopedia/lombalgia/",
-        "https://www.drricardokirihara.com.br/como-aliviar-dor-na-lombar-saiba-mais"
-      ]
-    },
-    {
-      "keyword": "próstata aumentada",
-      "volume": 37300,
-      "competition": "LOW",
-      "cluster": "saude-masculina",
-      "absorve": [
-        "hiperplasia prostática",
-        "próstata inchada",
-        "É perigoso ter próstata aumentada?",
-        "Quais os sintomas de uma próstata crescida?",
-        "Próstata aumentada tem cura",
-        "Próstata aumentada é grave"
-      ],
-      "serp": {
-        "facil": true,
-        "nivel": "FÁCIL",
-        "topoDoGoogle": "thiagohota, institutodaprostata (2020), hospitalaguasclaras, takanourologia, valtercassao, padrao, renatocorradi",
-        "aiOverview": true
-      },
-      "notas": "Deixar claro que HPB não é câncer, mas só o urologista confirma (PSA/toque/ultrassom). Não indicar remédio nem 'o que é bom para diminuir'.",
-      "fontes": [
-        "https://www.institutodaprostata.com/pt/blog/prostata-aumentada-como-quando-e-porque-se-deve-preocupar",
-        "https://www.takanourologia.com.br/blog/prostata-aumentada-hpb/",
-        "https://drpaulomaron.com.br/prostata-aumentada/",
-        "https://www.hospitalaguasclaras.com.br/blog/prostata-aumentada/",
-        "https://thiagohota.com.br/sintomas-da-prostata-aumentada-7-sinais-de-alerta/",
-        "https://www.padrao.com.br/blog/prostata-aumentada"
-      ]
-    },
-    {
       "keyword": "câimbras nas pernas",
       "volume": 9900,
       "competition": "LOW",
@@ -961,20 +903,6 @@
         "facil": false,
         "nivel": "MÉDIA",
         "topoDoGoogle": "Einstein, Nav Dasa, araujo, YouTube, Sírio-Libanês, Care Plus, Wikipedia, Drauzio; termo-cabeça com autoridades; testar cauda longa (insônia causas 3,6 mil, insônia o que fazer 1,9 mil)",
-        "aiOverview": true
-      },
-      "fontes": []
-    },
-    {
-      "keyword": "queda de cabelo",
-      "volume": 22200,
-      "competition": "MEDIUM",
-      "cluster": "pele-cabelo",
-      "absorve": [],
-      "serp": {
-        "facil": false,
-        "nivel": "MÉDIA",
-        "topoDoGoogle": "Drauzio, Natura, Tua Saúde, Ducray, Nissei, Einstein, GNDI; marcas de cosmético no topo; testar cauda longa (queda de cabelo causas 3,6 mil)",
         "aiOverview": true
       },
       "fontes": []
@@ -1390,6 +1318,110 @@
         "https://imagdiagnostico.com.br/saude/tsh-alto"
       ],
       "notas": "Faixas de referência divergem entre fontes: citar como 'cada laboratório define'; sem sugerir levotiroxina por conta própria."
+    },
+    {
+      "keyword": "próstata aumentada",
+      "volume": 18100,
+      "competition": "LOW",
+      "cluster": "prostata",
+      "absorve": [
+        "é perigoso ter próstata aumentada",
+        "o que é bom para diminuir a próstata crescida",
+        "qual o melhor remédio para próstata aumentada",
+        "quais os sintomas de uma próstata crescida",
+        "próstata aumentada é câncer"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Blogs de urologistas (Alberto Antunes, Luís Gustavo Toledo, Alexandre Sato, Favaretto, Guirro, Murad), YouTube; sem portal grande no topo",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.institutodaprostata.com/pt/blog/prostata-aumentada-como-quando-e-porque-se-deve-preocupar",
+        "https://www.takanourologia.com.br/blog/prostata-aumentada-hpb/",
+        "https://drpaulomaron.com.br/prostata-aumentada/",
+        "https://www.hospitalaguasclaras.com.br/blog/prostata-aumentada/",
+        "https://thiagohota.com.br/sintomas-da-prostata-aumentada-7-sinais-de-alerta/",
+        "https://drtiagoguirro.com.br/hpb-tratamento-prostata-inchada/"
+      ],
+      "notas": "Não prometer cura nem indicar remédio ou suplemento; deixar claro que aumento benigno não é câncer, mas que PSA e exame são com urologista."
+    },
+    {
+      "keyword": "dores lombares",
+      "volume": 74000,
+      "competition": "LOW",
+      "cluster": "coluna",
+      "absorve": [
+        "como saber se a lombar está inflamada",
+        "quando uma dor lombar é preocupante",
+        "o que fazer para aliviar a dor na região lombar",
+        "o que pode provocar dores lombares"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "AAFP (artigo de 2000), Correio Braziliense, Instagram, Abril web story, Withings; sem portal médico forte",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://bvsms.saude.gov.br/lombalgia-dor-nas-costas/",
+        "https://www.einstein.br/n/vida-saudavel/dor-na-lombar-conheca-os-diferentes-tipos-e-quando-se-preocupar",
+        "https://www.santapaula.com.br/blog/dor-lombar/",
+        "https://www.maededeus.com.br/blog/artigo/dor-na-lombar-principais-causas-sinais-de-alerta-quando-procurar-avaliacao",
+        "https://www.drricardokirihara.com.br/como-aliviar-dor-na-lombar-saiba-mais"
+      ],
+      "notas": "Destacar sinais de alerta (perda de controle de urina/fezes, fraqueza nas pernas, febre, trauma); sem prometer cura por exercício ou aparelho."
+    },
+    {
+      "keyword": "queda de cabelo",
+      "volume": 22000,
+      "competition": "LOW",
+      "cluster": "pele-cabelo",
+      "absorve": [
+        "qual vitamina falta quando o cabelo está caindo",
+        "o que é bom para parar queda de cabelo",
+        "quando devemos nos preocupar com a queda de cabelo",
+        "queda de cabelo normal por dia"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIO",
+        "topoDoGoogle": "Blogs de dermatologistas, Correio Braziliense, Correio do Povo, Facebook; Einstein/Drauzio/Tua Saúde só como referência da IA",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.einstein.br/n/vida-saudavel/queda-de-cabelo-10-perguntas-para-entender-causas-tipos-e-tratamentos",
+        "https://drauziovarella.uol.com.br/geral/queda-de-cabelo-tipos-e-causas-mais-frequentes/",
+        "https://nav.dasa.com.br/blog/queda-de-cabelo",
+        "https://www.drogasil.com.br/blog/beleza/cabelo/queda-de-cabelo-as-8-causas-mais-comuns-e-como-tratar",
+        "https://liliandermatologista.com.br/queda-de-cabelo-quando-e-normal-e-quando-pode-ser-sinal-de-alerta/"
+      ],
+      "notas": "Sem recomendar minoxidil, vitaminas ou suplementos; falar em investigar tireoide e ferro com médico."
+    },
+    {
+      "keyword": "esquecimento",
+      "volume": 3600,
+      "competition": "LOW",
+      "cluster": "memoria",
+      "absorve": [
+        "quando o esquecimento é preocupante",
+        "quais são os tipos de esquecimento",
+        "qual falta de vitamina causa esquecimento",
+        "esquecimento é sinal de TDAH"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Site de cuidadores, UOL, blog de neurologista, Facebook, Globoplay; sem portal médico forte",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://leonardoneurologia.com.br/neurologia/esquecimento-no-idoso",
+        "https://www.uol.com.br/vivabem/noticias/redacao/2025/03/11/esquecimento-nao-e-necessariamente-alzheimer-quando-ficar-atento.amp.htm",
+        "https://www.gscuidadoresdeidosos.com.br/esquecimento-natural-da-idade-ou-primeiros-sinais-de-alzheimer-como-diferenciar-e-agir/"
+      ],
+      "notas": "Não sugerir diagnóstico de Alzheimer/demência; listar o que merece avaliação de neurologista; sem suplemento de memória."
     }
   ],
   "descartadas": "Mounjaxi/suplemento/termogênico (volume < 400 ou sem medição), '... 40+' de cauda longa sem volume, 'como emagrecer depois dos 40' (260/mês, concorrência HIGH)."
