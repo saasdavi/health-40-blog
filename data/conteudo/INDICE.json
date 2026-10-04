@@ -2,7 +2,7 @@
  "resumo": {
   "publicados": 9,
   "prontosParaUsar": 37,
-  "pautasValidadasSemTexto": 19,
+  "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
   "espacosDoPlano": 1095
@@ -982,6 +982,26 @@
    "escritoEm": "2026-10-04T22:13:03.890Z",
    "previstoPara": "2026-10-24",
    "pontesSugeridas": []
+  },
+  {
+   "slug": "ureia-alta",
+   "titulo": "Ureia alta: causas e o que fazer",
+   "palavraChave": "ureia alta",
+   "cluster": "exames",
+   "volume": 22200,
+   "status": "pronto",
+   "palavras": 1037,
+   "h2": 12,
+   "imagens": 3,
+   "fontes": 2,
+   "auditoria": 92,
+   "publicadoEm": null,
+   "escritoEm": "2026-10-04T22:24:01.513Z",
+   "previstoPara": "2026-10-13",
+   "pontesSugeridas": [
+    "ferritina alta",
+    "creatinina alta"
+   ]
   }
  ]
 }
