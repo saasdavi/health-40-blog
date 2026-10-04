@@ -90,6 +90,8 @@ node scripts/banco.js --categoria ossos-articulacoes   # melhores ainda não usa
 node scripts/banco.js --buscar "joelho"                # tudo que contém o termo
 ```
 
+Para guardar uma pesquisa nova: `node scripts/ingerir-hypd.js arquivo [arquivo ...]` (aceita os JSON que o HYPD salva quando a resposta é grande e CSV/TSV do Planejador ou do Keywords Everywhere). Deduplica, mantém o maior volume e recalcula categoria e status de todo o banco. **Rode logo após cada pesquisa: os resultados do HYPD expiram em 24 horas.**
+
 Regra de uso: antes de pesquisar de novo, consulte o banco. Palavras `banco` com volume >= 1.000 e competição não HIGH são pautas em potencial; é só agrupá-las e validar o Google. Atenção: palavras `sem-categoria` vêm das primeiras rodadas (antes da lista de temas) e também valem.
 
 Crescimento: cada 1.000 palavras ocupam ~130 KB. Até algumas dezenas de milhares o JSON no repositório funciona bem. Passando de ~20 mil palavras, dividir por categoria (um arquivo por categoria) ou migrar para um arquivo SQLite no repositório. O limite de arquivo do GitHub é 100 MB.
