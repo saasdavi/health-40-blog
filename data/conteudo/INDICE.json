@@ -2,7 +2,7 @@
  "resumo": {
   "publicados": 9,
   "prontosParaUsar": 37,
-  "pautasValidadasSemTexto": 21,
+  "pautasValidadasSemTexto": 20,
   "planejadasAValidar": 886,
   "vagas": 146,
   "espacosDoPlano": 1095
@@ -931,6 +931,23 @@
     "creatinina alta",
     "ureia alta"
    ]
+  },
+  {
+   "slug": "tsh-alto",
+   "titulo": "TSH alto: o que significa e quando investigar",
+   "palavraChave": "tsh alto",
+   "cluster": "exames",
+   "volume": 12100,
+   "status": "pronto",
+   "palavras": 1107,
+   "h2": 13,
+   "imagens": 3,
+   "fontes": 2,
+   "auditoria": 96,
+   "publicadoEm": null,
+   "escritoEm": "2026-10-04T21:59:50.929Z",
+   "previstoPara": "2026-10-16",
+   "pontesSugeridas": []
   }
  ]
 }
