@@ -82,14 +82,18 @@
       "derrame"
     ],
     "foraDoAssunto": [
-      "pornô",
-      "porno",
       "vídeo",
       "video",
+      "vídeos",
+      "videos",
       "grátis",
       "gratis",
-      "gay",
-      "travesti"
+      "xvideos",
+      "assistir",
+      "baixar",
+      "download",
+      "site de",
+      "onlyfans"
     ],
     "intencaoCompra": [
       "comprar",
@@ -101,6 +105,20 @@
       "farmacia",
       "perto de mim",
       "online"
+    ],
+    "sexualidadeCientifica": [
+      "pornô",
+      "porno",
+      "pornografia",
+      "pornográfico",
+      "masturbação",
+      "masturbacao",
+      "vício sexual",
+      "vicio sexual",
+      "compulsão sexual",
+      "compulsao sexual",
+      "dependência sexual",
+      "dependencia sexual"
     ]
   },
   "regras": [
@@ -120,6 +138,11 @@
       "data": "2026-10-04",
       "tema": "política de conteúdo",
       "decisao": "Usuário: adicionar todos os temas válidos sem preconceito de conteúdo. Remédio, suplemento, urgência e termos amplos deixam de ser excluídos e viram 'sensível'/'amplo'. Seguem fora: intenção de compra e fora do assunto."
+    },
+    {
+      "data": "2026-10-04",
+      "tema": "pornografia",
+      "decisao": "Usuário: pode ser tratado de forma científica. 'pornô/porno/pornografia' saem de 'fora do assunto' e viram sensível (grupo sexualidadeCientifica). Seguem excluídos termos de consumo (vídeo, grátis, assistir, baixar, xvideos, onlyfans). 'gay' e 'travesti' deixam de ser excluídos."
     }
   ],
   "cabecasAmbiguas": [
@@ -144,7 +167,9 @@
     "sensivel": [
       "remedioMarca",
       "suplemento",
-      "urgenciaGrave"
+      "urgenciaGrave",
+      "sexualidadeCientifica"
     ]
-  }
+  },
+  "sexualidadeCientificaNota": "Tema válido tratado de forma científica e clínica (saúde mental, sexual e do relacionamento): vício/compulsão, efeito no desejo e na ereção, cérebro e dopamina, quando procurar ajuda. Sem conteúdo explícito, sem links ou indicação de sites, sem moralismo, sem promessa de cura; citar só fontes reconhecidas (artigos científicos, sociedades médicas, hospitais, psicologia clínica). Consumo de conteúdo (vídeo, grátis, assistir, baixar) continua excluído."
 }
