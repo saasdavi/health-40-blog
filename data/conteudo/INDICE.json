@@ -2,7 +2,7 @@
  "resumo": {
   "publicados": 8,
   "prontosParaUsar": 38,
-  "pautasValidadasSemTexto": 25,
+  "pautasValidadasSemTexto": 24,
   "planejadasAValidar": 886,
   "vagas": 146,
   "espacosDoPlano": 1095
@@ -849,6 +849,28 @@
    "previstoPara": null,
    "pontesSugeridas": [
     "o que é sarcopenia"
+   ]
+  },
+  {
+   "slug": "colesterol-hdl",
+   "titulo": "Colesterol HDL: valores e como interpretar",
+   "palavraChave": "colesterol hdl",
+   "cluster": "colesterol",
+   "volume": 74000,
+   "status": "pronto",
+   "palavras": 1232,
+   "h2": 10,
+   "imagens": 3,
+   "fontes": 4,
+   "auditoria": 98,
+   "publicadoEm": null,
+   "escritoEm": "2026-10-04T19:14:07.056Z",
+   "previstoPara": "2026-10-23",
+   "pontesSugeridas": [
+    "o que é colesterol",
+    "colesterol ldl",
+    "colesterol alterado",
+    "colesterol alto sintomas"
    ]
   }
  ]

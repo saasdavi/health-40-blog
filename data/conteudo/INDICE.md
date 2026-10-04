@@ -6,7 +6,7 @@ Fonte dos textos: `data/articles.json`. Atualizado por `node scripts/banco-conte
 |---|---|---|
 | **Pronto para usar** (escrito, aprovado, guardado) | **38** | 12 |
 | Publicado (no ar) | 8 | |
-| Pauta validada, falta escrever | 25 | 8 |
+| Pauta validada, falta escrever | 24 | 8 |
 | Planejado, falta validar no Google | 886 | 295 |
 | Vagas (sem tema levantado) | 146 | |
 
@@ -55,6 +55,7 @@ Dias de conteúdo já escrito + pauta validada: **20** (a 3 por dia).
 | Esquecimento Frequente: Quando Procurar Médico | 1439 | 92 | 2026-10-22 |
 | Idade Metabólica: Calcule e Melhore a Sua | 1499 | 100 | 2026-10-22 |
 | Sarcopenia: o que é, sinais e como cuidar | 1236 | 98 | - |
+| Colesterol HDL: valores e como interpretar | 1232 | 98 | 2026-10-23 |
 
 ## Publicados
 
@@ -74,7 +75,6 @@ Dias de conteúdo já escrito + pauta validada: **20** (a 3 por dia).
 - o que é sarcopenia (27100/mês)
 - colesterol alto sintomas (27100/mês)
 - menopausa precoce (12100/mês)
-- colesterol hdl (74000/mês)
 - colesterol ldl (74000/mês)
 - com quantos anos a mulher entra na menopausa (16300/mês)
 - alimentos que aumentam a testosterona (8100/mês)
