@@ -720,6 +720,259 @@
         "aiOverview": true
       },
       "fontes": []
+    },
+    {
+      "keyword": "gordura no fígado",
+      "volume": 90500,
+      "competition": "LOW",
+      "cluster": "figado-metabolismo",
+      "absorve": [
+        "A gordura no fígado pode alterar a pressão arterial?",
+        "Como se resolve a gordura no fígado?",
+        "O que é esteatose não alcoólica?",
+        "Quais são os sintomas de fígado inflamado?",
+        "sintomas de gordura no fígado grau 1",
+        "o que causa gordura no fígado"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIA-FÁCIL",
+        "topoDoGoogle": "Einstein, mnped, cadri, YouTube, alice, Drauzio, posenato, Abril (2019)",
+        "aiOverview": true
+      },
+      "notas": "Não prometer reversão garantida; cobrir exames e quando procurar hepatologista.",
+      "fontes": [
+        "https://www.rededorsaoluiz.com.br/noticias/artigo/gordura-no-figado-o-que-e-quais-os-riscos-e-como-prevenir",
+        "https://eloizaquintela.com.br/gordura-no-figado",
+        "https://institucional.amil.com.br/cuidadosmil-blog/gordura-no-figado-esteatose-hepatica-conheca-causas-sintomas-e-quando-e-possivel-reverter",
+        "https://clinicaviver.com/gordura-no-figado/",
+        "https://hepatogastro.com.br/como-tratar-gordura-no-figado-e-evitar-complicacoes/",
+        "https://cadri.med.br/sintomas-de-gordura-no-figado/",
+        "https://posenato.med.br/blog/gordura-no-figado/"
+      ]
+    },
+    {
+      "keyword": "hipotireoidismo sintomas",
+      "volume": 33100,
+      "competition": "LOW",
+      "cluster": "tireoide",
+      "absorve": [
+        "O que acontece com a pessoa que tem hipotireoidismo?",
+        "O hipotireoidismo subclínico tem cura?",
+        "hipotireoidismo sintomas mulher",
+        "hipotireoidismo sintomas no homem",
+        "Hipotireoidismo é grave"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIA-FÁCIL",
+        "topoDoGoogle": "Unimed Campinas, hospitalbadim, Rede D'Or (congênito), SBEM, sensce, Abril (2018), clinicacroce",
+        "aiOverview": true
+      },
+      "notas": "Diagnóstico só por TSH/T4 livre com médico; não sugerir suplemento ou dose.",
+      "fontes": [
+        "https://www.tireoide.org.br/para-o-publico/disturbios/hipotireoidismo-sintomas/",
+        "https://nav.dasa.com.br/blog/hipotireoidismo",
+        "https://drauziovarella.uol.com.br/endocrinologia/hipotireoidismo-sintomas-diagnostico-e-tratamento/",
+        "https://www.hospitalsantajoanarecife.com.br/blog/sintomas-de-hipotireoidismo-em-homens/",
+        "https://www.unimedcampinas.com.br/blog/viver-com-saude/hipotireoidismo-conheca-5-sintomas-e-como-tratar",
+        "https://www.clinicacroce.com.br/blog/o-que-causa-o-hipotireoidismo/"
+      ]
+    },
+    {
+      "keyword": "glicemia normal",
+      "volume": 27100,
+      "competition": "LOW",
+      "cluster": "diabetes",
+      "absorve": [
+        "Qual o nível de glicemia normal por idade?",
+        "Quando a glicemia é alta?",
+        "Qual o nível de glicose perigosa?",
+        "Qual o valor normal da glicemia após comer?",
+        "glicemia 99 é normal"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "labvital, anew, doctoralia (2015), escolaeducacao, tvgazeta (2019), Instagram, labsl",
+        "aiOverview": true
+      },
+      "notas": "Citar faixas só como aparecem nas fontes (jejum 70–99, pré-diabetes 100–125, ≥126 confirmado).",
+      "fontes": [
+        "https://abeso.org.br/qual-o-valor-normal-da-glicemia-saiba-o-que-e-e-como-medir-corretamente/",
+        "https://nav.dasa.com.br/blog/glicose-alta",
+        "https://www.gestaods.com.br/blog/tabela-de-glicemia-por-idade/",
+        "https://www.einstein.br/n/vida-saudavel/qual-e-o-valor-normal-da-glicose-apos-as-refeicoes-medico-explica",
+        "https://www.apphealth.com.br/tabela-de-glicemia-por-idade-o-que-voce-precisa-saber",
+        "https://labvital.com.br/glossario/glicemia-em-jejum-valores-de-referencia-e-interpretacao/"
+      ]
+    },
+    {
+      "keyword": "andropausa",
+      "volume": 39200,
+      "competition": "LOW",
+      "cluster": "hormonios",
+      "absorve": [
+        "sintomas da andropausa",
+        "Quais os sintomas da andropausa de um homem?",
+        "Quais são os 9 sinais da andropausa?",
+        "Qual é a idade para andropausa?",
+        "andropausa o que é"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "danielarusso, mundoeducacao, icedjoinville, UOL Notícias, paulatostes (2020), laboratoriocella, adrianapessoa (2019)",
+        "aiOverview": true
+      },
+      "notas": "Não indicar remédio nem reposição hormonal; sempre encaminhar a urologista/endocrinologista. Evitar linguagem de cura.",
+      "fontes": [
+        "https://www.einstein.br/n/glossario-de-saude/andropausa-eles-e-os-hormonios",
+        "https://www.rededorsaoluiz.com.br/doencas/andropausa",
+        "https://nav.dasa.com.br/blog/andropausa",
+        "https://spdm.org.br/blog/andropausa-uma-condicao-de-saude-masculina-em-foco/",
+        "https://www.megaimagem.com.br/blog/andropausa/",
+        "https://www.tjsc.jus.br/web/servidor/dicas-de-saude/-/asset_publisher/0rjJEBzj2Oes/content/andropausa-entendendo-e-lidando-com-a-saude-masculina"
+      ]
+    },
+    {
+      "keyword": "azia",
+      "volume": 49500,
+      "competition": "LOW",
+      "cluster": "digestivo",
+      "absorve": [
+        "Qual o motivo de ter azia?",
+        "O que é bom para aliviar azia?",
+        "Como saber se estou com azia ou refluxo?",
+        "O que comer quando estiver com azia?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "trofasaude.pt, labsl, gastroclinic.pt, G1, YouTube (2014), drconsulta, drmais",
+        "aiOverview": true
+      },
+      "notas": "Incluir sinais de alerta (dor no peito pode ser infarto) em 'Quando procurar um médico'; sem indicar antiácido/remédio.",
+      "fontes": [
+        "https://www.unimedriopreto.com.br/blog/o-que-e-a-azia/",
+        "https://nav.dasa.com.br/blog/azia",
+        "https://altadiagnosticos.com.br/saude/azia/",
+        "https://www.einstein.br/n/vida-saudavel/azia-e-um-problema-de-saude-comum-que-melhora-com-mudanca-de-habitos",
+        "https://www.tuasaude.com/azia/",
+        "https://araujo.com.br/blog/azia-e-ma-digestao/"
+      ]
+    },
+    {
+      "keyword": "dores lombares",
+      "volume": 74000,
+      "competition": "LOW",
+      "cluster": "coluna-dor",
+      "absorve": [
+        "Como saber se a lombar está inflamada?",
+        "Quando uma dor lombar é preocupante?",
+        "O que fazer para aliviar a dor na região lombar?",
+        "O que pode provocar dores lombares?",
+        "dor nas costas no meio",
+        "dores nas costas o que pode ser"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "AFP (2000), Correio Braziliense, Boa Forma (web story), Instagram, araujoefazzito (tag), Withings (2018), Facebook",
+        "aiOverview": true
+      },
+      "notas": "Seção obrigatória de sinais de alerta (perda de controle de urina/fezes, fraqueza nas pernas, febre, trauma); sem indicar remédio específico.",
+      "fontes": [
+        "https://www.maededeus.com.br/blog/artigo/dor-na-lombar-principais-causas-sinais-de-alerta-quando-procurar-avaliacao",
+        "https://bvsms.saude.gov.br/lombalgia-dor-nas-costas/",
+        "https://www.einstein.br/n/vida-saudavel/dor-na-lombar-conheca-os-diferentes-tipos-e-quando-se-preocupar",
+        "https://www.santapaula.com.br/blog/dor-lombar/",
+        "https://www.saudebemestar.pt/pt/clinica/ortopedia/lombalgia/",
+        "https://www.drricardokirihara.com.br/como-aliviar-dor-na-lombar-saiba-mais"
+      ]
+    },
+    {
+      "keyword": "próstata aumentada",
+      "volume": 37300,
+      "competition": "LOW",
+      "cluster": "saude-masculina",
+      "absorve": [
+        "hiperplasia prostática",
+        "próstata inchada",
+        "É perigoso ter próstata aumentada?",
+        "Quais os sintomas de uma próstata crescida?",
+        "Próstata aumentada tem cura",
+        "Próstata aumentada é grave"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "thiagohota, institutodaprostata (2020), hospitalaguasclaras, takanourologia, valtercassao, padrao, renatocorradi",
+        "aiOverview": true
+      },
+      "notas": "Deixar claro que HPB não é câncer, mas só o urologista confirma (PSA/toque/ultrassom). Não indicar remédio nem 'o que é bom para diminuir'.",
+      "fontes": [
+        "https://www.institutodaprostata.com/pt/blog/prostata-aumentada-como-quando-e-porque-se-deve-preocupar",
+        "https://www.takanourologia.com.br/blog/prostata-aumentada-hpb/",
+        "https://drpaulomaron.com.br/prostata-aumentada/",
+        "https://www.hospitalaguasclaras.com.br/blog/prostata-aumentada/",
+        "https://thiagohota.com.br/sintomas-da-prostata-aumentada-7-sinais-de-alerta/",
+        "https://www.padrao.com.br/blog/prostata-aumentada"
+      ]
+    },
+    {
+      "keyword": "câimbras nas pernas",
+      "volume": 9900,
+      "competition": "LOW",
+      "cluster": "musculo-e-forca",
+      "absorve": [
+        "O que é bom para acabar com a câimbra nas pernas?",
+        "Qual a doença que dá câimbra na perna?",
+        "Quando a câimbra é preocupante?",
+        "Qual o motivo de ter câimbra à noite?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Facebook, intramed, Instagram, patricialacombe (2017), YouTube, cardiodf (tag)",
+        "aiOverview": true
+      },
+      "notas": "Não afirmar que falta de magnésio é a causa; citar causas como as fontes (desidratação, minerais, fadiga, circulação). Sem indicar suplemento.",
+      "fontes": [
+        "https://nav.dasa.com.br/blog/caimbra",
+        "https://www.einstein.br/n/glossario-de-saude/caibra-na-perna",
+        "https://www.tuasaude.com/caimbra-nas-pernas/",
+        "https://drauziovarella.uol.com.br/doencas-e-sintomas/caimbra/",
+        "https://eurofarma.com.br/artigos/caimbras-o-que-causa-como-tratar"
+      ]
+    },
+    {
+      "keyword": "insônia",
+      "volume": 40500,
+      "competition": "LOW",
+      "cluster": "sono",
+      "absorve": [],
+      "serp": {
+        "facil": false,
+        "nivel": "MÉDIA",
+        "topoDoGoogle": "Einstein, Nav Dasa, araujo, YouTube, Sírio-Libanês, Care Plus, Wikipedia, Drauzio; termo-cabeça com autoridades; testar cauda longa (insônia causas 3,6 mil, insônia o que fazer 1,9 mil)",
+        "aiOverview": true
+      },
+      "fontes": []
+    },
+    {
+      "keyword": "queda de cabelo",
+      "volume": 22200,
+      "competition": "MEDIUM",
+      "cluster": "pele-cabelo",
+      "absorve": [],
+      "serp": {
+        "facil": false,
+        "nivel": "MÉDIA",
+        "topoDoGoogle": "Drauzio, Natura, Tua Saúde, Ducray, Nissei, Einstein, GNDI; marcas de cosmético no topo; testar cauda longa (queda de cabelo causas 3,6 mil)",
+        "aiOverview": true
+      },
+      "fontes": []
     }
   ],
   "descartadas": "Mounjaxi/suplemento/termogênico (volume < 400 ou sem medição), '... 40+' de cauda longa sem volume, 'como emagrecer depois dos 40' (260/mês, concorrência HIGH)."
