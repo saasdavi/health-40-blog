@@ -1,5 +1,7 @@
 # CLAUDE.md - Project Intelligence Guide
 
+> **LEIA PRIMEIRO:** o fluxo atual (3 artigos/dia, Haiku 4.5, demanda → pauta → Google → fila, banco de palavras, regras de segurança) está em `ESTRATEGIA-E-FLUXO-AUTOMATICO.md`. Onde este arquivo disser "2/day", "Haiku 3.5" ou "Google Custom Search", vale o novo documento.
+
 ## Project Overview
 
 **Health 40+ Blog** is an autonomous demand discovery + content production system.
