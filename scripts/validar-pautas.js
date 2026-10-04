@@ -140,12 +140,18 @@ async function checarFonte(p, url) {
 }
 
 if (ONLINE) {
-  const porPauta = [];
-  for (const p of alvo) {
-    const resultados = [];
-    for (const u of p.fontes || []) resultados.push({ u, ...(await checarFonte(p, u)) });
-    porPauta.push({ p, resultados });
-  }
+  // Em paralelo (8 pautas por vez, fontes de uma pauta juntas) para não passar de poucos minutos.
+  const porPauta = new Array(alvo.length);
+  let prox = 0;
+  const worker = async () => {
+    while (prox < alvo.length) {
+      const i = prox++;
+      const p = alvo[i];
+      const resultados = await Promise.all((p.fontes || []).map(async (u) => ({ u, ...(await checarFonte(p, u)) })));
+      porPauta[i] = { p, resultados };
+    }
+  };
+  await Promise.all(Array.from({ length: 8 }, worker));
   // Se TODAS as fontes de TODAS as pautas deram 403, o bloqueio é do ambiente (proxy/firewall),
   // não das fontes: o resultado é inconclusivo e não pode reprovar pauta.
   const todos = porPauta.flatMap((x) => x.resultados);
