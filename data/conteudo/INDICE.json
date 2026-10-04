@@ -831,6 +831,25 @@
    "escritoEm": "2026-10-04T18:21:47.349Z",
    "previstoPara": "2026-10-22",
    "pontesSugeridas": []
+  },
+  {
+   "slug": "sarcopenia",
+   "titulo": "Sarcopenia: o que é, sinais e como cuidar",
+   "palavraChave": "sarcopenia",
+   "cluster": "musculo-e-forca",
+   "volume": 135000,
+   "status": "pronto",
+   "palavras": 1236,
+   "h2": 11,
+   "imagens": 3,
+   "fontes": 4,
+   "auditoria": 98,
+   "publicadoEm": null,
+   "escritoEm": "2026-10-04T19:03:01.597Z",
+   "previstoPara": null,
+   "pontesSugeridas": [
+    "o que é sarcopenia"
+   ]
   }
  ]
 }

@@ -54,6 +54,7 @@ Dias de conteúdo já escrito + pauta validada: **20** (a 3 por dia).
 | Ferro Baixo Sintomas: 8 Sinais que Você Não Deve Ignorar | 1452 | 95 | 2026-10-21 |
 | Esquecimento Frequente: Quando Procurar Médico | 1439 | 92 | 2026-10-22 |
 | Idade Metabólica: Calcule e Melhore a Sua | 1499 | 100 | 2026-10-22 |
+| Sarcopenia: o que é, sinais e como cuidar | 1236 | 98 | - |
 
 ## Publicados
 
