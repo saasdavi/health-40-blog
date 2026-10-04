@@ -107,7 +107,8 @@ class ArticleRobot {
     const saiu = (kw) => publicados.some(a => (a.primaryKeyword || '').toLowerCase() === String(kw || '').toLowerCase());
     const espera = (k) => (k.papel === 'satelite' && k.pilar && !saiu(k.pilar) ? 1 : 0);
     livres.sort((a, b) => espera(a) - espera(b) || (a.cluster === ultima ? 1 : 0) - (b.cluster === ultima ? 1 : 0) || b.volume - a.volume);
-    return livres.slice(0, Math.min(BATCH_SIZE, this.restanteHoje()));
+    // o teto diário (DAILY_LIMIT) limita só a PUBLICAÇÃO; escrever para o estoque usa o lote inteiro
+    return livres.slice(0, ESTOQUE ? BATCH_SIZE : Math.min(BATCH_SIZE, this.restanteHoje()));
   }
 
   // Quantos artigos ainda cabem hoje (dia de Brasília, UTC-3) pelo teto DAILY_LIMIT
@@ -418,7 +419,8 @@ FOTO2_SECAO: <número do <h2>, diferente do da foto 1>
     const media = frases.reduce((s, f) => s + palavras(f), 0) / Math.max(1, frases.length);
     if (media > 22) perde(5, `frases com média de ${media.toFixed(1)} palavras (máx 22)`);
     const dens = (texto.toLowerCase().split(kw).length - 1) * palavras(kw) / Math.max(1, a.wordCount) * 100;
-    if (dens > 3) perde(5, `densidade da keyword ${dens.toFixed(1)}% (máx 3%)`);
+    if (dens > 5) bloqueios.push(`B08: densidade da palavra-chave ${dens.toFixed(1)}% (máx 5%; ideal até 3%). Reduza as repetições: use sinônimos, pronomes e variações naturais em vez de repetir "${a.primaryKeyword}"`);
+    else if (dens > 3) perde(8, `densidade da keyword ${dens.toFixed(1)}% (máx 3%): varie com sinônimos e pronomes`);
     const usadas = PROIBIDAS.filter(f => texto.toLowerCase().includes(f));
     if (usadas.length) perde(Math.min(10, usadas.length * 3), `frases proibidas: ${usadas.join(', ')}`);
     return { nota: Math.max(0, nota), bloqueios, alertas };

@@ -4,9 +4,9 @@ Fonte dos textos: `data/articles.json`. Atualizado por `node scripts/banco-conte
 
 | O que | Quantidade | Dias (3/dia) |
 |---|---|---|
-| **Pronto para usar** (escrito, aprovado, guardado) | **2** | 0 |
+| **Pronto para usar** (escrito, aprovado, guardado) | **1** | 0 |
 | Publicado (no ar) | 8 | |
-| Pauta validada, falta escrever | 61 | 20 |
+| Pauta validada, falta escrever | 62 | 20 |
 | Planejado, falta validar no Google | 886 | 295 |
 | Vagas (sem tema levantado) | 146 | |
 
@@ -17,7 +17,6 @@ Dias de conteúdo já escrito + pauta validada: **20** (a 3 por dia).
 | Artigo | Palavras | Auditoria | Previsto para |
 |---|---|---|---|
 | Labirintite: O Que É, Sintomas e Como Tratar | 1435 | 100 | 2026-10-05 |
-| Gordura no Fígado: Sintomas, Causas e Como Reverter | 1614 | 88 | 2026-10-05 |
 
 ## Publicados
 
@@ -48,6 +47,7 @@ Dias de conteúdo já escrito + pauta validada: **20** (a 3 por dia).
 - como acelerar o metabolismo (9900/mês)
 - alimentos anti inflamatórios (6600/mês)
 - fogachos (6000/mês)
+- gordura no fígado (90500/mês)
 - hipotireoidismo sintomas (33100/mês)
 - glicemia normal (27100/mês)
 - andropausa (39200/mês)
@@ -73,4 +73,3 @@ Dias de conteúdo já escrito + pauta validada: **20** (a 3 por dia).
 - manchas na pele (18100/mês)
 - tontura ao levantar (9900/mês)
 - névoa mental (8100/mês)
-- suor noturno (9900/mês)
