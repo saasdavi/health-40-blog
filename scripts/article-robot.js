@@ -182,6 +182,7 @@ class ArticleRobot {
 
 PALAVRA-CHAVE PRINCIPAL: "${p.keyword}" (${p.volume} buscas/mês no Brasil). Uma pauta = uma intenção = uma URL.
 ${p.absorve?.length ? `Variações que viram SEÇÕES H2 deste mesmo artigo (não artigos novos): ${p.absorve.join('; ')}.` : ''}
+${p.secundarias?.length ? `Palavras secundárias com busca comprovada (cubra a demanda delas de forma natural em títulos de seção ou no texto, só quando as fontes sustentarem; sem forçar nem repetir): ${p.secundarias.map((s) => `${s.palavra} (${s.volume})`).join('; ')}.` : ''}
 ${(() => {
       const seo = fontesLidas.map((f) => f.seo).filter(Boolean);
       if (!seo.length) return '';

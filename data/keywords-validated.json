@@ -200,7 +200,17 @@
       "serp": {
         "facil": null,
         "nivel": "NÃO CHECADO"
-      }
+      },
+      "secundarias": [
+        {
+          "palavra": "sarcopenia causas",
+          "volume": 90
+        },
+        {
+          "palavra": "sarcopenia exercícios",
+          "volume": 40
+        }
+      ]
     },
     {
       "keyword": "o que é colesterol",
@@ -215,7 +225,69 @@
       "serp": {
         "facil": null,
         "nivel": "NÃO CHECADO"
-      }
+      },
+      "secundarias": [
+        {
+          "palavra": "colesterol alto valores",
+          "volume": 880
+        },
+        {
+          "palavra": "colesterol alto o que não comer",
+          "volume": 720
+        },
+        {
+          "palavra": "alimentos que aumenta o colesterol",
+          "volume": 480
+        },
+        {
+          "palavra": "alimentos que aumentam o colesterol ruim",
+          "volume": 480
+        },
+        {
+          "palavra": "alimentos para colesterol alto",
+          "volume": 390
+        },
+        {
+          "palavra": "alimentação colesterol alto",
+          "volume": 390
+        },
+        {
+          "palavra": "dieta para colesterol",
+          "volume": 320
+        },
+        {
+          "palavra": "para colesterol",
+          "volume": 320
+        },
+        {
+          "palavra": "alimentos para aumentar colesterol bom",
+          "volume": 320
+        },
+        {
+          "palavra": "alimentos para aumentar o colesterol bom",
+          "volume": 320
+        },
+        {
+          "palavra": "alimentos que abaixa o colesterol",
+          "volume": 320
+        },
+        {
+          "palavra": "alimentos que aumentam o colesterol bom",
+          "volume": 320
+        },
+        {
+          "palavra": "alimentos que baixam o colesterol ruim",
+          "volume": 320
+        },
+        {
+          "palavra": "alimentos que combatem o colesterol",
+          "volume": 320
+        },
+        {
+          "palavra": "omega 3 colesterol",
+          "volume": 260
+        }
+      ]
     },
     {
       "keyword": "chá para colesterol",
@@ -237,7 +309,17 @@
       "serp": {
         "facil": null,
         "nivel": "NÃO CHECADO"
-      }
+      },
+      "secundarias": [
+        {
+          "palavra": "dieta colesterol alto",
+          "volume": 590
+        },
+        {
+          "palavra": "dieta de colesterol alto",
+          "volume": 70
+        }
+      ]
     },
     {
       "keyword": "resistência à insulina",
@@ -360,6 +442,36 @@
         "https://clinicaviver.com/menopausa-o-que-e-e-como-se-manifesta/",
         "https://www.saudebemestar.pt/pt/clinica/ginecologia/menopausa/",
         "https://www.theramex.com/br/menopausa/o-que-e-a-menopausa/"
+      ],
+      "secundarias": [
+        {
+          "palavra": "dieta na menopausa",
+          "volume": 720
+        },
+        {
+          "palavra": "sexo na menopausa",
+          "volume": 480
+        },
+        {
+          "palavra": "pele na menopausa",
+          "volume": 260
+        },
+        {
+          "palavra": "cabelo na menopausa",
+          "volume": 140
+        },
+        {
+          "palavra": "menopausa e sono",
+          "volume": 50
+        },
+        {
+          "palavra": "menopausa e cabelo",
+          "volume": 30
+        },
+        {
+          "palavra": "exercícios na menopausa",
+          "volume": 30
+        }
       ]
     },
     {
@@ -821,6 +933,20 @@
         "https://www.einstein.br/n/vida-saudavel/qual-e-o-valor-normal-da-glicose-apos-as-refeicoes-medico-explica",
         "https://www.apphealth.com.br/tabela-de-glicemia-por-idade-o-que-voce-precisa-saber",
         "https://labvital.com.br/glossario/glicemia-em-jejum-valores-de-referencia-e-interpretacao/"
+      ],
+      "secundarias": [
+        {
+          "palavra": "glicemia de jejum normal",
+          "volume": 880
+        },
+        {
+          "palavra": "glicemia normal por idade",
+          "volume": 140
+        },
+        {
+          "palavra": "glicemia normal para idosos",
+          "volume": 30
+        }
       ]
     },
     {
@@ -931,6 +1057,12 @@
         "https://www.tuasaude.com/queda-de-cabelo-o-que-pode-ser/",
         "https://www.totalmedcare.com.br/queda-de-cabelo-excessiva-o-que-pode-ser/",
         "https://qualiipanema.com.br/queda-de-cabelo-quando-me-preocupar/"
+      ],
+      "secundarias": [
+        {
+          "palavra": "causas de queda de cabelo feminino",
+          "volume": 480
+        }
       ]
     },
     {
@@ -1069,6 +1201,12 @@
         "https://www.cebap.org.br/exercicio-em-casa-5-atividades-para-idosos-praticarem-com-seguranca-e-autonomia",
         "https://blog.clinicalasensitive.com.br/post/exercicios-de-fisioterapia-para-idosos-guia-pratico-seguranca-mobilidade",
         "https://albamed.com.br/exercicios-mobilidade-idosos/"
+      ],
+      "secundarias": [
+        {
+          "palavra": "exercícios de equilíbrio para idosos",
+          "volume": 880
+        }
       ]
     },
     {
@@ -1342,7 +1480,13 @@
         "https://thiagohota.com.br/sintomas-da-prostata-aumentada-7-sinais-de-alerta/",
         "https://drtiagoguirro.com.br/hpb-tratamento-prostata-inchada/"
       ],
-      "notas": "Não prometer cura nem indicar remédio ou suplemento; deixar claro que aumento benigno não é câncer, mas que PSA e exame são com urologista."
+      "notas": "Não prometer cura nem indicar remédio ou suplemento; deixar claro que aumento benigno não é câncer, mas que PSA e exame são com urologista.",
+      "secundarias": [
+        {
+          "palavra": "próstata aumentada e grave",
+          "volume": 260
+        }
+      ]
     },
     {
       "keyword": "dores lombares",
@@ -1394,7 +1538,69 @@
         "https://www.drogasil.com.br/blog/beleza/cabelo/queda-de-cabelo-as-8-causas-mais-comuns-e-como-tratar",
         "https://liliandermatologista.com.br/queda-de-cabelo-quando-e-normal-e-quando-pode-ser-sinal-de-alerta/"
       ],
-      "notas": "Sem recomendar minoxidil, vitaminas ou suplementos; falar em investigar tireoide e ferro com médico."
+      "notas": "Sem recomendar minoxidil, vitaminas ou suplementos; falar em investigar tireoide e ferro com médico.",
+      "secundarias": [
+        {
+          "palavra": "exames para queda de cabelo",
+          "volume": 880
+        },
+        {
+          "palavra": "queda de cabelo é normal",
+          "volume": 880
+        },
+        {
+          "palavra": "queda de cabelo na menopausa",
+          "volume": 720
+        },
+        {
+          "palavra": "queda de cabelo em excesso",
+          "volume": 590
+        },
+        {
+          "palavra": "queda de cabelo motivos",
+          "volume": 590
+        },
+        {
+          "palavra": "queda de cabelo em mulheres",
+          "volume": 590
+        },
+        {
+          "palavra": "ansiedade e queda de cabelo",
+          "volume": 320
+        },
+        {
+          "palavra": "caspa e queda de cabelo",
+          "volume": 320
+        },
+        {
+          "palavra": "hipotireoidismo e queda de cabelo",
+          "volume": 260
+        },
+        {
+          "palavra": "quando a queda de cabelo é preocupante",
+          "volume": 210
+        },
+        {
+          "palavra": "queda de cabelo feminino em excesso",
+          "volume": 170
+        },
+        {
+          "palavra": "ferritina baixa e queda de cabelo",
+          "volume": 110
+        },
+        {
+          "palavra": "queda de cabelo no banho",
+          "volume": 110
+        },
+        {
+          "palavra": "queda de cabelo sintomas",
+          "volume": 40
+        },
+        {
+          "palavra": "queda de cabelo tem cura",
+          "volume": 40
+        }
+      ]
     },
     {
       "keyword": "esquecimento",
@@ -2011,7 +2217,17 @@
         "https://www.natura.com.br/blog/cabelo/por-que-os-cabelos-ficam-brancos",
         "https://www.renefurterer.com/pt-pt/dicas/cabelos-grisalhos-e-brancos"
       ],
-      "notas": "Sem indicar tinturas, shampoos ou marcas. Explicar que a causa principal é genética e idade; cabelos brancos muito cedo (antes dos 20) merecem avaliação médica para checar vitamina B12, tireoide e outras causas. Sem promessa de reverter."
+      "notas": "Sem indicar tinturas, shampoos ou marcas. Explicar que a causa principal é genética e idade; cabelos brancos muito cedo (antes dos 20) merecem avaliação médica para checar vitamina B12, tireoide e outras causas. Sem promessa de reverter.",
+      "secundarias": [
+        {
+          "palavra": "cabelos brancos para mulheres",
+          "volume": 390
+        },
+        {
+          "palavra": "cabelos brancos causas",
+          "volume": 320
+        }
+      ]
     },
     {
       "keyword": "ressecamento da pele",
@@ -2068,7 +2284,29 @@
         "https://portal.afya.com.br/saude/oms-lanca-manual-com-o-que-funciona-e-nao-funciona-para-dor-nas-costas",
         "https://www.drfelipecalmon.com.br/o-que-alivia-a-dor-nas-costas"
       ],
-      "notas": "Não competir com 'dores lombares': este artigo é geral (alta, média, baixa; costas ou rins) e deve linkar para o de dores lombares. Sinais de alerta obrigatórios: dormência ou fraqueza nas pernas, perda de urina ou fezes, febre, dor após queda, dor noturna que não alivia, perda de peso sem causa. Sem indicar medicamentos nem diagnosticar."
+      "notas": "Não competir com 'dores lombares': este artigo é geral (alta, média, baixa; costas ou rins) e deve linkar para o de dores lombares. Sinais de alerta obrigatórios: dormência ou fraqueza nas pernas, perda de urina ou fezes, febre, dor após queda, dor noturna que não alivia, perda de peso sem causa. Sem indicar medicamentos nem diagnosticar.",
+      "secundarias": [
+        {
+          "palavra": "o que é dor nas costas",
+          "volume": 720
+        },
+        {
+          "palavra": "dores nas costas em baixo",
+          "volume": 390
+        },
+        {
+          "palavra": "dor nas costas alongamento",
+          "volume": 390
+        },
+        {
+          "palavra": "dor nas costas exercícios",
+          "volume": 90
+        },
+        {
+          "palavra": "dor nas costas na menopausa",
+          "volume": 30
+        }
+      ]
     }
   ],
   "descartadas": "Mounjaxi/suplemento/termogênico (volume < 400 ou sem medição), '... 40+' de cauda longa sem volume, 'como emagrecer depois dos 40' (260/mês, concorrência HIGH)."

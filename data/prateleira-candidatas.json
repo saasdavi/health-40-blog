@@ -97,7 +97,17 @@
    "keyword": "exames de rotina",
    "volume": 6600,
    "cluster": "exames",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "secundarias": [
+    {
+     "palavra": "exames de rotina para mulheres",
+     "volume": 480
+    },
+    {
+     "palavra": "exames de rotina para homens",
+     "volume": 170
+    }
+   ]
   },
   {
    "keyword": "magnésio para que serve",
@@ -139,7 +149,13 @@
    "keyword": "alongamento",
    "volume": 33100,
    "cluster": "exercicio",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "secundarias": [
+    {
+     "palavra": "alongamento antes de dormir",
+     "volume": 390
+    }
+   ]
   },
   {
    "keyword": "exame de próstata",
@@ -193,7 +209,13 @@
    "keyword": "triglicerídeos o que é",
    "volume": 18100,
    "cluster": "exames",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "secundarias": [
+    {
+     "palavra": "alimentos que baixam triglicerídeos",
+     "volume": 110
+    }
+   ]
   },
   {
    "keyword": "rugas",
@@ -224,13 +246,41 @@
    "keyword": "quedas em idosos",
    "volume": 1000,
    "cluster": "longevidade",
-   "status": "sem-serp; volume no limite"
+   "status": "sem-serp; volume no limite",
+   "secundarias": [
+    {
+     "palavra": "como evitar quedas em idosos",
+     "volume": 40
+    }
+   ]
   },
   {
    "keyword": "glicemia de jejum",
    "volume": 22200,
    "cluster": "diabetes",
-   "status": "sem-serp; absorve: glicemia de jejum normal (880), alterada (110), alta em jejum (210), 126 em jejum (170), quantas horas de jejum (170)"
+   "status": "sem-serp; absorve: glicemia de jejum normal (880), alterada (110), alta em jejum (210), 126 em jejum (170), quantas horas de jejum (170)",
+   "secundarias": [
+    {
+     "palavra": "glicemia alta em jejum",
+     "volume": 210
+    },
+    {
+     "palavra": "quantas horas de jejum para glicemia",
+     "volume": 170
+    },
+    {
+     "palavra": "glicemia 126 em jejum",
+     "volume": 170
+    },
+    {
+     "palavra": "glicemia de jejum alterada",
+     "volume": 110
+    },
+    {
+     "palavra": "glicemia de jejum 100",
+     "volume": 40
+    }
+   ]
   },
   {
    "keyword": "curva glicêmica",
@@ -248,13 +298,25 @@
    "keyword": "resistência à insulina",
    "volume": 27000,
    "cluster": "diabetes",
-   "status": "sem-serp; cluster: homa ir (12100), insulina alta (9900), resistência à insulina (2900), insulina de jejum (880), índice homa (720)"
+   "status": "sem-serp; cluster: homa ir (12100), insulina alta (9900), resistência à insulina (2900), insulina de jejum (880), índice homa (720)",
+   "secundarias": [
+    {
+     "palavra": "resistência à insulina exame",
+     "volume": 110
+    }
+   ]
   },
   {
    "keyword": "hiperglicemia",
    "volume": 22200,
    "cluster": "diabetes",
-   "status": "sem-serp; absorve: glicemia alta (8100), hiperglicemia valores (590); urgência: só informativo, sem conduta de emergência"
+   "status": "sem-serp; absorve: glicemia alta (8100), hiperglicemia valores (590); urgência: só informativo, sem conduta de emergência",
+   "secundarias": [
+    {
+     "palavra": "hiperglicemia valores",
+     "volume": 590
+    }
+   ]
   },
   {
    "keyword": "glicemia capilar",
@@ -284,7 +346,17 @@
    "keyword": "alopecia",
    "volume": 135000,
    "cluster": "pele-cabelo",
-   "status": "sem-serp; absorve: alopecia androgenética, feminina, masculina; autoridades médicas podem dominar o topo"
+   "status": "sem-serp; absorve: alopecia androgenética, feminina, masculina; autoridades médicas podem dominar o topo",
+   "secundarias": [
+    {
+     "palavra": "alopecia capilar",
+     "volume": 880
+    },
+    {
+     "palavra": "alopecia masculina",
+     "volume": 480
+    }
+   ]
   },
   {
    "keyword": "dermatite de contato",
@@ -314,7 +386,17 @@
    "keyword": "calvície",
    "volume": 18100,
    "cluster": "pele-cabelo",
-   "status": "sem-serp; absorve: sinais de calvície, calvície masculina, feminina"
+   "status": "sem-serp; absorve: sinais de calvície, calvície masculina, feminina",
+   "secundarias": [
+    {
+     "palavra": "sinais de calvície",
+     "volume": 880
+    },
+    {
+     "palavra": "como prevenir calvície",
+     "volume": 90
+    }
+   ]
   },
   {
    "keyword": "rosácea",
@@ -326,7 +408,17 @@
    "keyword": "couro cabeludo",
    "volume": 9900,
    "cluster": "pele-cabelo",
-   "status": "sem-serp; absorve: coceira (8100), foliculite (8100), couro cabeludo seco/oleoso"
+   "status": "sem-serp; absorve: coceira (8100), foliculite (8100), couro cabeludo seco/oleoso",
+   "secundarias": [
+    {
+     "palavra": "dermatite seborreica no couro cabeludo",
+     "volume": 880
+    },
+    {
+     "palavra": "couro cabeludo seco",
+     "volume": 210
+    }
+   ]
   },
   {
    "keyword": "vermelhidão na pele",
@@ -338,25 +430,97 @@
    "keyword": "coceira na pele",
    "volume": 4400,
    "cluster": "pele-cabelo",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "secundarias": [
+    {
+     "palavra": "diabetes e coceira na pele",
+     "volume": 30
+    }
+   ]
   },
   {
    "keyword": "psa",
    "volume": 27100,
    "cluster": "prostata",
-   "status": "sem-serp; cluster: psa total e livre (22200), exame psa (14800), psa livre (6600), psa normal (1600), psa alto (1300); absorve 'exame de próstata' se SERP indicar mesma intenção; cuidado: não interpretar resultado individual"
+   "status": "sem-serp; cluster: psa total e livre (22200), exame psa (14800), psa livre (6600), psa normal (1600), psa alto (1300); absorve 'exame de próstata' se SERP indicar mesma intenção; cuidado: não interpretar resultado individual",
+   "secundarias": [
+    {
+     "palavra": "valor psa normal",
+     "volume": 210
+    },
+    {
+     "palavra": "psa por idade",
+     "volume": 110
+    },
+    {
+     "palavra": "psa precisa jejum",
+     "volume": 90
+    },
+    {
+     "palavra": "idade para fazer psa",
+     "volume": 70
+    },
+    {
+     "palavra": "psa após prostatectomia",
+     "volume": 70
+    }
+   ]
   },
   {
    "keyword": "prostatite",
    "volume": 22200,
    "cluster": "prostata",
-   "status": "sem-serp; absorve: prostatite sintomas (6600), tratamento (2400); sem indicar antibiótico"
+   "status": "sem-serp; absorve: prostatite sintomas (6600), tratamento (2400); sem indicar antibiótico",
+   "secundarias": [
+    {
+     "palavra": "prostatite crônica",
+     "volume": 390
+    }
+   ]
   },
   {
    "keyword": "próstata",
    "volume": 74000,
    "cluster": "prostata",
-   "status": "sem-serp; termo amplo: absorve saúde da próstata, cuidados com a próstata; não canibalizar 'próstata aumentada' (já na fila)"
+   "status": "sem-serp; termo amplo: absorve saúde da próstata, cuidados com a próstata; não canibalizar 'próstata aumentada' (já na fila)",
+   "secundarias": [
+    {
+     "palavra": "nódulo na próstata",
+     "volume": 720
+    },
+    {
+     "palavra": "infecção da próstata",
+     "volume": 590
+    },
+    {
+     "palavra": "próstata grande",
+     "volume": 210
+    },
+    {
+     "palavra": "como cuidar da próstata",
+     "volume": 140
+    },
+    {
+     "palavra": "próstata heterogênea",
+     "volume": 110
+    },
+    {
+     "palavra": "próstata pequena",
+     "volume": 110
+    },
+    {
+     "palavra": "volume da próstata",
+     "volume": 90
+    },
+    {
+     "palavra": "cuidados com a próstata",
+     "volume": 50
+    },
+    {
+     "palavra": "próstata grau 1",
+     "volume": 30
+    }
+   ]
   },
   {
    "keyword": "vontade de urinar toda hora",
@@ -398,7 +562,17 @@
    "keyword": "cochilo",
    "volume": 33100,
    "cluster": "sono",
-   "status": "sem-serp; absorve: cochilo depois do almoço, duração ideal, cochilo de 20 minutos"
+   "status": "sem-serp; absorve: cochilo depois do almoço, duração ideal, cochilo de 20 minutos",
+   "secundarias": [
+    {
+     "palavra": "cochilo depois do almoço",
+     "volume": 590
+    },
+    {
+     "palavra": "cochilo faz bem",
+     "volume": 50
+    }
+   ]
   },
   {
    "keyword": "como dormir rápido",
@@ -440,7 +614,13 @@
    "keyword": "pesadelos",
    "volume": 9900,
    "cluster": "sono",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "secundarias": [
+    {
+     "palavra": "pesadelos frequentes",
+     "volume": 140
+    }
+   ]
   },
   {
    "keyword": "luz azul",
@@ -452,7 +632,13 @@
    "keyword": "privação de sono",
    "volume": 3600,
    "cluster": "sono",
-   "status": "sem-serp; absorve: consequências da falta de sono, efeitos de dormir mal"
+   "status": "sem-serp; absorve: consequências da falta de sono, efeitos de dormir mal",
+   "secundarias": [
+    {
+     "palavra": "efeitos da privação de sono",
+     "volume": 170
+    }
+   ]
   },
   {
    "keyword": "ruminação mental",
@@ -518,7 +704,17 @@
    "keyword": "articulações",
    "volume": 18100,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 18555; absorve: rigidez nas articulações (590), alimentos para articulações (110)"
+   "status": "sem-serp; importada do Planejador; cluster estimado 18555; absorve: rigidez nas articulações (590), alimentos para articulações (110)",
+   "secundarias": [
+    {
+     "palavra": "rigidez nas articulações",
+     "volume": 590
+    },
+    {
+     "palavra": "alimentos para articulações",
+     "volume": 110
+    }
+   ]
   },
   {
    "keyword": "cartilagem",
@@ -530,7 +726,49 @@
    "keyword": "ossos",
    "volume": 8100,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 9062; absorve: alimentos para fortalecer os ossos (880), como fortalecer os ossos (320), leite fortalece os ossos (110), exercícios para fortalecer os ossos (90), saúde dos ossos (40), como cuidar dos ossos (20)"
+   "status": "sem-serp; importada do Planejador; cluster estimado 9062; absorve: alimentos para fortalecer os ossos (880), como fortalecer os ossos (320), leite fortalece os ossos (110), exercícios para fortalecer os ossos (90), saúde dos ossos (40), como cuidar dos ossos (20)",
+   "secundarias": [
+    {
+     "palavra": "alimentos para fortalecer os ossos",
+     "volume": 880
+    },
+    {
+     "palavra": "saúde óssea",
+     "volume": 480
+    },
+    {
+     "palavra": "perda de massa óssea",
+     "volume": 390
+    },
+    {
+     "palavra": "densidade mineral óssea",
+     "volume": 390
+    },
+    {
+     "palavra": "como fortalecer os ossos",
+     "volume": 320
+    },
+    {
+     "palavra": "leite fortalece os ossos",
+     "volume": 110
+    },
+    {
+     "palavra": "exercícios para fortalecer os ossos",
+     "volume": 90
+    },
+    {
+     "palavra": "resultado da densitometria óssea",
+     "volume": 50
+    },
+    {
+     "palavra": "saúde dos ossos",
+     "volume": 40
+    },
+    {
+     "palavra": "como recuperar massa óssea",
+     "volume": 40
+    }
+   ]
   },
   {
    "keyword": "pth",

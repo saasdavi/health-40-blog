@@ -139,3 +139,12 @@ Passo a passo:
 8. Registrar, mês a mês, indexadas, impressões, cliques e posição por categoria (marcos do plano de 12 meses).
 
 Observações: o Google ignora `Crawl-delay` do robots.txt; não é problema. O endereço no rodapé legal (`legal.endereco`) está vazio e a página de contato pode exigir um; decidir se vai exibir.
+
+## 12. Nenhuma palavra validada se perde (principais e secundárias)
+
+Regra: toda palavra com volume medido tem um destino. As **fortes viram pautas principais** (uma intenção = uma URL) e as **secundárias entram como termos de apoio dentro de outros artigos**, para cobrir a demanda sem criar páginas concorrentes.
+
+- `node scripts/distribuir-secundarias.js` (simulação) / `--aplicar`: para cada palavra do banco que ainda não é pauta, procura a pauta (fila ou candidata) cujos termos estão todos na palavra e a grava em `secundarias` dessa pauta (até 15, por volume). O robô lê `secundarias` no pedido de redação e cobre esses termos de forma natural em seções ou no texto, só quando as fontes sustentam.
+- Palavras com volume >= 1.000 que são variação de uma pauta existente **não** viram secundárias: ficam em `data/pesquisa/pautas-proprias-em-potencial.json`, com a pauta mais próxima. Avaliar caso a caso (pode ser outra intenção, com artigo próprio, ou sinônimo, que deve ser absorvido).
+- Palavras sem pauta correspondente continuam no banco: são os temas das próximas pautas. Use `node scripts/banco.js`.
+- Rode `distribuir-secundarias.js --aplicar` sempre que o banco ou a lista de candidatas crescer.
