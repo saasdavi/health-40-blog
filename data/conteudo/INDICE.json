@@ -2,7 +2,7 @@
  "resumo": {
   "publicados": 8,
   "prontosParaUsar": 38,
-  "pautasValidadasSemTexto": 23,
+  "pautasValidadasSemTexto": 22,
   "planejadasAValidar": 886,
   "vagas": 146,
   "espacosDoPlano": 1095
@@ -894,6 +894,23 @@
     "colesterol alterado",
     "colesterol alto sintomas"
    ]
+  },
+  {
+   "slug": "hipotireoidismo-sintomas",
+   "titulo": "Hipotireoidismo sintomas: sinais comuns aos 40+",
+   "palavraChave": "hipotireoidismo sintomas",
+   "cluster": "tireoide",
+   "volume": 33100,
+   "status": "pronto",
+   "palavras": 1144,
+   "h2": 13,
+   "imagens": 3,
+   "fontes": 3,
+   "auditoria": 94,
+   "publicadoEm": null,
+   "escritoEm": "2026-10-04T20:10:41.686Z",
+   "previstoPara": "2026-10-10",
+   "pontesSugeridas": []
   }
  ]
 }
