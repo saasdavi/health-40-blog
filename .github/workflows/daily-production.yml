@@ -2,11 +2,15 @@ name: 📝 Daily Article Production
 
 on:
   schedule:
-    # 3 artigos por dia (1 por execução). Minutos fora do horário cheio: o GitHub atrasa ou descarta
-    # agendamentos de 'hora em ponto' nos picos. 06:17, 13:43 e 17:23 UTC = 03:17, 10:43 e 14:23 em Brasília.
+    # Meta: 3 artigos por dia (1 por execução; o teto DAILY_LIMIT=3 por dia de Brasília faz as sobras não publicarem nada).
+    # O GitHub atrasa ou descarta agendamentos, então há 6 horários por dia: se alguns falharem, os outros completam os 3.
+    # UTC: 06:17, 09:43, 13:43, 17:23, 20:47 e 23:27 (03:17, 06:43, 10:43, 14:23, 17:47 e 20:27 em Brasília).
     - cron: '17 6 * * *'
+    - cron: '43 9 * * *'
     - cron: '43 13 * * *'
     - cron: '23 17 * * *'
+    - cron: '47 20 * * *'
+    - cron: '27 23 * * *'
   workflow_dispatch:
     inputs:
       batch:
