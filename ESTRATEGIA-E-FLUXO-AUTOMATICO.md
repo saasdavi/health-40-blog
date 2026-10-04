@@ -117,3 +117,9 @@ Crescimento: cada 1.000 palavras ocupam ~130 KB. Até algumas dezenas de milhare
 - Candidatas com volume esperando o Google: 100. Banco de palavras: ≈2.000 palavras com volume, 233 ainda não usadas com volume >= 1.000 e competição não HIGH.
 - Cobertura: 85 garantidos de 900 possíveis; categorias mais vazias: relacionamento, longevidade, ossos, próstata, digestão, visão, cérebro.
 - Pendências antigas: refazer `triglicerideos-altos-sintomas`, checar números dos artigos contra as fontes, bloco Mounjaxi (promessas sem base), endereço e e-mail legais, FAQ, remover `keyword-matrix-funil.json`, acompanhar os primeiros runs agendados.
+
+## 10. Meta de 12 meses e regra para aumentar o ritmo
+
+- Meta: **1.095 pautas validadas (3 por dia durante 1 ano)**, planejadas em `data/plano-editorial.json` (a criar) e com demanda comprovada.
+- Só depois de fechar esse ano planejado e validado se decide **aumentar o número de publicações por dia**. Antes disso, o ritmo fica em 3.
+- Ao decidir aumentar, conferir: (1) estoque de pautas validadas para o novo ritmo, (2) custo por artigo na API de redação (`data/metrics`), (3) taxa de aprovação do robô e amostragem humana de qualidade, (4) indexação e impressões no Search Console, para não publicar mais do que o Google consegue absorver.
