@@ -59,6 +59,7 @@ Dias de conteúdo já escrito + pauta validada: **18** (a 3 por dia).
 | Hipotireoidismo sintomas: sinais comuns aos 40+ | 1144 | 94 | 2026-10-10 |
 | Ferritina alta: causas e o que fazer | 1137 | 96 | 2026-10-06 |
 | TSH alto: o que significa e quando investigar | 1107 | 96 | 2026-10-16 |
+| Pressão alta sintomas: saiba por que a doença é silenciosa | 1627 | 87 | 2026-12-23 |
 
 ## Publicados
 

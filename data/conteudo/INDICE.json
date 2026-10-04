@@ -948,6 +948,23 @@
    "escritoEm": "2026-10-04T21:59:50.929Z",
    "previstoPara": "2026-10-16",
    "pontesSugeridas": []
+  },
+  {
+   "slug": "pressao-alta-sintomas",
+   "titulo": "Pressão alta sintomas: saiba por que a doença é silenciosa",
+   "palavraChave": "pressão alta sintomas",
+   "cluster": null,
+   "volume": null,
+   "status": "pronto",
+   "palavras": 1627,
+   "h2": 9,
+   "imagens": 3,
+   "fontes": 2,
+   "auditoria": 87,
+   "publicadoEm": null,
+   "escritoEm": "2026-10-04T22:11:43.257Z",
+   "previstoPara": "2026-12-23",
+   "pontesSugeridas": []
   }
  ]
 }
