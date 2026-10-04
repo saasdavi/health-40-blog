@@ -240,13 +240,14 @@ class ArticleRobot {
       total += custo;
       linhas.push(`  ${papel} (${model}): ${u.chamadas} chamadas | ${u.entrada} tokens entrada | ${u.saida} saída | US$ ${custo.toFixed(4)}`);
     }
-    const porPublicado = total / Math.max(1, this.stats.published);
+    const entregues = this.stats.published + (this.stats.estocados || 0);
+    const porPublicado = total / Math.max(1, entregues);
     console.log('\n💰 CUSTO DA EXECUÇÃO');
     linhas.forEach(l => console.log(l));
-    console.log(`  total US$ ${total.toFixed(4)} | por artigo publicado US$ ${porPublicado.toFixed(4)} | tentativas de redação ${this.stats.generated} | publicados ${this.stats.published}`);
+    console.log(`  total US$ ${total.toFixed(4)} | por artigo entregue US$ ${porPublicado.toFixed(4)} | tentativas de redação ${this.stats.generated} (${(this.stats.generated / Math.max(1, entregues)).toFixed(1)} por artigo entregue) | entregues ${entregues}`);
     if (process.env.DRY_RUN) return;
     const hist = this.readJson(METRICS_FILE, []);
-    hist.push({ data: new Date().toISOString(), modeloRedator: WRITER_MODEL, modeloValidador: VALIDATOR_MODEL, tentativas: this.stats.generated, aprovados: this.stats.approved, publicados: this.stats.published, falhas: this.stats.failed, uso: this.uso, custoUSD: Number(total.toFixed(4)), custoPorPublicadoUSD: Number(porPublicado.toFixed(4)) });
+    hist.push({ data: new Date().toISOString(), modeloRedator: WRITER_MODEL, modeloValidador: VALIDATOR_MODEL, tentativas: this.stats.generated, aprovados: this.stats.approved, publicados: this.stats.published, estocados: this.stats.estocados || 0, falhas: this.stats.failed, porArtigo: this.stats.porArtigo || [], uso: this.uso, custoUSD: Number(total.toFixed(4)), custoPorPublicadoUSD: Number(porPublicado.toFixed(4)) });
     fs.writeFileSync(METRICS_FILE, JSON.stringify(hist, null, 2));
   }
 
@@ -591,11 +592,14 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
 
     for (const p of pauta) {
       console.log(`\n📝 "${p.keyword}" (${p.volume}/mês)`);
+      const geradosAntes = this.stats.generated;
+      const registrar = (resultado) => { (this.stats.porArtigo ||= []).push({ palavra: p.keyword, tentativas: this.stats.generated - geradosAntes, resultado }); };
       try {
         const art = await this.produzir(p);
-        if (!art) { this.stats.failed++; console.log('  ⛔ reprovado após 2 voltas, não publicado'); continue; }
+        if (!art) { this.stats.failed++; registrar('reprovado'); console.log('  ⛔ reprovado após 2 voltas, não publicado'); continue; }
         this.stats.approved++;
-        if (!(await this.imagem(art))) { this.stats.failed++; continue; }
+        if (!(await this.imagem(art))) { this.stats.failed++; registrar('sem imagem'); continue; }
+        registrar('aprovado');
         const agora = new Date().toISOString();
         art.status = ESTOQUE ? 'draft' : 'published';
         if (ESTOQUE) {
@@ -620,6 +624,7 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
         if (ESTOQUE) { this.stats.estocados = (this.stats.estocados || 0) + 1; console.log(`  📦 guardado no estoque: /${art.slug}/`); } else { this.stats.published++; console.log(`  ✅ publicado: /${art.slug}/`); }
       } catch (e) {
         this.stats.failed++;
+        registrar('erro');
         console.error(`  ❌ ${e.message}`);
       }
     }
