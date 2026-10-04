@@ -567,7 +567,8 @@
         "Quantos minutos de caminhada por dia para perder peso?",
         "Quanto caminhar para emagrecer 1 kg?",
         "É possível perder barriga só com caminhada?",
-        "Em quantos dias a caminhada começa a fazer efeito?"
+        "Em quantos dias a caminhada começa a fazer efeito?",
+        "Caminhada para emagrecer: como começar"
       ],
       "serp": {
         "facil": true,
@@ -1837,6 +1838,124 @@
         "https://www.drataisalbano.com.br/pressao-alta-tratamento-sintomas/"
       ],
       "notas": "Não é artigo de emergência: explicar como medir certo (repouso, sem café) e que diagnóstico exige repetição; sem remédio nem dose; sinais de alerta (dor no peito, falta de ar, fraqueza de um lado) = pronto-socorro. Tratar 'pico de pressão' só como seção de alerta (≥180/120 com sintomas = emergência); não dar conduta de tratamento."
+    },
+    {
+      "keyword": "café da manhã saudável",
+      "volume": 22200,
+      "competition": "LOW",
+      "cluster": "nutricao",
+      "absorve": [
+        "O que devo comer no café da manhã saudável?",
+        "Quais são 7 opções saudáveis para café da manhã?",
+        "O que pode substituir o pão no café da manhã?",
+        "O que comer no café da manhã para perder barriga?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Pinterest, Correio Braziliense, G1 (vídeo 2023), TikTok, Instagram, A Revista da Mulher (2016)",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.seara.com.br/materia/cafe-da-manha-saudavel/",
+        "https://araujo.com.br/blog/cafe-da-manha-saudavel/",
+        "https://www.tiasonia.com.br/posts/cafe-da-manha-saudavel-7-opcoes-saudaveis-e-gostosas",
+        "https://www.colgate.com.br/oral-health/nutrition-and-oral-health/healthy-breakfast",
+        "https://www.tuasaude.com/o-que-comer-no-cafe-da-manha-para-emagrecer/",
+        "https://blog.ciaathletica.com.br/alimentacao-saudavel/cafe-da-manha-saudavel-e-simples/",
+        "https://blog.havan.com.br/cafe-da-manha-saudavel/",
+        "https://boaforma.abril.com.br/dieta/3-estrategias-simples-para-deixar-o-seu-cafe-da-manha-ainda-mais-saudavel/"
+      ],
+      "notas": "Alimentação geral, sem dieta nem promessa de emagrecimento. Quem tem diabetes, intolerância ou outra condição deve ajustar com nutricionista. Sem marcas nem suplementos."
+    },
+    {
+      "keyword": "lanche saudável",
+      "volume": 12100,
+      "competition": "MEDIUM",
+      "cluster": "nutricao",
+      "absorve": [
+        "Lanche saudável da tarde",
+        "Lanche saudável para substituir o jantar",
+        "Lanche da tarde fit para emagrecer",
+        "Lanche saudável para levar ao trabalho",
+        "O que é saudável comer à tarde?"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "PDF de nutricionista, Pinterest, YouTube, Globo Receitas, Tua Saúde (2016), Liv Up (2023)",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.saboresajinomoto.com.br/blog/lanches-saudaveis",
+        "https://www.tiasonia.com.br/posts/lanches-saudaveis-para-tarde-10-opcoes-que-nao-podem-faltar",
+        "https://www.seara.com.br/materia/12-lanches-leves-para-substituir-o-jantar-no-calor/",
+        "https://institucional.ifood.com.br/noticias/lanche/",
+        "https://www.receiteria.com.br/receitas-de-lanches-fitness/",
+        "https://blog.livup.com.br/lanches-para-levar-para-o-trabalho/",
+        "https://receitas.globo.com/dietas/saudavel/como-fazer-lanches-saudaveis-para-substituir-ultraprocessados.ghtml"
+      ],
+      "notas": "Ideias práticas de lanche, sem promessa de emagrecimento. Citar quem tem diabetes ou restrição alimentar para ajustar com profissional. Sem marcas."
+    },
+    {
+      "keyword": "jantar saudável",
+      "volume": 5400,
+      "competition": "LOW",
+      "cluster": "nutricao",
+      "absorve": [
+        "O que é uma janta saudável?",
+        "Jantar saudável para diabéticos",
+        "Jantar saudável para emagrecer",
+        "Jantar leve (light)",
+        "Cardápio semanal para jantar saudável",
+        "Opções para substituir o jantar"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Deliway (2021), YouTube, Casal Mistério, Receiteria, Pinterest, ND Mais",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.gazetadopovo.com.br/conteudo-publicitario/veg-e-lev/receitas-jantar-saudavel/",
+        "https://www.vitao.com.br/blog/jantar-saudavel-o-que-comer-ou-nao-a-noite",
+        "https://institucional.ifood.com.br/consumidores/o-que-pedir-para-jantar-saudavel/",
+        "https://www.deliway.com.br/blog/jantar-saudavel",
+        "https://www.receiteria.com.br/receitas-para-jantar-fitness/",
+        "https://ndmais.com.br/gastronomia/receitas/jantar-para-emagrecer-com-receita-facil-e-saudavel/"
+      ],
+      "notas": "Sem dieta nem promessa de emagrecer. Em jantar para diabéticos, não indicar quantidades nem substituir orientação de médico/nutricionista. Sem marcas."
+    },
+    {
+      "keyword": "hidroginástica benefícios",
+      "volume": 2900,
+      "competition": "LOW",
+      "cluster": "exercicio",
+      "absorve": [
+        "Quantas vezes por semana é bom fazer hidroginástica?",
+        "Quanto tempo a hidroginástica começa a fazer efeito?",
+        "Quais são as desvantagens da hidroginástica?",
+        "A hidroginástica engrossa as pernas?",
+        "Hidroginástica emagrece?",
+        "Hidroginástica: benefícios para coluna e para idosos"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Tua Saúde, Unimed (2023), TotalPass, Oncocenter, Unimed-BH, CNN Brasil (2023)",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.tuasaude.com/beneficios-da-hidroginastica/",
+        "https://www.unimed.coop.br/site/web/amparo/-/os-beneficios-da-hidroginastica-para-todas-as-idades",
+        "https://www.careplus.com.br/careplus-mais/para-que-serve-a-hidroginastica-veja-os-beneficios-e-quem-pode-praticar",
+        "https://oncocentermedicos.com.br/hidroginastica-impacta-qualidade-vida/",
+        "https://acquaacademia.com.br/5-beneficios-da-hidroginastica.html",
+        "https://blog.bodytech.com.br/artigo/hidroginastica-qual-o-beneficio-dessa-pratica",
+        "https://totalpass.com/br/blog/atividade-fisica/hidroginastica-beneficios/",
+        "https://viverbem.unimedbh.com.br/qualidade-de-vida/beneficios-da-hidroginastica/"
+      ],
+      "notas": "Recomendar avaliação médica antes de começar, principalmente com doença cardíaca, pressão alta ou problemas articulares. Sem promessa de emagrecimento ou de 'definir' o corpo."
     }
   ],
   "descartadas": "Mounjaxi/suplemento/termogênico (volume < 400 ou sem medição), '... 40+' de cauda longa sem volume, 'como emagrecer depois dos 40' (260/mês, concorrência HIGH)."
