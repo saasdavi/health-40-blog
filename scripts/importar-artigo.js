@@ -9,7 +9,7 @@ import ArticleRobot from './article-robot.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DIR = path.join(__dirname, '../data/entrada');
-const MIN_SCORE = 80;
+const MIN_SCORE = 86; // regra do usuário: só sobe com nota acima de 85
 
 const slugify = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
@@ -35,7 +35,7 @@ for (const nome of arquivos) {
     const art = robot.montar(pauta, d, fontes);
     const aud = robot.auditar(art, null);
     console.log(`  ${art.wordCount} palavras | auditoria ${aud.nota}/100${aud.bloqueios.length ? ' | BLOQUEIOS: ' + aud.bloqueios.join('; ') : ''}`);
-    if (aud.bloqueios.length || aud.nota < MIN_SCORE) { relatorio([`Nota ${aud.nota}/100 (mínimo ${MIN_SCORE})`, ...aud.bloqueios.map((b) => `BLOQUEIO: ${b}`), ...aud.alertas]); console.log('  ⛔ reprovado; veja o .relatorio.md'); continue; }
+    if (aud.bloqueios.length || aud.nota < MIN_SCORE) { relatorio([`Nota ${aud.nota}/100 (precisa ser acima de 85)`, ...aud.bloqueios.map((b) => `BLOQUEIO: ${b}`), ...aud.alertas]); console.log('  ⛔ reprovado; veja o .relatorio.md'); continue; }
     if (!(await robot.imagem(art))) { relatorio(['Sem imagens: confira PEXEL_API_KEY/PIXABAY_API_KEY e as buscas de foto do cabeçalho.']); continue; }
     const agora = new Date().toISOString();
     delete art.bodyOriginal; delete art._substitui;

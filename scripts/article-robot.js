@@ -120,7 +120,8 @@ class ArticleRobot {
   }
 
   // ---------- estoque de artigos prontos ----------
-  prontosNoEstoque() { return this.db.articles.filter(a => a.status === 'draft' && a.estoque === true && a.validador === 'APROVADO'); }
+  // Só publica do estoque o que foi aprovado pelo robô ou importado (ChatGPT etc.) E tem auditoria acima de 85; abaixo disso fica retido para correção.
+  prontosNoEstoque() { return this.db.articles.filter(a => a.status === 'draft' && a.estoque === true && (a.validador === 'APROVADO' || a.origem === 'importado') && (a.scores?.auditoria ?? 100) > 85); }
 
   // Publica do estoque (no máximo `quantos`, respeitando o teto do dia). Devolve quantos publicou.
   publicarDoEstoque(quantos) {
