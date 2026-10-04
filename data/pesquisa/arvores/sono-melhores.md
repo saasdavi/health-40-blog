@@ -25,11 +25,15 @@ Dados completos: `data/pesquisa/sono-volumes.json` (142 frases medidas, 33 volta
 | o que comer antes de dormir | 1.000 | |
 | acordar cansado | 1.000 | |
 
-## Descartadas
-- polissonografia (60.500): exame, só com revisão.
-- paralisia do sono (74.000): topo dominado por autoridades (já checada).
-- fadiga (27.100): amplo, fora do tema sono.
-- chá para dormir, magnésio para dormir, travesseiro, colchão: concorrência alta.
-- médico do sono: intenção de local.
-- acordar com falta de ar (1.000): sensível.
-- 33 frases com volume 0 (ex.: apneia do sono sintomas, ronco e pressão alta): voltaram sem dado; reescrever mais curtas.
+## Também são pautas (nada descartado; só muda o cuidado)
+| Pauta | Buscas/mês | Como escrever |
+|---|---|---|
+| polissonografia | 60.500 | exame: como é feito, preparo, resultado; revisão sua |
+| paralisia do sono | 74.000 | concorrência forte: escrever pelas perguntas (como sair, é perigoso, por que acontece) |
+| fadiga | 27.100 | amplo: dividir em causas, cansaço depois dos 40, fadiga e sono |
+| chá para dormir | 9.900 | informativo, sem promessa; ângulo "o que a ciência diz" |
+| magnésio para dormir | 2.900 | benefícios e limites, sem dose nem marca |
+| médico do sono | 5.400 | "quando procurar um médico do sono" |
+| acordar com falta de ar | 1.000 | sintoma: quando é alerta; revisão sua |
+| travesseiro ideal / colchão ideal | 320 / 110 | baixo volume: entram dentro de "posição para dormir" |
+| frases que voltaram 0 (apneia do sono sintomas, ronco e pressão alta...) | sem dado | reescrever curtas e medir de novo |

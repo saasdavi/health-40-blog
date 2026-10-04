@@ -21,3 +21,7 @@ No ar: 0 | Estoque: 2 | Pautas validadas sem texto: 0
 - gleason (1.410/mês)
 - nictúria (590/mês)
 - saúde masculina (590/mês)
+- jato de urina fraco (590/mês)
+- dor no períneo homem (210/mês)
+- urina residual (50/mês)
+- gotejamento depois de urinar (20/mês)

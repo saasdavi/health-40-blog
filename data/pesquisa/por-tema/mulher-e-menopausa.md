@@ -16,9 +16,13 @@ No ar: 1 | Estoque: 3 | Pautas validadas sem texto: 5
 
 - menopausa (169.910/mês)
 - perimenopausa (40.710/mês)
+- saúde da mulher (33.100/mês) [atenção: amplo]
 - climatério o que é (21.880/mês)
 - fogacho (6.250/mês)
+- medicamento para fogachos (290/mês) [atenção: sensível:remedioMarca]
 - antidepressivo para fogachos (70/mês)
+- fogachos medicamentos (110/mês) [atenção: sensível:remedioMarca, comp. alta]
+- fogachos tratamento natural (110/mês) [atenção: comp. alta]
 - fogachos tratamento fitoterápico (30/mês)
 - fogachos bula (10/mês)
 - fogachos causas (10/mês)
@@ -26,3 +30,4 @@ No ar: 1 | Estoque: 3 | Pautas validadas sem texto: 5
 - fogachos intensos (10/mês)
 - fogachos e dor de cabeça (10/mês)
 - fogachos e suores noturnos (10/mês)
+- fogachos o que fazer (10/mês) [atenção: comp. alta]

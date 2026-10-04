@@ -24,3 +24,4 @@ No ar: 2 | Estoque: 5 | Pautas validadas sem texto: 9
 - triglicérides alto (49.500/mês)
 - triglicerides (6.980/mês)
 - fogachos e pressão alta (50/mês)
+- anticolesterol (40/mês) [atenção: comp. alta]

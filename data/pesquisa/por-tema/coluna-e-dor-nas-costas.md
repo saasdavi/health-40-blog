@@ -21,3 +21,7 @@ No ar: 0 | Estoque: 2 | Pautas validadas sem texto: 0
 - dores musculares costas (1.600/mês)
 - dor nas costas acima das nádegas (1.600/mês)
 - pilates para coluna (880/mês)
+- relaxante muscular para coluna (1.300/mês) [atenção: comp. alta]
+- dor na coluna cervical como aliviar (720/mês) [atenção: comp. alta]
+- dor lombar relaxante muscular (40/mês)
+- como proteger a coluna (10/mês) [atenção: comp. alta]
