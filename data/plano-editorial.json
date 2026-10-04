@@ -1,0 +1,9855 @@
+{
+ "gerado": "2026-10-04",
+ "inicio": "2026-10-05",
+ "dias": 365,
+ "porDia": 3,
+ "espacos": 1095,
+ "totais": {
+  "validada": 63,
+  "a-checar": 175,
+  "a-validar": 711,
+  "vaga": 146
+ },
+ "meses": [
+  {
+   "mes": "2026-10",
+   "espacos": 81,
+   "validada": 63,
+   "a-checar": 18,
+   "a-validar": 0,
+   "vaga": 0
+  },
+  {
+   "mes": "2026-11",
+   "espacos": 90,
+   "validada": 0,
+   "a-checar": 90,
+   "a-validar": 0,
+   "vaga": 0
+  },
+  {
+   "mes": "2026-12",
+   "espacos": 93,
+   "validada": 0,
+   "a-checar": 67,
+   "a-validar": 26,
+   "vaga": 0
+  },
+  {
+   "mes": "2027-01",
+   "espacos": 93,
+   "validada": 0,
+   "a-checar": 0,
+   "a-validar": 93,
+   "vaga": 0
+  },
+  {
+   "mes": "2027-02",
+   "espacos": 84,
+   "validada": 0,
+   "a-checar": 0,
+   "a-validar": 84,
+   "vaga": 0
+  },
+  {
+   "mes": "2027-03",
+   "espacos": 93,
+   "validada": 0,
+   "a-checar": 0,
+   "a-validar": 93,
+   "vaga": 0
+  },
+  {
+   "mes": "2027-04",
+   "espacos": 90,
+   "validada": 0,
+   "a-checar": 0,
+   "a-validar": 90,
+   "vaga": 0
+  },
+  {
+   "mes": "2027-05",
+   "espacos": 93,
+   "validada": 0,
+   "a-checar": 0,
+   "a-validar": 93,
+   "vaga": 0
+  },
+  {
+   "mes": "2027-06",
+   "espacos": 90,
+   "validada": 0,
+   "a-checar": 0,
+   "a-validar": 90,
+   "vaga": 0
+  },
+  {
+   "mes": "2027-07",
+   "espacos": 93,
+   "validada": 0,
+   "a-checar": 0,
+   "a-validar": 93,
+   "vaga": 0
+  },
+  {
+   "mes": "2027-08",
+   "espacos": 93,
+   "validada": 0,
+   "a-checar": 0,
+   "a-validar": 49,
+   "vaga": 44
+  },
+  {
+   "mes": "2027-09",
+   "espacos": 90,
+   "validada": 0,
+   "a-checar": 0,
+   "a-validar": 0,
+   "vaga": 90
+  },
+  {
+   "mes": "2027-10",
+   "espacos": 12,
+   "validada": 0,
+   "a-checar": 0,
+   "a-validar": 0,
+   "vaga": 12
+  }
+ ],
+ "calendario": [
+  {
+   "data": "2026-10-05",
+   "pautas": [
+    {
+     "tema": "labirintite",
+     "status": "validada",
+     "cluster": "ouvido-equilibrio",
+     "volume": 110000,
+     "sensivel": false
+    },
+    {
+     "tema": "gordura no fígado",
+     "status": "validada",
+     "cluster": "figado-metabolismo",
+     "volume": 90500,
+     "sensivel": false
+    },
+    {
+     "tema": "dores lombares",
+     "status": "validada",
+     "cluster": "coluna",
+     "volume": 74000,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-06",
+   "pautas": [
+    {
+     "tema": "sintomas de diabetes",
+     "status": "validada",
+     "cluster": "diabetes",
+     "volume": 60500,
+     "sensivel": false
+    },
+    {
+     "tema": "ferritina alta",
+     "status": "validada",
+     "cluster": "exames",
+     "volume": 60500,
+     "sensivel": false
+    },
+    {
+     "tema": "cortisol alto",
+     "status": "validada",
+     "cluster": "hormonios",
+     "volume": 60500,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-07",
+   "pautas": [
+    {
+     "tema": "hemograma completo",
+     "status": "validada",
+     "cluster": "exames",
+     "volume": 60500,
+     "sensivel": false
+    },
+    {
+     "tema": "azia",
+     "status": "validada",
+     "cluster": "digestivo",
+     "volume": 49500,
+     "sensivel": false
+    },
+    {
+     "tema": "varizes",
+     "status": "validada",
+     "cluster": "circulacao",
+     "volume": 49500,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-08",
+   "pautas": [
+    {
+     "tema": "dor nas costas",
+     "status": "validada",
+     "cluster": "coluna",
+     "volume": 49500,
+     "sensivel": false
+    },
+    {
+     "tema": "alimentos ricos em fibras",
+     "status": "validada",
+     "cluster": "alimentacao",
+     "volume": 49500,
+     "sensivel": false
+    },
+    {
+     "tema": "insônia",
+     "status": "validada",
+     "cluster": "sono",
+     "volume": 40500,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-09",
+   "pautas": [
+    {
+     "tema": "alimentos ricos em ferro",
+     "status": "validada",
+     "cluster": "alimentacao",
+     "volume": 40500,
+     "sensivel": false
+    },
+    {
+     "tema": "ritmo circadiano",
+     "status": "validada",
+     "cluster": "sono",
+     "volume": 40500,
+     "sensivel": false
+    },
+    {
+     "tema": "andropausa",
+     "status": "validada",
+     "cluster": "hormonios",
+     "volume": 39200,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-10",
+   "pautas": [
+    {
+     "tema": "hipotireoidismo sintomas",
+     "status": "validada",
+     "cluster": "tireoide",
+     "volume": 33100,
+     "sensivel": false
+    },
+    {
+     "tema": "creatinina alta",
+     "status": "validada",
+     "cluster": "exames",
+     "volume": 33100,
+     "sensivel": false
+    },
+    {
+     "tema": "barriga inchada",
+     "status": "validada",
+     "cluster": "digestao",
+     "volume": 33100,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-11",
+   "pautas": [
+    {
+     "tema": "glicemia normal",
+     "status": "validada",
+     "cluster": "diabetes",
+     "volume": 27100,
+     "sensivel": false
+    },
+    {
+     "tema": "prisão de ventre",
+     "status": "validada",
+     "cluster": "digestao",
+     "volume": 33100,
+     "sensivel": false
+    },
+    {
+     "tema": "inchaço nas pernas",
+     "status": "validada",
+     "cluster": "circulacao",
+     "volume": 22200,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-12",
+   "pautas": [
+    {
+     "tema": "síndrome do intestino irritável",
+     "status": "validada",
+     "cluster": "digestao",
+     "volume": 33100,
+     "sensivel": false
+    },
+    {
+     "tema": "moscas volantes",
+     "status": "validada",
+     "cluster": "visao",
+     "volume": 22200,
+     "sensivel": false
+    },
+    {
+     "tema": "noctúria",
+     "status": "validada",
+     "cluster": "urinario",
+     "volume": 22200,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-13",
+   "pautas": [
+    {
+     "tema": "ureia alta",
+     "status": "validada",
+     "cluster": "exames",
+     "volume": 22200,
+     "sensivel": false
+    },
+    {
+     "tema": "café da manhã saudável",
+     "status": "validada",
+     "cluster": "nutricao",
+     "volume": 22200,
+     "sensivel": false
+    },
+    {
+     "tema": "queda de cabelo",
+     "status": "validada",
+     "cluster": "pele-cabelo",
+     "volume": 22000,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-14",
+   "pautas": [
+    {
+     "tema": "presbiopia",
+     "status": "validada",
+     "cluster": "visao",
+     "volume": 18100,
+     "sensivel": false
+    },
+    {
+     "tema": "manchas na pele",
+     "status": "validada",
+     "cluster": "pele-cabelo",
+     "volume": 18100,
+     "sensivel": false
+    },
+    {
+     "tema": "pressão 14 por 9",
+     "status": "validada",
+     "cluster": "coracao",
+     "volume": 18100,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-15",
+   "pautas": [
+    {
+     "tema": "longevidade",
+     "status": "validada",
+     "cluster": "longevidade",
+     "volume": 18100,
+     "sensivel": false
+    },
+    {
+     "tema": "o que é menopausa",
+     "status": "validada",
+     "cluster": "menopausa",
+     "volume": 14800,
+     "sensivel": false
+    },
+    {
+     "tema": "vitamina d baixa sintomas",
+     "status": "validada",
+     "cluster": "nutricao",
+     "volume": 12100,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-16",
+   "pautas": [
+    {
+     "tema": "caminhada emagrece",
+     "status": "validada",
+     "cluster": "emagrecimento",
+     "volume": 12100,
+     "sensivel": false
+    },
+    {
+     "tema": "como controlar a ansiedade",
+     "status": "validada",
+     "cluster": "saude-mental",
+     "volume": 12100,
+     "sensivel": false
+    },
+    {
+     "tema": "tsh alto",
+     "status": "validada",
+     "cluster": "exames",
+     "volume": 12100,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-17",
+   "pautas": [
+    {
+     "tema": "lanche saudável",
+     "status": "validada",
+     "cluster": "nutricao",
+     "volume": 12100,
+     "sensivel": false
+    },
+    {
+     "tema": "cabelos brancos",
+     "status": "validada",
+     "cluster": "pele-cabelo",
+     "volume": 12100,
+     "sensivel": false
+    },
+    {
+     "tema": "como acelerar o metabolismo",
+     "status": "validada",
+     "cluster": "emagrecimento",
+     "volume": 9900,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-18",
+   "pautas": [
+    {
+     "tema": "câimbras nas pernas",
+     "status": "validada",
+     "cluster": "musculo-e-forca",
+     "volume": 9900,
+     "sensivel": false
+    },
+    {
+     "tema": "visão embaçada",
+     "status": "validada",
+     "cluster": "olhos",
+     "volume": 9900,
+     "sensivel": false
+    },
+    {
+     "tema": "tontura ao levantar",
+     "status": "validada",
+     "cluster": "sintomas",
+     "volume": 9900,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-19",
+   "pautas": [
+    {
+     "tema": "alimentos que aumentam a testosterona",
+     "status": "validada",
+     "cluster": "hormonios",
+     "volume": 8100,
+     "sensivel": false
+    },
+    {
+     "tema": "suor noturno",
+     "status": "validada",
+     "cluster": "sintomas",
+     "volume": 9900,
+     "sensivel": false
+    },
+    {
+     "tema": "névoa mental",
+     "status": "validada",
+     "cluster": "memoria",
+     "volume": 8100,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-20",
+   "pautas": [
+    {
+     "tema": "ressecamento da pele",
+     "status": "validada",
+     "cluster": "pele-cabelo",
+     "volume": 8100,
+     "sensivel": false
+    },
+    {
+     "tema": "alimentos anti inflamatórios",
+     "status": "validada",
+     "cluster": "nutricao",
+     "volume": 6600,
+     "sensivel": false
+    },
+    {
+     "tema": "fogachos",
+     "status": "validada",
+     "cluster": "menopausa",
+     "volume": 6000,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-21",
+   "pautas": [
+    {
+     "tema": "jantar saudável",
+     "status": "validada",
+     "cluster": "nutricao",
+     "volume": 5400,
+     "sensivel": false
+    },
+    {
+     "tema": "exercícios para idosos",
+     "status": "validada",
+     "cluster": "musculo-e-forca",
+     "volume": 4400,
+     "sensivel": false
+    },
+    {
+     "tema": "ferro baixo sintomas",
+     "status": "validada",
+     "cluster": "nutricao",
+     "volume": 3600,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-22",
+   "pautas": [
+    {
+     "tema": "esquecimento",
+     "status": "validada",
+     "cluster": "memoria",
+     "volume": 3600,
+     "sensivel": false
+    },
+    {
+     "tema": "idade metabólica",
+     "status": "validada",
+     "cluster": "emagrecimento",
+     "volume": 3400,
+     "sensivel": false
+    },
+    {
+     "tema": "hidroginástica benefícios",
+     "status": "validada",
+     "cluster": "exercicio",
+     "volume": 2900,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-23",
+   "pautas": [
+    {
+     "tema": "ereção matinal",
+     "status": "validada",
+     "cluster": "prostata",
+     "volume": 1300,
+     "sensivel": true
+    },
+    {
+     "tema": "colesterol hdl",
+     "status": "validada",
+     "cluster": "colesterol",
+     "volume": 74000,
+     "sensivel": false
+    },
+    {
+     "tema": "o que é sarcopenia",
+     "status": "validada",
+     "cluster": "musculo-e-forca",
+     "volume": 27100,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-24",
+   "pautas": [
+    {
+     "tema": "colesterol ldl",
+     "status": "validada",
+     "cluster": "colesterol",
+     "volume": 74000,
+     "sensivel": false
+    },
+    {
+     "tema": "próstata aumentada",
+     "status": "validada",
+     "cluster": "prostata",
+     "volume": 18100,
+     "sensivel": false
+    },
+    {
+     "tema": "colesterol alto sintomas",
+     "status": "validada",
+     "cluster": "colesterol",
+     "volume": 27100,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-25",
+   "pautas": [
+    {
+     "tema": "com quantos anos a mulher entra na menopausa",
+     "status": "validada",
+     "cluster": "menopausa",
+     "volume": 16300,
+     "sensivel": false
+    },
+    {
+     "tema": "queda de cabelo causas",
+     "status": "validada",
+     "cluster": "pele-cabelo",
+     "volume": 7200,
+     "sensivel": false
+    },
+    {
+     "tema": "menopausa precoce",
+     "status": "validada",
+     "cluster": "menopausa",
+     "volume": 12100,
+     "sensivel": false
+    }
+   ]
+  },
+  {
+   "data": "2026-10-26",
+   "pautas": [
+    {
+     "tema": "alopecia",
+     "status": "a-checar",
+     "cluster": "pele-cabelo",
+     "volume": 135000
+    },
+    {
+     "tema": "triglicerídeos",
+     "status": "a-checar",
+     "cluster": "coracao",
+     "volume": 135000
+    },
+    {
+     "tema": "dermatite de contato",
+     "status": "a-checar",
+     "cluster": "pele-cabelo",
+     "volume": 74000
+    }
+   ]
+  },
+  {
+   "data": "2026-10-27",
+   "pautas": [
+    {
+     "tema": "próstata",
+     "status": "a-checar",
+     "cluster": "prostata",
+     "volume": 74000
+    },
+    {
+     "tema": "paralisia do sono",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 74000
+    },
+    {
+     "tema": "fosfatase alcalina",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 74000
+    }
+   ]
+  },
+  {
+   "data": "2026-10-28",
+   "pautas": [
+    {
+     "tema": "bruxismo",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 74000
+    },
+    {
+     "tema": "bursite",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 74000
+    },
+    {
+     "tema": "colesterol das hdl",
+     "status": "a-checar",
+     "cluster": "coracao",
+     "volume": 74000
+    }
+   ]
+  },
+  {
+   "data": "2026-10-29",
+   "pautas": [
+    {
+     "tema": "ômega 3 para que serve",
+     "status": "a-checar",
+     "cluster": "nutricao",
+     "volume": 60500
+    },
+    {
+     "tema": "melasma",
+     "status": "a-checar",
+     "cluster": "pele-cabelo",
+     "volume": 60500
+    },
+    {
+     "tema": "colesterol",
+     "status": "a-checar",
+     "cluster": "coracao",
+     "volume": 60500
+    }
+   ]
+  },
+  {
+   "data": "2026-10-30",
+   "pautas": [
+    {
+     "tema": "estrias",
+     "status": "a-checar",
+     "cluster": "pele-cabelo",
+     "volume": 49500
+    },
+    {
+     "tema": "menopausa",
+     "status": "a-checar",
+     "cluster": "menopausa",
+     "volume": 49500
+    },
+    {
+     "tema": "triglicérides alto",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 49500
+    }
+   ]
+  },
+  {
+   "data": "2026-10-31",
+   "pautas": [
+    {
+     "tema": "magnésio para que serve",
+     "status": "a-checar",
+     "cluster": "nutricao",
+     "volume": 40500
+    },
+    {
+     "tema": "hipertensão arterial",
+     "status": "a-checar",
+     "cluster": "coracao",
+     "volume": 40500
+    },
+    {
+     "tema": "exercícios para ombro",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 40500
+    }
+   ]
+  },
+  {
+   "data": "2026-11-01",
+   "pautas": [
+    {
+     "tema": "hipertensão",
+     "status": "a-checar",
+     "cluster": "coracao",
+     "volume": 40500
+    },
+    {
+     "tema": "gota",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 40500
+    },
+    {
+     "tema": "dieta emagrecer",
+     "status": "a-checar",
+     "cluster": "emagrecimento",
+     "volume": 40500
+    }
+   ]
+  },
+  {
+   "data": "2026-11-02",
+   "pautas": [
+    {
+     "tema": "perimenopausa",
+     "status": "a-checar",
+     "cluster": "menopausa",
+     "volume": 40500
+    },
+    {
+     "tema": "ácido fólico para que serve",
+     "status": "a-checar",
+     "cluster": "nutricao",
+     "volume": 33100
+    },
+    {
+     "tema": "alongamento",
+     "status": "a-checar",
+     "cluster": "exercicio",
+     "volume": 33100
+    }
+   ]
+  },
+  {
+   "data": "2026-11-03",
+   "pautas": [
+    {
+     "tema": "cochilo",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 33100
+    },
+    {
+     "tema": "emagrecer",
+     "status": "a-checar",
+     "cluster": "emagrecimento",
+     "volume": 33100
+    },
+    {
+     "tema": "sarcopenia o que é",
+     "status": "a-checar",
+     "cluster": "coluna",
+     "volume": 33100
+    }
+   ]
+  },
+  {
+   "data": "2026-11-04",
+   "pautas": [
+    {
+     "tema": "colesterol não hdl",
+     "status": "a-checar",
+     "cluster": "colesterol",
+     "volume": 27100
+    },
+    {
+     "tema": "câimbras",
+     "status": "a-checar",
+     "cluster": "coluna",
+     "volume": 33100
+    },
+    {
+     "tema": "psa",
+     "status": "a-checar",
+     "cluster": "prostata",
+     "volume": 27100
+    }
+   ]
+  },
+  {
+   "data": "2026-11-05",
+   "pautas": [
+    {
+     "tema": "colesterol ruim qual é",
+     "status": "a-checar",
+     "cluster": "colesterol",
+     "volume": 22200
+    },
+    {
+     "tema": "glicemia de jejum",
+     "status": "a-checar",
+     "cluster": "diabetes",
+     "volume": 22200
+    },
+    {
+     "tema": "caspa",
+     "status": "a-checar",
+     "cluster": "pele-cabelo",
+     "volume": 22200
+    }
+   ]
+  },
+  {
+   "data": "2026-11-06",
+   "pautas": [
+    {
+     "tema": "microalbuminúria",
+     "status": "a-checar",
+     "cluster": "diabetes",
+     "volume": 22200
+    },
+    {
+     "tema": "prostatite",
+     "status": "a-checar",
+     "cluster": "prostata",
+     "volume": 22200
+    },
+    {
+     "tema": "hiperglicemia",
+     "status": "a-checar",
+     "cluster": "diabetes",
+     "volume": 22200
+    }
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "pautas": [
+    {
+     "tema": "como dormir rápido",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 22200
+    },
+    {
+     "tema": "tendinite no ombro",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 22200
+    },
+    {
+     "tema": "cabelo grisalho",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 22200
+    }
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "pautas": [
+    {
+     "tema": "ligamento do joelho",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 22200
+    },
+    {
+     "tema": "dor nas costas no meio",
+     "status": "a-checar",
+     "cluster": "coluna",
+     "volume": 22200
+    },
+    {
+     "tema": "exame de próstata",
+     "status": "a-checar",
+     "cluster": "prostata",
+     "volume": 18100
+    }
+   ]
+  },
+  {
+   "data": "2026-11-09",
+   "pautas": [
+    {
+     "tema": "alimentos ricos em proteína",
+     "status": "a-checar",
+     "cluster": "alimentacao",
+     "volume": 18100
+    },
+    {
+     "tema": "triglicerídeos o que é",
+     "status": "a-checar",
+     "cluster": "exames",
+     "volume": 18100
+    },
+    {
+     "tema": "curva glicêmica",
+     "status": "a-checar",
+     "cluster": "diabetes",
+     "volume": 18100
+    }
+   ]
+  },
+  {
+   "data": "2026-11-10",
+   "pautas": [
+    {
+     "tema": "calvície",
+     "status": "a-checar",
+     "cluster": "pele-cabelo",
+     "volume": 18100
+    },
+    {
+     "tema": "sono rem",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 18100
+    },
+    {
+     "tema": "falta de vitamina d",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 18100
+    }
+   ]
+  },
+  {
+   "data": "2026-11-11",
+   "pautas": [
+    {
+     "tema": "recomeçar",
+     "status": "a-checar",
+     "cluster": "sintomas",
+     "volume": 18100
+    },
+    {
+     "tema": "articulações",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 18100
+    },
+    {
+     "tema": "artrite reumatoide sintomas",
+     "status": "a-checar",
+     "cluster": "articulacoes",
+     "volume": 14800
+    }
+   ]
+  },
+  {
+   "data": "2026-11-12",
+   "pautas": [
+    {
+     "tema": "gama gt alto",
+     "status": "a-checar",
+     "cluster": "exames",
+     "volume": 14800
+    },
+    {
+     "tema": "rosácea",
+     "status": "a-checar",
+     "cluster": "pele-cabelo",
+     "volume": 14800
+    },
+    {
+     "tema": "dor de cabeça ao acordar",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 14800
+    }
+   ]
+  },
+  {
+   "data": "2026-11-13",
+   "pautas": [
+    {
+     "tema": "hiperplasia prostática",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 14800
+    },
+    {
+     "tema": "vldl colesterol",
+     "status": "a-checar",
+     "cluster": "colesterol",
+     "volume": 12100
+    },
+    {
+     "tema": "dores nas costas o que pode ser",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 14800
+    }
+   ]
+  },
+  {
+   "data": "2026-11-14",
+   "pautas": [
+    {
+     "tema": "ciática",
+     "status": "a-checar",
+     "cluster": "coluna",
+     "volume": 12100
+    },
+    {
+     "tema": "alimentos ricos em magnésio",
+     "status": "a-checar",
+     "cluster": "alimentacao",
+     "volume": 12100
+    },
+    {
+     "tema": "urofluxometria",
+     "status": "a-checar",
+     "cluster": "prostata",
+     "volume": 12100
+    }
+   ]
+  },
+  {
+   "data": "2026-11-15",
+   "pautas": [
+    {
+     "tema": "higiene do sono",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 12100
+    },
+    {
+     "tema": "cabelo branco",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 12100
+    },
+    {
+     "tema": "sonambulismo",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 12100
+    }
+   ]
+  },
+  {
+   "data": "2026-11-16",
+   "pautas": [
+    {
+     "tema": "homa ir",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 12100
+    },
+    {
+     "tema": "glicemia capilar",
+     "status": "a-checar",
+     "cluster": "diabetes",
+     "volume": 9900
+    },
+    {
+     "tema": "urina escura",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 12100
+    }
+   ]
+  },
+  {
+   "data": "2026-11-17",
+   "pautas": [
+    {
+     "tema": "couro cabeludo",
+     "status": "a-checar",
+     "cluster": "pele-cabelo",
+     "volume": 9900
+    },
+    {
+     "tema": "meditação para dormir",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 9900
+    },
+    {
+     "tema": "alimentos ricos em cálcio",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 9900
+    }
+   ]
+  },
+  {
+   "data": "2026-11-18",
+   "pautas": [
+    {
+     "tema": "pesadelos",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 9900
+    },
+    {
+     "tema": "cartilagem",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 9900
+    },
+    {
+     "tema": "cabelo caindo muito",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 9900
+    }
+   ]
+  },
+  {
+   "data": "2026-11-19",
+   "pautas": [
+    {
+     "tema": "climatério o que é",
+     "status": "a-checar",
+     "cluster": "menopausa",
+     "volume": 9900
+    },
+    {
+     "tema": "insulina alta",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 9900
+    },
+    {
+     "tema": "meditacaoparadormir",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 9900
+    }
+   ]
+  },
+  {
+   "data": "2026-11-20",
+   "pautas": [
+    {
+     "tema": "babosa no cabelo",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 9900
+    },
+    {
+     "tema": "meditação ao dormir",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 9900
+    },
+    {
+     "tema": "suco detox emagrece",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 9900
+    }
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "pautas": [
+    {
+     "tema": "meditaçãopara dormir",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 9900
+    },
+    {
+     "tema": "tgo e tgp altos",
+     "status": "a-checar",
+     "cluster": "exames",
+     "volume": 8100
+    },
+    {
+     "tema": "falta de energia",
+     "status": "a-checar",
+     "cluster": "sintomas",
+     "volume": 8100
+    }
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "pautas": [
+    {
+     "tema": "rugas",
+     "status": "a-checar",
+     "cluster": "pele-cabelo",
+     "volume": 8100
+    },
+    {
+     "tema": "luz azul",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 8100
+    },
+    {
+     "tema": "ossos",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 8100
+    }
+   ]
+  },
+  {
+   "data": "2026-11-23",
+   "pautas": [
+    {
+     "tema": "alimentos ricos em vitamina d",
+     "status": "a-checar",
+     "cluster": "exames",
+     "volume": 8100
+    },
+    {
+     "tema": "pth",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 8100
+    },
+    {
+     "tema": "hpb",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 8100
+    }
+   ]
+  },
+  {
+   "data": "2026-11-24",
+   "pautas": [
+    {
+     "tema": "anti ccp",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 8100
+    },
+    {
+     "tema": "glicemia alta",
+     "status": "a-checar",
+     "cluster": "exames",
+     "volume": 8100
+    },
+    {
+     "tema": "ciclo do sono",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 8100
+    }
+   ]
+  },
+  {
+   "data": "2026-11-25",
+   "pautas": [
+    {
+     "tema": "meditacoes iasd",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 8100
+    },
+    {
+     "tema": "dieta para perder barriga",
+     "status": "a-checar",
+     "cluster": "emagrecimento",
+     "volume": 8100
+    },
+    {
+     "tema": "dor nas costas ao respirar",
+     "status": "a-checar",
+     "cluster": "coluna",
+     "volume": 8100
+    }
+   ]
+  },
+  {
+   "data": "2026-11-26",
+   "pautas": [
+    {
+     "tema": "queda de cabelo o que pode ser",
+     "status": "a-checar",
+     "cluster": "pele-cabelo",
+     "volume": 8100
+    },
+    {
+     "tema": "colesterol bom e ruim",
+     "status": "a-checar",
+     "cluster": "colesterol",
+     "volume": 6600
+    },
+    {
+     "tema": "exames de rotina",
+     "status": "a-checar",
+     "cluster": "exames",
+     "volume": 6600
+    }
+   ]
+  },
+  {
+   "data": "2026-11-27",
+   "pautas": [
+    {
+     "tema": "vontade de urinar toda hora",
+     "status": "a-checar",
+     "cluster": "urinario",
+     "volume": 6600
+    },
+    {
+     "tema": "dores nos ossos",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 6600
+    },
+    {
+     "tema": "triglicerides",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 6600
+    }
+   ]
+  },
+  {
+   "data": "2026-11-28",
+   "pautas": [
+    {
+     "tema": "alongamento para coluna",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 6600
+    },
+    {
+     "tema": "totg",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 6600
+    },
+    {
+     "tema": "glicemia pós prandial",
+     "status": "a-checar",
+     "cluster": "exames",
+     "volume": 6600
+    }
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "pautas": [
+    {
+     "tema": "região lombar",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 6600
+    },
+    {
+     "tema": "dor nas costas embaixo",
+     "status": "a-checar",
+     "cluster": "coluna",
+     "volume": 5400
+    },
+    {
+     "tema": "hiperpigmentação",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 5400
+    }
+   ]
+  },
+  {
+   "data": "2026-11-30",
+   "pautas": [
+    {
+     "tema": "deficiência de vitamina d",
+     "status": "a-checar",
+     "cluster": "exames",
+     "volume": 5400
+    },
+    {
+     "tema": "colesterol qual o normal",
+     "status": "a-checar",
+     "cluster": "colesterol",
+     "volume": 4400
+    },
+    {
+     "tema": "sintomas do climatério",
+     "status": "a-checar",
+     "cluster": "menopausa",
+     "volume": 4400
+    }
+   ]
+  },
+  {
+   "data": "2026-12-01",
+   "pautas": [
+    {
+     "tema": "síndrome metabólica",
+     "status": "a-checar",
+     "cluster": "diabetes",
+     "volume": 4400
+    },
+    {
+     "tema": "vermelhidão na pele",
+     "status": "a-checar",
+     "cluster": "pele-cabelo",
+     "volume": 4400
+    },
+    {
+     "tema": "peptídeo c",
+     "status": "a-checar",
+     "cluster": "diabetes",
+     "volume": 4400
+    }
+   ]
+  },
+  {
+   "data": "2026-12-02",
+   "pautas": [
+    {
+     "tema": "coceira na pele",
+     "status": "a-checar",
+     "cluster": "pele-cabelo",
+     "volume": 4400
+    },
+    {
+     "tema": "exercícios para joelho",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 4400
+    },
+    {
+     "tema": "cabelo caindo",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 4400
+    }
+   ]
+  },
+  {
+   "data": "2026-12-03",
+   "pautas": [
+    {
+     "tema": "fases sono",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 4400
+    },
+    {
+     "tema": "dor muscular nas costas",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 4400
+    },
+    {
+     "tema": "excesso de vitamina d",
+     "status": "a-checar",
+     "cluster": "exames",
+     "volume": 4400
+    }
+   ]
+  },
+  {
+   "data": "2026-12-04",
+   "pautas": [
+    {
+     "tema": "nofap",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 4400
+    },
+    {
+     "tema": "relação albumina creatinina",
+     "status": "a-checar",
+     "cluster": "exames",
+     "volume": 4400
+    },
+    {
+     "tema": "cabelo ralo",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 4400
+    }
+   ]
+  },
+  {
+   "data": "2026-12-05",
+   "pautas": [
+    {
+     "tema": "colesterol total acima de 200",
+     "status": "a-checar",
+     "cluster": "colesterol",
+     "volume": 3600
+    },
+    {
+     "tema": "pontas duplas",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 4400
+    },
+    {
+     "tema": "colesterol alto o que pode causar",
+     "status": "a-checar",
+     "cluster": "colesterol",
+     "volume": 3600
+    }
+   ]
+  },
+  {
+   "data": "2026-12-06",
+   "pautas": [
+    {
+     "tema": "cabelo oleoso",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 4400
+    },
+    {
+     "tema": "sintomas pré menopausa",
+     "status": "a-checar",
+     "cluster": "menopausa",
+     "volume": 3600
+    },
+    {
+     "tema": "sons para dormir",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 4400
+    }
+   ]
+  },
+  {
+   "data": "2026-12-07",
+   "pautas": [
+    {
+     "tema": "creatina para idosos",
+     "status": "a-checar",
+     "cluster": "musculo",
+     "volume": 3600
+    },
+    {
+     "tema": "retenção urinária",
+     "status": "a-checar",
+     "cluster": "urinario",
+     "volume": 3600
+    },
+    {
+     "tema": "privação de sono",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 3600
+    }
+   ]
+  },
+  {
+   "data": "2026-12-08",
+   "pautas": [
+    {
+     "tema": "ruminação mental",
+     "status": "a-checar",
+     "cluster": "saude-mental",
+     "volume": 3600
+    },
+    {
+     "tema": "dor articular",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 3600
+    },
+    {
+     "tema": "gordura abdominal",
+     "status": "a-checar",
+     "cluster": "emagrecimento",
+     "volume": 3600
+    }
+   ]
+  },
+  {
+   "data": "2026-12-09",
+   "pautas": [
+    {
+     "tema": "causa insonia",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 3600
+    },
+    {
+     "tema": "fogacho",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 3600
+    },
+    {
+     "tema": "causas de queda de cabelo",
+     "status": "a-checar",
+     "cluster": "pele-cabelo",
+     "volume": 3600
+    }
+   ]
+  },
+  {
+   "data": "2026-12-10",
+   "pautas": [
+    {
+     "tema": "esquecimentos",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 3600
+    },
+    {
+     "tema": "exame de glicemia",
+     "status": "a-checar",
+     "cluster": "exames",
+     "volume": 3600
+    },
+    {
+     "tema": "coluna travada",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 3600
+    }
+   ]
+  },
+  {
+   "data": "2026-12-11",
+   "pautas": [
+    {
+     "tema": "insonia quais as causas",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 3600
+    },
+    {
+     "tema": "saúde do homem",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 3600
+    },
+    {
+     "tema": "calores da menopausa",
+     "status": "a-checar",
+     "cluster": "menopausa",
+     "volume": 2900
+    }
+   ]
+  },
+  {
+   "data": "2026-12-12",
+   "pautas": [
+    {
+     "tema": "tabela hemoglobina glicada",
+     "status": "a-checar",
+     "cluster": "diabetes",
+     "volume": 2900
+    },
+    {
+     "tema": "exercícios para quadril",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 2900
+    },
+    {
+     "tema": "benefícios da hidroginástica",
+     "status": "a-checar",
+     "cluster": "exercicio",
+     "volume": 2900
+    }
+   ]
+  },
+  {
+   "data": "2026-12-13",
+   "pautas": [
+    {
+     "tema": "como fortalecer o joelho",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 2900
+    },
+    {
+     "tema": "açúcar no sangue",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 2900
+    },
+    {
+     "tema": "colesterol alto tontura",
+     "status": "a-checar",
+     "cluster": "colesterol",
+     "volume": 2400
+    }
+   ]
+  },
+  {
+   "data": "2026-12-14",
+   "pautas": [
+    {
+     "tema": "ceramidas",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 2900
+    },
+    {
+     "tema": "sarcopenia em idosos",
+     "status": "a-checar",
+     "cluster": "musculo",
+     "volume": 2400
+    },
+    {
+     "tema": "ferro baixo",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 2900
+    }
+   ]
+  },
+  {
+   "data": "2026-12-15",
+   "pautas": [
+    {
+     "tema": "sono profundo",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 2400
+    },
+    {
+     "tema": "hidrolisado",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 2900
+    },
+    {
+     "tema": "pilates e idosos",
+     "status": "a-checar",
+     "cluster": "exercicio",
+     "volume": 1900
+    }
+   ]
+  },
+  {
+   "data": "2026-12-16",
+   "pautas": [
+    {
+     "tema": "urinar muito",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 2900
+    },
+    {
+     "tema": "gravidez e insonia",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 1900
+    },
+    {
+     "tema": "alimentos ricos em vitaminas",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 2900
+    }
+   ]
+  },
+  {
+   "data": "2026-12-17",
+   "pautas": [
+    {
+     "tema": "como pegar sono rapido",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 1900
+    },
+    {
+     "tema": "quantos fios de cabelo caem por dia",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 2900
+    },
+    {
+     "tema": "insonia fatal",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 1900
+    }
+   ]
+  },
+  {
+   "data": "2026-12-18",
+   "pautas": [
+    {
+     "tema": "colesterol alto dor de cabeça",
+     "status": "a-checar",
+     "cluster": "colesterol",
+     "volume": 1600
+    },
+    {
+     "tema": "insonia que fazer",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 1900
+    },
+    {
+     "tema": "medicamentos para osteoporose",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 1600
+    }
+   ]
+  },
+  {
+   "data": "2026-12-19",
+   "pautas": [
+    {
+     "tema": "progesterona na menopausa",
+     "status": "a-checar",
+     "cluster": "menopausa",
+     "volume": 1300
+    },
+    {
+     "tema": "deficiência de magnésio",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 1600
+    },
+    {
+     "tema": "insonia e ansiedade",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 1300
+    }
+   ]
+  },
+  {
+   "data": "2026-12-20",
+   "pautas": [
+    {
+     "tema": "alongamento para quadril",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 1300
+    },
+    {
+     "tema": "quedas em idosos",
+     "status": "a-checar",
+     "cluster": "longevidade",
+     "volume": 1000
+    },
+    {
+     "tema": "alimentos ricos em vitamina k",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 1300
+    }
+   ]
+  },
+  {
+   "data": "2026-12-21",
+   "pautas": [
+    {
+     "tema": "insonia o que é",
+     "status": "a-checar",
+     "cluster": "sono",
+     "volume": 1000
+    },
+    {
+     "tema": "dedos inchados",
+     "status": "a-checar",
+     "cluster": "ossos-articulacoes",
+     "volume": 1000
+    },
+    {
+     "tema": "ejaculação retardada",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 1000
+    }
+   ]
+  },
+  {
+   "data": "2026-12-22",
+   "pautas": [
+    {
+     "tema": "alongamento em idosos",
+     "status": "a-checar",
+     "cluster": "exercicio",
+     "volume": 1000
+    },
+    {
+     "tema": "quedas idosos",
+     "status": "a-checar",
+     "cluster": "geral",
+     "volume": 1000
+    },
+    {
+     "tema": "musculação em idosos",
+     "status": "a-checar",
+     "cluster": "exercicio",
+     "volume": 1000
+    }
+   ]
+  },
+  {
+   "data": "2026-12-23",
+   "pautas": [
+    {
+     "tema": "pressão alta sintomas",
+     "status": "a-checar",
+     "cluster": "coracao",
+     "volume": null
+    },
+    {
+     "tema": "sexo",
+     "status": "a-validar",
+     "cluster": "relacionamento-sexualidade",
+     "volume": 1000000,
+     "grupo": 1001990,
+     "atencao": "amplo"
+    },
+    {
+     "tema": "melatonina",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 550000,
+     "grupo": 555280,
+     "atencao": "sensível:remedioMarca"
+    }
+   ]
+  },
+  {
+   "data": "2026-12-24",
+   "pautas": [
+    {
+     "tema": "pele",
+     "status": "a-validar",
+     "cluster": "pele-cabelo",
+     "volume": 246000,
+     "grupo": 331430,
+     "atencao": "amplo"
+    },
+    {
+     "tema": "creatina",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 673000,
+     "grupo": 1471710,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "aposentadoria",
+     "status": "a-validar",
+     "cluster": "relacionamento-sexualidade",
+     "volume": 246000,
+     "grupo": 246120,
+     "atencao": "amplo"
+    }
+   ]
+  },
+  {
+   "data": "2026-12-25",
+   "pautas": [
+    {
+     "tema": "magnésio",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 301000,
+     "grupo": 1447760,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "hipoglicemia",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 201000,
+     "grupo": 202600,
+     "atencao": "sensível:urgenciaGrave"
+    },
+    {
+     "tema": "colágeno",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110000,
+     "grupo": 624580,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2026-12-26",
+   "pautas": [
+    {
+     "tema": "casamento",
+     "status": "a-validar",
+     "cluster": "relacionamento-sexualidade",
+     "volume": 90500,
+     "grupo": 90770,
+     "atencao": "amplo"
+    },
+    {
+     "tema": "música para dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110000,
+     "grupo": 110000,
+     "atencao": "amplo"
+    },
+    {
+     "tema": "protetor solar",
+     "status": "a-validar",
+     "cluster": "pele-cabelo",
+     "volume": 246000,
+     "grupo": 246560,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2026-12-27",
+   "pautas": [
+    {
+     "tema": "tansulosina",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 90500,
+     "grupo": 90500,
+     "atencao": "sensível:remedioMarca"
+    },
+    {
+     "tema": "amizades",
+     "status": "a-validar",
+     "cluster": "relacionamento-sexualidade",
+     "volume": 49500,
+     "grupo": 49500,
+     "atencao": "amplo"
+    },
+    {
+     "tema": "proteção solar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 246000,
+     "grupo": 251790,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2026-12-28",
+   "pautas": [
+    {
+     "tema": "autonomia",
+     "status": "a-validar",
+     "cluster": "longevidade",
+     "volume": 40500,
+     "grupo": 40500,
+     "atencao": "amplo"
+    },
+    {
+     "tema": "ácido hialurônico",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 135000,
+     "grupo": 158830,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "relacionamento",
+     "status": "a-validar",
+     "cluster": "relacionamento-sexualidade",
+     "volume": 27100,
+     "grupo": 27420,
+     "atencao": "amplo"
+    }
+   ]
+  },
+  {
+   "data": "2026-12-29",
+   "pautas": [
+    {
+     "tema": "niacinamida",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 135000,
+     "grupo": 135000,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "vitamina d3",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 90500,
+     "grupo": 90500,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "tricologista",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 40500,
+     "grupo": 40500,
+     "atencao": "amplo"
+    }
+   ]
+  },
+  {
+   "data": "2026-12-30",
+   "pautas": [
+    {
+     "tema": "saúde da mulher",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 33100,
+     "grupo": 33100,
+     "atencao": "amplo"
+    },
+    {
+     "tema": "chás para emagrecer",
+     "status": "a-validar",
+     "cluster": "emagrecimento",
+     "volume": 60500,
+     "grupo": 60500,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "retinol",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110000,
+     "grupo": 110000,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2026-12-31",
+   "pautas": [
+    {
+     "tema": "dutasterida",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110000,
+     "grupo": 110000,
+     "atencao": "sensível:remedioMarca, comp. alta"
+    },
+    {
+     "tema": "ruído branco",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110000,
+     "grupo": 110000,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "ácido salicílico",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110000,
+     "grupo": 110000,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-01",
+   "pautas": [
+    {
+     "tema": "vitamina para queda de cabelo",
+     "status": "a-validar",
+     "cluster": "pele-cabelo",
+     "volume": 33100,
+     "grupo": 33210,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "finasterida",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 90500,
+     "grupo": 90500,
+     "atencao": "sensível:remedioMarca, comp. alta"
+    },
+    {
+     "tema": "para queda de cabelo",
+     "status": "a-validar",
+     "cluster": "pele-cabelo",
+     "volume": 1600,
+     "grupo": 25960,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-02",
+   "pautas": [
+    {
+     "tema": "ácido glicólico",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 90500,
+     "grupo": 90500,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "cronograma capilar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 90500,
+     "grupo": 90500,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "shampoo anticaspa",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 74000,
+     "grupo": 74000,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-03",
+   "pautas": [
+    {
+     "tema": "queda de cabelos",
+     "status": "a-validar",
+     "cluster": "pele-cabelo",
+     "volume": 22200,
+     "grupo": 22200,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "remédio para dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 49500,
+     "grupo": 64390,
+     "atencao": "sensível:remedioMarca, comp. alta"
+    },
+    {
+     "tema": "vitamina k2",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 60500,
+     "grupo": 60500,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-04",
+   "pautas": [
+    {
+     "tema": "carbonato de cálcio",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 60500,
+     "grupo": 60500,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "inibidores de apetite",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 60500,
+     "grupo": 60500,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "vitaminas para cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 60500,
+     "grupo": 60500,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-05",
+   "pautas": [
+    {
+     "tema": "saw palmetto",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 49500,
+     "grupo": 49500,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "vinagre de maçã no cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 12100,
+     "grupo": 12100,
+     "atencao": "sensível:suplemento"
+    },
+    {
+     "tema": "condroitina",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 14800,
+     "grupo": 29610,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-06",
+   "pautas": [
+    {
+     "tema": "shampoo para queda de cabelo",
+     "status": "a-validar",
+     "cluster": "pele-cabelo",
+     "volume": 14800,
+     "grupo": 14800,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "emagrecedor",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 9900,
+     "grupo": 24380,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "motilex ha",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 18100,
+     "grupo": 22900,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-07",
+   "pautas": [
+    {
+     "tema": "glicosímetro",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 22200,
+     "grupo": 22200,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "perder barriga",
+     "status": "a-validar",
+     "cluster": "emagrecimento",
+     "volume": 4400,
+     "grupo": 12220,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "biotina e cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 22200,
+     "grupo": 22200,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-08",
+   "pautas": [
+    {
+     "tema": "óleo de coco no cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 22200,
+     "grupo": 22200,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "vitaminas para mulheres",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 18100,
+     "grupo": 19190,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "freestyle libre",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 18100,
+     "grupo": 18100,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-09",
+   "pautas": [
+    {
+     "tema": "seca barriga",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 12100,
+     "grupo": 16470,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "creapure",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 12100,
+     "grupo": 15740,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "tratamento de queda de cabelo",
+     "status": "a-validar",
+     "cluster": "pele-cabelo",
+     "volume": 2900,
+     "grupo": 11200,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-10",
+   "pautas": [
+    {
+     "tema": "vício em pornografia",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 4400,
+     "grupo": 4690,
+     "atencao": "sensível:sexualidadeCientifica"
+    },
+    {
+     "tema": "reconstrução capilar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 14800,
+     "grupo": 14800,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "verisol",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 9900,
+     "grupo": 14530,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-11",
+   "pautas": [
+    {
+     "tema": "treonato",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 9900,
+     "grupo": 13390,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "antiqueda",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1900,
+     "grupo": 12830,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "glucosamina",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 12100,
+     "grupo": 12110,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-12",
+   "pautas": [
+    {
+     "tema": "licopeno",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 12100,
+     "grupo": 12100,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "poros dilatados",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 12100,
+     "grupo": 12100,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "shampoo sem sulfato",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 12100,
+     "grupo": 12100,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-13",
+   "pautas": [
+    {
+     "tema": "pilates idoso",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 1900,
+     "grupo": 2620,
+     "atencao": ""
+    },
+    {
+     "tema": "emagrecimento rapido",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 12100,
+     "grupo": 12100,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "vitamina c para rosto",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 12100,
+     "grupo": 12100,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-14",
+   "pautas": [
+    {
+     "tema": "creafort",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 6600,
+     "grupo": 11000,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "máscara capilar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 9900,
+     "grupo": 9900,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "chá para dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 9900,
+     "grupo": 9900,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-15",
+   "pautas": [
+    {
+     "tema": "desodalina emagrece",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 9900,
+     "grupo": 9900,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "termogenico emagrece",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 9900,
+     "grupo": 9900,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "óleo de rícino no cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 9900,
+     "grupo": 9900,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-16",
+   "pautas": [
+    {
+     "tema": "manchas no rosto",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 6600,
+     "grupo": 9500,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "melhores colagenos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 8100,
+     "grupo": 9250,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "vitaminas para homens",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 8100,
+     "grupo": 8810,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-17",
+   "pautas": [
+    {
+     "tema": "muita dor nas costas",
+     "status": "a-validar",
+     "cluster": "ossos-articulacoes",
+     "volume": 2400,
+     "grupo": 2400,
+     "atencao": ""
+    },
+    {
+     "tema": "masturbação faz mal",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 2610,
+     "atencao": "sensível:sexualidadeCientifica"
+    },
+    {
+     "tema": "entradas cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1300,
+     "grupo": 2600,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-01-18",
+   "pautas": [
+    {
+     "tema": "cabelo seco",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 2570,
+     "atencao": ""
+    },
+    {
+     "tema": "equaliv body protein",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 8100,
+     "grupo": 8310,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "óleo capilar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 8100,
+     "grupo": 8100,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-19",
+   "pautas": [
+    {
+     "tema": "colagentek vitafor",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 8100,
+     "grupo": 8100,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "vitamina para imunidade",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 8100,
+     "grupo": 8100,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "pilates idosa",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 1900,
+     "grupo": 1990,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-01-20",
+   "pautas": [
+    {
+     "tema": "anti gad",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 2400,
+     "atencao": ""
+    },
+    {
+     "tema": "cabelo fino",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 2400,
+     "atencao": ""
+    },
+    {
+     "tema": "cabelo opaco",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 2400,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-01-21",
+   "pautas": [
+    {
+     "tema": "saúde do idoso",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 2400,
+     "atencao": ""
+    },
+    {
+     "tema": "relaxamento para dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 2400,
+     "atencao": ""
+    },
+    {
+     "tema": "cálcio e vitamina d",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 6600,
+     "grupo": 6600,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-22",
+   "pautas": [
+    {
+     "tema": "sintomas coluna cervical inflamada",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 2400,
+     "atencao": ""
+    },
+    {
+     "tema": "idade cronologica",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1600,
+     "grupo": 2220,
+     "atencao": ""
+    },
+    {
+     "tema": "tendinite no punho",
+     "status": "a-validar",
+     "cluster": "ossos-articulacoes",
+     "volume": 1900,
+     "grupo": 1900,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-01-23",
+   "pautas": [
+    {
+     "tema": "colagentek",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 5400,
+     "grupo": 7390,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "exame de vitamina d",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 1900,
+     "grupo": 1900,
+     "atencao": ""
+    },
+    {
+     "tema": "colflex muscular",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 6600,
+     "grupo": 7190,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-24",
+   "pautas": [
+    {
+     "tema": "toque retal",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1600,
+     "grupo": 2090,
+     "atencao": ""
+    },
+    {
+     "tema": "alimentos que aceleram o metabolismo",
+     "status": "a-validar",
+     "cluster": "emagrecimento",
+     "volume": 1900,
+     "grupo": 1900,
+     "atencao": ""
+    },
+    {
+     "tema": "linhas de expressão",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1900,
+     "grupo": 2040,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-01-25",
+   "pautas": [
+    {
+     "tema": "ronco",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 6600,
+     "grupo": 6600,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "chá calmante",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 6600,
+     "grupo": 6600,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "unhas e cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 6600,
+     "grupo": 6600,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-26",
+   "pautas": [
+    {
+     "tema": "cabelo quebradiço",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 6600,
+     "grupo": 6600,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "sono leve",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 1600,
+     "grupo": 1600,
+     "atencao": ""
+    },
+    {
+     "tema": "umectação capilar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 6600,
+     "grupo": 6600,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-27",
+   "pautas": [
+    {
+     "tema": "condrigen",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 4400,
+     "grupo": 6580,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "yoga para iniciantes",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 1600,
+     "grupo": 1600,
+     "atencao": ""
+    },
+    {
+     "tema": "relógio biológico",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1900,
+     "grupo": 1900,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-01-28",
+   "pautas": [
+    {
+     "tema": "dormir demais faz mal",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1900,
+     "grupo": 1900,
+     "atencao": ""
+    },
+    {
+     "tema": "valores normais de glicemia",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 1600,
+     "grupo": 1600,
+     "atencao": ""
+    },
+    {
+     "tema": "médico que cuida da coluna",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1900,
+     "grupo": 1900,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-01-29",
+   "pautas": [
+    {
+     "tema": "dor nas costas acima das nádegas",
+     "status": "a-validar",
+     "cluster": "ossos-articulacoes",
+     "volume": 1600,
+     "grupo": 1600,
+     "atencao": ""
+    },
+    {
+     "tema": "como parar de ver pornografia",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1900,
+     "grupo": 1900,
+     "atencao": "sensível:sexualidadeCientifica"
+    },
+    {
+     "tema": "estagio do sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 1300,
+     "grupo": 1410,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-01-30",
+   "pautas": [
+    {
+     "tema": "collagen protein pura vida",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 4400,
+     "grupo": 6300,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "sono reparador",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 1000,
+     "grupo": 1410,
+     "atencao": ""
+    },
+    {
+     "tema": "cabelo ressecado",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 5400,
+     "grupo": 5400,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-01-31",
+   "pautas": [
+    {
+     "tema": "estagios do sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 1300,
+     "grupo": 1360,
+     "atencao": ""
+    },
+    {
+     "tema": "cabelo com frizz",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 5400,
+     "grupo": 5400,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "envelhecimento saudável",
+     "status": "a-validar",
+     "cluster": "longevidade",
+     "volume": 1000,
+     "grupo": 1350,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-02-01",
+   "pautas": [
+    {
+     "tema": "bio extratus antiqueda",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 5400,
+     "grupo": 5400,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "musculacao idoso",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 1000,
+     "grupo": 1340,
+     "atencao": ""
+    },
+    {
+     "tema": "motilex para que serve",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 5400,
+     "grupo": 5400,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-02-02",
+   "pautas": [
+    {
+     "tema": "cronotipo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1600,
+     "grupo": 1600,
+     "atencao": ""
+    },
+    {
+     "tema": "riscos de quedas",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1600,
+     "grupo": 1600,
+     "atencao": ""
+    },
+    {
+     "tema": "check up completo",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 1300,
+     "grupo": 1300,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-02-03",
+   "pautas": [
+    {
+     "tema": "terror noturno adulto",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1600,
+     "grupo": 1600,
+     "atencao": ""
+    },
+    {
+     "tema": "dores musculares costas",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1600,
+     "grupo": 1600,
+     "atencao": ""
+    },
+    {
+     "tema": "gleason",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1300,
+     "grupo": 1410,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-02-04",
+   "pautas": [
+    {
+     "tema": "insónias e ansiedade",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 1300,
+     "grupo": 1300,
+     "atencao": ""
+    },
+    {
+     "tema": "dimalato",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 4400,
+     "grupo": 4570,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "diabetes tipo 1 e tipo 2 diferença",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 1300,
+     "grupo": 1300,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-02-05",
+   "pautas": [
+    {
+     "tema": "crescimento capilar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 3600,
+     "grupo": 4430,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "musculacao terceira idade",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 260,
+     "grupo": 1230,
+     "atencao": ""
+    },
+    {
+     "tema": "bisglicinato",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 4400,
+     "grupo": 4400,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-02-06",
+   "pautas": [
+    {
+     "tema": "alongamento idoso",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 1000,
+     "grupo": 1140,
+     "atencao": ""
+    },
+    {
+     "tema": "vitaminas para idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 4400,
+     "grupo": 4400,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "como engrossar o cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 4400,
+     "grupo": 4400,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-02-07",
+   "pautas": [
+    {
+     "tema": "suplementos para cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 4400,
+     "grupo": 4400,
+     "atencao": "sensível:suplemento, comp. alta"
+    },
+    {
+     "tema": "pornografia faz mal",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1300,
+     "grupo": 1320,
+     "atencao": "sensível:sexualidadeCientifica"
+    },
+    {
+     "tema": "manchas solares",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1300,
+     "grupo": 1300,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-02-08",
+   "pautas": [
+    {
+     "tema": "ansiedade de desempenho",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 1000,
+     "grupo": 1070,
+     "atencao": ""
+    },
+    {
+     "tema": "ordem do skincare",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1300,
+     "grupo": 1300,
+     "atencao": ""
+    },
+    {
+     "tema": "como dormir melhor",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1300,
+     "grupo": 1300,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-02-09",
+   "pautas": [
+    {
+     "tema": "dormir tarde faz mal",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1300,
+     "grupo": 1300,
+     "atencao": ""
+    },
+    {
+     "tema": "inércia do sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 1000,
+     "grupo": 1000,
+     "atencao": ""
+    },
+    {
+     "tema": "exercícios para idosos em casa",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1300,
+     "grupo": 1300,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-02-10",
+   "pautas": [
+    {
+     "tema": "exames para mulheres",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 1200,
+     "atencao": ""
+    },
+    {
+     "tema": "demorar para ejacular",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 480,
+     "grupo": 1110,
+     "atencao": ""
+    },
+    {
+     "tema": "cartliv",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 3660,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-02-11",
+   "pautas": [
+    {
+     "tema": "colaten ha",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 3600,
+     "grupo": 3600,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "ácido retinoico",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 3600,
+     "grupo": 3600,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "nutrição capilar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 3600,
+     "grupo": 3600,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-02-12",
+   "pautas": [
+    {
+     "tema": "citrato de cálcio",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 3600,
+     "grupo": 3600,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "muita sede",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1000,
+     "grupo": 1000,
+     "atencao": ""
+    },
+    {
+     "tema": "fome excessiva",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1000,
+     "grupo": 1000,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-02-13",
+   "pautas": [
+    {
+     "tema": "pilates para coluna",
+     "status": "a-validar",
+     "cluster": "ossos-articulacoes",
+     "volume": 880,
+     "grupo": 880,
+     "atencao": ""
+    },
+    {
+     "tema": "acordar cansado",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1000,
+     "grupo": 1000,
+     "atencao": ""
+    },
+    {
+     "tema": "sonolência durante o dia",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 880,
+     "grupo": 880,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-02-14",
+   "pautas": [
+    {
+     "tema": "vasinhos no rosto",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1000,
+     "grupo": 1000,
+     "atencao": ""
+    },
+    {
+     "tema": "fotoenvelhecimento",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1000,
+     "grupo": 1000,
+     "atencao": ""
+    },
+    {
+     "tema": "ejaculaçãoretardada",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1000,
+     "grupo": 1000,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-02-15",
+   "pautas": [
+    {
+     "tema": "especialista em cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1000,
+     "grupo": 1000,
+     "atencao": ""
+    },
+    {
+     "tema": "vitamina para memória",
+     "status": "a-validar",
+     "cluster": "cerebro-memoria",
+     "volume": 2900,
+     "grupo": 2900,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "envelhecimentosaudavel",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1000,
+     "grupo": 1000,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-02-16",
+   "pautas": [
+    {
+     "tema": "exercícios de kegel homem",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1000,
+     "grupo": 1000,
+     "atencao": ""
+    },
+    {
+     "tema": "uc ii para que serve",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1600,
+     "grupo": 3200,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "falar dormindo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 880,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-02-17",
+   "pautas": [
+    {
+     "tema": "manchas nas mãos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 880,
+     "atencao": ""
+    },
+    {
+     "tema": "insulina de jejum",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 880,
+     "atencao": ""
+    },
+    {
+     "tema": "pilates terceira idade",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 210,
+     "grupo": 770,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-02-18",
+   "pautas": [
+    {
+     "tema": "acordar de madrugada",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 880,
+     "atencao": ""
+    },
+    {
+     "tema": "atividade física para idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 880,
+     "atencao": ""
+    },
+    {
+     "tema": "mitburn 100mg",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2900,
+     "grupo": 2900,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-02-19",
+   "pautas": [
+    {
+     "tema": "limpeza facial",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2900,
+     "grupo": 2900,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "pielus antiqueda",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2900,
+     "grupo": 2900,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "queda excessiva de cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2900,
+     "grupo": 2900,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-02-20",
+   "pautas": [
+    {
+     "tema": "como fazer cabelo crescer",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2900,
+     "grupo": 2900,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "treino para mulheres",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 860,
+     "atencao": ""
+    },
+    {
+     "tema": "queda capilar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1900,
+     "grupo": 2630,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-02-21",
+   "pautas": [
+    {
+     "tema": "queda de cabelo feminina",
+     "status": "a-validar",
+     "cluster": "pele-cabelo",
+     "volume": 2400,
+     "grupo": 2400,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "idoso academia",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 390,
+     "grupo": 780,
+     "atencao": ""
+    },
+    {
+     "tema": "pantogar para queda de cabelo",
+     "status": "a-validar",
+     "cluster": "pele-cabelo",
+     "volume": 2400,
+     "grupo": 2400,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-02-22",
+   "pautas": [
+    {
+     "tema": "alimentos que aumentam hdl",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 390,
+     "grupo": 780,
+     "atencao": ""
+    },
+    {
+     "tema": "colflex complet",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 2540,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "condres 90 cápsulas",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 2450,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-02-23",
+   "pautas": [
+    {
+     "tema": "cartigen ii",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 2400,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "qualidade do sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": ""
+    },
+    {
+     "tema": "trifor sache",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 2400,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-02-24",
+   "pautas": [
+    {
+     "tema": "prevenção de quedas",
+     "status": "a-validar",
+     "cluster": "ossos-articulacoes",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": ""
+    },
+    {
+     "tema": "creme anti idade",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 2400,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "extima suplemento",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 2400,
+     "atencao": "sensível:suplemento, comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-02-25",
+   "pautas": [
+    {
+     "tema": "calcanhar rachado",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 2400,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "hidratação capilar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 2400,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "vitaminas emagrecem",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 2400,
+     "grupo": 2400,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-02-26",
+   "pautas": [
+    {
+     "tema": "índice homa",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": ""
+    },
+    {
+     "tema": "hidroginastica é bom para que",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 480,
+     "grupo": 680,
+     "atencao": ""
+    },
+    {
+     "tema": "fitoesterois",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-02-27",
+   "pautas": [
+    {
+     "tema": "meditacao noite",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 170,
+     "grupo": 660,
+     "atencao": ""
+    },
+    {
+     "tema": "dormir demais",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": ""
+    },
+    {
+     "tema": "sono e depressão",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 590,
+     "grupo": 630,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-02-28",
+   "pautas": [
+    {
+     "tema": "medo de dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": ""
+    },
+    {
+     "tema": "queda de cabelo o que fazer",
+     "status": "a-validar",
+     "cluster": "pele-cabelo",
+     "volume": 1900,
+     "grupo": 2070,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "perda de cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-01",
+   "pautas": [
+    {
+     "tema": "excesso de cálcio",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": ""
+    },
+    {
+     "tema": "cuidados com as mãos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": ""
+    },
+    {
+     "tema": "meditacao 5 min",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 590,
+     "grupo": 590,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-02",
+   "pautas": [
+    {
+     "tema": "melhor horário para dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": ""
+    },
+    {
+     "tema": "sono fragmentado",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 590,
+     "grupo": 590,
+     "atencao": ""
+    },
+    {
+     "tema": "lavar cabelo todos os dias",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-03",
+   "pautas": [
+    {
+     "tema": "check up masculino",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 590,
+     "grupo": 590,
+     "atencao": ""
+    },
+    {
+     "tema": "nutricionista emagrecimento",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": ""
+    },
+    {
+     "tema": "glicemia após comer",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 590,
+     "grupo": 590,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-04",
+   "pautas": [
+    {
+     "tema": "exercícios para iniciantes em casa",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": ""
+    },
+    {
+     "tema": "importância do sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 590,
+     "grupo": 590,
+     "atencao": ""
+    },
+    {
+     "tema": "dormir pouco",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 390,
+     "grupo": 710,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-05",
+   "pautas": [
+    {
+     "tema": "exames para homens",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 480,
+     "grupo": 650,
+     "atencao": ""
+    },
+    {
+     "tema": "ejaculacao tardia",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 590,
+     "grupo": 630,
+     "atencao": ""
+    },
+    {
+     "tema": "esquecer as coisas",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 140,
+     "grupo": 620,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-06",
+   "pautas": [
+    {
+     "tema": "cabelo saudável",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 590,
+     "grupo": 610,
+     "atencao": ""
+    },
+    {
+     "tema": "nictúria",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 590,
+     "grupo": 590,
+     "atencao": ""
+    },
+    {
+     "tema": "saúde masculina",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 590,
+     "grupo": 590,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-07",
+   "pautas": [
+    {
+     "tema": "jato de urina fraco",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 590,
+     "grupo": 590,
+     "atencao": ""
+    },
+    {
+     "tema": "respiração para dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 590,
+     "grupo": 590,
+     "atencao": ""
+    },
+    {
+     "tema": "uc 2",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 1930,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-03-08",
+   "pautas": [
+    {
+     "tema": "uc2 40mg",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1900,
+     "grupo": 1900,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "motilex 40mg",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1900,
+     "grupo": 1900,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "monohidratada",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1900,
+     "grupo": 1900,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-03-09",
+   "pautas": [
+    {
+     "tema": "sérum anti idade",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1900,
+     "grupo": 1900,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "queratina suplemento",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1900,
+     "grupo": 1900,
+     "atencao": "sensível:suplemento, comp. alta"
+    },
+    {
+     "tema": "body balance equaliv",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1900,
+     "grupo": 1900,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-03-10",
+   "pautas": [
+    {
+     "tema": "condricart ultra power",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1900,
+     "grupo": 1900,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "gordura localizada na barriga",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1600,
+     "grupo": 1860,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "anti queda",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 1850,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-03-11",
+   "pautas": [
+    {
+     "tema": "saúde do sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 480,
+     "grupo": 480,
+     "atencao": ""
+    },
+    {
+     "tema": "remedio que retarda a ejaculação",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 1810,
+     "atencao": "sensível:remedioMarca, comp. alta"
+    },
+    {
+     "tema": "benefícios do sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 480,
+     "grupo": 480,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-12",
+   "pautas": [
+    {
+     "tema": "collagen nutrify",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 1760,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "ereção fraca",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 480,
+     "grupo": 500,
+     "atencao": ""
+    },
+    {
+     "tema": "unhas fracas",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1600,
+     "grupo": 1600,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-03-13",
+   "pautas": [
+    {
+     "tema": "como melhorar o sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 1000,
+     "grupo": 1590,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "secar barriga",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1600,
+     "grupo": 1600,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "etapas do sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 390,
+     "grupo": 410,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-14",
+   "pautas": [
+    {
+     "tema": "spirulina emagrece",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1600,
+     "grupo": 1600,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "idade biologica teste",
+     "status": "a-validar",
+     "cluster": "longevidade",
+     "volume": 110,
+     "grupo": 410,
+     "atencao": ""
+    },
+    {
+     "tema": "uc2 para que serve",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1600,
+     "grupo": 1600,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-03-15",
+   "pautas": [
+    {
+     "tema": "etapa do sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 390,
+     "grupo": 400,
+     "atencao": ""
+    },
+    {
+     "tema": "skincare masculino",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1600,
+     "grupo": 1600,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "vitamina para cansaço",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 1300,
+     "grupo": 1300,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-03-16",
+   "pautas": [
+    {
+     "tema": "queimador de gordura",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1600,
+     "grupo": 1600,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "glicemix",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 480,
+     "grupo": 480,
+     "atencao": ""
+    },
+    {
+     "tema": "saúde óssea",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 480,
+     "grupo": 480,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-17",
+   "pautas": [
+    {
+     "tema": "flacidez facial",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 480,
+     "grupo": 480,
+     "atencao": ""
+    },
+    {
+     "tema": "acordar no meio da noite",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 480,
+     "grupo": 480,
+     "atencao": ""
+    },
+    {
+     "tema": "exercícios de baixo impacto",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 480,
+     "grupo": 480,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-18",
+   "pautas": [
+    {
+     "tema": "alimentos para aumentar o hdl",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 390,
+     "grupo": 480,
+     "atencao": ""
+    },
+    {
+     "tema": "alongamento antes de dormir",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 390,
+     "grupo": 390,
+     "atencao": ""
+    },
+    {
+     "tema": "fixaderme",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1300,
+     "grupo": 1300,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-03-19",
+   "pautas": [
+    {
+     "tema": "o que significa glicemia alterada",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 390,
+     "grupo": 390,
+     "atencao": ""
+    },
+    {
+     "tema": "condres 40mg",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1300,
+     "grupo": 1300,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "crealift essential",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1300,
+     "grupo": 1300,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-03-20",
+   "pautas": [
+    {
+     "tema": "meditacao dormindo",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 320,
+     "grupo": 340,
+     "atencao": ""
+    },
+    {
+     "tema": "collagen derm nutrify",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1300,
+     "grupo": 1300,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "fase do sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 170,
+     "grupo": 340,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-21",
+   "pautas": [
+    {
+     "tema": "emagrecimento saudavel",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1300,
+     "grupo": 1300,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "rotina de sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": ""
+    },
+    {
+     "tema": "relaxante muscular para coluna",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1300,
+     "grupo": 1300,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-03-22",
+   "pautas": [
+    {
+     "tema": "rosto cansado",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 390,
+     "grupo": 390,
+     "atencao": ""
+    },
+    {
+     "tema": "perda de massa óssea",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 390,
+     "grupo": 390,
+     "atencao": ""
+    },
+    {
+     "tema": "yoga para dormir",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-23",
+   "pautas": [
+    {
+     "tema": "cotovelos ressecados",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 390,
+     "grupo": 390,
+     "atencao": ""
+    },
+    {
+     "tema": "densidade mineral óssea",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 390,
+     "grupo": 390,
+     "atencao": ""
+    },
+    {
+     "tema": "como evitar artrose",
+     "status": "a-validar",
+     "cluster": "ossos-articulacoes",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-24",
+   "pautas": [
+    {
+     "tema": "exercícios para mobilidade",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 390,
+     "grupo": 390,
+     "atencao": ""
+    },
+    {
+     "tema": "exercícios para osteoporose",
+     "status": "a-validar",
+     "cluster": "mulher-menopausa",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": ""
+    },
+    {
+     "tema": "técnica de respiração 4 7 8",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 390,
+     "grupo": 390,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-25",
+   "pautas": [
+    {
+     "tema": "meditacao sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 50,
+     "grupo": 310,
+     "atencao": ""
+    },
+    {
+     "tema": "falta de desejo masculino o que fazer",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 390,
+     "grupo": 390,
+     "atencao": ""
+    },
+    {
+     "tema": "exercicio para equilibrio idoso",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 260,
+     "grupo": 370,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-26",
+   "pautas": [
+    {
+     "tema": "falhar na hora h",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 50,
+     "grupo": 340,
+     "atencao": ""
+    },
+    {
+     "tema": "idosos saudaveis",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 320,
+     "grupo": 330,
+     "atencao": ""
+    },
+    {
+     "tema": "idosa saudavel",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-27",
+   "pautas": [
+    {
+     "tema": "exame de cálcio",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": ""
+    },
+    {
+     "tema": "cabelo afinando",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": ""
+    },
+    {
+     "tema": "cabelo não cresce",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-28",
+   "pautas": [
+    {
+     "tema": "flacidez corporal",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": ""
+    },
+    {
+     "tema": "deficiência de cálcio",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": ""
+    },
+    {
+     "tema": "crealift",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1000,
+     "grupo": 1000,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-03-29",
+   "pautas": [
+    {
+     "tema": "hialugen",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1000,
+     "grupo": 1000,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "queima gordura",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1000,
+     "grupo": 1000,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "flacidez no pescoço",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1000,
+     "grupo": 1000,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-03-30",
+   "pautas": [
+    {
+     "tema": "como cuidar do cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1000,
+     "grupo": 1000,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "collagen renew nutrify",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 1000,
+     "grupo": 1000,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "meditacao ativa",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 260,
+     "grupo": 260,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-03-31",
+   "pautas": [
+    {
+     "tema": "collagen pura vida",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 590,
+     "grupo": 980,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "falta de desejo masculino causas",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 140,
+     "grupo": 280,
+     "atencao": ""
+    },
+    {
+     "tema": "fitoesterol",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 880,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-04-01",
+   "pautas": [
+    {
+     "tema": "musculação para mulheres",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 260,
+     "grupo": 260,
+     "atencao": ""
+    },
+    {
+     "tema": "motilex caps",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 880,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "renovabeoficial",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 880,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-04-02",
+   "pautas": [
+    {
+     "tema": "creme para flacidez",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 880,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "tratamento capilar feminino",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 880,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "nutren senior 740g baunilha",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 880,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-04-03",
+   "pautas": [
+    {
+     "tema": "colflex trio para que serve",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 880,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "eximia firmalize age complex",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 880,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "proteção térmica para cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 880,
+     "grupo": 880,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-04-04",
+   "pautas": [
+    {
+     "tema": "rosto envelhecido",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 260,
+     "grupo": 260,
+     "atencao": ""
+    },
+    {
+     "tema": "sistema glinfático",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 260,
+     "grupo": 260,
+     "atencao": ""
+    },
+    {
+     "tema": "emagrecimento hormonal",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 260,
+     "grupo": 260,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-04-05",
+   "pautas": [
+    {
+     "tema": "exercício antes de dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 260,
+     "grupo": 260,
+     "atencao": ""
+    },
+    {
+     "tema": "riscos de queda em idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 260,
+     "grupo": 260,
+     "atencao": ""
+    },
+    {
+     "tema": "receitas caseiras para cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 260,
+     "grupo": 260,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-04-06",
+   "pautas": [
+    {
+     "tema": "alucinações hipnopômpicas",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 260,
+     "atencao": ""
+    },
+    {
+     "tema": "dermatologista cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 590,
+     "grupo": 800,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "idoso caindo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 240,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-04-07",
+   "pautas": [
+    {
+     "tema": "exercicio para equilibrio em idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 240,
+     "atencao": ""
+    },
+    {
+     "tema": "porque o homem falhar na hora h",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 230,
+     "atencao": ""
+    },
+    {
+     "tema": "avane skin biosanté",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 480,
+     "grupo": 740,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-04-08",
+   "pautas": [
+    {
+     "tema": "acordar e nao conseguir se mexer",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 170,
+     "grupo": 220,
+     "atencao": ""
+    },
+    {
+     "tema": "creadop",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "fios finos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-04-09",
+   "pautas": [
+    {
+     "tema": "yoga para idosos",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 210,
+     "grupo": 210,
+     "atencao": ""
+    },
+    {
+     "tema": "condricart ultra",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "redutor de apetite",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-04-10",
+   "pautas": [
+    {
+     "tema": "glicina para dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "biomagnesio puravida",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "alimentos para idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-04-11",
+   "pautas": [
+    {
+     "tema": "musculação para iniciantes",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 210,
+     "grupo": 210,
+     "atencao": ""
+    },
+    {
+     "tema": "alimentação para idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "cabelos fracos e quebradiços",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-04-12",
+   "pautas": [
+    {
+     "tema": "alucinações do sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 90,
+     "grupo": 180,
+     "atencao": ""
+    },
+    {
+     "tema": "acelerar crescimento do cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "hidroginastica terceira idade",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 90,
+     "grupo": 180,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-04-13",
+   "pautas": [
+    {
+     "tema": "dor na coluna cervical como aliviar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 720,
+     "grupo": 720,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "alongamento na terceira idade",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 70,
+     "grupo": 180,
+     "atencao": ""
+    },
+    {
+     "tema": "couperose",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 210,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-04-14",
+   "pautas": [
+    {
+     "tema": "mãos rachadas",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 210,
+     "atencao": ""
+    },
+    {
+     "tema": "dor no períneo homem",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 210,
+     "atencao": ""
+    },
+    {
+     "tema": "masturbação excessiva",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 210,
+     "atencao": "sensível:sexualidadeCientifica"
+    }
+   ]
+  },
+  {
+   "data": "2027-04-15",
+   "pautas": [
+    {
+     "tema": "prevenir doenças",
+     "status": "a-validar",
+     "cluster": "longevidade",
+     "volume": 170,
+     "grupo": 170,
+     "atencao": ""
+    },
+    {
+     "tema": "benefícios de dormir bem",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 210,
+     "atencao": ""
+    },
+    {
+     "tema": "exercícios para mulheres",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 210,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-04-16",
+   "pautas": [
+    {
+     "tema": "horário ideal para dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 210,
+     "atencao": ""
+    },
+    {
+     "tema": "sinais de osteoporose",
+     "status": "a-validar",
+     "cluster": "mulher-menopausa",
+     "volume": 170,
+     "grupo": 170,
+     "atencao": ""
+    },
+    {
+     "tema": "como desligar a mente para dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 210,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-04-17",
+   "pautas": [
+    {
+     "tema": "ansiedade antes de dormir",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 170,
+     "grupo": 170,
+     "atencao": ""
+    },
+    {
+     "tema": "treino para homens",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 170,
+     "grupo": 180,
+     "atencao": ""
+    },
+    {
+     "tema": "tratamento da osteoporose",
+     "status": "a-validar",
+     "cluster": "mulher-menopausa",
+     "volume": 170,
+     "grupo": 170,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-04-18",
+   "pautas": [
+    {
+     "tema": "dermup supreme",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 590,
+     "grupo": 590,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "herbalife emagrece",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 590,
+     "grupo": 590,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "emagrecedores naturais",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 590,
+     "grupo": 590,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-04-19",
+   "pautas": [
+    {
+     "tema": "como fortalecer o cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 590,
+     "grupo": 590,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "colagenas",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 170,
+     "grupo": 170,
+     "atencao": ""
+    },
+    {
+     "tema": "acordar sem ar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 170,
+     "grupo": 170,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-04-20",
+   "pautas": [
+    {
+     "tema": "exames metabólicos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 170,
+     "grupo": 170,
+     "atencao": ""
+    },
+    {
+     "tema": "cicatrização lenta",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 170,
+     "grupo": 170,
+     "atencao": ""
+    },
+    {
+     "tema": "sono e fome",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 140,
+     "grupo": 140,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-04-21",
+   "pautas": [
+    {
+     "tema": "ejaculação demorada",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 170,
+     "grupo": 170,
+     "atencao": ""
+    },
+    {
+     "tema": "por que precisamos dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 170,
+     "grupo": 170,
+     "atencao": ""
+    },
+    {
+     "tema": "sono e estresse",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 140,
+     "grupo": 140,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-04-22",
+   "pautas": [
+    {
+     "tema": "quantas vezes lavar o cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 170,
+     "grupo": 170,
+     "atencao": ""
+    },
+    {
+     "tema": "alimentos que ajudam a dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 170,
+     "grupo": 170,
+     "atencao": ""
+    },
+    {
+     "tema": "efeitos da pornografia no cérebro",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 170,
+     "grupo": 170,
+     "atencao": "sensível:sexualidadeCientifica"
+    }
+   ]
+  },
+  {
+   "data": "2027-04-23",
+   "pautas": [
+    {
+     "tema": "alimentos hdl",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 90,
+     "grupo": 160,
+     "atencao": ""
+    },
+    {
+     "tema": "caminhada para idosos",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 140,
+     "grupo": 140,
+     "atencao": ""
+    },
+    {
+     "tema": "pau nao fica duro",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 70,
+     "grupo": 150,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-04-24",
+   "pautas": [
+    {
+     "tema": "caminhada para iniciantes",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 140,
+     "grupo": 140,
+     "atencao": ""
+    },
+    {
+     "tema": "colflex trio msm",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 480,
+     "grupo": 480,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "pilates 3 idade",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 40,
+     "grupo": 140,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-04-25",
+   "pautas": [
+    {
+     "tema": "silicio vitamina",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 480,
+     "grupo": 480,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "suplemento para osteoporose",
+     "status": "a-validar",
+     "cluster": "mulher-menopausa",
+     "volume": 320,
+     "grupo": 430,
+     "atencao": "sensível:suplemento, comp. alta"
+    },
+    {
+     "tema": "diminuir barriga",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 480,
+     "grupo": 480,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-04-26",
+   "pautas": [
+    {
+     "tema": "meditacao enquanto dorme",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 120,
+     "atencao": ""
+    },
+    {
+     "tema": "melhores emagrecedores",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 480,
+     "grupo": 480,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "tesao matinal",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 140,
+     "grupo": 140,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-04-27",
+   "pautas": [
+    {
+     "tema": "cloro e cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 140,
+     "grupo": 140,
+     "atencao": ""
+    },
+    {
+     "tema": "saúde do cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 140,
+     "grupo": 140,
+     "atencao": ""
+    },
+    {
+     "tema": "pênis não fica duro",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 140,
+     "grupo": 140,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-04-28",
+   "pautas": [
+    {
+     "tema": "como adormecer rápido",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 140,
+     "grupo": 140,
+     "atencao": ""
+    },
+    {
+     "tema": "como hidratar o corpo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 140,
+     "grupo": 140,
+     "atencao": ""
+    },
+    {
+     "tema": "meditação gassho",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 110,
+     "grupo": 110,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-04-29",
+   "pautas": [
+    {
+     "tema": "exercícios para homens",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 140,
+     "grupo": 140,
+     "atencao": ""
+    },
+    {
+     "tema": "treino para idosos em casa",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110,
+     "grupo": 130,
+     "atencao": ""
+    },
+    {
+     "tema": "esquecer palavras",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 40,
+     "grupo": 130,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-04-30",
+   "pautas": [
+    {
+     "tema": "corrida prejudica o joelho",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 110,
+     "grupo": 110,
+     "atencao": ""
+    },
+    {
+     "tema": "cartigen c",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 390,
+     "grupo": 390,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "resistência à insulina exame",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 110,
+     "grupo": 110,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-01",
+   "pautas": [
+    {
+     "tema": "massa nitro",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 390,
+     "grupo": 390,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "hidroginástica fortalece os músculos",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 110,
+     "grupo": 110,
+     "atencao": ""
+    },
+    {
+     "tema": "proteincolla",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 390,
+     "grupo": 390,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-05-02",
+   "pautas": [
+    {
+     "tema": "vantagens hidroginastica",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 50,
+     "grupo": 110,
+     "atencao": ""
+    },
+    {
+     "tema": "motilex 60 cápsulas",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 390,
+     "grupo": 390,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "beneficio hidroginastica",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 90,
+     "grupo": 100,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-03",
+   "pautas": [
+    {
+     "tema": "protena 60 cápsulas",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 390,
+     "grupo": 390,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "musculação 3 idade",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 30,
+     "grupo": 100,
+     "atencao": ""
+    },
+    {
+     "tema": "imecap face funciona",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 390,
+     "grupo": 390,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-05-04",
+   "pautas": [
+    {
+     "tema": "hipnopômpica",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110,
+     "grupo": 110,
+     "atencao": ""
+    },
+    {
+     "tema": "manchas de idade",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110,
+     "grupo": 110,
+     "atencao": ""
+    },
+    {
+     "tema": "cálcio baixo no sangue",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110,
+     "grupo": 110,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-05",
+   "pautas": [
+    {
+     "tema": "leitura antes de dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110,
+     "grupo": 110,
+     "atencao": ""
+    },
+    {
+     "tema": "doutores do emagrecimento",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110,
+     "grupo": 110,
+     "atencao": ""
+    },
+    {
+     "tema": "vitamina para acelerar o metabolismo",
+     "status": "a-validar",
+     "cluster": "emagrecimento",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-05-06",
+   "pautas": [
+    {
+     "tema": "treino de força para idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110,
+     "grupo": 110,
+     "atencao": ""
+    },
+    {
+     "tema": "cortisol e sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 90,
+     "grupo": 90,
+     "atencao": ""
+    },
+    {
+     "tema": "treinamento de forca para idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110,
+     "grupo": 110,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-07",
+   "pautas": [
+    {
+     "tema": "sono e emagrecimento",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 90,
+     "grupo": 90,
+     "atencao": ""
+    },
+    {
+     "tema": "remédio para demorar para gozar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 320,
+     "grupo": 340,
+     "atencao": "sensível:remedioMarca, comp. alta"
+    },
+    {
+     "tema": "para que serve o sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 90,
+     "grupo": 90,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-08",
+   "pautas": [
+    {
+     "tema": "falta de desejo homem",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 100,
+     "atencao": ""
+    },
+    {
+     "tema": "celular atrapalha o sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 90,
+     "grupo": 90,
+     "atencao": ""
+    },
+    {
+     "tema": "colflex 40mg",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-05-09",
+   "pautas": [
+    {
+     "tema": "corticoide altera glicemia",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 90,
+     "grupo": 90,
+     "atencao": ""
+    },
+    {
+     "tema": "cabelo fraco",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "dificuldade para pegar no sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 90,
+     "grupo": 90,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-10",
+   "pautas": [
+    {
+     "tema": "fixa derme q10",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "semblé collagen",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "condrol dimalex",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-05-11",
+   "pautas": [
+    {
+     "tema": "travesseiro ideal",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "ineout collagen gummies",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 320,
+     "grupo": 320,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "kegel homem",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 90,
+     "grupo": 90,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-12",
+   "pautas": [
+    {
+     "tema": "espinhas depois dos 40",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 90,
+     "grupo": 90,
+     "atencao": ""
+    },
+    {
+     "tema": "celular antes de dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 90,
+     "grupo": 90,
+     "atencao": ""
+    },
+    {
+     "tema": "melhorar o sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 260,
+     "grupo": 260,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-05-13",
+   "pautas": [
+    {
+     "tema": "quando usar gelo ou calor",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 90,
+     "grupo": 90,
+     "atencao": ""
+    },
+    {
+     "tema": "pornografia na adolescência",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 90,
+     "grupo": 90,
+     "atencao": "sensível:sexualidadeCientifica"
+    },
+    {
+     "tema": "dormir rapido e profundamente",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 90,
+     "grupo": 90,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-14",
+   "pautas": [
+    {
+     "tema": "alucinações hipnagógicas espiritual",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 90,
+     "grupo": 90,
+     "atencao": ""
+    },
+    {
+     "tema": "como perder o medo de falhar na hora h",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 90,
+     "grupo": 90,
+     "atencao": ""
+    },
+    {
+     "tema": "louise hay para dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 70,
+     "grupo": 90,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-15",
+   "pautas": [
+    {
+     "tema": "treino para idosos na academia",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 50,
+     "grupo": 90,
+     "atencao": ""
+    },
+    {
+     "tema": "meditação divaldo",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 70,
+     "grupo": 70,
+     "atencao": ""
+    },
+    {
+     "tema": "100 peso emagrece",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 290,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-05-16",
+   "pautas": [
+    {
+     "tema": "dieta para homens",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 70,
+     "grupo": 80,
+     "atencao": ""
+    },
+    {
+     "tema": "check up para mulheres",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 70,
+     "grupo": 70,
+     "atencao": ""
+    },
+    {
+     "tema": "dormir e meditar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 80,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-17",
+   "pautas": [
+    {
+     "tema": "exercícios para artrite",
+     "status": "a-validar",
+     "cluster": "ossos-articulacoes",
+     "volume": 70,
+     "grupo": 70,
+     "atencao": ""
+    },
+    {
+     "tema": "zinco e cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 260,
+     "grupo": 260,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "musculação e osteoporose",
+     "status": "a-validar",
+     "cluster": "mulher-menopausa",
+     "volume": 70,
+     "grupo": 70,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-18",
+   "pautas": [
+    {
+     "tema": "emagrecedores potentes",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 260,
+     "grupo": 260,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "fixa derme hialuronico",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 260,
+     "grupo": 260,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "tirar gordura da barriga",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 260,
+     "grupo": 260,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-05-19",
+   "pautas": [
+    {
+     "tema": "como dar brilho ao cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 260,
+     "grupo": 260,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "alongamento 3 idade",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 30,
+     "grupo": 70,
+     "atencao": ""
+    },
+    {
+     "tema": "como aumentar volume do cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 260,
+     "grupo": 260,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-05-20",
+   "pautas": [
+    {
+     "tema": "medicamento que retarda a ejaculação",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 260,
+     "grupo": 260,
+     "atencao": "sensível:remedioMarca, comp. alta"
+    },
+    {
+     "tema": "saúde capilar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 70,
+     "grupo": 70,
+     "atencao": ""
+    },
+    {
+     "tema": "articulação inchada",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 70,
+     "grupo": 70,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-21",
+   "pautas": [
+    {
+     "tema": "perda de mobilidade",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 70,
+     "grupo": 70,
+     "atencao": ""
+    },
+    {
+     "tema": "insonias",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 30,
+     "grupo": 60,
+     "atencao": ""
+    },
+    {
+     "tema": "tintura danifica o cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 70,
+     "grupo": 70,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-22",
+   "pautas": [
+    {
+     "tema": "como não falhar na hora h",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 70,
+     "grupo": 70,
+     "atencao": ""
+    },
+    {
+     "tema": "dieta para mulheres de 40 anos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 70,
+     "grupo": 70,
+     "atencao": ""
+    },
+    {
+     "tema": "transição para cabelos grisalhos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 70,
+     "grupo": 70,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-23",
+   "pautas": [
+    {
+     "tema": "demorar na ejaculação",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 50,
+     "grupo": 70,
+     "atencao": ""
+    },
+    {
+     "tema": "homem demorar para gozar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 50,
+     "grupo": 70,
+     "atencao": ""
+    },
+    {
+     "tema": "sono e memória",
+     "status": "a-validar",
+     "cluster": "cerebro-memoria",
+     "volume": 50,
+     "grupo": 50,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-24",
+   "pautas": [
+    {
+     "tema": "biomagnesio",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 210,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "sono e ansiedade",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 50,
+     "grupo": 50,
+     "atencao": ""
+    },
+    {
+     "tema": "kerastase queda",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 210,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-05-25",
+   "pautas": [
+    {
+     "tema": "testosterona e sono",
+     "status": "a-validar",
+     "cluster": "homem-prostata",
+     "volume": 50,
+     "grupo": 50,
+     "atencao": ""
+    },
+    {
+     "tema": "sanavita duo balance",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 210,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "insonias constantes",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 50,
+     "grupo": 50,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-26",
+   "pautas": [
+    {
+     "tema": "retarda a ejaculação",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 210,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "check up para homens",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 50,
+     "grupo": 50,
+     "atencao": ""
+    },
+    {
+     "tema": "imecap hair queda intensa",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 210,
+     "grupo": 210,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-05-27",
+   "pautas": [
+    {
+     "tema": "meditação pijama azul",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 50,
+     "grupo": 50,
+     "atencao": ""
+    },
+    {
+     "tema": "artrocomplex",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 170,
+     "grupo": 170,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "musculação aos 50 anos",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 50,
+     "grupo": 50,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-28",
+   "pautas": [
+    {
+     "tema": "colagenos bons",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 170,
+     "grupo": 170,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "musculação aos 60 anos",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 50,
+     "grupo": 50,
+     "atencao": ""
+    },
+    {
+     "tema": "como diminuir poros",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 170,
+     "grupo": 170,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-05-29",
+   "pautas": [
+    {
+     "tema": "vitamina b12 metformina",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 50,
+     "grupo": 50,
+     "atencao": "sensível:remedioMarca"
+    },
+    {
+     "tema": "collagen ha mantecorp",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 170,
+     "grupo": 170,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "hemograma detecta diabetes",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 50,
+     "grupo": 50,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-30",
+   "pautas": [
+    {
+     "tema": "forte flex",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 50,
+     "grupo": 50,
+     "atencao": ""
+    },
+    {
+     "tema": "resultado da densitometria óssea",
+     "status": "a-validar",
+     "cluster": "ossos-articulacoes",
+     "volume": 50,
+     "grupo": 50,
+     "atencao": ""
+    },
+    {
+     "tema": "urina residual",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 50,
+     "grupo": 50,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-05-31",
+   "pautas": [
+    {
+     "tema": "calcular idade biológica",
+     "status": "a-validar",
+     "cluster": "longevidade",
+     "volume": 40,
+     "grupo": 50,
+     "atencao": ""
+    },
+    {
+     "tema": "dieta para mulheres",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 50,
+     "grupo": 50,
+     "atencao": ""
+    },
+    {
+     "tema": "meditação louise hay cura enquanto dorme",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 40,
+     "grupo": 50,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-01",
+   "pautas": [
+    {
+     "tema": "colagénio",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 140,
+     "grupo": 140,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "álcool e sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 40,
+     "grupo": 40,
+     "atencao": ""
+    },
+    {
+     "tema": "colflex vit",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 140,
+     "grupo": 140,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-06-02",
+   "pautas": [
+    {
+     "tema": "vitamina de sono",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 40,
+     "grupo": 40,
+     "atencao": ""
+    },
+    {
+     "tema": "cálcio quelato",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 140,
+     "grupo": 140,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "café e osteoporose",
+     "status": "a-validar",
+     "cluster": "mulher-menopausa",
+     "volume": 40,
+     "grupo": 40,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-03",
+   "pautas": [
+    {
+     "tema": "avane skin é bom",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 140,
+     "grupo": 140,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "sono e aprendizado",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 40,
+     "grupo": 40,
+     "atencao": ""
+    },
+    {
+     "tema": "cartilan natuclin",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110,
+     "grupo": 140,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-06-04",
+   "pautas": [
+    {
+     "tema": "musculação depois dos 50",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 40,
+     "grupo": 40,
+     "atencao": ""
+    },
+    {
+     "tema": "estágio rem",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 40,
+     "grupo": 40,
+     "atencao": ""
+    },
+    {
+     "tema": "ranger os dentes durante o sono",
+     "status": "a-validar",
+     "cluster": "visao-audicao-boca",
+     "volume": 40,
+     "grupo": 40,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-05",
+   "pautas": [
+    {
+     "tema": "dieta depois dos 40",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 40,
+     "grupo": 40,
+     "atencao": ""
+    },
+    {
+     "tema": "meditação juliana tamietti",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 30,
+     "grupo": 40,
+     "atencao": ""
+    },
+    {
+     "tema": "rotina antes de dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 40,
+     "grupo": 40,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-06",
+   "pautas": [
+    {
+     "tema": "exame idade biologica",
+     "status": "a-validar",
+     "cluster": "longevidade",
+     "volume": 20,
+     "grupo": 40,
+     "atencao": ""
+    },
+    {
+     "tema": "como recuperar massa óssea",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 40,
+     "grupo": 40,
+     "atencao": ""
+    },
+    {
+     "tema": "meditação para prosperidade enquanto dorme",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 20,
+     "grupo": 40,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-07",
+   "pautas": [
+    {
+     "tema": "banho quente antes de dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 40,
+     "grupo": 40,
+     "atencao": ""
+    },
+    {
+     "tema": "da hidroginástica",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 10,
+     "grupo": 40,
+     "atencao": ""
+    },
+    {
+     "tema": "dor lombar relaxante muscular",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 40,
+     "grupo": 40,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-08",
+   "pautas": [
+    {
+     "tema": "meditação com chuva",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 40,
+     "atencao": ""
+    },
+    {
+     "tema": "ciclo de crescimento do cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 40,
+     "grupo": 40,
+     "atencao": ""
+    },
+    {
+     "tema": "função do sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-09",
+   "pautas": [
+    {
+     "tema": "acordar sem conseguir se mexer",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 40,
+     "grupo": 40,
+     "atencao": ""
+    },
+    {
+     "tema": "meditação mandala",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "alucinações hipnagógicas exemplos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 40,
+     "grupo": 40,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-10",
+   "pautas": [
+    {
+     "tema": "dieta para artrose",
+     "status": "a-validar",
+     "cluster": "ossos-articulacoes",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "retarda o gozo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110,
+     "grupo": 110,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "meditação de manhã",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-11",
+   "pautas": [
+    {
+     "tema": "biotina funciona",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110,
+     "grupo": 110,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "meditação dinâmica",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "remedio para demorar a ejaculação",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 110,
+     "grupo": 110,
+     "atencao": "sensível:remedioMarca, comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-06-12",
+   "pautas": [
+    {
+     "tema": "meditação dirigida",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "collagen face vhita",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 90,
+     "grupo": 100,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "glicemia ao acordar",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-13",
+   "pautas": [
+    {
+     "tema": "idoso alongando",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "higienizacao do sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "telas antes de dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-14",
+   "pautas": [
+    {
+     "tema": "meditacao paz interior",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "acordar às 3 da manhã",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "pornografia e ansiedade",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": "sensível:sexualidadeCientifica"
+    }
+   ]
+  },
+  {
+   "data": "2027-06-15",
+   "pautas": [
+    {
+     "tema": "ereções fracas causas",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "musculação depois dos 40",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "pornografia e dopamina",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": "sensível:sexualidadeCientifica"
+    }
+   ]
+  },
+  {
+   "data": "2027-06-16",
+   "pautas": [
+    {
+     "tema": "tabela glicemia por idade",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "marido vendo pornografia",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": "sensível:sexualidadeCientifica"
+    },
+    {
+     "tema": "alongamentos terceira idade",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-17",
+   "pautas": [
+    {
+     "tema": "é normal ver pornografia",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": "sensível:sexualidadeCientifica"
+    },
+    {
+     "tema": "meditação matinal iasd 2020",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "hábitos para dormir melhor",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-18",
+   "pautas": [
+    {
+     "tema": "quantas horas de sono por noite",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "quando o homem falha na hora h",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "alimentos que atrapalham o sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-19",
+   "pautas": [
+    {
+     "tema": "melhor exame para detectar diabetes",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "meditação para descansar a mente",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "alimentação para crescimento do cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-20",
+   "pautas": [
+    {
+     "tema": "dieta para osteoporose",
+     "status": "a-validar",
+     "cluster": "mulher-menopausa",
+     "volume": 70,
+     "grupo": 70,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "tratamento para falta de desejo masculino",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "café à noite",
+     "status": "a-validar",
+     "cluster": "alimentacao",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-21",
+   "pautas": [
+    {
+     "tema": "idoso cai",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "cafeína e sono",
+     "status": "a-validar",
+     "cluster": "alimentacao",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "velhice saudavel",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 30,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-22",
+   "pautas": [
+    {
+     "tema": "sono e alzheimer",
+     "status": "a-validar",
+     "cluster": "cerebro-memoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "exercicios para o equilibrio do idoso",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "sono e imunidade",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-23",
+   "pautas": [
+    {
+     "tema": "perda desejo masculino",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 30,
+     "atencao": ""
+    },
+    {
+     "tema": "triptofano e sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "protena 40mg",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 90,
+     "grupo": 90,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-06-24",
+   "pautas": [
+    {
+     "tema": "testosterona e cabelo",
+     "status": "a-validar",
+     "cluster": "homem-prostata",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "rotina de skincare simples",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 90,
+     "grupo": 90,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "recuperar sono perdido",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-25",
+   "pautas": [
+    {
+     "tema": "tauromind",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 70,
+     "grupo": 70,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "hidroginastica faz bem",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "renovabe site",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 70,
+     "grupo": 70,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-06-26",
+   "pautas": [
+    {
+     "tema": "meditação em um minuto",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "ferro e cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 70,
+     "grupo": 70,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "pornografia e depressão",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": "sensível:sexualidadeCientifica"
+    }
+   ]
+  },
+  {
+   "data": "2027-06-27",
+   "pautas": [
+    {
+     "tema": "ejaculação atrasada",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "estresse altera glicemia",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "beneficios da hidro",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-28",
+   "pautas": [
+    {
+     "tema": "dor no joelho alongamento",
+     "status": "a-validar",
+     "cluster": "ossos-articulacoes",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "densitometria normal",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "ansiodoron weleda da sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-29",
+   "pautas": [
+    {
+     "tema": "treino depois dos 40",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "como descobrir osteoporose",
+     "status": "a-validar",
+     "cluster": "mulher-menopausa",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "como fortalecer o fêmur",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-06-30",
+   "pautas": [
+    {
+     "tema": "meditação de cinco minutos",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "perda de volume capilar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "disturbios do sono em idosos",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-01",
+   "pautas": [
+    {
+     "tema": "queda na terceira idade",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "idade biológica bioimpedância",
+     "status": "a-validar",
+     "cluster": "longevidade",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "tipos de queda em idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-02",
+   "pautas": [
+    {
+     "tema": "glicemia baixa depois de comer",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "como aumentar massa óssea",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "ficar paralisado durante o sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-03",
+   "pautas": [
+    {
+     "tema": "envelhecer saudavel e ativo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "exames para saber se tenho diabetes",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "gotejamento depois de urinar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-04",
+   "pautas": [
+    {
+     "tema": "glicemia acima de quanto é diabetes",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "nao consigo ficar de pau duro",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "meditação guiada cura enquanto dorme",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-05",
+   "pautas": [
+    {
+     "tema": "tecnica para demorar pra gozar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "hidroginástica fortalece a musculatura",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "alucinações hipnagógicas sintomas",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-06",
+   "pautas": [
+    {
+     "tema": "meditação para adormecer",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "acordei mas nao conseguia me mexer",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "exercícios para membros inferiores idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-07",
+   "pautas": [
+    {
+     "tema": "estar acordado mas nao conseguir se mexer",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "dor no joelho tratamento",
+     "status": "a-validar",
+     "cluster": "ossos-articulacoes",
+     "volume": 50,
+     "grupo": 50,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "atrasar ejaculacao",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 20,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-08",
+   "pautas": [
+    {
+     "tema": "anticolesterol",
+     "status": "a-validar",
+     "cluster": "coracao-pressao",
+     "volume": 40,
+     "grupo": 40,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "falhando na hora h",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "sono e humor",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-09",
+   "pautas": [
+    {
+     "tema": "beneficios hidrobike",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "sono e coração",
+     "status": "a-validar",
+     "cluster": "coracao-pressao",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "falta desejo masculino",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 20,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-10",
+   "pautas": [
+    {
+     "tema": "dívida de sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "meditações guiadas para dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "meditar da sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-11",
+   "pautas": [
+    {
+     "tema": "esquecer de tomar antidepressivo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "acorda mas não consegue se mexer",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "alucinações hipnagógicas o que é",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 20,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-12",
+   "pautas": [
+    {
+     "tema": "porque os homens falham na hora h",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "fortalecimento membros inferiores idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 20,
+     "atencao": ""
+    },
+    {
+     "tema": "estresse e cabelo",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-13",
+   "pautas": [
+    {
+     "tema": "naara jeunesse",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 50,
+     "grupo": 50,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "bicicleta e joelho",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "insonlivre",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-14",
+   "pautas": [
+    {
+     "tema": "sono e metabolismo",
+     "status": "a-validar",
+     "cluster": "emagrecimento",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "kreatin hcl",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "musculação 60 anos",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-15",
+   "pautas": [
+    {
+     "tema": "ereçoes fracas",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "meditar a noite",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "horas de sono ideais",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-16",
+   "pautas": [
+    {
+     "tema": "test cholesterol",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "sono e produtividade",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "ereção retardada",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-17",
+   "pautas": [
+    {
+     "tema": "regularidade do sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "homem sem desejo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "queda nos idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-18",
+   "pautas": [
+    {
+     "tema": "meditação guiada 15m",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "dormir meditando",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "yoga para osteoporose",
+     "status": "a-validar",
+     "cluster": "mulher-menopausa",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-19",
+   "pautas": [
+    {
+     "tema": "meditar dormindo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "dieta aos 50 anos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "meditacao louise cura",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-20",
+   "pautas": [
+    {
+     "tema": "estrogênio e cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "meditação com os anjos",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "dieta depois dos 50",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-21",
+   "pautas": [
+    {
+     "tema": "meditopia durma bem",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "como evitar fraturas",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "meditação cura da mente",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-22",
+   "pautas": [
+    {
+     "tema": "alimentação e cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "meditação para ter foco",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "beleza depois dos 40",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-23",
+   "pautas": [
+    {
+     "tema": "meditação com monja coen",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "masturbação e ereção",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": "sensível:sexualidadeCientifica"
+    },
+    {
+     "tema": "meditação cura emocional",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-24",
+   "pautas": [
+    {
+     "tema": "ele falhou na hora h",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "estresse causa impotência",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "prevenção de fraturas",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-25",
+   "pautas": [
+    {
+     "tema": "sedentarismo e osteoporose",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "efeitos de dormir mal",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "meditação silenciar a mente",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-26",
+   "pautas": [
+    {
+     "tema": "pau fica duro do nada",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "meditar enquanto dorme",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "meu pinto nao fica duro",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-27",
+   "pautas": [
+    {
+     "tema": "meditação para cura interior",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "o homem falha na hora h",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "glicemia depois das refeições",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-28",
+   "pautas": [
+    {
+     "tema": "esquecer o que ia falar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "falta de tesao masculino",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "quedas em pessoas idosas",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-29",
+   "pautas": [
+    {
+     "tema": "alongamento para pessoas idosas",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "falta de prazer masculino",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "corpo paralisado dormindo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-30",
+   "pautas": [
+    {
+     "tema": "alimentação antes de dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "corpo paralisado durante o sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "queda de idosos no banheiro",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-07-31",
+   "pautas": [
+    {
+     "tema": "glicemia 2 horas depois de comer",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "dormir mais no fim de semana",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "quais exames fazer para diabetes",
+     "status": "a-validar",
+     "cluster": "diabetes-exames",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-08-01",
+   "pautas": [
+    {
+     "tema": "definição de queda em idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "envelhecer de forma saudavel",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "melhores alongamentos para idosos",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-08-02",
+   "pautas": [
+    {
+     "tema": "esquecer de respirar e normal",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "meu pau nao esta ficando duro",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "esquecer o que estava falando",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-08-03",
+   "pautas": [
+    {
+     "tema": "acordar e nao conseguir mexer",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "meu pênis não está ficando duro",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "alimentos para prevenir osteoporose",
+     "status": "a-validar",
+     "cluster": "mulher-menopausa",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-08-04",
+   "pautas": [
+    {
+     "tema": "vida saudável na terceira idade",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "aurelio alfieri alongamento sentado",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "acordar e nao consegue se mexer",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-08-05",
+   "pautas": [
+    {
+     "tema": "youtube aurelio alfieri alongamento",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "acordado e nao consegue se mexer",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "acordei e não conseguia me mexer",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-08-06",
+   "pautas": [
+    {
+     "tema": "dormir e acordar no mesmo horário",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "academia de ginastica para idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "trabalho de equilibrio com idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-08-07",
+   "pautas": [
+    {
+     "tema": "acordado mas não consigo me mexer",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "mindfulness para dormir 5 minutos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "dificuldade para dormir ou manter o sono",
+     "status": "a-validar",
+     "cluster": "sono-mente",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-08-08",
+   "pautas": [
+    {
+     "tema": "o que fazer se na hora h ele falha",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "ho oponopono para relaxar e dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "treinamento para idosos em academia",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-08-09",
+   "pautas": [
+    {
+     "tema": "como acalmar a mente antes de dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "exercicios de equilibrio para terceira idade",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "como parar de pensar antes de dormir",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-08-10",
+   "pautas": [
+    {
+     "tema": "alongamento de membros superiores e inferiores",
+     "status": "a-validar",
+     "cluster": "exercicio",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "atividades de equilibrio para idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "perda de vontade de ter relação homem",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-08-11",
+   "pautas": [
+    {
+     "tema": "exercícios de resistência para idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "como voltar a dormir depois de acordar",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "estar acordado e não conseguir se mexer",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-08-12",
+   "pautas": [
+    {
+     "tema": "estar dormindo e nao conseguir se mexer",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "falta de vontade de ter relações no homem",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "exercicios coordenação motora para idosos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-08-13",
+   "pautas": [
+    {
+     "tema": "exercícios para terceira idade na academia",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    },
+    {
+     "tema": "falta de alibido masculino",
+     "status": "a-validar",
+     "cluster": "relacionamento-sexualidade",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "falta de vontade de ter relações masculinos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": ""
+    }
+   ]
+  },
+  {
+   "data": "2027-08-14",
+   "pautas": [
+    {
+     "tema": "naara tangerina",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "como controlar oleosidade do cabelo",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 30,
+     "grupo": 30,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "naara chocolate",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-08-15",
+   "pautas": [
+    {
+     "tema": "avane skin promoção",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "prolongar a ejaculacao",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "remedio para atrasar ejaculaçao",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 20,
+     "grupo": 20,
+     "atencao": "sensível:remedioMarca, comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-08-16",
+   "pautas": [
+    {
+     "tema": "falta de tesao homem",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 20,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "naara luxe",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": "como proteger a coluna",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": "comp. alta"
+    }
+   ]
+  },
+  {
+   "data": "2027-08-17",
+   "pautas": [
+    {
+     "tema": "queratina para musculos",
+     "status": "a-validar",
+     "cluster": "sem-categoria",
+     "volume": 10,
+     "grupo": 10,
+     "atencao": "comp. alta"
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-08-18",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-08-19",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-08-20",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-08-21",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-08-22",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-08-23",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-08-24",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-08-25",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-08-26",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-08-27",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-08-28",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-08-29",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-08-30",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-08-31",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-01",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-02",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-03",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-04",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-05",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-06",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-07",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-08",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-09",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-10",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-11",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-12",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-13",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-14",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-15",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-16",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-17",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-18",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-19",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-20",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-21",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-22",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-23",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-24",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-25",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-26",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-27",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-28",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-29",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-09-30",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-10-01",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-10-02",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-10-03",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  },
+  {
+   "data": "2027-10-04",
+   "pautas": [
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    },
+    {
+     "tema": null,
+     "status": "vaga",
+     "cluster": null
+    }
+   ]
+  }
+ ]
+}
