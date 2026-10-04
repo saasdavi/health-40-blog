@@ -1,206 +1,206 @@
 # Ordem de validação (melhores primeiro)
 
-Gerado de 1096 palavras úteis do banco (sem competição ALTA, sem filtradas), em 503 grupos. Valide no Google de cima para baixo.
+Gerado de 2215 palavras úteis do banco (só ficam de fora intenção de compra e fora do assunto; sensível, amplo e competição alta entram marcados), em 721 grupos. Valide no Google de cima para baixo.
 
-| # | Frase-mãe | Volume do grupo | Variações | Categoria |
-|---|---|---|---|---|
-| 1 | colesterol | 437830 | 99 | coracao-pressao |
-| 2 | triglicerídeos | 188410 | 4 | coracao-pressao |
-| 3 | menopausa | 158640 | 32 | mulher-menopausa |
-| 4 | alopecia | 136370 | 3 | sem-categoria |
-| 5 | colesterol das hdl | 132000 | 5 | coracao-pressao |
-| 6 | próstata | 104790 | 20 | homem-prostata |
-| 7 | dieta emagrecer | 87950 | 8 | emagrecimento |
-| 8 | paralisia do sono | 74780 | 4 | sono-mente |
-| 9 | bursite | 74000 | 0 | ossos-articulacoes |
-| 10 | bruxismo | 74000 | 0 | sem-categoria |
-| 11 | fosfatase alcalina | 74000 | 0 | ossos-articulacoes |
-| 12 | dermatite de contato | 74000 | 0 | sem-categoria |
-| 13 | psa | 73880 | 9 | sem-categoria |
-| 14 | emagrecer | 64440 | 15 | emagrecimento |
-| 15 | melasma | 60500 | 0 | sem-categoria |
-| 16 | gota | 50000 | 2 | ossos-articulacoes |
-| 17 | estrias | 49500 | 0 | sem-categoria |
-| 18 | triglicérides alto | 49500 | 0 | sem-categoria |
-| 19 | perimenopausa | 40710 | 1 | mulher-menopausa |
-| 20 | exercícios para ombro | 40500 | 0 | ossos-articulacoes |
-| 21 | sarcopenia o que é | 40030 | 4 | ossos-articulacoes |
-| 22 | câimbras | 34200 | 4 | ossos-articulacoes |
-| 23 | cochilo | 33760 | 3 | sem-categoria |
-| 24 | meditação para dormir | 31890 | 31 | sono-mente |
-| 25 | prostatite | 31590 | 3 | sem-categoria |
-| 26 | cabelo grisalho | 28700 | 2 | sem-categoria |
-| 27 | glicemia de jejum | 23800 | 7 | diabetes-exames |
-| 28 | hiperglicemia | 22790 | 1 | diabetes-exames |
-| 29 | caspa | 22520 | 1 | sem-categoria |
-| 30 | microalbuminúria | 22200 | 0 | sem-categoria |
-| 31 | como dormir rápido | 22200 | 0 | sem-categoria |
-| 32 | tendinite no ombro | 22200 | 0 | ossos-articulacoes |
-| 33 | ligamento do joelho | 22200 | 0 | ossos-articulacoes |
-| 34 | dor nas costas no meio | 22200 | 0 | ossos-articulacoes |
-| 35 | sono rem | 20740 | 3 | sono-mente |
-| 36 | couro cabeludo | 20690 | 4 | sem-categoria |
-| 37 | climatério o que é | 20430 | 7 | mulher-menopausa |
-| 38 | calvície | 19070 | 2 | homem-prostata |
-| 39 | articulações | 18800 | 2 | ossos-articulacoes |
-| 40 | recomeçar | 18120 | 2 | relacionamento-sexualidade |
-| 41 | curva glicêmica | 18100 | 0 | sem-categoria |
-| 42 | falta de vitamina d | 18100 | 0 | ossos-articulacoes |
-| 43 | benefícios do magnésio | 16900 | 2 | sem-categoria |
-| 44 | cabelo caindo muito | 16200 | 2 | sem-categoria |
-| 45 | ossos | 16180 | 8 | ossos-articulacoes |
-| 46 | rosácea | 14800 | 0 | sem-categoria |
-| 47 | hiperplasia prostática | 14800 | 0 | sem-categoria |
-| 48 | dor de cabeça ao acordar | 14800 | 0 | sem-categoria |
-| 49 | artrite reumatoide sintomas | 14800 | 0 | ossos-articulacoes |
-| 50 | dores nas costas o que pode ser | 14800 | 0 | sem-categoria |
-| 51 | cartilagem | 14300 | 1 | ossos-articulacoes |
-| 52 | higiene do sono | 14280 | 2 | sono-mente |
-| 53 | cabelo branco | 13300 | 2 | sem-categoria |
-| 54 | ciática | 12110 | 1 | ossos-articulacoes |
-| 55 | homa ir | 12100 | 0 | sem-categoria |
-| 56 | urina escura | 12100 | 0 | sem-categoria |
-| 57 | sonambulismo | 12100 | 0 | sem-categoria |
-| 58 | urofluxometria | 12100 | 0 | sem-categoria |
-| 59 | alimentos ricos em magnésio | 12100 | 0 | ossos-articulacoes |
-| 60 | pesadelos | 10040 | 1 | sem-categoria |
-| 61 | insulina alta | 9900 | 0 | sem-categoria |
-| 62 | glicemia capilar | 9900 | 0 | diabetes-exames |
-| 63 | babosa no cabelo | 9900 | 0 | sem-categoria |
-| 64 | suco detox emagrece | 9900 | 0 | sem-categoria |
-| 65 | meditacaoparadormir | 9900 | 0 | sono-mente |
-| 66 | meditação ao dormir | 9900 | 0 | sono-mente |
-| 67 | meditaçãopara dormir | 9900 | 0 | sono-mente |
-| 68 | alimentos ricos em cálcio | 9900 | 0 | alimentacao |
-| 69 | cabelo caindo | 9770 | 4 | sem-categoria |
-| 70 | alimentos ricos em vitamina d | 9400 | 1 | diabetes-exames |
-| 71 | fases sono | 8800 | 1 | sono-mente |
-| 72 | hpb | 8310 | 1 | sem-categoria |
-| 73 | glicemia alta | 8140 | 2 | diabetes-exames |
-| 74 | luz azul | 8120 | 1 | sem-categoria |
-| 75 | rugas | 8110 | 1 | pele-cabelo |
-| 76 | pth | 8100 | 0 | ossos-articulacoes |
-| 77 | anti ccp | 8100 | 0 | ossos-articulacoes |
-| 78 | ciclo do sono | 8100 | 0 | sono-mente |
-| 79 | meditacoes iasd | 8100 | 0 | sem-categoria |
-| 80 | dieta para perder barriga | 8100 | 0 | emagrecimento |
-| 81 | dor nas costas ao respirar | 8100 | 0 | ossos-articulacoes |
-| 82 | queda de cabelo o que pode ser | 8100 | 0 | pele-cabelo |
-| 83 | causa insonia | 7590 | 2 | sono-mente |
-| 84 | triglicerides | 6980 | 2 | sem-categoria |
-| 85 | pilates e idosos | 6850 | 10 | exercicio |
-| 86 | totg | 6600 | 0 | sem-categoria |
-| 87 | região lombar | 6600 | 0 | sem-categoria |
-| 88 | glicemia pós prandial | 6600 | 0 | diabetes-exames |
-| 89 | alongamento para coluna | 6600 | 0 | ossos-articulacoes |
-| 90 | vontade de urinar toda hora | 6600 | 0 | sem-categoria |
-| 91 | insonia o que é | 6010 | 14 | sono-mente |
-| 92 | fogacho | 5410 | 2 | sem-categoria |
-| 93 | hiperpigmentação | 5400 | 0 | sem-categoria |
-| 94 | dor nas costas embaixo | 5400 | 0 | ossos-articulacoes |
-| 95 | deficiência de vitamina d | 5400 | 0 | diabetes-exames |
-| 96 | esquecimentos | 5070 | 4 | cerebro-memoria |
-| 97 | peptideo c | 4400 | 0 | sem-categoria |
-| 98 | cabelo ralo | 4400 | 0 | sem-categoria |
-| 99 | pontas duplas | 4400 | 0 | sem-categoria |
-| 100 | cabelo oleoso | 4400 | 0 | sem-categoria |
-| 101 | sons para dormir | 4400 | 0 | sem-categoria |
-| 102 | síndrome metabólica | 4400 | 0 | sem-categoria |
-| 103 | excesso de vitamina d | 4400 | 0 | diabetes-exames |
-| 104 | exercícios para joelho | 4400 | 0 | ossos-articulacoes |
-| 105 | dor muscular nas costas | 4400 | 0 | sem-categoria |
-| 106 | relação albumina creatinina | 4400 | 0 | diabetes-exames |
-| 107 | benefícios da hidroginástica | 4100 | 9 | exercicio |
-| 108 | causas de queda de cabelo | 4080 | 1 | pele-cabelo |
-| 109 | gravidez e insonia | 4060 | 2 | sono-mente |
-| 110 | quedas idosos | 4040 | 4 | sem-categoria |
-| 111 | açúcar no sangue | 3950 | 4 | sem-categoria |
-| 112 | insonia e ansiedade | 3900 | 2 | sono-mente |
-| 113 | insonia fatal | 3800 | 1 | sono-mente |
-| 114 | como pegar sono rapido | 3800 | 1 | sono-mente |
-| 115 | privação de sono | 3770 | 1 | sono-mente |
-| 116 | dor articular | 3600 | 0 | ossos-articulacoes |
-| 117 | coluna travada | 3600 | 0 | sem-categoria |
-| 118 | saúde do homem | 3600 | 0 | sem-categoria |
-| 119 | ruminação mental | 3600 | 0 | sem-categoria |
-| 120 | gordura abdominal | 3600 | 0 | emagrecimento |
-| 121 | exame de glicemia | 3600 | 0 | diabetes-exames |
-| 122 | retenção urinária | 3600 | 0 | sem-categoria |
-| 123 | insonia quais as causas | 3600 | 0 | sono-mente |
-| 124 | ejaculação retardada | 3250 | 13 | sem-categoria |
-| 125 | ceramidas | 2900 | 0 | sem-categoria |
-| 126 | ferro baixo | 2900 | 0 | sem-categoria |
-| 127 | hidrolisado | 2900 | 0 | sem-categoria |
-| 128 | urinar muito | 2900 | 0 | sem-categoria |
-| 129 | exercícios para quadril | 2900 | 0 | ossos-articulacoes |
-| 130 | como fortalecer o joelho | 2900 | 0 | ossos-articulacoes |
-| 131 | treino para perder barriga | 2900 | 0 | emagrecimento |
-| 132 | alimentos ricos em vitaminas | 2900 | 0 | sem-categoria |
-| 133 | quantos fios de cabelo caem por dia | 2900 | 0 | sem-categoria |
-| 134 | entradas cabelo | 2600 | 1 | sem-categoria |
-| 135 | estresse e queda de cabelo | 2600 | 1 | pele-cabelo |
-| 136 | pilates idoso | 2580 | 5 | exercicio |
-| 137 | musculação em idosos | 2500 | 5 | exercicio |
-| 138 | sono profundo | 2480 | 2 | sono-mente |
-| 139 | alongamento em idosos | 2470 | 6 | exercicio |
-| 140 | anti gad | 2400 | 0 | sem-categoria |
-| 141 | cabelo fino | 2400 | 0 | sem-categoria |
-| 142 | cabelo seco | 2400 | 0 | sem-categoria |
-| 143 | cabelo opaco | 2400 | 0 | sem-categoria |
-| 144 | saúde do idoso | 2400 | 0 | sem-categoria |
-| 145 | muita dor nas costas | 2400 | 0 | ossos-articulacoes |
-| 146 | relaxamento para dormir | 2400 | 0 | sem-categoria |
-| 147 | sintomas coluna cervical inflamada | 2400 | 0 | sem-categoria |
-| 148 | idade cronologica | 2200 | 5 | sem-categoria |
-| 149 | toque retal | 2090 | 2 | sem-categoria |
-| 150 | insonia que fazer | 2040 | 1 | sono-mente |
-| 151 | pilates idosa | 1990 | 1 | exercicio |
-| 152 | relógio biológico | 1900 | 0 | sem-categoria |
-| 153 | tendinite no punho | 1900 | 0 | ossos-articulacoes |
-| 154 | linhas de expressão | 1900 | 0 | sem-categoria |
-| 155 | exame de vitamina d | 1900 | 0 | diabetes-exames |
-| 156 | dormir demais faz mal | 1900 | 0 | sem-categoria |
-| 157 | médico que cuida da coluna | 1900 | 0 | sem-categoria |
-| 158 | alimentos que aceleram o metabolismo | 1900 | 0 | emagrecimento |
-| 159 | sono leve | 1600 | 0 | sono-mente |
-| 160 | cronotipo | 1600 | 0 | sem-categoria |
-| 161 | riscos de quedas | 1600 | 0 | sem-categoria |
-| 162 | yoga para iniciantes | 1600 | 0 | exercicio |
-| 163 | terror noturno adulto | 1600 | 0 | sem-categoria |
-| 164 | dores musculares costas | 1600 | 0 | sem-categoria |
-| 165 | deficiência de magnésio | 1600 | 0 | ossos-articulacoes |
-| 166 | valores normais de glicemia | 1600 | 0 | diabetes-exames |
-| 167 | dor nas costas acima das nádegas | 1600 | 0 | ossos-articulacoes |
-| 168 | esquecimento o que pode ser | 1530 | 5 | cerebro-memoria |
-| 169 | gleason | 1410 | 1 | sem-categoria |
-| 170 | sono reparador | 1390 | 1 | sono-mente |
-| 171 | manchas solares | 1300 | 0 | sem-categoria |
-| 172 | estagio do sono | 1300 | 0 | sono-mente |
-| 173 | estagios do sono | 1300 | 0 | sono-mente |
-| 174 | check up completo | 1300 | 0 | diabetes-exames |
-| 175 | ordem do skincare | 1300 | 0 | sem-categoria |
-| 176 | como dormir melhor | 1300 | 0 | sem-categoria |
-| 177 | dormir tarde faz mal | 1300 | 0 | sem-categoria |
-| 178 | insónias e ansiedade | 1300 | 0 | sono-mente |
-| 179 | alongamento para quadril | 1300 | 0 | ossos-articulacoes |
-| 180 | queda de cabelo pos parto | 1300 | 0 | pele-cabelo |
-| 181 | exercícios para idosos em casa | 1300 | 0 | sem-categoria |
-| 182 | diabetes tipo 1 e tipo 2 diferença | 1300 | 0 | diabetes-exames |
-| 183 | musculacao idoso | 1240 | 2 | exercicio |
-| 184 | envelhecimento saudável | 1220 | 3 | longevidade |
-| 185 | exames para mulheres | 1200 | 1 | sem-categoria |
-| 186 | alongamento idoso | 1140 | 1 | exercicio |
-| 187 | musculacao terceira idade | 1140 | 5 | exercicio |
-| 188 | ansiedade de desempenho | 1050 | 2 | sono-mente |
-| 189 | muita sede | 1000 | 0 | sem-categoria |
-| 190 | fome excessiva | 1000 | 0 | sem-categoria |
-| 191 | dedos inchados | 1000 | 0 | ossos-articulacoes |
-| 192 | acordar cansado | 1000 | 0 | sem-categoria |
-| 193 | inércia do sono | 1000 | 0 | sono-mente |
-| 194 | vasinhos no rosto | 1000 | 0 | sem-categoria |
-| 195 | fotoenvelhecimento | 1000 | 0 | sem-categoria |
-| 196 | ejaculaçãoretardada | 1000 | 0 | sem-categoria |
-| 197 | especialista em cabelo | 1000 | 0 | sem-categoria |
-| 198 | envelhecimentosaudavel | 1000 | 0 | sem-categoria |
-| 199 | exercícios de kegel homem | 1000 | 0 | sem-categoria |
-| 200 | falar dormindo | 880 | 0 | sem-categoria |
+| # | Frase-mãe | Volume do grupo | Variações | Categoria | Atenção |
+|---|---|---|---|---|---|
+| 1 | sexo | 1001960 | 8 | relacionamento-sexualidade | amplo |
+| 2 | melatonina | 555280 | 5 | sem-categoria | sensível:remedioMarca |
+| 3 | creatina | 1471710 | 59 | sem-categoria | comp. alta |
+| 4 | colesterol | 438050 | 101 | coracao-pressao |  |
+| 5 | magnésio | 1447760 | 125 | sem-categoria | comp. alta |
+| 6 | pele | 331430 | 85 | pele-cabelo | amplo |
+| 7 | aposentadoria | 246120 | 2 | relacionamento-sexualidade | amplo |
+| 8 | hipoglicemia | 202600 | 1 | diabetes-exames | sensível:urgenciaGrave |
+| 9 | triglicerídeos | 188410 | 4 | coracao-pressao |  |
+| 10 | colágeno | 624580 | 328 | sem-categoria | comp. alta |
+| 11 | emagrecer | 175760 | 55 | emagrecimento |  |
+| 12 | menopausa | 168990 | 41 | mulher-menopausa |  |
+| 13 | próstata | 145680 | 22 | homem-prostata |  |
+| 14 | alopecia | 136370 | 3 | sem-categoria |  |
+| 15 | colesterol das hdl | 132000 | 5 | coracao-pressao |  |
+| 16 | música para dormir | 110000 | 0 | sem-categoria | amplo |
+| 17 | dieta emagrecer | 102420 | 13 | emagrecimento |  |
+| 18 | casamento | 90730 | 4 | relacionamento-sexualidade | amplo |
+| 19 | tansulosina | 90500 | 0 | sem-categoria | sensível:remedioMarca |
+| 20 | proteção solar | 251790 | 2 | sem-categoria | comp. alta |
+| 21 | paralisia do sono | 74780 | 4 | sono-mente |  |
+| 22 | bursite | 74000 | 0 | ossos-articulacoes |  |
+| 23 | bruxismo | 74000 | 0 | sem-categoria |  |
+| 24 | fosfatase alcalina | 74000 | 0 | ossos-articulacoes |  |
+| 25 | dermatite de contato | 74000 | 0 | sem-categoria |  |
+| 26 | psa | 73970 | 11 | sem-categoria |  |
+| 27 | protetor solar | 246560 | 5 | pele-cabelo | comp. alta |
+| 28 | melasma | 60550 | 1 | sem-categoria |  |
+| 29 | gota | 50000 | 2 | ossos-articulacoes |  |
+| 30 | estrias | 49550 | 1 | sem-categoria |  |
+| 31 | amizades | 49500 | 0 | relacionamento-sexualidade | amplo |
+| 32 | triglicérides alto | 49500 | 0 | sem-categoria |  |
+| 33 | ácido hialurônico | 158830 | 51 | sem-categoria | comp. alta |
+| 34 | perimenopausa | 40710 | 1 | mulher-menopausa |  |
+| 35 | niacinamida | 135000 | 0 | sem-categoria | comp. alta |
+| 36 | autonomia | 40500 | 0 | longevidade | amplo |
+| 37 | tricologista | 40500 | 0 | sem-categoria | amplo |
+| 38 | exercícios para ombro | 40500 | 0 | ossos-articulacoes |  |
+| 39 | sarcopenia o que é | 40030 | 4 | ossos-articulacoes |  |
+| 40 | câimbras | 34200 | 4 | ossos-articulacoes |  |
+| 41 | cochilo | 33760 | 3 | sem-categoria |  |
+| 42 | saúde da mulher | 33100 | 0 | sem-categoria | amplo |
+| 43 | retinol | 110000 | 0 | sem-categoria | comp. alta |
+| 44 | dutasterida | 110000 | 0 | sem-categoria | sensível:remedioMarca, comp. alta |
+| 45 | ruído branco | 110000 | 0 | sem-categoria | comp. alta |
+| 46 | ácido salicílico | 110000 | 0 | sem-categoria | comp. alta |
+| 47 | meditação para dormir | 31890 | 31 | sono-mente |  |
+| 48 | prostatite | 31590 | 3 | sem-categoria |  |
+| 49 | couro cabeludo | 29430 | 7 | sem-categoria |  |
+| 50 | cabelo grisalho | 28700 | 2 | sem-categoria |  |
+| 51 | relacionamento | 27410 | 4 | relacionamento-sexualidade | amplo |
+| 52 | finasterida | 90500 | 0 | sem-categoria | sensível:remedioMarca, comp. alta |
+| 53 | vitamina d3 | 90500 | 0 | diabetes-exames | comp. alta |
+| 54 | ácido glicólico | 90500 | 0 | sem-categoria | comp. alta |
+| 55 | cronograma capilar | 90500 | 0 | sem-categoria | comp. alta |
+| 56 | calvície | 25440 | 9 | homem-prostata |  |
+| 57 | glicemia de jejum | 23800 | 7 | diabetes-exames |  |
+| 58 | caspa | 23520 | 2 | sem-categoria |  |
+| 59 | hiperglicemia | 22790 | 1 | diabetes-exames |  |
+| 60 | cabelo caindo muito | 22700 | 5 | sem-categoria |  |
+| 61 | ossos | 22510 | 14 | ossos-articulacoes |  |
+| 62 | shampoo anticaspa | 74000 | 0 | sem-categoria | comp. alta |
+| 63 | microalbuminúria | 22200 | 0 | sem-categoria |  |
+| 64 | como dormir rápido | 22200 | 0 | sem-categoria |  |
+| 65 | tendinite no ombro | 22200 | 0 | ossos-articulacoes |  |
+| 66 | ligamento do joelho | 22200 | 0 | ossos-articulacoes |  |
+| 67 | dor nas costas no meio | 22200 | 0 | ossos-articulacoes |  |
+| 68 | sono rem | 20740 | 3 | sono-mente |  |
+| 69 | climatério o que é | 20430 | 7 | mulher-menopausa |  |
+| 70 | remédio para dormir | 64390 | 2 | sem-categoria | sensível:remedioMarca, comp. alta |
+| 71 | articulações | 18920 | 4 | ossos-articulacoes |  |
+| 72 | vitamina k2 | 60500 | 0 | sem-categoria | comp. alta |
+| 73 | carbonato de cálcio | 60500 | 0 | sem-categoria | comp. alta |
+| 74 | chás para emagrecer | 60500 | 0 | emagrecimento | comp. alta |
+| 75 | inibidores de apetite | 60500 | 0 | sem-categoria | comp. alta |
+| 76 | vitaminas para cabelo | 60500 | 0 | sem-categoria | comp. alta |
+| 77 | recomeçar | 18120 | 2 | relacionamento-sexualidade |  |
+| 78 | curva glicêmica | 18100 | 0 | sem-categoria |  |
+| 79 | falta de vitamina d | 18100 | 0 | ossos-articulacoes |  |
+| 80 | saw palmetto | 49500 | 0 | sem-categoria | comp. alta |
+| 81 | rosácea | 14800 | 0 | sem-categoria |  |
+| 82 | hiperplasia prostática | 14800 | 0 | sem-categoria |  |
+| 83 | dor de cabeça ao acordar | 14800 | 0 | sem-categoria |  |
+| 84 | artrite reumatoide sintomas | 14800 | 0 | ossos-articulacoes |  |
+| 85 | dores nas costas o que pode ser | 14800 | 0 | sem-categoria |  |
+| 86 | cartilagem | 14370 | 2 | ossos-articulacoes |  |
+| 87 | higiene do sono | 14280 | 2 | sono-mente |  |
+| 88 | cabelo branco | 13300 | 2 | sem-categoria |  |
+| 89 | ciática | 12110 | 1 | ossos-articulacoes |  |
+| 90 | homa ir | 12100 | 0 | sem-categoria |  |
+| 91 | urina escura | 12100 | 0 | sem-categoria |  |
+| 92 | sonambulismo | 12100 | 0 | sem-categoria |  |
+| 93 | urofluxometria | 12100 | 0 | sem-categoria |  |
+| 94 | vinagre de maçã no cabelo | 12100 | 0 | sem-categoria | sensível:suplemento |
+| 95 | gordura abdominal | 11120 | 10 | emagrecimento |  |
+| 96 | rugas | 10820 | 8 | pele-cabelo |  |
+| 97 | pesadelos | 10040 | 1 | sem-categoria |  |
+| 98 | vitamina para queda de cabelo | 33210 | 1 | pele-cabelo | comp. alta |
+| 99 | insulina alta | 9900 | 0 | sem-categoria |  |
+| 100 | glicemia capilar | 9900 | 0 | diabetes-exames |  |
+| 101 | babosa no cabelo | 9900 | 0 | sem-categoria |  |
+| 102 | suco detox emagrece | 9900 | 0 | sem-categoria |  |
+| 103 | meditacaoparadormir | 9900 | 0 | sono-mente |  |
+| 104 | meditação ao dormir | 9900 | 0 | sono-mente |  |
+| 105 | meditaçãopara dormir | 9900 | 0 | sono-mente |  |
+| 106 | alimentos ricos em cálcio | 9900 | 0 | alimentacao |  |
+| 107 | cabelo caindo | 9770 | 4 | sem-categoria |  |
+| 108 | alimentos ricos em vitamina d | 9400 | 1 | diabetes-exames |  |
+| 109 | condroitina | 29610 | 2 | sem-categoria | comp. alta |
+| 110 | fases sono | 8800 | 1 | sono-mente |  |
+| 111 | hpb | 8310 | 1 | sem-categoria |  |
+| 112 | glicemia alta | 8140 | 2 | diabetes-exames |  |
+| 113 | luz azul | 8120 | 1 | sem-categoria |  |
+| 114 | pth | 8100 | 0 | ossos-articulacoes |  |
+| 115 | anti ccp | 8100 | 0 | ossos-articulacoes |  |
+| 116 | ciclo do sono | 8100 | 0 | sono-mente |  |
+| 117 | meditacoes iasd | 8100 | 0 | sem-categoria |  |
+| 118 | dieta para perder barriga | 8100 | 0 | emagrecimento |  |
+| 119 | dor nas costas ao respirar | 8100 | 0 | ossos-articulacoes |  |
+| 120 | queda de cabelo o que pode ser | 8100 | 0 | pele-cabelo |  |
+| 121 | para queda de cabelo | 25960 | 55 | pele-cabelo | comp. alta |
+| 122 | causa insonia | 7590 | 2 | sono-mente |  |
+| 123 | emagrecedor | 24380 | 8 | sem-categoria | comp. alta |
+| 124 | triglicerides | 6980 | 2 | sem-categoria |  |
+| 125 | motilex ha | 22900 | 2 | sem-categoria | comp. alta |
+| 126 | pilates e idosos | 6850 | 10 | exercicio |  |
+| 127 | glicosímetro | 22200 | 0 | sem-categoria | comp. alta |
+| 128 | queda de cabelos | 22200 | 0 | pele-cabelo | comp. alta |
+| 129 | biotina e cabelo | 22200 | 0 | sem-categoria | comp. alta |
+| 130 | óleo de coco no cabelo | 22200 | 0 | sem-categoria | comp. alta |
+| 131 | totg | 6600 | 0 | sem-categoria |  |
+| 132 | região lombar | 6600 | 0 | sem-categoria |  |
+| 133 | glicemia pós prandial | 6600 | 0 | diabetes-exames |  |
+| 134 | alongamento para coluna | 6600 | 0 | ossos-articulacoes |  |
+| 135 | vontade de urinar toda hora | 6600 | 0 | sem-categoria |  |
+| 136 | insonia o que é | 6010 | 14 | sono-mente |  |
+| 137 | fogacho | 6000 | 3 | sem-categoria |  |
+| 138 | vitaminas para mulheres | 19190 | 2 | sem-categoria | comp. alta |
+| 139 | dor muscular nas costas | 5700 | 1 | sem-categoria |  |
+| 140 | freestyle libre | 18100 | 0 | sem-categoria | comp. alta |
+| 141 | hiperpigmentação | 5400 | 0 | sem-categoria |  |
+| 142 | dor nas costas embaixo | 5400 | 0 | ossos-articulacoes |  |
+| 143 | deficiência de vitamina d | 5400 | 0 | diabetes-exames |  |
+| 144 | esquecimentos | 5070 | 4 | cerebro-memoria |  |
+| 145 | seca barriga | 16470 | 3 | sem-categoria | comp. alta |
+| 146 | creapure | 15740 | 8 | sem-categoria | comp. alta |
+| 147 | reconstrução capilar | 14800 | 0 | sem-categoria | comp. alta |
+| 148 | shampoo para queda de cabelo | 14800 | 0 | pele-cabelo | comp. alta |
+| 149 | peptideo c | 4400 | 0 | sem-categoria |  |
+| 150 | cabelo ralo | 4400 | 0 | sem-categoria |  |
+| 151 | pontas duplas | 4400 | 0 | sem-categoria |  |
+| 152 | cabelo oleoso | 4400 | 0 | sem-categoria |  |
+| 153 | sons para dormir | 4400 | 0 | sem-categoria |  |
+| 154 | síndrome metabólica | 4400 | 0 | sem-categoria |  |
+| 155 | excesso de vitamina d | 4400 | 0 | diabetes-exames |  |
+| 156 | exercícios para joelho | 4400 | 0 | ossos-articulacoes |  |
+| 157 | relação albumina creatinina | 4400 | 0 | diabetes-exames |  |
+| 158 | verisol | 14530 | 10 | sem-categoria | comp. alta |
+| 159 | ejaculação retardada | 4210 | 21 | sem-categoria |  |
+| 160 | benefícios da hidroginástica | 4100 | 9 | exercicio |  |
+| 161 | causas de queda de cabelo | 4080 | 1 | pele-cabelo |  |
+| 162 | gravidez e insonia | 4060 | 2 | sono-mente |  |
+| 163 | quedas idosos | 4040 | 4 | sem-categoria |  |
+| 164 | treonato | 13390 | 2 | sem-categoria | comp. alta |
+| 165 | açúcar no sangue | 3950 | 4 | sem-categoria |  |
+| 166 | insonia e ansiedade | 3900 | 2 | sono-mente |  |
+| 167 | antiqueda | 12830 | 21 | sem-categoria | comp. alta |
+| 168 | insonia fatal | 3800 | 1 | sono-mente |  |
+| 169 | como pegar sono rapido | 3800 | 1 | sono-mente |  |
+| 170 | privação de sono | 3770 | 1 | sono-mente |  |
+| 171 | perder barriga | 12220 | 9 | emagrecimento | comp. alta |
+| 172 | glucosamina | 12110 | 1 | sem-categoria | comp. alta |
+| 173 | licopeno | 12100 | 0 | sem-categoria | comp. alta |
+| 174 | poros dilatados | 12100 | 0 | sem-categoria | comp. alta |
+| 175 | shampoo sem sulfato | 12100 | 0 | sem-categoria | comp. alta |
+| 176 | emagrecimento rapido | 12100 | 0 | sem-categoria | comp. alta |
+| 177 | vitamina c para rosto | 12100 | 0 | sem-categoria | comp. alta |
+| 178 | dor articular | 3600 | 0 | ossos-articulacoes |  |
+| 179 | coluna travada | 3600 | 0 | sem-categoria |  |
+| 180 | saúde do homem | 3600 | 0 | sem-categoria |  |
+| 181 | ruminação mental | 3600 | 0 | sem-categoria |  |
+| 182 | exame de glicemia | 3600 | 0 | diabetes-exames |  |
+| 183 | retenção urinária | 3600 | 0 | sem-categoria |  |
+| 184 | insonia quais as causas | 3600 | 0 | sono-mente |  |
+| 185 | tratamento de queda de cabelo | 11200 | 18 | pele-cabelo | comp. alta |
+| 186 | insonia que fazer | 3340 | 2 | sono-mente |  |
+| 187 | creafort | 11000 | 1 | sem-categoria | comp. alta |
+| 188 | máscara capilar | 9900 | 0 | sem-categoria | comp. alta |
+| 189 | chá para dormir | 9900 | 0 | sem-categoria | comp. alta |
+| 190 | desodalina emagrece | 9900 | 0 | sem-categoria | comp. alta |
+| 191 | termogenico emagrece | 9900 | 0 | sem-categoria | comp. alta |
+| 192 | óleo de rícino no cabelo | 9900 | 0 | sem-categoria | comp. alta |
+| 193 | ceramidas | 2900 | 0 | sem-categoria |  |
+| 194 | ferro baixo | 2900 | 0 | sem-categoria |  |
+| 195 | hidrolisado | 2900 | 0 | sem-categoria |  |
+| 196 | urinar muito | 2900 | 0 | sem-categoria |  |
+| 197 | exercícios para quadril | 2900 | 0 | ossos-articulacoes |  |
+| 198 | como fortalecer o joelho | 2900 | 0 | ossos-articulacoes |  |
+| 199 | alimentos ricos em vitaminas | 2900 | 0 | sem-categoria |  |
+| 200 | quantos fios de cabelo caem por dia | 2900 | 0 | sem-categoria |  |

@@ -1,5 +1,5 @@
 {
-  "descricao": "Palavras negativas do blog. Frases que contêm qualquer uma ficam no banco com status 'filtrada' (não se desperdiça nada), mas nunca viram pauta. Cole 'node scripts/filtros.js' no 'Excluir palavras-chave' do Planejador. Vitamina/zinco/magnésio NÃO entram: alimentos ricos nesses nutrientes podem ser pauta.",
+  "descricao": "Grupos de palavras do blog. 'excluir' = sem intenção de informação (compra, fora do assunto): ficam no banco como 'filtrada' e nunca viram pauta. 'sensivel' = temas de saúde válidos (remédio, suplemento, urgência) que PODEM virar pauta depois do Google e das fontes, sempre com notas de cuidado (sem dose, sem indicar marca, sem prometer cura, orientar médico; urgência: dizer quando procurar pronto-socorro). Decisão do usuário em 04/10/2026: sem preconceito de conteúdo.",
   "grupos": {
     "remedioMarca": [
       "remédio",
@@ -8,13 +8,6 @@
       "remedios",
       "medicamento",
       "medicamentos",
-      "comprar",
-      "preço",
-      "preco",
-      "valor",
-      "barato",
-      "farmácia",
-      "farmacia",
       "comprimido",
       "comprimidos",
       "viagra",
@@ -39,8 +32,6 @@
       "cirurgia",
       "clínica",
       "clinica",
-      "perto de mim",
-      "online",
       "melatonina",
       "tansulosina",
       "tamsulosina",
@@ -99,20 +90,36 @@
       "gratis",
       "gay",
       "travesti"
+    ],
+    "intencaoCompra": [
+      "comprar",
+      "preço",
+      "preco",
+      "valor",
+      "barato",
+      "farmácia",
+      "farmacia",
+      "perto de mim",
+      "online"
     ]
   },
   "regras": [
-    "Competição ALTA = fora (intenção comercial).",
     "Grafias com e sem acento contam como a mesma busca: não somar.",
     "Linguagem vulgar (ex.: 'pau duro'): a demanda vai para o artigo principal, nunca em título.",
     "Faixa do Planejador ('100 – 1 mil') vale pelo piso.",
-    "Cabeça ambígua (ex.: 'sexo', 'casamento', 'aposentadoria'): não vira pauta; só variações de saúde bem específicas."
+    "Competição ALTA não exclui sozinha: a pauta passa pela checagem do Google, que descarta quando há 4+ lojas no top 10.",
+    "Tema sensível exige 'notas' de segurança antes de entrar na fila e marca 'revisar: true'."
   ],
   "historico": [
     {
       "data": "2026-10-04",
       "tema": "disfunção erétil",
       "decisao": "Grupo 'como melhorar/manter a ereção' (~60 frases, maioria 10–100, ~20 com competição alta) vira seção do artigo 'ereção fraca', não artigo próprio. Priapismo (10–100 mil) fora: emergência. Candidata nova: 'exercícios de kegel para homens' (1–10 mil, média). Torre: pilar ereção matinal; satélites ereção fraca (+ 'ereções fracas o que fazer' 1.900), ansiedade de desempenho, ejaculação retardada (~4.040 somado), falta de desejo masculino."
+    },
+    {
+      "data": "2026-10-04",
+      "tema": "política de conteúdo",
+      "decisao": "Usuário: adicionar todos os temas válidos sem preconceito de conteúdo. Remédio, suplemento, urgência e termos amplos deixam de ser excluídos e viram 'sensível'/'amplo'. Seguem fora: intenção de compra e fora do assunto."
     }
   ],
   "cabecasAmbiguas": [
@@ -128,5 +135,16 @@
     "saude da mulher",
     "tricologista"
   ],
-  "cabecasAmbiguasNota": "Frases-mãe amplas demais ou fora de saúde: não viram pauta sozinhas (as variações específicas podem). Usado por scripts/ordem-validacao.js."
+  "cabecasAmbiguasNota": "Frases-mãe amplas ('sexo', 'casamento', 'aposentadoria'...). Não são excluídas: entram marcadas como 'amplo' e o Google decide se a busca é de saúde. Usado por scripts/ordem-validacao.js.",
+  "tratamento": {
+    "excluir": [
+      "intencaoCompra",
+      "foraDoAssunto"
+    ],
+    "sensivel": [
+      "remedioMarca",
+      "suplemento",
+      "urgenciaGrave"
+    ]
+  }
 }
