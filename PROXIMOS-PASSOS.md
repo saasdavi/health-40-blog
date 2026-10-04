@@ -4,6 +4,32 @@
 
 **Atualizado:** 2026-10-04
 
+## Painel de produção e estoque (conferido em 2026-10-04 06:33 UTC)
+
+| Produção | Quantidade |
+|---|---|
+| Artigos publicados e aprovados | **7** (todos em 03/10) |
+| Rascunhos | 0 |
+| Publicados em 04/10 até 06:33 UTC | 0 (agenda 06:00/14:00/18:00 UTC; conferir a aba Actions do repositório) |
+
+Publicados: como baixar colesterol, quanto de proteína por dia, como meditar, triglicerídeos altos sintomas, o que é gordura visceral, o que é perimenopausa, o que é resistência à insulina.
+
+| Pautas | Quantidade | Dias (3/dia) |
+|---|---|---|
+| Fila total (`keywords-validated.json`) | 89 | |
+| **Validadas e livres (prontas para o robô)** | **64** | **≈ 21** |
+| Já usadas ou fora da regra de "livre" (7 publicadas + 18 a conferir) | 25 | |
+| Candidatas com volume aguardando o Google | 97 | até ≈ 32 se todas passarem |
+| Palavras medidas no banco | 3.474 (888 grupos) | não são pautas |
+
+| Meta de 12 meses | |
+|---|---|
+| Meta | 1.095 pautas |
+| Livres hoje | 64 (6%) |
+| Faltam | ≈ 1.031 |
+
+Livres por categoria: nutrição 6, exames 6, pele e cabelo 5, menopausa 4, colesterol 3, hormônios 3, emagrecimento 3, digestão 3, músculo e força 3; 1 ou 2 em cada uma das outras categorias. Nenhuma categoria vazia, nenhuma forte.
+
 ## Objetivo
 Blog de saúde, 3 artigos/dia por 365 dias (1.095 pautas), cada pauta validada com demanda real. O repositório é o banco de dados: nada de pesquisa fica só no chat.
 
