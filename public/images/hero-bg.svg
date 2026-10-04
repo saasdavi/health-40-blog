@@ -78,24 +78,6 @@
         <!-- Accent line under title -->
         <line x1="700" y1="340" x2="1220" y2="340" stroke="rgba(255,107,53,0.9)" stroke-width="4" stroke-linecap="round"/>
 
-        <!-- Feature badges -->
-        <g>
-            <!-- Badge 1 -->
-            <rect x="420" y="395" width="280" height="70" rx="12" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.25)" stroke-width="2" filter="url(#shadow)"/>
-            <text x="435" y="425" font-family="'Segoe UI', sans-serif" font-size="18" fill="rgba(255,255,255,0.9)">✓ 100% Original</text>
-            <text x="435" y="450" font-family="'Segoe UI', sans-serif" font-size="14" fill="rgba(255,255,255,0.7)">Conteúdo Único</text>
-
-            <!-- Badge 2 -->
-            <rect x="820" y="395" width="280" height="70" rx="12" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.25)" stroke-width="2" filter="url(#shadow)"/>
-            <text x="835" y="425" font-family="'Segoe UI', sans-serif" font-size="18" fill="rgba(255,255,255,0.9)">✓ Pesquisado</text>
-            <text x="835" y="450" font-family="'Segoe UI', sans-serif" font-size="14" fill="rgba(255,255,255,0.7)">Baseado em Ciência</text>
-
-            <!-- Badge 3 -->
-            <rect x="1220" y="395" width="280" height="70" rx="12" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.25)" stroke-width="2" filter="url(#shadow)"/>
-            <text x="1235" y="425" font-family="'Segoe UI', sans-serif" font-size="18" fill="rgba(255,255,255,0.9)">✓ Atualizado</text>
-            <text x="1235" y="450" font-family="'Segoe UI', sans-serif" font-size="14" fill="rgba(255,255,255,0.7)">Diariamente</text>
-        </g>
-
         <!-- CTA Section -->
         <g filter="url(#shadow)">
             <!-- Button background -->
