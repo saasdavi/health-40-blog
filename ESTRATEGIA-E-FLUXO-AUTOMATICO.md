@@ -197,7 +197,7 @@ Modelo: cada subcategoria é uma **torre**. A **pauta-pilar** é o termo amplo d
 | Pautas validadas e livres (fila do robô) | **64** (≈ 21 dias) |
 | Artigos já publicados | 7 |
 | Candidatas com volume, aguardando o Google | 97 |
-| Palavras no banco com volume medido | 2314 (fila 35, candidata 82, absorvida 11, filtrada 100, banco 2086) |
+| Palavras no banco com volume medido | 2337 (fila 37, candidata 82, absorvida 12, filtrada 51, banco 2155; 81 marcadas como sensíveis) |
 | Pautas livres com `revisar: true` (revisão humana pendente) | 4 |
 | Faltam para a meta de 12 meses | 1031 |
 
