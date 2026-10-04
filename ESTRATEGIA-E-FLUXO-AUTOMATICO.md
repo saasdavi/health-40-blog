@@ -194,16 +194,16 @@ Modelo: cada subcategoria é uma **torre**. A **pauta-pilar** é o termo amplo d
 
 | Indicador | Valor |
 |---|---|
-| Pautas validadas e livres (fila do robô) | **89** (≈ 29 dias) |
-| Artigos já publicados | 1 |
+| Pautas validadas e livres (fila do robô) | **64** (≈ 21 dias) |
+| Artigos já publicados | 7 |
 | Candidatas com volume, aguardando o Google | 97 |
 | Palavras no banco com volume medido | 2314 (fila 35, candidata 82, absorvida 11, filtrada 100, banco 2086) |
-| Pautas com `revisar: true` (revisão humana pendente) | 4 |
-| Faltam para a meta de 12 meses | 1006 |
+| Pautas livres com `revisar: true` (revisão humana pendente) | 4 |
+| Faltam para a meta de 12 meses | 1031 |
 
-**Atenção sobre estimativas:** as candidatas só viram dias de artigo depois de passar na checagem do Google (≤ 2 autoridades no top 5, fontes guardadas). "Quase 50 dias" foi uma projeção supondo que metade passe; o dado real é a linha "Pautas validadas e livres".
+**Atenção sobre estimativas:** as candidatas só viram dias de artigo depois de passar na checagem do Google (≤ 2 autoridades no top 5, fontes guardadas). "Quase 50 dias" foi uma projeção supondo que metade passe; o dado real é a linha "Pautas validadas e livres". A regra de "livre" é a de `scripts/prateleira.js`: SERP fácil, ≥ 2 fontes, não substituída e ainda não publicada.
 
-**Pautas livres por cluster:** colesterol 12, menopausa 10, musculo-e-forca 6, emagrecimento 6, nutricao 6, exames 6, pele-cabelo 5, sono 4, hormonios 3, digestao 3, saude-mental 2, diabetes 2, circulacao 2, visao 2, prostata 2, coluna 2, memoria 2, sintomas 2, alimentacao 2, pressao 1, figado-metabolismo 1, tireoide 1, digestivo 1, olhos 1, ouvido-equilibrio 1, urinario 1, coracao 1, exercicio 1, longevidade 1.
+**Pautas livres por cluster:** nutricao 6, exames 6, pele-cabelo 5, menopausa 4, musculo-e-forca 3, colesterol 3, hormonios 3, emagrecimento 3, digestao 3, diabetes 2, circulacao 2, visao 2, prostata 2, coluna 2, memoria 2, sono 2, sintomas 2, alimentacao 2, figado-metabolismo 1, tireoide 1, digestivo 1, saude-mental 1, olhos 1, ouvido-equilibrio 1, urinario 1, coracao 1, exercicio 1, longevidade 1.
 
 **Validadas no Google (HYPD) em 04/10/2026:** alimentos ricos em fibras, alimentos ricos em ferro, ritmo circadiano, ereção matinal.
 
