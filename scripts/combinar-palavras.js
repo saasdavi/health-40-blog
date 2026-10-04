@@ -27,7 +27,6 @@ function gerar() {
   const ing = JSON.parse(fs.readFileSync(path.join(DIR, 'ingredientes.json'), 'utf8'));
   const max = flag('--max', 1000);
   const soCat = process.argv.includes('--categoria') ? process.argv[process.argv.indexOf('--categoria') + 1] : null;
-  const principais = ing.publicosPrincipais || ing.publicos;
   const frases = new Map();
   const add = (frase, categoria, tema) => {
     const k = norm(frase);
@@ -36,13 +35,11 @@ function gerar() {
   };
   for (const [categoria, temas] of Object.entries(ing.categorias)) {
     if (soCat && categoria !== soCat) continue;
+    const modelos = ing.intencoesPorCategoria?.[categoria] || [];
     for (const tema of temas) {
       add(tema, categoria, tema);
       for (const p of ing.publicos) add(`${tema} ${p}`, categoria, tema);
-      for (const i of ing.intencoes) {
-        add(`${i} ${tema}`, categoria, tema);
-        for (const p of principais) add(`${i} ${tema} ${p}`, categoria, tema);
-      }
+      for (const m of modelos) add(m.replace('{t}', tema), categoria, tema);
     }
   }
   const lista = [...frases.values()];

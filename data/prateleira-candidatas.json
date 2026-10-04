@@ -1,252 +1,292 @@
 {
-  "atualizado": "2026-10-03",
-  "regra": "candidata vira 'ouro' (keywords-validated.json) só com SERP fácil + ≥2 fontes legíveis",
-  "fonteVolume": "HYPD/Keyword Planner BR",
-  "candidatas": [
-    {
-      "keyword": "colesterol não hdl",
-      "volume": 27100,
-      "cluster": "colesterol",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "colesterol ruim qual é",
-      "volume": 22200,
-      "cluster": "colesterol",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "vldl colesterol",
-      "volume": 12100,
-      "cluster": "colesterol",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "colesterol bom e ruim",
-      "volume": 6600,
-      "cluster": "colesterol",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "colesterol qual o normal",
-      "volume": 4400,
-      "cluster": "colesterol",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "dieta para colesterol alto",
-      "volume": 3600,
-      "cluster": "colesterol",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "colesterol total acima de 200",
-      "volume": 3600,
-      "cluster": "colesterol",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "colesterol alto o que pode causar",
-      "volume": 3600,
-      "cluster": "colesterol",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "colesterol alto tontura",
-      "volume": 2400,
-      "cluster": "colesterol",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "colesterol alto dor de cabeça",
-      "volume": 1600,
-      "cluster": "colesterol",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "sintomas pré menopausa",
-      "volume": 3600,
-      "cluster": "menopausa",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "calores da menopausa",
-      "volume": 2900,
-      "cluster": "menopausa",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "progesterona na menopausa",
-      "volume": 1300,
-      "cluster": "menopausa",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "sintomas do climatério",
-      "volume": 4400,
-      "cluster": "menopausa",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "sarcopenia em idosos",
-      "volume": 2400,
-      "cluster": "musculo",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "exames de rotina",
-      "volume": 6600,
-      "cluster": "exames",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "magnésio para que serve",
-      "volume": 40500,
-      "cluster": "nutricao",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "ômega 3 para que serve",
-      "volume": 60500,
-      "cluster": "nutricao",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "creatina para idosos",
-      "volume": 3600,
-      "cluster": "musculo",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "alimentos ricos em fibras",
-      "volume": 49500,
-      "cluster": "alimentacao",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "alimentos ricos em ferro",
-      "volume": 40500,
-      "cluster": "alimentacao",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "ácido fólico para que serve",
-      "volume": 33100,
-      "cluster": "nutricao",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "alongamento",
-      "volume": 33100,
-      "cluster": "exercicio",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "exame de próstata",
-      "volume": 18100,
-      "cluster": "prostata",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "artrite reumatoide sintomas",
-      "volume": 14800,
-      "cluster": "articulacoes",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "gama gt alto",
-      "volume": 14800,
-      "cluster": "exames",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "ciática",
-      "volume": 12100,
-      "cluster": "coluna",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "tgo e tgp altos",
-      "volume": 8100,
-      "cluster": "exames",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "falta de energia",
-      "volume": 8100,
-      "cluster": "sintomas",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "alimentos ricos em proteína",
-      "volume": 18100,
-      "cluster": "alimentacao",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "alimentos ricos em magnésio",
-      "volume": 12100,
-      "cluster": "alimentacao",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "triglicerídeos o que é",
-      "volume": 18100,
-      "cluster": "exames",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "rugas",
-      "volume": 8100,
-      "cluster": "pele-cabelo",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "hipertensão arterial",
-      "volume": 40500,
-      "cluster": "coracao",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "hipertensão",
-      "volume": 40500,
-      "cluster": "coracao",
-      "status": "sem-serp"
-    },
-    {
-      "keyword": "pressão alta sintomas",
-      "volume": null,
-      "cluster": "coracao",
-      "status": "serp-ok-falta-volume",
-      "nota": "Google Ads devolve nulo para termos 'pressão alta ...'. Topo fraco (Ident, Picdoc, Vitat). Precisa de volume pela extensão (Load Metrics)"
-    }
+ "atualizado": "2026-10-04",
+ "regra": "candidata vira 'ouro' (keywords-validated.json) só com SERP fácil + ≥2 fontes legíveis",
+ "fonteVolume": "HYPD/Keyword Planner BR",
+ "candidatas": [
+  {
+   "keyword": "colesterol não hdl",
+   "volume": 27100,
+   "cluster": "colesterol",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "colesterol ruim qual é",
+   "volume": 22200,
+   "cluster": "colesterol",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "vldl colesterol",
+   "volume": 12100,
+   "cluster": "colesterol",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "colesterol bom e ruim",
+   "volume": 6600,
+   "cluster": "colesterol",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "colesterol qual o normal",
+   "volume": 4400,
+   "cluster": "colesterol",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "dieta para colesterol alto",
+   "volume": 3600,
+   "cluster": "colesterol",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "colesterol total acima de 200",
+   "volume": 3600,
+   "cluster": "colesterol",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "colesterol alto o que pode causar",
+   "volume": 3600,
+   "cluster": "colesterol",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "colesterol alto tontura",
+   "volume": 2400,
+   "cluster": "colesterol",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "colesterol alto dor de cabeça",
+   "volume": 1600,
+   "cluster": "colesterol",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "sintomas pré menopausa",
+   "volume": 3600,
+   "cluster": "menopausa",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "calores da menopausa",
+   "volume": 2900,
+   "cluster": "menopausa",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "progesterona na menopausa",
+   "volume": 1300,
+   "cluster": "menopausa",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "sintomas do climatério",
+   "volume": 4400,
+   "cluster": "menopausa",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "sarcopenia em idosos",
+   "volume": 2400,
+   "cluster": "musculo",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "exames de rotina",
+   "volume": 6600,
+   "cluster": "exames",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "magnésio para que serve",
+   "volume": 40500,
+   "cluster": "nutricao",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "ômega 3 para que serve",
+   "volume": 60500,
+   "cluster": "nutricao",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "creatina para idosos",
+   "volume": 3600,
+   "cluster": "musculo",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "alimentos ricos em fibras",
+   "volume": 49500,
+   "cluster": "alimentacao",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "alimentos ricos em ferro",
+   "volume": 40500,
+   "cluster": "alimentacao",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "ácido fólico para que serve",
+   "volume": 33100,
+   "cluster": "nutricao",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "alongamento",
+   "volume": 33100,
+   "cluster": "exercicio",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "exame de próstata",
+   "volume": 18100,
+   "cluster": "prostata",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "artrite reumatoide sintomas",
+   "volume": 14800,
+   "cluster": "articulacoes",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "gama gt alto",
+   "volume": 14800,
+   "cluster": "exames",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "ciática",
+   "volume": 12100,
+   "cluster": "coluna",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "tgo e tgp altos",
+   "volume": 8100,
+   "cluster": "exames",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "falta de energia",
+   "volume": 8100,
+   "cluster": "sintomas",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "alimentos ricos em proteína",
+   "volume": 18100,
+   "cluster": "alimentacao",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "alimentos ricos em magnésio",
+   "volume": 12100,
+   "cluster": "alimentacao",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "triglicerídeos o que é",
+   "volume": 18100,
+   "cluster": "exames",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "rugas",
+   "volume": 8100,
+   "cluster": "pele-cabelo",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "hipertensão arterial",
+   "volume": 40500,
+   "cluster": "coracao",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "hipertensão",
+   "volume": 40500,
+   "cluster": "coracao",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "pressão alta sintomas",
+   "volume": null,
+   "cluster": "coracao",
+   "status": "serp-ok-falta-volume",
+   "nota": "Google Ads devolve nulo para termos 'pressão alta ...'. Topo fraco (Ident, Picdoc, Vitat). Precisa de volume pela extensão (Load Metrics)"
+  },
+  {
+   "keyword": "dor nas costas",
+   "volume": 49500,
+   "cluster": "coluna",
+   "status": "sem-serp; avaliar canibalização com 'dores lombares' (já na fila)"
+  },
+  {
+   "keyword": "longevidade",
+   "volume": 18100,
+   "cluster": "longevidade",
+   "status": "sem-serp; absorve: envelhecimento saudável (1000), idade biológica (880)"
+  },
+  {
+   "keyword": "cabelos brancos",
+   "volume": 12100,
+   "cluster": "pele-cabelo",
+   "status": "sem-serp; absorve: cabelos brancos causas (320), para mulheres (390)"
+  },
+  {
+   "keyword": "ressecamento da pele",
+   "volume": 8100,
+   "cluster": "pele-cabelo",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "quedas em idosos",
+   "volume": 1000,
+   "cluster": "longevidade",
+   "status": "sem-serp; volume no limite"
+  }
+ ],
+ "semDemanda": "Frases longas do kit com volume < 200/mês no Google BR (não viram artigo próprio; entram como H2 de artigo-mãe): como perder barriga depois dos 40 (110), musculação depois dos 40 (30), treino de força para iniciantes (20), hipertrofia depois dos 40 (10), alimentos para reduzir gordura visceral (10), efeito platô emagrecimento (210)",
+ "foraDoEscopo": "Transacionais do kit (comprar creatina, assinar plano de treino, ebook, teste de longevidade): o robô não escreve sobre marcas/produtos | Rodada 5 (HYPD, 559 frases): sexo (1M), aposentadoria (246k), casamento (90,5k), amizades (49,5k), autonomia (40,5k), recomeçar (18,1k), relacionamento (27,1k) têm intenção ambígua, sem relação com saúde; protetor solar (246k) e colágeno na pele (5,4k) são produto/suplemento; combinações com 'depois dos 40/50' em relacionamento e sexualidade ficam em 10–110 buscas (sexo na menopausa 480, sexo dicas 720).",
+ "descartadasSerp": [
+  {
+   "keyword": "ácido úrico alto",
+   "volume": 12100,
+   "motivo": "Tua Saúde + Rede D'Or + Sírio-Libanês + hospitais dominam o topo"
+  },
+  {
+   "keyword": "vitamina b12",
+   "motivo": "SERP comercial (Drogasil, Sanavita, Nutrify) e termo de suplemento"
+  },
+  {
+   "keyword": "gordura abdominal",
+   "volume": 3600,
+   "motivo": "Einstein, BBC e Drogasil no topo e volume baixo"
+  },
+  {
+   "keyword": "glaucoma sintomas",
+   "volume": 22200,
+   "motivo": "Rede D'Or, Einstein, Tua Saúde e hospitais de olhos dominam; tema com crise de emergência"
+  },
+  {
+   "keyword": "pico de pressão",
+   "volume": 590,
+   "motivo": "Volume baixo (590), IA do Google mistura com ventilação mecânica, tema de urgência; absorvido como H2 de 'pressão 14 por 9'"
+  }
+ ],
+ "absorvePorVolume": {
+  "o que é sarcopenia": [
+   "sarcopenia tem cura (4400)"
   ],
-  "semDemanda": "Frases longas do kit com volume < 200/mês no Google BR (não viram artigo próprio; entram como H2 de artigo-mãe): como perder barriga depois dos 40 (110), musculação depois dos 40 (30), treino de força para iniciantes (20), hipertrofia depois dos 40 (10), alimentos para reduzir gordura visceral (10), efeito platô emagrecimento (210)",
-  "foraDoEscopo": "Transacionais do kit (comprar creatina, assinar plano de treino, ebook, teste de longevidade): o robô não escreve sobre marcas/produtos",
-  "descartadasSerp": [
-    {
-      "keyword": "ácido úrico alto",
-      "volume": 12100,
-      "motivo": "Tua Saúde + Rede D'Or + Sírio-Libanês + hospitais dominam o topo"
-    },
-    {
-      "keyword": "vitamina b12",
-      "motivo": "SERP comercial (Drogasil, Sanavita, Nutrify) e termo de suplemento"
-    },
-    {
-      "keyword": "gordura abdominal",
-      "volume": 3600,
-      "motivo": "Einstein, BBC e Drogasil no topo e volume baixo"
-    },
-    {
-      "keyword": "glaucoma sintomas",
-      "volume": 22200,
-      "motivo": "Rede D'Or, Einstein, Tua Saúde e hospitais de olhos dominam; tema com crise de emergência"
-    },
-    {
-      "keyword": "pico de pressão",
-      "volume": 590,
-      "motivo": "Volume baixo (590), IA do Google mistura com ventilação mecânica, tema de urgência; absorvido como H2 de 'pressão 14 por 9'"
-    }
+  "queda de cabelo causas": [
+   "queda de cabelo o que fazer (1900)",
+   "queda de cabelo é normal (880)",
+   "queda de cabelo na menopausa (720)"
   ]
+ }
 }

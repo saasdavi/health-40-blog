@@ -1,22 +1,343 @@
 {
-  "categorias": {
-    "alimentacao": ["alimentação saudável", "café da manhã saudável", "jantar saudável", "lanche saudável", "alimentos anti inflamatórios", "alimentos ricos em fibras", "alimentos ricos em proteína", "alimentos ricos em ferro", "alimentos ricos em cálcio", "água", "café", "ovo"],
-    "emagrecimento": ["emagrecer", "metabolismo", "perder barriga", "gordura abdominal", "jejum intermitente", "déficit calórico", "obesidade", "peso ideal"],
-    "exercicio": ["caminhada", "musculação", "alongamento", "hidroginástica", "pilates", "yoga", "corrida", "bicicleta", "natação", "treino em casa", "exercícios de equilíbrio", "sedentarismo"],
-    "mulher-menopausa": ["menopausa", "climatério", "fogachos", "reposição hormonal", "ressecamento vaginal", "incontinência urinária", "mamografia", "exame preventivo", "osteoporose", "endometriose", "mioma", "tpm"],
-    "homem-prostata": ["próstata", "testosterona", "andropausa", "disfunção erétil", "exame de próstata", "calvície", "barriga masculina"],
-    "coracao-pressao": ["pressão alta", "colesterol", "triglicerídeos", "coração", "arritmia", "palpitação", "varizes", "inchaço nas pernas", "circulação"],
-    "diabetes-exames": ["diabetes", "glicemia", "hemoglobina glicada", "resistência à insulina", "exame de sangue", "check up", "vitamina d", "vitamina b12", "ferritina", "tireoide", "creatinina", "ácido úrico"],
-    "sono-mente": ["sono", "insônia", "ansiedade", "estresse", "depressão", "burnout", "cansaço", "falta de energia", "solidão", "meditação"],
-    "cerebro-memoria": ["memória", "esquecimento", "névoa mental", "concentração", "alzheimer", "demência", "estimular o cérebro", "tontura"],
-    "ossos-articulacoes": ["dor nas costas", "dores lombares", "artrose", "artrite", "dor no joelho", "dor no ombro", "fascite plantar", "sarcopenia", "câimbras", "ciática"],
-    "pele-cabelo": ["queda de cabelo", "cabelos brancos", "pele", "rugas", "manchas na pele", "ressecamento da pele", "protetor solar", "colágeno na pele"],
-    "visao-audicao-boca": ["presbiopia", "catarata", "visão embaçada", "olho seco", "perda auditiva", "zumbido", "labirintite", "saúde bucal", "gengivite", "dentes"],
-    "digestao": ["azia", "refluxo", "gastrite", "prisão de ventre", "intestino irritável", "gordura no fígado", "barriga inchada", "probióticos"],
-    "relacionamento-sexualidade": ["relacionamento", "libido", "sexo", "casamento", "recomeçar", "amizades", "aposentadoria"],
-    "longevidade": ["envelhecimento saudável", "longevidade", "idade biológica", "prevenir doenças", "autonomia", "quedas em idosos"]
-  },
-  "publicos": ["para mulheres", "para homens", "para idosos", "depois dos 40", "depois dos 50", "na menopausa", "para iniciantes", "em casa"],
-  "publicosPrincipais": ["para mulheres", "para homens", "depois dos 40", "depois dos 50"],
-  "intencoes": ["como", "o que é", "benefícios", "para que serve", "o que comer", "mito ou verdade", "quanto tempo", "dicas", "causas", "sintomas"]
+ "categorias": {
+  "alimentacao": [
+   "alimentação saudável",
+   "café da manhã saudável",
+   "jantar saudável",
+   "lanche saudável",
+   "alimentos anti inflamatórios",
+   "alimentos ricos em fibras",
+   "alimentos ricos em proteína",
+   "alimentos ricos em ferro",
+   "alimentos ricos em cálcio",
+   "água",
+   "café",
+   "ovo"
+  ],
+  "emagrecimento": [
+   "emagrecer",
+   "metabolismo",
+   "perder barriga",
+   "gordura abdominal",
+   "jejum intermitente",
+   "déficit calórico",
+   "obesidade",
+   "peso ideal"
+  ],
+  "exercicio": [
+   "caminhada",
+   "musculação",
+   "alongamento",
+   "hidroginástica",
+   "pilates",
+   "yoga",
+   "corrida",
+   "bicicleta",
+   "natação",
+   "treino em casa",
+   "exercícios de equilíbrio",
+   "sedentarismo"
+  ],
+  "mulher-menopausa": [
+   "menopausa",
+   "climatério",
+   "fogachos",
+   "reposição hormonal",
+   "ressecamento vaginal",
+   "incontinência urinária",
+   "mamografia",
+   "exame preventivo",
+   "osteoporose",
+   "endometriose",
+   "mioma",
+   "tpm"
+  ],
+  "homem-prostata": [
+   "próstata",
+   "testosterona",
+   "andropausa",
+   "disfunção erétil",
+   "exame de próstata",
+   "calvície",
+   "barriga masculina"
+  ],
+  "coracao-pressao": [
+   "pressão alta",
+   "colesterol",
+   "triglicerídeos",
+   "coração",
+   "arritmia",
+   "palpitação",
+   "varizes",
+   "inchaço nas pernas",
+   "circulação"
+  ],
+  "diabetes-exames": [
+   "diabetes",
+   "glicemia",
+   "hemoglobina glicada",
+   "resistência à insulina",
+   "exame de sangue",
+   "check up",
+   "vitamina d",
+   "vitamina b12",
+   "ferritina",
+   "tireoide",
+   "creatinina",
+   "ácido úrico"
+  ],
+  "sono-mente": [
+   "sono",
+   "insônia",
+   "ansiedade",
+   "estresse",
+   "depressão",
+   "burnout",
+   "cansaço",
+   "falta de energia",
+   "solidão",
+   "meditação"
+  ],
+  "cerebro-memoria": [
+   "memória",
+   "esquecimento",
+   "névoa mental",
+   "concentração",
+   "alzheimer",
+   "demência",
+   "estimular o cérebro",
+   "tontura"
+  ],
+  "ossos-articulacoes": [
+   "dor nas costas",
+   "dores lombares",
+   "artrose",
+   "artrite",
+   "dor no joelho",
+   "dor no ombro",
+   "fascite plantar",
+   "sarcopenia",
+   "câimbras",
+   "ciática"
+  ],
+  "pele-cabelo": [
+   "queda de cabelo",
+   "cabelos brancos",
+   "pele",
+   "rugas",
+   "manchas na pele",
+   "ressecamento da pele",
+   "protetor solar",
+   "colágeno na pele"
+  ],
+  "visao-audicao-boca": [
+   "presbiopia",
+   "catarata",
+   "visão embaçada",
+   "olho seco",
+   "perda auditiva",
+   "zumbido",
+   "labirintite",
+   "saúde bucal",
+   "gengivite",
+   "dentes"
+  ],
+  "digestao": [
+   "azia",
+   "refluxo",
+   "gastrite",
+   "prisão de ventre",
+   "intestino irritável",
+   "gordura no fígado",
+   "barriga inchada",
+   "probióticos"
+  ],
+  "relacionamento-sexualidade": [
+   "relacionamento",
+   "libido",
+   "sexo",
+   "casamento",
+   "recomeçar",
+   "amizades",
+   "aposentadoria"
+  ],
+  "longevidade": [
+   "envelhecimento saudável",
+   "longevidade",
+   "idade biológica",
+   "prevenir doenças",
+   "autonomia",
+   "quedas em idosos"
+  ]
+ },
+ "publicos": [
+  "para mulheres",
+  "para homens",
+  "para idosos",
+  "depois dos 40",
+  "depois dos 50",
+  "na menopausa",
+  "para iniciantes",
+  "em casa"
+ ],
+ "intencoesPorCategoria": {
+  "alimentacao": [
+   "{t} lista",
+   "{t} benefícios",
+   "o que comer para {t}",
+   "{t} mito ou verdade",
+   "{t} receitas",
+   "{t} quantas vezes por dia",
+   "{t} dicas",
+   "{t} cardápio"
+  ],
+  "emagrecimento": [
+   "como {t}",
+   "{t} depois dos 40",
+   "{t} mito ou verdade",
+   "{t} sem dieta",
+   "{t} dicas",
+   "{t} quanto tempo",
+   "{t} causas",
+   "{t} é possível"
+  ],
+  "exercicio": [
+   "{t} benefícios",
+   "{t} para que serve",
+   "{t} quanto tempo por dia",
+   "{t} mito ou verdade",
+   "como começar {t}",
+   "{t} emagrece",
+   "{t} dicas",
+   "{t} cuidados"
+  ],
+  "mulher-menopausa": [
+   "{t} causas",
+   "{t} sintomas",
+   "{t} o que fazer",
+   "{t} tratamento",
+   "o que é {t}",
+   "{t} quando procurar um médico",
+   "{t} tem cura",
+   "{t} é normal"
+  ],
+  "homem-prostata": [
+   "{t} causas",
+   "{t} sintomas",
+   "{t} o que fazer",
+   "{t} tratamento",
+   "o que é {t}",
+   "{t} quando procurar um médico",
+   "{t} tem cura",
+   "{t} é normal"
+  ],
+  "coracao-pressao": [
+   "{t} causas",
+   "{t} sintomas",
+   "{t} o que fazer",
+   "{t} tratamento",
+   "o que é {t}",
+   "{t} quando procurar um médico",
+   "{t} tem cura",
+   "{t} é normal"
+  ],
+  "diabetes-exames": [
+   "{t} causas",
+   "{t} sintomas",
+   "{t} o que fazer",
+   "{t} tratamento",
+   "o que é {t}",
+   "{t} quando procurar um médico",
+   "{t} tem cura",
+   "{t} é normal",
+   "{t} valores normais",
+   "{t} o que significa"
+  ],
+  "sono-mente": [
+   "{t} causas",
+   "{t} sintomas",
+   "{t} o que fazer",
+   "{t} tratamento",
+   "o que é {t}",
+   "{t} quando procurar um médico",
+   "{t} tem cura",
+   "{t} é normal",
+   "como melhorar {t}"
+  ],
+  "cerebro-memoria": [
+   "{t} causas",
+   "{t} sintomas",
+   "{t} o que fazer",
+   "{t} tratamento",
+   "o que é {t}",
+   "{t} quando procurar um médico",
+   "{t} tem cura",
+   "{t} é normal"
+  ],
+  "ossos-articulacoes": [
+   "{t} causas",
+   "{t} sintomas",
+   "{t} o que fazer",
+   "{t} tratamento",
+   "o que é {t}",
+   "{t} quando procurar um médico",
+   "{t} tem cura",
+   "{t} é normal",
+   "{t} exercícios",
+   "{t} alongamento",
+   "como aliviar {t}"
+  ],
+  "pele-cabelo": [
+   "{t} causas",
+   "{t} sintomas",
+   "{t} o que fazer",
+   "{t} tratamento",
+   "o que é {t}",
+   "{t} quando procurar um médico",
+   "{t} tem cura",
+   "{t} é normal",
+   "como melhorar {t}"
+  ],
+  "visao-audicao-boca": [
+   "{t} causas",
+   "{t} sintomas",
+   "{t} o que fazer",
+   "{t} tratamento",
+   "o que é {t}",
+   "{t} quando procurar um médico",
+   "{t} tem cura",
+   "{t} é normal"
+  ],
+  "digestao": [
+   "{t} causas",
+   "{t} sintomas",
+   "{t} o que fazer",
+   "{t} tratamento",
+   "o que é {t}",
+   "{t} quando procurar um médico",
+   "{t} tem cura",
+   "{t} é normal",
+   "o que comer {t}"
+  ],
+  "relacionamento-sexualidade": [
+   "{t} depois dos 40 como lidar",
+   "{t} dicas",
+   "{t} problemas comuns",
+   "{t} é normal",
+   "como melhorar {t}",
+   "{t} mito ou verdade",
+   "{t} quando procurar ajuda",
+   "{t} causas"
+  ],
+  "longevidade": [
+   "{t} dicas",
+   "como ter {t}",
+   "{t} depois dos 40",
+   "{t} hábitos",
+   "{t} mito ou verdade",
+   "{t} alimentação",
+   "{t} exercícios",
+   "{t} o que é"
+  ]
+ }
 }
