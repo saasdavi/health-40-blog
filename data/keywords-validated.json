@@ -1800,7 +1800,11 @@
         "a pressão 14x8 no frio é considerada alta",
         "pressão 15 por 9 é normal",
         "pressão mínima alta",
-        "pressão 14x9 é perigosa"
+        "pressão 14x9 é perigosa",
+        "pico de pressão alta",
+        "quando um pico de pressão é emergência",
+        "pico de pressão alta é perigoso",
+        "como controlar a pressão em momentos de estresse"
       ],
       "serp": {
         "facil": true,
@@ -1816,7 +1820,7 @@
         "https://www.rededorsaoluiz.com.br/noticias/artigo/hipertensao-nao-sinto-nada-e-a-pressao-e-alta-devo-tratar",
         "https://www.drataisalbano.com.br/pressao-alta-tratamento-sintomas/"
       ],
-      "notas": "Não é artigo de emergência: explicar como medir certo (repouso, sem café) e que diagnóstico exige repetição; sem remédio nem dose; sinais de alerta (dor no peito, falta de ar, fraqueza de um lado) = pronto-socorro."
+      "notas": "Não é artigo de emergência: explicar como medir certo (repouso, sem café) e que diagnóstico exige repetição; sem remédio nem dose; sinais de alerta (dor no peito, falta de ar, fraqueza de um lado) = pronto-socorro. Tratar 'pico de pressão' só como seção de alerta (≥180/120 com sintomas = emergência); não dar conduta de tratamento."
     }
   ],
   "descartadas": "Mounjaxi/suplemento/termogênico (volume < 400 ou sem medição), '... 40+' de cauda longa sem volume, 'como emagrecer depois dos 40' (260/mês, concorrência HIGH)."

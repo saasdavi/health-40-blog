@@ -208,17 +208,17 @@
       "status": "sem-serp"
     },
     {
-      "keyword": "pressão alta sintomas",
-      "volume": null,
-      "cluster": "coracao",
-      "status": "serp-ok-falta-volume",
-      "nota": "Google Ads não devolve volume; topo fraco (Ident, Picdoc, Vitat, Saúde em Dia). Aguardando volume da extensão do usuário. Variantes da extensão: iniciais, dor de cabeça, olhos, calor, o que fazer, como saber se estou com pressão alta"
-    },
-    {
       "keyword": "hipertensão",
       "volume": 40500,
       "cluster": "coracao",
       "status": "sem-serp"
+    },
+    {
+      "keyword": "pressão alta sintomas",
+      "volume": null,
+      "cluster": "coracao",
+      "status": "serp-ok-falta-volume",
+      "nota": "Google Ads devolve nulo para termos 'pressão alta ...'. Topo fraco (Ident, Picdoc, Vitat). Precisa de volume pela extensão (Load Metrics)"
     }
   ],
   "semDemanda": "Frases longas do kit com volume < 200/mês no Google BR (não viram artigo próprio; entram como H2 de artigo-mãe): como perder barriga depois dos 40 (110), musculação depois dos 40 (30), treino de força para iniciantes (20), hipertrofia depois dos 40 (10), alimentos para reduzir gordura visceral (10), efeito platô emagrecimento (210)",
@@ -242,6 +242,11 @@
       "keyword": "glaucoma sintomas",
       "volume": 22200,
       "motivo": "Rede D'Or, Einstein, Tua Saúde e hospitais de olhos dominam; tema com crise de emergência"
+    },
+    {
+      "keyword": "pico de pressão",
+      "volume": 590,
+      "motivo": "Volume baixo (590), IA do Google mistura com ventilação mecânica, tema de urgência; absorvido como H2 de 'pressão 14 por 9'"
     }
   ]
 }
