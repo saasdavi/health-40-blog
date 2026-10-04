@@ -1,16 +1,19 @@
 PALAVRA_CHAVE: colesterol hdl
 TITLE: Colesterol HDL: valores e como interpretar
 DESCRIPTION: Colesterol HDL: veja o valor de referência da diretriz brasileira, o que significa HDL baixo ou alto e como interpretar o resultado do exame.
-CAPA_BUSCA: doctor explaining blood test results to patient
-CAPA_ALT: Pessoa conversando com profissional de saúde sobre exame de colesterol
-CAPA_LEGENDA: O HDL deve ser interpretado junto com o perfil lipídico completo.
-FOTO1_BUSCA: blood sample tubes laboratory
-FOTO1_ALT: Tubos de coleta de sangue em laboratório para exame de colesterol
-FOTO1_LEGENDA: O HDL é medido no exame de sangue chamado perfil lipídico.
-FOTO1_SECAO: 4
-FOTO2_BUSCA: healthy breakfast whole grains fruits nuts
-FOTO2_ALT: Mesa com frutas, grãos integrais e castanhas
-FOTO2_LEGENDA: Refeições variadas fazem parte do cuidado com o coração.
+CAPA_BUSCA: avocado salad bowl
+CAPA_PEXELS_ID: 1484519
+CAPA_ALT: Salada com abacate e folhas verdes servida em uma tigela
+CAPA_LEGENDA: Refeições variadas fazem parte do cuidado com o coração.
+FOTO1_BUSCA: woman walking outdoors nature
+FOTO1_PEXELS_ID: 38956051
+FOTO1_ALT: Mulher caminha ao ar livre em meio à natureza
+FOTO1_LEGENDA: Caminhar é uma forma simples de manter a rotina ativa.
+FOTO1_SECAO: 5
+FOTO2_BUSCA: woman talking with doctor consultation
+FOTO2_PEXELS_ID: 7578797
+FOTO2_ALT: Mulher conversa com médico durante uma consulta de saúde
+FOTO2_LEGENDA: Leve o perfil lipídico completo à consulta.
 FOTO2_SECAO: 7
 FONTE: Diretriz Brasileira de Dislipidemias e Prevenção da Aterosclerose, Sociedade Brasileira de Cardiologia, 2025 | https://www.scielo.br/j/abc/a/tRJrwGzKX6C4GvMqdJpZcGk/?lang=pt
 FONTE: Protocolo Clínico e Diretrizes Terapêuticas da Dislipidemia, Ministério da Saúde | https://www.gov.br/saude/pt-br/assuntos/pcdt/d/dislipidemia/view
