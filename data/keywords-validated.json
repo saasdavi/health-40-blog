@@ -894,20 +894,6 @@
       ]
     },
     {
-      "keyword": "insônia",
-      "volume": 40500,
-      "competition": "LOW",
-      "cluster": "sono",
-      "absorve": [],
-      "serp": {
-        "facil": false,
-        "nivel": "MÉDIA",
-        "topoDoGoogle": "Einstein, Nav Dasa, araujo, YouTube, Sírio-Libanês, Care Plus, Wikipedia, Drauzio; termo-cabeça com autoridades; testar cauda longa (insônia causas 3,6 mil, insônia o que fazer 1,9 mil)",
-        "aiOverview": true
-      },
-      "fontes": []
-    },
-    {
       "keyword": "queda de cabelo causas",
       "volume": 7200,
       "competition": "MEDIUM",
@@ -1422,6 +1408,141 @@
         "https://www.gscuidadoresdeidosos.com.br/esquecimento-natural-da-idade-ou-primeiros-sinais-de-alzheimer-como-diferenciar-e-agir/"
       ],
       "notas": "Não sugerir diagnóstico de Alzheimer/demência; listar o que merece avaliação de neurologista; sem suplemento de memória."
+    },
+    {
+      "keyword": "insônia",
+      "volume": 40500,
+      "competition": "LOW",
+      "cluster": "sono",
+      "absorve": [
+        "o que leva uma pessoa a ter insônia",
+        "quais são os 3 tipos de insônia",
+        "o que fazer para tirar a insônia",
+        "como é a insônia da ansiedade"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Cuidados Pela Vida, Ar Clínica, Medscape, Faculdade Futura, Locmed, Marjan, USP; sem portal grande no topo",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://nav.dasa.com.br/blog/insonia",
+        "https://araujo.com.br/blog/insonia/",
+        "https://hospitalsiriolibanes.org.br/blog/alimentacaoebemestar/insonia-10-dicas-para-dormir-melhor",
+        "https://www.gndi.com.br/blog-da-saude/conheca-as-causas-e-tratamentos-para-insonia",
+        "https://cuidadospelavida.com.br/blog/sintomas/insonia",
+        "https://arclinica.com.br/insonia/"
+      ],
+      "notas": "Sem indicar remédio para dormir nem melatonina; falar de higiene do sono e TCC-I só como as fontes informam; orientar procurar médico se persistir."
+    },
+    {
+      "keyword": "manchas na pele",
+      "volume": 18100,
+      "competition": "LOW",
+      "cluster": "pele-cabelo",
+      "absorve": [
+        "qual tipo de mancha na pele devo me preocupar",
+        "quais doenças podem causar manchas na pele",
+        "como é a mancha de estresse",
+        "como saber se a mancha é perigosa"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Blogs de dermatologistas, Estado de Minas, Embracon, Viva Beauty, sites de Portugal",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://vencerocancer.org.br/saude/manchas-na-pele/",
+        "https://www.panvel.com/blog/panvel-explica/manchas-na-pele/",
+        "https://www.endoclinic.com.br/manchas-na-pele-quando-se-preocupar-e-como-identificar-os-sinais/",
+        "https://emfoco.med.br/manchas-na-pele-quando-procurar-um-dermatologista/",
+        "https://bvsms.saude.gov.br/pintas-e-manchas-na-pele/",
+        "https://nav.dasa.com.br/blog/manchas-na-pele"
+      ],
+      "notas": "Citar a regra ABCDE e sinais de alerta; sem ácidos, receitas caseiras ou clareadores."
+    },
+    {
+      "keyword": "tontura ao levantar",
+      "volume": 9900,
+      "competition": "LOW",
+      "cluster": "sintomas",
+      "absorve": [
+        "como aliviar tonturas ao levantar",
+        "quando a tontura é preocupante",
+        "tontura ao levantar e deitar",
+        "tontura ao levantar e enjoo"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIO",
+        "topoDoGoogle": "MSD Manuals no topo; resto clínicas e blogs (otoneuro, Care Plus, Dr. Douglas Ribeiro, Alta, GNDI)",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-do-cora%C3%A7%C3%A3o-e-dos-vasos-sangu%C3%ADneos/sintomas-de-dist%C3%BArbios-do-cora%C3%A7%C3%A3o-e-dos-vasos-sangu%C3%ADneos/tontura-ou-sensa%C3%A7%C3%A3o-de-desmaio-iminente-ao-se-levantar",
+        "https://otoneuro.med.br/tontura-ao-levantar-o-que-pode-indicar/",
+        "https://www.careplus.com.br/careplus-mais/como-lidar-com-a-tontura-ao-levantar-com-5-dicas-praticas",
+        "https://drdouglasribeiro.com.br/tontura-ao-levantar/",
+        "https://altadiagnosticos.com.br/saude/tontura-o-que-pode-ser/",
+        "https://www.rededorsaoluiz.com.br/noticias/artigo/tontura-ao-levantar-e-perigoso-saiba-quando-investigar"
+      ],
+      "notas": "Sinais de alerta: dor no peito, falta de ar, desmaio, quedas, palpitações; não ensinar a diferenciar AVC; sem sugerir mexer em remédio de pressão."
+    },
+    {
+      "keyword": "névoa mental",
+      "volume": 8100,
+      "competition": "LOW",
+      "cluster": "memoria",
+      "absorve": [
+        "o que é bom para névoa mental",
+        "quais são os sintomas da névoa mental",
+        "o que são névoas mentais",
+        "brain fog"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Instagram, Dr. Cyro Masci, Spotify, LinkedIn, sites de Portugal, NeuronUP",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://spdm.org.br/blog/nevoa-mental-sintomas-impactos-e-o-que-a-ciencia-ja-sabe/",
+        "https://www.omint.com.br/blog/nevoa-mental/",
+        "https://www.doctoralia.com.br/blog/resistencia-insulina-nevoa-mental-foco",
+        "https://educacaomedica.afya.com.br/blog/nevoa-cerebral-quais-sao-os-sintomas",
+        "https://www.nationalgeographicbrasil.com/ciencia/2025/05/o-que-e-exatamente-o-brain-fog-ou-nevoa-mental-veja-o-que-os-cientistas-estao-descobrindo",
+        "https://masci.com.br/estresse-causa-nevoa-mental-e-dificuldade-de-memoria/"
+      ],
+      "notas": "Não é diagnóstico; sem suplemento ou nootrópico; linkar internamente com 'esquecimento'."
+    },
+    {
+      "keyword": "suor noturno",
+      "volume": 9900,
+      "competition": "LOW",
+      "cluster": "sintomas",
+      "absorve": [
+        "sudorese noturna",
+        "quando o suor noturno é preocupante",
+        "qual falta de vitamina causa suor noturno",
+        "por que estou suando muito quando estou dormindo"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Notícias ao Minuto (2017), Lab Vitória, Facebook, Terra (2009), Abrale; sem portal forte",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.rededorsaoluiz.com.br/doencas/sudorese-noturna",
+        "https://nav.dasa.com.br/blog/sudorese-noturna",
+        "https://www.tuasaude.com/suor-noturno/",
+        "https://posenato.med.br/blog/suor-noturno/",
+        "https://hospitalazambuja.com.br/suor-noturno/",
+        "https://mmiclinic.com.br/suor-noturno/"
+      ],
+      "notas": "Sinais de alerta: febre, perda de peso, gânglios, tosse; sem aprofundar menopausa (canibaliza 'calores da menopausa')."
     }
   ],
   "descartadas": "Mounjaxi/suplemento/termogênico (volume < 400 ou sem medição), '... 40+' de cauda longa sem volume, 'como emagrecer depois dos 40' (260/mês, concorrência HIGH)."
