@@ -279,10 +279,70 @@
    "volume": 2900,
    "cluster": "diabetes",
    "status": "absorve em 'hemoglobina glicada' (já na fila), com hba1c (14800) e hemoglobina glicosilada (135000)"
+  },
+  {
+   "keyword": "alopecia",
+   "volume": 135000,
+   "cluster": "pele-cabelo",
+   "status": "sem-serp; absorve: alopecia androgenética, feminina, masculina; autoridades médicas podem dominar o topo"
+  },
+  {
+   "keyword": "dermatite de contato",
+   "volume": 74000,
+   "cluster": "pele-cabelo",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "melasma",
+   "volume": 60500,
+   "cluster": "pele-cabelo",
+   "status": "sem-serp; absorve: como cuidar do melasma, hiperpigmentação (5400), manchas no rosto (6600)"
+  },
+  {
+   "keyword": "estrias",
+   "volume": 49500,
+   "cluster": "pele-cabelo",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "caspa",
+   "volume": 22200,
+   "cluster": "pele-cabelo",
+   "status": "sem-serp; absorve: dermatite seborreica, descamação do couro cabeludo; sem indicar shampoo"
+  },
+  {
+   "keyword": "calvície",
+   "volume": 18100,
+   "cluster": "pele-cabelo",
+   "status": "sem-serp; absorve: sinais de calvície, calvície masculina, feminina"
+  },
+  {
+   "keyword": "rosácea",
+   "volume": 14800,
+   "cluster": "pele-cabelo",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "couro cabeludo",
+   "volume": 9900,
+   "cluster": "pele-cabelo",
+   "status": "sem-serp; absorve: coceira (8100), foliculite (8100), couro cabeludo seco/oleoso"
+  },
+  {
+   "keyword": "vermelhidão na pele",
+   "volume": 4400,
+   "cluster": "pele-cabelo",
+   "status": "sem-serp"
+  },
+  {
+   "keyword": "coceira na pele",
+   "volume": 4400,
+   "cluster": "pele-cabelo",
+   "status": "sem-serp"
   }
  ],
  "semDemanda": "Frases longas do kit com volume < 200/mês no Google BR (não viram artigo próprio; entram como H2 de artigo-mãe): como perder barriga depois dos 40 (110), musculação depois dos 40 (30), treino de força para iniciantes (20), hipertrofia depois dos 40 (10), alimentos para reduzir gordura visceral (10), efeito platô emagrecimento (210)",
- "foraDoEscopo": "Transacionais do kit (comprar creatina, assinar plano de treino, ebook, teste de longevidade): o robô não escreve sobre marcas/produtos | Rodada 5 (HYPD, 559 frases): sexo (1M), aposentadoria (246k), casamento (90,5k), amizades (49,5k), autonomia (40,5k), recomeçar (18,1k), relacionamento (27,1k) têm intenção ambígua, sem relação com saúde; protetor solar (246k) e colágeno na pele (5,4k) são produto/suplemento; combinações com 'depois dos 40/50' em relacionamento e sexualidade ficam em 10–110 buscas (sexo na menopausa 480, sexo dicas 720). | Diabetes (rodada 6): glicosímetro (22,2 mil) e freestyle libre (18,1 mil) são produto/marca; hipoglicemia (201 mil) é tema de urgência (só como H2 de alerta). Caudas longas de diabetes e exames ficam abaixo de 200 buscas (ex.: glicemia normal por idade 140, glicemia 126 em jejum 170).",
+ "foraDoEscopo": "Transacionais do kit (comprar creatina, assinar plano de treino, ebook, teste de longevidade): o robô não escreve sobre marcas/produtos | Rodada 5 (HYPD, 559 frases): sexo (1M), aposentadoria (246k), casamento (90,5k), amizades (49,5k), autonomia (40,5k), recomeçar (18,1k), relacionamento (27,1k) têm intenção ambígua, sem relação com saúde; protetor solar (246k) e colágeno na pele (5,4k) são produto/suplemento; combinações com 'depois dos 40/50' em relacionamento e sexualidade ficam em 10–110 buscas (sexo na menopausa 480, sexo dicas 720). | Diabetes (rodada 6): glicosímetro (22,2 mil) e freestyle libre (18,1 mil) são produto/marca; hipoglicemia (201 mil) é tema de urgência (só como H2 de alerta). Caudas longas de diabetes e exames ficam abaixo de 200 buscas (ex.: glicemia normal por idade 140, glicemia 126 em jejum 170). | Pele e cabelo (rodada 7, 80 de ~270 frases lidas): fora por serem produto/ingrediente/serviço (competição HIGH no Google Ads): proteção solar (246 mil), ácido hialurônico, niacinamida, retinol, ácidos, shampoos, óleos, máscaras, cronograma capilar (90,5 mil), vitaminas para cabelo (60,5 mil), biotina, suplementos, tricologista (40,5 mil, busca de serviço). Regra prática: competição HIGH no Google Ads indica intenção de compra.",
  "descartadasSerp": [
   {
    "keyword": "ácido úrico alto",
@@ -318,5 +378,6 @@
    "queda de cabelo é normal (880)",
    "queda de cabelo na menopausa (720)"
   ]
- }
+ },
+ "regraCompeticao": "Competição HIGH no Google Ads costuma indicar intenção de compra (produto, marca, suplemento); priorizar LOW/MEDIUM."
 }
