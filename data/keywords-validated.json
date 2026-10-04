@@ -3143,7 +3143,8 @@
         }
       ],
       "papel": "pilar",
-      "revisar": true
+      "revisar": true,
+      "sensivel": true
     }
   ],
   "descartadas": "Mounjaxi/suplemento/termogênico (volume < 400 ou sem medição), '... 40+' de cauda longa sem volume, 'como emagrecer depois dos 40' (260/mês, concorrência HIGH)."

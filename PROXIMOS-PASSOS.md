@@ -64,6 +64,9 @@ Blog de saúde, 3 artigos/dia por 365 dias (1.095 pautas), cada pauta validada c
 8. Domínio + Search Console (`scripts/trocar-dominio.js`); decidir fonte de volume depois do HYPD e a API oficial do Google (seção 15 do documento).
 9. Secrets `SERPER_API_KEY` e `KEYWORDS_EVERYWHERE_API_KEY` ainda não criados (workflows automáticos dependem deles).
 
+## Trava de segurança do robô (04/10/2026)
+O robô publica sozinho qualquer pauta com SERP fácil e fontes; **`revisar: true` sozinho não o impede**. Por isso pautas de tema sensível levam `sensivel: true` além de `revisar: true`, e o `escolherPauta` do `scripts/article-robot.js` **pula** as que têm os dois. Para liberar: revisar a pauta/artigo e apagar `sensivel` e `revisar` em `data/keywords-validated.json`. Hoje bloqueada: ereção matinal. Toda pauta nova de remédio, urgência, sexualidade ou pornografia deve entrar com `sensivel: true`.
+
 ## Cuidados
 - Nunca colocar chaves no chat nem em arquivo versionado: só como secret do repositório.
 - Resultados do HYPD expiram em 24 h: ingerir no mesmo dia.

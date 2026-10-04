@@ -86,6 +86,8 @@ class ArticleRobot {
     const porSlug = new Map(this.db.articles.map(a => [a.slug, a]));
     const livres = this.kw.filter(k => {
       if (k.serp?.facil !== true || !k.fontes?.length) return false;
+      // tema sensível (remédio, urgência, sexualidade...) só publica depois de revisão humana: tire `sensivel`/`revisar` da pauta
+      if (k.sensivel === true && k.revisar === true) return false;
       if (k.substitui) return !!porSlug.get(k.substitui) && porSlug.get(k.substitui).validador !== 'APROVADO';
       return !usadas.has(k.keyword.toLowerCase()) && !usadas.has(slugify(k.keyword));
     });
