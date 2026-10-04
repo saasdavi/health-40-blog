@@ -1,0 +1,60 @@
+name: Pesquisa completa (volume → Google → fila)
+
+# Fluxo único: lê data/pesquisa/entrada.txt (frases geradas por você ou pelo ChatGPT),
+# mede volume (Keywords Everywhere), agrupa em pautas, valida o Google (Serper)
+# e promove as aprovadas à fila de ouro.
+
+on:
+  workflow_dispatch:
+    inputs:
+      categoria:
+        description: 'Categoria (ex.: pele-cabelo, sono-mente, homem-prostata). Vazio = todas'
+        required: false
+        default: ''
+      sementes:
+        description: 'Temas centrais das frases, separados por vírgula (ex.: melasma,caspa,estrias)'
+        required: false
+        default: ''
+      limite_serp:
+        description: 'Quantas candidatas validar no Google'
+        required: false
+        default: '40'
+
+permissions:
+  contents: write
+
+jobs:
+  pesquisa:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: 📊 Medir volume das frases
+        env:
+          KEYWORDS_EVERYWHERE_API_KEY: ${{ secrets.KEYWORDS_EVERYWHERE_API_KEY }}
+        run: node scripts/volume-ke.js data/pesquisa/entrada.txt data/pesquisa/volumes.tsv
+      - name: 🧩 Agrupar em pautas candidatas
+        env:
+          CATEGORIA: ${{ inputs.categoria }}
+          SEMENTES: ${{ inputs.sementes }}
+        run: |
+          args=()
+          [ -n "$CATEGORIA" ] && args+=(--categoria "$CATEGORIA")
+          IFS=',' read -ra S <<< "$SEMENTES"
+          for s in "${S[@]}"; do s="$(echo "$s" | xargs)"; [ -n "$s" ] && args+=(--semente "$s"); done
+          node scripts/combinar-palavras.js importar data/pesquisa/volumes.tsv "${args[@]}"
+      - name: 🔎 Validar candidatas no Google e promover
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+        run: node scripts/validar-serp.js --limite "${{ inputs.limite_serp }}" --promover
+      - name: ✅ Conferir regras da fila
+        run: node scripts/validar-pautas.js
+        continue-on-error: true
+      - name: 💾 Gravar resultados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || (git commit -m "Pesquisa completa: novas pautas da lista de frases" && git push)

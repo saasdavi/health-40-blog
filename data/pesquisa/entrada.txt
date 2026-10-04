@@ -1,0 +1,1 @@
+# Cole aqui as frases geradas (uma por linha ou separadas por vírgula). Linhas que começam com # são ignoradas.
