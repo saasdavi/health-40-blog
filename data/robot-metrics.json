@@ -79,5 +79,181 @@
     },
     "custoUSD": 1.5198,
     "custoPorPublicadoUSD": 1.5198
+  },
+  {
+    "data": "2026-10-04T18:21:47.361Z",
+    "modeloRedator": "claude-haiku-4-5-20251001",
+    "modeloValidador": "claude-haiku-4-5-20251001",
+    "tentativas": 58,
+    "aprovados": 20,
+    "publicados": 0,
+    "estocados": 20,
+    "falhas": 10,
+    "porArtigo": [
+      {
+        "palavra": "alimentos ricos em ferro",
+        "tentativas": 3,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "hipotireoidismo sintomas",
+        "tentativas": 3,
+        "resultado": "reprovado"
+      },
+      {
+        "palavra": "noctúria",
+        "tentativas": 2,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "café da manhã saudável",
+        "tentativas": 3,
+        "resultado": "reprovado"
+      },
+      {
+        "palavra": "queda de cabelo",
+        "tentativas": 2,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "presbiopia",
+        "tentativas": 3,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "manchas na pele",
+        "tentativas": 1,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "pressão 14 por 9",
+        "tentativas": 3,
+        "resultado": "reprovado"
+      },
+      {
+        "palavra": "longevidade",
+        "tentativas": 0,
+        "resultado": "erro"
+      },
+      {
+        "palavra": "o que é menopausa",
+        "tentativas": 1,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "vitamina d baixa sintomas",
+        "tentativas": 1,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "caminhada emagrece",
+        "tentativas": 3,
+        "resultado": "reprovado"
+      },
+      {
+        "palavra": "como controlar a ansiedade",
+        "tentativas": 1,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "lanche saudável",
+        "tentativas": 1,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "cabelos brancos",
+        "tentativas": 2,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "como acelerar o metabolismo",
+        "tentativas": 3,
+        "resultado": "reprovado"
+      },
+      {
+        "palavra": "câimbras nas pernas",
+        "tentativas": 1,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "visão embaçada",
+        "tentativas": 2,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "tontura ao levantar",
+        "tentativas": 2,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "suor noturno",
+        "tentativas": 2,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "alimentos que aumentam a testosterona",
+        "tentativas": 3,
+        "resultado": "reprovado"
+      },
+      {
+        "palavra": "névoa mental",
+        "tentativas": 1,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "ressecamento da pele",
+        "tentativas": 3,
+        "resultado": "reprovado"
+      },
+      {
+        "palavra": "alimentos anti inflamatórios",
+        "tentativas": 3,
+        "resultado": "reprovado"
+      },
+      {
+        "palavra": "fogachos",
+        "tentativas": 1,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "jantar saudável",
+        "tentativas": 3,
+        "resultado": "reprovado"
+      },
+      {
+        "palavra": "exercícios para idosos",
+        "tentativas": 1,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "ferro baixo sintomas",
+        "tentativas": 1,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "esquecimento",
+        "tentativas": 1,
+        "resultado": "aprovado"
+      },
+      {
+        "palavra": "idade metabólica",
+        "tentativas": 2,
+        "resultado": "aprovado"
+      }
+    ],
+    "uso": {
+      "redator:claude-haiku-4-5-20251001": {
+        "chamadas": 59,
+        "entrada": 829994,
+        "saida": 235207
+      },
+      "validador:claude-haiku-4-5-20251001": {
+        "chamadas": 30,
+        "entrada": 419161,
+        "saida": 3962
+      }
+    },
+    "custoUSD": 2.445,
+    "custoPorPublicadoUSD": 0.1222
   }
 ]

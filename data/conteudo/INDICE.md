@@ -4,13 +4,13 @@ Fonte dos textos: `data/articles.json`. Atualizado por `node scripts/banco-conte
 
 | O que | Quantidade | Dias (3/dia) |
 |---|---|---|
-| **Pronto para usar** (escrito, aprovado, guardado) | **18** | 6 |
+| **Pronto para usar** (escrito, aprovado, guardado) | **38** | 12 |
 | Publicado (no ar) | 8 | |
-| Pauta validada, falta escrever | 45 | 15 |
+| Pauta validada, falta escrever | 25 | 8 |
 | Planejado, falta validar no Google | 886 | 295 |
 | Vagas (sem tema levantado) | 146 | |
 
-Dias de conteúdo já escrito + pauta validada: **21** (a 3 por dia).
+Dias de conteúdo já escrito + pauta validada: **20** (a 3 por dia).
 
 ## Prontos para usar
 
@@ -34,6 +34,26 @@ Dias de conteúdo já escrito + pauta validada: **21** (a 3 por dia).
 | Glicemia normal: valores por idade e quando procurar ajuda | 1276 | 91 | 2026-10-11 |
 | Inchaço nas Pernas: Causas e Alívio Prático | 1997 | 100 | 2026-10-11 |
 | Moscas Volantes: Causas, Sinais e Quando Procurar Médico | 1394 | 83 | 2026-10-12 |
+| Alimentos Ricos em Ferro: Absorção Prática 40+ | 1591 | 98 | 2026-10-09 |
+| Noctúria: Por Que Acorda à Noite para Urinar | 1378 | 92 | 2026-10-12 |
+| Queda de Cabelo: Saiba Quando é Normal Tratar | 1544 | 96 | 2026-10-13 |
+| Presbiopia: Como Corrigir Sua Visão de Perto | 1777 | 90 | 2026-10-14 |
+| Manchas na Pele: Guia Completo para Identificar o Risco | 1155 | 83 | 2026-10-14 |
+| O que é Menopausa: Guia Completo para Mulheres 40+ | 1453 | 81 | 2026-10-15 |
+| Vitamina D Baixa Sintomas: Reconheça os Sinais | 1894 | 84 | 2026-10-15 |
+| Como Controlar a Ansiedade: Estratégias Práticas 40+ | 1471 | 95 | 2026-10-16 |
+| Lanche Saudável: 12 Ideias Fáceis para Sua Tarde | 1470 | 91 | 2026-10-17 |
+| Cabelos Brancos: Causas, Cuidados e Tudo que Você Precisa Saber | 1820 | 87 | 2026-10-17 |
+| Câimbras nas pernas: causas e alívio rápido | 1333 | 100 | 2026-10-18 |
+| Visão Embaçada: Causas e Como Melhorar | 1552 | 96 | 2026-10-18 |
+| Tontura ao Levantar: Causas e o Que Fazer | 1482 | 90 | 2026-10-18 |
+| Suor Noturno: Causas, Quando Preocupar e Como Tratar | 1310 | 95 | 2026-10-19 |
+| Névoa Mental: Como Recuperar o Foco aos 40+ | 1587 | 96 | 2026-10-19 |
+| Fogachos: O Que São, Causas e Como Aliviar | 1128 | 96 | 2026-10-20 |
+| Exercícios para Idosos: Segurança e Força | 1504 | 100 | 2026-10-21 |
+| Ferro Baixo Sintomas: 8 Sinais que Você Não Deve Ignorar | 1452 | 95 | 2026-10-21 |
+| Esquecimento Frequente: Quando Procurar Médico | 1439 | 92 | 2026-10-22 |
+| Idade Metabólica: Calcule e Melhore a Sua | 1499 | 100 | 2026-10-22 |
 
 ## Publicados
 
@@ -52,41 +72,26 @@ Dias de conteúdo já escrito + pauta validada: **21** (a 3 por dia).
 
 - o que é sarcopenia (27100/mês)
 - colesterol alto sintomas (27100/mês)
-- o que é menopausa (14800/mês)
 - menopausa precoce (12100/mês)
 - colesterol hdl (74000/mês)
 - colesterol ldl (74000/mês)
 - com quantos anos a mulher entra na menopausa (16300/mês)
-- vitamina d baixa sintomas (12100/mês)
 - alimentos que aumentam a testosterona (8100/mês)
 - caminhada emagrece (12100/mês)
-- idade metabólica (3400/mês)
 - como acelerar o metabolismo (9900/mês)
 - alimentos anti inflamatórios (6600/mês)
-- fogachos (6000/mês)
 - hipotireoidismo sintomas (33100/mês)
-- câimbras nas pernas (9900/mês)
 - queda de cabelo causas (7200/mês)
-- como controlar a ansiedade (12100/mês)
-- visão embaçada (9900/mês)
-- ferro baixo sintomas (3600/mês)
-- exercícios para idosos (4400/mês)
 - ferritina alta (60500/mês)
 - creatinina alta (33100/mês)
-- presbiopia (18100/mês)
 - tsh alto (12100/mês)
 - próstata aumentada (18100/mês)
-- queda de cabelo (22000/mês)
-- esquecimento (3600/mês)
-- manchas na pele (18100/mês)
-- tontura ao levantar (9900/mês)
-- névoa mental (8100/mês)
-- suor noturno (9900/mês)
-- noctúria (22200/mês)
 - ureia alta (22200/mês)
 - hemograma completo (60500/mês)
 - pressão 14 por 9 (18100/mês)
 - café da manhã saudável (22200/mês)
-- lanche saudável (12100/mês)
 - jantar saudável (5400/mês)
 - hidroginástica benefícios (2900/mês)
+- longevidade (18100/mês)
+- ressecamento da pele (8100/mês)
+- ereção matinal (1300/mês) [sensível: trava até revisão]
