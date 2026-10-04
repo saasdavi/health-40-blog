@@ -112,7 +112,9 @@ class ArticleRobot {
         if (texto.length < 1500) { console.log(`  ⚠️  fonte com pouco texto: ${url}`); continue; }
         const host = new URL(url).hostname.replace(/^www\./, '');
         const site = (html.match(/<meta[^>]+property=["']og:site_name["'][^>]+content=["']([^"']+)["']/i) || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:site_name["']/i) || [])[1];
-        ok.push({ title, nome: NOMES_FONTE[host] || (site && site.trim().slice(0, 60)) || host, url, texto: texto.slice(0, 7000) });
+        // Subtítulos da página: mostram o que o concorrente bem posicionado cobre (roteiro de seções, não fonte de fatos)
+        const topicos = [...html.matchAll(/<h[23][^>]*>([\s\S]*?)<\/h[23]>/gi)].map((m) => m[1].replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim()).filter((t) => t.length >= 8 && t.length <= 110 && !/leia (também|mais)|compartilh|coment[aá]rio|newsletter|siga|inscreva|publicidade|cookies|menu|pesquis/i.test(t)).slice(0, 14);
+        ok.push({ title, nome: NOMES_FONTE[host] || (site && site.trim().slice(0, 60)) || host, url, texto: texto.slice(0, 7000), topicos });
         console.log(`  📄 fonte lida (${texto.length} chars): ${url}`);
       } catch (e) { console.log(`  ⚠️  fonte inacessível (${e.message}): ${url}`); }
     }
@@ -176,6 +178,7 @@ class ArticleRobot {
 
 PALAVRA-CHAVE PRINCIPAL: "${p.keyword}" (${p.volume} buscas/mês no Brasil). Uma pauta = uma intenção = uma URL.
 ${p.absorve?.length ? `Variações que viram SEÇÕES H2 deste mesmo artigo (não artigos novos): ${p.absorve.join('; ')}.` : ''}
+${(() => { const t = [...new Set(fontesLidas.flatMap((f) => f.topicos || []))].slice(0, 24); return t.length ? `Assuntos que as páginas mais bem posicionadas no Google cobrem (use como roteiro para o artigo ser tão completo quanto elas; escreva uma seção só se o assunto estiver nos TRECHOS DAS FONTES, nunca copie títulos nem frases): ${t.join(' | ')}.` : ''; })()}
 
 REGRAS (padrão Mente Curiosa):
 1. Primeiro parágrafo responde a pergunta direto, em ATÉ 45 palavras, e COMEÇA com a palavra-chave exata (ela deve aparecer nas 6 primeiras palavras do parágrafo).
