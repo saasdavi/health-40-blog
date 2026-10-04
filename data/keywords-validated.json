@@ -28,7 +28,9 @@
         "https://www.tuasaude.com/4-dicas-para-diminuir-o-colesterol-mau/",
         "https://socesp.org.br/sala-de-imprensa/press-release/confira-dez-alimentos-que-ajudam-a-reduzir-o-colesterol/",
         "https://nav.dasa.com.br/blog/colesterol-alto"
-      ]
+      ],
+      "papel": "satelite",
+      "pilar": "o que é colesterol"
     },
     {
       "keyword": "quanto de proteína por dia",
@@ -128,7 +130,9 @@
         "https://www.rededorsaoluiz.com.br/noticias/artigo/triglicerideos-altos-causas-sintomas-e-tratamento",
         "https://altadiagnosticos.com.br/saude/triglicerideos/",
         "https://posenato.med.br/blog/triglicerides-alto/"
-      ]
+      ],
+      "papel": "satelite",
+      "pilar": "triglicerídeos o que é"
     },
     {
       "keyword": "o que é resistência à insulina",
@@ -151,7 +155,9 @@
         "https://labvital.com.br/glossario/resistencia-a-insulina-e-sindrome-metabolica/",
         "https://continentalhospitals.com/pt/blog/insulin-resistance-the-root-cause-of-many-diseases/",
         "https://www.labsl.com.br/glossario/resistencia-a-insulina-como-diagnosticar/"
-      ]
+      ],
+      "papel": "satelite",
+      "pilar": "resistência à insulina"
     },
     {
       "keyword": "o que é perimenopausa",
@@ -174,7 +180,9 @@
         "https://www.einstein.br/n/vida-saudavel/climaterio-perimenopausa-ou-menopausa-afinal-em-que-fase-estou",
         "https://altadiagnosticos.com.br/saude/perimenopausa/",
         "https://saude.abril.com.br/medicina/perimenopausa-o-que-e-quanto-tempo-dura-e-o-que-fazer/"
-      ]
+      ],
+      "papel": "satelite",
+      "pilar": "o que é menopausa"
     },
     {
       "keyword": "como baixar triglicerídeos",
@@ -187,7 +195,9 @@
         "nivel": "DIFÍCIL",
         "topoDoGoogle": "tuasaude, altadiagnosticos, chniteroi, unimed, drconsulta, apollo, drauziovarella, posenato",
         "aiOverview": true
-      }
+      },
+      "papel": "satelite",
+      "pilar": "triglicerídeos o que é"
     },
     {
       "keyword": "sarcopenia",
@@ -210,7 +220,8 @@
           "palavra": "sarcopenia exercícios",
           "volume": 40
         }
-      ]
+      ],
+      "papel": "pilar"
     },
     {
       "keyword": "o que é colesterol",
@@ -287,7 +298,8 @@
           "palavra": "omega 3 colesterol",
           "volume": 260
         }
-      ]
+      ],
+      "papel": "pilar"
     },
     {
       "keyword": "chá para colesterol",
@@ -298,7 +310,9 @@
       "serp": {
         "facil": null,
         "nivel": "NÃO CHECADO"
-      }
+      },
+      "papel": "satelite",
+      "pilar": "o que é colesterol"
     },
     {
       "keyword": "dieta para colesterol alto",
@@ -319,7 +333,9 @@
           "palavra": "dieta de colesterol alto",
           "volume": 70
         }
-      ]
+      ],
+      "papel": "satelite",
+      "pilar": "o que é colesterol"
     },
     {
       "keyword": "resistência à insulina",
@@ -330,7 +346,9 @@
       "serp": {
         "facil": null,
         "nivel": "NÃO CHECADO"
-      }
+      },
+      "papel": "satelite",
+      "pilar": "resistência à insulina"
     },
     {
       "keyword": "triglicerídeos altos",
@@ -341,7 +359,9 @@
       "serp": {
         "facil": null,
         "nivel": "NÃO CHECADO"
-      }
+      },
+      "papel": "satelite",
+      "pilar": "triglicerídeos o que é"
     },
     {
       "keyword": "alimentos para menopausa",
@@ -352,7 +372,9 @@
       "serp": {
         "facil": null,
         "nivel": "NÃO CHECADO"
-      }
+      },
+      "papel": "satelite",
+      "pilar": "o que é menopausa"
     },
     {
       "keyword": "fogacho menopausa",
@@ -363,7 +385,9 @@
       "serp": {
         "facil": null,
         "nivel": "NÃO CHECADO"
-      }
+      },
+      "papel": "satelite",
+      "pilar": "o que é menopausa"
     },
     {
       "keyword": "o que é sarcopenia",
@@ -390,7 +414,9 @@
         "https://nav.dasa.com.br/blog/sarcopenia",
         "https://felipebozigeriatria.com.br/sarcopenia-prevencao/",
         "https://www.einstein.br/n/vida-saudavel/o-que-provoca-a-sarcopenia-entenda-a-condicao-que-afeta-a-forca-muscular"
-      ]
+      ],
+      "papel": "satelite",
+      "pilar": "sarcopenia"
     },
     {
       "keyword": "colesterol alto sintomas",
@@ -417,7 +443,9 @@
         "https://saude.novartis.com.br/colesterolalto/quais-os-sinais-e-sintomas-do-colesterol-alto/",
         "https://clinicanutrobarra.com.br/colesterol-alto/"
       ],
-      "notas": "Colesterol alto costuma não dar sintoma: dizer isso com clareza; sem dieta milagrosa, chá ou suplemento; só exame de sangue confirma; orientar médico para decidir tratamento."
+      "notas": "Colesterol alto costuma não dar sintoma: dizer isso com clareza; sem dieta milagrosa, chá ou suplemento; só exame de sangue confirma; orientar médico para decidir tratamento.",
+      "papel": "satelite",
+      "pilar": "o que é colesterol"
     },
     {
       "keyword": "o que é menopausa",
@@ -472,7 +500,8 @@
           "palavra": "exercícios na menopausa",
           "volume": 30
         }
-      ]
+      ],
+      "papel": "pilar"
     },
     {
       "keyword": "menopausa precoce",
@@ -497,7 +526,9 @@
         "https://fertilitat.com.br/noticias/10-sinais-da-menopausa-precoce/",
         "https://medsenior.com.br/noticia/menopausa-precoce-sinais-de-alerta-e-tratamentos-disponiveis/",
         "https://www.maternidadebrasilia.com.br/blog/menopausa-precoce/"
-      ]
+      ],
+      "papel": "satelite",
+      "pilar": "o que é menopausa"
     },
     {
       "keyword": "colesterol hdl",
@@ -529,7 +560,9 @@
         "https://laboratoriosaogeronimo.com.br/post/colesterol-hdl-para-que-serve-exames-e-como-controlar/266",
         "https://altadiagnosticos.com.br/saude/colesterol-hdl/"
       ],
-      "notas": "Valores de referência variam por laboratório e risco; não prometer \"aumentar HDL\" com alimento ou suplemento; encaminhar ao médico."
+      "notas": "Valores de referência variam por laboratório e risco; não prometer \"aumentar HDL\" com alimento ou suplemento; encaminhar ao médico.",
+      "papel": "satelite",
+      "pilar": "o que é colesterol"
     },
     {
       "keyword": "colesterol ldl",
@@ -558,7 +591,9 @@
         "https://labvital.com.br/glossario/o-que-e-colesterol-ldl/",
         "https://labsl.com.br/blog/colesterol-ldl/"
       ],
-      "notas": "Metas de LDL dependem do risco de cada pessoa: dizer que o médico define; sem indicar estatina ou dose; sem dieta milagrosa."
+      "notas": "Metas de LDL dependem do risco de cada pessoa: dizer que o médico define; sem indicar estatina ou dose; sem dieta milagrosa.",
+      "papel": "satelite",
+      "pilar": "o que é colesterol"
     },
     {
       "keyword": "com quantos anos a mulher entra na menopausa",
@@ -586,7 +621,9 @@
         "https://hilab.com.br/blog/quais-sao-os-sintomas-da-menopausa/",
         "https://revistamarieclaire.globo.com/saude/noticia/2025/10/qual-a-diferenca-entre-menopausa-climaterio-e-perimenopausa.ghtml",
         "https://www.agazeta.com.br/secuida/menopausa-ou-climaterio-saiba-diferenca-e-quando-repor-hormonios-0226"
-      ]
+      ],
+      "papel": "satelite",
+      "pilar": "o que é menopausa"
     },
     {
       "keyword": "climatério",
@@ -600,7 +637,8 @@
         "topoDoGoogle": "Rede D'Or, Einstein, Prefeitura SP, SOGESP, FOUSP",
         "aiOverview": true
       },
-      "fontes": []
+      "fontes": [],
+      "papel": "pilar"
     },
     {
       "keyword": "reposição hormonal",
@@ -614,7 +652,8 @@
         "topoDoGoogle": "Drogaria São Paulo, Einstein, SciELO, YouTube Drauzio; tema de risco clínico",
         "aiOverview": true
       },
-      "fontes": []
+      "fontes": [],
+      "papel": "pilar"
     },
     {
       "keyword": "vitamina d baixa sintomas",
@@ -642,7 +681,9 @@
         "https://www.fleury.com.br/noticias/falta-de-vitamina-d",
         "https://www.einstein.br/n/vida-saudavel/descubra-os-riscos-da-falta-de-vitamina-d-para-o-organismo",
         "https://www.postalsaude.com.br/10-sintomas-da-falta-de-vitamina-d/"
-      ]
+      ],
+      "papel": "satelite",
+      "pilarPlanejado": "vitamina d"
     },
     {
       "keyword": "alimentos que aumentam a testosterona",
@@ -668,7 +709,9 @@
         "https://www.saudeamericas.com.br/post/como-aumentar-testosterona-naturalmente/",
         "https://labsl.com.br/blog/aumentar-testosterona-naturamente-2026/"
       ],
-      "notas": "Não prometer aumento de testosterona por alimento; sem suplemento nem reposição como recomendação; exame e médico para sintomas."
+      "notas": "Não prometer aumento de testosterona por alimento; sem suplemento nem reposição como recomendação; exame e médico para sintomas.",
+      "papel": "satelite",
+      "pilarPlanejado": "testosterona"
     },
     {
       "keyword": "caminhada emagrece",
@@ -699,7 +742,9 @@
         "https://www.oceandrop.com.br/blog/caminhada-emagrece",
         "https://riomarrecife.com.br/novidades/caminhada-emagrece-saiba-se-e-verdade-ou-mito",
         "https://blog.liti.com.br/em-quanto-tempo-a-caminhada-comeca-a-fazer-efeito-na-perda-de-peso/"
-      ]
+      ],
+      "papel": "satelite",
+      "pilarPlanejado": "caminhada"
     },
     {
       "keyword": "idade metabólica",
@@ -740,7 +785,9 @@
         "topoDoGoogle": "saudeamericas, drconsulta, gov.br, Boehringer, Nav Dasa, Tua Saúde; tema de emergência (crise hipertensiva)",
         "aiOverview": true
       },
-      "fontes": []
+      "fontes": [],
+      "papel": "satelite",
+      "pilarPlanejado": "pressão alta"
     },
     {
       "keyword": "como acelerar o metabolismo",
@@ -765,7 +812,9 @@
         "https://telemedicinamorsch.com.br/blog/como-acelerar-o-metabolismo",
         "https://www.cnnbrasil.com.br/saude/saiba-como-impulsionar-seu-metabolismo-em-quatro-passos/",
         "https://www.saolucascopacabana.com.br/blog/dez-alimentos-que-aceleram-o-metabolismo/"
-      ]
+      ],
+      "papel": "satelite",
+      "pilarPlanejado": "metabolismo"
     },
     {
       "keyword": "alimentos anti inflamatórios",
@@ -792,7 +841,8 @@
         "https://www.unimedcampinas.com.br/blog/viver-com-saude/6-alimentos-anti-inflamatorios-pra-voce-consumir",
         "https://dralexandremoulin.com.br/alimentacao-e-dieta-anti-inflamatoria/",
         "https://www.s2medica.com.br/blogs/alimentos-anti-inflamatorios-como-desinflamar-o-corpo-com-a-alimentacao"
-      ]
+      ],
+      "papel": "pilar"
     },
     {
       "keyword": "fogachos",
@@ -819,7 +869,8 @@
         "https://silviobromberg.com.br/fogachos-atingem-cerca-de-75-das-mulheres-climaterio/",
         "https://endocardiorc.com.br/fogachos-e-ondas-de-calor-na-menopausa-o-que-sao-por-que-acontecem-e-como-aliviar/",
         "https://clinicaserpas.com.br/blog/tem-hora-para-os-fogachos-aparecerem"
-      ]
+      ],
+      "papel": "pilar"
     },
     {
       "keyword": "colesterol alterado",
@@ -833,7 +884,9 @@
         "topoDoGoogle": "Nav Dasa, Einstein, svriglobal, Nissei, SOCERJ, endocrino.org.br, Sociedade Brasileira de Diabetes; mesma intenção de 'colesterol alto sintomas'",
         "aiOverview": true
       },
-      "fontes": []
+      "fontes": [],
+      "papel": "satelite",
+      "pilar": "o que é colesterol"
     },
     {
       "keyword": "pré menopausa",
@@ -847,7 +900,9 @@
         "topoDoGoogle": "Instagram, tudorondonia, eutonoclima, zenklub, herborisa, saudedebate; mesma intenção do artigo o-que-e-perimenopausa (canibalizaria)",
         "aiOverview": true
       },
-      "fontes": []
+      "fontes": [],
+      "papel": "satelite",
+      "pilar": "o que é menopausa"
     },
     {
       "keyword": "gordura no fígado",
@@ -877,7 +932,8 @@
         "https://hepatogastro.com.br/como-tratar-gordura-no-figado-e-evitar-complicacoes/",
         "https://cadri.med.br/sintomas-de-gordura-no-figado/",
         "https://posenato.med.br/blog/gordura-no-figado/"
-      ]
+      ],
+      "papel": "pilar"
     },
     {
       "keyword": "hipotireoidismo sintomas",
@@ -947,7 +1003,9 @@
           "palavra": "glicemia normal para idosos",
           "volume": 30
         }
-      ]
+      ],
+      "papel": "satelite",
+      "pilarPlanejado": "glicemia"
     },
     {
       "keyword": "andropausa",
@@ -975,7 +1033,8 @@
         "https://spdm.org.br/blog/andropausa-uma-condicao-de-saude-masculina-em-foco/",
         "https://www.megaimagem.com.br/blog/andropausa/",
         "https://www.tjsc.jus.br/web/servidor/dicas-de-saude/-/asset_publisher/0rjJEBzj2Oes/content/andropausa-entendendo-e-lidando-com-a-saude-masculina"
-      ]
+      ],
+      "papel": "pilar"
     },
     {
       "keyword": "azia",
@@ -1002,7 +1061,8 @@
         "https://www.einstein.br/n/vida-saudavel/azia-e-um-problema-de-saude-comum-que-melhora-com-mudanca-de-habitos",
         "https://www.tuasaude.com/azia/",
         "https://araujo.com.br/blog/azia-e-ma-digestao/"
-      ]
+      ],
+      "papel": "pilar"
     },
     {
       "keyword": "câimbras nas pernas",
@@ -1028,7 +1088,9 @@
         "https://www.tuasaude.com/caimbra-nas-pernas/",
         "https://drauziovarella.uol.com.br/doencas-e-sintomas/caimbra/",
         "https://eurofarma.com.br/artigos/caimbras-o-que-causa-como-tratar"
-      ]
+      ],
+      "papel": "satelite",
+      "pilarPlanejado": "câimbras"
     },
     {
       "keyword": "queda de cabelo causas",
@@ -1063,7 +1125,9 @@
           "palavra": "causas de queda de cabelo feminino",
           "volume": 480
         }
-      ]
+      ],
+      "papel": "satelite",
+      "pilar": "queda de cabelo"
     },
     {
       "keyword": "como controlar a ansiedade",
@@ -1090,7 +1154,9 @@
         "https://www.diagnosticosdobrasil.com.br/artigo/aliviar-os-sintomas-da-ansiedade",
         "https://www.cuf.pt/saude-a-z/ansiedade",
         "https://newsnetwork.mayoclinic.org/pt/2025/04/17/onze-dicas-para-lidar-com-um-transtorno-de-ansiedade/"
-      ]
+      ],
+      "papel": "satelite",
+      "pilarPlanejado": "ansiedade"
     },
     {
       "keyword": "visão embaçada",
@@ -1118,7 +1184,8 @@
         "https://centrodecatarata.com.br/visao-embacada/",
         "https://hospdeolhos.com.br/noticias/por-que-visao-fica-embacada-de-repente",
         "https://blog.amorsaude.com.br/visao-embacada-de-repente/"
-      ]
+      ],
+      "papel": "pilar"
     },
     {
       "keyword": "sintomas de diabetes",
@@ -1147,7 +1214,8 @@
         "https://vitacheckup.com.br/2025/12/sintomas-de-diabetes/",
         "https://www.gndi.com.br/w/blog-da-saude/diabetes-tipo-1-e-2-sintomas-e-cuidados",
         "https://www.tuasaude.com/como-identificar-os-primeiros-sintomas-da-diabetes/"
-      ]
+      ],
+      "papel": "pilar"
     },
     {
       "keyword": "ferro baixo sintomas",
@@ -1221,7 +1289,9 @@
         "topoDoGoogle": "Nav Dasa, GNDI, Einstein, araujo, Alta, Drauzio, Pfizer, CIPES",
         "aiOverview": true
       },
-      "fontes": []
+      "fontes": [],
+      "papel": "satelite",
+      "pilar": "insônia"
     },
     {
       "keyword": "insônia o que fazer",
@@ -1235,7 +1305,9 @@
         "topoDoGoogle": "Sírio-Libanês, Einstein, Unimed, Tua Saúde, GNDI, Pfizer, Drauzio",
         "aiOverview": true
       },
-      "fontes": []
+      "fontes": [],
+      "papel": "satelite",
+      "pilar": "insônia"
     },
     {
       "keyword": "perda de massa muscular",
@@ -1263,7 +1335,9 @@
         "topoDoGoogle": "Unit, Folha Vitória, Notícias ao Minuto, Minha Vida (2014), G1 (2016); mesma intenção de 'colesterol hdl' (canibaliza)",
         "aiOverview": true
       },
-      "fontes": []
+      "fontes": [],
+      "papel": "satelite",
+      "pilar": "o que é colesterol"
     },
     {
       "keyword": "hemoglobina glicada",
@@ -1289,7 +1363,8 @@
         "https://laboratoriocella.com.br/glicemia-e-hemoglobina-glicada-quando-pedir-e-como-entender-seus-resultados/",
         "https://hilab.com.br/blog/hemoglobina-glicada-o-que-e-e-para-que-serve-o-exame/"
       ],
-      "notas": "Não diagnosticar diabetes; valores de referência só como informados nas fontes; orientar a levar o resultado ao médico."
+      "notas": "Não diagnosticar diabetes; valores de referência só como informados nas fontes; orientar a levar o resultado ao médico.",
+      "papel": "pilar"
     },
     {
       "keyword": "ferritina alta",
@@ -1318,7 +1393,9 @@
         "https://posenato.med.br/blog/exames/ferritina/",
         "https://drmarcelbrunetto.com.br/excesso-de-ferro-no-organismo/"
       ],
-      "notas": "Não afirmar câncer; explicar que muitas vezes é inflamação; sem dieta restritiva nem suplemento de ferro."
+      "notas": "Não afirmar câncer; explicar que muitas vezes é inflamação; sem dieta restritiva nem suplemento de ferro.",
+      "papel": "satelite",
+      "pilarPlanejado": "ferritina"
     },
     {
       "keyword": "creatinina alta",
@@ -1345,7 +1422,9 @@
         "https://www.tuasaude.com/creatinina-alta/",
         "https://fleminglaboratorio.com/glossario/creatinina-alta-o-que-significa/"
       ],
-      "notas": "Não prometer 'baixar creatinina' com alimento ou chá; sem suplemento de creatina como recomendação; encaminhar ao nefrologista."
+      "notas": "Não prometer 'baixar creatinina' com alimento ou chá; sem suplemento de creatina como recomendação; encaminhar ao nefrologista.",
+      "papel": "satelite",
+      "pilarPlanejado": "creatinina"
     },
     {
       "keyword": "barriga inchada",
@@ -1371,7 +1450,8 @@
         "https://vencerocancer.org.br/saude/barriga-inchada/",
         "https://nav.dasa.com.br/blog/barriga-inchada"
       ],
-      "notas": "Citar sinais de alerta (dor intensa, febre, perda de peso, sangue nas fezes); sem chás/dietas detox milagrosas."
+      "notas": "Citar sinais de alerta (dor intensa, febre, perda de peso, sangue nas fezes); sem chás/dietas detox milagrosas.",
+      "papel": "pilar"
     },
     {
       "keyword": "inchaço nas pernas",
@@ -1398,7 +1478,8 @@
         "https://baraovascular.com.br/principais-sintomas-vasculares/inchaco-nas-pernas/",
         "https://www.clinicasim.com/blog/angiologia/o-que-causa-inchaco-nas-pernas/"
       ],
-      "notas": "Destacar sinais de alerta (uma perna só e súbito, dor, falta de ar = pronto-socorro por risco de trombose); sem diurético caseiro."
+      "notas": "Destacar sinais de alerta (uma perna só e súbito, dor, falta de ar = pronto-socorro por risco de trombose); sem diurético caseiro.",
+      "papel": "pilar"
     },
     {
       "keyword": "presbiopia",
@@ -1424,7 +1505,8 @@
         "https://www.americasoftalmocenter.com/conteudo/presbiopia/",
         "https://leiriadeandrade.com.br/doencas-oculares/presbiopia/"
       ],
-      "notas": "Sem prometer colírio ou exercício que cure; dizer que é natural a partir dos 40 e que o oftalmologista define o grau."
+      "notas": "Sem prometer colírio ou exercício que cure; dizer que é natural a partir dos 40 e que o oftalmologista define o grau.",
+      "papel": "pilar"
     },
     {
       "keyword": "tsh alto",
@@ -1486,7 +1568,9 @@
           "palavra": "próstata aumentada e grave",
           "volume": 260
         }
-      ]
+      ],
+      "papel": "satelite",
+      "pilar": "próstata"
     },
     {
       "keyword": "dores lombares",
@@ -1512,7 +1596,8 @@
         "https://www.maededeus.com.br/blog/artigo/dor-na-lombar-principais-causas-sinais-de-alerta-quando-procurar-avaliacao",
         "https://www.drricardokirihara.com.br/como-aliviar-dor-na-lombar-saiba-mais"
       ],
-      "notas": "Destacar sinais de alerta (perda de controle de urina/fezes, fraqueza nas pernas, febre, trauma); sem prometer cura por exercício ou aparelho."
+      "notas": "Destacar sinais de alerta (perda de controle de urina/fezes, fraqueza nas pernas, febre, trauma); sem prometer cura por exercício ou aparelho.",
+      "papel": "pilar"
     },
     {
       "keyword": "queda de cabelo",
@@ -1600,7 +1685,8 @@
           "palavra": "queda de cabelo tem cura",
           "volume": 40
         }
-      ]
+      ],
+      "papel": "pilar"
     },
     {
       "keyword": "esquecimento",
@@ -1630,7 +1716,8 @@
         "https://www.saudeamericas.com.br/post/tipos-de-perda-de-memoria/",
         "https://www.tuasaude.com/causas-da-perda-de-memoria/"
       ],
-      "notas": "Não sugerir diagnóstico de Alzheimer/demência; listar o que merece avaliação de neurologista; sem suplemento de memória."
+      "notas": "Não sugerir diagnóstico de Alzheimer/demência; listar o que merece avaliação de neurologista; sem suplemento de memória.",
+      "papel": "pilar"
     },
     {
       "keyword": "insônia",
@@ -1657,7 +1744,8 @@
         "https://cuidadospelavida.com.br/blog/sintomas/insonia",
         "https://arclinica.com.br/insonia/"
       ],
-      "notas": "Sem indicar remédio para dormir nem melatonina; falar de higiene do sono e TCC-I só como as fontes informam; orientar procurar médico se persistir."
+      "notas": "Sem indicar remédio para dormir nem melatonina; falar de higiene do sono e TCC-I só como as fontes informam; orientar procurar médico se persistir.",
+      "papel": "pilar"
     },
     {
       "keyword": "manchas na pele",
@@ -1684,7 +1772,8 @@
         "https://bvsms.saude.gov.br/pintas-e-manchas-na-pele/",
         "https://nav.dasa.com.br/blog/manchas-na-pele"
       ],
-      "notas": "Citar a regra ABCDE e sinais de alerta; sem ácidos, receitas caseiras ou clareadores."
+      "notas": "Citar a regra ABCDE e sinais de alerta; sem ácidos, receitas caseiras ou clareadores.",
+      "papel": "pilar"
     },
     {
       "keyword": "tontura ao levantar",
@@ -1711,7 +1800,9 @@
         "https://altadiagnosticos.com.br/saude/tontura-o-que-pode-ser/",
         "https://www.rededorsaoluiz.com.br/noticias/artigo/tontura-ao-levantar-e-perigoso-saiba-quando-investigar"
       ],
-      "notas": "Sinais de alerta: dor no peito, falta de ar, desmaio, quedas, palpitações; não ensinar a diferenciar AVC; sem sugerir mexer em remédio de pressão."
+      "notas": "Sinais de alerta: dor no peito, falta de ar, desmaio, quedas, palpitações; não ensinar a diferenciar AVC; sem sugerir mexer em remédio de pressão.",
+      "papel": "satelite",
+      "pilarPlanejado": "tontura"
     },
     {
       "keyword": "névoa mental",
@@ -1738,7 +1829,8 @@
         "https://www.nationalgeographicbrasil.com/ciencia/2025/05/o-que-e-exatamente-o-brain-fog-ou-nevoa-mental-veja-o-que-os-cientistas-estao-descobrindo",
         "https://masci.com.br/estresse-causa-nevoa-mental-e-dificuldade-de-memoria/"
       ],
-      "notas": "Não é diagnóstico; sem suplemento ou nootrópico; linkar internamente com 'esquecimento'."
+      "notas": "Não é diagnóstico; sem suplemento ou nootrópico; linkar internamente com 'esquecimento'.",
+      "papel": "pilar"
     },
     {
       "keyword": "suor noturno",
@@ -1794,7 +1886,8 @@
         "https://otoneuro.med.br/labirintite-existe-mesmo-entenda-o-termo-correto/",
         "https://conectamedico.com.br/blog/doencas-e-condicoes/labirintite-causas-sintomas-e-como-tratar-com-seguranca/"
       ],
-      "notas": "Explicar que labirintite verdadeira é rara e o termo é usado para qualquer tontura; sem medicamento; ligar com 'tontura ao levantar'."
+      "notas": "Explicar que labirintite verdadeira é rara e o termo é usado para qualquer tontura; sem medicamento; ligar com 'tontura ao levantar'.",
+      "papel": "pilar"
     },
     {
       "keyword": "cortisol alto",
@@ -1848,7 +1941,8 @@
         "https://baraovascular.com.br/todos-os-tratamentos/o-que-sao-varizes/",
         "https://emfoco.med.br/varizes-e-vasinhos-saiba-a-diferenca-e-busque-ajuda/"
       ],
-      "notas": "Sem preço nem promessa de 'eliminar em 7 dias'; citar meias de compressão só como as fontes; sinais de trombose vão para 'inchaço nas pernas'."
+      "notas": "Sem preço nem promessa de 'eliminar em 7 dias'; citar meias de compressão só como as fontes; sinais de trombose vão para 'inchaço nas pernas'.",
+      "papel": "pilar"
     },
     {
       "keyword": "prisão de ventre",
@@ -1875,7 +1969,8 @@
         "https://gastroen.com.br/prisao-de-ventre-causas-sintomas-e-solucoes/",
         "https://hepatogastro.com.br/nao-sabe-como-evitar-a-prisao-de-ventre-confira-5-dicas/"
       ],
-      "notas": "Sinais de alerta: sangue nas fezes, dor forte, perda de peso; sem laxante nem 'limpeza' de intestino."
+      "notas": "Sinais de alerta: sangue nas fezes, dor forte, perda de peso; sem laxante nem 'limpeza' de intestino.",
+      "papel": "pilar"
     },
     {
       "keyword": "síndrome do intestino irritável",
@@ -1902,7 +1997,9 @@
         "https://spximagem.com.br/sindrome-do-intestino-irritavel/",
         "https://doclist.com.br/saude/sindrome-do-intestino-irritavel"
       ],
-      "notas": "Diagnóstico é do médico (critérios de Roma); dieta low FODMAP só com acompanhamento; sem remédio."
+      "notas": "Diagnóstico é do médico (critérios de Roma); dieta low FODMAP só com acompanhamento; sem remédio.",
+      "papel": "satelite",
+      "pilarPlanejado": "intestino irritável"
     },
     {
       "keyword": "moscas volantes",
@@ -2072,7 +2169,8 @@
         "https://blog.havan.com.br/cafe-da-manha-saudavel/",
         "https://boaforma.abril.com.br/dieta/3-estrategias-simples-para-deixar-o-seu-cafe-da-manha-ainda-mais-saudavel/"
       ],
-      "notas": "Alimentação geral, sem dieta nem promessa de emagrecimento. Quem tem diabetes, intolerância ou outra condição deve ajustar com nutricionista. Sem marcas nem suplementos."
+      "notas": "Alimentação geral, sem dieta nem promessa de emagrecimento. Quem tem diabetes, intolerância ou outra condição deve ajustar com nutricionista. Sem marcas nem suplementos.",
+      "papel": "pilar"
     },
     {
       "keyword": "lanche saudável",
@@ -2101,7 +2199,8 @@
         "https://blog.livup.com.br/lanches-para-levar-para-o-trabalho/",
         "https://receitas.globo.com/dietas/saudavel/como-fazer-lanches-saudaveis-para-substituir-ultraprocessados.ghtml"
       ],
-      "notas": "Ideias práticas de lanche, sem promessa de emagrecimento. Citar quem tem diabetes ou restrição alimentar para ajustar com profissional. Sem marcas."
+      "notas": "Ideias práticas de lanche, sem promessa de emagrecimento. Citar quem tem diabetes ou restrição alimentar para ajustar com profissional. Sem marcas.",
+      "papel": "pilar"
     },
     {
       "keyword": "jantar saudável",
@@ -2130,7 +2229,8 @@
         "https://www.receiteria.com.br/receitas-para-jantar-fitness/",
         "https://ndmais.com.br/gastronomia/receitas/jantar-para-emagrecer-com-receita-facil-e-saudavel/"
       ],
-      "notas": "Sem dieta nem promessa de emagrecer. Em jantar para diabéticos, não indicar quantidades nem substituir orientação de médico/nutricionista. Sem marcas."
+      "notas": "Sem dieta nem promessa de emagrecer. Em jantar para diabéticos, não indicar quantidades nem substituir orientação de médico/nutricionista. Sem marcas.",
+      "papel": "pilar"
     },
     {
       "keyword": "hidroginástica benefícios",
@@ -2161,7 +2261,9 @@
         "https://totalpass.com/br/blog/atividade-fisica/hidroginastica-beneficios/",
         "https://viverbem.unimedbh.com.br/qualidade-de-vida/beneficios-da-hidroginastica/"
       ],
-      "notas": "Recomendar avaliação médica antes de começar, principalmente com doença cardíaca, pressão alta ou problemas articulares. Sem promessa de emagrecimento ou de 'definir' o corpo."
+      "notas": "Recomendar avaliação médica antes de começar, principalmente com doença cardíaca, pressão alta ou problemas articulares. Sem promessa de emagrecimento ou de 'definir' o corpo.",
+      "papel": "satelite",
+      "pilarPlanejado": "hidroginástica"
     },
     {
       "keyword": "longevidade",
@@ -2189,7 +2291,8 @@
         "https://acquafittinstituto.com.br/blog/longevidade/",
         "https://gq.globo.com/bem-estar/saude/noticia/2026/08/4-habitos-especialista-longevidade-adotaria-hoje-para-envelhecer-melhor.ghtml"
       ],
-      "notas": "Sem promessas de viver mais, de 'anti-idade' nem de suplementos ou tratamentos. Hábitos com base em fontes: atividade física, alimentação, sono, vínculos sociais e acompanhamento médico. Diferenciar expectativa de vida de qualidade de vida."
+      "notas": "Sem promessas de viver mais, de 'anti-idade' nem de suplementos ou tratamentos. Hábitos com base em fontes: atividade física, alimentação, sono, vínculos sociais e acompanhamento médico. Diferenciar expectativa de vida de qualidade de vida.",
+      "papel": "pilar"
     },
     {
       "keyword": "cabelos brancos",
@@ -2227,7 +2330,8 @@
           "palavra": "cabelos brancos causas",
           "volume": 320
         }
-      ]
+      ],
+      "papel": "pilar"
     },
     {
       "keyword": "ressecamento da pele",
@@ -2255,7 +2359,8 @@
         "https://claudia.abril.com.br/beleza/como-diminuir-coceira-ressecamento-e-vermelhidao-da-pele-no-inverno/",
         "https://www.draglaucialabinas.com.br/cuidados-com-a-pele-seca"
       ],
-      "notas": "Sem indicar cremes, marcas ou suplementos. Cuidados gerais (banho morno, hidratação, evitar buchas). Citar que pele muito seca persistente pode ligar a hipotireoidismo ou diabetes e merece avaliação médica."
+      "notas": "Sem indicar cremes, marcas ou suplementos. Cuidados gerais (banho morno, hidratação, evitar buchas). Citar que pele muito seca persistente pode ligar a hipotireoidismo ou diabetes e merece avaliação médica.",
+      "papel": "pilar"
     },
     {
       "keyword": "dor nas costas",
@@ -2306,7 +2411,8 @@
           "palavra": "dor nas costas na menopausa",
           "volume": 30
         }
-      ]
+      ],
+      "papel": "pilar"
     }
   ],
   "descartadas": "Mounjaxi/suplemento/termogênico (volume < 400 ou sem medição), '... 40+' de cauda longa sem volume, 'como emagrecer depois dos 40' (260/mês, concorrência HIGH)."

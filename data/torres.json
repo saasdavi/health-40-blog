@@ -1,0 +1,758 @@
+{
+ "colesterol": {
+  "categoria": "coracao-pressao",
+  "pilar": "o que é colesterol",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": [
+   "colesterol hdl",
+   "colesterol ldl",
+   "colesterol alterado",
+   "vldl colesterol",
+   "chá para colesterol",
+   "colesterol alto sintomas",
+   "colesterol não hdl",
+   "colesterol ruim qual é",
+   "como baixar colesterol",
+   "colesterol bom e ruim",
+   "colesterol qual o normal",
+   "dieta para colesterol alto",
+   "dieta para colesterol alto",
+   "colesterol alto tontura",
+   "colesterol total acima de 200",
+   "colesterol alto o que pode causar",
+   "colesterol bom como aumentar",
+   "colesterol alto dor de cabeça"
+  ]
+ },
+ "triglicerídeos": {
+  "categoria": "coracao-pressao",
+  "pilar": "triglicerídeos o que é",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": [
+   "triglicerídeos altos",
+   "triglicerídeos altos sintomas",
+   "como baixar triglicerídeos"
+  ]
+ },
+ "resistência à insulina": {
+  "categoria": "diabetes-exames",
+  "pilar": "resistência à insulina",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": [
+   "o que é resistência à insulina",
+   "resistência à insulina"
+  ]
+ },
+ "menopausa": {
+  "categoria": "mulher-menopausa",
+  "pilar": "o que é menopausa",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": [
+   "o que é perimenopausa",
+   "menopausa precoce",
+   "pré menopausa",
+   "calores da menopausa",
+   "progesterona na menopausa",
+   "alimentos para menopausa",
+   "fogacho menopausa",
+   "sintomas pré menopausa",
+   "com quantos anos a mulher entra na menopausa"
+  ]
+ },
+ "sarcopenia": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "sarcopenia",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": [
+   "o que é sarcopenia",
+   "sarcopenia em idosos"
+  ]
+ },
+ "climatério": {
+  "categoria": "mulher-menopausa",
+  "pilar": "climatério",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": [
+   "sintomas do climatério"
+  ]
+ },
+ "reposição hormonal": {
+  "categoria": "mulher-menopausa",
+  "pilar": "reposição hormonal",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "vitamina d": {
+  "categoria": "diabetes-exames",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "vitamina d",
+   "volume": null
+  },
+  "satelites": [
+   "vitamina d baixa sintomas"
+  ]
+ },
+ "testosterona": {
+  "categoria": "homem-prostata",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "testosterona",
+   "volume": null
+  },
+  "satelites": [
+   "alimentos que aumentam a testosterona"
+  ]
+ },
+ "caminhada": {
+  "categoria": "exercicio",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "caminhada",
+   "volume": null
+  },
+  "satelites": [
+   "caminhada emagrece"
+  ]
+ },
+ "pressão alta": {
+  "categoria": "coracao-pressao",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "pressão alta",
+   "volume": null
+  },
+  "satelites": [
+   "pressão alta o que fazer"
+  ]
+ },
+ "metabolismo": {
+  "categoria": "emagrecimento",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "metabolismo",
+   "volume": null
+  },
+  "satelites": [
+   "como acelerar o metabolismo"
+  ]
+ },
+ "alimentos anti inflamatórios": {
+  "categoria": "alimentacao",
+  "pilar": "alimentos anti inflamatórios",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "fogachos": {
+  "categoria": "mulher-menopausa",
+  "pilar": "fogachos",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "gordura no fígado": {
+  "categoria": "digestao",
+  "pilar": "gordura no fígado",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "glicemia": {
+  "categoria": "diabetes-exames",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "glicemia",
+   "volume": null
+  },
+  "satelites": [
+   "hiperglicemia",
+   "glicemia normal",
+   "glicemia de jejum",
+   "glicemia capilar"
+  ]
+ },
+ "andropausa": {
+  "categoria": "homem-prostata",
+  "pilar": "andropausa",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "azia": {
+  "categoria": "digestao",
+  "pilar": "azia",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "câimbras": {
+  "categoria": "ossos-articulacoes",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "câimbras",
+   "volume": 33100
+  },
+  "satelites": [
+   "câimbras nas pernas"
+  ]
+ },
+ "queda de cabelo": {
+  "categoria": "pele-cabelo",
+  "pilar": "queda de cabelo",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": [
+   "queda de cabelo causas"
+  ]
+ },
+ "ansiedade": {
+  "categoria": "sono-mente",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "ansiedade",
+   "volume": null
+  },
+  "satelites": [
+   "como controlar a ansiedade"
+  ]
+ },
+ "visão embaçada": {
+  "categoria": "visao-audicao-boca",
+  "pilar": "visão embaçada",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "diabetes": {
+  "categoria": "diabetes-exames",
+  "pilar": "sintomas de diabetes",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "insônia": {
+  "categoria": "sono-mente",
+  "pilar": "insônia",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": [
+   "insônia causas",
+   "insônia o que fazer"
+  ]
+ },
+ "hemoglobina glicada": {
+  "categoria": "diabetes-exames",
+  "pilar": "hemoglobina glicada",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": [
+   "tabela hemoglobina glicada"
+  ]
+ },
+ "ferritina": {
+  "categoria": "diabetes-exames",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "ferritina",
+   "volume": null
+  },
+  "satelites": [
+   "ferritina alta"
+  ]
+ },
+ "creatinina": {
+  "categoria": "diabetes-exames",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "creatinina",
+   "volume": null
+  },
+  "satelites": [
+   "creatinina alta"
+  ]
+ },
+ "barriga inchada": {
+  "categoria": "digestao",
+  "pilar": "barriga inchada",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "inchaço nas pernas": {
+  "categoria": "coracao-pressao",
+  "pilar": "inchaço nas pernas",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "presbiopia": {
+  "categoria": "visao-audicao-boca",
+  "pilar": "presbiopia",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "próstata": {
+  "categoria": "homem-prostata",
+  "pilar": "próstata",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": [
+   "próstata aumentada"
+  ]
+ },
+ "dores lombares": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "dores lombares",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "esquecimento": {
+  "categoria": "cerebro-memoria",
+  "pilar": "esquecimento",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "manchas na pele": {
+  "categoria": "pele-cabelo",
+  "pilar": "manchas na pele",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "tontura": {
+  "categoria": "cerebro-memoria",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "tontura",
+   "volume": null
+  },
+  "satelites": [
+   "tontura ao levantar"
+  ]
+ },
+ "névoa mental": {
+  "categoria": "cerebro-memoria",
+  "pilar": "névoa mental",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "labirintite": {
+  "categoria": "visao-audicao-boca",
+  "pilar": "labirintite",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "varizes": {
+  "categoria": "coracao-pressao",
+  "pilar": "varizes",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "prisão de ventre": {
+  "categoria": "digestao",
+  "pilar": "prisão de ventre",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "intestino irritável": {
+  "categoria": "digestao",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "intestino irritável",
+   "volume": null
+  },
+  "satelites": [
+   "síndrome do intestino irritável"
+  ]
+ },
+ "café da manhã saudável": {
+  "categoria": "alimentacao",
+  "pilar": "café da manhã saudável",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "lanche saudável": {
+  "categoria": "alimentacao",
+  "pilar": "lanche saudável",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "jantar saudável": {
+  "categoria": "alimentacao",
+  "pilar": "jantar saudável",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "hidroginástica": {
+  "categoria": "exercicio",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "hidroginástica",
+   "volume": null
+  },
+  "satelites": [
+   "hidroginástica benefícios"
+  ]
+ },
+ "longevidade": {
+  "categoria": "longevidade",
+  "pilar": "longevidade",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "cabelos brancos": {
+  "categoria": "pele-cabelo",
+  "pilar": "cabelos brancos",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "ressecamento da pele": {
+  "categoria": "pele-cabelo",
+  "pilar": "ressecamento da pele",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "dor nas costas": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "dor nas costas",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "alimentos ricos em fibras": {
+  "categoria": "alimentacao",
+  "pilar": "alimentos ricos em fibras",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "alimentos ricos em ferro": {
+  "categoria": "alimentacao",
+  "pilar": "alimentos ricos em ferro",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "alongamento": {
+  "categoria": "exercicio",
+  "pilar": "alongamento",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "exame de próstata": {
+  "categoria": "homem-prostata",
+  "pilar": "exame de próstata",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "artrite reumatoide": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "artrite reumatoide sintomas",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "ciática": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "ciática",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "falta de energia": {
+  "categoria": "sono-mente",
+  "pilar": "falta de energia",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "alimentos ricos em proteína": {
+  "categoria": "alimentacao",
+  "pilar": "alimentos ricos em proteína",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "alimentos ricos em magnésio": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "alimentos ricos em magnésio",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "rugas": {
+  "categoria": "pele-cabelo",
+  "pilar": "rugas",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "quedas em idosos": {
+  "categoria": "longevidade",
+  "pilar": "quedas em idosos",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "calvície": {
+  "categoria": "homem-prostata",
+  "pilar": "calvície",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "pele": {
+  "categoria": "pele-cabelo",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "pele",
+   "volume": 246000
+  },
+  "satelites": [
+   "vermelhidão na pele",
+   "coceira na pele"
+  ]
+ },
+ "sono": {
+  "categoria": "sono-mente",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "sono",
+   "volume": null
+  },
+  "satelites": [
+   "paralisia do sono",
+   "sono rem",
+   "higiene do sono",
+   "privação de sono"
+  ]
+ },
+ "meditação": {
+  "categoria": "sono-mente",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "meditação",
+   "volume": null
+  },
+  "satelites": [
+   "meditação para dormir"
+  ]
+ },
+ "fosfatase alcalina": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "fosfatase alcalina",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "bursite": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "bursite",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "exercícios para ombro": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "exercícios para ombro",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "gota": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "gota",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "tendinite": {
+  "categoria": "ossos-articulacoes",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "tendinite",
+   "volume": null
+  },
+  "satelites": [
+   "tendinite no ombro"
+  ]
+ },
+ "falta de vitamina d": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "falta de vitamina d",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "alimentos ricos em cálcio": {
+  "categoria": "alimentacao",
+  "pilar": "alimentos ricos em cálcio",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "medicamentos para osteoporose": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "medicamentos para osteoporose",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "ligamento do joelho": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "ligamento do joelho",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "articulações": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "articulações",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "cartilagem": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "cartilagem",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "ossos": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "ossos",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "pth": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "pth",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "anti ccp": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "anti ccp",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "dores nos ossos": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "dores nos ossos",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "alongamento para coluna": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "alongamento para coluna",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "exercícios para joelho": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "exercícios para joelho",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "dor articular": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "dor articular",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "exercícios para quadril": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "exercícios para quadril",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "joelho": {
+  "categoria": "ossos-articulacoes",
+  "pilar": null,
+  "pilarAusente": true,
+  "sugestaoPilar": {
+   "palavra": "joelho",
+   "volume": null
+  },
+  "satelites": [
+   "como fortalecer o joelho"
+  ]
+ },
+ "deficiência de magnésio": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "deficiência de magnésio",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "alongamento para quadril": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "alongamento para quadril",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "alimentos ricos em vitamina k": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "alimentos ricos em vitamina k",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ },
+ "dedos inchados": {
+  "categoria": "ossos-articulacoes",
+  "pilar": "dedos inchados",
+  "pilarAusente": false,
+  "sugestaoPilar": null,
+  "satelites": []
+ }
+}

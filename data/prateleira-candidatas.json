@@ -7,91 +7,121 @@
    "keyword": "colesterol não hdl",
    "volume": 27100,
    "cluster": "colesterol",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "satelite",
+   "pilar": "o que é colesterol"
   },
   {
    "keyword": "colesterol ruim qual é",
    "volume": 22200,
    "cluster": "colesterol",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "satelite",
+   "pilar": "o que é colesterol"
   },
   {
    "keyword": "vldl colesterol",
    "volume": 12100,
    "cluster": "colesterol",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "satelite",
+   "pilar": "o que é colesterol"
   },
   {
    "keyword": "colesterol bom e ruim",
    "volume": 6600,
    "cluster": "colesterol",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "satelite",
+   "pilar": "o que é colesterol"
   },
   {
    "keyword": "colesterol qual o normal",
    "volume": 4400,
    "cluster": "colesterol",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "satelite",
+   "pilar": "o que é colesterol"
   },
   {
    "keyword": "dieta para colesterol alto",
    "volume": 3600,
    "cluster": "colesterol",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "satelite",
+   "pilar": "o que é colesterol"
   },
   {
    "keyword": "colesterol total acima de 200",
    "volume": 3600,
    "cluster": "colesterol",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "satelite",
+   "pilar": "o que é colesterol"
   },
   {
    "keyword": "colesterol alto o que pode causar",
    "volume": 3600,
    "cluster": "colesterol",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "satelite",
+   "pilar": "o que é colesterol"
   },
   {
    "keyword": "colesterol alto tontura",
    "volume": 2400,
    "cluster": "colesterol",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "satelite",
+   "pilar": "o que é colesterol"
   },
   {
    "keyword": "colesterol alto dor de cabeça",
    "volume": 1600,
    "cluster": "colesterol",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "satelite",
+   "pilar": "o que é colesterol"
   },
   {
    "keyword": "sintomas pré menopausa",
    "volume": 3600,
    "cluster": "menopausa",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "satelite",
+   "pilar": "o que é menopausa"
   },
   {
    "keyword": "calores da menopausa",
    "volume": 2900,
    "cluster": "menopausa",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "satelite",
+   "pilar": "o que é menopausa"
   },
   {
    "keyword": "progesterona na menopausa",
    "volume": 1300,
    "cluster": "menopausa",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "satelite",
+   "pilar": "o que é menopausa"
   },
   {
    "keyword": "sintomas do climatério",
    "volume": 4400,
    "cluster": "menopausa",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "satelite",
+   "pilar": "climatério"
   },
   {
    "keyword": "sarcopenia em idosos",
    "volume": 2400,
    "cluster": "musculo",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "satelite",
+   "pilar": "sarcopenia"
   },
   {
    "keyword": "exames de rotina",
@@ -131,13 +161,15 @@
    "keyword": "alimentos ricos em fibras",
    "volume": 49500,
    "cluster": "alimentacao",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "pilar"
   },
   {
    "keyword": "alimentos ricos em ferro",
    "volume": 40500,
    "cluster": "alimentacao",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "pilar"
   },
   {
    "keyword": "ácido fólico para que serve",
@@ -155,19 +187,22 @@
      "palavra": "alongamento antes de dormir",
      "volume": 390
     }
-   ]
+   ],
+   "papel": "pilar"
   },
   {
    "keyword": "exame de próstata",
    "volume": 18100,
    "cluster": "prostata",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "pilar"
   },
   {
    "keyword": "artrite reumatoide sintomas",
    "volume": 14800,
    "cluster": "articulacoes",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "pilar"
   },
   {
    "keyword": "gama gt alto",
@@ -179,7 +214,8 @@
    "keyword": "ciática",
    "volume": 12100,
    "cluster": "coluna",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "pilar"
   },
   {
    "keyword": "tgo e tgp altos",
@@ -191,19 +227,22 @@
    "keyword": "falta de energia",
    "volume": 8100,
    "cluster": "sintomas",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "pilar"
   },
   {
    "keyword": "alimentos ricos em proteína",
    "volume": 18100,
    "cluster": "alimentacao",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "pilar"
   },
   {
    "keyword": "alimentos ricos em magnésio",
    "volume": 12100,
    "cluster": "alimentacao",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "pilar"
   },
   {
    "keyword": "triglicerídeos o que é",
@@ -215,13 +254,15 @@
      "palavra": "alimentos que baixam triglicerídeos",
      "volume": 110
     }
-   ]
+   ],
+   "papel": "pilar"
   },
   {
    "keyword": "rugas",
    "volume": 8100,
    "cluster": "pele-cabelo",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "pilar"
   },
   {
    "keyword": "hipertensão arterial",
@@ -252,7 +293,8 @@
      "palavra": "como evitar quedas em idosos",
      "volume": 40
     }
-   ]
+   ],
+   "papel": "pilar"
   },
   {
    "keyword": "glicemia de jejum",
@@ -280,7 +322,9 @@
      "palavra": "glicemia de jejum 100",
      "volume": 40
     }
-   ]
+   ],
+   "papel": "satelite",
+   "pilarPlanejado": "glicemia"
   },
   {
    "keyword": "curva glicêmica",
@@ -304,7 +348,8 @@
      "palavra": "resistência à insulina exame",
      "volume": 110
     }
-   ]
+   ],
+   "papel": "pilar"
   },
   {
    "keyword": "hiperglicemia",
@@ -316,13 +361,17 @@
      "palavra": "hiperglicemia valores",
      "volume": 590
     }
-   ]
+   ],
+   "papel": "satelite",
+   "pilarPlanejado": "glicemia"
   },
   {
    "keyword": "glicemia capilar",
    "volume": 9900,
    "cluster": "diabetes",
-   "status": "sem-serp; evitar marca de glicosímetro"
+   "status": "sem-serp; evitar marca de glicosímetro",
+   "papel": "satelite",
+   "pilarPlanejado": "glicemia"
   },
   {
    "keyword": "síndrome metabólica",
@@ -340,7 +389,9 @@
    "keyword": "tabela hemoglobina glicada",
    "volume": 2900,
    "cluster": "diabetes",
-   "status": "absorve em 'hemoglobina glicada' (já na fila), com hba1c (14800) e hemoglobina glicosilada (135000)"
+   "status": "absorve em 'hemoglobina glicada' (já na fila), com hba1c (14800) e hemoglobina glicosilada (135000)",
+   "papel": "satelite",
+   "pilar": "hemoglobina glicada"
   },
   {
    "keyword": "alopecia",
@@ -396,7 +447,8 @@
      "palavra": "como prevenir calvície",
      "volume": 90
     }
-   ]
+   ],
+   "papel": "pilar"
   },
   {
    "keyword": "rosácea",
@@ -424,7 +476,9 @@
    "keyword": "vermelhidão na pele",
    "volume": 4400,
    "cluster": "pele-cabelo",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "satelite",
+   "pilarPlanejado": "pele"
   },
   {
    "keyword": "coceira na pele",
@@ -436,7 +490,9 @@
      "palavra": "diabetes e coceira na pele",
      "volume": 30
     }
-   ]
+   ],
+   "papel": "satelite",
+   "pilarPlanejado": "pele"
   },
   {
    "keyword": "psa",
@@ -520,7 +576,8 @@
      "palavra": "próstata grau 1",
      "volume": 30
     }
-   ]
+   ],
+   "papel": "pilar"
   },
   {
    "keyword": "vontade de urinar toda hora",
@@ -544,7 +601,9 @@
    "keyword": "paralisia do sono",
    "volume": 74000,
    "cluster": "sono",
-   "status": "sem-serp"
+   "status": "sem-serp",
+   "papel": "satelite",
+   "pilarPlanejado": "sono"
   },
   {
    "keyword": "bruxismo",
@@ -584,7 +643,9 @@
    "keyword": "sono rem",
    "volume": 18100,
    "cluster": "sono",
-   "status": "sem-serp; cluster: ciclo do sono (8100), fases do sono (4400), sono profundo (2400)"
+   "status": "sem-serp; cluster: ciclo do sono (8100), fases do sono (4400), sono profundo (2400)",
+   "papel": "satelite",
+   "pilarPlanejado": "sono"
   },
   {
    "keyword": "dor de cabeça ao acordar",
@@ -596,7 +657,9 @@
    "keyword": "higiene do sono",
    "volume": 12100,
    "cluster": "sono",
-   "status": "sem-serp; absorve: hábitos para dormir melhor, regras para dormir melhor"
+   "status": "sem-serp; absorve: hábitos para dormir melhor, regras para dormir melhor",
+   "papel": "satelite",
+   "pilarPlanejado": "sono"
   },
   {
    "keyword": "sonambulismo",
@@ -608,7 +671,9 @@
    "keyword": "meditação para dormir",
    "volume": 9900,
    "cluster": "sono",
-   "status": "sem-serp; absorve: relaxamento para dormir (2400), respiração para dormir"
+   "status": "sem-serp; absorve: relaxamento para dormir (2400), respiração para dormir",
+   "papel": "satelite",
+   "pilarPlanejado": "meditação"
   },
   {
    "keyword": "pesadelos",
@@ -638,7 +703,9 @@
      "palavra": "efeitos da privação de sono",
      "volume": 170
     }
-   ]
+   ],
+   "papel": "satelite",
+   "pilarPlanejado": "sono"
   },
   {
    "keyword": "ruminação mental",
@@ -650,55 +717,65 @@
    "keyword": "fosfatase alcalina",
    "volume": 74000,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 74000; absorve: "
+   "status": "sem-serp; importada do Planejador; cluster estimado 74000; absorve: ",
+   "papel": "pilar"
   },
   {
    "keyword": "bursite",
    "volume": 74000,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 74000; absorve: "
+   "status": "sem-serp; importada do Planejador; cluster estimado 74000; absorve: ",
+   "papel": "pilar"
   },
   {
    "keyword": "exercícios para ombro",
    "volume": 40500,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 40500; absorve: "
+   "status": "sem-serp; importada do Planejador; cluster estimado 40500; absorve: ",
+   "papel": "pilar"
   },
   {
    "keyword": "gota",
    "volume": 40500,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 46675; absorve: gota no pé (6600), sintomas de gota (2900)"
+   "status": "sem-serp; importada do Planejador; cluster estimado 46675; absorve: gota no pé (6600), sintomas de gota (2900)",
+   "papel": "pilar"
   },
   {
    "keyword": "tendinite no ombro",
    "volume": 22200,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 23435; absorve: tendinite no punho (1900)"
+   "status": "sem-serp; importada do Planejador; cluster estimado 23435; absorve: tendinite no punho (1900)",
+   "papel": "satelite",
+   "pilarPlanejado": "tendinite"
   },
   {
    "keyword": "falta de vitamina d",
    "volume": 18100,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 30970; absorve: alimentos ricos em vitamina d (8100), deficiência de vitamina d (5400), excesso de vitamina d (4400), exame de vitamina d (1900)"
+   "status": "sem-serp; importada do Planejador; cluster estimado 30970; absorve: alimentos ricos em vitamina d (8100), deficiência de vitamina d (5400), excesso de vitamina d (4400), exame de vitamina d (1900)",
+   "papel": "pilar"
   },
   {
    "keyword": "alimentos ricos em cálcio",
    "volume": 9900,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 10856; absorve: excesso de cálcio (720), deficiência de cálcio (320), exame de cálcio (320), cálcio baixo no sangue (110)"
+   "status": "sem-serp; importada do Planejador; cluster estimado 10856; absorve: excesso de cálcio (720), deficiência de cálcio (320), exame de cálcio (320), cálcio baixo no sangue (110)",
+   "papel": "pilar"
   },
   {
    "keyword": "medicamentos para osteoporose",
    "volume": 1600,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 2133; absorve: exercícios para osteoporose (320), sinais de osteoporose (170), tratamento da osteoporose (170), musculação e osteoporose (70), café e osteoporose (40), como descobrir osteoporose (20)"
+   "status": "sem-serp; importada do Planejador; cluster estimado 2133; absorve: exercícios para osteoporose (320), sinais de osteoporose (170), tratamento da osteoporose (170), musculação e osteoporose (70), café e osteoporose (40), como descobrir osteoporose (20)",
+   "papel": "pilar"
   },
   {
    "keyword": "ligamento do joelho",
    "volume": 22200,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 22200; absorve: "
+   "status": "sem-serp; importada do Planejador; cluster estimado 22200; absorve: ",
+   "papel": "pilar"
   },
   {
    "keyword": "articulações",
@@ -714,13 +791,15 @@
      "palavra": "alimentos para articulações",
      "volume": 110
     }
-   ]
+   ],
+   "papel": "pilar"
   },
   {
    "keyword": "cartilagem",
    "volume": 9900,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 12760; absorve: cartilagem do joelho (4400)"
+   "status": "sem-serp; importada do Planejador; cluster estimado 12760; absorve: cartilagem do joelho (4400)",
+   "papel": "pilar"
   },
   {
    "keyword": "ossos",
@@ -768,79 +847,93 @@
      "palavra": "como recuperar massa óssea",
      "volume": 40
     }
-   ]
+   ],
+   "papel": "pilar"
   },
   {
    "keyword": "pth",
    "volume": 8100,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 8100; absorve: "
+   "status": "sem-serp; importada do Planejador; cluster estimado 8100; absorve: ",
+   "papel": "pilar"
   },
   {
    "keyword": "anti ccp",
    "volume": 8100,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 8100; absorve: "
+   "status": "sem-serp; importada do Planejador; cluster estimado 8100; absorve: ",
+   "papel": "pilar"
   },
   {
    "keyword": "dores nos ossos",
    "volume": 6600,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 6600; absorve: "
+   "status": "sem-serp; importada do Planejador; cluster estimado 6600; absorve: ",
+   "papel": "pilar"
   },
   {
    "keyword": "alongamento para coluna",
    "volume": 6600,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 6600; absorve: "
+   "status": "sem-serp; importada do Planejador; cluster estimado 6600; absorve: ",
+   "papel": "pilar"
   },
   {
    "keyword": "exercícios para joelho",
    "volume": 4400,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 4400; absorve: "
+   "status": "sem-serp; importada do Planejador; cluster estimado 4400; absorve: ",
+   "papel": "pilar"
   },
   {
    "keyword": "dor articular",
    "volume": 3600,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 3600; absorve: "
+   "status": "sem-serp; importada do Planejador; cluster estimado 3600; absorve: ",
+   "papel": "pilar"
   },
   {
    "keyword": "exercícios para quadril",
    "volume": 2900,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 2900; absorve: "
+   "status": "sem-serp; importada do Planejador; cluster estimado 2900; absorve: ",
+   "papel": "pilar"
   },
   {
    "keyword": "como fortalecer o joelho",
    "volume": 2900,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 2978; absorve: corrida prejudica o joelho (110), bicicleta e joelho (10)"
+   "status": "sem-serp; importada do Planejador; cluster estimado 2978; absorve: corrida prejudica o joelho (110), bicicleta e joelho (10)",
+   "papel": "satelite",
+   "pilarPlanejado": "joelho"
   },
   {
    "keyword": "deficiência de magnésio",
    "volume": 1600,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 1600; absorve: "
+   "status": "sem-serp; importada do Planejador; cluster estimado 1600; absorve: ",
+   "papel": "pilar"
   },
   {
    "keyword": "alongamento para quadril",
    "volume": 1300,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 1300; absorve: "
+   "status": "sem-serp; importada do Planejador; cluster estimado 1300; absorve: ",
+   "papel": "pilar"
   },
   {
    "keyword": "alimentos ricos em vitamina k",
    "volume": 1300,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 1300; absorve: "
+   "status": "sem-serp; importada do Planejador; cluster estimado 1300; absorve: ",
+   "papel": "pilar"
   },
   {
    "keyword": "dedos inchados",
    "volume": 1000,
    "cluster": "ossos-articulacoes",
-   "status": "sem-serp; importada do Planejador; cluster estimado 1000; absorve: "
+   "status": "sem-serp; importada do Planejador; cluster estimado 1000; absorve: ",
+   "papel": "pilar"
   }
  ],
  "semDemanda": "Frases longas do kit com volume < 200/mês no Google BR (não viram artigo próprio; entram como H2 de artigo-mãe): como perder barriga depois dos 40 (110), musculação depois dos 40 (30), treino de força para iniciantes (20), hipertrofia depois dos 40 (10), alimentos para reduzir gordura visceral (10), efeito platô emagrecimento (210)",

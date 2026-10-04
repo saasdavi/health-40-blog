@@ -89,8 +89,30 @@ class ArticleRobot {
       if (k.substitui) return !!porSlug.get(k.substitui) && porSlug.get(k.substitui).validador !== 'APROVADO';
       return !usadas.has(k.keyword.toLowerCase()) && !usadas.has(slugify(k.keyword));
     });
-    livres.sort((a, b) => b.volume - a.volume);
+    // Torres: pilar antes dos satélites; alterna a categoria do último artigo publicado; depois por volume
+    const publicados = this.db.articles.filter(a => a.status === 'published');
+    const ultima = publicados[publicados.length - 1]?.cluster;
+    const saiu = (kw) => publicados.some(a => (a.primaryKeyword || '').toLowerCase() === String(kw || '').toLowerCase());
+    const espera = (k) => (k.papel === 'satelite' && k.pilar && !saiu(k.pilar) ? 1 : 0);
+    livres.sort((a, b) => espera(a) - espera(b) || (a.cluster === ultima ? 1 : 0) - (b.cluster === ultima ? 1 : 0) || b.volume - a.volume);
     return livres.slice(0, BATCH_SIZE);
+  }
+
+  artigoPorKeyword(kw) {
+    return this.db.articles.find(a => a.status === 'published' && a.validador === 'APROVADO' && (a.primaryKeyword || '').toLowerCase() === String(kw || '').toLowerCase());
+  }
+
+  // Torre de conteúdo: satélite linka o pilar; pilar linka os satélites já publicados
+  linksTorre(p) {
+    if (p.pilar) {
+      const pil = this.artigoPorKeyword(p.pilar);
+      if (pil) return `LINK OBRIGATÓRIO para o guia principal desta torre de conteúdo: <a href="/${pil.slug}/">…</a> ("${pil.title}"), com texto âncora natural que contenha "${p.pilar}". Esse link conta entre os 2 links internos.`;
+    }
+    if (p.papel === 'pilar') {
+      const sats = this.kw.filter(k => k.pilar === p.keyword).map(k => this.artigoPorKeyword(k.keyword)).filter(Boolean).slice(0, 8);
+      if (sats.length) return `Este artigo é o guia principal de uma torre. Linke (com âncora natural) os artigos de apoio já publicados que fizerem sentido: ${sats.map(x => `/${x.slug}/ — ${x.title}`).join(' | ')}.`;
+    }
+    return '';
   }
 
   linksInternos() {
@@ -182,6 +204,7 @@ class ArticleRobot {
 
 PALAVRA-CHAVE PRINCIPAL: "${p.keyword}" (${p.volume} buscas/mês no Brasil). Uma pauta = uma intenção = uma URL.
 ${p.absorve?.length ? `Variações que viram SEÇÕES H2 deste mesmo artigo (não artigos novos): ${p.absorve.join('; ')}.` : ''}
+${this.linksTorre(p)}
 ${p.secundarias?.length ? `Palavras secundárias com busca comprovada (cubra a demanda delas de forma natural em títulos de seção ou no texto, só quando as fontes sustentarem; sem forçar nem repetir): ${p.secundarias.map((s) => `${s.palavra} (${s.volume})`).join('; ')}.` : ''}
 ${(() => {
       const seo = fontesLidas.map((f) => f.seo).filter(Boolean);
@@ -251,6 +274,8 @@ FOTO2_SECAO: <número do <h2>, diferente do da foto 1>
       _substitui: p.substitui || null,
       primaryKeyword: p.keyword,
       cluster: p.cluster,
+      pilar: p.pilar || null,
+      papel: p.papel || null,
       description: d.description,
       excerpt: d.description,
       content: body,
@@ -297,6 +322,8 @@ FOTO2_SECAO: <número do <h2>, diferente do da foto 1>
     const ruins = internos.filter(l => !validos.has(l));
     if (ruins.length) bloqueios.push(`LINK: links internos inexistentes ${ruins.join(', ')}`);
     if (internos.length < 2 && validos.size >= 2) perde(8, `${internos.length} links internos (mín 2)`);
+    const pil = a.pilar && this.artigoPorKeyword(a.pilar);
+    if (pil && !internos.includes(`/${pil.slug}/`)) perde(6, `sem link para o guia principal "${a.pilar}"`);
     if (a.sources.length < 2) perde(6, 'menos de 2 fontes');
     const longos = paragrafos.filter(p => palavras(p) > 50).length;
     if (longos) perde(Math.min(8, longos * 2), `${longos} parágrafos > 50 palavras`);

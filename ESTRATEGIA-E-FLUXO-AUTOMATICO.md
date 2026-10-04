@@ -148,3 +148,12 @@ Regra: toda palavra com volume medido tem um destino. As **fortes viram pautas p
 - Palavras com volume >= 1.000 que são variação de uma pauta existente **não** viram secundárias: ficam em `data/pesquisa/pautas-proprias-em-potencial.json`, com a pauta mais próxima. Avaliar caso a caso (pode ser outra intenção, com artigo próprio, ou sinônimo, que deve ser absorvido).
 - Palavras sem pauta correspondente continuam no banco: são os temas das próximas pautas. Use `node scripts/banco.js`.
 - Rode `distribuir-secundarias.js --aplicar` sempre que o banco ou a lista de candidatas crescer.
+
+## 13. Torres de conteúdo: pilar + satélites
+
+Modelo: cada subcategoria é uma **torre**. A **pauta-pilar** é o termo amplo da subcategoria (ex.: "o que é colesterol", "hemoglobina glicada"). Os **satélites** são sub-temas e frases de cauda longa com demanda comprovada (ex.: "colesterol alto sintomas", "colesterol hdl", "alimentos que aumentam o colesterol") que apoiam e fortalecem o pilar com links internos.
+
+- `node scripts/torres.js` (simulação) / `--aplicar`: lê a fila e as candidatas, define o pilar de cada subcategoria (a pauta cujo núcleo é o próprio tema) e grava `papel` (`pilar`/`satelite`) e `pilar` em cada pauta, mais o mapa em `data/torres.json`. Torres sem pauta-pilar aparecem como "SEM PILAR" com o tema e o volume sugeridos.
+- `node scripts/torres.js --satelites`: gera frases de cauda longa para os pilares que ainda têm menos de 4 satélites (`data/pesquisa/satelites-para-medir.txt`). Medir o volume (HYPD, Keywords Everywhere ou CSV), `ingerir-hypd.js`, `combinar-palavras.js importar` e `torres.js --aplicar` fecham o ciclo.
+- Robô: escolhe o **pilar antes dos satélites** e alterna a categoria do último artigo publicado; satélite linka obrigatoriamente o pilar (já publicado) e o pilar linka os satélites publicados; a auditoria tira pontos se faltar o link para o pilar. `pilar` e `papel` ficam gravados no artigo.
+- Próximo passo (site): bloco "Veja também / guia completo" no layout do artigo (`src/pages/[slug].astro`), usando `pilar`/`papel`, para a torre também aparecer na navegação. Ainda não feito.
