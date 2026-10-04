@@ -10,7 +10,8 @@ import { lerPagina, metricasHtml } from './lib/seo-pagina.js';
 
 const args = process.argv.slice(2);
 const opt = (n) => { const i = args.indexOf(n); return i >= 0 ? args[i + 1] : null; };
-const SO = opt('--so'), MAX = Number(opt('--max')) || 6, MOCK = opt('--mock'), PEND = Number(opt('--pendentes')) || 0;
+const SO = opt('--so'), MAX = Number(opt('--max')) || 1, // padrão: só o concorrente principal (1º orgânico); --max 3 para ver os 3 primeiros
+   MOCK = opt('--mock'), PEND = Number(opt('--pendentes')) || 0;
 const lerJson = (p, fb) => { try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch { return fb; } };
 const norm = (t) => t.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
 const mediana = (v) => { const a = v.filter((x) => typeof x === 'number').sort((x, y) => x - y); if (!a.length) return null; const m = Math.floor(a.length / 2); return a.length % 2 ? a[m] : Math.round((a[m - 1] + a[m]) / 2); };

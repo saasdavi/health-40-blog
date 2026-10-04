@@ -147,6 +147,17 @@ class ArticleRobot {
     return partes.join('\n');
   }
 
+  // O concorrente PRINCIPAL = a página orgânica em 1º lugar no Google para a frase da pauta (decisão do usuário: estudar e melhorar só ele).
+  // Usa o briefing (top 3 orgânico, sem anúncio); sem briefing, a primeira fonte lida que não seja rede social/wiki/Q&A.
+  concorrentePrincipal(p, fontesLidas) {
+    const b = this.readJson(`data/briefings/${slugify(p.keyword)}.json`, null);
+    const urlTopo = b?.google?.top3Organicos?.[0];
+    const achada = urlTopo && fontesLidas.find((f) => f.url === urlTopo);
+    if (achada) return achada;
+    const FRACOS = /(instagram|facebook|youtube|tiktok|pinterest|reddit|quora|wikipedia|doctoralia\.com\.br\/perguntas|ident\.com\.br\/ia)/;
+    return fontesLidas.find((f) => !FRACOS.test(f.url)) || fontesLidas[0] || null;
+  }
+
   artigoPorKeyword(kw) {
     return this.db.articles.find(a => a.status === 'published' && a.validador === 'APROVADO' && (a.primaryKeyword || '').toLowerCase() === String(kw || '').toLowerCase());
   }
@@ -257,14 +268,15 @@ ${this.linksTorre(p)}
 ${this.briefing(p)}
 ${p.secundarias?.length ? `Palavras secundárias com busca comprovada (cubra a demanda delas de forma natural em títulos de seção ou no texto, só quando as fontes sustentarem; sem forçar nem repetir): ${p.secundarias.map((s) => `${s.palavra} (${s.volume})`).join('; ')}.` : ''}
 ${(() => {
-      const seo = fontesLidas.map((f) => f.seo).filter(Boolean);
+      const prin = this.concorrentePrincipal(p, fontesLidas);
+      const seo = prin?.seo ? [prin.seo] : [];
       if (!seo.length) return '';
       const pal = seo.map((x) => x.palavras).sort((a, b) => a - b);
       const mediana = pal[Math.floor(pal.length / 2)];
       const alvo = Math.min(1800, Math.max(1300, Math.round(mediana * 1.1 / 50) * 50));
-      return `REFERÊNCIA DE SEO (páginas do topo do Google; o seu artigo precisa ser melhor, sem copiar): ${seo.map((x) => `"${x.titulo.slice(0, 70)}" (~${x.palavras} palavras, ${x.imagens} imagens, ${x.imagensComAlt} com alt${x.faq ? ', tem FAQ' : ''})`).join(' | ')}. Meta: cobrir tudo que elas cobrem e ser mais claro e mais seguro; mire cerca de ${alvo} palavras (nunca passe de 1.800). TITLE e DESCRIPTION devem ser diferentes dos títulos e descrições delas, com a palavra-chave e um benefício concreto para o leitor. Cada ALT descreve a cena e, quando natural, usa uma variação da palavra-chave (sem repetir o alt de outra imagem).`;
+      return `REFERÊNCIA DE SEO (SÓ o concorrente principal, a página em 1º lugar no Google; estude, melhore e escreva o seu próprio, sem copiar): ${seo.map((x) => `"${x.titulo.slice(0, 70)}" (~${x.palavras} palavras, ${x.imagens} imagens, ${x.imagensComAlt} com alt${x.faq ? ', tem FAQ' : ''})`).join(' | ')}. Meta: cobrir tudo que elas cobrem e ser mais claro e mais seguro; mire cerca de ${alvo} palavras (nunca passe de 1.800). TITLE e DESCRIPTION devem ser diferentes dos títulos e descrições delas, com a palavra-chave e um benefício concreto para o leitor. Cada ALT descreve a cena e, quando natural, usa uma variação da palavra-chave (sem repetir o alt de outra imagem).`;
     })()}
-${(() => { const t = [...new Set(fontesLidas.flatMap((f) => f.topicos || []))].slice(0, 24); return t.length ? `Assuntos que as páginas mais bem posicionadas no Google cobrem (use como roteiro para o artigo ser tão completo quanto elas; escreva uma seção só se o assunto estiver nos TRECHOS DAS FONTES, nunca copie títulos nem frases): ${t.join(' | ')}.` : ''; })()}
+${(() => { const t = [...new Set(this.concorrentePrincipal(p, fontesLidas)?.topicos || [])].slice(0, 20); return t.length ? `Assuntos que o concorrente principal (1º do Google) cobre (use como ponto de partida para o artigo ser tão completo quanto elas; escreva uma seção só se o assunto estiver nos TRECHOS DAS FONTES, nunca copie títulos nem frases): ${t.join(' | ')}.` : ''; })()}
 
 ORIGINALIDADE (exigência do dono do blog: conteúdo AUTÊNTICO e EXCLUSIVO, não modelado em concorrente):
 - As páginas do topo e as fontes mostram O QUE o leitor espera encontrar. Elas NÃO são modelo de texto: não siga a ordem das seções delas, não reaproveite frases nem a mesma estrutura de lista, não faça paráfrase linha a linha.

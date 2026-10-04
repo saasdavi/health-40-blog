@@ -28,6 +28,7 @@ for (const k of fila) {
     apoio: (k.secundarias || []).map((x) => ({ palavra: x.palavra, volume: x.volume })),
     perguntasDoGoogle: [...new Set([...(s.perguntas || []), ...(k.absorve || [])])].slice(0, 10),
     buscasRelacionadas: (s.relacionadas || []).slice(0, 8),
+    concorrentePrincipal: topo[0] || null, // 1º orgânico do Google (sem anúncio): o único concorrente que estudamos e melhoramos
     google: { checadoEm: s.data || null, top3Organicos: topo, autoridadesTop3: s.autoridadesTop3 || [], autoridadesTop5: s.autoridadesTop5 || [], respostaDaIA: !!(s.aiOverview ?? k.serp?.aiOverview) },
     metaEscrita: c && c.concorrentesLidos ? { medianaPalavras: c.medianaTopo.palavras, medianaH2: c.medianaTopo.h2, medianaImagens: c.medianaTopo.imagens, faqNoTopo: c.faqNoTopo, secoesQueOTopoCobre: c.secoesComuns || [] } : null,
     pontes: (pontes[k.keyword] || []).map((p) => ({ para: p.para, ancoras: p.ancoras })),
