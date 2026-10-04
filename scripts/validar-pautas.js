@@ -129,7 +129,7 @@ async function checarFonte(p, url) {
     const alvoTermos = termos(p.keyword);
     const base = semAcento(texto);
     // radical: "lombares" deve casar com "lombar"
-    const achou = alvoTermos.filter((w) => base.includes(w.length > 6 ? w.slice(0, w.length - 2) : w)).length;
+    const achou = alvoTermos.filter((w) => base.includes(w.length >= 5 ? w.slice(0, w.length - 2) : w)).length;
     const taxa = alvoTermos.length ? achou / alvoTermos.length : 1;
     if (taxa < MIN_ACERTO) return { ok: false, motivo: `não fala do assunto (${achou}/${alvoTermos.length} termos)` };
     return { ok: true, caracteres: texto.length };
