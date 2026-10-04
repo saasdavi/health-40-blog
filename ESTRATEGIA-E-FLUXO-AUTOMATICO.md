@@ -157,3 +157,11 @@ Modelo: cada subcategoria é uma **torre**. A **pauta-pilar** é o termo amplo d
 - `node scripts/torres.js --satelites`: gera frases de cauda longa para os pilares que ainda têm menos de 4 satélites (`data/pesquisa/satelites-para-medir.txt`). Medir o volume (HYPD, Keywords Everywhere ou CSV), `ingerir-hypd.js`, `combinar-palavras.js importar` e `torres.js --aplicar` fecham o ciclo.
 - Robô: escolhe o **pilar antes dos satélites** e alterna a categoria do último artigo publicado; satélite linka obrigatoriamente o pilar (já publicado) e o pilar linka os satélites publicados; a auditoria tira pontos se faltar o link para o pilar. `pilar` e `papel` ficam gravados no artigo.
 - Próximo passo (site): bloco "Veja também / guia completo" no layout do artigo (`src/pages/[slug].astro`), usando `pilar`/`papel`, para a torre também aparecer na navegação. Ainda não feito.
+
+## 14. Peneira em massa (milhares de frases → só ouro)
+
+- `node scripts/gerar-massa.js --etapa 1`: formas simples de cada tema (≈8.900 frases com 173 temas). Blocos prontos de 1.000 frases em `data/pesquisa/lotes/etapa1-lote-NN.txt` (um arquivo por colagem no Planejador ou no Keywords Everywhere) e todos juntos em `etapa1-todas.txt`.
+- Medir o volume (workflow **Pesquisa completa** com `gerar_massa=1`, ou colando os lotes à mão). `scripts/volume-ke.js` retoma de onde parou e não paga duas vezes pela mesma frase.
+- `node scripts/gerar-massa.js --etapa 2`: **só para os temas que a etapa 1 provou ter demanda** (volume >= 1.000 no banco), combina situação × intenção (≈27 mil frases com os 66 temas atuais). Peneirar em duas etapas evita gastar crédito com temas sem demanda.
+- Esperado: a maioria das frases tem volume zero. O ouro é o que sobra com volume >= 1.000 (principais) e as caudas menores que viram secundárias das torres.
+- O workflow guarda tudo no banco (`ingerir-hypd.js`), agrupa em pautas, valida o Google, promove à fila e atualiza torres e secundárias.

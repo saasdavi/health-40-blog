@@ -31,22 +31,44 @@ async function lote(kws) {
   return j.data || [];
 }
 
+const dorme = (ms) => new Promise((r) => setTimeout(r, ms));
+
+async function loteComRetentativa(kws) {
+  for (let t = 1; ; t++) {
+    try { return await lote(kws); }
+    catch (e) {
+      const recuperavel = /HTTP (429|5\d\d)/.test(e.message);
+      if (!recuperavel || t >= 4) throw e;
+      console.log(`  ↻ ${e.message}; nova tentativa em ${t * 3}s`);
+      await dorme(t * 3000);
+    }
+  }
+}
+
 async function main() {
   if (!MOCK && !KEY) { console.error('Defina KEYWORDS_EVERYWHERE_API_KEY (secret do repositório).'); process.exit(1); }
-  console.log(`${frases.length} frases únicas em ${Math.ceil(frases.length / LOTE)} lote(s).`);
-  const linhas = ['Keyword\tAvg. monthly searches\tCompetition'];
-  let comVolume = 0;
-  for (let i = 0; i < frases.length; i += LOTE) {
-    const dados = await lote(frases.slice(i, i + LOTE));
+  // retoma de onde parou: frases já medidas na saída não são consultadas de novo (não gasta crédito duas vezes)
+  const medidas = new Set();
+  if (fs.existsSync(SAIDA)) for (const l of fs.readFileSync(SAIDA, 'utf8').split(/\r?\n/).slice(1)) { const k = l.split('\t')[0]; if (k) medidas.add(k); }
+  const pendentes = frases.filter((f) => !medidas.has(f));
+  console.log(`${frases.length} frases únicas | já medidas: ${medidas.size} | a medir agora: ${pendentes.length} em ${Math.ceil(pendentes.length / LOTE)} lote(s).`);
+  fs.mkdirSync('data/pesquisa', { recursive: true });
+  if (!fs.existsSync(SAIDA)) fs.writeFileSync(SAIDA, 'Keyword\tAvg. monthly searches\tCompetition\n');
+  let comVolume = 0, feitas = 0;
+  for (let i = 0; i < pendentes.length; i += LOTE) {
+    const dados = await loteComRetentativa(pendentes.slice(i, i + LOTE));
+    const linhas = [];
     for (const d of dados) {
       const vol = Number(d.vol) || 0;
       if (vol > 0) comVolume++;
       const c = Number(d.competition);
       linhas.push(`${d.keyword}\t${vol}\t${c >= 0.67 ? 'HIGH' : c >= 0.34 ? 'MEDIUM' : 'LOW'}`);
     }
+    fs.appendFileSync(SAIDA, linhas.join('\n') + '\n');
+    feitas += dados.length;
+    if (!MOCK && (i / LOTE) % 20 === 19) console.log(`  ${feitas}/${pendentes.length} medidas (${comVolume} com volume)`);
+    if (!MOCK) await dorme(250);
   }
-  fs.mkdirSync('data/pesquisa', { recursive: true });
-  fs.writeFileSync(SAIDA, linhas.join('\n') + '\n');
-  console.log(`Volumes gravados em ${SAIDA}: ${comVolume} frases com volume de ${frases.length}.`);
+  console.log(`Volumes em ${SAIDA}: ${comVolume} frases com volume entre ${feitas} medidas agora.`);
 }
-main().catch((e) => { console.error('Erro:', e.message); process.exit(1); });
+main().catch((e) => { console.error('Erro:', e.message, '(o que já foi medido ficou salvo; rode de novo para continuar)'); process.exit(1); });

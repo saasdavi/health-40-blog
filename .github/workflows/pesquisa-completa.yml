@@ -15,6 +15,10 @@ on:
         description: 'Temas centrais das frases, separados por vírgula (ex.: melasma,caspa,estrias)'
         required: false
         default: ''
+      gerar_massa:
+        description: 'Gerar frases automaticamente antes de medir: 1 = etapa 1 (≈8.900 frases), 2 = etapa 2 (só temas com demanda). Vazio = usa data/pesquisa/entrada.txt'
+        required: false
+        default: ''
       limite_serp:
         description: 'Quantas candidatas validar no Google'
         required: false
@@ -31,10 +35,15 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: 🧪 Gerar frases em massa (opcional)
+        if: ${{ inputs.gerar_massa != '' }}
+        run: node scripts/gerar-massa.js --etapa "${{ inputs.gerar_massa }}" --saida data/pesquisa/entrada.txt
       - name: 📊 Medir volume das frases
         env:
           KEYWORDS_EVERYWHERE_API_KEY: ${{ secrets.KEYWORDS_EVERYWHERE_API_KEY }}
         run: node scripts/volume-ke.js data/pesquisa/entrada.txt data/pesquisa/volumes.tsv
+      - name: 🗄️ Guardar no banco de palavras
+        run: node scripts/ingerir-hypd.js data/pesquisa/volumes.tsv --fonte keywords-everywhere
       - name: 🧩 Agrupar em pautas candidatas
         env:
           CATEGORIA: ${{ inputs.categoria }}
@@ -49,6 +58,10 @@ jobs:
         env:
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
         run: node scripts/validar-serp.js --limite "${{ inputs.limite_serp }}" --promover
+      - name: 🏗️ Torres e palavras secundárias
+        run: |
+          node scripts/torres.js --aplicar
+          node scripts/distribuir-secundarias.js --aplicar
       - name: ✅ Conferir regras da fila
         run: node scripts/validar-pautas.js
         continue-on-error: true
