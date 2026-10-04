@@ -557,7 +557,11 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
         if (!(await this.imagem(art))) { this.stats.failed++; continue; }
         const agora = new Date().toISOString();
         art.status = ESTOQUE ? 'draft' : 'published';
-        if (ESTOQUE) { art.estoque = true; art.estocadoEm = agora; }
+        if (ESTOQUE) {
+          art.estoque = true; art.estocadoEm = agora;
+          // ficha de validação: por que esta pauta foi aprovada e o que o topo do Google mostra (copiada do briefing e da pauta)
+          art.validacao = { palavraChave: p.keyword, volume: p.volume, cluster: p.cluster, apoio: (p.secundarias || []).map((x) => x.palavra), perguntasDoGoogle: p.absorve || [], serp: p.serp || null, fontesDaPauta: p.fontes || [], notas: p.notas || '', briefing: this.readJson(`data/briefings/${slugify(p.keyword)}.json`, null), validadoEm: agora };
+        }
         const idx = p.substitui ? this.db.articles.findIndex(x => x.slug === p.substitui) : -1;
         if (idx >= 0) {
           const antigo = this.db.articles[idx];

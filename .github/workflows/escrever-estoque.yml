@@ -64,6 +64,10 @@ jobs:
       - name: 🏗️ Build do site (rascunhos não aparecem; falha aqui se algo quebrar)
         run: npm run build
 
+      - name: 📚 Banco de conteúdo (índice do que está pronto, publicado e por escrever)
+        continue-on-error: true
+        run: node scripts/banco-conteudo.js
+
       - name: 📤 Commit & Push
         run: |
           git config user.name "Health 40+ Bot"

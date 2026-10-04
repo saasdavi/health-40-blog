@@ -1,0 +1,163 @@
+{
+ "resumo": {
+  "publicados": 8,
+  "prontosParaUsar": 0,
+  "pautasValidadasSemTexto": 63,
+  "planejadasAValidar": 886,
+  "vagas": 146,
+  "espacosDoPlano": 1095
+ },
+ "artigos": [
+  {
+   "slug": "colesterol-depois-dos-40",
+   "titulo": "Como Baixar Colesterol: Guia Prático 40+",
+   "palavraChave": "como baixar colesterol",
+   "cluster": "colesterol",
+   "volume": 14800,
+   "status": "publicado",
+   "palavras": 1415,
+   "h2": 12,
+   "imagens": 3,
+   "fontes": 3,
+   "auditoria": 100,
+   "publicadoEm": "2026-10-03T14:10:33.978Z",
+   "escritoEm": "2026-10-03T04:22:02.906Z",
+   "previstoPara": null,
+   "pontesSugeridas": [
+    "o que é colesterol",
+    "colesterol hdl",
+    "colesterol ldl",
+    "colesterol alterado"
+   ]
+  },
+  {
+   "slug": "proteina-mulheres-40",
+   "titulo": "Quanto de proteína por dia: guia para mulheres 40+",
+   "palavraChave": "quanto de proteína por dia",
+   "cluster": "musculo-e-forca",
+   "volume": 5400,
+   "status": "publicado",
+   "palavras": 1188,
+   "h2": 12,
+   "imagens": 3,
+   "fontes": 2,
+   "auditoria": 83,
+   "publicadoEm": "2026-10-03T16:16:01.341Z",
+   "escritoEm": "2026-10-03T04:30:47.851Z",
+   "previstoPara": null,
+   "pontesSugeridas": []
+  },
+  {
+   "slug": "meditacao-ansiedade-40",
+   "titulo": "Como Meditar: Guia Prático para Mulheres 40+",
+   "palavraChave": "como meditar",
+   "cluster": "saude-mental",
+   "volume": 4400,
+   "status": "publicado",
+   "palavras": 1640,
+   "h2": 14,
+   "imagens": 3,
+   "fontes": 3,
+   "auditoria": 89,
+   "publicadoEm": "2026-10-03T23:23:57.097Z",
+   "escritoEm": "2026-10-03T04:30:47.855Z",
+   "previstoPara": null,
+   "pontesSugeridas": []
+  },
+  {
+   "slug": "triglicerideos-altos-sintomas",
+   "titulo": "Triglicerídeos altos sintomas: sinais e riscos",
+   "palavraChave": "triglicerídeos altos sintomas",
+   "cluster": "colesterol",
+   "volume": 14800,
+   "status": "publicado",
+   "palavras": 1602,
+   "h2": 14,
+   "imagens": 1,
+   "fontes": 4,
+   "auditoria": 96,
+   "publicadoEm": "2026-10-03T22:52:29.310Z",
+   "escritoEm": "2026-10-03T22:52:13.852Z",
+   "previstoPara": null,
+   "pontesSugeridas": [
+    "triglicerídeos altos",
+    "como baixar triglicerídeos"
+   ]
+  },
+  {
+   "slug": "o-que-e-gordura-visceral",
+   "titulo": "O que é gordura visceral e por que ela preocupa",
+   "palavraChave": "o que é gordura visceral",
+   "cluster": "emagrecimento",
+   "volume": 8100,
+   "status": "publicado",
+   "palavras": 1994,
+   "h2": 13,
+   "imagens": 3,
+   "fontes": 3,
+   "auditoria": 98,
+   "publicadoEm": "2026-10-03T23:04:54.208Z",
+   "escritoEm": "2026-10-03T23:04:38.797Z",
+   "previstoPara": null,
+   "pontesSugeridas": []
+  },
+  {
+   "slug": "o-que-e-perimenopausa",
+   "titulo": "O que é perimenopausa: tudo sobre essa transição",
+   "palavraChave": "o que é perimenopausa",
+   "cluster": "menopausa",
+   "volume": 8100,
+   "status": "publicado",
+   "palavras": 1320,
+   "h2": 10,
+   "imagens": 3,
+   "fontes": 2,
+   "auditoria": 87,
+   "publicadoEm": "2026-10-03T23:21:39.284Z",
+   "escritoEm": "2026-10-03T23:21:35.327Z",
+   "previstoPara": null,
+   "pontesSugeridas": [
+    "com quantos anos a mulher entra na menopausa",
+    "o que é menopausa",
+    "menopausa precoce",
+    "pré menopausa"
+   ]
+  },
+  {
+   "slug": "o-que-e-resistencia-a-insulina",
+   "titulo": "O que é Resistência à Insulina: Guia 40+",
+   "palavraChave": "o que é resistência à insulina",
+   "cluster": "emagrecimento",
+   "volume": 6600,
+   "status": "publicado",
+   "palavras": 1183,
+   "h2": 10,
+   "imagens": 3,
+   "fontes": 2,
+   "auditoria": 93,
+   "publicadoEm": "2026-10-03T23:31:41.337Z",
+   "escritoEm": "2026-10-03T23:31:39.130Z",
+   "previstoPara": null,
+   "pontesSugeridas": [
+    "resistência à insulina"
+   ]
+  },
+  {
+   "slug": "hemoglobina-glicada",
+   "titulo": "Hemoglobina Glicada: Valores e O Que Significa",
+   "palavraChave": "hemoglobina glicada",
+   "cluster": "exames",
+   "volume": 135000,
+   "status": "publicado",
+   "palavras": 1303,
+   "h2": 13,
+   "imagens": 3,
+   "fontes": 9,
+   "auditoria": 85,
+   "publicadoEm": "2026-10-04T11:51:40.508Z",
+   "escritoEm": "2026-10-04T11:51:37.331Z",
+   "previstoPara": null,
+   "pontesSugeridas": []
+  }
+ ]
+}
