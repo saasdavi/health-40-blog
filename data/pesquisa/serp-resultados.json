@@ -319,5 +319,30 @@
       "paralisia do sono tratamento"
     ],
     "topoUrls": []
+  },
+  "alopecia": {
+    "data": "2026-10-04",
+    "fonte": "HYPD serp_results",
+    "aiOverview": true,
+    "veredito": "medio",
+    "nivel": "MÉDIO (termo amplo)",
+    "autoridadesTop5": [],
+    "fracosTop10": 5,
+    "topoDoGoogle": "paulooldani.com.br, exame.com, riberasalud.com, dermatologistariopreto.com, dracarolberger.com.br, conic-semesp.org.br (PDF), stanleyshair.com",
+    "motivo": "Top 5 sem hospital/autoridade: blogs de médicos e mídia. Termo amplo (areata, androgenética, eflúvio): cobrir tipos; evitar \"curar\" e remédio.",
+    "perguntas": [
+      "O que leva a pessoa a ter alopecia?",
+      "O que é bom para curar alopecia?",
+      "Quem tem alopecia o cabelo volta?",
+      "A alopecia é grave?"
+    ],
+    "relacionadas": [],
+    "topoUrls": [
+      "https://www.paulooldani.com.br/novidade/1742/o-que--alopecia-e-quais-so-os-tratamentos",
+      "https://exame.com/ciencia/alopecia-conheca-os-tipos-sintomas-e-tratamentos-da-perda-de-cabelo/",
+      "https://riberasalud.com/pt/ribera-estetica/blog/como-saber-si-tengo-alopecia/",
+      "https://www.dermatologistariopreto.com/alopecia-areata-entenda-o-que-e-seus-sintomas-e-como-lidar-com-a-condicao",
+      "https://dracarolberger.com.br/alopecia-conheca-as-causas-e-tratamentos-da-doenca-que-atinge-jada-smith-2/"
+    ]
   }
 }
