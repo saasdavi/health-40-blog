@@ -339,10 +339,46 @@
    "volume": 4400,
    "cluster": "pele-cabelo",
    "status": "sem-serp"
+  },
+  {
+   "keyword": "psa",
+   "volume": 27100,
+   "cluster": "prostata",
+   "status": "sem-serp; cluster: psa total e livre (22200), exame psa (14800), psa livre (6600), psa normal (1600), psa alto (1300); absorve 'exame de próstata' se SERP indicar mesma intenção; cuidado: não interpretar resultado individual"
+  },
+  {
+   "keyword": "prostatite",
+   "volume": 22200,
+   "cluster": "prostata",
+   "status": "sem-serp; absorve: prostatite sintomas (6600), tratamento (2400); sem indicar antibiótico"
+  },
+  {
+   "keyword": "próstata",
+   "volume": 74000,
+   "cluster": "prostata",
+   "status": "sem-serp; termo amplo: absorve saúde da próstata, cuidados com a próstata; não canibalizar 'próstata aumentada' (já na fila)"
+  },
+  {
+   "keyword": "vontade de urinar toda hora",
+   "volume": 6600,
+   "cluster": "urinario",
+   "status": "sem-serp; liga a próstata aumentada e noctúria (já na fila)"
+  },
+  {
+   "keyword": "retenção urinária",
+   "volume": 3600,
+   "cluster": "urinario",
+   "status": "sem-serp; urgência: só informativo, sinal de alerta"
+  },
+  {
+   "keyword": "urofluxometria",
+   "volume": 12100,
+   "cluster": "prostata",
+   "status": "sem-serp; exame específico"
   }
  ],
  "semDemanda": "Frases longas do kit com volume < 200/mês no Google BR (não viram artigo próprio; entram como H2 de artigo-mãe): como perder barriga depois dos 40 (110), musculação depois dos 40 (30), treino de força para iniciantes (20), hipertrofia depois dos 40 (10), alimentos para reduzir gordura visceral (10), efeito platô emagrecimento (210)",
- "foraDoEscopo": "Transacionais do kit (comprar creatina, assinar plano de treino, ebook, teste de longevidade): o robô não escreve sobre marcas/produtos | Rodada 5 (HYPD, 559 frases): sexo (1M), aposentadoria (246k), casamento (90,5k), amizades (49,5k), autonomia (40,5k), recomeçar (18,1k), relacionamento (27,1k) têm intenção ambígua, sem relação com saúde; protetor solar (246k) e colágeno na pele (5,4k) são produto/suplemento; combinações com 'depois dos 40/50' em relacionamento e sexualidade ficam em 10–110 buscas (sexo na menopausa 480, sexo dicas 720). | Diabetes (rodada 6): glicosímetro (22,2 mil) e freestyle libre (18,1 mil) são produto/marca; hipoglicemia (201 mil) é tema de urgência (só como H2 de alerta). Caudas longas de diabetes e exames ficam abaixo de 200 buscas (ex.: glicemia normal por idade 140, glicemia 126 em jejum 170). | Pele e cabelo (rodada 7, 80 de ~270 frases lidas): fora por serem produto/ingrediente/serviço (competição HIGH no Google Ads): proteção solar (246 mil), ácido hialurônico, niacinamida, retinol, ácidos, shampoos, óleos, máscaras, cronograma capilar (90,5 mil), vitaminas para cabelo (60,5 mil), biotina, suplementos, tricologista (40,5 mil, busca de serviço). Regra prática: competição HIGH no Google Ads indica intenção de compra.",
+ "foraDoEscopo": "Transacionais do kit (comprar creatina, assinar plano de treino, ebook, teste de longevidade): o robô não escreve sobre marcas/produtos | Rodada 5 (HYPD, 559 frases): sexo (1M), aposentadoria (246k), casamento (90,5k), amizades (49,5k), autonomia (40,5k), recomeçar (18,1k), relacionamento (27,1k) têm intenção ambígua, sem relação com saúde; protetor solar (246k) e colágeno na pele (5,4k) são produto/suplemento; combinações com 'depois dos 40/50' em relacionamento e sexualidade ficam em 10–110 buscas (sexo na menopausa 480, sexo dicas 720). | Diabetes (rodada 6): glicosímetro (22,2 mil) e freestyle libre (18,1 mil) são produto/marca; hipoglicemia (201 mil) é tema de urgência (só como H2 de alerta). Caudas longas de diabetes e exames ficam abaixo de 200 buscas (ex.: glicemia normal por idade 140, glicemia 126 em jejum 170). | Pele e cabelo (rodada 7, 80 de ~270 frases lidas): fora por serem produto/ingrediente/serviço (competição HIGH no Google Ads): proteção solar (246 mil), ácido hialurônico, niacinamida, retinol, ácidos, shampoos, óleos, máscaras, cronograma capilar (90,5 mil), vitaminas para cabelo (60,5 mil), biotina, suplementos, tricologista (40,5 mil, busca de serviço). Regra prática: competição HIGH no Google Ads indica intenção de compra. | Próstata (rodada 8, 80 de ~150 frases): medicamentos (tansulosina 90,5 mil, finasterida 90,5 mil, dutasterida 110 mil) e suplementos (saw palmetto 49,5 mil, licopeno 12,1 mil) ficam de fora; 'urina escura' (12,1 mil) é sintoma genérico. Frases longas com idade ou valor de PSA ficam abaixo de 1,6 mil.",
  "descartadasSerp": [
   {
    "keyword": "ácido úrico alto",
