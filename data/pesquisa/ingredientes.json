@@ -1,10 +1,22 @@
 {
-  "temas": [
-    "alimentação saudável", "café da manhã saudável", "jantar saudável", "lanche saudável",
-    "emagrecer", "metabolismo", "caminhada", "musculação", "alongamento", "hidroginástica", "pilates", "yoga",
-    "sono", "menopausa", "colesterol", "pressão alta", "diabetes", "vitaminas", "alimentos ricos em ferro",
-    "queda de cabelo", "pele", "memória", "ansiedade", "dor nas costas", "relacionamento", "libido"
-  ],
+  "categorias": {
+    "alimentacao": ["alimentação saudável", "café da manhã saudável", "jantar saudável", "lanche saudável", "alimentos anti inflamatórios", "alimentos ricos em fibras", "alimentos ricos em proteína", "alimentos ricos em ferro", "alimentos ricos em cálcio", "água", "café", "ovo"],
+    "emagrecimento": ["emagrecer", "metabolismo", "perder barriga", "gordura abdominal", "jejum intermitente", "déficit calórico", "obesidade", "peso ideal"],
+    "exercicio": ["caminhada", "musculação", "alongamento", "hidroginástica", "pilates", "yoga", "corrida", "bicicleta", "natação", "treino em casa", "exercícios de equilíbrio", "sedentarismo"],
+    "mulher-menopausa": ["menopausa", "climatério", "fogachos", "reposição hormonal", "ressecamento vaginal", "incontinência urinária", "mamografia", "exame preventivo", "osteoporose", "endometriose", "mioma", "tpm"],
+    "homem-prostata": ["próstata", "testosterona", "andropausa", "disfunção erétil", "exame de próstata", "calvície", "barriga masculina"],
+    "coracao-pressao": ["pressão alta", "colesterol", "triglicerídeos", "coração", "arritmia", "palpitação", "varizes", "inchaço nas pernas", "circulação"],
+    "diabetes-exames": ["diabetes", "glicemia", "hemoglobina glicada", "resistência à insulina", "exame de sangue", "check up", "vitamina d", "vitamina b12", "ferritina", "tireoide", "creatinina", "ácido úrico"],
+    "sono-mente": ["sono", "insônia", "ansiedade", "estresse", "depressão", "burnout", "cansaço", "falta de energia", "solidão", "meditação"],
+    "cerebro-memoria": ["memória", "esquecimento", "névoa mental", "concentração", "alzheimer", "demência", "estimular o cérebro", "tontura"],
+    "ossos-articulacoes": ["dor nas costas", "dores lombares", "artrose", "artrite", "dor no joelho", "dor no ombro", "fascite plantar", "sarcopenia", "câimbras", "ciática"],
+    "pele-cabelo": ["queda de cabelo", "cabelos brancos", "pele", "rugas", "manchas na pele", "ressecamento da pele", "protetor solar", "colágeno na pele"],
+    "visao-audicao-boca": ["presbiopia", "catarata", "visão embaçada", "olho seco", "perda auditiva", "zumbido", "labirintite", "saúde bucal", "gengivite", "dentes"],
+    "digestao": ["azia", "refluxo", "gastrite", "prisão de ventre", "intestino irritável", "gordura no fígado", "barriga inchada", "probióticos"],
+    "relacionamento-sexualidade": ["relacionamento", "libido", "sexo", "casamento", "recomeçar", "amizades", "aposentadoria"],
+    "longevidade": ["envelhecimento saudável", "longevidade", "idade biológica", "prevenir doenças", "autonomia", "quedas em idosos"]
+  },
   "publicos": ["para mulheres", "para homens", "para idosos", "depois dos 40", "depois dos 50", "na menopausa", "para iniciantes", "em casa"],
+  "publicosPrincipais": ["para mulheres", "para homens", "depois dos 40", "depois dos 50"],
   "intencoes": ["como", "o que é", "benefícios", "para que serve", "o que comer", "mito ou verdade", "quanto tempo", "dicas", "causas", "sintomas"]
 }

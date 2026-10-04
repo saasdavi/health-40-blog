@@ -26,19 +26,23 @@ const assinatura = (f) => norm(f).split(' ').filter((w) => !STOP.has(w)).map(rad
 function gerar() {
   const ing = JSON.parse(fs.readFileSync(path.join(DIR, 'ingredientes.json'), 'utf8'));
   const max = flag('--max', 1000);
+  const soCat = process.argv.includes('--categoria') ? process.argv[process.argv.indexOf('--categoria') + 1] : null;
+  const principais = ing.publicosPrincipais || ing.publicos;
   const frases = new Map();
-  const add = (frase, tema, publico = '', intencao = '') => {
+  const add = (frase, categoria, tema) => {
     const k = norm(frase);
     if (COMERCIAL.test(k) || k.length > 80 || frases.has(k)) return;
-    frases.set(k, { frase: frase.replace(/\s+/g, ' ').trim(), tema, publico, intencao });
+    frases.set(k, { frase: frase.replace(/\s+/g, ' ').trim(), categoria, tema });
   };
-  for (const tema of ing.temas) {
-    add(tema, tema);
-    for (const p of ing.publicos) add(`${tema} ${p}`, tema, p);
-    for (const i of ing.intencoes) {
-      add(`${i} ${tema}`, tema, '', i);
-      add(`${tema} ${i}`, tema, '', i);
-      for (const p of ing.publicos) add(`${i} ${tema} ${p}`, tema, p, i);
+  for (const [categoria, temas] of Object.entries(ing.categorias)) {
+    if (soCat && categoria !== soCat) continue;
+    for (const tema of temas) {
+      add(tema, categoria, tema);
+      for (const p of ing.publicos) add(`${tema} ${p}`, categoria, tema);
+      for (const i of ing.intencoes) {
+        add(`${i} ${tema}`, categoria, tema);
+        for (const p of principais) add(`${i} ${tema} ${p}`, categoria, tema);
+      }
     }
   }
   const lista = [...frases.values()];
@@ -47,6 +51,14 @@ function gerar() {
   for (let i = 0, n = 1; i < lista.length; i += max, n++) {
     fs.writeFileSync(path.join(DIR, `combinacoes-${n}.txt`), lista.slice(i, i + max).map((x) => x.frase).join('\n') + '\n');
   }
+  // um arquivo por categoria: cola-se uma categoria por vez no Planejador
+  fs.mkdirSync(path.join(DIR, 'por-categoria'), { recursive: true });
+  for (const cat of new Set(lista.map((x) => x.categoria))) {
+    fs.writeFileSync(path.join(DIR, 'por-categoria', `${cat}.txt`), lista.filter((x) => x.categoria === cat).map((x) => x.frase).join('\n') + '\n');
+  }
+  const porCat = {};
+  for (const x of lista) porCat[x.categoria] = (porCat[x.categoria] || 0) + 1;
+  console.log(porCat);
   console.log(`${lista.length} frases geradas em ${Math.ceil(lista.length / max)} lote(s): ${DIR}/combinacoes-N.txt`);
 }
 
@@ -86,7 +98,7 @@ function analisar() {
   for (const r of medidas) {
     const m = porFrase.get(norm(r.keyword));
     if (!m || !(r.volume > 0)) continue;
-    if (!clusters.has(m.tema)) clusters.set(m.tema, { tema: m.tema, itens: [] });
+    if (!clusters.has(m.tema)) clusters.set(m.tema, { tema: m.tema, categoria: m.categoria, itens: [] });
     clusters.get(m.tema).itens.push({ frase: m.frase, volume: r.volume, assinatura: assinatura(m.frase) });
   }
   const out = [];
@@ -99,12 +111,12 @@ function analisar() {
     const soma = itens.reduce((s, x) => s + x.volume, 0);
     // as buscas se sobrepõem (o mesmo leitor digita variações): estimativa conservadora
     const estimado = Math.round(principal.volume + 0.65 * (soma - principal.volume));
-    out.push({ tema: c.tema, principal: principal.frase, volumePrincipal: principal.volume, volumeSoma: soma, volumeEstimado: estimado, absorve: caudas.map((x) => `${x.frase} (${x.volume})`), passa: estimado >= min });
+    out.push({ categoria: c.categoria, tema: c.tema, principal: principal.frase, volumePrincipal: principal.volume, volumeSoma: soma, volumeEstimado: estimado, absorve: caudas.map((x) => `${x.frase} (${x.volume})`), passa: estimado >= min });
   }
   out.sort((a, b) => b.volumeEstimado - a.volumeEstimado);
   fs.writeFileSync(path.join(DIR, 'clusters.json'), JSON.stringify(out, null, 1));
   console.log(`Clusters (mínimo estimado ${min}):`);
-  for (const o of out) console.log(`${o.passa ? '✅' : '·'} ${String(o.volumeEstimado).padStart(7)}  ${o.principal}  [principal ${o.volumePrincipal}, soma ${o.volumeSoma}, ${o.absorve.length} caudas]`);
+  for (const o of out) console.log(`${o.passa ? '✅' : '·'} ${String(o.volumeEstimado).padStart(7)}  ${o.categoria} · ${o.principal}  [principal ${o.volumePrincipal}, soma ${o.volumeSoma}, ${o.absorve.length} caudas]`);
   console.log(`\nGravado em ${DIR}/clusters.json. Próximo passo: checar o Google (SERP) dos que passaram.`);
 }
 
