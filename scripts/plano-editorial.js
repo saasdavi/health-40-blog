@@ -32,7 +32,10 @@ const camadas = [
   [], [],
 ];
 for (const c of cand.filter((c) => !visto.has(norm(c.keyword))).sort((a, b) => b.volume - a.volume)) { camadas[1].push({ tema: c.keyword, status: 'a-checar', cluster: c.cluster || 'geral', volume: c.volume }); visto.add(norm(c.keyword)); }
-for (const o of ordem) { if (visto.has(norm(o.frase))) continue; visto.add(norm(o.frase)); camadas[2].push({ tema: o.frase, status: 'a-validar', cluster: o.categoria || 'geral', volume: o.volumeFrase, grupo: o.volumeGrupo, atencao: o.atencao || '' }); }
+// grupos sem marca de atenção primeiro (mais chance de passar no Google); amplo/sensível/competição alta vão para o fim da camada
+const grupos = ordem.filter((o) => !visto.has(norm(o.frase))).map((o) => ({ tema: o.frase, status: 'a-validar', cluster: o.categoria || 'geral', volume: o.volumeFrase, grupo: o.volumeGrupo, atencao: o.atencao || '' }));
+grupos.sort((a, b) => (a.atencao ? 1 : 0) - (b.atencao ? 1 : 0) || b.grupo - a.grupo);
+for (const g of grupos) { if (visto.has(norm(g.tema))) continue; visto.add(norm(g.tema)); camadas[2].push(g); }
 
 const todos = camadas.flat();
 const slots = DIAS * POR_DIA;
