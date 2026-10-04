@@ -1,0 +1,165 @@
+{
+  "_ajuda": "Temas do menu do blog e as regras que classificam um assunto num tema. A primeira regra que casar vence. Texto sem acento e em minúsculas. Para criar um tema novo: acrescente em 'temas' e uma regra em 'regras'. Usado por src/lib/temas.ts e scripts/mapear-categorias.js.",
+  "temas": [
+    {
+      "slug": "coracao-e-colesterol",
+      "nome": "Coração e colesterol",
+      "descricao": "Colesterol, pressão, circulação e saúde do coração depois dos 40."
+    },
+    {
+      "slug": "diabetes-e-exames",
+      "nome": "Diabetes e exames",
+      "descricao": "Glicemia, diabetes e exames de sangue: o que significam os resultados."
+    },
+    {
+      "slug": "hormonios-e-tireoide",
+      "nome": "Hormônios e tireoide",
+      "descricao": "Tireoide, cortisol, testosterona e as mudanças hormonais."
+    },
+    {
+      "slug": "mulher-e-menopausa",
+      "nome": "Mulher e menopausa",
+      "descricao": "Perimenopausa, menopausa e saúde da mulher."
+    },
+    {
+      "slug": "prostata-e-vias-urinarias",
+      "nome": "Próstata e vias urinárias",
+      "descricao": "Próstata, PSA, urina e saúde do homem depois dos 40."
+    },
+    {
+      "slug": "sexualidade-e-relacionamento",
+      "nome": "Sexualidade e relacionamento",
+      "descricao": "Libido, ereção e vida sexual depois dos 40."
+    },
+    {
+      "slug": "sono",
+      "nome": "Sono",
+      "descricao": "Insônia, qualidade do sono e como dormir melhor."
+    },
+    {
+      "slug": "mente-e-memoria",
+      "nome": "Mente e memória",
+      "descricao": "Ansiedade, estresse, memória e clareza mental."
+    },
+    {
+      "slug": "musculos-e-movimento",
+      "nome": "Músculos e movimento",
+      "descricao": "Força, articulações, ossos e atividade física."
+    },
+    {
+      "slug": "coluna-e-dor-nas-costas",
+      "nome": "Coluna e dor nas costas",
+      "descricao": "Dor lombar, coluna e postura."
+    },
+    {
+      "slug": "idosos-e-longevidade",
+      "nome": "Idosos e longevidade",
+      "descricao": "Envelhecer com autonomia: quedas, longevidade e idade biológica."
+    },
+    {
+      "slug": "digestao-e-figado",
+      "nome": "Digestão e fígado",
+      "descricao": "Intestino, digestão, fígado e metabolismo."
+    },
+    {
+      "slug": "alimentacao-e-peso",
+      "nome": "Alimentação e peso",
+      "descricao": "Alimentação saudável, nutrição e emagrecimento."
+    },
+    {
+      "slug": "cabelo",
+      "nome": "Cabelo",
+      "descricao": "Queda, cabelos brancos, caspa e cuidados com o couro cabeludo."
+    },
+    {
+      "slug": "pele",
+      "nome": "Pele",
+      "descricao": "Manchas, estrias, rosácea e cuidados com a pele."
+    },
+    {
+      "slug": "boca-e-dentes",
+      "nome": "Boca e dentes",
+      "descricao": "Bruxismo, dentes e saúde bucal."
+    },
+    {
+      "slug": "visao-e-audicao",
+      "nome": "Visão e audição",
+      "descricao": "Olhos, ouvidos, zumbido e equilíbrio."
+    },
+    {
+      "slug": "saude-geral",
+      "nome": "Saúde geral",
+      "descricao": "Outros temas de saúde depois dos 40."
+    }
+  ],
+  "regras": [
+    {
+      "tema": "sexualidade-e-relacionamento",
+      "padrao": "ejacul|erecao|libido|desejo sexual|nofap|sexo|impoten|desejo masculino|hora h|\\bpau\\b|penis|tesao|pornografia|masturba|casamento|relacionamento"
+    },
+    {
+      "tema": "cabelo",
+      "padrao": "cabelo|alopecia|caspa|couro cabeludo|calvicie|entradas|pontas duplas|grisalh|capilar|\\bfios\\b|antiqueda|tricologista|shampoo"
+    },
+    {
+      "tema": "pele",
+      "padrao": "\\bpele\\b|melasma|estria|rosacea|dermatite|mancha|\\bruga|expressao|skincare|ceramida|vasinhos|hiperpigment|acne|solares|colageno|protetor solar|protecao solar|retinol|niacinamida|hialuronic|limpeza facial|anti idade|poros|calcanhar|\\bmaos\\b|acido salicilico|acido glicolico|flacidez|rosto cansado|cotovelos|couperose|cicatrizacao|hidratar o corpo"
+    },
+    {
+      "tema": "boca-e-dentes",
+      "padrao": "bruxismo|dente|\\bboca\\b|gengiv|halito|aftas"
+    },
+    {
+      "tema": "sono",
+      "padrao": "dorm|\\bsono\\b|insonia|pesadelo|sonambul|cochilo|terror noturno|cronotipo|relogio biologico|ritmo circadiano|ronco|apneia|acordar cansado|paralisia do sono|madrugada|sonolencia|ruido branco|chá calmante|acordar no meio da noite|acordar e nao conseguir|acordar sem ar|hipnopomp|glinfatico|respiracao 4 7 8"
+    },
+    {
+      "tema": "idosos-e-longevidade",
+      "padrao": "idoso|\\bqueda|envelhec|longevidade|idade cronologica|idade biologica|idade metabolica"
+    },
+    {
+      "tema": "alimentacao-e-peso",
+      "padrao": "emagrec|dieta|alimento|vitamina|suco|detox|caloria|\\bpeso\\b|lanche|cafe da manha|jantar|proteina|fibra|metabolismo|receita|gordura abdominal|hidrolisado|fitoesterois|inibidores de apetite"
+    },
+    {
+      "tema": "diabetes-e-exames",
+      "padrao": "glicem|glicose|diabet|insulin|homa|totg|peptideo|microalbumin|hemoglobina|acucar no sangue|sindrome metabolica|ferritina|\\bferro\\b|hemograma|creatinina|ureia|fosfatase|exame|muita sede|fome excessiva|dedos inchados|check up|\\bpth\\b|anti ccp|anti gad"
+    },
+    {
+      "tema": "coracao-e-colesterol",
+      "padrao": "colesterol|triglic|pressao|hipertens|coracao|cardio|circulac|varizes|inchaco nas pernas|\\bhdl\\b|\\bldl\\b"
+    },
+    {
+      "tema": "prostata-e-vias-urinarias",
+      "padrao": "prostat|\\bpsa\\b|\\bhpb\\b|hiperplasia|urin|bexiga|urofluxo|toque retal|gleason|nocturia|noctúria|saude do homem|saude masculina|nictúria|nictu|perineo"
+    },
+    {
+      "tema": "mulher-e-menopausa",
+      "padrao": "menopausa|fogacho|climaterio|perimenopausa|menstru|ovari|suor noturno|saude da mulher|exames para mulheres"
+    },
+    {
+      "tema": "hormonios-e-tireoide",
+      "padrao": "tireoide|tsh|hipotireoid|hipertireoid|hormon|testosterona|cortisol|andropausa"
+    },
+    {
+      "tema": "mente-e-memoria",
+      "padrao": "ruminacao|ansiedade|estresse|memoria|esquecimento|nevoa|concentracao|depress|meditac|mental|dor de cabeca|esquecer as coisas|recomecar|amizades|autonomia"
+    },
+    {
+      "tema": "coluna-e-dor-nas-costas",
+      "padrao": "costas|lombar|coluna|cervical|ciatic|hernia de disco|torcicolo"
+    },
+    {
+      "tema": "musculos-e-movimento",
+      "padrao": "musculo|sarcopenia|exercicio|treino|\\bforca\\b|caminhada|academia|caimbra|joelho|artrose|articula|osteopor|\\bosso|tendinite|bursite|\\bgota\\b|artrite|cartilagem|alongamento|pilates|yoga|hidrogin|musculacao|calcio|massa ossea|densidade mineral|saude ossea"
+    },
+    {
+      "tema": "digestao-e-figado",
+      "padrao": "digest|intestin|constipa|prisao de ventre|gastrite|refluxo|azia|figado|barriga|colon|gases|inchaco"
+    },
+    {
+      "tema": "visao-e-audicao",
+      "padrao": "visao|\\bolhos?\\b|ocular|catarata|luz azul|audic|ouvido|zumbido|labirint|tontura|moscas volantes|presbiopia"
+    }
+  ]
+}
