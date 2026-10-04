@@ -55,7 +55,7 @@ Dias de conteúdo já escrito + pauta validada: **20** (a 3 por dia).
 | Esquecimento Frequente: Quando Procurar Médico | 1439 | 92 | 2026-10-22 |
 | Idade Metabólica: Calcule e Melhore a Sua | 1499 | 100 | 2026-10-22 |
 | Sarcopenia: o que é, sinais e como cuidar | 1236 | 98 | - |
-| Colesterol HDL: valores e como interpretar | 1232 | 98 | 2026-10-23 |
+| Colesterol HDL: o que é e como interpretar | 1244 | 96 | 2026-10-23 |
 
 ## Publicados
 
