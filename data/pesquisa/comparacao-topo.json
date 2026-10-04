@@ -1,6 +1,6 @@
 {
  "gerado": "2026-10-04",
- "avaliados": 12,
+ "avaliados": 13,
  "resultado": [
   {
    "geradoEm": "2026-10-04T16:34:07.135Z",
@@ -340,6 +340,14 @@
     "palavras: 1303 vs topo 569",
     "subtítulos H2: 13 vs topo 3"
    ]
+  },
+  {
+   "geradoEm": "2026-10-04T22:31:32.583Z",
+   "keyword": "labirintite",
+   "publicado": true,
+   "concorrentesLidos": 0,
+   "tentados": 1,
+   "observacao": "nenhuma página do topo acessível (rode no Actions)"
   },
   {
    "geradoEm": "2026-10-04T16:33:33.992Z",

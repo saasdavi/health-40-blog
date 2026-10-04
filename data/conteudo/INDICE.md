@@ -4,8 +4,8 @@ Fonte dos textos: `data/articles.json`. Atualizado por `node scripts/banco-conte
 
 | O que | Quantidade | Dias (3/dia) |
 |---|---|---|
-| **Pronto para usar** (escrito, aprovado, guardado) | **37** | 12 |
-| Publicado (no ar) | 9 | |
+| **Pronto para usar** (escrito, aprovado, guardado) | **36** | 12 |
+| Publicado (no ar) | 10 | |
 | Pauta validada, falta escrever | 18 | 6 |
 | Planejado, falta validar no Google | 886 | 295 |
 | Vagas (sem tema levantado) | 146 | |
@@ -16,7 +16,6 @@ Dias de conteúdo já escrito + pauta validada: **18** (a 3 por dia).
 
 | Artigo | Palavras | Auditoria | Previsto para |
 |---|---|---|---|
-| Gordura no Fígado: Causas, Sintomas e Como Reverter | 1558 | 87 | 2026-10-05 |
 | Dores Lombares: Causas e Alívio Prático | 1306 | 98 | 2026-10-05 |
 | Sintomas de Diabetes: 7 Sinais de Alerta para Mulheres 40+ | 1533 | 95 | 2026-10-06 |
 | Cortisol Alto: Como Controlar o Hormônio do Estresse | 1503 | 93 | 2026-10-06 |
@@ -76,6 +75,7 @@ Dias de conteúdo já escrito + pauta validada: **18** (a 3 por dia).
 | O que é Resistência à Insulina: Guia 40+ | 1183 | 93 | 2026-10-03 |
 | Hemoglobina Glicada: Valores e O Que Significa | 1303 | 85 | 2026-10-04 |
 | Labirintite: O Que É, Sintomas e Como Tratar | 1435 | 100 | 2026-10-04 |
+| Gordura no Fígado: Causas, Sintomas e Como Reverter | 1558 | 87 | 2026-10-04 |
 
 ## Pautas validadas esperando texto (próximas a escrever)
 

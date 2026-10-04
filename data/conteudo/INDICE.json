@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 9,
-  "prontosParaUsar": 37,
+  "publicados": 10,
+  "prontosParaUsar": 36,
   "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -182,15 +182,15 @@
    "palavraChave": "gordura no fígado",
    "cluster": "figado-metabolismo",
    "volume": 90500,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1558,
    "h2": 14,
    "imagens": 3,
    "fontes": 6,
    "auditoria": 87,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-04T22:31:32.733Z",
    "escritoEm": "2026-10-04T16:39:01.625Z",
-   "previstoPara": "2026-10-05",
+   "previstoPara": null,
    "pontesSugeridas": []
   },
   {

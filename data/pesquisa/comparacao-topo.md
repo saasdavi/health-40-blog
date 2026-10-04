@@ -34,6 +34,9 @@ Gerado em 2026-10-04. Mediana das páginas do topo (concorrentes lidos) contra o
 - Vantagens: palavras: 1303 vs topo 569 | subtítulos H2: 13 vs topo 3
 - Seções que o topo cobre: o que e hemoglobina glicada (2/6)
 
+## labirintite (publicado)
+- nenhuma página do topo acessível (rode no Actions)
+
 ## o que é gordura visceral (publicado)
 - Topo (mediana de 3): 1037 palavras, 7 H2, 2 imagens; FAQ em 1/3
 - Nosso: 1994 palavras, 13 H2, 3 imagens
