@@ -1,0 +1,10 @@
+{
+  "temas": [
+    "alimentação saudável", "café da manhã saudável", "jantar saudável", "lanche saudável",
+    "emagrecer", "metabolismo", "caminhada", "musculação", "alongamento", "hidroginástica", "pilates", "yoga",
+    "sono", "menopausa", "colesterol", "pressão alta", "diabetes", "vitaminas", "alimentos ricos em ferro",
+    "queda de cabelo", "pele", "memória", "ansiedade", "dor nas costas", "relacionamento", "libido"
+  ],
+  "publicos": ["para mulheres", "para homens", "para idosos", "depois dos 40", "depois dos 50", "na menopausa", "para iniciantes", "em casa"],
+  "intencoes": ["como", "o que é", "benefícios", "para que serve", "o que comer", "mito ou verdade", "quanto tempo", "dicas", "causas", "sintomas"]
+}
