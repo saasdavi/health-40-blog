@@ -6,7 +6,7 @@ Fonte dos textos: `data/articles.json`. Atualizado por `node scripts/banco-conte
 |---|---|---|
 | **Pronto para usar** (escrito, aprovado, guardado) | **37** | 12 |
 | Publicado (no ar) | 9 | |
-| Pauta validada, falta escrever | 22 | 7 |
+| Pauta validada, falta escrever | 21 | 7 |
 | Planejado, falta validar no Google | 886 | 295 |
 | Vagas (sem tema levantado) | 146 | |
 
@@ -57,6 +57,7 @@ Dias de conteúdo já escrito + pauta validada: **19** (a 3 por dia).
 | Colesterol HDL: o que é e como interpretar | 1244 | 96 | 2026-10-23 |
 | Colesterol LDL: o que é e como reduzir | 1042 | 96 | 2026-10-24 |
 | Hipotireoidismo sintomas: sinais comuns aos 40+ | 1144 | 94 | 2026-10-10 |
+| Ferritina alta: causas e o que fazer | 1137 | 96 | 2026-10-06 |
 
 ## Publicados
 
@@ -83,7 +84,6 @@ Dias de conteúdo já escrito + pauta validada: **19** (a 3 por dia).
 - como acelerar o metabolismo (9900/mês)
 - alimentos anti inflamatórios (6600/mês)
 - queda de cabelo causas (7200/mês)
-- ferritina alta (60500/mês)
 - creatinina alta (33100/mês)
 - tsh alto (12100/mês)
 - próstata aumentada (18100/mês)
