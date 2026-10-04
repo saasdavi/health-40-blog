@@ -1,9 +1,7 @@
 name: ✅ Keyword Validation
 
 on:
-  schedule:
-    # Run daily at 10:00 UTC
-    - cron: '0 10 * * *'
+  # Agenda desligada (validação antiga; a validação atual é a do robô e do Serper). Economiza API.
   workflow_dispatch:
 
 jobs:

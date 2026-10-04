@@ -1,10 +1,7 @@
 name: 📝 Content Production & Publication
 
 on:
-  schedule:
-    # Run twice daily: 12:00 and 18:00 UTC
-    - cron: '0 12 * * *'
-    - cron: '0 18 * * *'
+  # Agenda desligada (sistema antigo; o robô novo é o daily-production.yml). Economiza API.
   workflow_dispatch:
 
 jobs:
