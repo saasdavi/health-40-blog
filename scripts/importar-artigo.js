@@ -32,6 +32,7 @@ for (const nome of arquivos) {
     if (fontes.length < 2) throw new Error(`só ${fontes.length} FONTE(s); mínimo 2 (formato: FONTE: Título | https://...)`);
     const pauta = robot.kw.find((k) => k.keyword.toLowerCase() === keyword.toLowerCase()) || { keyword, volume: null, cluster: get('CLUSTER') || null };
     if (pauta.sensivel && pauta.revisar && get('REVISADO') !== 'sim') throw new Error('pauta sensível: precisa de revisão humana (adicione "REVISADO: sim" no cabeçalho depois de revisar)');
+    if (/<Article[A-Za-z]*|<hr\b|<h1\b/i.test(d.body)) throw new Error('o HTML tem componentes de código (<Article...>), <hr> ou <h1>: peça à IA HTML simples (veja data/entrada/MODELO-PARA-A-IA.md)');
     const art = robot.montar(pauta, d, fontes);
     const aud = robot.auditar(art, null);
     console.log(`  ${art.wordCount} palavras | auditoria ${aud.nota}/100${aud.bloqueios.length ? ' | BLOQUEIOS: ' + aud.bloqueios.join('; ') : ''}`);
