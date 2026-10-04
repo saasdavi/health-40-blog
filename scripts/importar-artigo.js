@@ -1,0 +1,53 @@
+// Importa artigos escritos FORA do robô (ex.: ChatGPT) sem gastar API da Anthropic.
+// Lê data/entrada/*.txt, roda a auditoria do robô (regras automáticas), baixa fotos (Pexels/Pixabay)
+// e guarda como rascunho pronto (status draft + estoque:true). Reprovados ficam com relatório .md ao lado.
+// Formato do arquivo: cabeçalho "CHAVE: valor", uma linha "---" e o corpo em HTML (veja data/entrada/LEIA-ME.md).
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import ArticleRobot from './article-robot.js';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const DIR = path.join(__dirname, '../data/entrada');
+const MIN_SCORE = 80;
+
+const slugify = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
+const robot = new ArticleRobot();
+const arquivos = fs.existsSync(DIR) ? fs.readdirSync(DIR).filter((f) => f.endsWith('.txt') && f !== 'LEIA-ME.txt') : [];
+if (!arquivos.length) { console.log('📥 Nada em data/entrada/.'); process.exit(0); }
+
+let guardados = 0;
+for (const nome of arquivos) {
+  const caminho = path.join(DIR, nome);
+  const raw = fs.readFileSync(caminho, 'utf8').replace(/\r\n/g, '\n');
+  const relatorio = (linhas) => fs.writeFileSync(caminho.replace(/\.txt$/, '.relatorio.md'), `# ${nome}\n\n${linhas.map((l) => `- ${l}`).join('\n')}\n`);
+  console.log(`\n📥 ${nome}`);
+  try {
+    const d = robot.parse(raw);
+    const get = (k) => (raw.slice(0, raw.indexOf('\n---\n')).match(new RegExp(`^${k}:\\s*(.+)$`, 'm')) || [])[1]?.trim();
+    const keyword = get('PALAVRA_CHAVE');
+    if (!keyword) throw new Error('falta PALAVRA_CHAVE no cabeçalho');
+    const fontes = [...raw.slice(0, raw.indexOf('\n---\n')).matchAll(/^FONTE:\s*(.+?)\s*\|\s*(https?:\/\/\S+)\s*$/gm)].map((m) => ({ title: m[1], url: m[2], texto: '' }));
+    if (fontes.length < 2) throw new Error(`só ${fontes.length} FONTE(s); mínimo 2 (formato: FONTE: Título | https://...)`);
+    const pauta = robot.kw.find((k) => k.keyword.toLowerCase() === keyword.toLowerCase()) || { keyword, volume: null, cluster: get('CLUSTER') || null };
+    if (pauta.sensivel && pauta.revisar && get('REVISADO') !== 'sim') throw new Error('pauta sensível: precisa de revisão humana (adicione "REVISADO: sim" no cabeçalho depois de revisar)');
+    const art = robot.montar(pauta, d, fontes);
+    const aud = robot.auditar(art, null);
+    console.log(`  ${art.wordCount} palavras | auditoria ${aud.nota}/100${aud.bloqueios.length ? ' | BLOQUEIOS: ' + aud.bloqueios.join('; ') : ''}`);
+    if (aud.bloqueios.length || aud.nota < MIN_SCORE) { relatorio([`Nota ${aud.nota}/100 (mínimo ${MIN_SCORE})`, ...aud.bloqueios.map((b) => `BLOQUEIO: ${b}`), ...aud.alertas]); console.log('  ⛔ reprovado; veja o .relatorio.md'); continue; }
+    if (!(await robot.imagem(art))) { relatorio(['Sem imagens: confira PEXEL_API_KEY/PIXABAY_API_KEY e as buscas de foto do cabeçalho.']); continue; }
+    const agora = new Date().toISOString();
+    delete art.bodyOriginal; delete art._substitui;
+    Object.assign(art, { status: 'draft', estoque: true, estocadoEm: agora, scores: { auditoria: aud.nota }, validador: 'Auditoria automática (sem API); texto escrito fora do robô', origem: 'importado',
+      validacao: { palavraChave: keyword, volume: pauta.volume, cluster: pauta.cluster, apoio: (pauta.secundarias || []).map((x) => x.palavra), perguntasDoGoogle: pauta.absorve || [], serp: pauta.serp || null, fontesDaPauta: fontes.map((f) => f.url), notas: pauta.notas || '', briefing: robot.readJson(`data/briefings/${slugify(keyword)}.json`, null), validadoEm: agora, observacao: 'originalidade contra o concorrente não conferida automaticamente' } });
+    const i = robot.db.articles.findIndex((x) => x.slug === art.slug);
+    if (i >= 0) { art.createdAt = robot.db.articles[i].createdAt || art.createdAt; robot.db.articles[i] = art; } else robot.db.articles.push(art);
+    robot.gravar();
+    fs.renameSync(caminho, path.join(DIR, 'processados', nome));
+    fs.rmSync(caminho.replace(/\.txt$/, '.relatorio.md'), { force: true });
+    guardados++;
+    console.log(`  📦 guardado no estoque: /${art.slug}/ (nota ${aud.nota})`);
+  } catch (e) { relatorio([e.message]); console.error(`  ❌ ${e.message}`); }
+}
+console.log(`\n📊 ${guardados} de ${arquivos.length} guardados.`);
