@@ -116,6 +116,7 @@ const temasMenu = temasComArtigos(todosPublicados);
 
       /* Header */
       header {
+        position: relative;
         background: url('/images/hero-bg.svg') center/cover no-repeat;
         background-size: cover;
         color: white;
@@ -130,6 +131,25 @@ const temasMenu = temasComArtigos(todosPublicados);
       header .container {
         text-align: center;
       }
+
+      .hero-btn {
+        position: absolute;
+        left: 50%;
+        bottom: 3.2rem;
+        transform: translateX(-50%);
+        background: #ff6b35;
+        color: #fff;
+        padding: 0.95rem 2.2rem;
+        border-radius: 14px;
+        border: 2px solid rgba(255,255,255,0.35);
+        font-size: 1.15rem;
+        font-weight: 600;
+        text-decoration: none;
+        box-shadow: 0 6px 18px rgba(0,0,0,0.2);
+        white-space: nowrap;
+        transition: transform .15s, box-shadow .15s;
+      }
+      .hero-btn:hover { transform: translateX(-50%) translateY(-2px); box-shadow: 0 10px 24px rgba(0,0,0,0.28); }
 
       header h1 {
         font-size: 0;
@@ -494,6 +514,7 @@ const temasMenu = temasComArtigos(todosPublicados);
         <h1 style="display: none;">🏥 Saúde após os 40</h1>
         <p style="display: none;">Conteúdo original sobre saúde e bem-estar para você</p>
       </div>
+      <a href="/artigos/" class="hero-btn">Explorar artigos agora →</a>
     </header>
 
     <main class="container">

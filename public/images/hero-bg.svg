@@ -78,13 +78,5 @@
         <!-- Accent line under title -->
         <line x1="700" y1="340" x2="1220" y2="340" stroke="rgba(255,107,53,0.9)" stroke-width="4" stroke-linecap="round"/>
 
-        <!-- CTA Section -->
-        <g filter="url(#shadow)">
-            <!-- Button background -->
-            <rect x="760" y="520" width="400" height="70" rx="14" fill="rgba(255,107,53,0.95)" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
-            <text x="960" y="570" font-family="'Segoe UI', sans-serif" font-size="24" font-weight="600" text-anchor="middle" fill="white">
-                Explorar Artigos Agora →
-            </text>
-        </g>
     </g>
 </svg>
