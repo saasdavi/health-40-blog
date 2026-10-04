@@ -25,6 +25,8 @@ const KEYWORDS_FILE = path.join(__dirname, '../data/keywords-validated.json');
 const BATCH_SIZE = Number(process.env.BATCH_SIZE || 1);
 // Teto de publicações por dia (dia de Brasília). Padrão 3: cada execução agendada faz 1, e nenhuma execução (manual ou repetida) passa de 3 no dia.
 const DAILY_LIMIT = Number(process.env.DAILY_LIMIT || 3);
+// Originalidade: no máximo este % de sequências de 7 palavras iguais às fontes e aos concorrentes lidos (o artigo é nosso, não cópia).
+const MAX_SEMELHANCA = Number(process.env.MAX_SEMELHANCA || 6);
 // Modo ESTOQUE (ESTOQUE=1): escreve os artigos e guarda no GitHub como rascunho pronto (status 'draft' + estoque:true, o site NÃO mostra).
 // As execuções agendadas (sem ESTOQUE) publicam do estoque primeiro, no máximo DAILY_LIMIT por dia, e só escrevem na hora se o estoque acabar.
 // ESTOQUE_ALVO = quantos artigos prontos manter guardados (padrão 21 = 7 dias).
@@ -264,6 +266,12 @@ ${(() => {
     })()}
 ${(() => { const t = [...new Set(fontesLidas.flatMap((f) => f.topicos || []))].slice(0, 24); return t.length ? `Assuntos que as páginas mais bem posicionadas no Google cobrem (use como roteiro para o artigo ser tão completo quanto elas; escreva uma seção só se o assunto estiver nos TRECHOS DAS FONTES, nunca copie títulos nem frases): ${t.join(' | ')}.` : ''; })()}
 
+ORIGINALIDADE (exigência do dono do blog: conteúdo AUTÊNTICO e EXCLUSIVO, não modelado em concorrente):
+- As páginas do topo e as fontes mostram O QUE o leitor espera encontrar. Elas NÃO são modelo de texto: não siga a ordem das seções delas, não reaproveite frases nem a mesma estrutura de lista, não faça paráfrase linha a linha.
+- Construa um ângulo próprio e útil, começando pelo problema real de quem busca "${p.keyword}". Organize você mesmo o conhecimento das fontes em ferramentas práticas, SEM acrescentar fatos novos: um passo a passo claro, um "o que observar em você" (checklist), "erros comuns", "perguntas para levar ao médico" e "como usar isso no seu dia a dia".
+- Voz própria do blog Saúde 40+: direta, acolhedora, sem jargão. TITLE e DESCRIPTION originais.
+- O sistema compara o seu texto com as fontes: qualquer trecho com 7 ou mais palavras seguidas iguais a uma fonte conta como cópia e o artigo é devolvido.
+
 REGRAS (padrão Mente Curiosa):
 1. Primeiro parágrafo responde a pergunta direto, em ATÉ 45 palavras, e COMEÇA com a palavra-chave exata (ela deve aparecer nas 6 primeiras palavras do parágrafo).
 2. 1.300 a 1.800 palavras de conteúdo útil, sem enchimento. Cada seção precisa ensinar algo.
@@ -339,7 +347,22 @@ FOTO2_SECAO: <número do <h2>, diferente do da foto 1>
   }
 
   // ---------- 3. auditoria automática (B01–B06 + pontuação) ----------
-  auditar(a) {
+  // Originalidade: fração de sequências de 7 palavras do artigo que aparecem iguais em alguma fonte/concorrente lida.
+  semelhanca(html, fontesLidas) {
+    const palavrasDe = (t) => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9 ]/g, ' ').split(/\s+/).filter(Boolean);
+    const N = 7;
+    const corpo = html.replace(/<h2>\s*Fontes[\s\S]*$/i, ' ');
+    const meu = palavrasDe(semHtml(corpo));
+    if (meu.length < N * 4) return { pct: 0, exemplos: [] };
+    const deles = new Set();
+    for (const f of fontesLidas || []) { const w = palavrasDe(f.texto || ''); for (let i = 0; i + N <= w.length; i++) deles.add(w.slice(i, i + N).join(' ')); }
+    let iguais = 0; const exemplos = [];
+    const total = meu.length - N + 1;
+    for (let i = 0; i < total; i++) { const sh = meu.slice(i, i + N).join(' '); if (deles.has(sh)) { iguais++; if (exemplos.length < 3 && (!exemplos.length || i - exemplos.ultimo > N)) { exemplos.push(sh); exemplos.ultimo = i; } } }
+    return { pct: Math.round(iguais / total * 1000) / 10, exemplos };
+  }
+
+  auditar(a, fontesLidas) {
     const html = a.content, texto = semHtml(html), kw = a.primaryKeyword.toLowerCase();
     const bloqueios = [];
     if (/<h1/i.test(html)) bloqueios.push('B01: H1 no corpo');
@@ -349,6 +372,10 @@ FOTO2_SECAO: <número do <h2>, diferente do da foto 1>
     if (!texto.includes('não substitui a orientação de um profissional de saúde')) bloqueios.push('B05: sem aviso de saúde');
     if (RESTOS_IA.some(r => r.test(texto))) bloqueios.push('B06: resto de rascunho/IA');
     if (CLAIMS.some(r => r.test(texto))) bloqueios.push('SEG: claim proibido (cura/garantido/milagre/sem efeitos colaterais)');
+    if (fontesLidas?.length) {
+      const sim = this.semelhanca(html, fontesLidas);
+      if (sim.pct > MAX_SEMELHANCA) bloqueios.push(`B07: ${sim.pct}% do texto tem sequências de 7 palavras iguais às fontes/concorrentes (máx ${MAX_SEMELHANCA}%); reescreva com SUAS palavras e estrutura própria. Exemplos copiados: "${sim.exemplos.join('" | "')}"`);
+    }
 
     let nota = 100; const alertas = [];
     const perde = (pts, msg) => { nota -= pts; alertas.push(msg); };
@@ -418,7 +445,7 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
     for (let volta = 1; volta <= MAX_VOLTAS; volta++) {
       art = this.montar(p, this.parse(await this.escrever(this.promptRedator(p, this.linksInternos().filter(l => l.slug !== (p.slug || slugify(p.keyword))), devolucao, fontesLidas, art?.bodyOriginal))), fontesLidas);
       this.stats.generated++;
-      const aud = this.auditar(art);
+      const aud = this.auditar(art, fontesLidas);
       console.log(`  volta ${volta}: ${art.wordCount} palavras | auditoria ${aud.nota}/100${aud.bloqueios.length ? ' | BLOQUEIOS: ' + aud.bloqueios.join('; ') : ''}`);
       aud.alertas.forEach(x => console.log(`     · ${x}`));
       if (aud.bloqueios.length || aud.nota < MIN_SCORE) { devolucao = [...aud.bloqueios, ...aud.alertas]; ultimo = { art, motivos: devolucao }; continue; }
