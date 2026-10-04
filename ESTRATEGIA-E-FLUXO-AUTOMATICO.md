@@ -165,3 +165,24 @@ Modelo: cada subcategoria é uma **torre**. A **pauta-pilar** é o termo amplo d
 - `node scripts/gerar-massa.js --etapa 2`: **só para os temas que a etapa 1 provou ter demanda** (volume >= 1.000 no banco), combina situação × intenção (≈27 mil frases com os 66 temas atuais). Peneirar em duas etapas evita gastar crédito com temas sem demanda.
 - Esperado: a maioria das frases tem volume zero. O ouro é o que sobra com volume >= 1.000 (principais) e as caudas menores que viram secundárias das torres.
 - O workflow guarda tudo no banco (`ingerir-hypd.js`), agrupa em pautas, valida o Google, promove à fila e atualiza torres e secundárias.
+
+## 15. Pendência: API oficial do Google (Planejador de Palavras-chave)
+
+**Objetivo:** continuar com acesso ao Planejador (KWP) depois do teste do HYPD (termina por volta de 17/10/2026). Decisão sobre a fonte de volume fica para depois do teste.
+
+**Fatos medidos (04/10/2026):** a conta do Planejador sem gasto devolve só faixas ("100 – 1 mil", "1 mil – 10 mil") em vez de número exato. O HYPD devolve número exato. Faixa vale pelo piso na soma dos grupos.
+
+**Roteiro para a API oficial — NÃO confirmado, conferir na documentação do Google:**
+1. Conta gerenciadora (MCC) do Google Ads.
+2. Token de desenvolvedor (acesso de teste funciona só com contas de teste; para a conta real é preciso pedir acesso Básico).
+3. Projeto no Google Cloud com a Google Ads API habilitada e credenciais OAuth.
+4. Autorização OAuth da conta (gera o refresh token).
+5. Chamada do `KeywordPlanIdeaService` (`GenerateKeywordIdeas`).
+
+**A confirmar:** regras e limites do acesso Básico; quanto gasto (se algum) libera número exato; se conta parada perde acesso; se a API sem gasto também devolve faixas (provável, testar). A documentação (support.google.com, developers.google.com) estava bloqueada no ambiente da sessão.
+
+**Quando chegar nessa etapa:** escrever um script que chame o `KeywordPlanIdeaService` e grave no formato do HYPD (`palavra, volume, competição`) para `scripts/ingerir-hypd.js`. Chaves e tokens só como secret do repositório, nunca no chat ou em arquivo versionado.
+
+**Ferramentas avaliadas (somente leitura, nada instalado):**
+- `data-skunks/kpu-mcp` (KeywordsPeopleUse): perguntas "as pessoas também perguntam", Autocomplete, Reddit/Quora, palavras semânticas. Não dá volume. Exige plano pago (o Free não tem API/MCP). Só valeria pelo Autocomplete; não adotado.
+- `googleads/google-ads-mcp` (oficial do Google): três ferramentas somente leitura (`search`, `get_resource_metadata`, `list_accessible_customers`) para consultar a própria conta. Não chama o Planejador, então não dá volume. Passa a ser útil quando houver campanha rodando (termos de busca reais).
