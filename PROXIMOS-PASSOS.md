@@ -8,9 +8,9 @@
 
 | Produção | Quantidade |
 |---|---|
-| Artigos publicados e aprovados | **7** (todos em 03/10) |
+| Artigos publicados e aprovados | **8** (7 em 03/10 + 1 em 04/10) |
 | Rascunhos | 0 |
-| Publicados em 04/10 até 06:33 UTC | 0 (agenda 06:00/14:00/18:00 UTC; conferir a aba Actions do repositório) |
+| Publicados em 04/10 (até 15:54 UTC) | 1: hemoglobina glicada (11:51 UTC, aprovado). Total publicado: **8**. As agendas de 06:00 e 14:00 UTC NÃO geraram commit; horários trocados para 06:17, 13:43 e 17:23 UTC em 04/10 |
 
 Publicados: como baixar colesterol, quanto de proteína por dia, como meditar, triglicerídeos altos sintomas, o que é gordura visceral, o que é perimenopausa, o que é resistência à insulina.
 
