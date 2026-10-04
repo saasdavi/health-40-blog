@@ -1,6 +1,6 @@
 PALAVRA_CHAVE: colesterol hdl
-TITLE: Colesterol HDL: valores e como interpretar
-DESCRIPTION: Colesterol HDL: veja o valor de referência da diretriz brasileira, o que significa HDL baixo ou alto e como interpretar o resultado do exame.
+TITLE: Colesterol HDL: o que é e como interpretar
+DESCRIPTION: Entenda para que serve o colesterol HDL, o valor de referência, o que pode significar HDL baixo e por que o resultado deve ser visto junto ao LDL.
 CAPA_BUSCA: avocado salad bowl
 CAPA_PEXELS_ID: 1484519
 CAPA_ALT: Salada com abacate e folhas verdes servida em uma tigela
@@ -17,7 +17,6 @@ FOTO2_LEGENDA: Leve o perfil lipídico completo à consulta.
 FOTO2_SECAO: 7
 FONTE: Diretriz Brasileira de Dislipidemias e Prevenção da Aterosclerose, Sociedade Brasileira de Cardiologia, 2025 | https://www.scielo.br/j/abc/a/tRJrwGzKX6C4GvMqdJpZcGk/?lang=pt
 FONTE: Protocolo Clínico e Diretrizes Terapêuticas da Dislipidemia, Ministério da Saúde | https://www.gov.br/saude/pt-br/assuntos/pcdt/d/dislipidemia/view
-FONTE: American Heart Association. What Your Cholesterol Levels Mean | https://www.heart.org/en/health-topics/cholesterol/about-cholesterol/what-your-cholesterol-levels-mean
 FONTE: MedlinePlus. HDL: The Good Cholesterol | https://medlineplus.gov/hdlthegoodcholesterol.html
 ---
 <p>O <strong>colesterol HDL</strong> é uma fração do colesterol medida no exame de sangue. Ele participa do transporte de colesterol de volta ao fígado, mas seu resultado não deve ser avaliado sozinho: LDL, triglicerídeos e o risco cardiovascular total também importam.</p>
@@ -26,7 +25,7 @@ FONTE: MedlinePlus. HDL: The Good Cholesterol | https://medlineplus.gov/hdlthego
 <h2>O que é colesterol HDL?</h2>
 <p>HDL é a sigla em inglês para lipoproteína de alta densidade. As lipoproteínas transportam gorduras pelo sangue. O HDL participa do transporte reverso do colesterol, levando parte dele dos tecidos de volta ao fígado, onde pode ser processado.</p>
 <p>Por esse papel, o HDL ficou conhecido como "colesterol bom". O apelido ajuda a diferenciar as frações, mas pode simplificar demais: um número alto de HDL não anula automaticamente outros fatores de risco, como LDL elevado, diabetes, pressão alta ou tabagismo.</p>
-<p>A American Heart Association recomenda considerar o HDL na avaliação cardiovascular, mas não tratá-lo como um alvo terapêutico isolado. A Diretriz Brasileira de Dislipidemias de 2025 também não estabelece uma meta de tratamento específica para elevar o HDL.</p>
+<p>O HDL entra na avaliação cardiovascular, mas não é tratado como um alvo isolado: a Diretriz Brasileira de Dislipidemias de 2025 não estabelece uma meta de tratamento específica para elevar o HDL.</p>
 
 <h2>Qual é o valor de referência do colesterol HDL?</h2>
 <p>A Diretriz Brasileira de Dislipidemias de 2025 apresenta <strong>HDL-c acima de 40 mg/dL</strong> como valor de referência para adultos, com ou sem jejum. Esse dado não funciona como uma meta individual de tratamento nem define sozinho se o risco cardiovascular está alto ou baixo.</p>
@@ -73,6 +72,9 @@ FONTE: MedlinePlus. HDL: The Good Cholesterol | https://medlineplus.gov/hdlthego
 <h3>Não use álcool ou suplementos para "subir o HDL"</h3>
 <p>Não comece a beber nem use suplementos ou medicamentos por conta própria com o objetivo de aumentar o HDL. A diretriz brasileira não recomenda um alvo terapêutico específico para essa fração. O cuidado deve considerar o perfil lipídico completo e as condições de saúde da pessoa.</p>
 
+<h2>Como aumentar o HDL?</h2>
+<p>O cuidado não deve ter como único objetivo elevar o número do HDL. Atividade física regular, não fumar e uma alimentação variada podem apoiar a saúde cardiovascular, mas não garantem que o HDL suba de forma específica. A Diretriz Brasileira de 2025 não define uma meta de tratamento para essa fração; o profissional avalia o perfil lipídico completo e o risco individual antes de recomendar qualquer tratamento.</p>
+
 <h2>HDL alto significa que estou protegido?</h2>
 <p>Não necessariamente. Um HDL mais alto não apaga o efeito de LDL elevado ou de outros fatores de risco. Também não é correto interpretar o HDL sem olhar o restante do exame e o histórico clínico.</p>
 <p>Se o HDL estiver fora da faixa indicada no laudo, peça ao profissional que explique o que isso significa no seu caso. O LDL e o colesterol não-HDL podem ter metas individuais conforme o risco cardiovascular.</p>
@@ -88,8 +90,6 @@ FONTE: MedlinePlus. HDL: The Good Cholesterol | https://medlineplus.gov/hdlthego
 <p>A Diretriz Brasileira de Dislipidemias de 2025 apresenta HDL-c acima de 40 mg/dL como valor de referência. A interpretação depende do conjunto do perfil lipídico e do risco cardiovascular.</p>
 <h3>Preciso tomar remédio para aumentar o HDL?</h3>
 <p>Não tome medicamentos com esse objetivo por conta própria. A diretriz brasileira não define uma meta terapêutica isolada para HDL; o profissional avalia o risco e decide se há tratamento indicado para o perfil completo.</p>
-<h3>Como aumentar o HDL?</h3>
-<p>Não há uma forma de "subir o HDL" que dispense avaliação. O mais seguro é cuidar do risco cardiovascular como um todo, com movimento, alimentação variada e acompanhamento, e deixar que o profissional decida o que fazer com o seu resultado.</p>
 <h3>O que significa HDL no exame de sangue?</h3>
 <p>HDL é uma lipoproteína que transporta colesterol no sangue e participa do retorno de parte dele ao fígado. O resultado é uma das informações do perfil lipídico.</p>
 
