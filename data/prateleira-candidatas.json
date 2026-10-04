@@ -116,8 +116,29 @@
       "volume": 3600,
       "cluster": "musculo",
       "status": "sem-serp"
+    },
+    {
+      "keyword": "tontura ao levantar",
+      "volume": null,
+      "cluster": "sintomas",
+      "status": "serp-ok-falta-volume",
+      "nota": "Google: MSD no topo mas resto são clínicas; PAA com AVC (risco)"
+    },
+    {
+      "keyword": "névoa mental",
+      "volume": null,
+      "cluster": "sintomas",
+      "status": "serp-ok-falta-volume",
+      "nota": "Google fraco (Instagram, blogs, Spotify)"
     }
   ],
   "semDemanda": "Frases longas do kit com volume < 200/mês no Google BR (não viram artigo próprio; entram como H2 de artigo-mãe): como perder barriga depois dos 40 (110), musculação depois dos 40 (30), treino de força para iniciantes (20), hipertrofia depois dos 40 (10), alimentos para reduzir gordura visceral (10), efeito platô emagrecimento (210)",
-  "foraDoEscopo": "Transacionais do kit (comprar creatina, assinar plano de treino, ebook, teste de longevidade): o robô não escreve sobre marcas/produtos"
+  "foraDoEscopo": "Transacionais do kit (comprar creatina, assinar plano de treino, ebook, teste de longevidade): o robô não escreve sobre marcas/produtos",
+  "descartadasSerp": [
+    {
+      "keyword": "ácido úrico alto",
+      "volume": 12100,
+      "motivo": "Tua Saúde + Rede D'Or + Sírio-Libanês + hospitais dominam o topo"
+    }
+  ]
 }

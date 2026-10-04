@@ -1201,6 +1201,195 @@
         "aiOverview": true
       },
       "fontes": []
+    },
+    {
+      "keyword": "hemoglobina glicada",
+      "volume": 135000,
+      "competition": "LOW",
+      "cluster": "exames",
+      "absorve": [
+        "qual nível de hemoglobina glicada é preocupante",
+        "sintomas quando a hemoglobina glicada está alta",
+        "o que faz subir a hemoglobina glicada",
+        "diferença entre hemoglobina glicada e diabetes"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIO",
+        "topoDoGoogle": "Rede D'Or + vários laboratórios pequenos (Cella, Mont'Serrat, São Lucas, LabVital, Vitória); sem gov/SBD",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://altadiagnosticos.com.br/saude/hemoglobina-glicada/",
+        "https://laboratoriosaogeronimo.com.br/post/exame-de-hemoglobina-glicada-valores-preparo-e-diagnostico/315",
+        "https://www.rededorsaoluiz.com.br/exames-e-procedimentos/analises-clinicas/hemoglobina-glicada",
+        "https://laboratoriocella.com.br/glicemia-e-hemoglobina-glicada-quando-pedir-e-como-entender-seus-resultados/",
+        "https://hilab.com.br/blog/hemoglobina-glicada-o-que-e-e-para-que-serve-o-exame/"
+      ],
+      "notas": "Não diagnosticar diabetes; valores de referência só como informados nas fontes; orientar a levar o resultado ao médico."
+    },
+    {
+      "keyword": "ferritina alta",
+      "volume": 60500,
+      "competition": "LOW",
+      "cluster": "exames",
+      "absorve": [
+        "qual o motivo da ferritina estar muito alta",
+        "tabela de ferritina por idade",
+        "hemocromatose tem cura",
+        "ferritina alta valores",
+        "ferritina alta é perigoso",
+        "ferritina alta e câncer"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIO",
+        "topoDoGoogle": "Posenato, CRF/GO, blogs médicos, Unimed, Delboni; Drauzio/Einstein só a partir da 6ª posição",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.rededorsaoluiz.com.br/noticias/artigo/ferritina-alta-o-que-significa-e-por-que-merece-atencao",
+        "https://www.drogaraia.com.br/blog/saude/vacinacao-exames-e-testes/ferritina-alta",
+        "https://www.clinicasim.com/blog/clinica-geral/ferritina-alta-causas-e-tratamento/",
+        "https://nutritotal.com.br/pro/ferritina-alta/",
+        "https://posenato.med.br/blog/exames/ferritina/",
+        "https://drmarcelbrunetto.com.br/excesso-de-ferro-no-organismo/"
+      ],
+      "notas": "Não afirmar câncer; explicar que muitas vezes é inflamação; sem dieta restritiva nem suplemento de ferro."
+    },
+    {
+      "keyword": "creatinina alta",
+      "volume": 33100,
+      "competition": "LOW",
+      "cluster": "exames",
+      "absorve": [
+        "o que fazer para baixar a creatinina alta",
+        "o que não comer quando a creatinina está alta",
+        "tabela de creatinina por idade",
+        "o que provoca o excesso de creatina"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Laboratórios (Fleming, LabVital), Doctoralia, Instagram, JC; sem portais grandes no topo",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.rededorsaoluiz.com.br/noticias/artigo/creatinina-alta-o-que-e-sintomas-significado-e-o-que-fazer",
+        "https://nav.dasa.com.br/blog/creatinina-alta",
+        "https://www.hospitalsamaritano.com.br/blog/como-baixar-creatinina-alta/",
+        "https://www.h9j.com.br/blog/o-que-e-creatinina-alta/",
+        "https://www.tuasaude.com/creatinina-alta/",
+        "https://fleminglaboratorio.com/glossario/creatinina-alta-o-que-significa/"
+      ],
+      "notas": "Não prometer 'baixar creatinina' com alimento ou chá; sem suplemento de creatina como recomendação; encaminhar ao nefrologista."
+    },
+    {
+      "keyword": "barriga inchada",
+      "volume": 33100,
+      "competition": "LOW",
+      "cluster": "digestao",
+      "absorve": [
+        "o que é bom para desinchar a barriga",
+        "estou com a barriga parecendo de grávida",
+        "o que provoca o aumento da barriga",
+        "barriga inchada e dura"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "PDFs de Portugal, blogs, clínicas, Instagram, Metrópoles; sem portal médico brasileiro forte",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://drconsulta.com/conteudo/barriga-inchada/",
+        "https://www.rededorsaoluiz.com.br/doencas/barriga-inchada",
+        "https://www.einstein.br/n/vida-saudavel/sua-barriga-incha-todo-dia-pode-ser-sindrome-do-intestino-irritavel",
+        "https://vencerocancer.org.br/saude/barriga-inchada/",
+        "https://nav.dasa.com.br/blog/barriga-inchada"
+      ],
+      "notas": "Citar sinais de alerta (dor intensa, febre, perda de peso, sangue nas fezes); sem chás/dietas detox milagrosas."
+    },
+    {
+      "keyword": "inchaço nas pernas",
+      "volume": 22200,
+      "competition": "LOW",
+      "cluster": "circulacao",
+      "absorve": [
+        "quando o inchaço nas pernas é preocupante",
+        "o que é bom para desinchar as pernas",
+        "o que causa retenção de líquido nas pernas",
+        "medicamentos que causam inchaço nas pernas"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Clínicas e médicos individuais, Brazil Health, portais de Portugal, Instagram",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://altadiagnosticos.com.br/saude/inchaco-nas-pernas/",
+        "https://www.hospitalaguasclaras.com.br/blog/inchaco-pernas/",
+        "https://www.levesaude.com.br/blog/sua-saude/pernas-inchadas-causas-comuns-e-quando-voce-deve-se-preocupar",
+        "https://nav.dasa.com.br/blog/inchaco-nas-pernas",
+        "https://baraovascular.com.br/principais-sintomas-vasculares/inchaco-nas-pernas/",
+        "https://www.clinicasim.com/blog/angiologia/o-que-causa-inchaco-nas-pernas/"
+      ],
+      "notas": "Destacar sinais de alerta (uma perna só e súbito, dor, falta de ar = pronto-socorro por risco de trombose); sem diurético caseiro."
+    },
+    {
+      "keyword": "presbiopia",
+      "volume": 18100,
+      "competition": "LOW",
+      "cluster": "visao",
+      "absorve": [
+        "é possível reverter presbiopia",
+        "como se corrige a presbiopia",
+        "diferença entre presbiopia e miopia",
+        "qual colírio corrige a presbiopia"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "FÁCIL",
+        "topoDoGoogle": "Clínicas e hospitais de olhos regionais, blogs; sem portal grande no topo",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://www.einstein.br/n/vida-saudavel/presbiopia-vista-cansada-e-inevitavel-mas-contornavel",
+        "https://coopervision.com.br/eye-health-and-vision/what-is-presbyopia",
+        "https://clinicaolhosdarciosilveira.com.br/doencas-oculares/presbiopia/",
+        "https://www.americasoftalmocenter.com/conteudo/presbiopia/",
+        "https://leiriadeandrade.com.br/doencas-oculares/presbiopia/"
+      ],
+      "notas": "Sem prometer colírio ou exercício que cure; dizer que é natural a partir dos 40 e que o oftalmologista define o grau."
+    },
+    {
+      "keyword": "tsh alto",
+      "volume": 12100,
+      "competition": "LOW",
+      "cluster": "exames",
+      "absorve": [
+        "qual valor de TSH é preocupante",
+        "tsh alto e t4 normal",
+        "tsh alto sintomas",
+        "tsh alto engorda",
+        "quando o tsh é considerado alto"
+      ],
+      "serp": {
+        "facil": true,
+        "nivel": "MÉDIO",
+        "topoDoGoogle": "Alta Diagnósticos, Rede D'Or, Hilab, Telemedicina Morsch, médicos individuais; sem gov",
+        "aiOverview": true
+      },
+      "fontes": [
+        "https://altadiagnosticos.com.br/saude/tsh-alto/",
+        "https://www.rededorsaoluiz.com.br/noticias/artigo/tsh-alto-sintomas-causas-e-tratamento",
+        "https://hilab.com.br/blog/o-que-significa-um-tsh-alto/",
+        "https://telemedicinamorsch.com.br/blog/tsh-alto",
+        "https://www.tuasaude.com/tsh-alto/",
+        "https://imagdiagnostico.com.br/saude/tsh-alto"
+      ],
+      "notas": "Faixas de referência divergem entre fontes: citar como 'cada laboratório define'; sem sugerir levotiroxina por conta própria."
     }
   ],
   "descartadas": "Mounjaxi/suplemento/termogênico (volume < 400 ou sem medição), '... 40+' de cauda longa sem volume, 'como emagrecer depois dos 40' (260/mês, concorrência HIGH)."
