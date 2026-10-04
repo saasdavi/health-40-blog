@@ -210,3 +210,5 @@ Modelo: cada subcategoria é uma **torre**. A **pauta-pilar** é o termo amplo d
 **Próximas a checar:** paralisia do sono, como dormir rápido, glicemia de jejum, exercícios para ombro, bruxismo. Fora do escopo: suplementos ("ômega 3 para que serve", "magnésio para que serve").
 
 **Como atualizar:** `node scripts/prateleira.js` mostra a fila e as candidatas; `node scripts/validar-pautas.js` confere as fontes; o banco vem de `node scripts/ingerir-hypd.js`.
+
+**Ordem de validação:** `node scripts/ordem-validacao.js` usa todas as palavras úteis do banco, agrupa as variações sob a frase-mãe, soma o volume e ordena do melhor ao pior (`data/pesquisa/ordem-de-validacao.md`). Palavras filtradas, competição ALTA e cabeças ambíguas ('sexo', 'casamento', 'aposentadoria'...) ficam de fora (`data/pesquisa/filtros.json`). Validar no Google de cima para baixo.

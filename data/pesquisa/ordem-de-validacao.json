@@ -1,0 +1,5687 @@
+{
+ "gerado": "2026-10-04",
+ "palavrasUsadas": 1096,
+ "grupos": 529,
+ "ordem": [
+  {
+   "ordem": 1,
+   "frase": "colesterol",
+   "volumeFrase": 60500,
+   "volumeGrupo": 437830,
+   "variacoes": 99,
+   "categoria": "coracao-pressao",
+   "status": "banco",
+   "topVariacoes": [
+    "colesterol alto",
+    "colesterol total",
+    "ldl colesterol",
+    "colesterol vldl",
+    "colesterol ruim qual e"
+   ]
+  },
+  {
+   "ordem": 2,
+   "frase": "triglicerídeos",
+   "volumeFrase": 135000,
+   "volumeGrupo": 188410,
+   "variacoes": 4,
+   "categoria": "coracao-pressao",
+   "status": "banco",
+   "topVariacoes": [
+    "triglicerídeos alto",
+    "colesterol triglicerídeos",
+    "colesterol e triglicerídeos",
+    "alimentos que baixam triglicerídeos"
+   ]
+  },
+  {
+   "ordem": 3,
+   "frase": "menopausa",
+   "volumeFrase": 49500,
+   "volumeGrupo": 158640,
+   "variacoes": 32,
+   "categoria": "mulher-menopausa",
+   "status": "banco",
+   "topVariacoes": [
+    "peri menopausa",
+    "menopausa o que é",
+    "76 sintomas da menopausa",
+    "sintomas menopáusa precoce",
+    "sintomas da menopáusa precoce"
+   ]
+  },
+  {
+   "ordem": 4,
+   "frase": "alopecia",
+   "volumeFrase": 135000,
+   "volumeGrupo": 136370,
+   "variacoes": 3,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": [
+    "alopecia capilar",
+    "alopecia masculina",
+    "oq é alopecia"
+   ]
+  },
+  {
+   "ordem": 5,
+   "frase": "hemoglobina glicosilada",
+   "volumeFrase": 135000,
+   "volumeGrupo": 135000,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 6,
+   "frase": "colesterol das hdl",
+   "volumeFrase": 74000,
+   "volumeGrupo": 132000,
+   "variacoes": 5,
+   "categoria": "coracao-pressao",
+   "status": "banco",
+   "topVariacoes": [
+    "colesterol nao hdl",
+    "hdl colesterol",
+    "colesterol bom hdl",
+    "colesterol alto hdl",
+    "colesterol hdl é o bom"
+   ]
+  },
+  {
+   "ordem": 7,
+   "frase": "próstata",
+   "volumeFrase": 74000,
+   "volumeGrupo": 104790,
+   "variacoes": 20,
+   "categoria": "homem-prostata",
+   "status": "candidata",
+   "topVariacoes": [
+    "exame de próstata",
+    "prostata inchada",
+    "próstata tamanho normal",
+    "próstata aumentada tem cura",
+    "hiperplasia benigna da próstata"
+   ]
+  },
+  {
+   "ordem": 8,
+   "frase": "dieta emagrecer",
+   "volumeFrase": 40500,
+   "volumeGrupo": 87950,
+   "variacoes": 8,
+   "categoria": "emagrecimento",
+   "status": "banco",
+   "topVariacoes": [
+    "dieta para emagrecer",
+    "dieta para emagrecer 10kg em 30 dias",
+    "dieta para emagrecer em 7 dias",
+    "dieta simples para emagrecer",
+    "dieta saudável para emagrecer"
+   ]
+  },
+  {
+   "ordem": 9,
+   "frase": "paralisia do sono",
+   "volumeFrase": 74000,
+   "volumeGrupo": 74780,
+   "variacoes": 4,
+   "categoria": "sono-mente",
+   "status": "candidata",
+   "topVariacoes": [
+    "a paralisia do sono pode matar",
+    "existe paralisia do sono",
+    "alucinações paralisia do sono",
+    "a paralisia do sono"
+   ]
+  },
+  {
+   "ordem": 10,
+   "frase": "bursite",
+   "volumeFrase": 74000,
+   "volumeGrupo": 74000,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 11,
+   "frase": "bruxismo",
+   "volumeFrase": 74000,
+   "volumeGrupo": 74000,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 12,
+   "frase": "fosfatase alcalina",
+   "volumeFrase": 74000,
+   "volumeGrupo": 74000,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 13,
+   "frase": "dermatite de contato",
+   "volumeFrase": 74000,
+   "volumeGrupo": 74000,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 14,
+   "frase": "psa",
+   "volumeFrase": 27100,
+   "volumeGrupo": 73880,
+   "variacoes": 9,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": [
+    "psa total e livre",
+    "exame psa",
+    "psa livre",
+    "psa normal",
+    "psa alto"
+   ]
+  },
+  {
+   "ordem": 15,
+   "frase": "emagrecer",
+   "volumeFrase": 33100,
+   "volumeGrupo": 64440,
+   "variacoes": 15,
+   "categoria": "emagrecimento",
+   "status": "banco",
+   "topVariacoes": [
+    "caminhada para emagrecer",
+    "sucos para emagrecer",
+    "alimentos para emagrecer",
+    "alimentação para emagrecer",
+    "treino para emagrecer"
+   ]
+  },
+  {
+   "ordem": 16,
+   "frase": "melasma",
+   "volumeFrase": 60500,
+   "volumeGrupo": 60500,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 17,
+   "frase": "gota",
+   "volumeFrase": 40500,
+   "volumeGrupo": 50000,
+   "variacoes": 2,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": [
+    "gota no pé",
+    "sintomas de gota"
+   ]
+  },
+  {
+   "ordem": 18,
+   "frase": "estrias",
+   "volumeFrase": 49500,
+   "volumeGrupo": 49500,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 19,
+   "frase": "triglicérides alto",
+   "volumeFrase": 49500,
+   "volumeGrupo": 49500,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 20,
+   "frase": "perimenopausa",
+   "volumeFrase": 40500,
+   "volumeGrupo": 40710,
+   "variacoes": 1,
+   "categoria": "mulher-menopausa",
+   "status": "banco",
+   "topVariacoes": [
+    "idade perimenopausa"
+   ]
+  },
+  {
+   "ordem": 21,
+   "frase": "exercícios para ombro",
+   "volumeFrase": 40500,
+   "volumeGrupo": 40500,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 22,
+   "frase": "sarcopenia o que é",
+   "volumeFrase": 33100,
+   "volumeGrupo": 40030,
+   "variacoes": 4,
+   "categoria": "ossos-articulacoes",
+   "status": "banco",
+   "topVariacoes": [
+    "sarcopenia tem cura",
+    "sarcopenia em idosos",
+    "sarcopenia causas",
+    "sarcopenia exercícios"
+   ]
+  },
+  {
+   "ordem": 23,
+   "frase": "câimbras",
+   "volumeFrase": 33100,
+   "volumeGrupo": 34200,
+   "variacoes": 4,
+   "categoria": "ossos-articulacoes",
+   "status": "banco",
+   "topVariacoes": [
+    "câimbras o que fazer",
+    "câimbras tratamento",
+    "câimbras causas",
+    "como aliviar câimbras"
+   ]
+  },
+  {
+   "ordem": 24,
+   "frase": "cochilo",
+   "volumeFrase": 33100,
+   "volumeGrupo": 33760,
+   "variacoes": 3,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": [
+    "cochilo depois do almoço",
+    "cochilo faz bem",
+    "cochilo de 20 minutos"
+   ]
+  },
+  {
+   "ordem": 25,
+   "frase": "meditação para dormir",
+   "volumeFrase": 9900,
+   "volumeGrupo": 31890,
+   "variacoes": 31,
+   "categoria": "sono-mente",
+   "status": "candidata",
+   "topVariacoes": [
+    "meditacao guiada dormir",
+    "meditação guiada para dormir",
+    "meditacao para dormir rapido",
+    "meditação para dormir louise hay",
+    "camila zen meditação dormir"
+   ]
+  },
+  {
+   "ordem": 26,
+   "frase": "prostatite",
+   "volumeFrase": 22200,
+   "volumeGrupo": 31590,
+   "variacoes": 3,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": [
+    "prostatite sintomas",
+    "prostatite tratamento",
+    "prostatite crônica"
+   ]
+  },
+  {
+   "ordem": 27,
+   "frase": "cabelo grisalho",
+   "volumeFrase": 22200,
+   "volumeGrupo": 28700,
+   "variacoes": 2,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "cabelo grisalho masculino",
+    "cabelo grisalho feminino"
+   ]
+  },
+  {
+   "ordem": 28,
+   "frase": "glicemia de jejum",
+   "volumeFrase": 22200,
+   "volumeGrupo": 23800,
+   "variacoes": 7,
+   "categoria": "diabetes-exames",
+   "status": "candidata",
+   "topVariacoes": [
+    "glicemia de jejum normal",
+    "glicemia alta em jejum",
+    "glicemia 126 em jejum",
+    "quantas horas de jejum para glicemia",
+    "glicemia de jejum alterada"
+   ]
+  },
+  {
+   "ordem": 29,
+   "frase": "hiperglicemia",
+   "volumeFrase": 22200,
+   "volumeGrupo": 22790,
+   "variacoes": 1,
+   "categoria": "diabetes-exames",
+   "status": "candidata",
+   "topVariacoes": [
+    "hiperglicemia valores"
+   ]
+  },
+  {
+   "ordem": 30,
+   "frase": "caspa",
+   "volumeFrase": 22200,
+   "volumeGrupo": 22520,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": [
+    "caspa e queda de cabelo"
+   ]
+  },
+  {
+   "ordem": 31,
+   "frase": "microalbuminúria",
+   "volumeFrase": 22200,
+   "volumeGrupo": 22200,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 32,
+   "frase": "como dormir rápido",
+   "volumeFrase": 22200,
+   "volumeGrupo": 22200,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 33,
+   "frase": "tendinite no ombro",
+   "volumeFrase": 22200,
+   "volumeGrupo": 22200,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 34,
+   "frase": "ligamento do joelho",
+   "volumeFrase": 22200,
+   "volumeGrupo": 22200,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 35,
+   "frase": "dor nas costas no meio",
+   "volumeFrase": 22200,
+   "volumeGrupo": 22200,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 36,
+   "frase": "sono rem",
+   "volumeFrase": 18100,
+   "volumeGrupo": 20740,
+   "variacoes": 3,
+   "categoria": "sono-mente",
+   "status": "candidata",
+   "topVariacoes": [
+    "fase do sono rem",
+    "fase rem do sono",
+    "fases do sono rem"
+   ]
+  },
+  {
+   "ordem": 37,
+   "frase": "couro cabeludo",
+   "volumeFrase": 9900,
+   "volumeGrupo": 20690,
+   "variacoes": 4,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": [
+    "foliculite no couro cabeludo",
+    "descamação do couro cabeludo",
+    "dermatite seborreica no couro cabeludo",
+    "couro cabeludo seco"
+   ]
+  },
+  {
+   "ordem": 38,
+   "frase": "climatério o que é",
+   "volumeFrase": 9900,
+   "volumeGrupo": 20430,
+   "variacoes": 7,
+   "categoria": "mulher-menopausa",
+   "status": "banco",
+   "topVariacoes": [
+    "climatério sintomas",
+    "sintomas do climatério",
+    "climatério sintomas iniciais",
+    "climatério significado",
+    "cid10 climaterio"
+   ]
+  },
+  {
+   "ordem": 39,
+   "frase": "calvície",
+   "volumeFrase": 18100,
+   "volumeGrupo": 19070,
+   "variacoes": 2,
+   "categoria": "homem-prostata",
+   "status": "candidata",
+   "topVariacoes": [
+    "sinais de calvície",
+    "como prevenir calvície"
+   ]
+  },
+  {
+   "ordem": 40,
+   "frase": "articulações",
+   "volumeFrase": 18100,
+   "volumeGrupo": 18800,
+   "variacoes": 2,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": [
+    "rigidez nas articulações",
+    "alimentos para articulações"
+   ]
+  },
+  {
+   "ordem": 41,
+   "frase": "recomeçar",
+   "volumeFrase": 18100,
+   "volumeGrupo": 18120,
+   "variacoes": 2,
+   "categoria": "relacionamento-sexualidade",
+   "status": "banco",
+   "topVariacoes": [
+    "recomeçar depois dos 40",
+    "recomeçar a vida depois dos 40"
+   ]
+  },
+  {
+   "ordem": 42,
+   "frase": "curva glicêmica",
+   "volumeFrase": 18100,
+   "volumeGrupo": 18100,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 43,
+   "frase": "falta de vitamina d",
+   "volumeFrase": 18100,
+   "volumeGrupo": 18100,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 44,
+   "frase": "benefícios do magnésio",
+   "volumeFrase": 12100,
+   "volumeGrupo": 16900,
+   "variacoes": 2,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "magnésio treonato benefícios e malefícios",
+    "magnésio dimalato benefícios e malefícios"
+   ]
+  },
+  {
+   "ordem": 45,
+   "frase": "cabelo caindo muito",
+   "volumeFrase": 9900,
+   "volumeGrupo": 16200,
+   "variacoes": 2,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "cabelo caindo muito o que pode ser",
+    "meu cabelo está caindo muito o que pode ser"
+   ]
+  },
+  {
+   "ordem": 46,
+   "frase": "ossos",
+   "volumeFrase": 8100,
+   "volumeGrupo": 16180,
+   "variacoes": 8,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": [
+    "dores nos ossos",
+    "alimentos para fortalecer os ossos",
+    "como fortalecer os ossos",
+    "leite fortalece os ossos",
+    "exercícios para fortalecer os ossos"
+   ]
+  },
+  {
+   "ordem": 47,
+   "frase": "hba1c",
+   "volumeFrase": 14800,
+   "volumeGrupo": 14810,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "hba1c 5.7"
+   ]
+  },
+  {
+   "ordem": 48,
+   "frase": "rosácea",
+   "volumeFrase": 14800,
+   "volumeGrupo": 14800,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 49,
+   "frase": "hiperplasia prostática",
+   "volumeFrase": 14800,
+   "volumeGrupo": 14800,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 50,
+   "frase": "dor de cabeça ao acordar",
+   "volumeFrase": 14800,
+   "volumeGrupo": 14800,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 51,
+   "frase": "artrite reumatoide sintomas",
+   "volumeFrase": 14800,
+   "volumeGrupo": 14800,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 52,
+   "frase": "dores nas costas o que pode ser",
+   "volumeFrase": 14800,
+   "volumeGrupo": 14800,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 53,
+   "frase": "cartilagem",
+   "volumeFrase": 9900,
+   "volumeGrupo": 14300,
+   "variacoes": 1,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": [
+    "cartilagem do joelho"
+   ]
+  },
+  {
+   "ordem": 54,
+   "frase": "higiene do sono",
+   "volumeFrase": 12100,
+   "volumeGrupo": 14280,
+   "variacoes": 2,
+   "categoria": "sono-mente",
+   "status": "candidata",
+   "topVariacoes": [
+    "higiene do sono pdf",
+    "higiene do sono como fazer"
+   ]
+  },
+  {
+   "ordem": 55,
+   "frase": "cabelo branco",
+   "volumeFrase": 12100,
+   "volumeGrupo": 13300,
+   "variacoes": 2,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "cabelo branco precoce",
+    "por que o cabelo fica branco"
+   ]
+  },
+  {
+   "ordem": 56,
+   "frase": "ciática",
+   "volumeFrase": 12100,
+   "volumeGrupo": 12110,
+   "variacoes": 1,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": [
+    "como aliviar ciática"
+   ]
+  },
+  {
+   "ordem": 57,
+   "frase": "homa ir",
+   "volumeFrase": 12100,
+   "volumeGrupo": 12100,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 58,
+   "frase": "urina escura",
+   "volumeFrase": 12100,
+   "volumeGrupo": 12100,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 59,
+   "frase": "sonambulismo",
+   "volumeFrase": 12100,
+   "volumeGrupo": 12100,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 60,
+   "frase": "urofluxometria",
+   "volumeFrase": 12100,
+   "volumeGrupo": 12100,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 61,
+   "frase": "alimentos ricos em magnésio",
+   "volumeFrase": 12100,
+   "volumeGrupo": 12100,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 62,
+   "frase": "pesadelos",
+   "volumeFrase": 9900,
+   "volumeGrupo": 10040,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": [
+    "pesadelos frequentes"
+   ]
+  },
+  {
+   "ordem": 63,
+   "frase": "insulina alta",
+   "volumeFrase": 9900,
+   "volumeGrupo": 9900,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 64,
+   "frase": "glicemia capilar",
+   "volumeFrase": 9900,
+   "volumeGrupo": 9900,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 65,
+   "frase": "babosa no cabelo",
+   "volumeFrase": 9900,
+   "volumeGrupo": 9900,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 66,
+   "frase": "suco detox emagrece",
+   "volumeFrase": 9900,
+   "volumeGrupo": 9900,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 67,
+   "frase": "meditacaoparadormir",
+   "volumeFrase": 9900,
+   "volumeGrupo": 9900,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 68,
+   "frase": "meditação ao dormir",
+   "volumeFrase": 9900,
+   "volumeGrupo": 9900,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 69,
+   "frase": "meditaçãopara dormir",
+   "volumeFrase": 9900,
+   "volumeGrupo": 9900,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 70,
+   "frase": "alimentos ricos em cálcio",
+   "volumeFrase": 9900,
+   "volumeGrupo": 9900,
+   "variacoes": 0,
+   "categoria": "alimentacao",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 71,
+   "frase": "cabelo caindo",
+   "volumeFrase": 4400,
+   "volumeGrupo": 9770,
+   "variacoes": 4,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "cabelo caindo só de passar a mão",
+    "cabelo caindo o que pode ser",
+    "cabelo caindo da raiz",
+    "cabeça coçando e cabelo caindo"
+   ]
+  },
+  {
+   "ordem": 72,
+   "frase": "alimentos ricos em vitamina d",
+   "volumeFrase": 8100,
+   "volumeGrupo": 9400,
+   "variacoes": 1,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": [
+    "alimentos ricos em vitamina k"
+   ]
+  },
+  {
+   "ordem": 73,
+   "frase": "fases sono",
+   "volumeFrase": 4400,
+   "volumeGrupo": 8800,
+   "variacoes": 1,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": [
+    "fases do sono"
+   ]
+  },
+  {
+   "ordem": 74,
+   "frase": "hpb",
+   "volumeFrase": 8100,
+   "volumeGrupo": 8310,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "hpb tratamento"
+   ]
+  },
+  {
+   "ordem": 75,
+   "frase": "glicemia alta",
+   "volumeFrase": 8100,
+   "volumeGrupo": 8140,
+   "variacoes": 2,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": [
+    "glicemia alta pela manhã",
+    "glicemia alta depois de comer"
+   ]
+  },
+  {
+   "ordem": 76,
+   "frase": "luz azul",
+   "volumeFrase": 8100,
+   "volumeGrupo": 8120,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": [
+    "luz azul e sono"
+   ]
+  },
+  {
+   "ordem": 77,
+   "frase": "rugas",
+   "volumeFrase": 8100,
+   "volumeGrupo": 8110,
+   "variacoes": 1,
+   "categoria": "pele-cabelo",
+   "status": "candidata",
+   "topVariacoes": [
+    "rugas causas"
+   ]
+  },
+  {
+   "ordem": 78,
+   "frase": "pth",
+   "volumeFrase": 8100,
+   "volumeGrupo": 8100,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 79,
+   "frase": "anti ccp",
+   "volumeFrase": 8100,
+   "volumeGrupo": 8100,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 80,
+   "frase": "ciclo do sono",
+   "volumeFrase": 8100,
+   "volumeGrupo": 8100,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 81,
+   "frase": "meditacoes iasd",
+   "volumeFrase": 8100,
+   "volumeGrupo": 8100,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 82,
+   "frase": "dieta para perder barriga",
+   "volumeFrase": 8100,
+   "volumeGrupo": 8100,
+   "variacoes": 0,
+   "categoria": "emagrecimento",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 83,
+   "frase": "dor nas costas ao respirar",
+   "volumeFrase": 8100,
+   "volumeGrupo": 8100,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 84,
+   "frase": "queda de cabelo o que pode ser",
+   "volumeFrase": 8100,
+   "volumeGrupo": 8100,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 85,
+   "frase": "causa insonia",
+   "volumeFrase": 3600,
+   "volumeGrupo": 7590,
+   "variacoes": 2,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": [
+    "insonia o que causa",
+    "causa de insonia"
+   ]
+  },
+  {
+   "ordem": 86,
+   "frase": "triglicerides",
+   "volumeFrase": 6600,
+   "volumeGrupo": 6980,
+   "variacoes": 2,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "alimentos que diminuem o triglicérides",
+    "alimentos que baixam o triglicérides"
+   ]
+  },
+  {
+   "ordem": 87,
+   "frase": "pilates e idosos",
+   "volumeFrase": 1900,
+   "volumeGrupo": 6850,
+   "variacoes": 10,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": [
+    "pilates em idosos",
+    "pilates para idosos",
+    "pilates em casa para idosos",
+    "exercicio de pilates para idosos",
+    "beneficios do pilates para idosos"
+   ]
+  },
+  {
+   "ordem": 88,
+   "frase": "totg",
+   "volumeFrase": 6600,
+   "volumeGrupo": 6600,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 89,
+   "frase": "região lombar",
+   "volumeFrase": 6600,
+   "volumeGrupo": 6600,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 90,
+   "frase": "glicemia pós prandial",
+   "volumeFrase": 6600,
+   "volumeGrupo": 6600,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 91,
+   "frase": "alongamento para coluna",
+   "volumeFrase": 6600,
+   "volumeGrupo": 6600,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 92,
+   "frase": "vontade de urinar toda hora",
+   "volumeFrase": 6600,
+   "volumeGrupo": 6600,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 93,
+   "frase": "insonia o que é",
+   "volumeFrase": 1000,
+   "volumeGrupo": 6010,
+   "variacoes": 14,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": [
+    "cid10 insonia",
+    "insonia como resolver",
+    "insonia tem cura",
+    "insonia terminal",
+    "insonia de manutencao"
+   ]
+  },
+  {
+   "ordem": 94,
+   "frase": "fogacho",
+   "volumeFrase": 3600,
+   "volumeGrupo": 5410,
+   "variacoes": 2,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "fogacho o que é",
+    "fogacho é perigoso"
+   ]
+  },
+  {
+   "ordem": 95,
+   "frase": "hiperpigmentação",
+   "volumeFrase": 5400,
+   "volumeGrupo": 5400,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 96,
+   "frase": "dor nas costas embaixo",
+   "volumeFrase": 5400,
+   "volumeGrupo": 5400,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 97,
+   "frase": "deficiência de vitamina d",
+   "volumeFrase": 5400,
+   "volumeGrupo": 5400,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 98,
+   "frase": "esquecimentos",
+   "volumeFrase": 3600,
+   "volumeGrupo": 5070,
+   "variacoes": 4,
+   "categoria": "cerebro-memoria",
+   "status": "banco",
+   "topVariacoes": [
+    "esquecimentos frequentes",
+    "esquecimentos repentinos",
+    "esquecimentos frequentes em jovens",
+    "esquecimentos frequentes o que pode ser"
+   ]
+  },
+  {
+   "ordem": 99,
+   "frase": "peptideo c",
+   "volumeFrase": 4400,
+   "volumeGrupo": 4400,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 100,
+   "frase": "cabelo ralo",
+   "volumeFrase": 4400,
+   "volumeGrupo": 4400,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 101,
+   "frase": "pontas duplas",
+   "volumeFrase": 4400,
+   "volumeGrupo": 4400,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 102,
+   "frase": "cabelo oleoso",
+   "volumeFrase": 4400,
+   "volumeGrupo": 4400,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 103,
+   "frase": "sons para dormir",
+   "volumeFrase": 4400,
+   "volumeGrupo": 4400,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 104,
+   "frase": "síndrome metabólica",
+   "volumeFrase": 4400,
+   "volumeGrupo": 4400,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 105,
+   "frase": "excesso de vitamina d",
+   "volumeFrase": 4400,
+   "volumeGrupo": 4400,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 106,
+   "frase": "exercícios para joelho",
+   "volumeFrase": 4400,
+   "volumeGrupo": 4400,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 107,
+   "frase": "dor muscular nas costas",
+   "volumeFrase": 4400,
+   "volumeGrupo": 4400,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 108,
+   "frase": "relação albumina creatinina",
+   "volumeFrase": 4400,
+   "volumeGrupo": 4400,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 109,
+   "frase": "benefícios da hidroginástica",
+   "volumeFrase": 2900,
+   "volumeGrupo": 4100,
+   "variacoes": 9,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": [
+    "beneficios hidroginástica",
+    "hidroginástica benefícios para o corpo",
+    "benefícios da hidroginástica para o corpo",
+    "hidroginastica quais sao os beneficios",
+    "beneficios da hidroginastica para idosos"
+   ]
+  },
+  {
+   "ordem": 110,
+   "frase": "causas de queda de cabelo",
+   "volumeFrase": 3600,
+   "volumeGrupo": 4080,
+   "variacoes": 1,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": [
+    "causas de queda de cabelo feminino"
+   ]
+  },
+  {
+   "ordem": 111,
+   "frase": "gravidez e insonia",
+   "volumeFrase": 1900,
+   "volumeGrupo": 4060,
+   "variacoes": 2,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": [
+    "insonia e gravidez",
+    "gravidez da insonia"
+   ]
+  },
+  {
+   "ordem": 112,
+   "frase": "quedas idosos",
+   "volumeFrase": 1000,
+   "volumeGrupo": 4040,
+   "variacoes": 4,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "idosos e quedas",
+    "quedas em idosos",
+    "quedas dos idosos",
+    "como evitar quedas em idosos"
+   ]
+  },
+  {
+   "ordem": 113,
+   "frase": "açúcar no sangue",
+   "volumeFrase": 2900,
+   "volumeGrupo": 3950,
+   "variacoes": 4,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "açúcar baixo no sangue",
+    "nível de açúcar no sangue",
+    "açúcar alto no sangue",
+    "exame de açúcar no sangue"
+   ]
+  },
+  {
+   "ordem": 114,
+   "frase": "insonia e ansiedade",
+   "volumeFrase": 1300,
+   "volumeGrupo": 3900,
+   "variacoes": 2,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": [
+    "ansiedade da insonia",
+    "insonia por ansiedade"
+   ]
+  },
+  {
+   "ordem": 115,
+   "frase": "insonia fatal",
+   "volumeFrase": 1900,
+   "volumeGrupo": 3800,
+   "variacoes": 1,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": [
+    "insonia familiar fatal"
+   ]
+  },
+  {
+   "ordem": 116,
+   "frase": "como pegar sono rapido",
+   "volumeFrase": 1900,
+   "volumeGrupo": 3800,
+   "variacoes": 1,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": [
+    "como pegar no sono rápido"
+   ]
+  },
+  {
+   "ordem": 117,
+   "frase": "privação de sono",
+   "volumeFrase": 3600,
+   "volumeGrupo": 3770,
+   "variacoes": 1,
+   "categoria": "sono-mente",
+   "status": "candidata",
+   "topVariacoes": [
+    "efeitos da privação de sono"
+   ]
+  },
+  {
+   "ordem": 118,
+   "frase": "dor articular",
+   "volumeFrase": 3600,
+   "volumeGrupo": 3600,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 119,
+   "frase": "coluna travada",
+   "volumeFrase": 3600,
+   "volumeGrupo": 3600,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 120,
+   "frase": "saúde do homem",
+   "volumeFrase": 3600,
+   "volumeGrupo": 3600,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 121,
+   "frase": "ruminação mental",
+   "volumeFrase": 3600,
+   "volumeGrupo": 3600,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 122,
+   "frase": "gordura abdominal",
+   "volumeFrase": 3600,
+   "volumeGrupo": 3600,
+   "variacoes": 0,
+   "categoria": "emagrecimento",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 123,
+   "frase": "exame de glicemia",
+   "volumeFrase": 3600,
+   "volumeGrupo": 3600,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 124,
+   "frase": "retenção urinária",
+   "volumeFrase": 3600,
+   "volumeGrupo": 3600,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 125,
+   "frase": "insonia quais as causas",
+   "volumeFrase": 3600,
+   "volumeGrupo": 3600,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 126,
+   "frase": "ejaculação retardada",
+   "volumeFrase": 1000,
+   "volumeGrupo": 3250,
+   "variacoes": 13,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "oq é ejaculação retardada",
+    "oque é ejaculação retardada",
+    "ejaculaçao retardada o que é",
+    "ejaculaçao retardada tratamento",
+    "tratamento ejaculacao retardada"
+   ]
+  },
+  {
+   "ordem": 127,
+   "frase": "ceramidas",
+   "volumeFrase": 2900,
+   "volumeGrupo": 2900,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 128,
+   "frase": "ferro baixo",
+   "volumeFrase": 2900,
+   "volumeGrupo": 2900,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 129,
+   "frase": "hidrolisado",
+   "volumeFrase": 2900,
+   "volumeGrupo": 2900,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 130,
+   "frase": "urinar muito",
+   "volumeFrase": 2900,
+   "volumeGrupo": 2900,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 131,
+   "frase": "exercícios para quadril",
+   "volumeFrase": 2900,
+   "volumeGrupo": 2900,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 132,
+   "frase": "como fortalecer o joelho",
+   "volumeFrase": 2900,
+   "volumeGrupo": 2900,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 133,
+   "frase": "treino para perder barriga",
+   "volumeFrase": 2900,
+   "volumeGrupo": 2900,
+   "variacoes": 0,
+   "categoria": "emagrecimento",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 134,
+   "frase": "tabela hemoglobina glicada",
+   "volumeFrase": 2900,
+   "volumeGrupo": 2900,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 135,
+   "frase": "alimentos ricos em vitaminas",
+   "volumeFrase": 2900,
+   "volumeGrupo": 2900,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 136,
+   "frase": "quantos fios de cabelo caem por dia",
+   "volumeFrase": 2900,
+   "volumeGrupo": 2900,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 137,
+   "frase": "entradas cabelo",
+   "volumeFrase": 1300,
+   "volumeGrupo": 2600,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "entradas no cabelo"
+   ]
+  },
+  {
+   "ordem": 138,
+   "frase": "estresse e queda de cabelo",
+   "volumeFrase": 1300,
+   "volumeGrupo": 2600,
+   "variacoes": 1,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": [
+    "queda de cabelo por estresse"
+   ]
+  },
+  {
+   "ordem": 139,
+   "frase": "pilates idoso",
+   "volumeFrase": 1900,
+   "volumeGrupo": 2580,
+   "variacoes": 5,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": [
+    "pilates para idoso em casa",
+    "exercicio de pilates para idoso",
+    "idoso pilates",
+    "pilates solo idoso",
+    "idoso no pilates"
+   ]
+  },
+  {
+   "ordem": 140,
+   "frase": "musculação em idosos",
+   "volumeFrase": 1000,
+   "volumeGrupo": 2500,
+   "variacoes": 5,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": [
+    "musculação para idosos",
+    "exercicio de musculação para idosos",
+    "exercicios de musculação para idosos",
+    "beneficios da musculação para idosos",
+    "academia de musculação para idosos"
+   ]
+  },
+  {
+   "ordem": 141,
+   "frase": "sono profundo",
+   "volumeFrase": 2400,
+   "volumeGrupo": 2480,
+   "variacoes": 2,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": [
+    "como aumentar sono profundo",
+    "importância do sono profundo"
+   ]
+  },
+  {
+   "ordem": 142,
+   "frase": "alongamento em idosos",
+   "volumeFrase": 1000,
+   "volumeGrupo": 2470,
+   "variacoes": 6,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": [
+    "alongamento para idosos",
+    "alongamento para idosos em pé",
+    "alongamento para idosos sentados",
+    "alongamento para idosos pdf",
+    "exercicios alongamento para idosos"
+   ]
+  },
+  {
+   "ordem": 143,
+   "frase": "anti gad",
+   "volumeFrase": 2400,
+   "volumeGrupo": 2400,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 144,
+   "frase": "cabelo fino",
+   "volumeFrase": 2400,
+   "volumeGrupo": 2400,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 145,
+   "frase": "cabelo seco",
+   "volumeFrase": 2400,
+   "volumeGrupo": 2400,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 146,
+   "frase": "cabelo opaco",
+   "volumeFrase": 2400,
+   "volumeGrupo": 2400,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 147,
+   "frase": "saúde do idoso",
+   "volumeFrase": 2400,
+   "volumeGrupo": 2400,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 148,
+   "frase": "muita dor nas costas",
+   "volumeFrase": 2400,
+   "volumeGrupo": 2400,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 149,
+   "frase": "relaxamento para dormir",
+   "volumeFrase": 2400,
+   "volumeGrupo": 2400,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 150,
+   "frase": "sintomas coluna cervical inflamada",
+   "volumeFrase": 2400,
+   "volumeGrupo": 2400,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 151,
+   "frase": "idade cronologica",
+   "volumeFrase": 1600,
+   "volumeGrupo": 2200,
+   "variacoes": 5,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "idade biologica e cronologica",
+    "idade cronologica e biologica",
+    "idade biologica e idade cronologica",
+    "idade cronológica e idade biológica",
+    "idade cronológica x idade biológica"
+   ]
+  },
+  {
+   "ordem": 152,
+   "frase": "toque retal",
+   "volumeFrase": 1600,
+   "volumeGrupo": 2090,
+   "variacoes": 2,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "exame de toque retal",
+    "toque retal dói"
+   ]
+  },
+  {
+   "ordem": 153,
+   "frase": "insonia que fazer",
+   "volumeFrase": 1900,
+   "volumeGrupo": 2040,
+   "variacoes": 1,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": [
+    "ansiedade insonia o que fazer"
+   ]
+  },
+  {
+   "ordem": 154,
+   "frase": "pilates idosa",
+   "volumeFrase": 1900,
+   "volumeGrupo": 1990,
+   "variacoes": 1,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": [
+    "idosa pilates"
+   ]
+  },
+  {
+   "ordem": 155,
+   "frase": "relógio biológico",
+   "volumeFrase": 1900,
+   "volumeGrupo": 1900,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 156,
+   "frase": "tendinite no punho",
+   "volumeFrase": 1900,
+   "volumeGrupo": 1900,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 157,
+   "frase": "linhas de expressão",
+   "volumeFrase": 1900,
+   "volumeGrupo": 1900,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 158,
+   "frase": "exame de vitamina d",
+   "volumeFrase": 1900,
+   "volumeGrupo": 1900,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 159,
+   "frase": "dormir demais faz mal",
+   "volumeFrase": 1900,
+   "volumeGrupo": 1900,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 160,
+   "frase": "médico que cuida da coluna",
+   "volumeFrase": 1900,
+   "volumeGrupo": 1900,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 161,
+   "frase": "alimentos que aceleram o metabolismo",
+   "volumeFrase": 1900,
+   "volumeGrupo": 1900,
+   "variacoes": 0,
+   "categoria": "emagrecimento",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 162,
+   "frase": "sono leve",
+   "volumeFrase": 1600,
+   "volumeGrupo": 1600,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 163,
+   "frase": "cronotipo",
+   "volumeFrase": 1600,
+   "volumeGrupo": 1600,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 164,
+   "frase": "riscos de quedas",
+   "volumeFrase": 1600,
+   "volumeGrupo": 1600,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 165,
+   "frase": "yoga para iniciantes",
+   "volumeFrase": 1600,
+   "volumeGrupo": 1600,
+   "variacoes": 0,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 166,
+   "frase": "terror noturno adulto",
+   "volumeFrase": 1600,
+   "volumeGrupo": 1600,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 167,
+   "frase": "dores musculares costas",
+   "volumeFrase": 1600,
+   "volumeGrupo": 1600,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 168,
+   "frase": "deficiência de magnésio",
+   "volumeFrase": 1600,
+   "volumeGrupo": 1600,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 169,
+   "frase": "valores normais de glicemia",
+   "volumeFrase": 1600,
+   "volumeGrupo": 1600,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 170,
+   "frase": "dor nas costas acima das nádegas",
+   "volumeFrase": 1600,
+   "volumeGrupo": 1600,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 171,
+   "frase": "esquecimento o que pode ser",
+   "volumeFrase": 880,
+   "volumeGrupo": 1530,
+   "variacoes": 5,
+   "categoria": "cerebro-memoria",
+   "status": "banco",
+   "topVariacoes": [
+    "esquecimento constante o que pode ser",
+    "muito esquecimento o que pode ser",
+    "esquecimento frequente o que pode ser",
+    "esquecimento repentino o que pode ser",
+    "esquecimento pode ser o que"
+   ]
+  },
+  {
+   "ordem": 172,
+   "frase": "exercícios de equilíbrio para idosos",
+   "volumeFrase": 880,
+   "volumeGrupo": 1440,
+   "variacoes": 3,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": [
+    "exercicios de equilibrio idosos",
+    "exercicios para equilibrio em idosos",
+    "exercícios de equilíbrio para idosos fisioterapia"
+   ]
+  },
+  {
+   "ordem": 173,
+   "frase": "gleason",
+   "volumeFrase": 1300,
+   "volumeGrupo": 1410,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "escore gleason"
+   ]
+  },
+  {
+   "ordem": 174,
+   "frase": "sono reparador",
+   "volumeFrase": 1000,
+   "volumeGrupo": 1390,
+   "variacoes": 1,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": [
+    "sono não reparador"
+   ]
+  },
+  {
+   "ordem": 175,
+   "frase": "manchas solares",
+   "volumeFrase": 1300,
+   "volumeGrupo": 1300,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 176,
+   "frase": "estagio do sono",
+   "volumeFrase": 1300,
+   "volumeGrupo": 1300,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 177,
+   "frase": "estagios do sono",
+   "volumeFrase": 1300,
+   "volumeGrupo": 1300,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 178,
+   "frase": "check up completo",
+   "volumeFrase": 1300,
+   "volumeGrupo": 1300,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 179,
+   "frase": "ordem do skincare",
+   "volumeFrase": 1300,
+   "volumeGrupo": 1300,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 180,
+   "frase": "como dormir melhor",
+   "volumeFrase": 1300,
+   "volumeGrupo": 1300,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 181,
+   "frase": "dormir tarde faz mal",
+   "volumeFrase": 1300,
+   "volumeGrupo": 1300,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 182,
+   "frase": "insónias e ansiedade",
+   "volumeFrase": 1300,
+   "volumeGrupo": 1300,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 183,
+   "frase": "alongamento para quadril",
+   "volumeFrase": 1300,
+   "volumeGrupo": 1300,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 184,
+   "frase": "queda de cabelo pos parto",
+   "volumeFrase": 1300,
+   "volumeGrupo": 1300,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 185,
+   "frase": "exercícios para idosos em casa",
+   "volumeFrase": 1300,
+   "volumeGrupo": 1300,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 186,
+   "frase": "diabetes tipo 1 e tipo 2 diferença",
+   "volumeFrase": 1300,
+   "volumeGrupo": 1300,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 187,
+   "frase": "musculacao idoso",
+   "volumeFrase": 1000,
+   "volumeGrupo": 1240,
+   "variacoes": 2,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": [
+    "idoso musculação",
+    "treino para idoso musculação"
+   ]
+  },
+  {
+   "ordem": 188,
+   "frase": "envelhecimento saudável",
+   "volumeFrase": 1000,
+   "volumeGrupo": 1220,
+   "variacoes": 3,
+   "categoria": "longevidade",
+   "status": "banco",
+   "topVariacoes": [
+    "envelhecimento saudável oms",
+    "envelhecimento ativo e saudavel",
+    "envelhecimento saudavel e qualidade de vida"
+   ]
+  },
+  {
+   "ordem": 189,
+   "frase": "exames para mulheres",
+   "volumeFrase": 720,
+   "volumeGrupo": 1200,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "exames de rotina para mulheres"
+   ]
+  },
+  {
+   "ordem": 190,
+   "frase": "o que é dor nas costas",
+   "volumeFrase": 720,
+   "volumeGrupo": 1200,
+   "variacoes": 2,
+   "categoria": "ossos-articulacoes",
+   "status": "banco",
+   "topVariacoes": [
+    "dor nas costas alongamento",
+    "dor nas costas exercícios"
+   ]
+  },
+  {
+   "ordem": 191,
+   "frase": "alongamento idoso",
+   "volumeFrase": 1000,
+   "volumeGrupo": 1140,
+   "variacoes": 1,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": [
+    "exercicio de alongamento para idoso"
+   ]
+  },
+  {
+   "ordem": 192,
+   "frase": "musculacao terceira idade",
+   "volumeFrase": 260,
+   "volumeGrupo": 1140,
+   "variacoes": 5,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": [
+    "terceira idade musculação",
+    "musculacao na terceira idade",
+    "musculacao para terceira idade",
+    "musculação na terceira idade beneficios",
+    "benefícios da musculação na terceira idade"
+   ]
+  },
+  {
+   "ordem": 193,
+   "frase": "ansiedade de desempenho",
+   "volumeFrase": 1000,
+   "volumeGrupo": 1050,
+   "variacoes": 2,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": [
+    "ansiedade desempenho",
+    "ansiedade do desempenho"
+   ]
+  },
+  {
+   "ordem": 194,
+   "frase": "muita sede",
+   "volumeFrase": 1000,
+   "volumeGrupo": 1000,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 195,
+   "frase": "fome excessiva",
+   "volumeFrase": 1000,
+   "volumeGrupo": 1000,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 196,
+   "frase": "dedos inchados",
+   "volumeFrase": 1000,
+   "volumeGrupo": 1000,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "candidata",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 197,
+   "frase": "acordar cansado",
+   "volumeFrase": 1000,
+   "volumeGrupo": 1000,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 198,
+   "frase": "inércia do sono",
+   "volumeFrase": 1000,
+   "volumeGrupo": 1000,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 199,
+   "frase": "vasinhos no rosto",
+   "volumeFrase": 1000,
+   "volumeGrupo": 1000,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 200,
+   "frase": "fotoenvelhecimento",
+   "volumeFrase": 1000,
+   "volumeGrupo": 1000,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 201,
+   "frase": "ejaculaçãoretardada",
+   "volumeFrase": 1000,
+   "volumeGrupo": 1000,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 202,
+   "frase": "especialista em cabelo",
+   "volumeFrase": 1000,
+   "volumeGrupo": 1000,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 203,
+   "frase": "envelhecimentosaudavel",
+   "volumeFrase": 1000,
+   "volumeGrupo": 1000,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 204,
+   "frase": "exercícios de kegel homem",
+   "volumeFrase": 1000,
+   "volumeGrupo": 1000,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 205,
+   "frase": "falar dormindo",
+   "volumeFrase": 880,
+   "volumeGrupo": 880,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 206,
+   "frase": "manchas nas mãos",
+   "volumeFrase": 880,
+   "volumeGrupo": 880,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 207,
+   "frase": "insulina de jejum",
+   "volumeFrase": 880,
+   "volumeGrupo": 880,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 208,
+   "frase": "pilates para coluna",
+   "volumeFrase": 880,
+   "volumeGrupo": 880,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 209,
+   "frase": "acordar de madrugada",
+   "volumeFrase": 880,
+   "volumeGrupo": 880,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 210,
+   "frase": "sonolência durante o dia",
+   "volumeFrase": 880,
+   "volumeGrupo": 880,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 211,
+   "frase": "queda de cabelo é normal",
+   "volumeFrase": 880,
+   "volumeGrupo": 880,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 212,
+   "frase": "exames para queda de cabelo",
+   "volumeFrase": 880,
+   "volumeGrupo": 880,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 213,
+   "frase": "atividade física para idosos",
+   "volumeFrase": 880,
+   "volumeGrupo": 880,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 214,
+   "frase": "treino para mulheres",
+   "volumeFrase": 720,
+   "volumeGrupo": 860,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "treino em casa para mulheres"
+   ]
+  },
+  {
+   "ordem": 215,
+   "frase": "esquecimento frequente",
+   "volumeFrase": 720,
+   "volumeGrupo": 810,
+   "variacoes": 1,
+   "categoria": "cerebro-memoria",
+   "status": "banco",
+   "topVariacoes": [
+    "esquecimento frequente em jovens"
+   ]
+  },
+  {
+   "ordem": 216,
+   "frase": "idoso academia",
+   "volumeFrase": 390,
+   "volumeGrupo": 780,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "idoso na academia"
+   ]
+  },
+  {
+   "ordem": 217,
+   "frase": "alimentos que aumentam hdl",
+   "volumeFrase": 390,
+   "volumeGrupo": 780,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "alimentos que aumentam o hdl"
+   ]
+  },
+  {
+   "ordem": 218,
+   "frase": "queda de cabelo em excesso",
+   "volumeFrase": 590,
+   "volumeGrupo": 760,
+   "variacoes": 1,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": [
+    "queda de cabelo feminino em excesso"
+   ]
+  },
+  {
+   "ordem": 219,
+   "frase": "índice homa",
+   "volumeFrase": 720,
+   "volumeGrupo": 720,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 220,
+   "frase": "fitoesterois",
+   "volumeFrase": 720,
+   "volumeGrupo": 720,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 221,
+   "frase": "dormir demais",
+   "volumeFrase": 720,
+   "volumeGrupo": 720,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 222,
+   "frase": "medo de dormir",
+   "volumeFrase": 720,
+   "volumeGrupo": 720,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 223,
+   "frase": "perda de cabelo",
+   "volumeFrase": 720,
+   "volumeGrupo": 720,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 224,
+   "frase": "qualidade do sono",
+   "volumeFrase": 720,
+   "volumeGrupo": 720,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 225,
+   "frase": "excesso de cálcio",
+   "volumeFrase": 720,
+   "volumeGrupo": 720,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 226,
+   "frase": "prevenção de quedas",
+   "volumeFrase": 720,
+   "volumeGrupo": 720,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 227,
+   "frase": "cuidados com as mãos",
+   "volumeFrase": 720,
+   "volumeGrupo": 720,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 228,
+   "frase": "melhor horário para dormir",
+   "volumeFrase": 720,
+   "volumeGrupo": 720,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 229,
+   "frase": "lavar cabelo todos os dias",
+   "volumeFrase": 720,
+   "volumeGrupo": 720,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 230,
+   "frase": "nutricionista emagrecimento",
+   "volumeFrase": 720,
+   "volumeGrupo": 720,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 231,
+   "frase": "alimentação para perder barriga",
+   "volumeFrase": 720,
+   "volumeGrupo": 720,
+   "variacoes": 0,
+   "categoria": "emagrecimento",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 232,
+   "frase": "exercícios para iniciantes em casa",
+   "volumeFrase": 720,
+   "volumeGrupo": 720,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 233,
+   "frase": "pilates terceira idade",
+   "volumeFrase": 210,
+   "volumeGrupo": 720,
+   "variacoes": 3,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": [
+    "pilates na terceira idade",
+    "pilates para terceira idade",
+    "beneficios do pilates na terceira idade"
+   ]
+  },
+  {
+   "ordem": 234,
+   "frase": "dormir pouco",
+   "volumeFrase": 390,
+   "volumeGrupo": 710,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "dormir pouco engorda"
+   ]
+  },
+  {
+   "ordem": 235,
+   "frase": "hidroginastica é bom para que",
+   "volumeFrase": 480,
+   "volumeGrupo": 660,
+   "variacoes": 2,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": [
+    "hidroginastica é bom para coluna",
+    "hidroginastica é bom"
+   ]
+  },
+  {
+   "ordem": 236,
+   "frase": "exames para homens",
+   "volumeFrase": 480,
+   "volumeGrupo": 650,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "exames de rotina para homens"
+   ]
+  },
+  {
+   "ordem": 237,
+   "frase": "sono e depressão",
+   "volumeFrase": 590,
+   "volumeGrupo": 630,
+   "variacoes": 1,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": [
+    "depressão e sono"
+   ]
+  },
+  {
+   "ordem": 238,
+   "frase": "ejaculacao tardia",
+   "volumeFrase": 590,
+   "volumeGrupo": 630,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "ejaculação tardia tratamento"
+   ]
+  },
+  {
+   "ordem": 239,
+   "frase": "nictúria",
+   "volumeFrase": 590,
+   "volumeGrupo": 590,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 240,
+   "frase": "saúde masculina",
+   "volumeFrase": 590,
+   "volumeGrupo": 590,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 241,
+   "frase": "cabelo saudável",
+   "volumeFrase": 590,
+   "volumeGrupo": 590,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 242,
+   "frase": "meditacao 5 min",
+   "volumeFrase": 590,
+   "volumeGrupo": 590,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 243,
+   "frase": "sono fragmentado",
+   "volumeFrase": 590,
+   "volumeGrupo": 590,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 244,
+   "frase": "check up masculino",
+   "volumeFrase": 590,
+   "volumeGrupo": 590,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 245,
+   "frase": "glicemia após comer",
+   "volumeFrase": 590,
+   "volumeGrupo": 590,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 246,
+   "frase": "jato de urina fraco",
+   "volumeFrase": 590,
+   "volumeGrupo": 590,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 247,
+   "frase": "importância do sono",
+   "volumeFrase": 590,
+   "volumeGrupo": 590,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 248,
+   "frase": "respiração para dormir",
+   "volumeFrase": 590,
+   "volumeGrupo": 590,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 249,
+   "frase": "esquecimento repentino",
+   "volumeFrase": 590,
+   "volumeGrupo": 590,
+   "variacoes": 0,
+   "categoria": "cerebro-memoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 250,
+   "frase": "queda de cabelo motivos",
+   "volumeFrase": 590,
+   "volumeGrupo": 590,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 251,
+   "frase": "queda de cabelo em mulheres",
+   "volumeFrase": 590,
+   "volumeGrupo": 590,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 252,
+   "frase": "demorar para ejacular",
+   "volumeFrase": 480,
+   "volumeGrupo": 520,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "demorar a ejacular"
+   ]
+  },
+  {
+   "ordem": 253,
+   "frase": "meditacao noite",
+   "volumeFrase": 170,
+   "volumeGrupo": 510,
+   "variacoes": 2,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": [
+    "meditacao da noite",
+    "meditacao para noite"
+   ]
+  },
+  {
+   "ordem": 254,
+   "frase": "o esquecimento",
+   "volumeFrase": 140,
+   "volumeGrupo": 510,
+   "variacoes": 7,
+   "categoria": "cerebro-memoria",
+   "status": "banco",
+   "topVariacoes": [
+    "esquecimento de palavras ao falar",
+    "pessoa com esquecimento",
+    "esquecimento de palavras",
+    "esquecimento memória fraca",
+    "memória fraca esquecimento"
+   ]
+  },
+  {
+   "ordem": 255,
+   "frase": "glicemix",
+   "volumeFrase": 480,
+   "volumeGrupo": 480,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 256,
+   "frase": "saúde óssea",
+   "volumeFrase": 480,
+   "volumeGrupo": 480,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 257,
+   "frase": "ereção fraca",
+   "volumeFrase": 480,
+   "volumeGrupo": 480,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 258,
+   "frase": "saúde do sono",
+   "volumeFrase": 480,
+   "volumeGrupo": 480,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 259,
+   "frase": "flacidez facial",
+   "volumeFrase": 480,
+   "volumeGrupo": 480,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 260,
+   "frase": "benefícios do sono",
+   "volumeFrase": 480,
+   "volumeGrupo": 480,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 261,
+   "frase": "acordar no meio da noite",
+   "volumeFrase": 480,
+   "volumeGrupo": 480,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 262,
+   "frase": "exercícios de baixo impacto",
+   "volumeFrase": 480,
+   "volumeGrupo": 480,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 263,
+   "frase": "exercicios para idosos fortalecimento",
+   "volumeFrase": 480,
+   "volumeGrupo": 480,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 264,
+   "frase": "alimentos para aumentar o hdl",
+   "volumeFrase": 390,
+   "volumeGrupo": 480,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "alimentos para aumentar hdl"
+   ]
+  },
+  {
+   "ordem": 265,
+   "frase": "idade biologica teste",
+   "volumeFrase": 110,
+   "volumeGrupo": 400,
+   "variacoes": 3,
+   "categoria": "longevidade",
+   "status": "banco",
+   "topVariacoes": [
+    "teste idade biologica",
+    "teste da idade biologica",
+    "teste de idade biologica"
+   ]
+  },
+  {
+   "ordem": 266,
+   "frase": "rosto cansado",
+   "volumeFrase": 390,
+   "volumeGrupo": 390,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 267,
+   "frase": "etapa do sono",
+   "volumeFrase": 390,
+   "volumeGrupo": 390,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 268,
+   "frase": "etapas do sono",
+   "volumeFrase": 390,
+   "volumeGrupo": 390,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 269,
+   "frase": "perda de massa óssea",
+   "volumeFrase": 390,
+   "volumeGrupo": 390,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 270,
+   "frase": "cotovelos ressecados",
+   "volumeFrase": 390,
+   "volumeGrupo": 390,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 271,
+   "frase": "densidade mineral óssea",
+   "volumeFrase": 390,
+   "volumeGrupo": 390,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 272,
+   "frase": "fator de proteção solar",
+   "volumeFrase": 390,
+   "volumeGrupo": 390,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 273,
+   "frase": "dores nas costas em baixo",
+   "volumeFrase": 390,
+   "volumeGrupo": 390,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 274,
+   "frase": "problemas de esquecimento",
+   "volumeFrase": 390,
+   "volumeGrupo": 390,
+   "variacoes": 0,
+   "categoria": "cerebro-memoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 275,
+   "frase": "exercícios para mobilidade",
+   "volumeFrase": 390,
+   "volumeGrupo": 390,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 276,
+   "frase": "alongamento antes de dormir",
+   "volumeFrase": 390,
+   "volumeGrupo": 390,
+   "variacoes": 0,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 277,
+   "frase": "técnica de respiração 4 7 8",
+   "volumeFrase": 390,
+   "volumeGrupo": 390,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 278,
+   "frase": "cabelos brancos para mulheres",
+   "volumeFrase": 390,
+   "volumeGrupo": 390,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 279,
+   "frase": "o que significa glicemia alterada",
+   "volumeFrase": 390,
+   "volumeGrupo": 390,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 280,
+   "frase": "falta de desejo masculino o que fazer",
+   "volumeFrase": 390,
+   "volumeGrupo": 390,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 281,
+   "frase": "exercicio para equilibrio idoso",
+   "volumeFrase": 260,
+   "volumeGrupo": 370,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "exercicio equilibrio idoso"
+   ]
+  },
+  {
+   "ordem": 282,
+   "frase": "esquecer as coisas",
+   "volumeFrase": 140,
+   "volumeGrupo": 370,
+   "variacoes": 3,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "esquecer das coisas",
+    "esquecer as coisas é normal",
+    "esquecer coisas recentes"
+   ]
+  },
+  {
+   "ordem": 283,
+   "frase": "rotina de sono",
+   "volumeFrase": 320,
+   "volumeGrupo": 320,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 284,
+   "frase": "idosa saudavel",
+   "volumeFrase": 320,
+   "volumeGrupo": 320,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 285,
+   "frase": "exame de cálcio",
+   "volumeFrase": 320,
+   "volumeGrupo": 320,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 286,
+   "frase": "cabelo afinando",
+   "volumeFrase": 320,
+   "volumeGrupo": 320,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 287,
+   "frase": "yoga para dormir",
+   "volumeFrase": 320,
+   "volumeGrupo": 320,
+   "variacoes": 0,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 288,
+   "frase": "idosos saudaveis",
+   "volumeFrase": 320,
+   "volumeGrupo": 320,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 289,
+   "frase": "cabelo não cresce",
+   "volumeFrase": 320,
+   "volumeGrupo": 320,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 290,
+   "frase": "flacidez corporal",
+   "volumeFrase": 320,
+   "volumeGrupo": 320,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 291,
+   "frase": "meditacao dormindo",
+   "volumeFrase": 320,
+   "volumeGrupo": 320,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 292,
+   "frase": "como evitar artrose",
+   "volumeFrase": 320,
+   "volumeGrupo": 320,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 293,
+   "frase": "deficiência de cálcio",
+   "volumeFrase": 320,
+   "volumeGrupo": 320,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 294,
+   "frase": "esquecimento constante",
+   "volumeFrase": 320,
+   "volumeGrupo": 320,
+   "variacoes": 0,
+   "categoria": "cerebro-memoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 295,
+   "frase": "exercícios para osteoporose",
+   "volumeFrase": 320,
+   "volumeGrupo": 320,
+   "variacoes": 0,
+   "categoria": "mulher-menopausa",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 296,
+   "frase": "ansiedade e queda de cabelo",
+   "volumeFrase": 320,
+   "volumeGrupo": 320,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 297,
+   "frase": "esquecimento de coisas recentes",
+   "volumeFrase": 320,
+   "volumeGrupo": 320,
+   "variacoes": 0,
+   "categoria": "cerebro-memoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 298,
+   "frase": "falta de desejo masculino causas",
+   "volumeFrase": 140,
+   "volumeGrupo": 280,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "causas da falta de desejo masculino"
+   ]
+  },
+  {
+   "ordem": 299,
+   "frase": "meditacao ativa",
+   "volumeFrase": 260,
+   "volumeGrupo": 260,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 300,
+   "frase": "rosto envelhecido",
+   "volumeFrase": 260,
+   "volumeGrupo": 260,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 301,
+   "frase": "sistema glinfático",
+   "volumeFrase": 260,
+   "volumeGrupo": 260,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 302,
+   "frase": "emagrecimento hormonal",
+   "volumeFrase": 260,
+   "volumeGrupo": 260,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 303,
+   "frase": "falta de ereçao matinal",
+   "volumeFrase": 260,
+   "volumeGrupo": 260,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 304,
+   "frase": "musculação para mulheres",
+   "volumeFrase": 260,
+   "volumeGrupo": 260,
+   "variacoes": 0,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 305,
+   "frase": "exercício antes de dormir",
+   "volumeFrase": 260,
+   "volumeGrupo": 260,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 306,
+   "frase": "riscos de queda em idosos",
+   "volumeFrase": 260,
+   "volumeGrupo": 260,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 307,
+   "frase": "receitas caseiras para cabelo",
+   "volumeFrase": 260,
+   "volumeGrupo": 260,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 308,
+   "frase": "hipotireoidismo e queda de cabelo",
+   "volumeFrase": 260,
+   "volumeGrupo": 260,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 309,
+   "frase": "couperose",
+   "volumeFrase": 210,
+   "volumeGrupo": 210,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 310,
+   "frase": "idoso caindo",
+   "volumeFrase": 210,
+   "volumeGrupo": 210,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 311,
+   "frase": "mãos rachadas",
+   "volumeFrase": 210,
+   "volumeGrupo": 210,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 312,
+   "frase": "yoga para idosos",
+   "volumeFrase": 210,
+   "volumeGrupo": 210,
+   "variacoes": 0,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 313,
+   "frase": "dor no períneo homem",
+   "volumeFrase": 210,
+   "volumeGrupo": 210,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 314,
+   "frase": "colageno verisol gelita",
+   "volumeFrase": 210,
+   "volumeGrupo": 210,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 315,
+   "frase": "benefícios de dormir bem",
+   "volumeFrase": 210,
+   "volumeGrupo": 210,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 316,
+   "frase": "exercícios para mulheres",
+   "volumeFrase": 210,
+   "volumeGrupo": 210,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 317,
+   "frase": "horário ideal para dormir",
+   "volumeFrase": 210,
+   "volumeGrupo": 210,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 318,
+   "frase": "alucinações hipnopômpicas",
+   "volumeFrase": 210,
+   "volumeGrupo": 210,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 319,
+   "frase": "musculação para iniciantes",
+   "volumeFrase": 210,
+   "volumeGrupo": 210,
+   "variacoes": 0,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 320,
+   "frase": "longevidade o que significa",
+   "volumeFrase": 210,
+   "volumeGrupo": 210,
+   "variacoes": 0,
+   "categoria": "longevidade",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 321,
+   "frase": "importância do protetor solar",
+   "volumeFrase": 210,
+   "volumeGrupo": 210,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 322,
+   "frase": "porque o homem falhar na hora h",
+   "volumeFrase": 210,
+   "volumeGrupo": 210,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 323,
+   "frase": "como desligar a mente para dormir",
+   "volumeFrase": 210,
+   "volumeGrupo": 210,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 324,
+   "frase": "exercicio para equilibrio em idosos",
+   "volumeFrase": 210,
+   "volumeGrupo": 210,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 325,
+   "frase": "quando a queda de cabelo é preocupante",
+   "volumeFrase": 210,
+   "volumeGrupo": 210,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 326,
+   "frase": "falhar na hora h",
+   "volumeFrase": 50,
+   "volumeGrupo": 200,
+   "variacoes": 5,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "medo de falhar na hora h",
+    "o que fazer para não falhar na hora h",
+    "motivo para um homem falhar na hora h",
+    "falhar na hora h é normal",
+    "é normal falhar na hora h"
+   ]
+  },
+  {
+   "ordem": 327,
+   "frase": "ereções matinais",
+   "volumeFrase": 90,
+   "volumeGrupo": 190,
+   "variacoes": 4,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "não estou tendo ereções matinais",
+    "não ter ereções matinais",
+    "perda de ereções matinais",
+    "ausencia de ereções matinais"
+   ]
+  },
+  {
+   "ordem": 328,
+   "frase": "treino para homens",
+   "volumeFrase": 170,
+   "volumeGrupo": 180,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "treino para homens de 40 anos"
+   ]
+  },
+  {
+   "ordem": 329,
+   "frase": "hidroginastica terceira idade",
+   "volumeFrase": 90,
+   "volumeGrupo": 180,
+   "variacoes": 1,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": [
+    "hidroginastica na terceira idade"
+   ]
+  },
+  {
+   "ordem": 330,
+   "frase": "colagenas",
+   "volumeFrase": 170,
+   "volumeGrupo": 170,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 331,
+   "frase": "fase do sono",
+   "volumeFrase": 170,
+   "volumeGrupo": 170,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 332,
+   "frase": "acordar sem ar",
+   "volumeFrase": 170,
+   "volumeGrupo": 170,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 333,
+   "frase": "prevenir doenças",
+   "volumeFrase": 170,
+   "volumeGrupo": 170,
+   "variacoes": 0,
+   "categoria": "longevidade",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 334,
+   "frase": "exames metabólicos",
+   "volumeFrase": 170,
+   "volumeGrupo": 170,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 335,
+   "frase": "cicatrização lenta",
+   "volumeFrase": 170,
+   "volumeGrupo": 170,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 336,
+   "frase": "ejaculação demorada",
+   "volumeFrase": 170,
+   "volumeGrupo": 170,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 337,
+   "frase": "sinais de osteoporose",
+   "volumeFrase": 170,
+   "volumeGrupo": 170,
+   "variacoes": 0,
+   "categoria": "mulher-menopausa",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 338,
+   "frase": "ansiedade antes de dormir",
+   "volumeFrase": 170,
+   "volumeGrupo": 170,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 339,
+   "frase": "por que precisamos dormir",
+   "volumeFrase": 170,
+   "volumeGrupo": 170,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 340,
+   "frase": "tratamento da osteoporose",
+   "volumeFrase": 170,
+   "volumeGrupo": 170,
+   "variacoes": 0,
+   "categoria": "mulher-menopausa",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 341,
+   "frase": "quantas vezes lavar o cabelo",
+   "volumeFrase": 170,
+   "volumeGrupo": 170,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 342,
+   "frase": "alimentos que ajudam a dormir",
+   "volumeFrase": 170,
+   "volumeGrupo": 170,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 343,
+   "frase": "acordar e nao conseguir se mexer",
+   "volumeFrase": 170,
+   "volumeGrupo": 170,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 344,
+   "frase": "alimentos hdl",
+   "volumeFrase": 90,
+   "volumeGrupo": 160,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "alimentos com hdl"
+   ]
+  },
+  {
+   "ordem": 345,
+   "frase": "sono e fome",
+   "volumeFrase": 140,
+   "volumeGrupo": 140,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 346,
+   "frase": "tesao matinal",
+   "volumeFrase": 140,
+   "volumeGrupo": 140,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 347,
+   "frase": "cloro e cabelo",
+   "volumeFrase": 140,
+   "volumeGrupo": 140,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 348,
+   "frase": "sono e estresse",
+   "volumeFrase": 140,
+   "volumeGrupo": 140,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 349,
+   "frase": "saúde do cabelo",
+   "volumeFrase": 140,
+   "volumeGrupo": 140,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 350,
+   "frase": "acordar sem ereção",
+   "volumeFrase": 140,
+   "volumeGrupo": 140,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 351,
+   "frase": "pênis não fica duro",
+   "volumeFrase": 140,
+   "volumeGrupo": 140,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 352,
+   "frase": "como adormecer rápido",
+   "volumeFrase": 140,
+   "volumeGrupo": 140,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 353,
+   "frase": "como hidratar o corpo",
+   "volumeFrase": 140,
+   "volumeGrupo": 140,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 354,
+   "frase": "caminhada para idosos",
+   "volumeFrase": 140,
+   "volumeGrupo": 140,
+   "variacoes": 0,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 355,
+   "frase": "exercícios para homens",
+   "volumeFrase": 140,
+   "volumeGrupo": 140,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 356,
+   "frase": "glicemia normal por idade",
+   "volumeFrase": 140,
+   "volumeGrupo": 140,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 357,
+   "frase": "caminhada para iniciantes",
+   "volumeFrase": 140,
+   "volumeGrupo": 140,
+   "variacoes": 0,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 358,
+   "frase": "pau nao fica duro",
+   "volumeFrase": 70,
+   "volumeGrupo": 140,
+   "variacoes": 2,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "meu pau nao fica duro",
+    "meu pau nao fica mais duro"
+   ]
+  },
+  {
+   "ordem": 359,
+   "frase": "alongamento na terceira idade",
+   "volumeFrase": 70,
+   "volumeGrupo": 140,
+   "variacoes": 1,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": [
+    "alongamento para terceira idade"
+   ]
+  },
+  {
+   "ordem": 360,
+   "frase": "exercicios para idosos na academia",
+   "volumeFrase": 90,
+   "volumeGrupo": 130,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "exercicios para idosos academia"
+   ]
+  },
+  {
+   "ordem": 361,
+   "frase": "manchas de idade",
+   "volumeFrase": 110,
+   "volumeGrupo": 110,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 362,
+   "frase": "cálcio baixo no sangue",
+   "volumeFrase": 110,
+   "volumeGrupo": 110,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 363,
+   "frase": "leitura antes de dormir",
+   "volumeFrase": 110,
+   "volumeGrupo": 110,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 364,
+   "frase": "queda de cabelo no banho",
+   "volumeFrase": 110,
+   "volumeGrupo": 110,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 365,
+   "frase": "doutores do emagrecimento",
+   "volumeFrase": 110,
+   "volumeGrupo": 110,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 366,
+   "frase": "corrida prejudica o joelho",
+   "volumeFrase": 110,
+   "volumeGrupo": 110,
+   "variacoes": 0,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 367,
+   "frase": "treino para idosos em casa",
+   "volumeFrase": 110,
+   "volumeGrupo": 110,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 368,
+   "frase": "treino de força para idosos",
+   "volumeFrase": 110,
+   "volumeGrupo": 110,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 369,
+   "frase": "resistência à insulina exame",
+   "volumeFrase": 110,
+   "volumeGrupo": 110,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 370,
+   "frase": "treinamento de forca para idosos",
+   "volumeFrase": 110,
+   "volumeGrupo": 110,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 371,
+   "frase": "ferritina baixa e queda de cabelo",
+   "volumeFrase": 110,
+   "volumeGrupo": 110,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 372,
+   "frase": "hidroginástica fortalece os músculos",
+   "volumeFrase": 110,
+   "volumeGrupo": 110,
+   "variacoes": 0,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 373,
+   "frase": "vantagens hidroginastica",
+   "volumeFrase": 50,
+   "volumeGrupo": 100,
+   "variacoes": 1,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": [
+    "vantagens da hidroginastica"
+   ]
+  },
+  {
+   "ordem": 374,
+   "frase": "falta de desejo homem",
+   "volumeFrase": 20,
+   "volumeGrupo": 100,
+   "variacoes": 4,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "homem falta de desejo",
+    "falta de desejo no homem",
+    "falta de desejo do homem",
+    "homem com falta de desejo"
+   ]
+  },
+  {
+   "ordem": 375,
+   "frase": "kegel homem",
+   "volumeFrase": 90,
+   "volumeGrupo": 90,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 376,
+   "frase": "cortisol e sono",
+   "volumeFrase": 90,
+   "volumeGrupo": 90,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 377,
+   "frase": "sem erecao matinal",
+   "volumeFrase": 90,
+   "volumeGrupo": 90,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 378,
+   "frase": "sono e emagrecimento",
+   "volumeFrase": 90,
+   "volumeGrupo": 90,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 379,
+   "frase": "para que serve o sono",
+   "volumeFrase": 90,
+   "volumeGrupo": 90,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 380,
+   "frase": "espinhas depois dos 40",
+   "volumeFrase": 90,
+   "volumeGrupo": 90,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 381,
+   "frase": "celular antes de dormir",
+   "volumeFrase": 90,
+   "volumeGrupo": 90,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 382,
+   "frase": "celular atrapalha o sono",
+   "volumeFrase": 90,
+   "volumeGrupo": 90,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 383,
+   "frase": "beneficio hidroginastica",
+   "volumeFrase": 90,
+   "volumeGrupo": 90,
+   "variacoes": 0,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 384,
+   "frase": "quando usar gelo ou calor",
+   "volumeFrase": 90,
+   "volumeGrupo": 90,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 385,
+   "frase": "corticoide altera glicemia",
+   "volumeFrase": 90,
+   "volumeGrupo": 90,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 386,
+   "frase": "ereçao matinal significado",
+   "volumeFrase": 90,
+   "volumeGrupo": 90,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 387,
+   "frase": "dificuldade para pegar no sono",
+   "volumeFrase": 90,
+   "volumeGrupo": 90,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 388,
+   "frase": "como perder o medo de falhar na hora h",
+   "volumeFrase": 90,
+   "volumeGrupo": 90,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 389,
+   "frase": "dieta para homens",
+   "volumeFrase": 70,
+   "volumeGrupo": 80,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "dieta para homens de 40 anos"
+   ]
+  },
+  {
+   "ordem": 390,
+   "frase": "saúde capilar",
+   "volumeFrase": 70,
+   "volumeGrupo": 70,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 391,
+   "frase": "articulação inchada",
+   "volumeFrase": 70,
+   "volumeGrupo": 70,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 392,
+   "frase": "perda de mobilidade",
+   "volumeFrase": 70,
+   "volumeGrupo": 70,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 393,
+   "frase": "check up para mulheres",
+   "volumeFrase": 70,
+   "volumeGrupo": 70,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 394,
+   "frase": "exercícios para artrite",
+   "volumeFrase": 70,
+   "volumeGrupo": 70,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 395,
+   "frase": "musculação e osteoporose",
+   "volumeFrase": 70,
+   "volumeGrupo": 70,
+   "variacoes": 0,
+   "categoria": "mulher-menopausa",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 396,
+   "frase": "reaplicar protetor solar",
+   "volumeFrase": 70,
+   "volumeGrupo": 70,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 397,
+   "frase": "tintura danifica o cabelo",
+   "volumeFrase": 70,
+   "volumeGrupo": 70,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 398,
+   "frase": "como não falhar na hora h",
+   "volumeFrase": 70,
+   "volumeGrupo": 70,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 399,
+   "frase": "protetor solar todos os dias",
+   "volumeFrase": 70,
+   "volumeGrupo": 70,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 400,
+   "frase": "protetor solar dentro de casa",
+   "volumeFrase": 70,
+   "volumeGrupo": 70,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 401,
+   "frase": "dieta para mulheres de 40 anos",
+   "volumeFrase": 70,
+   "volumeGrupo": 70,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 402,
+   "frase": "transição para cabelos grisalhos",
+   "volumeFrase": 70,
+   "volumeGrupo": 70,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 403,
+   "frase": "demorar na ejaculação",
+   "volumeFrase": 50,
+   "volumeGrupo": 70,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "demorar a ejaculação"
+   ]
+  },
+  {
+   "ordem": 404,
+   "frase": "100 peso emagrece quantos quilos",
+   "volumeFrase": 40,
+   "volumeGrupo": 60,
+   "variacoes": 1,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": [
+    "100 peso emagrece quantos quilos por semana"
+   ]
+  },
+  {
+   "ordem": 405,
+   "frase": "forte flex",
+   "volumeFrase": 50,
+   "volumeGrupo": 50,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 406,
+   "frase": "urina residual",
+   "volumeFrase": 50,
+   "volumeGrupo": 50,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 407,
+   "frase": "sono e memória",
+   "volumeFrase": 50,
+   "volumeGrupo": 50,
+   "variacoes": 0,
+   "categoria": "cerebro-memoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 408,
+   "frase": "sono e ansiedade",
+   "volumeFrase": 50,
+   "volumeGrupo": 50,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 409,
+   "frase": "perda de colágeno",
+   "volumeFrase": 50,
+   "volumeGrupo": 50,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 410,
+   "frase": "testosterona e sono",
+   "volumeFrase": 50,
+   "volumeGrupo": 50,
+   "variacoes": 0,
+   "categoria": "homem-prostata",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 411,
+   "frase": "dieta para mulheres",
+   "volumeFrase": 50,
+   "volumeGrupo": 50,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 412,
+   "frase": "check up para homens",
+   "volumeFrase": 50,
+   "volumeGrupo": 50,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 413,
+   "frase": "ereção durante o sono",
+   "volumeFrase": 50,
+   "volumeGrupo": 50,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 414,
+   "frase": "musculação aos 50 anos",
+   "volumeFrase": 50,
+   "volumeGrupo": 50,
+   "variacoes": 0,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 415,
+   "frase": "musculação aos 60 anos",
+   "volumeFrase": 50,
+   "volumeGrupo": 50,
+   "variacoes": 0,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 416,
+   "frase": "homem demorar para gozar",
+   "volumeFrase": 50,
+   "volumeGrupo": 50,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 417,
+   "frase": "nao tenho erecao matinal",
+   "volumeFrase": 50,
+   "volumeGrupo": 50,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 418,
+   "frase": "hemograma detecta diabetes",
+   "volumeFrase": 50,
+   "volumeGrupo": 50,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 419,
+   "frase": "treino para idosos na academia",
+   "volumeFrase": 50,
+   "volumeGrupo": 50,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 420,
+   "frase": "resultado da densitometria óssea",
+   "volumeFrase": 50,
+   "volumeGrupo": 50,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 421,
+   "frase": "álcool e sono",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 422,
+   "frase": "vitamina de sono",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 423,
+   "frase": "esquecer palavras",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 424,
+   "frase": "café e osteoporose",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "mulher-menopausa",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 425,
+   "frase": "sono e aprendizado",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 426,
+   "frase": "dieta depois dos 40",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 427,
+   "frase": "clube da longevidade",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "longevidade",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 428,
+   "frase": "rotina antes de dormir",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 429,
+   "frase": "colageno andressa suita",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 430,
+   "frase": "queda de cabelo sintomas",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 431,
+   "frase": "queda de cabelo tem cura",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 432,
+   "frase": "musculação depois dos 50",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 433,
+   "frase": "calcular idade biológica",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "longevidade",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 434,
+   "frase": "como recuperar massa óssea",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 435,
+   "frase": "banho quente antes de dormir",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 436,
+   "frase": "dor lombar relaxante muscular",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 437,
+   "frase": "licopeno colágeno e vitamina c",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 438,
+   "frase": "ciclo de crescimento do cabelo",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 439,
+   "frase": "ranger os dentes durante o sono",
+   "volumeFrase": 40,
+   "volumeGrupo": 40,
+   "variacoes": 0,
+   "categoria": "visao-audicao-boca",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 440,
+   "frase": "insonias",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 441,
+   "frase": "função do sono",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 442,
+   "frase": "dieta para artrose",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 443,
+   "frase": "glicemia ao acordar",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 444,
+   "frase": "telas antes de dormir",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 445,
+   "frase": "acordar às 3 da manhã",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 446,
+   "frase": "ereções fracas causas",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 447,
+   "frase": "queda de cabelo sazonal",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 448,
+   "frase": "musculação depois dos 40",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 449,
+   "frase": "tabela glicemia por idade",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 450,
+   "frase": "hábitos para dormir melhor",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 451,
+   "frase": "ausencia de erecao matinal",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 452,
+   "frase": "glicemia normal para idosos",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 453,
+   "frase": "quando o homem falha na hora h",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 454,
+   "frase": "quantas horas de sono por noite",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 455,
+   "frase": "alimentos que atrapalham o sono",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 456,
+   "frase": "melhor exame para detectar diabetes",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 457,
+   "frase": "alimentação para crescimento do cabelo",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 458,
+   "frase": "tratamento para falta de desejo masculino",
+   "volumeFrase": 30,
+   "volumeGrupo": 30,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 459,
+   "frase": "café à noite",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "alimentacao",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 460,
+   "frase": "cafeína e sono",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "alimentacao",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 461,
+   "frase": "sono e alzheimer",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "cerebro-memoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 462,
+   "frase": "sono e imunidade",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 463,
+   "frase": "triptofano e sono",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 464,
+   "frase": "ejaculação atrasada",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 465,
+   "frase": "densitometria normal",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 466,
+   "frase": "treino depois dos 40",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 467,
+   "frase": "testosterona e cabelo",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "homem-prostata",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 468,
+   "frase": "recuperar sono perdido",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 469,
+   "frase": "tabela glicemia normal",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 470,
+   "frase": "100 peso emagrece mesmo",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 471,
+   "frase": "como fortalecer o fêmur",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 472,
+   "frase": "perda de volume capilar",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 473,
+   "frase": "estresse altera glicemia",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 474,
+   "frase": "como aumentar massa óssea",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 475,
+   "frase": "queda de cabelo no outono",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 476,
+   "frase": "dor no joelho alongamento",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "ossos-articulacoes",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 477,
+   "frase": "como descobrir osteoporose",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "mulher-menopausa",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 478,
+   "frase": "queda de cabelo hereditária",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 479,
+   "frase": "gotejamento depois de urinar",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 480,
+   "frase": "nao consigo ficar de pau duro",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 481,
+   "frase": "glicemia baixa depois de comer",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 482,
+   "frase": "alimentos que estimulam colágeno",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 483,
+   "frase": "exames para saber se tenho diabetes",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 484,
+   "frase": "glicemia acima de quanto é diabetes",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 485,
+   "frase": "como interpretar hemoglobina glicada",
+   "volumeFrase": 20,
+   "volumeGrupo": 20,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 486,
+   "frase": "kreatin hcl",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 487,
+   "frase": "sono e humor",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 488,
+   "frase": "sono e coração",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "coracao-pressao",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 489,
+   "frase": "dívida de sono",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 490,
+   "frase": "em7 emagrecedor",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 491,
+   "frase": "test cholesterol",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 492,
+   "frase": "proteine creatina",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 493,
+   "frase": "estresse e cabelo",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 494,
+   "frase": "dieta aos 50 anos",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 495,
+   "frase": "bicicleta e joelho",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 496,
+   "frase": "sono e metabolismo",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "emagrecimento",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 497,
+   "frase": "estrogênio e cabelo",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 498,
+   "frase": "dieta depois dos 50",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 499,
+   "frase": "como evitar fraturas",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 500,
+   "frase": "condroitina funciona",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 501,
+   "frase": "horas de sono ideais",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 502,
+   "frase": "sono e produtividade",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 503,
+   "frase": "regularidade do sono",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 504,
+   "frase": "vitamina ce colágeno",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 505,
+   "frase": "alimentação e cabelo",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 506,
+   "frase": "beleza depois dos 40",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 507,
+   "frase": "longevidade masculina",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "longevidade",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 508,
+   "frase": "prevenção de fraturas",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 509,
+   "frase": "yoga para osteoporose",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "mulher-menopausa",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 510,
+   "frase": "efeitos de dormir mal",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 511,
+   "frase": "rosa selvagem colageno",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 512,
+   "frase": "longevidade alimentação",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "longevidade",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 513,
+   "frase": "mejor colageno para mujer",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 514,
+   "frase": "tintura e queda de cabelo",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 515,
+   "frase": "estresse causa impotência",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sono-mente",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 516,
+   "frase": "3 potes colágeno renova be",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 517,
+   "frase": "sedentarismo e osteoporose",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "exercicio",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 518,
+   "frase": "causas dos cabelos brancos",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "pele-cabelo",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 519,
+   "frase": "alimentação antes de dormir",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 520,
+   "frase": "dormir mais no fim de semana",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 521,
+   "frase": "glicemia depois das refeições",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 522,
+   "frase": "glicemia 2 horas depois de comer",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 523,
+   "frase": "quais exames fazer para diabetes",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "diabetes-exames",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 524,
+   "frase": "dormir e acordar no mesmo horário",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 525,
+   "frase": "alimentos para prevenir osteoporose",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "mulher-menopausa",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 526,
+   "frase": "como acalmar a mente antes de dormir",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 527,
+   "frase": "como parar de pensar antes de dormir",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 528,
+   "frase": "colágeno ácido hialurónico resveratrol",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  },
+  {
+   "ordem": 529,
+   "frase": "como voltar a dormir depois de acordar",
+   "volumeFrase": 10,
+   "volumeGrupo": 10,
+   "variacoes": 0,
+   "categoria": "sem-categoria",
+   "status": "banco",
+   "topVariacoes": []
+  }
+ ]
+}
