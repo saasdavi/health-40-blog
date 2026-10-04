@@ -25,6 +25,11 @@ const KEYWORDS_FILE = path.join(__dirname, '../data/keywords-validated.json');
 const BATCH_SIZE = Number(process.env.BATCH_SIZE || 1);
 // Teto de publicações por dia (dia de Brasília). Padrão 3: cada execução agendada faz 1, e nenhuma execução (manual ou repetida) passa de 3 no dia.
 const DAILY_LIMIT = Number(process.env.DAILY_LIMIT || 3);
+// Modo ESTOQUE (ESTOQUE=1): escreve os artigos e guarda no GitHub como rascunho pronto (status 'draft' + estoque:true, o site NÃO mostra).
+// As execuções agendadas (sem ESTOQUE) publicam do estoque primeiro, no máximo DAILY_LIMIT por dia, e só escrevem na hora se o estoque acabar.
+// ESTOQUE_ALVO = quantos artigos prontos manter guardados (padrão 21 = 7 dias).
+const ESTOQUE = process.env.ESTOQUE === '1';
+const ESTOQUE_ALVO = Number(process.env.ESTOQUE_ALVO || 21);
 const WRITER_MODEL = process.env.ROBOT_MODEL || 'claude-haiku-4-5-20251001';
 const VALIDATOR_MODEL = process.env.VALIDATOR_MODEL || 'claude-haiku-4-5-20251001';
 const MIN_SCORE = 80;
@@ -81,7 +86,7 @@ class ArticleRobot {
   escolherPauta() {
     const usadas = new Set();
     for (const a of this.db.articles) {
-      if (a.status === 'draft') continue;
+      if (a.status === 'draft' && !a.estoque) continue;
       usadas.add((a.primaryKeyword || '').toLowerCase());
       usadas.add(a.slug);
     }
@@ -90,6 +95,7 @@ class ArticleRobot {
       if (k.serp?.facil !== true || !k.fontes?.length) return false;
       // tema sensível (remédio, urgência, sexualidade...) só publica depois de revisão humana: tire `sensivel`/`revisar` da pauta
       if (k.sensivel === true && k.revisar === true) return false;
+      if (ESTOQUE && k.substitui) return false; // reescrita de artigo no ar não passa pelo estoque
       if (k.substitui) return !!porSlug.get(k.substitui) && porSlug.get(k.substitui).validador !== 'APROVADO';
       return !usadas.has(k.keyword.toLowerCase()) && !usadas.has(slugify(k.keyword));
     });
@@ -108,6 +114,21 @@ class ArticleRobot {
     const hoje = dia(new Date().toISOString());
     const feitos = this.db.articles.filter(a => a.status === 'published' && a.publishedAt && dia(a.publishedAt) === hoje).length;
     return Math.max(0, DAILY_LIMIT - feitos);
+  }
+
+  // ---------- estoque de artigos prontos ----------
+  prontosNoEstoque() { return this.db.articles.filter(a => a.status === 'draft' && a.estoque === true && a.validador === 'APROVADO'); }
+
+  // Publica do estoque (no máximo `quantos`, respeitando o teto do dia). Devolve quantos publicou.
+  publicarDoEstoque(quantos) {
+    const agora = new Date().toISOString();
+    const lote = this.prontosNoEstoque().slice(0, Math.max(0, Math.min(quantos, this.restanteHoje())));
+    for (const a of lote) {
+      a.status = 'published'; a.publishedAt = agora; a.estoque = false; a.publicadoDoEstoqueEm = agora;
+      this.stats.published++;
+      console.log(`  📤 publicado do estoque: /${a.slug}/`);
+    }
+    return lote.length;
   }
 
   // Briefing salvo no GitHub (scripts/briefing.js): perguntas do Google, buscas relacionadas, meta de escrita e pontes de link.
@@ -514,8 +535,17 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
   async executar() {
     if (!process.env.ANTHROPIC_API_KEY) throw new Error('ANTHROPIC_API_KEY ausente');
     console.log(`\n🤖 ARTICLE ROBOT — ${new Date().toISOString()}`);
-    if (this.restanteHoje() === 0) { console.log(`⏸️  Teto do dia atingido (${DAILY_LIMIT} artigos publicados hoje). Nada a fazer.`); return this.stats; }
-    const pauta = this.escolherPauta();
+    if (!ESTOQUE) {
+      if (this.restanteHoje() === 0) { console.log(`⏸️  Teto do dia atingido (${DAILY_LIMIT} artigos publicados hoje). Nada a fazer.`); return this.stats; }
+      const n = this.publicarDoEstoque(BATCH_SIZE);
+      if (n > 0) { this.gravar(); console.log(`\n📦 ${n} artigo(s) publicado(s) do estoque (${this.prontosNoEstoque().length} ainda guardados).`); return this.stats; }
+      console.log('📦 Estoque vazio: escrevendo e publicando na hora.');
+    } else {
+      const faltam = ESTOQUE_ALVO - this.prontosNoEstoque().length;
+      if (faltam <= 0) { console.log(`📦 Estoque cheio (${this.prontosNoEstoque().length}/${ESTOQUE_ALVO}). Nada a escrever.`); return this.stats; }
+      console.log(`📦 Modo ESTOQUE: ${this.prontosNoEstoque().length}/${ESTOQUE_ALVO} guardados; escrevendo até ${Math.min(BATCH_SIZE, faltam)}.`);
+    }
+    const pauta = ESTOQUE ? this.escolherPauta().slice(0, Math.max(0, ESTOQUE_ALVO - this.prontosNoEstoque().length)) : this.escolherPauta();
     if (!pauta.length) { console.error('❌ FILA VAZIA: não há palavra validada livre em data/keywords-validated.json. Adicione palavras (volume + SERP fácil + fontes).'); process.exitCode = 1; return this.stats; }
 
     for (const p of pauta) {
@@ -526,7 +556,8 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
         this.stats.approved++;
         if (!(await this.imagem(art))) { this.stats.failed++; continue; }
         const agora = new Date().toISOString();
-        art.status = 'published';
+        art.status = ESTOQUE ? 'draft' : 'published';
+        if (ESTOQUE) { art.estoque = true; art.estocadoEm = agora; }
         const idx = p.substitui ? this.db.articles.findIndex(x => x.slug === p.substitui) : -1;
         if (idx >= 0) {
           const antigo = this.db.articles[idx];
@@ -537,12 +568,11 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
           this.db.articles[idx] = art;
           console.log(`  ♻️  reescrito no mesmo endereço (era ${antigo.wordCount || '?'} palavras)`);
         } else {
-          art.publishedAt = agora;
+          if (!ESTOQUE) art.publishedAt = agora;
           delete art._substitui;
           this.db.articles.push(art);
         }
-        this.stats.published++;
-        console.log(`  ✅ publicado: /${art.slug}/`);
+        if (ESTOQUE) { this.stats.estocados = (this.stats.estocados || 0) + 1; console.log(`  📦 guardado no estoque: /${art.slug}/`); } else { this.stats.published++; console.log(`  ✅ publicado: /${art.slug}/`); }
       } catch (e) {
         this.stats.failed++;
         console.error(`  ❌ ${e.message}`);
@@ -551,7 +581,7 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
     this.gravar();
     this.relatorioCusto();
     console.log(`\n📊 gerados ${this.stats.generated} | aprovados ${this.stats.approved} | publicados ${this.stats.published} | falhas ${this.stats.failed}`);
-    if (this.stats.published === 0) process.exitCode = 1;
+    if ((ESTOQUE ? (this.stats.estocados || 0) : this.stats.published) === 0) process.exitCode = 1;
     return this.stats;
   }
 }

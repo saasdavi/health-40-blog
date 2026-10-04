@@ -86,6 +86,13 @@ Cada execução agendada faz 1 artigo (`BATCH_SIZE` padrão 1, 3 execuções por
 4. **Modelo:** Haiku 4.5 como redator e validador (decisão do usuário). Trocar = `ROBOT_MODEL` / `VALIDATOR_MODEL` no workflow, só se a qualidade decepcionar.
 5. Revisão humana por amostragem (~10% por semana) e liberação de temas sensíveis.
 
+## Estoque de artigos escritos (guardados no GitHub, publicados conforme a agenda)
+- **Workflow "Escrever estoque de artigos (rascunhos prontos)"** (`.github/workflows/escrever-estoque.yml`): Run workflow com `quantidade` (quantos escrever agora) e `alvo` (quantos manter guardados; padrão 21 = 7 dias). Também roda sozinho toda noite às 02:37 UTC escrevendo 3 até chegar ao alvo. Antes de escrever, compara com o topo as pautas que faltam (`comparar-topo.js --pendentes 10`) e monta os briefings.
+- **Como fica guardado:** em `data/articles.json` com `status: "draft"` e `estoque: true`. O site só mostra o que não é `draft`, então o estoque NÃO aparece. As imagens ficam em `public/images/`.
+- **Como publica:** as execuções do "Daily Article Production" (3 por dia) **publicam do estoque primeiro** (no máximo 3 por dia, `DAILY_LIMIT`), sem gastar API; só escrevem na hora se o estoque acabar. Cada publicação grava `publishedAt` e `publicadoDoEstoqueEm`.
+- **Limites:** o estoque só cresce até o número de pautas validadas livres (hoje 63): para chegar a 1 ano de artigos escritos, é preciso validar ~1.000 pautas. Escrever muito à frente envelhece o texto: o prudente é manter 21 a 60 dias guardados e reescrever o que ficar antigo. Pauta sensível não entra no estoque (continua travada até revisão). Custo estimado com Haiku: cerca de US$ 0,10 por artigo.
+- **Não testado com a API:** a lógica de estoque e publicação foi testada com dados simulados (publicou 2 de 3 pedidos por causa do teto do dia). A primeira execução real mostra se falta algum ajuste.
+
 ## Trava de segurança do robô (04/10/2026)
 O robô publica sozinho qualquer pauta com SERP fácil e fontes; **`revisar: true` sozinho não o impede**. Por isso pautas de tema sensível levam `sensivel: true` além de `revisar: true`, e o `escolherPauta` do `scripts/article-robot.js` **pula** as que têm os dois. Para liberar: revisar a pauta/artigo e apagar `sensivel` e `revisar` em `data/keywords-validated.json`. Hoje bloqueada: ereção matinal. Toda pauta nova de remédio, urgência, sexualidade ou pornografia deve entrar com `sensivel: true`.
 

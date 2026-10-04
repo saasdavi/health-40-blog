@@ -47,9 +47,11 @@ jobs:
         continue-on-error: true
         run: node scripts/validar-pautas.js --online --limite 9
 
-      - name: 📋 Briefing por pauta (perguntas do Google, meta de escrita, pontes)
+      - name: 📋 Comparar com o topo (pautas que faltam) e montar briefings
         continue-on-error: true
-        run: node scripts/briefing.js
+        run: |
+          node scripts/comparar-topo.js --pendentes 6
+          node scripts/briefing.js
 
       - name: 🤖 ARTICLE ROBOT 3/DIA - Fluxo Completo
         env:
