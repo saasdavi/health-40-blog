@@ -1,0 +1,854 @@
+[
+ {
+  "k": "paralisia do sono",
+  "v": 74000,
+  "c": "LOW",
+  "ci": 4
+ },
+ {
+  "k": "melatonina para que serve",
+  "v": 74000,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "polissonografia",
+  "v": 60500,
+  "c": "LOW",
+  "ci": 18
+ },
+ {
+  "k": "ritmo circadiano",
+  "v": 40500,
+  "c": "LOW",
+  "ci": 2
+ },
+ {
+  "k": "fadiga",
+  "v": 27100,
+  "c": "LOW",
+  "ci": 1
+ },
+ {
+  "k": "como dormir rápido",
+  "v": 22200,
+  "c": "LOW",
+  "ci": 7
+ },
+ {
+  "k": "sono rem",
+  "v": 18100,
+  "c": "LOW",
+  "ci": 16
+ },
+ {
+  "k": "dor de cabeça ao acordar",
+  "v": 14800,
+  "c": "LOW",
+  "ci": 28
+ },
+ {
+  "k": "sonambulismo",
+  "v": 12100,
+  "c": "LOW",
+  "ci": 4
+ },
+ {
+  "k": "terror noturno",
+  "v": 12100,
+  "c": "LOW",
+  "ci": 10
+ },
+ {
+  "k": "higiene do sono",
+  "v": 12100,
+  "c": "LOW",
+  "ci": 20
+ },
+ {
+  "k": "suor noturno",
+  "v": 9900,
+  "c": "LOW",
+  "ci": 11
+ },
+ {
+  "k": "meditação para dormir",
+  "v": 9900,
+  "c": "LOW",
+  "ci": 15
+ },
+ {
+  "k": "chá para dormir",
+  "v": 9900,
+  "c": "HIGH",
+  "ci": 100
+ },
+ {
+  "k": "ciclo do sono",
+  "v": 8100,
+  "c": "LOW",
+  "ci": 2
+ },
+ {
+  "k": "hipersonia",
+  "v": 6600,
+  "c": "LOW",
+  "ci": 1
+ },
+ {
+  "k": "médico do sono",
+  "v": 5400,
+  "c": "MEDIUM",
+  "ci": 49
+ },
+ {
+  "k": "fases do sono",
+  "v": 4400,
+  "c": "LOW",
+  "ci": 17
+ },
+ {
+  "k": "insônia causas",
+  "v": 3600,
+  "c": "LOW",
+  "ci": 25
+ },
+ {
+  "k": "posição para dormir",
+  "v": 3600,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "privação de sono",
+  "v": 3600,
+  "c": "LOW",
+  "ci": 6
+ },
+ {
+  "k": "magnésio para dormir",
+  "v": 2900,
+  "c": "HIGH",
+  "ci": 100
+ },
+ {
+  "k": "sono profundo",
+  "v": 2400,
+  "c": "LOW",
+  "ci": 26
+ },
+ {
+  "k": "relaxamento para dormir",
+  "v": 2400,
+  "c": "LOW",
+  "ci": 28
+ },
+ {
+  "k": "relógio biológico",
+  "v": 1900,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "insônia o que fazer",
+  "v": 1900,
+  "c": "MEDIUM",
+  "ci": 64
+ },
+ {
+  "k": "alucinações hipnagógicas",
+  "v": 1900,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "sono leve",
+  "v": 1600,
+  "c": "LOW",
+  "ci": 6
+ },
+ {
+  "k": "cronotipo",
+  "v": 1600,
+  "c": "LOW",
+  "ci": 1
+ },
+ {
+  "k": "acordar com o coração acelerado",
+  "v": 1600,
+  "c": "LOW",
+  "ci": 2
+ },
+ {
+  "k": "dormir cedo",
+  "v": 1300,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "o que comer antes de dormir",
+  "v": 1000,
+  "c": "LOW",
+  "ci": 9
+ },
+ {
+  "k": "acordar cansado",
+  "v": 1000,
+  "c": "LOW",
+  "ci": 3
+ },
+ {
+  "k": "acordar com falta de ar",
+  "v": 1000,
+  "c": "LOW",
+  "ci": 3
+ },
+ {
+  "k": "acordar de madrugada",
+  "v": 880,
+  "c": "LOW",
+  "ci": 1
+ },
+ {
+  "k": "ronco causas",
+  "v": 880,
+  "c": "LOW",
+  "ci": 33
+ },
+ {
+  "k": "falar dormindo",
+  "v": 880,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "sono depois do almoço",
+  "v": 720,
+  "c": "LOW",
+  "ci": 1
+ },
+ {
+  "k": "dormir demais",
+  "v": 720,
+  "c": "LOW",
+  "ci": 1
+ },
+ {
+  "k": "dormir pouco faz mal",
+  "v": 720,
+  "c": "LOW",
+  "ci": 3
+ },
+ {
+  "k": "sono fragmentado",
+  "v": 590,
+  "c": "LOW",
+  "ci": 4
+ },
+ {
+  "k": "sono e depressão",
+  "v": 590,
+  "c": "LOW",
+  "ci": 4
+ },
+ {
+  "k": "respiração para dormir",
+  "v": 590,
+  "c": "LOW",
+  "ci": 6
+ },
+ {
+  "k": "sono pesado",
+  "v": 590,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "insônia e menopausa",
+  "v": 590,
+  "c": "MEDIUM",
+  "ci": 47
+ },
+ {
+  "k": "sono não reparador",
+  "v": 390,
+  "c": "LOW",
+  "ci": 4
+ },
+ {
+  "k": "bruxismo do sono",
+  "v": 390,
+  "c": "LOW",
+  "ci": 9
+ },
+ {
+  "k": "travesseiro ideal",
+  "v": 320,
+  "c": "HIGH",
+  "ci": 100
+ },
+ {
+  "k": "diário do sono",
+  "v": 320,
+  "c": "LOW",
+  "ci": 2
+ },
+ {
+  "k": "idoso dormindo muito",
+  "v": 320,
+  "c": "LOW",
+  "ci": 1
+ },
+ {
+  "k": "sono agitado",
+  "v": 320,
+  "c": "LOW",
+  "ci": 2
+ },
+ {
+  "k": "como sair da paralisia do sono",
+  "v": 260,
+  "c": "LOW",
+  "ci": 5
+ },
+ {
+  "k": "técnica 4 7 8",
+  "v": 260,
+  "c": "LOW",
+  "ci": 1
+ },
+ {
+  "k": "sonolência depois de comer",
+  "v": 260,
+  "c": "LOW",
+  "ci": 1
+ },
+ {
+  "k": "dormir pouco emagrece",
+  "v": 210,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "horário ideal para dormir",
+  "v": 210,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "alimentos que ajudam a dormir",
+  "v": 170,
+  "c": "LOW",
+  "ci": 23
+ },
+ {
+  "k": "fome de madrugada",
+  "v": 170,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "remédio para dormir faz mal",
+  "v": 170,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "quantas horas dormir",
+  "v": 140,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "pesadelos frequentes",
+  "v": 140,
+  "c": "LOW",
+  "ci": 4
+ },
+ {
+  "k": "colchão ideal",
+  "v": 110,
+  "c": "HIGH",
+  "ci": 100
+ },
+ {
+  "k": "ansiedade e sono",
+  "v": 110,
+  "c": "LOW",
+  "ci": 7
+ },
+ {
+  "k": "dificuldade para pegar no sono",
+  "v": 90,
+  "c": "LOW",
+  "ci": 33
+ },
+ {
+  "k": "celular antes de dormir",
+  "v": 90,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "azia ao deitar",
+  "v": 90,
+  "c": "LOW",
+  "ci": 2
+ },
+ {
+  "k": "dormir com a tv ligada",
+  "v": 50,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "cochilo faz bem",
+  "v": 50,
+  "c": "LOW",
+  "ci": 1
+ },
+ {
+  "k": "sono e memória",
+  "v": 50,
+  "c": "LOW",
+  "ci": 11
+ },
+ {
+  "k": "dor nas costas e sono",
+  "v": 50,
+  "c": "LOW",
+  "ci": 2
+ },
+ {
+  "k": "é normal acordar de madrugada",
+  "v": 50,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "rotina antes de dormir",
+  "v": 40,
+  "c": "LOW",
+  "ci": 2
+ },
+ {
+  "k": "álcool e sono",
+  "v": 40,
+  "c": "LOW",
+  "ci": 1
+ },
+ {
+  "k": "banho quente antes de dormir",
+  "v": 40,
+  "c": "LOW",
+  "ci": 2
+ },
+ {
+  "k": "acordar às 3 da manhã",
+  "v": 30,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "ronco em mulheres",
+  "v": 30,
+  "c": "LOW",
+  "ci": 21
+ },
+ {
+  "k": "sonhar todas as noites",
+  "v": 30,
+  "c": "LOW",
+  "ci": 1
+ },
+ {
+  "k": "moleza depois do almoço",
+  "v": 30,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "urinar à noite",
+  "v": 20,
+  "c": "LOW",
+  "ci": 4
+ },
+ {
+  "k": "luz azul e sono",
+  "v": 20,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "café à noite",
+  "v": 20,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "cochilo ideal",
+  "v": 20,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "sono e alzheimer",
+  "v": 20,
+  "c": "LOW",
+  "ci": 2
+ },
+ {
+  "k": "sono e imunidade",
+  "v": 20,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "tpm e sono",
+  "v": 20,
+  "c": "LOW",
+  "ci": 8
+ },
+ {
+  "k": "sonolência ao dirigir",
+  "v": 20,
+  "c": "LOW",
+  "ci": 2
+ },
+ {
+  "k": "sono de má qualidade",
+  "v": 20,
+  "c": "LOW",
+  "ci": 5
+ },
+ {
+  "k": "calor e sono",
+  "v": 20,
+  "c": "LOW",
+  "ci": 1
+ },
+ {
+  "k": "cafeína e sono",
+  "v": 20,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "sono na terceira idade",
+  "v": 10,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "acordar às 4 da manhã",
+  "v": 10,
+  "c": "LOW",
+  "ci": 5
+ },
+ {
+  "k": "quarto ideal para dormir",
+  "v": 10,
+  "c": "LOW",
+  "ci": 2
+ },
+ {
+  "k": "sono e coração",
+  "v": 10,
+  "c": "LOW",
+  "ci": 0
+ },
+ {
+  "k": "câimbras à noite",
+  "v": 10,
+  "c": "LOW",
+  "ci": 24
+ },
+ {
+  "k": "refluxo à noite",
+  "v": 10,
+  "c": "LOW",
+  "ci": 6
+ },
+ {
+  "k": "sono na perimenopausa",
+  "v": 10,
+  "c": "LOW",
+  "ci": 21
+ },
+ {
+  "k": "dormir de lado ou de barriga para cima",
+  "v": 10,
+  "c": "LOW",
+  "ci": 1
+ },
+ {
+  "k": "sono depois dos 40",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "sono depois dos 50",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "insônia crônica",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "insônia e ansiedade",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "insônia e estresse",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "terapia para insônia",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "ronco e pressão alta",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "apneia do sono sintomas",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "exame do sono",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "boca seca ao acordar",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "sonolência excessiva",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "cansaço mesmo dormindo",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "síndrome das pernas inquietas",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "espasmos ao dormir",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "jantar pesado",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "cansaço constante",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "sono e pressão alta",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "sono e diabetes",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "sono e peso",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "sono e colesterol",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "sono e tireoide",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "sono na menopausa",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "ondas de calor à noite",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "por que mulheres dormem pior",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "próstata e levantar à noite",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "testosterona baixa e sono",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "apneia em homens",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "pensamentos acelerados ao deitar",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "estresse e insônia",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "burnout e sono",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "idoso dormindo pouco",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "sono invertido no idoso",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "sono e demência",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "levantar à noite e queda",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "dependência de remédio para dormir",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "quantas horas dormir depois dos 40",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "dormir de dia é ruim",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "por que durmo mal",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "por que tenho sono o dia todo",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "dá para compensar o sono perdido",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "acordar várias vezes à noite",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "falta de sono sintomas",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "exercício e sono",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "luz do dia e sono",
+  "v": 0,
+  "c": null,
+  "ci": null
+ },
+ {
+  "k": "ar condicionado e sono",
+  "v": 0,
+  "c": null,
+  "ci": null
+ }
+]
