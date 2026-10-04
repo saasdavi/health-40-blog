@@ -1,0 +1,173 @@
+{
+ "slug": "alimentos-ricos-em-fibras",
+ "title": "Alimentos Ricos em Fibras: Guia Prático 40+",
+ "description": "Descubra quais alimentos ricos em fibras ajudam seu intestino, controlam diabetes e auxiliam no emagrecimento. Guia completo para mulheres 40+.",
+ "primaryKeyword": "alimentos ricos em fibras",
+ "cluster": "alimentacao",
+ "volume": 49500,
+ "wordCount": 1735,
+ "readingTime": 9,
+ "sources": [
+  {
+   "title": "Fibras Alimentares – O que é importante saber? - Sociedade Brasileira de Diabetes",
+   "url": "https://diabetes.org.br/fibras-alimentares-o-que-e-importante-saber/"
+  },
+  {
+   "title": "Alimentos ricos em fibras (e principais benefícios) - Tua Saúde",
+   "url": "https://www.tuasaude.com/alimentos-ricos-em-fibras/"
+  },
+  {
+   "title": "Alimentos ricos em fibra que ajudam a normalizar o intestino.",
+   "url": "https://hospitalsiriolibanes.org.br/blog/alimentacaoebemestar/alimentos-ricos-em-fibras-ajudam-a-normalizar-funcao-intestinal"
+  },
+  {
+   "title": "Alimentos ricos em fibras: quais são e benefícios | Nav Dasa",
+   "url": "https://nav.dasa.com.br/blog/alimentos-ricos-em-fibras"
+  },
+  {
+   "title": "5 consequ�ncias de consumir alimentos ricos em fibras regularmente",
+   "url": "https://www.unimedfortaleza.com.br/alimentacao/alimentos-ricos-em-fibras"
+  }
+ ],
+ "featuredImage": "/images/alimentos-ricos-em-fibras/alimentos-ricos-em-fibras-capa.jpg",
+ "imageAlt": "Mulher preparando salada colorida com frutas e vegetais ricos em fibras",
+ "imageCredit": {
+  "author": "Michelle Leman",
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/tranquil-middle-aged-ethnic-lady-cutting-fruits-during-illness-at-home-6798557/",
+  "license": "Licença Pexels",
+  "licenseUrl": "https://www.pexels.com/license/"
+ },
+ "images": [
+  {
+   "src": "/images/alimentos-ricos-em-fibras/variedade-de-alimentos-ricos-em-fibras-insoluveis-pao-integr.jpg",
+   "alt": "Variedade de alimentos ricos em fibras insolúveis: pão integral, cereais e leguminosas",
+   "legenda": "Cereais integrais, legumes e leguminosas são excelentes fontes de fibras insolúveis",
+   "secao": 2,
+   "width": 1280,
+   "height": 955,
+   "credit": {
+    "author": "Einladung_zum_Essen",
+    "source": "Pixabay",
+    "url": "https://pixabay.com/photos/breakfast-orange-juice-loaf-1804436/",
+    "license": "Licença Pixabay",
+    "licenseUrl": "https://pixabay.com/service/license-summary/"
+   }
+  },
+  {
+   "src": "/images/alimentos-ricos-em-fibras/frutas-frescas-como-peras-macas-e-frutas-vermelhas-ricas-em-.jpg",
+   "alt": "Frutas frescas como peras, maçãs e frutas vermelhas ricas em fibras",
+   "legenda": "Frutas com casca são das melhores fontes de fibras solúveis para seu organismo",
+   "secao": 3,
+   "width": 940,
+   "height": 625,
+   "credit": {
+    "author": "Matvei",
+    "source": "Pexels",
+    "url": "https://www.pexels.com/photo/artistic-still-life-with-books-and-fruit-37472949/",
+    "license": "Licença Pexels",
+    "licenseUrl": "https://www.pexels.com/license/"
+   }
+  }
+ ],
+ "scores": {
+  "auditoria": 92
+ },
+ "validador": "APROVADO",
+ "validacao": {
+  "palavraChave": "alimentos ricos em fibras",
+  "volume": 49500,
+  "cluster": "alimentacao",
+  "apoio": [],
+  "perguntasDoGoogle": [
+   "Qual a melhor fibra para diabetes?",
+   "Quais são as fibras insolúveis?",
+   "O que as fibras fazem no intestino?",
+   "Alimentos ricos em fibras para emagrecer",
+   "Frutas ricas em fibras",
+   "Alimentos ricos em fibras insolúveis"
+  ],
+  "serp": {
+   "facil": true,
+   "nivel": "MÉDIA-FÁCIL",
+   "topoDoGoogle": "Sociedade Brasileira de Diabetes, Panelinha Fit (2022), Enterogermina, Tua Saúde, Mahta, Prodiet (2021)",
+   "aiOverview": true
+  },
+  "fontesDaPauta": [
+   "https://diabetes.org.br/fibras-alimentares-o-que-e-importante-saber/",
+   "https://www.tuasaude.com/alimentos-ricos-em-fibras/",
+   "https://hospitalsiriolibanes.org.br/blog/alimentacaoebemestar/alimentos-ricos-em-fibras-ajudam-a-normalizar-funcao-intestinal",
+   "https://nav.dasa.com.br/blog/alimentos-ricos-em-fibras",
+   "https://www.unimedfortaleza.com.br/alimentacao/alimentos-ricos-em-fibras"
+  ],
+  "notas": "Informativo, sem suplemento de fibra nem marca (Enterogermina, psyllium em pó). Citar a meta diária só com a fonte. Aumentar fibra aos poucos e beber água; quem tem doença intestinal ou diabetes deve falar com o médico. Linkar para os artigos de intestino/digestão quando existirem. REVISAR antes de publicar.",
+  "briefing": {
+   "keyword": "alimentos ricos em fibras",
+   "slug": "alimentos-ricos-em-fibras",
+   "volume": 49500,
+   "cluster": "alimentacao",
+   "papel": "pilar",
+   "pilar": null,
+   "sensivel": false,
+   "notas": "Informativo, sem suplemento de fibra nem marca (Enterogermina, psyllium em pó). Citar a meta diária só com a fonte. Aumentar fibra aos poucos e beber água; quem tem doença intestinal ou diabetes deve falar com o médico. Linkar para os artigos de intestino/digestão quando existirem. REVISAR antes de publicar.",
+   "apoio": [],
+   "perguntasDoGoogle": [
+    "O que comer para melhorar a dor no joelho?",
+    "Qual a melhor fibra para diabetes?",
+    "Quais são as fibras insolúveis?",
+    "O que as fibras fazem no intestino?",
+    "Alimentos ricos em fibras para emagrecer",
+    "Frutas ricas em fibras",
+    "Alimentos ricos em fibras insolúveis"
+   ],
+   "buscasRelacionadas": [
+    "Alimentos que contém fibras para o intestino",
+    "10 alimentos ricos em fibras",
+    "Alimentos ricos em fibras baratos",
+    "Alimentos ricos em fibras para emagrecer",
+    "Frutas ricos em fibras",
+    "Alimentos ricos em fibras insolúveis",
+    "Carnes ricas em fibras",
+    "Alimentos ricos em fibras para crianças"
+   ],
+   "concorrentePrincipal": "https://diabetes.org.br/fibras-alimentares-o-que-e-importante-saber/",
+   "google": {
+    "checadoEm": "2026-10-04",
+    "top3Organicos": [
+     "https://diabetes.org.br/fibras-alimentares-o-que-e-importante-saber/",
+     "https://panelinhafit.com.br/blog/alimentos-ricos-em-fibra-e-suas-vantagens",
+     "https://www.enterogermina.com/pt-br/saude-intestinal/dicas-gerais-bem-estar/fibras-alimentares"
+    ],
+    "autoridadesTop3": [],
+    "autoridadesTop5": [
+     "diabetes.org.br"
+    ],
+    "respostaDaIA": true
+   },
+   "metaEscrita": {
+    "medianaPalavras": 959,
+    "medianaH2": 5,
+    "medianaImagens": 6,
+    "faqNoTopo": "1/6",
+    "secoesQueOTopoCobre": []
+   },
+   "pontes": [
+    {
+     "para": "alimentos ricos em ferro",
+     "ancoras": [
+      "alimentos ricos em ferro"
+     ]
+    }
+   ],
+   "fontes": [
+    "https://diabetes.org.br/fibras-alimentares-o-que-e-importante-saber/",
+    "https://www.tuasaude.com/alimentos-ricos-em-fibras/",
+    "https://hospitalsiriolibanes.org.br/blog/alimentacaoebemestar/alimentos-ricos-em-fibras-ajudam-a-normalizar-funcao-intestinal",
+    "https://nav.dasa.com.br/blog/alimentos-ricos-em-fibras",
+    "https://www.unimedfortaleza.com.br/alimentacao/alimentos-ricos-em-fibras"
+   ]
+  },
+  "validadoEm": "2026-10-04T16:45:54.649Z"
+ },
+ "content": "<p><strong>Alimentos ricos em fibras</strong> são aqueles que contêm substâncias que seu corpo não digere completamente, passando intactas pelo sistema digestivo até o intestino. Elas não têm calorias, mas são imprescindíveis para sua saúde. Aumentar a ingestão desses alimentos ajuda a regularizar o intestino, controlar o açúcar no sangue e favorecer a perda de peso.</p>\n\n<h2>Por que as fibras são importantes para você</h2>\n\n<p>Depois dos 40, seu intestino costuma trabalhar mais lentamente. As fibras funcionam como \"vassouras\" naturais, empurrando os resíduos alimentares pelo tubo digestivo. Sem elas, você pode enfrentar prisão de ventre e desconforto abdominal.</p>\n\n<p>Além disso, as fibras fazem muito mais do que regularizar o intestino. Segundo a Sociedade Brasileira de Diabetes, elas atuam de várias formas no seu organismo:</p>\n\n<ul>\n<li>Reduzem a absorção de colesterol, baixando seus níveis no sangue</li>\n<li>Atrasam o esvaziamento gástrico, prolongando a sensação de saciedade</li>\n<li>Formam um gel no intestino que desacelera a entrada de glicose na corrente sanguínea</li>\n<li>Servem de alimento para as bactérias benéficas do seu intestino</li>\n<li>Ajudam na prevenção de doenças cardíacas e crônicas</li>\n</ul>\n\n<p>O consumo adequado de fibras está associado à redução do risco de doenças cardiovasculares, diabetes tipo 2 e câncer de cólon. Por isso, incluir esses alimentos diariamente na sua alimentação é um investimento na sua saúde.</p>\n\n<h2>Os dois tipos de fibras e como funcionam</h2>\n\n<p>Existem dois tipos de fibras alimentares, e ambas são importantes. Compreender a diferença ajuda você a escolher melhor o que comer todos os dias.</p>\n\n<h3>Fibras solúveis</h3>\n\n<p>As fibras solúveis se dissolvem na água e formam um gel no estômago e intestino. Esse gel permanece mais tempo no sistema digestivo, aumentando a saciedade e fazendo você se sentir mais cheio. Elas também atuam no controle do açúcar no sangue e na redução do colesterol.</p>\n\n<p>As fibras solúveis fermentam no intestino e servem de alimento para as bactérias benéficas, melhorando a saúde da sua microbiota intestinal. Você as encontra em frutas (maçã, pera, laranja), leguminosas (feijão, lentilha, grão-de-bico), cereais como aveia e cevada, e em sementes.</p>\n\n<h3>Quais são as fibras insolúveis?</h3>\n\n<p>As fibras insolúveis não se dissolvem em água. Em vez disso, aumentam o volume das fezes e estimulam os movimentos naturais do intestino, facilitando a evacuação. Se você sofre com prisão de ventre, estas são suas aliadas principais.</p>\n\n<p>Você encontra fibras insolúveis no farelo de trigo, grãos integrais, nozes, amêndoas, frutas com casca (pêra, maçã) e hortaliças como cenoura, brócolis e ervilha. A característica delas é dar textura firme aos alimentos.</p>\n<figure class=\"article-figure\"><img src=\"/images/alimentos-ricos-em-fibras/variedade-de-alimentos-ricos-em-fibras-insoluveis-pao-integr.jpg\" alt=\"Variedade de alimentos ricos em fibras insolúveis: pão integral, cereais e leguminosas\" width=\"1280\" height=\"955\" loading=\"lazy\" /><figcaption>Cereais integrais, legumes e leguminosas são excelentes fontes de fibras insolúveis <span class=\"credit\">Foto: <a href=\"https://pixabay.com/photos/breakfast-orange-juice-loaf-1804436/\" rel=\"noopener nofollow\" target=\"_blank\">Einladung_zum_Essen</a> / Pixabay</span></figcaption></figure>\n<h2>O que as fibras fazem no intestino</h2>\n\n<p>Entender como as fibras atuam no intestino ajuda você a reconhecer quando está consumindo a quantidade certa.</p>\n\n<p>No cólon, as fibras absorvem água e aumentam o volume do bolo fecal, tornando as fezes mais macias e volumosas. Isso facilita a evacuação e previne a constipação. Sem água suficiente, porém, as fibras não funcionam bem—elas precisam de hidratação para \"escorregar\" pelo tubo intestinal.</p>\n\n<p>Além disso, as fibras são substrato para fermentação pelas bactérias benéficas do intestino. Essas bactérias as decompõem e produzem ácidos graxos de cadeia curta, que são fonte de energia para as células do cólon e ajudam a prevenir doenças inflamatórias intestinais.</p>\n\n<p>As fibras solúveis formam um gel que retarda a absorção de nutrientes. Isso é bom para você: a glicose entra mais lentamente na corrente sanguínea, evitando picos de açúcar no sangue.</p>\n<figure class=\"article-figure\"><img src=\"/images/alimentos-ricos-em-fibras/frutas-frescas-como-peras-macas-e-frutas-vermelhas-ricas-em-.jpg\" alt=\"Frutas frescas como peras, maçãs e frutas vermelhas ricas em fibras\" width=\"940\" height=\"625\" loading=\"lazy\" /><figcaption>Frutas com casca são das melhores fontes de fibras solúveis para seu organismo <span class=\"credit\">Foto: <a href=\"https://www.pexels.com/photo/artistic-still-life-with-books-and-fruit-37472949/\" rel=\"noopener nofollow\" target=\"_blank\">Matvei</a> / Pexels</span></figcaption></figure>\n<h2>Qual a melhor fibra para diabetes?</h2>\n\n<p>Se você tem diabetes ou pré-diabetes, as fibras solúveis são particularmente benéficas. Segundo a Sociedade Brasileira de Diabetes, elas atuam no metabolismo dos carboidratos, controlando a glicemia. O gel que formam no intestino desacelera a velocidade com que a glicose entra na corrente sanguínea.</p>\n\n<p>Priorize alimentos como feijão, lentilha, grão-de-bico, aveia, cevada, maçã, pera e cenoura. Essas fontes de fibras solúveis ajudam a manter o açúcar do sangue mais estável ao longo do dia.</p>\n\n<p>É importante ressaltar: aumentar fibras devagar é fundamental. Se você aumentar a ingestão muito rapidamente sem beber água suficiente, pode sentir cólicas abdominais e piorar a constipação temporariamente. Faça isso gradualmente, ao longo de semanas.</p>\n\n<h2>Frutas ricas em fibras para incluir no seu dia a dia</h2>\n\n<p>As frutas são uma das melhores formas de aumentar a ingestão de fibras. O ideal é consumir de 2 a 3 porções por dia (160 a 240 gramas). Sempre que possível, coma a fruta com casca bem lavada—é onde estão concentradas as fibras.</p>\n\n<p>As frutas ricas em fibras incluem:</p>\n\n<ul>\n<li><strong>Pêra:</strong> uma das mais altas em fibras solúveis</li>\n<li><strong>Maçã com casca:</strong> excelente fonte de pectina, uma fibra solúvel</li>\n<li><strong>Caqui:</strong> especialmente rico em fibras</li>\n<li><strong>Goiaba:</strong> combinação de fibras solúveis e insolúveis</li>\n<li><strong>Mamão:</strong> promove digestão regular</li>\n<li><strong>Ameixa:</strong> conhecida por regular o intestino</li>\n<li><strong>Laranja:</strong> boa fonte de pectina e vitamina C</li>\n<li><strong>Morango, amora e framboesa:</strong> frutas vermelhas ricas em fibras</li>\n</ul>\n\n<p>Dica prática: em vez de beber suco, coma a fruta inteira. O suco remove boa parte das fibras, deixando principalmente o açúcar.</p>\n\n<h2>Alimentos ricos em fibras para emagrecer</h2>\n\n<p>Sim, alimentos ricos em fibras podem ajudar no controle de peso, mas com uma ressalva importante: não são uma solução mágica sozinhas. Eles funcionam porque aumentam a saciedade.</p>\n\n<p>Quando você consome fibras, elas absorvem água e se expandem no estômago, fazendo você se sentir cheio por mais tempo. Isso reduz a fome e a tendência de comer demais, levando a uma ingestão menor de calorias ao longo do dia.</p>\n\n<p>As fibras também ajudam a controlar os picos de insulina, evitando aquele desejo súbito de comer algo doce algumas horas depois. Além disso, ao melhorar a saúde intestinal, facilitam uma absorção mais eficiente de nutrientes.</p>\n\n<p>Combine alimentos ricos em fibras com:</p>\n\n<ul>\n<li>Atividade física regular</li>\n<li>Alimentação equilibrada em geral</li>\n<li>Ingestão adequada de água</li>\n<li>Sono de qualidade</li>\n</ul>\n\n<p>Sem essas outras práticas, apenas aumentar fibras não garante emagrecimento. Mas como parte de um estilo de vida saudável, elas são aliadas valiosas.</p>\n\n<h2>Alimentos ricos em fibras insolúveis</h2>\n\n<p>Se o seu intestino está preso, as fibras insolúveis são prioritárias. Elas aumentam o volume das fezes e estimulam os movimentos intestinais naturais.</p>\n\n<p>Os melhores alimentos ricos em fibras insolúveis são:</p>\n\n<ul>\n<li>Farelo de trigo</li>\n<li>Grãos integrais (arroz integral, cevada, quinoa)</li>\n<li>Pão integral ou de mistura</li>\n<li>Nozes e amêndoas</li>\n<li>Sementes (girassol, abóbora)</li>\n<li>Hortaliças cruas (cenoura, brócolis, couve)</li>\n<li>Frutas com casca (pêra, maçã)</li>\n<li>Legumes como ervilha e milho</li>\n</ul>\n\n<p>A chave é incluir cereais integrais em suas refeições principais. Escolha pão integral em vez de branco, arroz integral em vez de refinado. Pequenas mudanças, feitas consistentemente, fazem grande diferença.</p>\n\n<h2>Quanto você deve consumir por dia</h2>\n\n<p>Segundo a Sociedade Brasileira de Diabetes e órgãos internacionais, o ideal é consumir entre 25 e 35 gramas de fibras por dia. Este é o intervalo que oferece os melhores benefícios sem desconforto.</p>\n\n<p>A recomendação prática é:</p>\n\n<ul>\n<li>2 a 3 porções de frutas por dia</li>\n<li>2 a 3 porções de legumes por dia</li>\n<li>1 porção de leguminosas (feijão, lentilha) por dia</li>\n<li>Cereais integrais em suas refeições principais</li>\n</ul>\n\n<p>Aumentar a ingestão devagar é essencial. Se você adicionar 30 gramas de fibras de uma vez sem acostumar, seu intestino pode reagir com gases, inchaço e cólicas. O ideal é aumentar alguns gramas por semana, ao longo de 4 a 8 semanas.</p>\n\n<p>E lembre-se: aumente a água junto com as fibras. Sem água, elas não funcionam bem e podem piorar a constipação em vez de melhorá-la.</p>\n\n<h2>Erros comuns ao aumentar fibras</h2>\n\n<p>Muitas mulheres cometem os mesmos erros ao tentar incluir mais fibras:</p>\n\n<ul>\n<li><strong>Aumentar demais, muito rápido:</strong> isso causa gases, inchaço e desconforto. Aumente gradualmente.</li>\n<li><strong>Não beber água suficiente:</strong> as fibras precisam de água para funcionar. Sem ela, você terá cólicas e prisão de ventre.</li>\n<li><strong>Contar apenas com sucos:</strong> o suco remove as fibras. Coma a fruta inteira.</li>\n<li><strong>Ignorar as sementes e oleaginosas:</strong> são concentradas em fibras e muito práticas de comer.</li>\n<li><strong>Pelar frutas:</strong> a casca é onde estão as fibras. Lave bem e coma com casca.</li>\n<li><strong>Esperar emagrecimento automático:</strong> fibras ajudam, mas não substituem um estilo de vida saudável geral.</li>\n</ul>\n\n<h2>Quando procurar um médico</h2>\n\n<p>Procure um profissional se você tiver:</p>\n\n<ul>\n<li>Dor abdominal intensa ou persistente ao aumentar fibras</li>\n<li>Sangramento ao evacuar</li>\n<li>Prisão de ventre que não melhora mesmo com fibras e água adequadas</li>\n<li>Diarreia frequente após incluir muitas fibras</li>\n<li>Dificuldade em controlar diabetes apesar das fibras (neste caso, <a href=\"/hemoglobina-glicada/\">monitore sua hemoglobina glicada</a> regularmente)</li>\n<li>Sintomas de <a href=\"/o-que-e-resistencia-a-insulina/\">resistência à insulina</a> que não melhoram</li>\n</ul>\n\n<p>Um nutricionista ou gastroenterologista pode ajudá-la a encontrar o equilíbrio certo para seu corpo.</p>\n\n<h2>Perguntas frequentes</h2>\n\n<h3>O que comer para melhorar a dor no joelho?</h3>\n\n<p>Dor no joelho tem múltiplas causas e não está diretamente ligada ao consumo de fibras. Porém, manter um peso saudável (ajudado por uma alimentação adequada com fibras) reduz a sobrecarga nas articulações. Consulte um médico ou fisioterapeuta para diagnóstico correto.</p>\n\n<h3>Alimentos ricos em fibras para crianças podem ser oferecidos?</h3>\n\n<p>Sim, crianças também devem consumir fibras. A quantidade recomendada é menor que a de adultos, baseada na idade e peso. Ofereça frutas com casca (bem limpas), vegetais cozidos e cereais integrais. Sempre acompanhe com água. Consulte o pediatra para orientação personalizada.</p>\n\n<h3>Existem alimentos ricos em fibras baratos?</h3>\n\n<p>Sim! Os mais acessíveis incluem feijão, lentilha, grão-de-bico, farinha integral, aveia em flocos, cenoura, abóbora, alface e brócolis. Não é necessário gastar muito para ter uma alimentação rica em fibras.</p>\n\n<h3>Carnes têm fibras?</h3>\n\n<p>Não. Carnes, peixes e ovos não contêm fibras—são produtos de origem animal. As fibras vêm exclusivamente de plantas: frutas, vegetais, leguminosas e cereais integrais.</p>\n\n<h3>Posso consumir fibras em excesso?</h3>\n\n<p>Mais não é sempre melhor. Consumir muito acima de 50 gramas por dia pode causar desconforto intestinal, gases e interferir na absorção de alguns minerais. Fique no intervalo recomendado: 25 a 35 gramas por dia.</p>\n\n<h2>Resumindo</h2>\n\n<p>Alimentos ricos em fibras são essenciais para sua saúde intestinal, especialmente depois dos 40. Elas funcionam como \"vassouras\" naturais, regularizam seu intestino, ajudam a controlar o açúcar no sangue, reduzem o colesterol e favorecem a saciedade.</p>\n\n<p>Existem dois tipos: as solúveis (que formam gel e controlam glicemia) e as insolúveis (que aumentam o volume das fezes). Ambas são importantes.</p>\n\n<p>Inclua frutas com casca, vegetais, leguminosas, cereais integrais e sementes na sua alimentação diária. Aumente a ingestão gradualmente e beba muita água. Seu intestino, seu coração e seu peso agradecerão.</p>\n<h2>Fontes</h2>\n<ul>\n<li><a href=\"https://diabetes.org.br/fibras-alimentares-o-que-e-importante-saber/\" rel=\"noopener nofollow\" target=\"_blank\">Fibras Alimentares – O que é importante saber? - Sociedade Brasileira de Diabetes</a></li>\n<li><a href=\"https://www.tuasaude.com/alimentos-ricos-em-fibras/\" rel=\"noopener nofollow\" target=\"_blank\">Alimentos ricos em fibras (e principais benefícios) - Tua Saúde</a></li>\n<li><a href=\"https://hospitalsiriolibanes.org.br/blog/alimentacaoebemestar/alimentos-ricos-em-fibras-ajudam-a-normalizar-funcao-intestinal\" rel=\"noopener nofollow\" target=\"_blank\">Alimentos ricos em fibra que ajudam a normalizar o intestino.</a></li>\n<li><a href=\"https://nav.dasa.com.br/blog/alimentos-ricos-em-fibras\" rel=\"noopener nofollow\" target=\"_blank\">Alimentos ricos em fibras: quais são e benefícios | Nav Dasa</a></li>\n<li><a href=\"https://www.unimedfortaleza.com.br/alimentacao/alimentos-ricos-em-fibras\" rel=\"noopener nofollow\" target=\"_blank\">5 consequ�ncias de consumir alimentos ricos em fibras regularmente</a></li>\n</ul>\n<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>"
+}

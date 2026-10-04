@@ -1,0 +1,146 @@
+{
+ "slug": "varizes",
+ "title": "Varizes nas Pernas: Guia Completo para Tratar",
+ "description": "Varizes nas pernas: saiba diferenciar de vasinhos, sintomas reais, causas e tratamentos modernos. Guia prático para mulheres 40+.",
+ "primaryKeyword": "varizes",
+ "cluster": "circulacao",
+ "volume": 49500,
+ "wordCount": 1685,
+ "readingTime": 8,
+ "sources": [
+  {
+   "title": "Varizes - Distúrbios do coração e dos vasos sanguíneos - Manual MSD Versão Saúde para a Família",
+   "url": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-do-cora%C3%A7%C3%A3o-e-dos-vasos-sangu%C3%ADneos/dist%C3%BArbios-venosos/varizes"
+  },
+  {
+   "title": "Varizes | Biblioteca Virtual em Saúde MS",
+   "url": "https://bvsms.saude.gov.br/varizes/"
+  },
+  {
+   "title": "Varizes &#8211; SBACV",
+   "url": "https://sbacv.org.br/varizes/"
+  },
+  {
+   "title": "Varizes: o que é, causas, tipos e sintomas | Blog Nav Dasa",
+   "url": "https://nav.dasa.com.br/blog/varizes"
+  },
+  {
+   "title": "Varizes: O que são, Causas, Sintomas e Tratamentos",
+   "url": "https://baraovascular.com.br/todos-os-tratamentos/o-que-sao-varizes/"
+  },
+  {
+   "title": "Varizes e vasinhos: saiba a diferença e busque ajuda médica",
+   "url": "https://emfoco.med.br/varizes-e-vasinhos-saiba-a-diferenca-e-busque-ajuda/"
+  }
+ ],
+ "featuredImage": "/images/varizes/varizes-capa.jpg",
+ "imageAlt": "Pernas de mulher com veias dilatadas e tortuosas visíveis sob a pele",
+ "imageCredit": {
+  "author": "Alina  Rossoshanska",
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/leg-with-bruises-17040719/",
+  "license": "Licença Pexels",
+  "licenseUrl": "https://www.pexels.com/license/"
+ },
+ "images": [
+  {
+   "src": "/images/varizes/mulher-com-as-pernas-elevadas-em-repouso-para-aliviar-sintom.jpg",
+   "alt": "Mulher com as pernas elevadas em repouso para aliviar sintomas",
+   "legenda": "Elevar as pernas alivia o inchaço e o cansaço causado pelas varizes",
+   "secao": 4,
+   "width": 1280,
+   "height": 852,
+   "credit": {
+    "author": "cuncon",
+    "source": "Pixabay",
+    "url": "https://pixabay.com/photos/girl-sleep-lying-down-dog-pet-1733352/",
+    "license": "Licença Pixabay",
+    "licenseUrl": "https://pixabay.com/service/license-summary/"
+   }
+  },
+  {
+   "src": "/images/varizes/medico-realizando-ultrassom-com-doppler-nas-veias-da-perna.jpg",
+   "alt": "Médico realizando ultrassom com Doppler nas veias da perna",
+   "legenda": "Ultrassom com Doppler é o exame indolor que confirma o diagnóstico de varizes",
+   "secao": 5,
+   "width": 940,
+   "height": 627,
+   "credit": {
+    "author": "Paloma Gil",
+    "source": "Pexels",
+    "url": "https://www.pexels.com/photo/doctor-over-patient-lying-down-16204310/",
+    "license": "Licença Pexels",
+    "licenseUrl": "https://www.pexels.com/license/"
+   }
+  }
+ ],
+ "scores": {
+  "auditoria": 98
+ },
+ "validador": "APROVADO",
+ "validacao": {
+  "palavraChave": "varizes",
+  "volume": 49500,
+  "cluster": "circulacao",
+  "apoio": [],
+  "perguntasDoGoogle": [
+   "como saber se são vasinhos ou varizes",
+   "quais são os sintomas de varizes inflamadas",
+   "o que fazer quando tem varizes nas pernas",
+   "como tratar varizes"
+  ],
+  "serp": {
+   "facil": true,
+   "nivel": "FÁCIL",
+   "topoDoGoogle": "Cuidados Pela Vida, Angioclam, Medicina em Foco, Clínica Zignani, Clinifemina, Hospital da Luz (PT)",
+   "aiOverview": true
+  },
+  "fontesDaPauta": [
+   "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-do-cora%C3%A7%C3%A3o-e-dos-vasos-sangu%C3%ADneos/dist%C3%BArbios-venosos/varizes",
+   "https://bvsms.saude.gov.br/varizes/",
+   "https://sbacv.org.br/varizes/",
+   "https://nav.dasa.com.br/blog/varizes",
+   "https://baraovascular.com.br/todos-os-tratamentos/o-que-sao-varizes/",
+   "https://emfoco.med.br/varizes-e-vasinhos-saiba-a-diferenca-e-busque-ajuda/"
+  ],
+  "notas": "Sem preço nem promessa de 'eliminar em 7 dias'; citar meias de compressão só como as fontes; sinais de trombose vão para 'inchaço nas pernas'.",
+  "briefing": {
+   "keyword": "varizes",
+   "slug": "varizes",
+   "volume": 49500,
+   "cluster": "circulacao",
+   "papel": "pilar",
+   "pilar": null,
+   "sensivel": false,
+   "notas": "Sem preço nem promessa de 'eliminar em 7 dias'; citar meias de compressão só como as fontes; sinais de trombose vão para 'inchaço nas pernas'.",
+   "apoio": [],
+   "perguntasDoGoogle": [
+    "como saber se são vasinhos ou varizes",
+    "quais são os sintomas de varizes inflamadas",
+    "o que fazer quando tem varizes nas pernas",
+    "como tratar varizes"
+   ],
+   "buscasRelacionadas": [],
+   "concorrentePrincipal": null,
+   "google": {
+    "checadoEm": null,
+    "top3Organicos": [],
+    "autoridadesTop3": [],
+    "autoridadesTop5": [],
+    "respostaDaIA": true
+   },
+   "metaEscrita": null,
+   "pontes": [],
+   "fontes": [
+    "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-do-cora%C3%A7%C3%A3o-e-dos-vasos-sangu%C3%ADneos/dist%C3%BArbios-venosos/varizes",
+    "https://bvsms.saude.gov.br/varizes/",
+    "https://sbacv.org.br/varizes/",
+    "https://nav.dasa.com.br/blog/varizes",
+    "https://baraovascular.com.br/todos-os-tratamentos/o-que-sao-varizes/",
+    "https://emfoco.med.br/varizes-e-vasinhos-saiba-a-diferenca-e-busque-ajuda/"
+   ]
+  },
+  "validadoEm": "2026-10-04T16:43:44.762Z"
+ },
+ "content": "<h2>Varizes nas pernas: o que você precisa saber</h2>\n\n<p>Varizes são veias superficiais das pernas que se dilatam e ficam tortuosas, aparecendo saltadas e visíveis sob a pele. O problema ocorre quando essas veias perdem elasticidade e suas válvulas não funcionam corretamente, fazendo o sangue se acumular nas pernas em vez de retornar ao coração.</p>\n\n<p>Você pode notar veias azuladas ou arroxeadas, especialmente quando em pé. Muitas mulheres começam a observar essas alterações após os 40, mas nem sempre sentem dor — algumas têm apenas incômodo estético.</p>\n\n<p>O sangue desce facilmente do coração para as pernas pelas artérias, mas precisa fazer esforço para voltar pelas veias. As válvulas venosas direcionam esse fluxo para cima. Quando falham, o sangue reflui e fica parado, causando a dilatação das veias e a formação das varizes.</p>\n\n<h2>Como saber se são vasinhos ou varizes</h2>\n\n<p>Essa é uma dúvida comum, mas há diferenças claras entre os dois:</p>\n\n<ul>\n<li><strong>Vasinhos (telangiectasias):</strong> são pequenas ramificações finas e superficiais, geralmente avermelhadas ou arroxeadas. Aparecem como desenhos delicados sob a pele. Causam principalmente desconforto estético e raramente geram sintomas.</li>\n<li><strong>Varizes:</strong> são veias maiores, mais grossas, dilatadas e tortuosas. Saltam e se elevam sob a pele, visíveis em qualquer posição. Podem causar dor, peso, inchaço e outros sintomas.</li>\n</ul>\n\n<p>Um detalhe importante: ambas podem evoluir ou aparecer juntas. Se você tem vasinhos, isso não significa que terá varizes, mas recomenda-se acompanhamento com um especialista para saber o estágio do problema.</p>\n\n<h2>Sintomas de varizes inflamadas e sinais de alerta</h2>\n\n<p>As varizes causam sintomas que pioram ao longo do dia, especialmente quando você fica muito tempo em pé ou sentado:</p>\n\n<ul>\n<li>Dor tipo queimação ou cansaço nas pernas</li>\n<li>Sensação de peso ou fadiga, melhorando com a elevação das pernas</li>\n<li>Inchaço, principalmente nos tornozelos ao final do dia</li>\n<li>Coceira ou prurido, especialmente no inverno ou após usar meias</li>\n<li>Formigamento ou dormência</li>\n<li>Câimbras noturnas</li>\n</ul>\n\n<p>Fatores externos intensificam os sintomas: calor, períodos pré-menstruais, uso de hormônios e gravidez agravam as queixas. O Manual MSD Versão Saúde para a Família destaca que a dor pode ser maior enquanto as varizes estão se desenvolvendo do que quando já estão completamente distendidas.</p>\n\n<p>Quando as varizes inflamam (flebite), há vermelhidão, dor intensa e possível formação de coágulo. Nesse caso, procure um médico rapidamente.</p>\n\n<h2>Por que você é mais vulnerável depois dos 40</h2>\n\n<p>A idade é um fator de risco conhecido. Com o tempo, suas veias naturalmente perdem elasticidade e as válvulas começam a funcionar menos bem. Mas outros fatores aumentam o risco nessa fase:</p>\n\n<ul>\n<li><strong>Hereditariedade:</strong> é o principal fator. Se seus pais tiveram varizes, suas chances aumentam significativamente.</li>\n<li><strong>Hormônios:</strong> os hormônios femininos relaxam a parede das veias. Isso explica por que mulheres são mais afetadas que homens. Anticoncepcionais e terapia de reposição hormonal podem aumentar o risco.</li>\n<li><strong>Peso:</strong> o excesso de peso aumenta a pressão nas veias, dificultando o retorno do sangue.</li>\n<li><strong>Sedentarismo:</strong> ficar muito tempo parado em qualquer posição prejudica a circulação. O movimento das pernas ajuda a \"bombear\" o sangue de volta.</li>\n<li><strong>Ocupação:</strong> trabalhos que exigem ficar em pé ou sentado por longas horas aumentam o risco.</li>\n<li><strong>Calor prolongado:</strong> exposição ao sol, saunas ou ambientes quentes causa dilatação das veias.</li>\n<li><strong>Tabagismo:</strong> agride a parede das veias.</li>\n</ul>\n\n<p>Se você tem predisposição familiar, prestar atenção aos primeiros sinais e adotar medidas preventivas faz diferença real na sua saúde vascular.</p>\n\n<h2>O que fazer quando tem varizes nas pernas</h2>\n\n<p>Se você observa sinais de varizes, o primeiro passo é procurar um cirurgião vascular ou angiologista. O diagnóstico começa com exame clínico — o médico observa a pele com você em pé — e geralmente é confirmado com ultrassom com Doppler, um exame indolor que mapeia o fluxo sanguíneo e identifica o refluxo.</p>\n\n<p>Enquanto aguarda a consulta, você pode aliviar os sintomas:</p>\n\n<ul>\n<li>Eleve as pernas quando deitar ou sente — use um apoio para as pernas em posição sentada.</li>\n<li>Evite ficar muito tempo em pé ou sentado na mesma posição.</li>\n<li>Caminhe regularmente — o movimento das pernas melhora o retorno venoso.</li>\n<li>Evite calor excessivo nas pernas.</li>\n<li>Mantenha um peso saudável.</li>\n</ul>\n\n<p>Esses cuidados aliviam os sintomas, mas não eliminam as varizes já formadas. Por isso, um acompanhamento profissional é importante para evitar complicações e indicar o melhor tratamento para seu caso.</p>\n<figure class=\"article-figure\"><img src=\"/images/varizes/mulher-com-as-pernas-elevadas-em-repouso-para-aliviar-sintom.jpg\" alt=\"Mulher com as pernas elevadas em repouso para aliviar sintomas\" width=\"1280\" height=\"852\" loading=\"lazy\" /><figcaption>Elevar as pernas alivia o inchaço e o cansaço causado pelas varizes <span class=\"credit\">Foto: <a href=\"https://pixabay.com/photos/girl-sleep-lying-down-dog-pet-1733352/\" rel=\"noopener nofollow\" target=\"_blank\">cuncon</a> / Pixabay</span></figcaption></figure>\n<h2>Como tratar varizes: opções disponíveis</h2>\n\n<p>O tratamento depende do tipo, tamanho e localização das varizes. Seu médico indicará a melhor opção após avaliar seu caso:</p>\n\n<h3>Meias de compressão</h3>\n\n<p>São o primeiro passo em casos leves ou quando você não deseja ou não pode fazer procedimentos invasivos. Comprimem as veias, evitando seu estiramento excessivo. Precisam ser usadas regularmente para funcionar.</p>\n\n<h3>Escleroterapia (injeção)</h3>\n\n<p>Uma solução é injetada direto na veia para irritá-la e formar um coágulo. Esse coágulo se cicatriza e obstrui a veia. Funciona bem para vasinhos e varizes pequenas, mas exige múltiplas sessões. É rápido, pouco invasivo e a recuperação é rápida — você volta às atividades em poucos dias.</p>\n\n<p>O Manual MSD Versão Saúde para a Família observa que o coágulo pode se dissolver em vez de cicatrizar, reabrindo a veia. Além disso, novas varizes costumam surgir com o tempo.</p>\n\n<h3>Laser endovenoso e radiofrequência</h3>\n\n<p>Um cateter com laser ou radiofrequência é inserido dentro da veia para destruí-la pelo calor. Essas técnicas fecham varizes maiores com alta eficácia e recuperação rápida. São menos invasivas que cirurgia tradicional.</p>\n\n<h3>Cirurgia (remoção das varizes)</h3>\n\n<p>Indicada para varizes grandes ou em veias principais como a safena. Pode ser feita por mini-incisões e geralmente oferece alta no mesmo dia. A recuperação leva poucos dias. As veias retiradas não prejudicam a circulação — outras veias normais fazem esse trabalho.</p>\n\n<p>Um detalhe realista: após qualquer tratamento, novas varizes podem se formar com o tempo porque o distúrbio venoso subjacente continua presente. O tratamento alivia sintomas e melhora a aparência, mas não elimina a tendência às varizes.</p>\n<figure class=\"article-figure\"><img src=\"/images/varizes/medico-realizando-ultrassom-com-doppler-nas-veias-da-perna.jpg\" alt=\"Médico realizando ultrassom com Doppler nas veias da perna\" width=\"940\" height=\"627\" loading=\"lazy\" /><figcaption>Ultrassom com Doppler é o exame indolor que confirma o diagnóstico de varizes <span class=\"credit\">Foto: <a href=\"https://www.pexels.com/photo/doctor-over-patient-lying-down-16204310/\" rel=\"noopener nofollow\" target=\"_blank\">Paloma Gil</a> / Pexels</span></figcaption></figure>\n<h2>Complicações que exigem atenção médica imediata</h2>\n\n<p>Embora a maioria das pessoas com varizes tenha apenas desconforto, algumas desenvolvem complicações sérias se não tratarem:</p>\n\n<ul>\n<li><strong>Flebite (inflamação da veia):</strong> a veia fica vermelha, quente e dolorida. Embora geralmente não seja perigosa, requer avaliação.</li>\n<li><strong>Trombose venosa superficial:</strong> um coágulo se forma dentro da variz. Causa dor e inchaço localizados.</li>\n<li><strong>Dermatite ocre:</strong> a pele muda de cor, ficando acastanhada, especialmente acima do tornozelo. Indica dano venoso mais avançado.</li>\n<li><strong>Úlceras venosas:</strong> feridas que não cicatrizam, geralmente na parte interna da perna acima do tornozelo. São dolorosas e exigem tratamento especializado.</li>\n<li><strong>Sangramento:</strong> raramente, uma variz se rompe e sangra. Qualquer sangramento requer atenção.</li>\n</ul>\n\n<p>Essas complicações são raras, mas possíveis. Por isso, não ignore sinais de piora.</p>\n\n<h2>Erros comuns sobre varizes</h2>\n\n<p>Algumas crenças populares sobre varizes não têm base. Segundo a SBACV, esclareça-se:</p>\n\n<ul>\n<li><strong>Depilação não causa varizes.</strong> Não há relação entre remover pelos e desenvolver varizes.</li>\n<li><strong>Salto alto não causa varizes.</strong> Embora o conforto seja melhor, sapatos altos isolados não criam o problema.</li>\n<li><strong>Carregar peso não causa varizes.</strong> O fator real é ficar muito tempo em pé ou sentado.</li>\n<li><strong>Subir escada é benéfico.</strong> Movimento é exercício físico que ajuda a circulação.</li>\n<li><strong>Musculação moderada não prejudica.</strong> Exercício físico orientado é recomendado.</li>\n<li><strong>Pele seca não é a causa da coceira.</strong> A coceira das varizes vem do fluxo venoso ruim, não de ressecamento.</li>\n</ul>\n\n<p>Focalize no que realmente funciona: movimento regular, manutenção de peso saudável, elevação das pernas e acompanhamento médico. Adotar <a href=\"/o-que-e-resistencia-a-insulina/\">hábitos que cuidam da saúde metabólica</a> também favorece a circulação geral do corpo.</p>\n\n<h2>Perguntas frequentes sobre varizes</h2>\n\n<h3>As varizes melhoram sozinhas?</h3>\n\n<p>Não. Uma vez formadas, as varizes não desaparecem sem tratamento. Porém, varizes que surgem durante a gravidez melhoram bastante nas semanas após o parto, segundo o Manual MSD Versão Saúde para a Família.</p>\n\n<h3>Qual médico trata varizes?</h3>\n\n<p>O cirurgião vascular ou angiologista é o especialista em doenças venosas. Eles diagnósticam, tratam e previnem varizes.</p>\n\n<h3>O ultrassom com Doppler dói?</h3>\n\n<p>Não. É um exame indolor, rápido e não invasivo. Usa ondas de som para visualizar as veias e avaliar o fluxo sanguíneo.</p>\n\n<h3>Quanto tempo leva a recuperação após escleroterapia?</h3>\n\n<p>Você volta às atividades normais em poucos dias. Pode haver pequenos hematomas ou desconforto local, mas nada grave.</p>\n\n<h3>Qual é a melhor idade para tratar varizes?</h3>\n\n<p>O ideal é procurar um médico assim que notar os primeiros sinais. Tratar cedo evita complicações. Não existe \"idade certa\" — depende dos sintomas e vontade estética.</p>\n\n<h2>Quando procurar um médico</h2>\n\n<p>Marque uma consulta com um cirurgião vascular se você:</p>\n\n<ul>\n<li>Observa veias dilatadas, tortuosas ou saltadas nas pernas</li>\n<li>Sente dor, peso ou cansaço nas pernas que piora ao longo do dia</li>\n<li>Tem inchaço nos tornozelos ou pés que não melhora com repouso</li>\n<li>Apresenta coceira ou vermelhidão na pele acima das varizes</li>\n<li>Nota mudança na cor ou textura da pele nas pernas</li>\n<li>Tem histórico familiar de varizes</li>\n<li>Está grávida ou usa hormônios e começou a notar mudanças vasculares</li>\n</ul>\n\n<p>Se você observar sinais de flebite (veias vermelhas, quentes, muito doloridas) ou sangramento, procure atendimento de urgência.</p>\n\n<h2>Resumindo</h2>\n\n<p>Varizes são dilatação de veias superficiais das pernas causada principalmente por hereditariedade, envelhecimento e fatores do estilo de vida. Aparecem com frequência em mulheres, especialmente se há predisposição familiar.</p>\n\n<p>Os sintomas variam de nada a dor, peso, inchaço e coceira. Vasinhos e varizes são diferentes: vasinhos são finos e superficiais, varizes são maiores e mais tortuosas.</p>\n\n<p>O diagnóstico é clínico e confirmado por ultrassom com Doppler. O tratamento vai de meias de compressão a procedimentos como escleroterapia, laser e cirurgia, dependendo do caso. Nenhum trata a tendência às varizes — novas podem se formar — mas todos aliviam sintomas e previnem complicações.</p>\n\n<p>O mais importante é agir cedo: procure um cirurgião vascular ao notar os primeiros sinais. Meias de compressão, elevação das pernas e movimento regular ajudam, mas um profissional especializado orienta o melhor caminho para seu caso específico. Sua saúde vascular merece atenção agora mesmo.</p>\n\n<p>Cuide também de <a href=\"/colesterol-depois-dos-40/\">indicadores vasculares como colesterol</a> — tudo está conectado à circulação saudável.</p>\n<h2>Fontes</h2>\n<ul>\n<li><a href=\"https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-do-cora%C3%A7%C3%A3o-e-dos-vasos-sangu%C3%ADneos/dist%C3%BArbios-venosos/varizes\" rel=\"noopener nofollow\" target=\"_blank\">Varizes - Distúrbios do coração e dos vasos sanguíneos - Manual MSD Versão Saúde para a Família</a></li>\n<li><a href=\"https://bvsms.saude.gov.br/varizes/\" rel=\"noopener nofollow\" target=\"_blank\">Varizes | Biblioteca Virtual em Saúde MS</a></li>\n<li><a href=\"https://sbacv.org.br/varizes/\" rel=\"noopener nofollow\" target=\"_blank\">Varizes &#8211; SBACV</a></li>\n<li><a href=\"https://nav.dasa.com.br/blog/varizes\" rel=\"noopener nofollow\" target=\"_blank\">Varizes: o que é, causas, tipos e sintomas | Blog Nav Dasa</a></li>\n<li><a href=\"https://baraovascular.com.br/todos-os-tratamentos/o-que-sao-varizes/\" rel=\"noopener nofollow\" target=\"_blank\">Varizes: O que são, Causas, Sintomas e Tratamentos</a></li>\n<li><a href=\"https://emfoco.med.br/varizes-e-vasinhos-saiba-a-diferenca-e-busque-ajuda/\" rel=\"noopener nofollow\" target=\"_blank\">Varizes e vasinhos: saiba a diferença e busque ajuda médica</a></li>\n</ul>\n<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>"
+}

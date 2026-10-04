@@ -40,7 +40,13 @@
   ],
   "respostaDaIA": true
  },
- "metaEscrita": null,
+ "metaEscrita": {
+  "medianaPalavras": 2476,
+  "medianaH2": 5,
+  "medianaImagens": 8,
+  "faqNoTopo": "0/1",
+  "secoesQueOTopoCobre": []
+ },
  "pontes": [],
  "fontes": [
   "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-cerebrais-da-medula-espinal-e-dos-nervos/dist%C3%BArbios-do-sono/dist%C3%BArbios-do-sono-ligados-ao-ritmo-circadiano",

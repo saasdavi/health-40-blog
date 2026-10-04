@@ -72,7 +72,13 @@
   "autoridadesTop5": [],
   "respostaDaIA": true
  },
- "metaEscrita": null,
+ "metaEscrita": {
+  "medianaPalavras": 1595,
+  "medianaH2": 12,
+  "medianaImagens": 0,
+  "faqNoTopo": "1/1",
+  "secoesQueOTopoCobre": []
+ },
  "pontes": [],
  "fontes": [
   "https://urologistajf.com.br/erecao-matinal-saude-masculina/",

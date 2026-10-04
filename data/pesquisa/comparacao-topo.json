@@ -1,6 +1,6 @@
 {
  "gerado": "2026-10-04",
- "avaliados": 10,
+ "avaliados": 12,
  "resultado": [
   {
    "geradoEm": "2026-10-04T16:34:07.135Z",
@@ -231,6 +231,35 @@
     "subtítulos H2: 14 vs topo 4"
    ],
    "observacao": "1 página(s) do topo não acessíveis"
+  },
+  {
+   "geradoEm": "2026-10-04T16:38:22.471Z",
+   "keyword": "ereção matinal",
+   "volume": 1300,
+   "publicado": false,
+   "concorrentesLidos": 1,
+   "tentados": 1,
+   "medianaTopo": {
+    "palavras": 1595,
+    "h2": 12,
+    "imagens": 0,
+    "imagensComAlt": 0,
+    "tituloChars": 56,
+    "descricaoChars": 141,
+    "linksInternos": 0
+   },
+   "faqNoTopo": "1/1",
+   "secoesComuns": [],
+   "concorrentes": [
+    {
+     "host": "urologistajf.com.br",
+     "palavras": 1595,
+     "h2": 12,
+     "imagens": 0,
+     "data": "2025-11-23"
+    }
+   ],
+   "meta": "publicar com ≥ 1595 palavras, ≥ 12 H2, ≥ 0 imagens e FAQ; cobrir: —"
   },
   {
    "geradoEm": "2026-10-04T16:33:41.985Z",
@@ -539,6 +568,35 @@
     "subtítulos H2: 12 vs topo 7"
    ],
    "observacao": "1 página(s) do topo não acessíveis"
+  },
+  {
+   "geradoEm": "2026-10-04T16:38:22.262Z",
+   "keyword": "ritmo circadiano",
+   "volume": 40500,
+   "publicado": false,
+   "concorrentesLidos": 1,
+   "tentados": 1,
+   "medianaTopo": {
+    "palavras": 2476,
+    "h2": 5,
+    "imagens": 8,
+    "imagensComAlt": 2,
+    "tituloChars": 142,
+    "descricaoChars": 152,
+    "linksInternos": 12
+   },
+   "faqNoTopo": "0/1",
+   "secoesComuns": [],
+   "concorrentes": [
+    {
+     "host": "msdmanuals.com",
+     "palavras": 2476,
+     "h2": 5,
+     "imagens": 8,
+     "data": "2024-06-11"
+    }
+   ],
+   "meta": "publicar com ≥ 2476 palavras, ≥ 5 H2, ≥ 8 imagens; cobrir: —"
   },
   {
    "geradoEm": "2026-10-04T16:33:34.708Z",

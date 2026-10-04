@@ -23,6 +23,10 @@ Gerado em 2026-10-04. Mediana das páginas do topo (concorrentes lidos) contra o
 - **Lacunas:** imagens: 3 vs topo 6 (faltam ~3) | imagens com alt: 2 vs topo 6 (faltam ~4)
 - Vantagens: subtítulos H2: 14 vs topo 4
 
+## ereção matinal (meta para publicar)
+- Topo (mediana de 1): 1595 palavras, 12 H2, 0 imagens; FAQ em 1/1
+- **Meta:** publicar com ≥ 1595 palavras, ≥ 12 H2, ≥ 0 imagens e FAQ; cobrir: —
+
 ## hemoglobina glicada (publicado)
 - Topo (mediana de 6): 569 palavras, 3 H2, 3 imagens; FAQ em 1/6
 - Nosso: 1303 palavras, 13 H2, 3 imagens
@@ -54,6 +58,10 @@ Gerado em 2026-10-04. Mediana das páginas do topo (concorrentes lidos) contra o
 - Nosso: 1188 palavras, 12 H2, 3 imagens
 - **Lacunas:** imagens: 3 vs topo 11 (faltam ~8) | imagens com alt: 2 vs topo 6 (faltam ~4) | sem FAQ (presente em 1/2 do topo)
 - Vantagens: subtítulos H2: 12 vs topo 7
+
+## ritmo circadiano (meta para publicar)
+- Topo (mediana de 1): 2476 palavras, 5 H2, 8 imagens; FAQ em 0/1
+- **Meta:** publicar com ≥ 2476 palavras, ≥ 5 H2, ≥ 8 imagens; cobrir: —
 
 ## triglicerídeos altos sintomas (publicado)
 - Topo (mediana de 4): 1041 palavras, 5 H2, 1 imagens; FAQ em 2/4

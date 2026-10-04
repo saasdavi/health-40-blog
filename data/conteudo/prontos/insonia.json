@@ -1,0 +1,232 @@
+{
+ "slug": "insonia",
+ "title": "Insônia: Causas, Tipos e Como Resolver",
+ "description": "Insônia afeta sua qualidade de vida. Saiba o que causa, os 3 tipos principais e estratégias práticas para dormir melhor depois dos 40.",
+ "primaryKeyword": "insônia",
+ "cluster": "sono",
+ "volume": 40500,
+ "wordCount": 1346,
+ "readingTime": 7,
+ "sources": [
+  {
+   "title": "Insônia: o que é e quando procurar ajuda? | Nav Dasa",
+   "url": "https://nav.dasa.com.br/blog/insonia"
+  },
+  {
+   "title": "Insônia: por que acontece e como resolver a falta de sono",
+   "url": "https://hospitalsiriolibanes.org.br/blog/alimentacaoebemestar/insonia-10-dicas-para-dormir-melhor"
+  },
+  {
+   "title": "Insônia | Cuidados Pela Vida",
+   "url": "https://cuidadospelavida.com.br/blog/sintomas/insonia"
+  }
+ ],
+ "featuredImage": "/images/insonia/insonia-capa.jpg",
+ "imageAlt": "Mulher acordada na cama durante a noite, dificuldade para dormir",
+ "imageCredit": {
+  "author": "cottonbro studio",
+  "source": "Pexels",
+  "url": "https://www.pexels.com/photo/woman-lying-on-her-bed-6941121/",
+  "license": "Licença Pexels",
+  "licenseUrl": "https://www.pexels.com/license/"
+ },
+ "images": [
+  {
+   "src": "/images/insonia/pessoa-escrevendo-em-diario-a-noite-antes-de-dormir.jpg",
+   "alt": "Pessoa escrevendo em diário à noite antes de dormir",
+   "legenda": "Registrar preocupações antes de dormir ajuda a liberar a mente e reduzir a ansiedade que causa insônia",
+   "secao": 2,
+   "width": 1280,
+   "height": 853,
+   "credit": {
+    "author": "Pexels",
+    "source": "Pixabay",
+    "url": "https://pixabay.com/photos/hand-write-pen-notebook-journal-1868015/",
+    "license": "Licença Pixabay",
+    "licenseUrl": "https://pixabay.com/service/license-summary/"
+   }
+  },
+  {
+   "src": "/images/insonia/mulher-meditando-em-quarto-iluminado-naturalmente-expressao-.jpg",
+   "alt": "Mulher meditando em quarto iluminado naturalmente, expressão tranquila",
+   "legenda": "Técnicas de relaxamento como meditação são eficazes para reduzir o estresse e melhorar o sono",
+   "secao": 4,
+   "width": 940,
+   "height": 627,
+   "credit": {
+    "author": "Kampus Production",
+    "source": "Pexels",
+    "url": "https://www.pexels.com/photo/woman-doing-meditation-in-bed-7556611/",
+    "license": "Licença Pexels",
+    "licenseUrl": "https://www.pexels.com/license/"
+   }
+  }
+ ],
+ "scores": {
+  "auditoria": 92
+ },
+ "validador": "APROVADO",
+ "validacao": {
+  "palavraChave": "insônia",
+  "volume": 40500,
+  "cluster": "sono",
+  "apoio": [
+   "cid10 insonia",
+   "insonia como resolver",
+   "insonia de manutencao",
+   "insonia tem cura",
+   "insonia terminal",
+   "causa de insonia",
+   "causadores de insonia",
+   "insonia cid10",
+   "insonia como curar",
+   "gravidez da insonia",
+   "insonia nao organica",
+   "insonia inicial",
+   "insonia severa",
+   "medicos para insonia",
+   "a insonia"
+  ],
+  "perguntasDoGoogle": [
+   "o que leva uma pessoa a ter insônia",
+   "quais são os 3 tipos de insônia",
+   "o que fazer para tirar a insônia",
+   "como é a insônia da ansiedade"
+  ],
+  "serp": {
+   "facil": true,
+   "nivel": "FÁCIL",
+   "topoDoGoogle": "Cuidados Pela Vida, Ar Clínica, Medscape, Faculdade Futura, Locmed, Marjan, USP; sem portal grande no topo",
+   "aiOverview": true
+  },
+  "fontesDaPauta": [
+   "https://nav.dasa.com.br/blog/insonia",
+   "https://araujo.com.br/blog/insonia/",
+   "https://hospitalsiriolibanes.org.br/blog/alimentacaoebemestar/insonia-10-dicas-para-dormir-melhor",
+   "https://www.gndi.com.br/blog-da-saude/conheca-as-causas-e-tratamentos-para-insonia",
+   "https://cuidadospelavida.com.br/blog/sintomas/insonia",
+   "https://arclinica.com.br/insonia/"
+  ],
+  "notas": "Sem indicar remédio para dormir nem melatonina; falar de higiene do sono e TCC-I só como as fontes informam; orientar procurar médico se persistir.",
+  "briefing": {
+   "keyword": "insônia",
+   "slug": "insonia",
+   "volume": 40500,
+   "cluster": "sono",
+   "papel": "pilar",
+   "pilar": null,
+   "sensivel": false,
+   "notas": "Sem indicar remédio para dormir nem melatonina; falar de higiene do sono e TCC-I só como as fontes informam; orientar procurar médico se persistir.",
+   "apoio": [
+    {
+     "palavra": "cid10 insonia",
+     "volume": 880
+    },
+    {
+     "palavra": "insonia como resolver",
+     "volume": 590
+    },
+    {
+     "palavra": "insonia de manutencao",
+     "volume": 480
+    },
+    {
+     "palavra": "insonia tem cura",
+     "volume": 480
+    },
+    {
+     "palavra": "insonia terminal",
+     "volume": 480
+    },
+    {
+     "palavra": "causa de insonia",
+     "volume": 390
+    },
+    {
+     "palavra": "causadores de insonia",
+     "volume": 390
+    },
+    {
+     "palavra": "insonia cid10",
+     "volume": 390
+    },
+    {
+     "palavra": "insonia como curar",
+     "volume": 320
+    },
+    {
+     "palavra": "gravidez da insonia",
+     "volume": 260
+    },
+    {
+     "palavra": "insonia nao organica",
+     "volume": 210
+    },
+    {
+     "palavra": "insonia inicial",
+     "volume": 170
+    },
+    {
+     "palavra": "insonia severa",
+     "volume": 170
+    },
+    {
+     "palavra": "medicos para insonia",
+     "volume": 170
+    },
+    {
+     "palavra": "a insonia",
+     "volume": 140
+    }
+   ],
+   "perguntasDoGoogle": [
+    "o que leva uma pessoa a ter insônia",
+    "quais são os 3 tipos de insônia",
+    "o que fazer para tirar a insônia",
+    "como é a insônia da ansiedade"
+   ],
+   "buscasRelacionadas": [],
+   "concorrentePrincipal": null,
+   "google": {
+    "checadoEm": null,
+    "top3Organicos": [],
+    "autoridadesTop3": [],
+    "autoridadesTop5": [],
+    "respostaDaIA": true
+   },
+   "metaEscrita": null,
+   "pontes": [
+    {
+     "para": "insônia causas",
+     "ancoras": [
+      "insônia causas",
+      "causas da insonia repentina",
+      "insônia causas hormonais",
+      "insônia terminal causas",
+      "causas de insonia e tratamento"
+     ]
+    },
+    {
+     "para": "insônia o que fazer",
+     "ancoras": [
+      "insônia o que fazer",
+      "ansiedade insonia o que fazer",
+      "insonia oq fazer",
+      "ansiedade e insonia o que fazer",
+      "insonia e ansiedade o que fazer"
+     ]
+    }
+   ],
+   "fontes": [
+    "https://nav.dasa.com.br/blog/insonia",
+    "https://araujo.com.br/blog/insonia/",
+    "https://hospitalsiriolibanes.org.br/blog/alimentacaoebemestar/insonia-10-dicas-para-dormir-melhor",
+    "https://www.gndi.com.br/blog-da-saude/conheca-as-causas-e-tratamentos-para-insonia",
+    "https://cuidadospelavida.com.br/blog/sintomas/insonia",
+    "https://arclinica.com.br/insonia/"
+   ]
+  },
+  "validadoEm": "2026-10-04T16:46:32.350Z"
+ },
+ "content": "<p><strong>Insônia</strong> é a dificuldade persistente para adormecer ou manter o sono, resultando em descanso insuficiente para o corpo. Ela afeta sua qualidade de vida, concentração e bem-estar geral, podendo ser temporária ou crônica.</p>\n\n<h2>O que causa insônia</h2>\n\n<p>As causas são variadas e frequentemente múltiplas. Entender o que dispara seu problema é o primeiro passo para resolvê-lo.</p>\n\n<p><strong>Fatores emocionais e psicológicos</strong> estão no topo da lista. Estresse, ansiedade e preocupações ativam seu sistema nervoso, mantendo o corpo em alerta. Transtornos como ansiedade generalizada dificultam ainda mais relaxar à noite.</p>\n\n<p>Depressão também causa insônia. Pessoas com depressão podem acordar muito cedo pela manhã ou, ao contrário, ficar horas tentando adormecer.</p>\n\n<p><strong>Hábitos prejudiciais</strong> pioram tudo. Horários irregulares para dormir desregulam seu relógio biológico. Usar celular, tablet ou computador antes de dormir emite luz azul que inibe a melatonina, o hormônio do sono.</p>\n\n<p>Cafeína consumida à noite mantém o cérebro ativo. Álcool parece ajudar no início, mas fragmenta o sono e impede o descanso profundo.</p>\n\n<p><strong>Problemas de saúde</strong> como apneia do sono, hipertireoidismo, refluxo gastroesofágico e dor crônica interferem no repouso. Doenças cardíacas e respiratórias pioram quando deitado.</p>\n\n<p>O ambiente importa. Barulho, luz excessiva ou temperatura desconfortável mantêm seu cérebro vigilante. Ambientes muito claros podem bloquear a produção de melatonina.</p>\n\n<p>Viagens entre fusos horários, turnos de trabalho irregulares ou mudanças no estilo de vida desregulam o ciclo circadiano, seu relógio biológico natural.</p>\n\n<h2>Os 3 tipos principais de insônia</h2>\n\n<p>A insônia não é sempre igual. Conhecer seu tipo ajuda a escolher o tratamento certo.</p>\n\n<p><strong>Insônia inicial (ou de início)</strong> é quando você demora mais de 30 minutos para adormecer. A mente fica acelerada, você vira de um lado para o outro. Frequentemente ligada ao estresse ou ansiedade.</p>\n\n<p><strong>Insônia de manutenção</strong> significa acordar várias vezes durante a noite e ter dificuldade para voltar a dormir. Você pode acordar a cada hora ou despertar muito cedo. Associada a problemas respiratórios, dor ou idade avançada.</p>\n\n<p><strong>Insônia terminal</strong> é acordar muito cedo e não conseguir dormir novamente. Você desperta às 3, 4 da manhã e permanece acordado. Comum em pessoas com depressão.</p>\n\n<p>A insônia é considerada <strong>crônica</strong> quando ocorre pelo menos 3 vezes por semana e dura mais de 3 meses. Insônia aguda dura menos de 3 meses, frequentemente desencadeada por estresse ou mudança temporária.</p>\n<figure class=\"article-figure\"><img src=\"/images/insonia/pessoa-escrevendo-em-diario-a-noite-antes-de-dormir.jpg\" alt=\"Pessoa escrevendo em diário à noite antes de dormir\" width=\"1280\" height=\"853\" loading=\"lazy\" /><figcaption>Registrar preocupações antes de dormir ajuda a liberar a mente e reduzir a ansiedade que causa insônia <span class=\"credit\">Foto: <a href=\"https://pixabay.com/photos/hand-write-pen-notebook-journal-1868015/\" rel=\"noopener nofollow\" target=\"_blank\">Pexels</a> / Pixabay</span></figcaption></figure>\n<h2>Insônia e ansiedade: uma conexão perigosa</h2>\n\n<p>Ansiedade e insônia andam de mãos dadas. Quando preocupações dominam sua mente à noite, o sistema nervoso permanece em alerta máximo.</p>\n\n<p>A ansiedade causa <strong>pensamentos incessantes</strong>. Você revive o dia, se preocupa com o futuro, imagina cenários catastróficos. O cérebro não consegue desligar.</p>\n\n<p>Esse estado de vigília aumenta a atividade cerebral e a frequência cardíaca. Você sente inquietação, tensão muscular, dificuldade para respirar normalmente. O corpo inteiro resiste ao sono.</p>\n\n<p>Um ciclo vicioso se forma: noites mal dormidas pioram a ansiedade; ansiedade piora a insônia. Quanto mais você se preocupa em dormir, mais difícil fica.</p>\n\n<p>Se a ansiedade é sua causa principal, <a href=\"/meditacao-ansiedade-40/\">técnicas de meditação e respiração</a> têm comprovação científica de eficácia. A terapia cognitivo-comportamental também é particularmente efetiva para esse perfil.</p>\n\n<h2>O que fazer para tirar a insônia</h2>\n\n<p>Existem estratégias concretas que funcionam. Comece pelos hábitos antes de considerar medicamentos.</p>\n\n<p><strong>Higiene do sono</strong> é a base. Estabeleça horários fixos para dormir e acordar todos os dias, inclusive fins de semana. Isso regula seu relógio biológico.</p>\n\n<p>Evite telas pelo menos 2 horas antes de dormir. A luz azul interfere na melatonina. Se precisar usar dispositivos, use óculos bloqueadores ou o modo noturno.</p>\n\n<p>Crie um quarto escuro, silencioso e fresco. Retire a TV, computador e telefone. Reserve a cama apenas para dormir.</p>\n\n<p>Não consuma cafeína após as 16h. Evite refeições pesadas próximas à hora de dormir. Álcool à noite prejudica a qualidade do sono.</p>\n\n<p><strong>Exercício físico regular</strong> melhora o sono. Caminhe, nage ou faça aeróbicos moderados. Evite exercícios intensos 3 a 4 horas antes de dormir.</p>\n\n<p><strong>Terapia cognitivo-comportamental (TCC)</strong> é considerada atualmente o melhor tratamento não-medicamentoso. Um terapeuta ajuda a identificar e modificar pensamentos e comportamentos que alimentam a insônia.</p>\n\n<p><strong>Técnicas de relaxamento</strong> funcionam. Meditação, yoga, respiração profunda e alongamento reduzem o estresse. Pratique 10 a 20 minutos antes de dormir.</p>\n\n<p><strong>Medicamentos</strong> são opção quando outras estratégias falharam. Indutores de sono, benzodiazepínicos e hipnóticos não-benzodiazepínicos atuam reduzindo a atividade cerebral. Mas podem causar sonolência diurna, boca seca, tontura e risco de dependência. Use apenas com prescrição médica.</p>\n\n<p>Se sua insônia está ligada a outra doença como apneia do sono ou depressão, tratar a causa é essencial.</p>\n<figure class=\"article-figure\"><img src=\"/images/insonia/mulher-meditando-em-quarto-iluminado-naturalmente-expressao-.jpg\" alt=\"Mulher meditando em quarto iluminado naturalmente, expressão tranquila\" width=\"940\" height=\"627\" loading=\"lazy\" /><figcaption>Técnicas de relaxamento como meditação são eficazes para reduzir o estresse e melhorar o sono <span class=\"credit\">Foto: <a href=\"https://www.pexels.com/photo/woman-doing-meditation-in-bed-7556611/\" rel=\"noopener nofollow\" target=\"_blank\">Kampus Production</a> / Pexels</span></figcaption></figure>\n<h2>Checklist: O que observar em você</h2>\n\n<ul>\n<li>Você demora mais de 30 minutos para dormir regularmente?</li>\n<li>Acorda várias vezes na noite e não consegue voltar a dormir?</li>\n<li>Desperta muito cedo (antes das 5h) e permanece acordado?</li>\n<li>Sente cansaço ao acordar, mesmo após \"dormir\"?</li>\n<li>Tem dificuldade de concentração ou memória durante o dia?</li>\n<li>Fica irritado ou de mau humor com frequência?</li>\n<li>O padrão ocorre pelo menos 3 vezes por semana há mais de 3 meses?</li>\n</ul>\n\n<p>Se respondeu \"sim\" a 3 ou mais perguntas, sua insônia merece atenção profissional.</p>\n\n<h2>Erros comuns que pioram a insônia</h2>\n\n<p><strong>Ficar na cama acordado</strong> treina seu cérebro a associar a cama com vigília. Após 20 minutos acordado, levante e leia em outro cômodo até sentir sono.</p>\n\n<p><strong>Cochilos longos durante o dia</strong> roubam sono noturno. Se precisa descansar, mantenha abaixo de 20 minutos e antes das 15h.</p>\n\n<p><strong>Tentar forçar o sono</strong> aumenta a ansiedade. Quanto mais você pensa em dormir, menos consegue.</p>\n\n<p><strong>Ambientes inadequados</strong> não facilitam repouso. Cortinas que deixam claridade, barulho de rua ou companheiro roncando prejudicam. Invista em cortinas blackout ou tampões para ouvido.</p>\n\n<p><strong>Não tratar a ansiedade ou depressão</strong> subjacentes significa lutar contra a insônia de mãos atadas. A causa emocional deve ser abordada.</p>\n\n<p><strong>Álcool ou cafeína à noite</strong> são armadilhas. Muitos acreditam que álcool relaxa, mas ele fragmenta o sono. Cafeína pode estar em refrigerantes e chocolate também.</p>\n\n<h2>Perguntas para levar ao médico</h2>\n\n<ul>\n<li>Quanto tempo tenho de insônia? É aguda ou crônica?</li>\n<li>Qual é meu tipo de insônia: dificuldade em adormecer, acordar no meio da noite ou acordar muito cedo?</li>\n<li>Estou mais estressado ou ansioso ultimamente?</li>\n<li>Tenho ronco, apneia do sono ou dor crônica?</li>\n<li>Que medicamentos tomo? Alguns afetam o sono?</li>\n<li>Devo começar com terapia cognitivo-comportamental ou tentar mudanças nos hábitos primeiro?</li>\n<li>Se receber remédio, quanto tempo devo usá-lo? Qual é o risco de dependência?</li>\n</ul>\n\n<h2>Como usar isso no seu dia a dia</h2>\n\n<p>Semana 1: Estabeleça horários fixos para dormir e acordar. Retire telas do quarto. Crie escuridão total.</p>\n\n<p>Semana 2: Comece exercício físico regular. Evite cafeína após as 16h.</p>\n\n<p>Semana 3: Introduza uma técnica de relaxamento: meditação, yoga ou respiração profunda antes de dormir.</p>\n\n<p>Semana 4: Avalie os resultados. Se melhorou, mantenha. Se não, procure um médico especialista.</p>\n\n<p>Paciência é importante. Mudanças nos hábitos levam 4 a 8 semanas para mostrar efeito real no sono. Não desista na primeira semana.</p>\n\n<h2>Quando procurar um médico</h2>\n\n<p>Procure um especialista se:</p>\n\n<ul>\n<li>A insônia dura mais de 3 meses;</li>\n<li>Ocorre pelo menos 3 vezes por semana;</li>\n<li>Mudanças nos hábitos não melhoraram após 4 semanas;</li>\n<li>Você suspeita de apneia do sono (ronco, pausas respiratórias, sonolência extrema);</li>\n<li>Sofre com depressão ou ansiedade intensa;</li>\n<li>A insônia afeta seu trabalho, relacionamentos ou segurança.</li>\n</ul>\n\n<p>O médico ideal é um <strong>neurologista</strong> ou especialista em medicina do sono. Se a causa for respiratória, um pneumologista pode avaliar apneia do sono.</p>\n\n<p>Segundo Nav Dasa, esses profissionais conseguem diagnosticar corretamente e prescrever o tratamento adequado, seja terapia, mudança de hábitos ou medicação.</p>\n\n<h2>Resumindo</h2>\n\n<p>Insônia é mais comum do que você imagina. Estresse, maus hábitos, problemas de saúde e ansiedade são as causas principais. Os 3 tipos — inicial, de manutenção e terminal — têm tratamentos diferentes.</p>\n\n<p>Antes de medicamentos, invista em higiene do sono, exercício físico, relaxamento e terapia comportamental. Se durar mais de 3 meses, procure um especialista.</p>\n\n<p>Lembre: insônia tem solução. O segredo é identificar sua causa e agir de forma consistente. Seu sono reparador está mais perto do que imagina.</p>\n<h2>Fontes</h2>\n<ul>\n<li><a href=\"https://nav.dasa.com.br/blog/insonia\" rel=\"noopener nofollow\" target=\"_blank\">Insônia: o que é e quando procurar ajuda? | Nav Dasa</a></li>\n<li><a href=\"https://hospitalsiriolibanes.org.br/blog/alimentacaoebemestar/insonia-10-dicas-para-dormir-melhor\" rel=\"noopener nofollow\" target=\"_blank\">Insônia: por que acontece e como resolver a falta de sono</a></li>\n<li><a href=\"https://cuidadospelavida.com.br/blog/sintomas/insonia\" rel=\"noopener nofollow\" target=\"_blank\">Insônia | Cuidados Pela Vida</a></li>\n</ul>\n<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>"
+}
