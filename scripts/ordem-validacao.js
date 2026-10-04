@@ -12,7 +12,9 @@ const STOP = new Set(['de', 'da', 'do', 'das', 'dos', 'a', 'o', 'e', 'em', 'na',
 const termos = (t) => new Set(norm(t).split(' ').filter((w) => w.length > 1 && !STOP.has(w)));
 const { palavras } = JSON.parse(fs.readFileSync('data/pesquisa/banco-de-palavras.json', 'utf8'));
 const ambiguas = new Set(JSON.parse(fs.readFileSync('data/pesquisa/filtros.json', 'utf8')).cabecasAmbiguas.map(norm));
-const fila = new Set(JSON.parse(fs.readFileSync('data/keywords-validated.json', 'utf8')).keywords.map((k) => norm(k.keyword)));
+const kws = JSON.parse(fs.readFileSync('data/keywords-validated.json', 'utf8')).keywords;
+// já têm destino: a pauta em si e as palavras de apoio (secundarias) dela
+const fila = new Set(kws.flatMap((k) => [norm(k.keyword), ...(k.secundarias || []).map((s) => norm(s.palavra))]));
 
 const uteis = palavras.filter((p) => ['banco', 'candidata'].includes(p.status) && !classificar(p.palavra) && p.competicao !== 'HIGH' && p.volume > 0)
   .sort((a, b) => b.volume - a.volume || a.palavra.length - b.palavra.length);

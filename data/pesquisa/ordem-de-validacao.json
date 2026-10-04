@@ -1,7 +1,7 @@
 {
  "gerado": "2026-10-04",
  "palavrasUsadas": 1096,
- "grupos": 529,
+ "grupos": 503,
  "ordem": [
   {
    "ordem": 1,
@@ -66,16 +66,6 @@
   },
   {
    "ordem": 5,
-   "frase": "hemoglobina glicosilada",
-   "volumeFrase": 135000,
-   "volumeGrupo": 135000,
-   "variacoes": 0,
-   "categoria": "sem-categoria",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 6,
    "frase": "colesterol das hdl",
    "volumeFrase": 74000,
    "volumeGrupo": 132000,
@@ -91,7 +81,7 @@
    ]
   },
   {
-   "ordem": 7,
+   "ordem": 6,
    "frase": "próstata",
    "volumeFrase": 74000,
    "volumeGrupo": 104790,
@@ -107,7 +97,7 @@
    ]
   },
   {
-   "ordem": 8,
+   "ordem": 7,
    "frase": "dieta emagrecer",
    "volumeFrase": 40500,
    "volumeGrupo": 87950,
@@ -123,7 +113,7 @@
    ]
   },
   {
-   "ordem": 9,
+   "ordem": 8,
    "frase": "paralisia do sono",
    "volumeFrase": 74000,
    "volumeGrupo": 74780,
@@ -138,7 +128,7 @@
    ]
   },
   {
-   "ordem": 10,
+   "ordem": 9,
    "frase": "bursite",
    "volumeFrase": 74000,
    "volumeGrupo": 74000,
@@ -148,7 +138,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 11,
+   "ordem": 10,
    "frase": "bruxismo",
    "volumeFrase": 74000,
    "volumeGrupo": 74000,
@@ -158,7 +148,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 12,
+   "ordem": 11,
    "frase": "fosfatase alcalina",
    "volumeFrase": 74000,
    "volumeGrupo": 74000,
@@ -168,7 +158,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 13,
+   "ordem": 12,
    "frase": "dermatite de contato",
    "volumeFrase": 74000,
    "volumeGrupo": 74000,
@@ -178,7 +168,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 14,
+   "ordem": 13,
    "frase": "psa",
    "volumeFrase": 27100,
    "volumeGrupo": 73880,
@@ -194,7 +184,7 @@
    ]
   },
   {
-   "ordem": 15,
+   "ordem": 14,
    "frase": "emagrecer",
    "volumeFrase": 33100,
    "volumeGrupo": 64440,
@@ -210,7 +200,7 @@
    ]
   },
   {
-   "ordem": 16,
+   "ordem": 15,
    "frase": "melasma",
    "volumeFrase": 60500,
    "volumeGrupo": 60500,
@@ -220,7 +210,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 17,
+   "ordem": 16,
    "frase": "gota",
    "volumeFrase": 40500,
    "volumeGrupo": 50000,
@@ -233,7 +223,7 @@
    ]
   },
   {
-   "ordem": 18,
+   "ordem": 17,
    "frase": "estrias",
    "volumeFrase": 49500,
    "volumeGrupo": 49500,
@@ -243,7 +233,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 19,
+   "ordem": 18,
    "frase": "triglicérides alto",
    "volumeFrase": 49500,
    "volumeGrupo": 49500,
@@ -253,7 +243,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 20,
+   "ordem": 19,
    "frase": "perimenopausa",
    "volumeFrase": 40500,
    "volumeGrupo": 40710,
@@ -265,7 +255,7 @@
    ]
   },
   {
-   "ordem": 21,
+   "ordem": 20,
    "frase": "exercícios para ombro",
    "volumeFrase": 40500,
    "volumeGrupo": 40500,
@@ -275,7 +265,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 22,
+   "ordem": 21,
    "frase": "sarcopenia o que é",
    "volumeFrase": 33100,
    "volumeGrupo": 40030,
@@ -290,7 +280,7 @@
    ]
   },
   {
-   "ordem": 23,
+   "ordem": 22,
    "frase": "câimbras",
    "volumeFrase": 33100,
    "volumeGrupo": 34200,
@@ -305,7 +295,7 @@
    ]
   },
   {
-   "ordem": 24,
+   "ordem": 23,
    "frase": "cochilo",
    "volumeFrase": 33100,
    "volumeGrupo": 33760,
@@ -319,7 +309,7 @@
    ]
   },
   {
-   "ordem": 25,
+   "ordem": 24,
    "frase": "meditação para dormir",
    "volumeFrase": 9900,
    "volumeGrupo": 31890,
@@ -335,7 +325,7 @@
    ]
   },
   {
-   "ordem": 26,
+   "ordem": 25,
    "frase": "prostatite",
    "volumeFrase": 22200,
    "volumeGrupo": 31590,
@@ -349,7 +339,7 @@
    ]
   },
   {
-   "ordem": 27,
+   "ordem": 26,
    "frase": "cabelo grisalho",
    "volumeFrase": 22200,
    "volumeGrupo": 28700,
@@ -362,7 +352,7 @@
    ]
   },
   {
-   "ordem": 28,
+   "ordem": 27,
    "frase": "glicemia de jejum",
    "volumeFrase": 22200,
    "volumeGrupo": 23800,
@@ -378,7 +368,7 @@
    ]
   },
   {
-   "ordem": 29,
+   "ordem": 28,
    "frase": "hiperglicemia",
    "volumeFrase": 22200,
    "volumeGrupo": 22790,
@@ -390,7 +380,7 @@
    ]
   },
   {
-   "ordem": 30,
+   "ordem": 29,
    "frase": "caspa",
    "volumeFrase": 22200,
    "volumeGrupo": 22520,
@@ -402,7 +392,7 @@
    ]
   },
   {
-   "ordem": 31,
+   "ordem": 30,
    "frase": "microalbuminúria",
    "volumeFrase": 22200,
    "volumeGrupo": 22200,
@@ -412,7 +402,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 32,
+   "ordem": 31,
    "frase": "como dormir rápido",
    "volumeFrase": 22200,
    "volumeGrupo": 22200,
@@ -422,7 +412,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 33,
+   "ordem": 32,
    "frase": "tendinite no ombro",
    "volumeFrase": 22200,
    "volumeGrupo": 22200,
@@ -432,7 +422,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 34,
+   "ordem": 33,
    "frase": "ligamento do joelho",
    "volumeFrase": 22200,
    "volumeGrupo": 22200,
@@ -442,7 +432,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 35,
+   "ordem": 34,
    "frase": "dor nas costas no meio",
    "volumeFrase": 22200,
    "volumeGrupo": 22200,
@@ -452,7 +442,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 36,
+   "ordem": 35,
    "frase": "sono rem",
    "volumeFrase": 18100,
    "volumeGrupo": 20740,
@@ -466,7 +456,7 @@
    ]
   },
   {
-   "ordem": 37,
+   "ordem": 36,
    "frase": "couro cabeludo",
    "volumeFrase": 9900,
    "volumeGrupo": 20690,
@@ -481,7 +471,7 @@
    ]
   },
   {
-   "ordem": 38,
+   "ordem": 37,
    "frase": "climatério o que é",
    "volumeFrase": 9900,
    "volumeGrupo": 20430,
@@ -497,7 +487,7 @@
    ]
   },
   {
-   "ordem": 39,
+   "ordem": 38,
    "frase": "calvície",
    "volumeFrase": 18100,
    "volumeGrupo": 19070,
@@ -510,7 +500,7 @@
    ]
   },
   {
-   "ordem": 40,
+   "ordem": 39,
    "frase": "articulações",
    "volumeFrase": 18100,
    "volumeGrupo": 18800,
@@ -523,7 +513,7 @@
    ]
   },
   {
-   "ordem": 41,
+   "ordem": 40,
    "frase": "recomeçar",
    "volumeFrase": 18100,
    "volumeGrupo": 18120,
@@ -536,7 +526,7 @@
    ]
   },
   {
-   "ordem": 42,
+   "ordem": 41,
    "frase": "curva glicêmica",
    "volumeFrase": 18100,
    "volumeGrupo": 18100,
@@ -546,7 +536,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 43,
+   "ordem": 42,
    "frase": "falta de vitamina d",
    "volumeFrase": 18100,
    "volumeGrupo": 18100,
@@ -556,7 +546,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 44,
+   "ordem": 43,
    "frase": "benefícios do magnésio",
    "volumeFrase": 12100,
    "volumeGrupo": 16900,
@@ -569,7 +559,7 @@
    ]
   },
   {
-   "ordem": 45,
+   "ordem": 44,
    "frase": "cabelo caindo muito",
    "volumeFrase": 9900,
    "volumeGrupo": 16200,
@@ -582,7 +572,7 @@
    ]
   },
   {
-   "ordem": 46,
+   "ordem": 45,
    "frase": "ossos",
    "volumeFrase": 8100,
    "volumeGrupo": 16180,
@@ -598,19 +588,7 @@
    ]
   },
   {
-   "ordem": 47,
-   "frase": "hba1c",
-   "volumeFrase": 14800,
-   "volumeGrupo": 14810,
-   "variacoes": 1,
-   "categoria": "sem-categoria",
-   "status": "banco",
-   "topVariacoes": [
-    "hba1c 5.7"
-   ]
-  },
-  {
-   "ordem": 48,
+   "ordem": 46,
    "frase": "rosácea",
    "volumeFrase": 14800,
    "volumeGrupo": 14800,
@@ -620,7 +598,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 49,
+   "ordem": 47,
    "frase": "hiperplasia prostática",
    "volumeFrase": 14800,
    "volumeGrupo": 14800,
@@ -630,7 +608,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 50,
+   "ordem": 48,
    "frase": "dor de cabeça ao acordar",
    "volumeFrase": 14800,
    "volumeGrupo": 14800,
@@ -640,7 +618,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 51,
+   "ordem": 49,
    "frase": "artrite reumatoide sintomas",
    "volumeFrase": 14800,
    "volumeGrupo": 14800,
@@ -650,7 +628,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 52,
+   "ordem": 50,
    "frase": "dores nas costas o que pode ser",
    "volumeFrase": 14800,
    "volumeGrupo": 14800,
@@ -660,7 +638,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 53,
+   "ordem": 51,
    "frase": "cartilagem",
    "volumeFrase": 9900,
    "volumeGrupo": 14300,
@@ -672,7 +650,7 @@
    ]
   },
   {
-   "ordem": 54,
+   "ordem": 52,
    "frase": "higiene do sono",
    "volumeFrase": 12100,
    "volumeGrupo": 14280,
@@ -685,7 +663,7 @@
    ]
   },
   {
-   "ordem": 55,
+   "ordem": 53,
    "frase": "cabelo branco",
    "volumeFrase": 12100,
    "volumeGrupo": 13300,
@@ -698,7 +676,7 @@
    ]
   },
   {
-   "ordem": 56,
+   "ordem": 54,
    "frase": "ciática",
    "volumeFrase": 12100,
    "volumeGrupo": 12110,
@@ -710,7 +688,7 @@
    ]
   },
   {
-   "ordem": 57,
+   "ordem": 55,
    "frase": "homa ir",
    "volumeFrase": 12100,
    "volumeGrupo": 12100,
@@ -720,7 +698,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 58,
+   "ordem": 56,
    "frase": "urina escura",
    "volumeFrase": 12100,
    "volumeGrupo": 12100,
@@ -730,7 +708,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 59,
+   "ordem": 57,
    "frase": "sonambulismo",
    "volumeFrase": 12100,
    "volumeGrupo": 12100,
@@ -740,7 +718,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 60,
+   "ordem": 58,
    "frase": "urofluxometria",
    "volumeFrase": 12100,
    "volumeGrupo": 12100,
@@ -750,7 +728,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 61,
+   "ordem": 59,
    "frase": "alimentos ricos em magnésio",
    "volumeFrase": 12100,
    "volumeGrupo": 12100,
@@ -760,7 +738,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 62,
+   "ordem": 60,
    "frase": "pesadelos",
    "volumeFrase": 9900,
    "volumeGrupo": 10040,
@@ -772,7 +750,7 @@
    ]
   },
   {
-   "ordem": 63,
+   "ordem": 61,
    "frase": "insulina alta",
    "volumeFrase": 9900,
    "volumeGrupo": 9900,
@@ -782,7 +760,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 64,
+   "ordem": 62,
    "frase": "glicemia capilar",
    "volumeFrase": 9900,
    "volumeGrupo": 9900,
@@ -792,7 +770,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 65,
+   "ordem": 63,
    "frase": "babosa no cabelo",
    "volumeFrase": 9900,
    "volumeGrupo": 9900,
@@ -802,7 +780,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 66,
+   "ordem": 64,
    "frase": "suco detox emagrece",
    "volumeFrase": 9900,
    "volumeGrupo": 9900,
@@ -812,7 +790,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 67,
+   "ordem": 65,
    "frase": "meditacaoparadormir",
    "volumeFrase": 9900,
    "volumeGrupo": 9900,
@@ -822,7 +800,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 68,
+   "ordem": 66,
    "frase": "meditação ao dormir",
    "volumeFrase": 9900,
    "volumeGrupo": 9900,
@@ -832,7 +810,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 69,
+   "ordem": 67,
    "frase": "meditaçãopara dormir",
    "volumeFrase": 9900,
    "volumeGrupo": 9900,
@@ -842,7 +820,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 70,
+   "ordem": 68,
    "frase": "alimentos ricos em cálcio",
    "volumeFrase": 9900,
    "volumeGrupo": 9900,
@@ -852,7 +830,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 71,
+   "ordem": 69,
    "frase": "cabelo caindo",
    "volumeFrase": 4400,
    "volumeGrupo": 9770,
@@ -867,7 +845,7 @@
    ]
   },
   {
-   "ordem": 72,
+   "ordem": 70,
    "frase": "alimentos ricos em vitamina d",
    "volumeFrase": 8100,
    "volumeGrupo": 9400,
@@ -879,7 +857,7 @@
    ]
   },
   {
-   "ordem": 73,
+   "ordem": 71,
    "frase": "fases sono",
    "volumeFrase": 4400,
    "volumeGrupo": 8800,
@@ -891,7 +869,7 @@
    ]
   },
   {
-   "ordem": 74,
+   "ordem": 72,
    "frase": "hpb",
    "volumeFrase": 8100,
    "volumeGrupo": 8310,
@@ -903,7 +881,7 @@
    ]
   },
   {
-   "ordem": 75,
+   "ordem": 73,
    "frase": "glicemia alta",
    "volumeFrase": 8100,
    "volumeGrupo": 8140,
@@ -916,7 +894,7 @@
    ]
   },
   {
-   "ordem": 76,
+   "ordem": 74,
    "frase": "luz azul",
    "volumeFrase": 8100,
    "volumeGrupo": 8120,
@@ -928,7 +906,7 @@
    ]
   },
   {
-   "ordem": 77,
+   "ordem": 75,
    "frase": "rugas",
    "volumeFrase": 8100,
    "volumeGrupo": 8110,
@@ -940,7 +918,7 @@
    ]
   },
   {
-   "ordem": 78,
+   "ordem": 76,
    "frase": "pth",
    "volumeFrase": 8100,
    "volumeGrupo": 8100,
@@ -950,7 +928,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 79,
+   "ordem": 77,
    "frase": "anti ccp",
    "volumeFrase": 8100,
    "volumeGrupo": 8100,
@@ -960,7 +938,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 80,
+   "ordem": 78,
    "frase": "ciclo do sono",
    "volumeFrase": 8100,
    "volumeGrupo": 8100,
@@ -970,7 +948,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 81,
+   "ordem": 79,
    "frase": "meditacoes iasd",
    "volumeFrase": 8100,
    "volumeGrupo": 8100,
@@ -980,7 +958,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 82,
+   "ordem": 80,
    "frase": "dieta para perder barriga",
    "volumeFrase": 8100,
    "volumeGrupo": 8100,
@@ -990,7 +968,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 83,
+   "ordem": 81,
    "frase": "dor nas costas ao respirar",
    "volumeFrase": 8100,
    "volumeGrupo": 8100,
@@ -1000,7 +978,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 84,
+   "ordem": 82,
    "frase": "queda de cabelo o que pode ser",
    "volumeFrase": 8100,
    "volumeGrupo": 8100,
@@ -1010,7 +988,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 85,
+   "ordem": 83,
    "frase": "causa insonia",
    "volumeFrase": 3600,
    "volumeGrupo": 7590,
@@ -1023,7 +1001,7 @@
    ]
   },
   {
-   "ordem": 86,
+   "ordem": 84,
    "frase": "triglicerides",
    "volumeFrase": 6600,
    "volumeGrupo": 6980,
@@ -1036,7 +1014,7 @@
    ]
   },
   {
-   "ordem": 87,
+   "ordem": 85,
    "frase": "pilates e idosos",
    "volumeFrase": 1900,
    "volumeGrupo": 6850,
@@ -1052,7 +1030,7 @@
    ]
   },
   {
-   "ordem": 88,
+   "ordem": 86,
    "frase": "totg",
    "volumeFrase": 6600,
    "volumeGrupo": 6600,
@@ -1062,7 +1040,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 89,
+   "ordem": 87,
    "frase": "região lombar",
    "volumeFrase": 6600,
    "volumeGrupo": 6600,
@@ -1072,7 +1050,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 90,
+   "ordem": 88,
    "frase": "glicemia pós prandial",
    "volumeFrase": 6600,
    "volumeGrupo": 6600,
@@ -1082,7 +1060,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 91,
+   "ordem": 89,
    "frase": "alongamento para coluna",
    "volumeFrase": 6600,
    "volumeGrupo": 6600,
@@ -1092,7 +1070,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 92,
+   "ordem": 90,
    "frase": "vontade de urinar toda hora",
    "volumeFrase": 6600,
    "volumeGrupo": 6600,
@@ -1102,7 +1080,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 93,
+   "ordem": 91,
    "frase": "insonia o que é",
    "volumeFrase": 1000,
    "volumeGrupo": 6010,
@@ -1118,7 +1096,7 @@
    ]
   },
   {
-   "ordem": 94,
+   "ordem": 92,
    "frase": "fogacho",
    "volumeFrase": 3600,
    "volumeGrupo": 5410,
@@ -1131,7 +1109,7 @@
    ]
   },
   {
-   "ordem": 95,
+   "ordem": 93,
    "frase": "hiperpigmentação",
    "volumeFrase": 5400,
    "volumeGrupo": 5400,
@@ -1141,7 +1119,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 96,
+   "ordem": 94,
    "frase": "dor nas costas embaixo",
    "volumeFrase": 5400,
    "volumeGrupo": 5400,
@@ -1151,7 +1129,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 97,
+   "ordem": 95,
    "frase": "deficiência de vitamina d",
    "volumeFrase": 5400,
    "volumeGrupo": 5400,
@@ -1161,7 +1139,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 98,
+   "ordem": 96,
    "frase": "esquecimentos",
    "volumeFrase": 3600,
    "volumeGrupo": 5070,
@@ -1176,7 +1154,7 @@
    ]
   },
   {
-   "ordem": 99,
+   "ordem": 97,
    "frase": "peptideo c",
    "volumeFrase": 4400,
    "volumeGrupo": 4400,
@@ -1186,7 +1164,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 100,
+   "ordem": 98,
    "frase": "cabelo ralo",
    "volumeFrase": 4400,
    "volumeGrupo": 4400,
@@ -1196,7 +1174,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 101,
+   "ordem": 99,
    "frase": "pontas duplas",
    "volumeFrase": 4400,
    "volumeGrupo": 4400,
@@ -1206,7 +1184,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 102,
+   "ordem": 100,
    "frase": "cabelo oleoso",
    "volumeFrase": 4400,
    "volumeGrupo": 4400,
@@ -1216,7 +1194,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 103,
+   "ordem": 101,
    "frase": "sons para dormir",
    "volumeFrase": 4400,
    "volumeGrupo": 4400,
@@ -1226,7 +1204,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 104,
+   "ordem": 102,
    "frase": "síndrome metabólica",
    "volumeFrase": 4400,
    "volumeGrupo": 4400,
@@ -1236,7 +1214,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 105,
+   "ordem": 103,
    "frase": "excesso de vitamina d",
    "volumeFrase": 4400,
    "volumeGrupo": 4400,
@@ -1246,7 +1224,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 106,
+   "ordem": 104,
    "frase": "exercícios para joelho",
    "volumeFrase": 4400,
    "volumeGrupo": 4400,
@@ -1256,7 +1234,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 107,
+   "ordem": 105,
    "frase": "dor muscular nas costas",
    "volumeFrase": 4400,
    "volumeGrupo": 4400,
@@ -1266,7 +1244,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 108,
+   "ordem": 106,
    "frase": "relação albumina creatinina",
    "volumeFrase": 4400,
    "volumeGrupo": 4400,
@@ -1276,7 +1254,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 109,
+   "ordem": 107,
    "frase": "benefícios da hidroginástica",
    "volumeFrase": 2900,
    "volumeGrupo": 4100,
@@ -1292,7 +1270,7 @@
    ]
   },
   {
-   "ordem": 110,
+   "ordem": 108,
    "frase": "causas de queda de cabelo",
    "volumeFrase": 3600,
    "volumeGrupo": 4080,
@@ -1304,7 +1282,7 @@
    ]
   },
   {
-   "ordem": 111,
+   "ordem": 109,
    "frase": "gravidez e insonia",
    "volumeFrase": 1900,
    "volumeGrupo": 4060,
@@ -1317,7 +1295,7 @@
    ]
   },
   {
-   "ordem": 112,
+   "ordem": 110,
    "frase": "quedas idosos",
    "volumeFrase": 1000,
    "volumeGrupo": 4040,
@@ -1332,7 +1310,7 @@
    ]
   },
   {
-   "ordem": 113,
+   "ordem": 111,
    "frase": "açúcar no sangue",
    "volumeFrase": 2900,
    "volumeGrupo": 3950,
@@ -1347,7 +1325,7 @@
    ]
   },
   {
-   "ordem": 114,
+   "ordem": 112,
    "frase": "insonia e ansiedade",
    "volumeFrase": 1300,
    "volumeGrupo": 3900,
@@ -1360,7 +1338,7 @@
    ]
   },
   {
-   "ordem": 115,
+   "ordem": 113,
    "frase": "insonia fatal",
    "volumeFrase": 1900,
    "volumeGrupo": 3800,
@@ -1372,7 +1350,7 @@
    ]
   },
   {
-   "ordem": 116,
+   "ordem": 114,
    "frase": "como pegar sono rapido",
    "volumeFrase": 1900,
    "volumeGrupo": 3800,
@@ -1384,7 +1362,7 @@
    ]
   },
   {
-   "ordem": 117,
+   "ordem": 115,
    "frase": "privação de sono",
    "volumeFrase": 3600,
    "volumeGrupo": 3770,
@@ -1396,7 +1374,7 @@
    ]
   },
   {
-   "ordem": 118,
+   "ordem": 116,
    "frase": "dor articular",
    "volumeFrase": 3600,
    "volumeGrupo": 3600,
@@ -1406,7 +1384,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 119,
+   "ordem": 117,
    "frase": "coluna travada",
    "volumeFrase": 3600,
    "volumeGrupo": 3600,
@@ -1416,7 +1394,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 120,
+   "ordem": 118,
    "frase": "saúde do homem",
    "volumeFrase": 3600,
    "volumeGrupo": 3600,
@@ -1426,7 +1404,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 121,
+   "ordem": 119,
    "frase": "ruminação mental",
    "volumeFrase": 3600,
    "volumeGrupo": 3600,
@@ -1436,7 +1414,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 122,
+   "ordem": 120,
    "frase": "gordura abdominal",
    "volumeFrase": 3600,
    "volumeGrupo": 3600,
@@ -1446,7 +1424,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 123,
+   "ordem": 121,
    "frase": "exame de glicemia",
    "volumeFrase": 3600,
    "volumeGrupo": 3600,
@@ -1456,7 +1434,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 124,
+   "ordem": 122,
    "frase": "retenção urinária",
    "volumeFrase": 3600,
    "volumeGrupo": 3600,
@@ -1466,7 +1444,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 125,
+   "ordem": 123,
    "frase": "insonia quais as causas",
    "volumeFrase": 3600,
    "volumeGrupo": 3600,
@@ -1476,7 +1454,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 126,
+   "ordem": 124,
    "frase": "ejaculação retardada",
    "volumeFrase": 1000,
    "volumeGrupo": 3250,
@@ -1492,7 +1470,7 @@
    ]
   },
   {
-   "ordem": 127,
+   "ordem": 125,
    "frase": "ceramidas",
    "volumeFrase": 2900,
    "volumeGrupo": 2900,
@@ -1502,7 +1480,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 128,
+   "ordem": 126,
    "frase": "ferro baixo",
    "volumeFrase": 2900,
    "volumeGrupo": 2900,
@@ -1512,7 +1490,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 129,
+   "ordem": 127,
    "frase": "hidrolisado",
    "volumeFrase": 2900,
    "volumeGrupo": 2900,
@@ -1522,7 +1500,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 130,
+   "ordem": 128,
    "frase": "urinar muito",
    "volumeFrase": 2900,
    "volumeGrupo": 2900,
@@ -1532,7 +1510,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 131,
+   "ordem": 129,
    "frase": "exercícios para quadril",
    "volumeFrase": 2900,
    "volumeGrupo": 2900,
@@ -1542,7 +1520,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 132,
+   "ordem": 130,
    "frase": "como fortalecer o joelho",
    "volumeFrase": 2900,
    "volumeGrupo": 2900,
@@ -1552,7 +1530,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 133,
+   "ordem": 131,
    "frase": "treino para perder barriga",
    "volumeFrase": 2900,
    "volumeGrupo": 2900,
@@ -1562,17 +1540,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 134,
-   "frase": "tabela hemoglobina glicada",
-   "volumeFrase": 2900,
-   "volumeGrupo": 2900,
-   "variacoes": 0,
-   "categoria": "diabetes-exames",
-   "status": "candidata",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 135,
+   "ordem": 132,
    "frase": "alimentos ricos em vitaminas",
    "volumeFrase": 2900,
    "volumeGrupo": 2900,
@@ -1582,7 +1550,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 136,
+   "ordem": 133,
    "frase": "quantos fios de cabelo caem por dia",
    "volumeFrase": 2900,
    "volumeGrupo": 2900,
@@ -1592,7 +1560,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 137,
+   "ordem": 134,
    "frase": "entradas cabelo",
    "volumeFrase": 1300,
    "volumeGrupo": 2600,
@@ -1604,7 +1572,7 @@
    ]
   },
   {
-   "ordem": 138,
+   "ordem": 135,
    "frase": "estresse e queda de cabelo",
    "volumeFrase": 1300,
    "volumeGrupo": 2600,
@@ -1616,7 +1584,7 @@
    ]
   },
   {
-   "ordem": 139,
+   "ordem": 136,
    "frase": "pilates idoso",
    "volumeFrase": 1900,
    "volumeGrupo": 2580,
@@ -1632,7 +1600,7 @@
    ]
   },
   {
-   "ordem": 140,
+   "ordem": 137,
    "frase": "musculação em idosos",
    "volumeFrase": 1000,
    "volumeGrupo": 2500,
@@ -1648,7 +1616,7 @@
    ]
   },
   {
-   "ordem": 141,
+   "ordem": 138,
    "frase": "sono profundo",
    "volumeFrase": 2400,
    "volumeGrupo": 2480,
@@ -1661,7 +1629,7 @@
    ]
   },
   {
-   "ordem": 142,
+   "ordem": 139,
    "frase": "alongamento em idosos",
    "volumeFrase": 1000,
    "volumeGrupo": 2470,
@@ -1677,7 +1645,7 @@
    ]
   },
   {
-   "ordem": 143,
+   "ordem": 140,
    "frase": "anti gad",
    "volumeFrase": 2400,
    "volumeGrupo": 2400,
@@ -1687,7 +1655,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 144,
+   "ordem": 141,
    "frase": "cabelo fino",
    "volumeFrase": 2400,
    "volumeGrupo": 2400,
@@ -1697,7 +1665,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 145,
+   "ordem": 142,
    "frase": "cabelo seco",
    "volumeFrase": 2400,
    "volumeGrupo": 2400,
@@ -1707,7 +1675,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 146,
+   "ordem": 143,
    "frase": "cabelo opaco",
    "volumeFrase": 2400,
    "volumeGrupo": 2400,
@@ -1717,7 +1685,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 147,
+   "ordem": 144,
    "frase": "saúde do idoso",
    "volumeFrase": 2400,
    "volumeGrupo": 2400,
@@ -1727,7 +1695,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 148,
+   "ordem": 145,
    "frase": "muita dor nas costas",
    "volumeFrase": 2400,
    "volumeGrupo": 2400,
@@ -1737,7 +1705,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 149,
+   "ordem": 146,
    "frase": "relaxamento para dormir",
    "volumeFrase": 2400,
    "volumeGrupo": 2400,
@@ -1747,7 +1715,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 150,
+   "ordem": 147,
    "frase": "sintomas coluna cervical inflamada",
    "volumeFrase": 2400,
    "volumeGrupo": 2400,
@@ -1757,7 +1725,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 151,
+   "ordem": 148,
    "frase": "idade cronologica",
    "volumeFrase": 1600,
    "volumeGrupo": 2200,
@@ -1773,7 +1741,7 @@
    ]
   },
   {
-   "ordem": 152,
+   "ordem": 149,
    "frase": "toque retal",
    "volumeFrase": 1600,
    "volumeGrupo": 2090,
@@ -1786,7 +1754,7 @@
    ]
   },
   {
-   "ordem": 153,
+   "ordem": 150,
    "frase": "insonia que fazer",
    "volumeFrase": 1900,
    "volumeGrupo": 2040,
@@ -1798,7 +1766,7 @@
    ]
   },
   {
-   "ordem": 154,
+   "ordem": 151,
    "frase": "pilates idosa",
    "volumeFrase": 1900,
    "volumeGrupo": 1990,
@@ -1810,7 +1778,7 @@
    ]
   },
   {
-   "ordem": 155,
+   "ordem": 152,
    "frase": "relógio biológico",
    "volumeFrase": 1900,
    "volumeGrupo": 1900,
@@ -1820,7 +1788,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 156,
+   "ordem": 153,
    "frase": "tendinite no punho",
    "volumeFrase": 1900,
    "volumeGrupo": 1900,
@@ -1830,7 +1798,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 157,
+   "ordem": 154,
    "frase": "linhas de expressão",
    "volumeFrase": 1900,
    "volumeGrupo": 1900,
@@ -1840,7 +1808,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 158,
+   "ordem": 155,
    "frase": "exame de vitamina d",
    "volumeFrase": 1900,
    "volumeGrupo": 1900,
@@ -1850,7 +1818,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 159,
+   "ordem": 156,
    "frase": "dormir demais faz mal",
    "volumeFrase": 1900,
    "volumeGrupo": 1900,
@@ -1860,7 +1828,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 160,
+   "ordem": 157,
    "frase": "médico que cuida da coluna",
    "volumeFrase": 1900,
    "volumeGrupo": 1900,
@@ -1870,7 +1838,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 161,
+   "ordem": 158,
    "frase": "alimentos que aceleram o metabolismo",
    "volumeFrase": 1900,
    "volumeGrupo": 1900,
@@ -1880,7 +1848,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 162,
+   "ordem": 159,
    "frase": "sono leve",
    "volumeFrase": 1600,
    "volumeGrupo": 1600,
@@ -1890,7 +1858,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 163,
+   "ordem": 160,
    "frase": "cronotipo",
    "volumeFrase": 1600,
    "volumeGrupo": 1600,
@@ -1900,7 +1868,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 164,
+   "ordem": 161,
    "frase": "riscos de quedas",
    "volumeFrase": 1600,
    "volumeGrupo": 1600,
@@ -1910,7 +1878,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 165,
+   "ordem": 162,
    "frase": "yoga para iniciantes",
    "volumeFrase": 1600,
    "volumeGrupo": 1600,
@@ -1920,7 +1888,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 166,
+   "ordem": 163,
    "frase": "terror noturno adulto",
    "volumeFrase": 1600,
    "volumeGrupo": 1600,
@@ -1930,7 +1898,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 167,
+   "ordem": 164,
    "frase": "dores musculares costas",
    "volumeFrase": 1600,
    "volumeGrupo": 1600,
@@ -1940,7 +1908,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 168,
+   "ordem": 165,
    "frase": "deficiência de magnésio",
    "volumeFrase": 1600,
    "volumeGrupo": 1600,
@@ -1950,7 +1918,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 169,
+   "ordem": 166,
    "frase": "valores normais de glicemia",
    "volumeFrase": 1600,
    "volumeGrupo": 1600,
@@ -1960,7 +1928,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 170,
+   "ordem": 167,
    "frase": "dor nas costas acima das nádegas",
    "volumeFrase": 1600,
    "volumeGrupo": 1600,
@@ -1970,7 +1938,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 171,
+   "ordem": 168,
    "frase": "esquecimento o que pode ser",
    "volumeFrase": 880,
    "volumeGrupo": 1530,
@@ -1986,21 +1954,7 @@
    ]
   },
   {
-   "ordem": 172,
-   "frase": "exercícios de equilíbrio para idosos",
-   "volumeFrase": 880,
-   "volumeGrupo": 1440,
-   "variacoes": 3,
-   "categoria": "exercicio",
-   "status": "banco",
-   "topVariacoes": [
-    "exercicios de equilibrio idosos",
-    "exercicios para equilibrio em idosos",
-    "exercícios de equilíbrio para idosos fisioterapia"
-   ]
-  },
-  {
-   "ordem": 173,
+   "ordem": 169,
    "frase": "gleason",
    "volumeFrase": 1300,
    "volumeGrupo": 1410,
@@ -2012,7 +1966,7 @@
    ]
   },
   {
-   "ordem": 174,
+   "ordem": 170,
    "frase": "sono reparador",
    "volumeFrase": 1000,
    "volumeGrupo": 1390,
@@ -2024,7 +1978,7 @@
    ]
   },
   {
-   "ordem": 175,
+   "ordem": 171,
    "frase": "manchas solares",
    "volumeFrase": 1300,
    "volumeGrupo": 1300,
@@ -2034,7 +1988,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 176,
+   "ordem": 172,
    "frase": "estagio do sono",
    "volumeFrase": 1300,
    "volumeGrupo": 1300,
@@ -2044,7 +1998,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 177,
+   "ordem": 173,
    "frase": "estagios do sono",
    "volumeFrase": 1300,
    "volumeGrupo": 1300,
@@ -2054,7 +2008,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 178,
+   "ordem": 174,
    "frase": "check up completo",
    "volumeFrase": 1300,
    "volumeGrupo": 1300,
@@ -2064,7 +2018,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 179,
+   "ordem": 175,
    "frase": "ordem do skincare",
    "volumeFrase": 1300,
    "volumeGrupo": 1300,
@@ -2074,7 +2028,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 180,
+   "ordem": 176,
    "frase": "como dormir melhor",
    "volumeFrase": 1300,
    "volumeGrupo": 1300,
@@ -2084,7 +2038,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 181,
+   "ordem": 177,
    "frase": "dormir tarde faz mal",
    "volumeFrase": 1300,
    "volumeGrupo": 1300,
@@ -2094,7 +2048,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 182,
+   "ordem": 178,
    "frase": "insónias e ansiedade",
    "volumeFrase": 1300,
    "volumeGrupo": 1300,
@@ -2104,7 +2058,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 183,
+   "ordem": 179,
    "frase": "alongamento para quadril",
    "volumeFrase": 1300,
    "volumeGrupo": 1300,
@@ -2114,7 +2068,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 184,
+   "ordem": 180,
    "frase": "queda de cabelo pos parto",
    "volumeFrase": 1300,
    "volumeGrupo": 1300,
@@ -2124,7 +2078,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 185,
+   "ordem": 181,
    "frase": "exercícios para idosos em casa",
    "volumeFrase": 1300,
    "volumeGrupo": 1300,
@@ -2134,7 +2088,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 186,
+   "ordem": 182,
    "frase": "diabetes tipo 1 e tipo 2 diferença",
    "volumeFrase": 1300,
    "volumeGrupo": 1300,
@@ -2144,7 +2098,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 187,
+   "ordem": 183,
    "frase": "musculacao idoso",
    "volumeFrase": 1000,
    "volumeGrupo": 1240,
@@ -2157,7 +2111,7 @@
    ]
   },
   {
-   "ordem": 188,
+   "ordem": 184,
    "frase": "envelhecimento saudável",
    "volumeFrase": 1000,
    "volumeGrupo": 1220,
@@ -2171,7 +2125,7 @@
    ]
   },
   {
-   "ordem": 189,
+   "ordem": 185,
    "frase": "exames para mulheres",
    "volumeFrase": 720,
    "volumeGrupo": 1200,
@@ -2183,20 +2137,7 @@
    ]
   },
   {
-   "ordem": 190,
-   "frase": "o que é dor nas costas",
-   "volumeFrase": 720,
-   "volumeGrupo": 1200,
-   "variacoes": 2,
-   "categoria": "ossos-articulacoes",
-   "status": "banco",
-   "topVariacoes": [
-    "dor nas costas alongamento",
-    "dor nas costas exercícios"
-   ]
-  },
-  {
-   "ordem": 191,
+   "ordem": 186,
    "frase": "alongamento idoso",
    "volumeFrase": 1000,
    "volumeGrupo": 1140,
@@ -2208,7 +2149,7 @@
    ]
   },
   {
-   "ordem": 192,
+   "ordem": 187,
    "frase": "musculacao terceira idade",
    "volumeFrase": 260,
    "volumeGrupo": 1140,
@@ -2224,7 +2165,7 @@
    ]
   },
   {
-   "ordem": 193,
+   "ordem": 188,
    "frase": "ansiedade de desempenho",
    "volumeFrase": 1000,
    "volumeGrupo": 1050,
@@ -2237,7 +2178,7 @@
    ]
   },
   {
-   "ordem": 194,
+   "ordem": 189,
    "frase": "muita sede",
    "volumeFrase": 1000,
    "volumeGrupo": 1000,
@@ -2247,7 +2188,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 195,
+   "ordem": 190,
    "frase": "fome excessiva",
    "volumeFrase": 1000,
    "volumeGrupo": 1000,
@@ -2257,7 +2198,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 196,
+   "ordem": 191,
    "frase": "dedos inchados",
    "volumeFrase": 1000,
    "volumeGrupo": 1000,
@@ -2267,7 +2208,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 197,
+   "ordem": 192,
    "frase": "acordar cansado",
    "volumeFrase": 1000,
    "volumeGrupo": 1000,
@@ -2277,7 +2218,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 198,
+   "ordem": 193,
    "frase": "inércia do sono",
    "volumeFrase": 1000,
    "volumeGrupo": 1000,
@@ -2287,7 +2228,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 199,
+   "ordem": 194,
    "frase": "vasinhos no rosto",
    "volumeFrase": 1000,
    "volumeGrupo": 1000,
@@ -2297,7 +2238,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 200,
+   "ordem": 195,
    "frase": "fotoenvelhecimento",
    "volumeFrase": 1000,
    "volumeGrupo": 1000,
@@ -2307,7 +2248,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 201,
+   "ordem": 196,
    "frase": "ejaculaçãoretardada",
    "volumeFrase": 1000,
    "volumeGrupo": 1000,
@@ -2317,7 +2258,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 202,
+   "ordem": 197,
    "frase": "especialista em cabelo",
    "volumeFrase": 1000,
    "volumeGrupo": 1000,
@@ -2327,7 +2268,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 203,
+   "ordem": 198,
    "frase": "envelhecimentosaudavel",
    "volumeFrase": 1000,
    "volumeGrupo": 1000,
@@ -2337,7 +2278,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 204,
+   "ordem": 199,
    "frase": "exercícios de kegel homem",
    "volumeFrase": 1000,
    "volumeGrupo": 1000,
@@ -2347,7 +2288,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 205,
+   "ordem": 200,
    "frase": "falar dormindo",
    "volumeFrase": 880,
    "volumeGrupo": 880,
@@ -2357,7 +2298,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 206,
+   "ordem": 201,
    "frase": "manchas nas mãos",
    "volumeFrase": 880,
    "volumeGrupo": 880,
@@ -2367,7 +2308,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 207,
+   "ordem": 202,
    "frase": "insulina de jejum",
    "volumeFrase": 880,
    "volumeGrupo": 880,
@@ -2377,7 +2318,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 208,
+   "ordem": 203,
    "frase": "pilates para coluna",
    "volumeFrase": 880,
    "volumeGrupo": 880,
@@ -2387,7 +2328,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 209,
+   "ordem": 204,
    "frase": "acordar de madrugada",
    "volumeFrase": 880,
    "volumeGrupo": 880,
@@ -2397,7 +2338,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 210,
+   "ordem": 205,
    "frase": "sonolência durante o dia",
    "volumeFrase": 880,
    "volumeGrupo": 880,
@@ -2407,27 +2348,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 211,
-   "frase": "queda de cabelo é normal",
-   "volumeFrase": 880,
-   "volumeGrupo": 880,
-   "variacoes": 0,
-   "categoria": "pele-cabelo",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 212,
-   "frase": "exames para queda de cabelo",
-   "volumeFrase": 880,
-   "volumeGrupo": 880,
-   "variacoes": 0,
-   "categoria": "pele-cabelo",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 213,
+   "ordem": 206,
    "frase": "atividade física para idosos",
    "volumeFrase": 880,
    "volumeGrupo": 880,
@@ -2437,7 +2358,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 214,
+   "ordem": 207,
    "frase": "treino para mulheres",
    "volumeFrase": 720,
    "volumeGrupo": 860,
@@ -2449,7 +2370,7 @@
    ]
   },
   {
-   "ordem": 215,
+   "ordem": 208,
    "frase": "esquecimento frequente",
    "volumeFrase": 720,
    "volumeGrupo": 810,
@@ -2461,7 +2382,7 @@
    ]
   },
   {
-   "ordem": 216,
+   "ordem": 209,
    "frase": "idoso academia",
    "volumeFrase": 390,
    "volumeGrupo": 780,
@@ -2473,7 +2394,7 @@
    ]
   },
   {
-   "ordem": 217,
+   "ordem": 210,
    "frase": "alimentos que aumentam hdl",
    "volumeFrase": 390,
    "volumeGrupo": 780,
@@ -2485,19 +2406,7 @@
    ]
   },
   {
-   "ordem": 218,
-   "frase": "queda de cabelo em excesso",
-   "volumeFrase": 590,
-   "volumeGrupo": 760,
-   "variacoes": 1,
-   "categoria": "pele-cabelo",
-   "status": "banco",
-   "topVariacoes": [
-    "queda de cabelo feminino em excesso"
-   ]
-  },
-  {
-   "ordem": 219,
+   "ordem": 211,
    "frase": "índice homa",
    "volumeFrase": 720,
    "volumeGrupo": 720,
@@ -2507,7 +2416,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 220,
+   "ordem": 212,
    "frase": "fitoesterois",
    "volumeFrase": 720,
    "volumeGrupo": 720,
@@ -2517,7 +2426,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 221,
+   "ordem": 213,
    "frase": "dormir demais",
    "volumeFrase": 720,
    "volumeGrupo": 720,
@@ -2527,7 +2436,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 222,
+   "ordem": 214,
    "frase": "medo de dormir",
    "volumeFrase": 720,
    "volumeGrupo": 720,
@@ -2537,7 +2446,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 223,
+   "ordem": 215,
    "frase": "perda de cabelo",
    "volumeFrase": 720,
    "volumeGrupo": 720,
@@ -2547,7 +2456,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 224,
+   "ordem": 216,
    "frase": "qualidade do sono",
    "volumeFrase": 720,
    "volumeGrupo": 720,
@@ -2557,7 +2466,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 225,
+   "ordem": 217,
    "frase": "excesso de cálcio",
    "volumeFrase": 720,
    "volumeGrupo": 720,
@@ -2567,7 +2476,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 226,
+   "ordem": 218,
    "frase": "prevenção de quedas",
    "volumeFrase": 720,
    "volumeGrupo": 720,
@@ -2577,7 +2486,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 227,
+   "ordem": 219,
    "frase": "cuidados com as mãos",
    "volumeFrase": 720,
    "volumeGrupo": 720,
@@ -2587,7 +2496,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 228,
+   "ordem": 220,
    "frase": "melhor horário para dormir",
    "volumeFrase": 720,
    "volumeGrupo": 720,
@@ -2597,7 +2506,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 229,
+   "ordem": 221,
    "frase": "lavar cabelo todos os dias",
    "volumeFrase": 720,
    "volumeGrupo": 720,
@@ -2607,7 +2516,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 230,
+   "ordem": 222,
    "frase": "nutricionista emagrecimento",
    "volumeFrase": 720,
    "volumeGrupo": 720,
@@ -2617,7 +2526,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 231,
+   "ordem": 223,
    "frase": "alimentação para perder barriga",
    "volumeFrase": 720,
    "volumeGrupo": 720,
@@ -2627,7 +2536,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 232,
+   "ordem": 224,
    "frase": "exercícios para iniciantes em casa",
    "volumeFrase": 720,
    "volumeGrupo": 720,
@@ -2637,7 +2546,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 233,
+   "ordem": 225,
    "frase": "pilates terceira idade",
    "volumeFrase": 210,
    "volumeGrupo": 720,
@@ -2651,7 +2560,7 @@
    ]
   },
   {
-   "ordem": 234,
+   "ordem": 226,
    "frase": "dormir pouco",
    "volumeFrase": 390,
    "volumeGrupo": 710,
@@ -2663,7 +2572,7 @@
    ]
   },
   {
-   "ordem": 235,
+   "ordem": 227,
    "frase": "hidroginastica é bom para que",
    "volumeFrase": 480,
    "volumeGrupo": 660,
@@ -2676,7 +2585,7 @@
    ]
   },
   {
-   "ordem": 236,
+   "ordem": 228,
    "frase": "exames para homens",
    "volumeFrase": 480,
    "volumeGrupo": 650,
@@ -2688,7 +2597,7 @@
    ]
   },
   {
-   "ordem": 237,
+   "ordem": 229,
    "frase": "sono e depressão",
    "volumeFrase": 590,
    "volumeGrupo": 630,
@@ -2700,7 +2609,7 @@
    ]
   },
   {
-   "ordem": 238,
+   "ordem": 230,
    "frase": "ejaculacao tardia",
    "volumeFrase": 590,
    "volumeGrupo": 630,
@@ -2712,7 +2621,7 @@
    ]
   },
   {
-   "ordem": 239,
+   "ordem": 231,
    "frase": "nictúria",
    "volumeFrase": 590,
    "volumeGrupo": 590,
@@ -2722,7 +2631,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 240,
+   "ordem": 232,
    "frase": "saúde masculina",
    "volumeFrase": 590,
    "volumeGrupo": 590,
@@ -2732,7 +2641,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 241,
+   "ordem": 233,
    "frase": "cabelo saudável",
    "volumeFrase": 590,
    "volumeGrupo": 590,
@@ -2742,7 +2651,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 242,
+   "ordem": 234,
    "frase": "meditacao 5 min",
    "volumeFrase": 590,
    "volumeGrupo": 590,
@@ -2752,7 +2661,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 243,
+   "ordem": 235,
    "frase": "sono fragmentado",
    "volumeFrase": 590,
    "volumeGrupo": 590,
@@ -2762,7 +2671,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 244,
+   "ordem": 236,
    "frase": "check up masculino",
    "volumeFrase": 590,
    "volumeGrupo": 590,
@@ -2772,7 +2681,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 245,
+   "ordem": 237,
    "frase": "glicemia após comer",
    "volumeFrase": 590,
    "volumeGrupo": 590,
@@ -2782,7 +2691,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 246,
+   "ordem": 238,
    "frase": "jato de urina fraco",
    "volumeFrase": 590,
    "volumeGrupo": 590,
@@ -2792,7 +2701,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 247,
+   "ordem": 239,
    "frase": "importância do sono",
    "volumeFrase": 590,
    "volumeGrupo": 590,
@@ -2802,7 +2711,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 248,
+   "ordem": 240,
    "frase": "respiração para dormir",
    "volumeFrase": 590,
    "volumeGrupo": 590,
@@ -2812,7 +2721,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 249,
+   "ordem": 241,
    "frase": "esquecimento repentino",
    "volumeFrase": 590,
    "volumeGrupo": 590,
@@ -2822,27 +2731,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 250,
-   "frase": "queda de cabelo motivos",
-   "volumeFrase": 590,
-   "volumeGrupo": 590,
-   "variacoes": 0,
-   "categoria": "pele-cabelo",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 251,
-   "frase": "queda de cabelo em mulheres",
-   "volumeFrase": 590,
-   "volumeGrupo": 590,
-   "variacoes": 0,
-   "categoria": "pele-cabelo",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 252,
+   "ordem": 242,
    "frase": "demorar para ejacular",
    "volumeFrase": 480,
    "volumeGrupo": 520,
@@ -2854,7 +2743,7 @@
    ]
   },
   {
-   "ordem": 253,
+   "ordem": 243,
    "frase": "meditacao noite",
    "volumeFrase": 170,
    "volumeGrupo": 510,
@@ -2867,7 +2756,7 @@
    ]
   },
   {
-   "ordem": 254,
+   "ordem": 244,
    "frase": "o esquecimento",
    "volumeFrase": 140,
    "volumeGrupo": 510,
@@ -2883,7 +2772,7 @@
    ]
   },
   {
-   "ordem": 255,
+   "ordem": 245,
    "frase": "glicemix",
    "volumeFrase": 480,
    "volumeGrupo": 480,
@@ -2893,7 +2782,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 256,
+   "ordem": 246,
    "frase": "saúde óssea",
    "volumeFrase": 480,
    "volumeGrupo": 480,
@@ -2903,7 +2792,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 257,
+   "ordem": 247,
    "frase": "ereção fraca",
    "volumeFrase": 480,
    "volumeGrupo": 480,
@@ -2913,7 +2802,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 258,
+   "ordem": 248,
    "frase": "saúde do sono",
    "volumeFrase": 480,
    "volumeGrupo": 480,
@@ -2923,7 +2812,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 259,
+   "ordem": 249,
    "frase": "flacidez facial",
    "volumeFrase": 480,
    "volumeGrupo": 480,
@@ -2933,7 +2822,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 260,
+   "ordem": 250,
    "frase": "benefícios do sono",
    "volumeFrase": 480,
    "volumeGrupo": 480,
@@ -2943,7 +2832,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 261,
+   "ordem": 251,
    "frase": "acordar no meio da noite",
    "volumeFrase": 480,
    "volumeGrupo": 480,
@@ -2953,7 +2842,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 262,
+   "ordem": 252,
    "frase": "exercícios de baixo impacto",
    "volumeFrase": 480,
    "volumeGrupo": 480,
@@ -2963,7 +2852,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 263,
+   "ordem": 253,
    "frase": "exercicios para idosos fortalecimento",
    "volumeFrase": 480,
    "volumeGrupo": 480,
@@ -2973,7 +2862,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 264,
+   "ordem": 254,
    "frase": "alimentos para aumentar o hdl",
    "volumeFrase": 390,
    "volumeGrupo": 480,
@@ -2985,7 +2874,7 @@
    ]
   },
   {
-   "ordem": 265,
+   "ordem": 255,
    "frase": "idade biologica teste",
    "volumeFrase": 110,
    "volumeGrupo": 400,
@@ -2999,7 +2888,7 @@
    ]
   },
   {
-   "ordem": 266,
+   "ordem": 256,
    "frase": "rosto cansado",
    "volumeFrase": 390,
    "volumeGrupo": 390,
@@ -3009,7 +2898,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 267,
+   "ordem": 257,
    "frase": "etapa do sono",
    "volumeFrase": 390,
    "volumeGrupo": 390,
@@ -3019,7 +2908,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 268,
+   "ordem": 258,
    "frase": "etapas do sono",
    "volumeFrase": 390,
    "volumeGrupo": 390,
@@ -3029,7 +2918,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 269,
+   "ordem": 259,
    "frase": "perda de massa óssea",
    "volumeFrase": 390,
    "volumeGrupo": 390,
@@ -3039,7 +2928,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 270,
+   "ordem": 260,
    "frase": "cotovelos ressecados",
    "volumeFrase": 390,
    "volumeGrupo": 390,
@@ -3049,7 +2938,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 271,
+   "ordem": 261,
    "frase": "densidade mineral óssea",
    "volumeFrase": 390,
    "volumeGrupo": 390,
@@ -3059,7 +2948,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 272,
+   "ordem": 262,
    "frase": "fator de proteção solar",
    "volumeFrase": 390,
    "volumeGrupo": 390,
@@ -3069,17 +2958,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 273,
-   "frase": "dores nas costas em baixo",
-   "volumeFrase": 390,
-   "volumeGrupo": 390,
-   "variacoes": 0,
-   "categoria": "sem-categoria",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 274,
+   "ordem": 263,
    "frase": "problemas de esquecimento",
    "volumeFrase": 390,
    "volumeGrupo": 390,
@@ -3089,7 +2968,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 275,
+   "ordem": 264,
    "frase": "exercícios para mobilidade",
    "volumeFrase": 390,
    "volumeGrupo": 390,
@@ -3099,7 +2978,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 276,
+   "ordem": 265,
    "frase": "alongamento antes de dormir",
    "volumeFrase": 390,
    "volumeGrupo": 390,
@@ -3109,7 +2988,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 277,
+   "ordem": 266,
    "frase": "técnica de respiração 4 7 8",
    "volumeFrase": 390,
    "volumeGrupo": 390,
@@ -3119,17 +2998,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 278,
-   "frase": "cabelos brancos para mulheres",
-   "volumeFrase": 390,
-   "volumeGrupo": 390,
-   "variacoes": 0,
-   "categoria": "pele-cabelo",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 279,
+   "ordem": 267,
    "frase": "o que significa glicemia alterada",
    "volumeFrase": 390,
    "volumeGrupo": 390,
@@ -3139,7 +3008,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 280,
+   "ordem": 268,
    "frase": "falta de desejo masculino o que fazer",
    "volumeFrase": 390,
    "volumeGrupo": 390,
@@ -3149,7 +3018,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 281,
+   "ordem": 269,
    "frase": "exercicio para equilibrio idoso",
    "volumeFrase": 260,
    "volumeGrupo": 370,
@@ -3161,7 +3030,7 @@
    ]
   },
   {
-   "ordem": 282,
+   "ordem": 270,
    "frase": "esquecer as coisas",
    "volumeFrase": 140,
    "volumeGrupo": 370,
@@ -3175,7 +3044,7 @@
    ]
   },
   {
-   "ordem": 283,
+   "ordem": 271,
    "frase": "rotina de sono",
    "volumeFrase": 320,
    "volumeGrupo": 320,
@@ -3185,7 +3054,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 284,
+   "ordem": 272,
    "frase": "idosa saudavel",
    "volumeFrase": 320,
    "volumeGrupo": 320,
@@ -3195,7 +3064,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 285,
+   "ordem": 273,
    "frase": "exame de cálcio",
    "volumeFrase": 320,
    "volumeGrupo": 320,
@@ -3205,7 +3074,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 286,
+   "ordem": 274,
    "frase": "cabelo afinando",
    "volumeFrase": 320,
    "volumeGrupo": 320,
@@ -3215,7 +3084,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 287,
+   "ordem": 275,
    "frase": "yoga para dormir",
    "volumeFrase": 320,
    "volumeGrupo": 320,
@@ -3225,7 +3094,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 288,
+   "ordem": 276,
    "frase": "idosos saudaveis",
    "volumeFrase": 320,
    "volumeGrupo": 320,
@@ -3235,7 +3104,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 289,
+   "ordem": 277,
    "frase": "cabelo não cresce",
    "volumeFrase": 320,
    "volumeGrupo": 320,
@@ -3245,7 +3114,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 290,
+   "ordem": 278,
    "frase": "flacidez corporal",
    "volumeFrase": 320,
    "volumeGrupo": 320,
@@ -3255,7 +3124,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 291,
+   "ordem": 279,
    "frase": "meditacao dormindo",
    "volumeFrase": 320,
    "volumeGrupo": 320,
@@ -3265,7 +3134,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 292,
+   "ordem": 280,
    "frase": "como evitar artrose",
    "volumeFrase": 320,
    "volumeGrupo": 320,
@@ -3275,7 +3144,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 293,
+   "ordem": 281,
    "frase": "deficiência de cálcio",
    "volumeFrase": 320,
    "volumeGrupo": 320,
@@ -3285,7 +3154,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 294,
+   "ordem": 282,
    "frase": "esquecimento constante",
    "volumeFrase": 320,
    "volumeGrupo": 320,
@@ -3295,7 +3164,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 295,
+   "ordem": 283,
    "frase": "exercícios para osteoporose",
    "volumeFrase": 320,
    "volumeGrupo": 320,
@@ -3305,17 +3174,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 296,
-   "frase": "ansiedade e queda de cabelo",
-   "volumeFrase": 320,
-   "volumeGrupo": 320,
-   "variacoes": 0,
-   "categoria": "pele-cabelo",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 297,
+   "ordem": 284,
    "frase": "esquecimento de coisas recentes",
    "volumeFrase": 320,
    "volumeGrupo": 320,
@@ -3325,7 +3184,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 298,
+   "ordem": 285,
    "frase": "falta de desejo masculino causas",
    "volumeFrase": 140,
    "volumeGrupo": 280,
@@ -3337,7 +3196,7 @@
    ]
   },
   {
-   "ordem": 299,
+   "ordem": 286,
    "frase": "meditacao ativa",
    "volumeFrase": 260,
    "volumeGrupo": 260,
@@ -3347,7 +3206,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 300,
+   "ordem": 287,
    "frase": "rosto envelhecido",
    "volumeFrase": 260,
    "volumeGrupo": 260,
@@ -3357,7 +3216,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 301,
+   "ordem": 288,
    "frase": "sistema glinfático",
    "volumeFrase": 260,
    "volumeGrupo": 260,
@@ -3367,7 +3226,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 302,
+   "ordem": 289,
    "frase": "emagrecimento hormonal",
    "volumeFrase": 260,
    "volumeGrupo": 260,
@@ -3377,17 +3236,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 303,
-   "frase": "falta de ereçao matinal",
-   "volumeFrase": 260,
-   "volumeGrupo": 260,
-   "variacoes": 0,
-   "categoria": "sem-categoria",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 304,
+   "ordem": 290,
    "frase": "musculação para mulheres",
    "volumeFrase": 260,
    "volumeGrupo": 260,
@@ -3397,7 +3246,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 305,
+   "ordem": 291,
    "frase": "exercício antes de dormir",
    "volumeFrase": 260,
    "volumeGrupo": 260,
@@ -3407,7 +3256,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 306,
+   "ordem": 292,
    "frase": "riscos de queda em idosos",
    "volumeFrase": 260,
    "volumeGrupo": 260,
@@ -3417,7 +3266,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 307,
+   "ordem": 293,
    "frase": "receitas caseiras para cabelo",
    "volumeFrase": 260,
    "volumeGrupo": 260,
@@ -3427,17 +3276,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 308,
-   "frase": "hipotireoidismo e queda de cabelo",
-   "volumeFrase": 260,
-   "volumeGrupo": 260,
-   "variacoes": 0,
-   "categoria": "pele-cabelo",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 309,
+   "ordem": 294,
    "frase": "couperose",
    "volumeFrase": 210,
    "volumeGrupo": 210,
@@ -3447,7 +3286,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 310,
+   "ordem": 295,
    "frase": "idoso caindo",
    "volumeFrase": 210,
    "volumeGrupo": 210,
@@ -3457,7 +3296,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 311,
+   "ordem": 296,
    "frase": "mãos rachadas",
    "volumeFrase": 210,
    "volumeGrupo": 210,
@@ -3467,7 +3306,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 312,
+   "ordem": 297,
    "frase": "yoga para idosos",
    "volumeFrase": 210,
    "volumeGrupo": 210,
@@ -3477,7 +3316,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 313,
+   "ordem": 298,
    "frase": "dor no períneo homem",
    "volumeFrase": 210,
    "volumeGrupo": 210,
@@ -3487,7 +3326,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 314,
+   "ordem": 299,
    "frase": "colageno verisol gelita",
    "volumeFrase": 210,
    "volumeGrupo": 210,
@@ -3497,7 +3336,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 315,
+   "ordem": 300,
    "frase": "benefícios de dormir bem",
    "volumeFrase": 210,
    "volumeGrupo": 210,
@@ -3507,7 +3346,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 316,
+   "ordem": 301,
    "frase": "exercícios para mulheres",
    "volumeFrase": 210,
    "volumeGrupo": 210,
@@ -3517,7 +3356,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 317,
+   "ordem": 302,
    "frase": "horário ideal para dormir",
    "volumeFrase": 210,
    "volumeGrupo": 210,
@@ -3527,7 +3366,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 318,
+   "ordem": 303,
    "frase": "alucinações hipnopômpicas",
    "volumeFrase": 210,
    "volumeGrupo": 210,
@@ -3537,7 +3376,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 319,
+   "ordem": 304,
    "frase": "musculação para iniciantes",
    "volumeFrase": 210,
    "volumeGrupo": 210,
@@ -3547,7 +3386,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 320,
+   "ordem": 305,
    "frase": "longevidade o que significa",
    "volumeFrase": 210,
    "volumeGrupo": 210,
@@ -3557,7 +3396,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 321,
+   "ordem": 306,
    "frase": "importância do protetor solar",
    "volumeFrase": 210,
    "volumeGrupo": 210,
@@ -3567,7 +3406,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 322,
+   "ordem": 307,
    "frase": "porque o homem falhar na hora h",
    "volumeFrase": 210,
    "volumeGrupo": 210,
@@ -3577,7 +3416,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 323,
+   "ordem": 308,
    "frase": "como desligar a mente para dormir",
    "volumeFrase": 210,
    "volumeGrupo": 210,
@@ -3587,7 +3426,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 324,
+   "ordem": 309,
    "frase": "exercicio para equilibrio em idosos",
    "volumeFrase": 210,
    "volumeGrupo": 210,
@@ -3597,17 +3436,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 325,
-   "frase": "quando a queda de cabelo é preocupante",
-   "volumeFrase": 210,
-   "volumeGrupo": 210,
-   "variacoes": 0,
-   "categoria": "pele-cabelo",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 326,
+   "ordem": 310,
    "frase": "falhar na hora h",
    "volumeFrase": 50,
    "volumeGrupo": 200,
@@ -3623,22 +3452,7 @@
    ]
   },
   {
-   "ordem": 327,
-   "frase": "ereções matinais",
-   "volumeFrase": 90,
-   "volumeGrupo": 190,
-   "variacoes": 4,
-   "categoria": "sem-categoria",
-   "status": "banco",
-   "topVariacoes": [
-    "não estou tendo ereções matinais",
-    "não ter ereções matinais",
-    "perda de ereções matinais",
-    "ausencia de ereções matinais"
-   ]
-  },
-  {
-   "ordem": 328,
+   "ordem": 311,
    "frase": "treino para homens",
    "volumeFrase": 170,
    "volumeGrupo": 180,
@@ -3650,7 +3464,7 @@
    ]
   },
   {
-   "ordem": 329,
+   "ordem": 312,
    "frase": "hidroginastica terceira idade",
    "volumeFrase": 90,
    "volumeGrupo": 180,
@@ -3662,7 +3476,7 @@
    ]
   },
   {
-   "ordem": 330,
+   "ordem": 313,
    "frase": "colagenas",
    "volumeFrase": 170,
    "volumeGrupo": 170,
@@ -3672,7 +3486,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 331,
+   "ordem": 314,
    "frase": "fase do sono",
    "volumeFrase": 170,
    "volumeGrupo": 170,
@@ -3682,7 +3496,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 332,
+   "ordem": 315,
    "frase": "acordar sem ar",
    "volumeFrase": 170,
    "volumeGrupo": 170,
@@ -3692,7 +3506,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 333,
+   "ordem": 316,
    "frase": "prevenir doenças",
    "volumeFrase": 170,
    "volumeGrupo": 170,
@@ -3702,7 +3516,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 334,
+   "ordem": 317,
    "frase": "exames metabólicos",
    "volumeFrase": 170,
    "volumeGrupo": 170,
@@ -3712,7 +3526,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 335,
+   "ordem": 318,
    "frase": "cicatrização lenta",
    "volumeFrase": 170,
    "volumeGrupo": 170,
@@ -3722,7 +3536,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 336,
+   "ordem": 319,
    "frase": "ejaculação demorada",
    "volumeFrase": 170,
    "volumeGrupo": 170,
@@ -3732,7 +3546,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 337,
+   "ordem": 320,
    "frase": "sinais de osteoporose",
    "volumeFrase": 170,
    "volumeGrupo": 170,
@@ -3742,7 +3556,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 338,
+   "ordem": 321,
    "frase": "ansiedade antes de dormir",
    "volumeFrase": 170,
    "volumeGrupo": 170,
@@ -3752,7 +3566,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 339,
+   "ordem": 322,
    "frase": "por que precisamos dormir",
    "volumeFrase": 170,
    "volumeGrupo": 170,
@@ -3762,7 +3576,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 340,
+   "ordem": 323,
    "frase": "tratamento da osteoporose",
    "volumeFrase": 170,
    "volumeGrupo": 170,
@@ -3772,7 +3586,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 341,
+   "ordem": 324,
    "frase": "quantas vezes lavar o cabelo",
    "volumeFrase": 170,
    "volumeGrupo": 170,
@@ -3782,7 +3596,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 342,
+   "ordem": 325,
    "frase": "alimentos que ajudam a dormir",
    "volumeFrase": 170,
    "volumeGrupo": 170,
@@ -3792,7 +3606,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 343,
+   "ordem": 326,
    "frase": "acordar e nao conseguir se mexer",
    "volumeFrase": 170,
    "volumeGrupo": 170,
@@ -3802,7 +3616,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 344,
+   "ordem": 327,
    "frase": "alimentos hdl",
    "volumeFrase": 90,
    "volumeGrupo": 160,
@@ -3814,7 +3628,7 @@
    ]
   },
   {
-   "ordem": 345,
+   "ordem": 328,
    "frase": "sono e fome",
    "volumeFrase": 140,
    "volumeGrupo": 140,
@@ -3824,7 +3638,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 346,
+   "ordem": 329,
    "frase": "tesao matinal",
    "volumeFrase": 140,
    "volumeGrupo": 140,
@@ -3834,7 +3648,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 347,
+   "ordem": 330,
    "frase": "cloro e cabelo",
    "volumeFrase": 140,
    "volumeGrupo": 140,
@@ -3844,7 +3658,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 348,
+   "ordem": 331,
    "frase": "sono e estresse",
    "volumeFrase": 140,
    "volumeGrupo": 140,
@@ -3854,7 +3668,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 349,
+   "ordem": 332,
    "frase": "saúde do cabelo",
    "volumeFrase": 140,
    "volumeGrupo": 140,
@@ -3864,17 +3678,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 350,
-   "frase": "acordar sem ereção",
-   "volumeFrase": 140,
-   "volumeGrupo": 140,
-   "variacoes": 0,
-   "categoria": "sem-categoria",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 351,
+   "ordem": 333,
    "frase": "pênis não fica duro",
    "volumeFrase": 140,
    "volumeGrupo": 140,
@@ -3884,7 +3688,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 352,
+   "ordem": 334,
    "frase": "como adormecer rápido",
    "volumeFrase": 140,
    "volumeGrupo": 140,
@@ -3894,7 +3698,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 353,
+   "ordem": 335,
    "frase": "como hidratar o corpo",
    "volumeFrase": 140,
    "volumeGrupo": 140,
@@ -3904,7 +3708,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 354,
+   "ordem": 336,
    "frase": "caminhada para idosos",
    "volumeFrase": 140,
    "volumeGrupo": 140,
@@ -3914,7 +3718,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 355,
+   "ordem": 337,
    "frase": "exercícios para homens",
    "volumeFrase": 140,
    "volumeGrupo": 140,
@@ -3924,17 +3728,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 356,
-   "frase": "glicemia normal por idade",
-   "volumeFrase": 140,
-   "volumeGrupo": 140,
-   "variacoes": 0,
-   "categoria": "diabetes-exames",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 357,
+   "ordem": 338,
    "frase": "caminhada para iniciantes",
    "volumeFrase": 140,
    "volumeGrupo": 140,
@@ -3944,7 +3738,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 358,
+   "ordem": 339,
    "frase": "pau nao fica duro",
    "volumeFrase": 70,
    "volumeGrupo": 140,
@@ -3957,7 +3751,7 @@
    ]
   },
   {
-   "ordem": 359,
+   "ordem": 340,
    "frase": "alongamento na terceira idade",
    "volumeFrase": 70,
    "volumeGrupo": 140,
@@ -3969,7 +3763,7 @@
    ]
   },
   {
-   "ordem": 360,
+   "ordem": 341,
    "frase": "exercicios para idosos na academia",
    "volumeFrase": 90,
    "volumeGrupo": 130,
@@ -3981,7 +3775,7 @@
    ]
   },
   {
-   "ordem": 361,
+   "ordem": 342,
    "frase": "manchas de idade",
    "volumeFrase": 110,
    "volumeGrupo": 110,
@@ -3991,7 +3785,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 362,
+   "ordem": 343,
    "frase": "cálcio baixo no sangue",
    "volumeFrase": 110,
    "volumeGrupo": 110,
@@ -4001,7 +3795,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 363,
+   "ordem": 344,
    "frase": "leitura antes de dormir",
    "volumeFrase": 110,
    "volumeGrupo": 110,
@@ -4011,17 +3805,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 364,
-   "frase": "queda de cabelo no banho",
-   "volumeFrase": 110,
-   "volumeGrupo": 110,
-   "variacoes": 0,
-   "categoria": "pele-cabelo",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 365,
+   "ordem": 345,
    "frase": "doutores do emagrecimento",
    "volumeFrase": 110,
    "volumeGrupo": 110,
@@ -4031,7 +3815,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 366,
+   "ordem": 346,
    "frase": "corrida prejudica o joelho",
    "volumeFrase": 110,
    "volumeGrupo": 110,
@@ -4041,7 +3825,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 367,
+   "ordem": 347,
    "frase": "treino para idosos em casa",
    "volumeFrase": 110,
    "volumeGrupo": 110,
@@ -4051,7 +3835,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 368,
+   "ordem": 348,
    "frase": "treino de força para idosos",
    "volumeFrase": 110,
    "volumeGrupo": 110,
@@ -4061,7 +3845,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 369,
+   "ordem": 349,
    "frase": "resistência à insulina exame",
    "volumeFrase": 110,
    "volumeGrupo": 110,
@@ -4071,7 +3855,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 370,
+   "ordem": 350,
    "frase": "treinamento de forca para idosos",
    "volumeFrase": 110,
    "volumeGrupo": 110,
@@ -4081,17 +3865,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 371,
-   "frase": "ferritina baixa e queda de cabelo",
-   "volumeFrase": 110,
-   "volumeGrupo": 110,
-   "variacoes": 0,
-   "categoria": "pele-cabelo",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 372,
+   "ordem": 351,
    "frase": "hidroginástica fortalece os músculos",
    "volumeFrase": 110,
    "volumeGrupo": 110,
@@ -4101,7 +3875,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 373,
+   "ordem": 352,
    "frase": "vantagens hidroginastica",
    "volumeFrase": 50,
    "volumeGrupo": 100,
@@ -4113,7 +3887,7 @@
    ]
   },
   {
-   "ordem": 374,
+   "ordem": 353,
    "frase": "falta de desejo homem",
    "volumeFrase": 20,
    "volumeGrupo": 100,
@@ -4128,7 +3902,7 @@
    ]
   },
   {
-   "ordem": 375,
+   "ordem": 354,
    "frase": "kegel homem",
    "volumeFrase": 90,
    "volumeGrupo": 90,
@@ -4138,7 +3912,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 376,
+   "ordem": 355,
    "frase": "cortisol e sono",
    "volumeFrase": 90,
    "volumeGrupo": 90,
@@ -4148,17 +3922,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 377,
-   "frase": "sem erecao matinal",
-   "volumeFrase": 90,
-   "volumeGrupo": 90,
-   "variacoes": 0,
-   "categoria": "sem-categoria",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 378,
+   "ordem": 356,
    "frase": "sono e emagrecimento",
    "volumeFrase": 90,
    "volumeGrupo": 90,
@@ -4168,7 +3932,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 379,
+   "ordem": 357,
    "frase": "para que serve o sono",
    "volumeFrase": 90,
    "volumeGrupo": 90,
@@ -4178,7 +3942,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 380,
+   "ordem": 358,
    "frase": "espinhas depois dos 40",
    "volumeFrase": 90,
    "volumeGrupo": 90,
@@ -4188,7 +3952,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 381,
+   "ordem": 359,
    "frase": "celular antes de dormir",
    "volumeFrase": 90,
    "volumeGrupo": 90,
@@ -4198,7 +3962,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 382,
+   "ordem": 360,
    "frase": "celular atrapalha o sono",
    "volumeFrase": 90,
    "volumeGrupo": 90,
@@ -4208,7 +3972,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 383,
+   "ordem": 361,
    "frase": "beneficio hidroginastica",
    "volumeFrase": 90,
    "volumeGrupo": 90,
@@ -4218,7 +3982,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 384,
+   "ordem": 362,
    "frase": "quando usar gelo ou calor",
    "volumeFrase": 90,
    "volumeGrupo": 90,
@@ -4228,7 +3992,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 385,
+   "ordem": 363,
    "frase": "corticoide altera glicemia",
    "volumeFrase": 90,
    "volumeGrupo": 90,
@@ -4238,7 +4002,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 386,
+   "ordem": 364,
    "frase": "ereçao matinal significado",
    "volumeFrase": 90,
    "volumeGrupo": 90,
@@ -4248,7 +4012,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 387,
+   "ordem": 365,
    "frase": "dificuldade para pegar no sono",
    "volumeFrase": 90,
    "volumeGrupo": 90,
@@ -4258,7 +4022,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 388,
+   "ordem": 366,
    "frase": "como perder o medo de falhar na hora h",
    "volumeFrase": 90,
    "volumeGrupo": 90,
@@ -4268,7 +4032,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 389,
+   "ordem": 367,
    "frase": "dieta para homens",
    "volumeFrase": 70,
    "volumeGrupo": 80,
@@ -4280,7 +4044,7 @@
    ]
   },
   {
-   "ordem": 390,
+   "ordem": 368,
    "frase": "saúde capilar",
    "volumeFrase": 70,
    "volumeGrupo": 70,
@@ -4290,7 +4054,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 391,
+   "ordem": 369,
    "frase": "articulação inchada",
    "volumeFrase": 70,
    "volumeGrupo": 70,
@@ -4300,7 +4064,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 392,
+   "ordem": 370,
    "frase": "perda de mobilidade",
    "volumeFrase": 70,
    "volumeGrupo": 70,
@@ -4310,7 +4074,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 393,
+   "ordem": 371,
    "frase": "check up para mulheres",
    "volumeFrase": 70,
    "volumeGrupo": 70,
@@ -4320,7 +4084,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 394,
+   "ordem": 372,
    "frase": "exercícios para artrite",
    "volumeFrase": 70,
    "volumeGrupo": 70,
@@ -4330,7 +4094,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 395,
+   "ordem": 373,
    "frase": "musculação e osteoporose",
    "volumeFrase": 70,
    "volumeGrupo": 70,
@@ -4340,7 +4104,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 396,
+   "ordem": 374,
    "frase": "reaplicar protetor solar",
    "volumeFrase": 70,
    "volumeGrupo": 70,
@@ -4350,7 +4114,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 397,
+   "ordem": 375,
    "frase": "tintura danifica o cabelo",
    "volumeFrase": 70,
    "volumeGrupo": 70,
@@ -4360,7 +4124,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 398,
+   "ordem": 376,
    "frase": "como não falhar na hora h",
    "volumeFrase": 70,
    "volumeGrupo": 70,
@@ -4370,7 +4134,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 399,
+   "ordem": 377,
    "frase": "protetor solar todos os dias",
    "volumeFrase": 70,
    "volumeGrupo": 70,
@@ -4380,7 +4144,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 400,
+   "ordem": 378,
    "frase": "protetor solar dentro de casa",
    "volumeFrase": 70,
    "volumeGrupo": 70,
@@ -4390,7 +4154,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 401,
+   "ordem": 379,
    "frase": "dieta para mulheres de 40 anos",
    "volumeFrase": 70,
    "volumeGrupo": 70,
@@ -4400,7 +4164,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 402,
+   "ordem": 380,
    "frase": "transição para cabelos grisalhos",
    "volumeFrase": 70,
    "volumeGrupo": 70,
@@ -4410,7 +4174,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 403,
+   "ordem": 381,
    "frase": "demorar na ejaculação",
    "volumeFrase": 50,
    "volumeGrupo": 70,
@@ -4422,7 +4186,7 @@
    ]
   },
   {
-   "ordem": 404,
+   "ordem": 382,
    "frase": "100 peso emagrece quantos quilos",
    "volumeFrase": 40,
    "volumeGrupo": 60,
@@ -4434,7 +4198,7 @@
    ]
   },
   {
-   "ordem": 405,
+   "ordem": 383,
    "frase": "forte flex",
    "volumeFrase": 50,
    "volumeGrupo": 50,
@@ -4444,7 +4208,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 406,
+   "ordem": 384,
    "frase": "urina residual",
    "volumeFrase": 50,
    "volumeGrupo": 50,
@@ -4454,7 +4218,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 407,
+   "ordem": 385,
    "frase": "sono e memória",
    "volumeFrase": 50,
    "volumeGrupo": 50,
@@ -4464,7 +4228,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 408,
+   "ordem": 386,
    "frase": "sono e ansiedade",
    "volumeFrase": 50,
    "volumeGrupo": 50,
@@ -4474,7 +4238,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 409,
+   "ordem": 387,
    "frase": "perda de colágeno",
    "volumeFrase": 50,
    "volumeGrupo": 50,
@@ -4484,7 +4248,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 410,
+   "ordem": 388,
    "frase": "testosterona e sono",
    "volumeFrase": 50,
    "volumeGrupo": 50,
@@ -4494,7 +4258,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 411,
+   "ordem": 389,
    "frase": "dieta para mulheres",
    "volumeFrase": 50,
    "volumeGrupo": 50,
@@ -4504,7 +4268,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 412,
+   "ordem": 390,
    "frase": "check up para homens",
    "volumeFrase": 50,
    "volumeGrupo": 50,
@@ -4514,17 +4278,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 413,
-   "frase": "ereção durante o sono",
-   "volumeFrase": 50,
-   "volumeGrupo": 50,
-   "variacoes": 0,
-   "categoria": "sono-mente",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 414,
+   "ordem": 391,
    "frase": "musculação aos 50 anos",
    "volumeFrase": 50,
    "volumeGrupo": 50,
@@ -4534,7 +4288,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 415,
+   "ordem": 392,
    "frase": "musculação aos 60 anos",
    "volumeFrase": 50,
    "volumeGrupo": 50,
@@ -4544,7 +4298,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 416,
+   "ordem": 393,
    "frase": "homem demorar para gozar",
    "volumeFrase": 50,
    "volumeGrupo": 50,
@@ -4554,7 +4308,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 417,
+   "ordem": 394,
    "frase": "nao tenho erecao matinal",
    "volumeFrase": 50,
    "volumeGrupo": 50,
@@ -4564,7 +4318,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 418,
+   "ordem": 395,
    "frase": "hemograma detecta diabetes",
    "volumeFrase": 50,
    "volumeGrupo": 50,
@@ -4574,7 +4328,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 419,
+   "ordem": 396,
    "frase": "treino para idosos na academia",
    "volumeFrase": 50,
    "volumeGrupo": 50,
@@ -4584,7 +4338,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 420,
+   "ordem": 397,
    "frase": "resultado da densitometria óssea",
    "volumeFrase": 50,
    "volumeGrupo": 50,
@@ -4594,7 +4348,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 421,
+   "ordem": 398,
    "frase": "álcool e sono",
    "volumeFrase": 40,
    "volumeGrupo": 40,
@@ -4604,7 +4358,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 422,
+   "ordem": 399,
    "frase": "vitamina de sono",
    "volumeFrase": 40,
    "volumeGrupo": 40,
@@ -4614,7 +4368,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 423,
+   "ordem": 400,
    "frase": "esquecer palavras",
    "volumeFrase": 40,
    "volumeGrupo": 40,
@@ -4624,7 +4378,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 424,
+   "ordem": 401,
    "frase": "café e osteoporose",
    "volumeFrase": 40,
    "volumeGrupo": 40,
@@ -4634,7 +4388,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 425,
+   "ordem": 402,
    "frase": "sono e aprendizado",
    "volumeFrase": 40,
    "volumeGrupo": 40,
@@ -4644,7 +4398,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 426,
+   "ordem": 403,
    "frase": "dieta depois dos 40",
    "volumeFrase": 40,
    "volumeGrupo": 40,
@@ -4654,7 +4408,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 427,
+   "ordem": 404,
    "frase": "clube da longevidade",
    "volumeFrase": 40,
    "volumeGrupo": 40,
@@ -4664,7 +4418,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 428,
+   "ordem": 405,
    "frase": "rotina antes de dormir",
    "volumeFrase": 40,
    "volumeGrupo": 40,
@@ -4674,7 +4428,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 429,
+   "ordem": 406,
    "frase": "colageno andressa suita",
    "volumeFrase": 40,
    "volumeGrupo": 40,
@@ -4684,27 +4438,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 430,
-   "frase": "queda de cabelo sintomas",
-   "volumeFrase": 40,
-   "volumeGrupo": 40,
-   "variacoes": 0,
-   "categoria": "pele-cabelo",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 431,
-   "frase": "queda de cabelo tem cura",
-   "volumeFrase": 40,
-   "volumeGrupo": 40,
-   "variacoes": 0,
-   "categoria": "pele-cabelo",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 432,
+   "ordem": 407,
    "frase": "musculação depois dos 50",
    "volumeFrase": 40,
    "volumeGrupo": 40,
@@ -4714,7 +4448,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 433,
+   "ordem": 408,
    "frase": "calcular idade biológica",
    "volumeFrase": 40,
    "volumeGrupo": 40,
@@ -4724,7 +4458,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 434,
+   "ordem": 409,
    "frase": "como recuperar massa óssea",
    "volumeFrase": 40,
    "volumeGrupo": 40,
@@ -4734,7 +4468,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 435,
+   "ordem": 410,
    "frase": "banho quente antes de dormir",
    "volumeFrase": 40,
    "volumeGrupo": 40,
@@ -4744,7 +4478,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 436,
+   "ordem": 411,
    "frase": "dor lombar relaxante muscular",
    "volumeFrase": 40,
    "volumeGrupo": 40,
@@ -4754,7 +4488,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 437,
+   "ordem": 412,
    "frase": "licopeno colágeno e vitamina c",
    "volumeFrase": 40,
    "volumeGrupo": 40,
@@ -4764,7 +4498,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 438,
+   "ordem": 413,
    "frase": "ciclo de crescimento do cabelo",
    "volumeFrase": 40,
    "volumeGrupo": 40,
@@ -4774,7 +4508,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 439,
+   "ordem": 414,
    "frase": "ranger os dentes durante o sono",
    "volumeFrase": 40,
    "volumeGrupo": 40,
@@ -4784,7 +4518,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 440,
+   "ordem": 415,
    "frase": "insonias",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4794,7 +4528,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 441,
+   "ordem": 416,
    "frase": "função do sono",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4804,7 +4538,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 442,
+   "ordem": 417,
    "frase": "dieta para artrose",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4814,7 +4548,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 443,
+   "ordem": 418,
    "frase": "glicemia ao acordar",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4824,7 +4558,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 444,
+   "ordem": 419,
    "frase": "telas antes de dormir",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4834,7 +4568,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 445,
+   "ordem": 420,
    "frase": "acordar às 3 da manhã",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4844,7 +4578,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 446,
+   "ordem": 421,
    "frase": "ereções fracas causas",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4854,7 +4588,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 447,
+   "ordem": 422,
    "frase": "queda de cabelo sazonal",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4864,7 +4598,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 448,
+   "ordem": 423,
    "frase": "musculação depois dos 40",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4874,7 +4608,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 449,
+   "ordem": 424,
    "frase": "tabela glicemia por idade",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4884,7 +4618,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 450,
+   "ordem": 425,
    "frase": "hábitos para dormir melhor",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4894,7 +4628,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 451,
+   "ordem": 426,
    "frase": "ausencia de erecao matinal",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4904,17 +4638,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 452,
-   "frase": "glicemia normal para idosos",
-   "volumeFrase": 30,
-   "volumeGrupo": 30,
-   "variacoes": 0,
-   "categoria": "diabetes-exames",
-   "status": "banco",
-   "topVariacoes": []
-  },
-  {
-   "ordem": 453,
+   "ordem": 427,
    "frase": "quando o homem falha na hora h",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4924,7 +4648,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 454,
+   "ordem": 428,
    "frase": "quantas horas de sono por noite",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4934,7 +4658,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 455,
+   "ordem": 429,
    "frase": "alimentos que atrapalham o sono",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4944,7 +4668,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 456,
+   "ordem": 430,
    "frase": "melhor exame para detectar diabetes",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4954,7 +4678,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 457,
+   "ordem": 431,
    "frase": "alimentação para crescimento do cabelo",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4964,7 +4688,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 458,
+   "ordem": 432,
    "frase": "tratamento para falta de desejo masculino",
    "volumeFrase": 30,
    "volumeGrupo": 30,
@@ -4974,7 +4698,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 459,
+   "ordem": 433,
    "frase": "café à noite",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -4984,7 +4708,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 460,
+   "ordem": 434,
    "frase": "cafeína e sono",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -4994,7 +4718,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 461,
+   "ordem": 435,
    "frase": "sono e alzheimer",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5004,7 +4728,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 462,
+   "ordem": 436,
    "frase": "sono e imunidade",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5014,7 +4738,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 463,
+   "ordem": 437,
    "frase": "triptofano e sono",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5024,7 +4748,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 464,
+   "ordem": 438,
    "frase": "ejaculação atrasada",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5034,7 +4758,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 465,
+   "ordem": 439,
    "frase": "densitometria normal",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5044,7 +4768,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 466,
+   "ordem": 440,
    "frase": "treino depois dos 40",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5054,7 +4778,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 467,
+   "ordem": 441,
    "frase": "testosterona e cabelo",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5064,7 +4788,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 468,
+   "ordem": 442,
    "frase": "recuperar sono perdido",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5074,7 +4798,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 469,
+   "ordem": 443,
    "frase": "tabela glicemia normal",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5084,7 +4808,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 470,
+   "ordem": 444,
    "frase": "100 peso emagrece mesmo",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5094,7 +4818,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 471,
+   "ordem": 445,
    "frase": "como fortalecer o fêmur",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5104,7 +4828,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 472,
+   "ordem": 446,
    "frase": "perda de volume capilar",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5114,7 +4838,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 473,
+   "ordem": 447,
    "frase": "estresse altera glicemia",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5124,7 +4848,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 474,
+   "ordem": 448,
    "frase": "como aumentar massa óssea",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5134,7 +4858,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 475,
+   "ordem": 449,
    "frase": "queda de cabelo no outono",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5144,7 +4868,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 476,
+   "ordem": 450,
    "frase": "dor no joelho alongamento",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5154,7 +4878,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 477,
+   "ordem": 451,
    "frase": "como descobrir osteoporose",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5164,7 +4888,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 478,
+   "ordem": 452,
    "frase": "queda de cabelo hereditária",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5174,7 +4898,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 479,
+   "ordem": 453,
    "frase": "gotejamento depois de urinar",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5184,7 +4908,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 480,
+   "ordem": 454,
    "frase": "nao consigo ficar de pau duro",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5194,7 +4918,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 481,
+   "ordem": 455,
    "frase": "glicemia baixa depois de comer",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5204,7 +4928,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 482,
+   "ordem": 456,
    "frase": "alimentos que estimulam colágeno",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5214,7 +4938,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 483,
+   "ordem": 457,
    "frase": "exames para saber se tenho diabetes",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5224,7 +4948,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 484,
+   "ordem": 458,
    "frase": "glicemia acima de quanto é diabetes",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5234,7 +4958,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 485,
+   "ordem": 459,
    "frase": "como interpretar hemoglobina glicada",
    "volumeFrase": 20,
    "volumeGrupo": 20,
@@ -5244,7 +4968,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 486,
+   "ordem": 460,
    "frase": "kreatin hcl",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5254,7 +4978,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 487,
+   "ordem": 461,
    "frase": "sono e humor",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5264,7 +4988,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 488,
+   "ordem": 462,
    "frase": "sono e coração",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5274,7 +4998,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 489,
+   "ordem": 463,
    "frase": "dívida de sono",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5284,7 +5008,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 490,
+   "ordem": 464,
    "frase": "em7 emagrecedor",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5294,7 +5018,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 491,
+   "ordem": 465,
    "frase": "test cholesterol",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5304,7 +5028,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 492,
+   "ordem": 466,
    "frase": "proteine creatina",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5314,7 +5038,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 493,
+   "ordem": 467,
    "frase": "estresse e cabelo",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5324,7 +5048,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 494,
+   "ordem": 468,
    "frase": "dieta aos 50 anos",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5334,7 +5058,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 495,
+   "ordem": 469,
    "frase": "bicicleta e joelho",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5344,7 +5068,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 496,
+   "ordem": 470,
    "frase": "sono e metabolismo",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5354,7 +5078,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 497,
+   "ordem": 471,
    "frase": "estrogênio e cabelo",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5364,7 +5088,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 498,
+   "ordem": 472,
    "frase": "dieta depois dos 50",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5374,7 +5098,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 499,
+   "ordem": 473,
    "frase": "como evitar fraturas",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5384,7 +5108,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 500,
+   "ordem": 474,
    "frase": "condroitina funciona",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5394,7 +5118,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 501,
+   "ordem": 475,
    "frase": "horas de sono ideais",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5404,7 +5128,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 502,
+   "ordem": 476,
    "frase": "sono e produtividade",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5414,7 +5138,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 503,
+   "ordem": 477,
    "frase": "regularidade do sono",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5424,7 +5148,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 504,
+   "ordem": 478,
    "frase": "vitamina ce colágeno",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5434,7 +5158,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 505,
+   "ordem": 479,
    "frase": "alimentação e cabelo",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5444,7 +5168,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 506,
+   "ordem": 480,
    "frase": "beleza depois dos 40",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5454,7 +5178,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 507,
+   "ordem": 481,
    "frase": "longevidade masculina",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5464,7 +5188,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 508,
+   "ordem": 482,
    "frase": "prevenção de fraturas",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5474,7 +5198,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 509,
+   "ordem": 483,
    "frase": "yoga para osteoporose",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5484,7 +5208,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 510,
+   "ordem": 484,
    "frase": "efeitos de dormir mal",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5494,7 +5218,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 511,
+   "ordem": 485,
    "frase": "rosa selvagem colageno",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5504,7 +5228,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 512,
+   "ordem": 486,
    "frase": "longevidade alimentação",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5514,7 +5238,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 513,
+   "ordem": 487,
    "frase": "mejor colageno para mujer",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5524,7 +5248,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 514,
+   "ordem": 488,
    "frase": "tintura e queda de cabelo",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5534,7 +5258,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 515,
+   "ordem": 489,
    "frase": "estresse causa impotência",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5544,7 +5268,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 516,
+   "ordem": 490,
    "frase": "3 potes colágeno renova be",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5554,7 +5278,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 517,
+   "ordem": 491,
    "frase": "sedentarismo e osteoporose",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5564,7 +5288,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 518,
+   "ordem": 492,
    "frase": "causas dos cabelos brancos",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5574,7 +5298,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 519,
+   "ordem": 493,
    "frase": "alimentação antes de dormir",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5584,7 +5308,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 520,
+   "ordem": 494,
    "frase": "dormir mais no fim de semana",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5594,7 +5318,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 521,
+   "ordem": 495,
    "frase": "glicemia depois das refeições",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5604,7 +5328,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 522,
+   "ordem": 496,
    "frase": "glicemia 2 horas depois de comer",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5614,7 +5338,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 523,
+   "ordem": 497,
    "frase": "quais exames fazer para diabetes",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5624,7 +5348,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 524,
+   "ordem": 498,
    "frase": "dormir e acordar no mesmo horário",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5634,7 +5358,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 525,
+   "ordem": 499,
    "frase": "alimentos para prevenir osteoporose",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5644,7 +5368,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 526,
+   "ordem": 500,
    "frase": "como acalmar a mente antes de dormir",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5654,7 +5378,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 527,
+   "ordem": 501,
    "frase": "como parar de pensar antes de dormir",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5664,7 +5388,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 528,
+   "ordem": 502,
    "frase": "colágeno ácido hialurónico resveratrol",
    "volumeFrase": 10,
    "volumeGrupo": 10,
@@ -5674,7 +5398,7 @@
    "topVariacoes": []
   },
   {
-   "ordem": 529,
+   "ordem": 503,
    "frase": "como voltar a dormir depois de acordar",
    "volumeFrase": 10,
    "volumeGrupo": 10,
