@@ -1,6 +1,7 @@
 // Coletor local de SERP (rodar no COMPUTADOR do usuário, com navegador de verdade). Sem API, sem custo.
 //   npm i --no-save playwright          (uma vez; usa o Chrome já instalado, não baixa navegador)
 //   node scripts/coletor-serp.js --so-sim --limite 10 --topo 3 [--tema Cabelo] [--push]
+//   node scripts/coletor-serp.js --urls data/entrada/urls-topo.txt   (sem Google: você cola as URLs do topo; blocos separados por linha em branco, 1ª linha = palavra)
 //   node scripts/coletor-serp.js --mock   (teste offline com HTML de exemplo em scripts/fixtures/serp/)
 // Lê data/conteudo/pautas-mestre.csv (grupo 2), abre o Google, pega o topo orgânico, abre as primeiras páginas, guarda SÓ métricas
 // (nunca o texto do concorrente) em data/pesquisa/serp-resultados.json e data/pesquisa/concorrentes/<slug>.json, e regenera a planilha mestre.
@@ -16,7 +17,7 @@ const raiz = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const args = process.argv.slice(2);
 const opt = (n, d = null) => { const i = args.indexOf(n); return i >= 0 ? args[i + 1] : d; };
 const flag = (n) => args.includes(n);
-const MOCK = flag('--mock'), LIMITE = Number(opt('--limite', 10)), TOPO = Number(opt('--topo', 3)), TEMA = opt('--tema'), SO_SIM = flag('--so-sim'), PUSH = flag('--push');
+const URLS = opt('--urls'), MOCK = flag('--mock'), LIMITE = Number(opt('--limite', 5)), TOPO = Number(opt('--topo', 3)), TEMA = opt('--tema'), SO_SIM = flag('--so-sim'), PUSH = flag('--push');
 const lerJson = (f, d) => { try { return JSON.parse(fs.readFileSync(path.join(raiz, f), 'utf8')); } catch { return d; } };
 const chave = (s) => norm(s).split(' ').sort().join(' ');
 const slugify = (s) => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
@@ -65,14 +66,19 @@ export function analisar(paginas, perguntas) {
 function lerCsv(f) {
   return fs.readFileSync(path.join(raiz, f), 'utf8').replace(/^﻿/, '').split(/\r?\n/).filter(Boolean).slice(1).map((l) => { const c = []; let cur = '', q = false; for (const ch of l) { if (ch === '"') q = !q; else if (ch === ';' && !q) { c.push(cur); cur = ''; } else cur += ch; } c.push(cur); return c; });
 }
+function lerBlocosUrls(f) {
+  return fs.readFileSync(path.join(raiz, f), 'utf8').replace(/^﻿/, '').split(/\r?\n\s*\r?\n/).map((b) => b.split(/\r?\n/).map((x) => x.trim()).filter(Boolean)).filter((b) => b.length > 1)
+    .map((b) => ({ kw: b[0], urls: b.slice(1).filter((u) => /^https?:\/\//.test(u)) }));
+}
 const perguntar = (t) => new Promise((r) => { const rl = readline.createInterface({ input: process.stdin, output: process.stdout }); rl.question(t, (a) => { rl.close(); r(a); }); });
 
 async function main() {
   const serp = lerJson('data/pesquisa/serp-resultados.json', {});
   const feitos = new Set(Object.keys(serp).map(chave));
-  let fila = lerCsv('data/conteudo/pautas-mestre.csv').filter((r) => r[0].startsWith('2') && !feitos.has(chave(r[2])));
-  if (TEMA) fila = fila.filter((r) => norm(r[1]).includes(norm(TEMA)));
-  if (SO_SIM) fila = fila.filter((r) => r[10] === 'SIM');
+  const blocos = URLS ? lerBlocosUrls(URLS) : null;
+  let fila = blocos ? blocos.map((b) => ['2', '', b.kw, '', '', '', '', '', '', '', 'SIM']) : lerCsv('data/conteudo/pautas-mestre.csv').filter((r) => r[0].startsWith('2') && !feitos.has(chave(r[2])));
+  if (TEMA && !blocos) fila = fila.filter((r) => norm(r[1]).includes(norm(TEMA)));
+  if (SO_SIM && !blocos) fila = fila.filter((r) => r[10] === 'SIM');
   fila = fila.slice(0, LIMITE);
   if (!fila.length) { console.log('Nada a coletar (todas já têm Google checado, ou o filtro não achou palavras).'); return; }
   console.log(`🔎 ${fila.length} palavra(s)${MOCK ? ' [MOCK: HTML de exemplo]' : ''}`);
@@ -92,13 +98,24 @@ async function main() {
     return page.content();
   };
 
-  const novos = {};
+  const novos = {}; let captchas = 0, parar = false;
   for (const r of fila) {
     const kw = r[2]; console.log(`\n🔍 ${kw}`);
     try {
-      let html = await pegarHtml(`https://www.google.com.br/search?q=${encodeURIComponent(kw)}&hl=pt-BR&gl=br&num=10`);
-      let s = extrairSerp(html);
-      while (s.captcha && !MOCK) { await perguntar('⚠️  O Google pediu verificação. Resolva no navegador aberto e aperte Enter aqui... '); html = await page.content(); s = extrairSerp(html); }
+      let s;
+      if (blocos) {
+        const b = blocos.find((x) => x.kw === kw);
+        s = { captcha: false, organicos: b.urls.map((u) => { const host = new URL(u).hostname.replace(/^www\./, ''); return { titulo: '', url: u, host }; }), perguntas: [], relacionadas: [], aiOverview: false };
+      } else {
+        let html = await pegarHtml(`https://www.google.com.br/search?q=${encodeURIComponent(kw)}&hl=pt-BR&gl=br&num=10`);
+        s = extrairSerp(html);
+        while (s.captcha && !MOCK) {
+          captchas++;
+          if (captchas >= 3) { console.log('\n⛔ 3 verificações do Google nesta sessão. Parando para não piorar o bloqueio. Espere algumas horas ou use --urls.'); parar = true; break; }
+          await perguntar('⚠️  O Google pediu verificação. Resolva no navegador aberto e aperte Enter aqui... '); html = await page.content(); s = extrairSerp(html);
+        }
+        if (parar) break;
+      }
       if (!s.organicos.length) { console.log('  ⚠️ nenhum resultado orgânico lido (o Google mudou a página?). Pulando.'); continue; }
       const cls = classificar(s.organicos);
       const paginas = [];
@@ -114,7 +131,7 @@ async function main() {
       fs.writeFileSync(path.join(raiz, `data/pesquisa/concorrentes/${slugify(kw)}.json`), JSON.stringify({ keyword: kw, data: hoje, veredito: cls.veredito, paginas, ...ana }, null, 1));
       novos[kw] = cls.veredito; console.log(`  ✅ ${cls.nivel} | mediana ${ana.medianaPalavras ?? '?'} palavras | ${ana.lacunas.length} lacuna(s)`);
     } catch (e) { console.log(`  ❌ ${String(e.message).slice(0, 100)}`); }
-    if (!MOCK) await esperar(rand(8000, 20000));
+    if (!MOCK && !blocos) await esperar(rand(30000, 60000));
   }
   if (ctx) await ctx.close();
   if (MOCK) { console.log('\n(MOCK: nada foi gravado em serp-resultados.json)'); fs.mkdirSync('/tmp/coletor-mock', { recursive: true }); fs.writeFileSync('/tmp/coletor-mock/serp.json', JSON.stringify(serp, null, 1)); return; }

@@ -24,3 +24,16 @@ Imprime o prompt completo, já com demanda, concorrentes, H2 comuns, perguntas d
 ## Cuidados
 - O Google proíbe consulta automática nos termos de uso: uso pessoal, volume baixo, pausas longas (o script já faz). Se travar muito, pare e espere.
 - Nada de senha ou perfil vai para o GitHub (`.coletor-perfil/` fica só no seu computador).
+
+## Se o Google pedir verificação demais
+- O coletor agora espera 30–60 s entre buscas, faz 5 palavras por rodada (`--limite`) e **para sozinho após 3 verificações**. Espere algumas horas antes de tentar de novo.
+- **Modo sem Google (`--urls`)**: você pesquisa a palavra no seu Chrome normal, copia as URLs do topo e cola num arquivo `data/entrada/urls-topo.txt`:
+```
+psoríase no couro cabeludo
+https://site1.com/pagina
+https://site2.com/pagina
+
+creatina
+https://site3.com/pagina
+```
+(1ª linha = palavra; linhas seguintes = URLs; linha em branco separa as palavras.) Depois: `node scripts/coletor-serp.js --urls data/entrada/urls-topo.txt --topo 10`. Esse modo não aciona o Google, então não tem captcha; só não traz as perguntas "As pessoas também perguntam".
