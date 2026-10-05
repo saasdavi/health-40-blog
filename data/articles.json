@@ -1382,7 +1382,7 @@
         ]
       },
       "volume": 60500,
-      "status": "draft",
+      "status": "published",
       "createdAt": "2026-10-04T16:40:20.167Z",
       "scores": {
         "auditoria": 95
@@ -1435,7 +1435,7 @@
         "pexels:4285628"
       ],
       "altConferido": false,
-      "estoque": true,
+      "estoque": false,
       "estocadoEm": "2026-10-04T16:40:22.505Z",
       "validacao": {
         "palavraChave": "sintomas de diabetes",
@@ -1504,7 +1504,9 @@
           ]
         },
         "validadoEm": "2026-10-04T16:40:22.505Z"
-      }
+      },
+      "publishedAt": "2026-10-05T18:49:03.727Z",
+      "publicadoDoEstoqueEm": "2026-10-05T18:49:03.727Z"
     },
     {
       "id": "art_1791132101123_3bwh",
@@ -9753,6 +9755,6 @@
   ],
   "stats": {
     "total": 55,
-    "published": 11
+    "published": 12
   }
 }

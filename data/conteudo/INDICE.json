@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 11,
-  "prontosParaUsar": 35,
+  "publicados": 12,
+  "prontosParaUsar": 34,
   "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -218,15 +218,15 @@
    "palavraChave": "sintomas de diabetes",
    "cluster": "diabetes",
    "volume": 60500,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1533,
    "h2": 12,
    "imagens": 3,
    "fontes": 5,
    "auditoria": 95,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-05T18:49:03.727Z",
    "escritoEm": "2026-10-04T16:40:22.505Z",
-   "previstoPara": "2026-10-06",
+   "previstoPara": null,
    "pontesSugeridas": []
   },
   {

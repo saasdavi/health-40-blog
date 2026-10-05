@@ -160,4 +160,15 @@
       <image:caption>Dores lombares afetam sua rotina? Descubra as principais causas, sinais de alerta e estratégias práticas para aliviar a dor na lombar.</image:caption>
     </image:image>
   </url>
+  <url>
+    <loc>https://health-40-blog.vercel.app/sintomas-de-diabetes</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>/images/sintomas-de-diabetes/sintomas-de-diabetes-capa.jpg</image:loc>
+      <image:title>Sintomas de Diabetes: 7 Sinais de Alerta para Mulheres 40+</image:title>
+      <image:caption>Conheça os 7 sintomas de diabetes mais comuns e os sinais silenciosos que aparecem após os 40. Saiba como desconfiar da doença e quando procurar ajuda.</image:caption>
+    </image:image>
+  </url>
 </urlset>
