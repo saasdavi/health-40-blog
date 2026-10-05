@@ -4,6 +4,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { norm } from './demanda-lib.js';
 import { SAUDE, LIXO } from './lib/saude.js';
+import { indiceLongTails, longTails } from './lib/longtails.js';
 const raiz = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const ler = (f, d = null) => { try { return JSON.parse(fs.readFileSync(path.join(raiz, f), 'utf8')); } catch { return d; } };
 const sa = (s) => String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
@@ -56,9 +57,15 @@ for (const l of caneta.split('\n')) { const m = l.match(/^\d+\. \*\*[^:]+:\*\* (
 for (const f of ['caneta emagrecedora', 'caneta emagrecedora e jejum', 'ozempic', 'mounjaro', 'wegovy', 'semaglutida', 'tirzepatida', 'jejum intermitente', 'ozempic ou mounjaro', 'wegovy ou mounjaro', 'quanto emagrece com caneta', 'caneta emagrecedora efeitos colaterais']) add3(f, 'caneta+jejum (cabeças)');
 const EXTRA0 = ['dificuldade_google', 'autoridades_top5', 'concorrente_1_url', 'concorrente_1_palavras', 'mediana_palavras_topo', 'h2_comuns_no_topo', 'perguntas_do_google', 'lacunas_do_topo', 'termos_usados_pelo_topo', 'concorrentes_detalhe', 'urls_topo_google'];
 const cab0 = ['grupo', 'tema', 'palavra_chave', 'buscas_mes_exato', 'concorrencia_ads', 'tendencia', 'status_artigo', 'nota_auditoria', 'sensivel_revisao', 'google_checado', 'produzir_amanha_sugerido', 'origem'];
-const EXTRA = [...EXTRA0, 'nivel', 'visitas_mes_se_pagina1_3pct', 'visitas_mes_se_top3_18pct'];
+const EXTRA = [...EXTRA0, 'nivel', 'visitas_mes_se_pagina1_3pct', 'visitas_mes_se_top3_18pct', 'tipo', 'qtd_long_tails', 'volume_somado_long_tails', 'long_tails_com_volume'];
+const idxLT = indiceLongTails(dem);
 const cab = [...cab0, ...EXTRA];
-linhas.forEach((l) => { l.push(...conc(l[2])); const v = parseInt(l[3], 10); if (!v) { l.push('', '', ''); return; } l.push(v >= 5000 ? 'pilar' : v >= 1000 ? 'media' : 'ganha-pao', Math.round(v * 0.03), Math.round(v * 0.18)); });
+linhas.forEach((l) => {
+  l.push(...conc(l[2])); const v = parseInt(l[3], 10);
+  if (!v) l.push('', '', ''); else l.push(v >= 5000 ? 'pilar' : v >= 1000 ? 'media' : 'ganha-pao', Math.round(v * 0.03), Math.round(v * 0.18));
+  const nw = norm(l[2]).split(' ').length; const lt = longTails(l[2], idxLT, { max: 10, ruido: RUIDO }); const todas = longTails(l[2], idxLT, { max: 1000, ruido: RUIDO });
+  l.push(nw === 1 ? 'cabeca' : nw === 2 ? 'media (2 palavras)' : 'long tail', todas.length, todas.reduce((a, e) => a + e.volume, 0) || '', lt.map((e) => `${e.frase} (${e.volume})`).join(' | '));
+});
 fs.mkdirSync(path.join(raiz, 'data/conteudo'), { recursive: true });
 const out = '﻿' + [cab.join(';'), ...linhas.map((r) => r.map(q).join(';'))].join('\r\n') + '\r\n';
 fs.writeFileSync(path.join(raiz, 'data/conteudo/pautas-prontas-55.csv'), '\uFEFF' + [cab.join(';'), ...linhas.filter((l) => l[0].startsWith('1')).map((r) => r.map(q).join(';'))].join('\r\n') + '\r\n');

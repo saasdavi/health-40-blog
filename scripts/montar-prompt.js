@@ -1,6 +1,7 @@
 // Monta o PROMPT 2 (escrever artigo) já preenchido com os dados da planilha mestre. Cole em qualquer IA (GPT, Gemini, DeepSeek, Qwen, Perplexity).
 //   node scripts/montar-prompt.js "psoríase no couro cabeludo"   → imprime e grava data/conteudo/prompts/<slug>.md
 import fs from 'fs';
+import { indiceLongTails, longTails } from './lib/longtails.js';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { norm, demandaDe } from './demanda-lib.js';
@@ -21,6 +22,9 @@ const arts = ler('data/articles.json', { articles: [] }).articles;
 const rel = (a) => [...meus].filter((t) => norm(`${a.primaryKeyword} ${a.title}`).includes(t)).length;
 const links = arts.filter((a) => a.status === 'published').map((a) => ({ a, r: rel(a) })).sort((x, y) => y.r - x.r).slice(0, 8).map(({ a }) => `/${a.slug}/ (${a.primaryKeyword})`);
 // Texto dos concorrentes guardado pelo coletor neste computador (.cache/serp/<palavra>/*.txt): vai no prompt para a IA LER antes de escrever
+// Long tails com demanda medida (demanda-validada.json): viram subtópicos (H2/H3) do artigo
+const lts = longTails(kw, indiceLongTails(ler('data/pesquisa/demanda-validada.json', { itens: {} }).itens), { max: 12 });
+const ltBloco = lts.length ? `\n\nLONG TAILS COM DEMANDA RELACIONADAS (volume mensal medido). Cubra as de até 999 buscas como subtópicos naturais (H2 ou H3, sem repetir a frase exata); as de 1.000 ou mais merecem artigo próprio, então apenas cite o tema e aponte um link interno se existir:\n${lts.map((e) => `- ${e.frase} (${e.volume})`).join('\n')}` : '';
 const dirTxt = path.join(raiz, '.cache', 'serp', slugify(kw));
 const textos = fs.existsSync(dirTxt) ? fs.readdirSync(dirTxt).filter((f) => f.endsWith('.txt')).sort().map((f) => ({ f, t: fs.readFileSync(path.join(dirTxt, f), 'utf8').split(/\s+/).slice(0, 2500).join(' ') })) : [];
 const textoBloco = textos.length ? `\n\nTEXTO DOS CONCORRENTES DO TOPO (leia para entender cobertura, ordem e profundidade. Escreva um artigo ORIGINAL com suas palavras e estrutura; NÃO copie frases nem a sequência de parágrafos; NÃO use fatos que não estejam nas fontes oficiais)\n${textos.map(({ f, t }) => `--- ${f.replace(/\.txt$/, '')} ---\n${t}`).join('\n\n')}` : '';
@@ -29,7 +33,7 @@ const prompt = `Você é redator do blog Saúde 40+ (público de 40+ anos, portu
 
 Seja MELHOR que o topo do Google: responda as perguntas e preencha as lacunas. Reescreva com suas palavras e estrutura própria; nada de copiar.
 
-${concBloco}${con?.termosComuns?.length ? `\nVocabulário que o topo usa (use os termos naturalmente): ${con.termosComuns.join(', ')}` : ''}${con ? `\nFontes oficiais citadas pelo topo (confira se abrem antes de usar): ${[...new Set(con.paginas.flatMap((p) => p.fontesOficiais || []))].slice(0, 8).join(' ; ') || 'n/d'}` : ''}${textoBloco}
+${concBloco}${con?.termosComuns?.length ? `\nVocabulário que o topo usa (use os termos naturalmente): ${con.termosComuns.join(', ')}` : ''}${con ? `\nFontes oficiais citadas pelo topo (confira se abrem antes de usar): ${[...new Set(con.paginas.flatMap((p) => p.fontesOficiais || []))].slice(0, 8).join(' ; ') || 'n/d'}` : ''}${ltBloco}${textoBloco}
 
 FORMATO DE SAÍDA (exato; sem Markdown, sem cercas de código):
 PALAVRA_CHAVE: ${kw}
