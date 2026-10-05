@@ -171,5 +171,43 @@
       "sexualidadeCientifica"
     ]
   },
-  "sexualidadeCientificaNota": "Tema válido tratado de forma científica e clínica (saúde mental, sexual e do relacionamento): vício/compulsão, efeito no desejo e na ereção, cérebro e dopamina, quando procurar ajuda. Sem conteúdo explícito, sem links ou indicação de sites, sem moralismo, sem promessa de cura; citar só fontes reconhecidas (artigos científicos, sociedades médicas, hospitais, psicologia clínica). Consumo de conteúdo (vídeo, grátis, assistir, baixar) continua excluído."
+  "sexualidadeCientificaNota": "Tema válido tratado de forma científica e clínica (saúde mental, sexual e do relacionamento): vício/compulsão, efeito no desejo e na ereção, cérebro e dopamina, quando procurar ajuda. Sem conteúdo explícito, sem links ou indicação de sites, sem moralismo, sem promessa de cura; citar só fontes reconhecidas (artigos científicos, sociedades médicas, hospitais, psicologia clínica). Consumo de conteúdo (vídeo, grátis, assistir, baixar) continua excluído.",
+  "mineracaoPorExclusao": {
+    "queda-de-cabelo": [
+      "masculin",
+      "calvicie",
+      "shampoo",
+      "minoxidil",
+      "minoquisidil",
+      "finasterida",
+      "dutasterida",
+      "genetica",
+      "hereditaria",
+      "implante",
+      "transplante",
+      "caspa",
+      "oleosidade",
+      "quimioterapia",
+      "comprar",
+      "preco",
+      "melhor",
+      "marca",
+      "farmacia",
+      "capsula",
+      "comprimido",
+      "manipulado",
+      "barba",
+      "sobrancelha",
+      "cilios",
+      "pelos",
+      "infantil",
+      "tonico",
+      "ampola",
+      "creme",
+      "serum",
+      "mascara",
+      "condicionador"
+    ],
+    "_ajuda": "Dica do usuário (05/10): pedir ideias relacionadas ao termo amplo (HYPD research_find_keywords) e depois excluir por filtro os termos grandes e de produto; o que sobra é a cauda longa oculta. Aplicado em scripts/validar-planilha.js e nas análises."
+  }
 }
