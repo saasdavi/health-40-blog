@@ -1,0 +1,1577 @@
+{
+ "tema": "cabelo",
+ "data": "2026-10-05",
+ "total": 157,
+ "linhas": [
+  {
+   "frase": "botóx capilar",
+   "planilha": 50000,
+   "exato": 90500,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "cronograma capilar",
+   "planilha": 50000,
+   "exato": 90500,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "shampoo anticaspa",
+   "planilha": 50000,
+   "exato": 74000,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "tipos de cabelo",
+   "planilha": 50000,
+   "exato": 60500,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "tônico capilar",
+   "planilha": 50000,
+   "exato": 60500,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "vitaminas para cabelo",
+   "planilha": 50000,
+   "exato": 60500,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "alopecia areata",
+   "planilha": 50000,
+   "exato": 49500,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "o que é alopecia",
+   "planilha": 50000,
+   "exato": 33100,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "cabelo grisalho",
+   "planilha": 50000,
+   "exato": 22200,
+   "concorrencia": "MEDIUM",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "biotina para cabelo",
+   "planilha": 50000,
+   "exato": 22200,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo",
+   "planilha": 50000,
+   "exato": 22200,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "óleo de coco para cabelo",
+   "planilha": 50000,
+   "exato": 22200,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "psoríase no couro cabeludo",
+   "planilha": 50000,
+   "exato": 18100,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "minoxidil para cabelo",
+   "planilha": 50000,
+   "exato": 18100,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "revisar (sensível)",
+   "inflada": false
+  },
+  {
+   "frase": "eflúvio telógeno",
+   "planilha": 50000,
+   "exato": 14800,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "reconstrução capilar",
+   "planilha": 50000,
+   "exato": 14800,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "selagem capilar",
+   "planilha": 50000,
+   "exato": 14800,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "shampoo para dermatite seborreica",
+   "planilha": 50000,
+   "exato": 14800,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "vinagre de maçã para cabelo",
+   "planilha": 50000,
+   "exato": 12100,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "cabelo branco",
+   "planilha": 50000,
+   "exato": 12100,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "hidratação caseira para cabelo",
+   "planilha": 50000,
+   "exato": 12100,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "babosa para cabelo",
+   "planilha": 50000,
+   "exato": 9900,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": true
+  },
+  {
+   "frase": "óleo de alecrim para cabelo",
+   "planilha": 50000,
+   "exato": 9900,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": true
+  },
+  {
+   "frase": "óleo de rícino para cabelo",
+   "planilha": 5000,
+   "exato": 9900,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "shampoo de cetoconazol",
+   "planilha": 5000,
+   "exato": 9900,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "como usar minoxidil",
+   "planilha": 5000,
+   "exato": 8100,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "revisar (sensível)",
+   "inflada": false
+  },
+  {
+   "frase": "foliculite no couro cabeludo",
+   "planilha": 5000,
+   "exato": 8100,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "coceira no couro cabeludo",
+   "planilha": 5000,
+   "exato": 8100,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "alopecia frontal fibrosante",
+   "planilha": 5000,
+   "exato": 6600,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "efeitos colaterais do minoxidil",
+   "planilha": 5000,
+   "exato": 6600,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "revisar (sensível)",
+   "inflada": false
+  },
+  {
+   "frase": "feridas no couro cabeludo",
+   "planilha": 5000,
+   "exato": 6600,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "cabelo quebradiço",
+   "planilha": 5000,
+   "exato": 6600,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "microagulhamento capilar",
+   "planilha": 5000,
+   "exato": 6600,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "cabelo ressecado",
+   "planilha": 5000,
+   "exato": 5400,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "melhor shampoo para queda de cabelo",
+   "planilha": 5000,
+   "exato": 5400,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "comercial",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "vitaminas para queda de cabelo feminino",
+   "planilha": 5000,
+   "exato": 5400,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "cabelo oleoso",
+   "planilha": 5000,
+   "exato": 4400,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "cabelo ralo",
+   "planilha": 5000,
+   "exato": 4400,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "como fazer o cabelo crescer mais rápido",
+   "planilha": 5000,
+   "exato": 4400,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "alecrim para cabelo",
+   "planilha": 5000,
+   "exato": 4400,
+   "concorrencia": "HIGH",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "detox capilar",
+   "planilha": 5000,
+   "exato": 4400,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "suplementos para cabelo",
+   "planilha": 5000,
+   "exato": 4400,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "causas da queda de cabelo",
+   "planilha": 5000,
+   "exato": 3600,
+   "concorrencia": "MEDIUM",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "couro cabeludo inflamado",
+   "planilha": 5000,
+   "exato": 3600,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "alopecia por tração",
+   "planilha": 5000,
+   "exato": 3600,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "foliculite capilar",
+   "planilha": 5000,
+   "exato": 3600,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "hidratação com babosa",
+   "planilha": 5000,
+   "exato": 3600,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "alta frequência capilar",
+   "planilha": 5000,
+   "exato": 3600,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "tônico para queda de cabelo",
+   "planilha": 5000,
+   "exato": 3600,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "micose no couro cabeludo",
+   "planilha": 5000,
+   "exato": 2900,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo excessiva",
+   "planilha": 5000,
+   "exato": 2900,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "umectação noturna",
+   "planilha": 5000,
+   "exato": 2900,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "cabelo fino",
+   "planilha": 5000,
+   "exato": 2400,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "cabelo seco",
+   "planilha": 5000,
+   "exato": 2400,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "cabelo opaco",
+   "planilha": 5000,
+   "exato": 2400,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "chá de alecrim para cabelo",
+   "planilha": 5000,
+   "exato": 2400,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "quanto o cabelo cresce por mês",
+   "planilha": 5000,
+   "exato": 2400,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "protetor solar capilar",
+   "planilha": 5000,
+   "exato": 2400,
+   "concorrencia": "HIGH",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo feminino",
+   "planilha": 5000,
+   "exato": 2400,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "tipos de alopecia",
+   "planilha": 5000,
+   "exato": 1900,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "esfoliação do couro cabeludo",
+   "planilha": 5000,
+   "exato": 1900,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "tratamentos para alopecia",
+   "planilha": 5000,
+   "exato": 1900,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "descamação do couro cabeludo",
+   "planilha": 5000,
+   "exato": 1600,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "alopecia universal",
+   "planilha": 5000,
+   "exato": 1600,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "como usar óleo de alecrim no cabelo",
+   "planilha": 5000,
+   "exato": 1600,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "laser capilar",
+   "planilha": 5000,
+   "exato": 1600,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo por estresse",
+   "planilha": 5000,
+   "exato": 1300,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo pós parto",
+   "planilha": 5000,
+   "exato": 1300,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "alopecia areata causas",
+   "planilha": 5000,
+   "exato": 1300,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "como lavar o cabelo corretamente",
+   "planilha": 5000,
+   "exato": 1300,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "entradas no cabelo",
+   "planilha": 5000,
+   "exato": 1300,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": false
+  },
+  {
+   "frase": "calvície masculina",
+   "planilha": 5000,
+   "exato": 1300,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "como recuperar cabelo quebrado",
+   "planilha": 5000,
+   "exato": 1300,
+   "concorrencia": "HIGH",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "massagem capilar",
+   "planilha": 5000,
+   "exato": 1000,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": true
+  },
+  {
+   "frase": "pantenol para cabelo",
+   "planilha": 5000,
+   "exato": 1000,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": true
+  },
+  {
+   "frase": "queda de cabelo masculino",
+   "planilha": 5000,
+   "exato": 1000,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": true
+  },
+  {
+   "frase": "vitamina d para cabelo",
+   "planilha": 500,
+   "exato": 1000,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": false
+  },
+  {
+   "frase": "dermatite seborreica no couro cabeludo",
+   "planilha": 500,
+   "exato": 880,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "alimentos ricos em biotina",
+   "planilha": 500,
+   "exato": 880,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "eflúvio telógeno crônico",
+   "planilha": 500,
+   "exato": 880,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "cabelo com caspa",
+   "planilha": 500,
+   "exato": 720,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo na menopausa",
+   "planilha": 500,
+   "exato": 720,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "couro cabeludo ressecado",
+   "planilha": 500,
+   "exato": 720,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "ardência no couro cabeludo",
+   "planilha": 500,
+   "exato": 590,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo na gravidez",
+   "planilha": 500,
+   "exato": 590,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "vitamina b12 para cabelo",
+   "planilha": 500,
+   "exato": 590,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "couro cabeludo irritado",
+   "planilha": 500,
+   "exato": 590,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "caspa seca",
+   "planilha": 500,
+   "exato": 480,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "alopecia masculina",
+   "planilha": 500,
+   "exato": 480,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "alopecia total",
+   "planilha": 500,
+   "exato": 480,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "por que o cabelo fica branco",
+   "planilha": 500,
+   "exato": 480,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "caspa oleosa",
+   "planilha": 500,
+   "exato": 390,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "causas da queda de cabelo feminino",
+   "planilha": 500,
+   "exato": 390,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "alopecia difusa",
+   "planilha": 500,
+   "exato": 390,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "couro cabeludo ardendo",
+   "planilha": 500,
+   "exato": 390,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "crostas no couro cabeludo",
+   "planilha": 500,
+   "exato": 390,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "eczema no couro cabeludo",
+   "planilha": 500,
+   "exato": 390,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "falhas no couro cabeludo",
+   "planilha": 500,
+   "exato": 320,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "cabelo que não cresce",
+   "planilha": 500,
+   "exato": 320,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "calvície precoce",
+   "planilha": 500,
+   "exato": 320,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo após o parto",
+   "planilha": 500,
+   "exato": 320,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo por ansiedade",
+   "planilha": 500,
+   "exato": 320,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "vermelhidão no couro cabeludo",
+   "planilha": 500,
+   "exato": 320,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "alimentos que ajudam o cabelo a crescer",
+   "planilha": 500,
+   "exato": 260,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "eflúvio anágeno",
+   "planilha": 500,
+   "exato": 260,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "colágeno para cabelo",
+   "planilha": 500,
+   "exato": 260,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "zinco para cabelo",
+   "planilha": 500,
+   "exato": 260,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "alimentação para evitar queda de cabelo",
+   "planilha": 500,
+   "exato": 210,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "alopecia areata em mulheres",
+   "planilha": 500,
+   "exato": 210,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "causas da queda de cabelo masculino",
+   "planilha": 500,
+   "exato": 170,
+   "concorrencia": "MEDIUM",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "ferro para cabelo",
+   "planilha": 500,
+   "exato": 170,
+   "concorrencia": "MEDIUM",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo repentina",
+   "planilha": 500,
+   "exato": 170,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "cafeína para cabelo",
+   "planilha": 500,
+   "exato": 170,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "couro cabeludo com espinhas",
+   "planilha": 500,
+   "exato": 140,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "exames para queda de cabelo feminino",
+   "planilha": 500,
+   "exato": 140,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "como cuidar dos cabelos brancos",
+   "planilha": 500,
+   "exato": 140,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "como identificar alopecia",
+   "planilha": 500,
+   "exato": 110,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "fases do crescimento capilar",
+   "planilha": 500,
+   "exato": 110,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo por tração",
+   "planilha": 500,
+   "exato": 110,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo por falta de vitaminas",
+   "planilha": 500,
+   "exato": 110,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "água de arroz para cabelo",
+   "planilha": 50,
+   "exato": 90,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "como fortalecer a raiz do cabelo",
+   "planilha": 50,
+   "exato": 90,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "couro cabeludo muito oleoso",
+   "planilha": 50,
+   "exato": 90,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "como assumir os cabelos brancos",
+   "planilha": 50,
+   "exato": 90,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "ácido salicílico para couro cabeludo",
+   "planilha": 50,
+   "exato": 70,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo em idosos",
+   "planilha": 50,
+   "exato": 50,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "como diminuir a queda de cabelo feminino",
+   "planilha": 50,
+   "exato": 50,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "como evitar calvície masculina",
+   "planilha": 50,
+   "exato": 50,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "tratamento para coceira no couro cabeludo",
+   "planilha": 50,
+   "exato": 50,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo na perimenopausa",
+   "planilha": 50,
+   "exato": 50,
+   "concorrencia": "MEDIUM",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo ao lavar",
+   "planilha": 50,
+   "exato": 40,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "silicio organico para cabelo",
+   "planilha": null,
+   "exato": 40,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo após covid",
+   "planilha": 50,
+   "exato": 30,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo após emagrecimento",
+   "planilha": 50,
+   "exato": 30,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "menopausa e cabelo",
+   "planilha": 50,
+   "exato": 30,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "prolactina e queda de cabelo",
+   "planilha": 50,
+   "exato": 30,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "cabelo depois dos 40",
+   "planilha": 50,
+   "exato": 30,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "cabelo depois dos 50",
+   "planilha": 50,
+   "exato": 30,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo sem motivo aparente",
+   "planilha": 50,
+   "exato": 30,
+   "concorrencia": "MEDIUM",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "cabelo afinando na frente",
+   "planilha": 50,
+   "exato": 30,
+   "concorrencia": "MEDIUM",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo crônica",
+   "planilha": 50,
+   "exato": 30,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo após parar anticoncepcional",
+   "planilha": 50,
+   "exato": 20,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo ao pentear",
+   "planilha": 50,
+   "exato": 20,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo depois dos 40",
+   "planilha": 50,
+   "exato": 20,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "testosterona e cabelo",
+   "planilha": 50,
+   "exato": 20,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "óleo de rícino para crescimento capilar",
+   "planilha": 50,
+   "exato": 20,
+   "concorrencia": "HIGH",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "como tratar entradas no cabelo masculino",
+   "planilha": 50,
+   "exato": 20,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "dht e calvície",
+   "planilha": 50,
+   "exato": 20,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": false
+  },
+  {
+   "frase": "queda de cabelo por anticoncepcional",
+   "planilha": 50,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": true
+  },
+  {
+   "frase": "queda de cabelo por quimioterapia",
+   "planilha": 50,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": true
+  },
+  {
+   "frase": "resistência à insulina e queda de cabelo",
+   "planilha": 50,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": true
+  },
+  {
+   "frase": "couro cabeludo muito seco",
+   "planilha": 50,
+   "exato": 10,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": true
+  },
+  {
+   "frase": "queda de cabelo persistente",
+   "planilha": 50,
+   "exato": 10,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": true
+  },
+  {
+   "frase": "niacinamida para couro cabeludo",
+   "planilha": 50,
+   "exato": 10,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": true
+  },
+  {
+   "frase": "tônico de cafeína",
+   "planilha": 50,
+   "exato": 10,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": true
+  },
+  {
+   "frase": "queda de cabelo hereditaria",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cápsóula para queda de cabelo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  }
+ ]
+}
