@@ -44,3 +44,7 @@ temp/
 
 # Local development
 *.env.local
+
+# coletor local de SERP
+.coletor-perfil/
+.cache/
