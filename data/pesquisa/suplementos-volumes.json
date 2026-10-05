@@ -1,0 +1,2317 @@
+[
+ {
+  "k": "creatina",
+  "v": 673000,
+  "c": "HIGH"
+ },
+ {
+  "k": "melissa",
+  "v": 673000,
+  "c": "HIGH"
+ },
+ {
+  "k": "whey protein",
+  "v": 673000,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina b12",
+  "v": 550000,
+  "c": "HIGH"
+ },
+ {
+  "k": "melatonina",
+  "v": 550000,
+  "c": "LOW"
+ },
+ {
+  "k": "psyllium",
+  "v": 368000,
+  "c": "HIGH"
+ },
+ {
+  "k": "magnésio",
+  "v": 301000,
+  "c": "HIGH"
+ },
+ {
+  "k": "ômega 3",
+  "v": 301000,
+  "c": "HIGH"
+ },
+ {
+  "k": "maca peruana",
+  "v": 301000,
+  "c": "HIGH"
+ },
+ {
+  "k": "ácido fólico",
+  "v": 246000,
+  "c": "HIGH"
+ },
+ {
+  "k": "picolinato de cromo",
+  "v": 201000,
+  "c": "HIGH"
+ },
+ {
+  "k": "coenzima q10",
+  "v": 201000,
+  "c": "HIGH"
+ },
+ {
+  "k": "magnésio dimalato",
+  "v": 165000,
+  "c": "HIGH"
+ },
+ {
+  "k": "metilcobalamina",
+  "v": 165000,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina c",
+  "v": 165000,
+  "c": "HIGH"
+ },
+ {
+  "k": "ashwagandha",
+  "v": 165000,
+  "c": "HIGH"
+ },
+ {
+  "k": "probióticos",
+  "v": 165000,
+  "c": "HIGH"
+ },
+ {
+  "k": "creatina para que serve",
+  "v": 135000,
+  "c": "HIGH"
+ },
+ {
+  "k": "biotina",
+  "v": 135000,
+  "c": "HIGH"
+ },
+ {
+  "k": "feno grego",
+  "v": 135000,
+  "c": "HIGH"
+ },
+ {
+  "k": "cranberry",
+  "v": 135000,
+  "c": "HIGH"
+ },
+ {
+  "k": "complexo b",
+  "v": 135000,
+  "c": "HIGH"
+ },
+ {
+  "k": "metilfolato",
+  "v": 110000,
+  "c": "HIGH"
+ },
+ {
+  "k": "ginkgo biloba",
+  "v": 110000,
+  "c": "HIGH"
+ },
+ {
+  "k": "colágeno tipo 2",
+  "v": 110000,
+  "c": "HIGH"
+ },
+ {
+  "k": "glutamina",
+  "v": 110000,
+  "c": "HIGH"
+ },
+ {
+  "k": "própolis",
+  "v": 110000,
+  "c": "HIGH"
+ },
+ {
+  "k": "cúrcuma",
+  "v": 110000,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina d3",
+  "v": 90500,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina b12 para que serve",
+  "v": 90500,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "resveratrol",
+  "v": 90500,
+  "c": "HIGH"
+ },
+ {
+  "k": "berberina",
+  "v": 90500,
+  "c": "HIGH"
+ },
+ {
+  "k": "beta alanina",
+  "v": 90500,
+  "c": "HIGH"
+ },
+ {
+  "k": "maca peruana para que serve",
+  "v": 90500,
+  "c": "HIGH"
+ },
+ {
+  "k": "magnésio treonato",
+  "v": 74000,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina e",
+  "v": 74000,
+  "c": "HIGH"
+ },
+ {
+  "k": "zinco",
+  "v": 74000,
+  "c": "HIGH"
+ },
+ {
+  "k": "melatonina para que serve",
+  "v": 74000,
+  "c": "LOW"
+ },
+ {
+  "k": "valeriana",
+  "v": 74000,
+  "c": "HIGH"
+ },
+ {
+  "k": "psyllium para que serve",
+  "v": 74000,
+  "c": "HIGH"
+ },
+ {
+  "k": "spirulina",
+  "v": 74000,
+  "c": "HIGH"
+ },
+ {
+  "k": "vinagre de maçã",
+  "v": 74000,
+  "c": "HIGH"
+ },
+ {
+  "k": "silimarina",
+  "v": 74000,
+  "c": "HIGH"
+ },
+ {
+  "k": "alcachofra",
+  "v": 74000,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "gengibre",
+  "v": 74000,
+  "c": "LOW"
+ },
+ {
+  "k": "creatina monohidratada",
+  "v": 60500,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina k2",
+  "v": 60500,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina a",
+  "v": 60500,
+  "c": "HIGH"
+ },
+ {
+  "k": "biotina para que serve",
+  "v": 60500,
+  "c": "HIGH"
+ },
+ {
+  "k": "ferro",
+  "v": 60500,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "picolinato de cromo para que serve",
+  "v": 60500,
+  "c": "HIGH"
+ },
+ {
+  "k": "ômega 3 para que serve",
+  "v": 60500,
+  "c": "HIGH"
+ },
+ {
+  "k": "coenzima q10 para que serve",
+  "v": 60500,
+  "c": "HIGH"
+ },
+ {
+  "k": "triptofano",
+  "v": 60500,
+  "c": "HIGH"
+ },
+ {
+  "k": "passiflora",
+  "v": 60500,
+  "c": "HIGH"
+ },
+ {
+  "k": "msm",
+  "v": 60500,
+  "c": "LOW"
+ },
+ {
+  "k": "taurina",
+  "v": 60500,
+  "c": "HIGH"
+ },
+ {
+  "k": "glutamina para que serve",
+  "v": 60500,
+  "c": "HIGH"
+ },
+ {
+  "k": "arginina",
+  "v": 60500,
+  "c": "HIGH"
+ },
+ {
+  "k": "feno grego para que serve",
+  "v": 60500,
+  "c": "HIGH"
+ },
+ {
+  "k": "colina",
+  "v": 60500,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "magnésio bisglicinato",
+  "v": 49500,
+  "c": "HIGH"
+ },
+ {
+  "k": "magnésio dimalato para que serve",
+  "v": 49500,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina b6",
+  "v": 49500,
+  "c": "HIGH"
+ },
+ {
+  "k": "cromo",
+  "v": 49500,
+  "c": "LOW"
+ },
+ {
+  "k": "potássio",
+  "v": 49500,
+  "c": "LOW"
+ },
+ {
+  "k": "resveratrol para que serve",
+  "v": 49500,
+  "c": "HIGH"
+ },
+ {
+  "k": "berberina para que serve",
+  "v": 49500,
+  "c": "HIGH"
+ },
+ {
+  "k": "n acetilcisteína",
+  "v": 49500,
+  "c": "HIGH"
+ },
+ {
+  "k": "l carnitina",
+  "v": 49500,
+  "c": "HIGH"
+ },
+ {
+  "k": "saw palmetto",
+  "v": 49500,
+  "c": "HIGH"
+ },
+ {
+  "k": "pycnogenol",
+  "v": 49500,
+  "c": "HIGH"
+ },
+ {
+  "k": "colágeno verisol",
+  "v": 49500,
+  "c": "HIGH"
+ },
+ {
+  "k": "magnésio para que serve",
+  "v": 40500,
+  "c": "HIGH"
+ },
+ {
+  "k": "zinco para que serve",
+  "v": 40500,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "boro",
+  "v": 40500,
+  "c": "HIGH"
+ },
+ {
+  "k": "iodo",
+  "v": 40500,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "glicina",
+  "v": 40500,
+  "c": "HIGH"
+ },
+ {
+  "k": "ácido alfa lipóico",
+  "v": 40500,
+  "c": "HIGH"
+ },
+ {
+  "k": "taurina para que serve",
+  "v": 40500,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "bcaa",
+  "v": 40500,
+  "c": "HIGH"
+ },
+ {
+  "k": "cúrcuma para que serve",
+  "v": 40500,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina k",
+  "v": 40500,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "magnésio treonato para que serve",
+  "v": 33100,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina d3 para que serve",
+  "v": 33100,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina k2 para que serve",
+  "v": 33100,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina b1",
+  "v": 33100,
+  "c": "HIGH"
+ },
+ {
+  "k": "ácido fólico para que serve",
+  "v": 33100,
+  "c": "LOW"
+ },
+ {
+  "k": "metilfolato para que serve",
+  "v": 33100,
+  "c": "HIGH"
+ },
+ {
+  "k": "cobre",
+  "v": 33100,
+  "c": "LOW"
+ },
+ {
+  "k": "ginkgo biloba para que serve",
+  "v": 33100,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "l teanina",
+  "v": 33100,
+  "c": "HIGH"
+ },
+ {
+  "k": "gaba",
+  "v": 33100,
+  "c": "HIGH"
+ },
+ {
+  "k": "enzimas digestivas",
+  "v": 33100,
+  "c": "HIGH"
+ },
+ {
+  "k": "lactase",
+  "v": 33100,
+  "c": "HIGH"
+ },
+ {
+  "k": "arginina para que serve",
+  "v": 33100,
+  "c": "HIGH"
+ },
+ {
+  "k": "cafeína",
+  "v": 33100,
+  "c": "HIGH"
+ },
+ {
+  "k": "spirulina para que serve",
+  "v": 33100,
+  "c": "HIGH"
+ },
+ {
+  "k": "ácido ascórbico",
+  "v": 33100,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "levedura de cerveja",
+  "v": 33100,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina e para que serve",
+  "v": 27100,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "selênio",
+  "v": 27100,
+  "c": "HIGH"
+ },
+ {
+  "k": "ashwagandha para que serve",
+  "v": 27100,
+  "c": "HIGH"
+ },
+ {
+  "k": "5 htp",
+  "v": 27100,
+  "c": "HIGH"
+ },
+ {
+  "k": "triptofano para que serve",
+  "v": 27100,
+  "c": "HIGH"
+ },
+ {
+  "k": "valeriana para que serve",
+  "v": 27100,
+  "c": "LOW"
+ },
+ {
+  "k": "glutationa",
+  "v": 27100,
+  "c": "HIGH"
+ },
+ {
+  "k": "hmb",
+  "v": 27100,
+  "c": "HIGH"
+ },
+ {
+  "k": "whey protein para que serve",
+  "v": 27100,
+  "c": "HIGH"
+ },
+ {
+  "k": "chlorella",
+  "v": 27100,
+  "c": "HIGH"
+ },
+ {
+  "k": "silimarina para que serve",
+  "v": 27100,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "complexo b para que serve",
+  "v": 27100,
+  "c": "HIGH"
+ },
+ {
+  "k": "dhea",
+  "v": 27100,
+  "c": "LOW"
+ },
+ {
+  "k": "metilcobalamina para que serve",
+  "v": 22200,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "vitamina b6 para que serve",
+  "v": 22200,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "curcumina",
+  "v": 22200,
+  "c": "HIGH"
+ },
+ {
+  "k": "glicina para que serve",
+  "v": 22200,
+  "c": "HIGH"
+ },
+ {
+  "k": "colágeno hidrolisado",
+  "v": 22200,
+  "c": "HIGH"
+ },
+ {
+  "k": "citrulina",
+  "v": 22200,
+  "c": "HIGH"
+ },
+ {
+  "k": "astaxantina",
+  "v": 22200,
+  "c": "HIGH"
+ },
+ {
+  "k": "mio inositol",
+  "v": 22200,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina a para que serve",
+  "v": 18100,
+  "c": "LOW"
+ },
+ {
+  "k": "quercetina",
+  "v": 18100,
+  "c": "HIGH"
+ },
+ {
+  "k": "cordyceps",
+  "v": 18100,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "prebióticos",
+  "v": 18100,
+  "c": "HIGH"
+ },
+ {
+  "k": "bcaa para que serve",
+  "v": 18100,
+  "c": "HIGH"
+ },
+ {
+  "k": "geleia real",
+  "v": 18100,
+  "c": "HIGH"
+ },
+ {
+  "k": "cranberry para que serve",
+  "v": 18100,
+  "c": "HIGH"
+ },
+ {
+  "k": "same",
+  "v": 18100,
+  "c": "LOW"
+ },
+ {
+  "k": "pycnogenol para que serve",
+  "v": 18100,
+  "c": "HIGH"
+ },
+ {
+  "k": "zma",
+  "v": 18100,
+  "c": "HIGH"
+ },
+ {
+  "k": "levedura de cerveja para que serve",
+  "v": 18100,
+  "c": "HIGH"
+ },
+ {
+  "k": "camu camu",
+  "v": 18100,
+  "c": "HIGH"
+ },
+ {
+  "k": "eletrólitos",
+  "v": 18100,
+  "c": "HIGH"
+ },
+ {
+  "k": "magnésio bisglicinato para que serve",
+  "v": 14800,
+  "c": "HIGH"
+ },
+ {
+  "k": "niacina",
+  "v": 14800,
+  "c": "HIGH"
+ },
+ {
+  "k": "cálcio",
+  "v": 14800,
+  "c": "HIGH"
+ },
+ {
+  "k": "cromo para que serve",
+  "v": 14800,
+  "c": "HIGH"
+ },
+ {
+  "k": "nad",
+  "v": 14800,
+  "c": "HIGH"
+ },
+ {
+  "k": "condroitina",
+  "v": 14800,
+  "c": "HIGH"
+ },
+ {
+  "k": "l carnitina para que serve",
+  "v": 14800,
+  "c": "HIGH"
+ },
+ {
+  "k": "beta alanina para que serve",
+  "v": 14800,
+  "c": "HIGH"
+ },
+ {
+  "k": "hmb para que serve",
+  "v": 14800,
+  "c": "HIGH"
+ },
+ {
+  "k": "própolis para que serve",
+  "v": 14800,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "garcinia cambogia",
+  "v": 14800,
+  "c": "HIGH"
+ },
+ {
+  "k": "fosfatidilserina",
+  "v": 14800,
+  "c": "HIGH"
+ },
+ {
+  "k": "alcachofra para que serve",
+  "v": 14800,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "óleo de prímula",
+  "v": 14800,
+  "c": "HIGH"
+ },
+ {
+  "k": "gengibre para que serve",
+  "v": 14800,
+  "c": "LOW"
+ },
+ {
+  "k": "boro para que serve",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "iodo para que serve",
+  "v": 12100,
+  "c": "LOW"
+ },
+ {
+  "k": "quercetina para que serve",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "5 htp para que serve",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "passiflora para que serve",
+  "v": 12100,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "colágeno tipo 2 para que serve",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "glucosamina",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "inulina",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "ácido alfa lipóico para que serve",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "luteína",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "licopeno",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "saw palmetto para que serve",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "tribulus",
+  "v": 12100,
+  "c": "HIGH"
+ },
+ {
+  "k": "colina para que serve",
+  "v": 12100,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "sais minerais",
+  "v": 12100,
+  "c": "LOW"
+ },
+ {
+  "k": "vitamina b2",
+  "v": 9900,
+  "c": "HIGH"
+ },
+ {
+  "k": "pqq para que serve",
+  "v": 9900,
+  "c": "HIGH"
+ },
+ {
+  "k": "melatonina efeitos colaterais",
+  "v": 9900,
+  "c": "LOW"
+ },
+ {
+  "k": "l teanina para que serve",
+  "v": 9900,
+  "c": "HIGH"
+ },
+ {
+  "k": "gaba para que serve",
+  "v": 9900,
+  "c": "HIGH"
+ },
+ {
+  "k": "colágeno hidrolisado para que serve",
+  "v": 9900,
+  "c": "HIGH"
+ },
+ {
+  "k": "glutationa para que serve",
+  "v": 9900,
+  "c": "HIGH"
+ },
+ {
+  "k": "proteína vegetal",
+  "v": 9900,
+  "c": "HIGH"
+ },
+ {
+  "k": "astaxantina para que serve",
+  "v": 9900,
+  "c": "HIGH"
+ },
+ {
+  "k": "óleo de prímula para que serve",
+  "v": 9900,
+  "c": "HIGH"
+ },
+ {
+  "k": "magnésio citrato",
+  "v": 8100,
+  "c": "HIGH"
+ },
+ {
+  "k": "magnésio citrato para que serve",
+  "v": 8100,
+  "c": "HIGH"
+ },
+ {
+  "k": "magnésio taurato para que serve",
+  "v": 8100,
+  "c": "HIGH"
+ },
+ {
+  "k": "creatina efeitos colaterais",
+  "v": 8100,
+  "c": "LOW"
+ },
+ {
+  "k": "vitamina c para que serve",
+  "v": 8100,
+  "c": "LOW"
+ },
+ {
+  "k": "ferro bisglicinato",
+  "v": 8100,
+  "c": "HIGH"
+ },
+ {
+  "k": "silício orgânico",
+  "v": 8100,
+  "c": "HIGH"
+ },
+ {
+  "k": "pqq",
+  "v": 8100,
+  "c": "HIGH"
+ },
+ {
+  "k": "msm para que serve",
+  "v": 8100,
+  "c": "HIGH"
+ },
+ {
+  "k": "probióticos para que serve",
+  "v": 8100,
+  "c": "HIGH"
+ },
+ {
+  "k": "luteína para que serve",
+  "v": 8100,
+  "c": "HIGH"
+ },
+ {
+  "k": "maca peruana efeitos colaterais",
+  "v": 8100,
+  "c": "LOW"
+ },
+ {
+  "k": "zma para que serve",
+  "v": 8100,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina k para que serve",
+  "v": 8100,
+  "c": "LOW"
+ },
+ {
+  "k": "magnésio taurato",
+  "v": 6600,
+  "c": "HIGH"
+ },
+ {
+  "k": "picolinato de cromo efeitos colaterais",
+  "v": 6600,
+  "c": "LOW"
+ },
+ {
+  "k": "inulina para que serve",
+  "v": 6600,
+  "c": "HIGH"
+ },
+ {
+  "k": "n acetilcisteína para que serve",
+  "v": 6600,
+  "c": "HIGH"
+ },
+ {
+  "k": "chlorella para que serve",
+  "v": 6600,
+  "c": "HIGH"
+ },
+ {
+  "k": "licopeno para que serve",
+  "v": 6600,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "vinagre de maçã para que serve",
+  "v": 6600,
+  "c": "LOW"
+ },
+ {
+  "k": "d ribose",
+  "v": 6600,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina b1 para que serve",
+  "v": 5400,
+  "c": "LOW"
+ },
+ {
+  "k": "niacina para que serve",
+  "v": 5400,
+  "c": "LOW"
+ },
+ {
+  "k": "selênio para que serve",
+  "v": 5400,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "óleo de krill",
+  "v": 5400,
+  "c": "HIGH"
+ },
+ {
+  "k": "ubiquinol",
+  "v": 5400,
+  "c": "HIGH"
+ },
+ {
+  "k": "condroitina para que serve",
+  "v": 5400,
+  "c": "HIGH"
+ },
+ {
+  "k": "glucosamina para que serve",
+  "v": 5400,
+  "c": "HIGH"
+ },
+ {
+  "k": "cafeína para que serve",
+  "v": 5400,
+  "c": "LOW"
+ },
+ {
+  "k": "fosfatidilserina para que serve",
+  "v": 5400,
+  "c": "HIGH"
+ },
+ {
+  "k": "alfa gpc",
+  "v": 5400,
+  "c": "HIGH"
+ },
+ {
+  "k": "ácido fólico na gravidez",
+  "v": 5400,
+  "c": "HIGH"
+ },
+ {
+  "k": "dhea para que serve",
+  "v": 5400,
+  "c": "LOW"
+ },
+ {
+  "k": "bromelaína para que serve",
+  "v": 5400,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "creatina monohidratada para que serve",
+  "v": 4400,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina b2 para que serve",
+  "v": 4400,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "silício orgânico para que serve",
+  "v": 4400,
+  "c": "HIGH"
+ },
+ {
+  "k": "epa e dha",
+  "v": 4400,
+  "c": "HIGH"
+ },
+ {
+  "k": "coenzima q10 efeitos colaterais",
+  "v": 4400,
+  "c": "LOW"
+ },
+ {
+  "k": "bacopa",
+  "v": 4400,
+  "c": "HIGH"
+ },
+ {
+  "k": "lion's mane",
+  "v": 4400,
+  "c": "HIGH"
+ },
+ {
+  "k": "citrulina para que serve",
+  "v": 4400,
+  "c": "HIGH"
+ },
+ {
+  "k": "mio inositol para que serve",
+  "v": 4400,
+  "c": "HIGH"
+ },
+ {
+  "k": "creatina para idosos",
+  "v": 3600,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina b12 efeitos colaterais",
+  "v": 3600,
+  "c": "LOW"
+ },
+ {
+  "k": "citrato de cálcio",
+  "v": 3600,
+  "c": "HIGH"
+ },
+ {
+  "k": "potássio para que serve",
+  "v": 3600,
+  "c": "LOW"
+ },
+ {
+  "k": "nmn",
+  "v": 3600,
+  "c": "HIGH"
+ },
+ {
+  "k": "rhodiola",
+  "v": 3600,
+  "c": "HIGH"
+ },
+ {
+  "k": "enzimas digestivas para que serve",
+  "v": 3600,
+  "c": "HIGH"
+ },
+ {
+  "k": "garcinia cambogia para que serve",
+  "v": 3600,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "citicolina",
+  "v": 3600,
+  "c": "HIGH"
+ },
+ {
+  "k": "d ribose para que serve",
+  "v": 3600,
+  "c": "HIGH"
+ },
+ {
+  "k": "tudca",
+  "v": 3600,
+  "c": "HIGH"
+ },
+ {
+  "k": "multivitamínico",
+  "v": 3600,
+  "c": "HIGH"
+ },
+ {
+  "k": "ácido ascórbico para que serve",
+  "v": 3600,
+  "c": "LOW"
+ },
+ {
+  "k": "pregnenolona",
+  "v": 3600,
+  "c": "HIGH"
+ },
+ {
+  "k": "biotina efeitos colaterais",
+  "v": 2900,
+  "c": "LOW"
+ },
+ {
+  "k": "acetil l carnitina",
+  "v": 2900,
+  "c": "HIGH"
+ },
+ {
+  "k": "tribulus para que serve",
+  "v": 2900,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "espermidina",
+  "v": 2900,
+  "c": "HIGH"
+ },
+ {
+  "k": "same para que serve",
+  "v": 2900,
+  "c": "LOW"
+ },
+ {
+  "k": "magnésio para dormir",
+  "v": 2900,
+  "c": "HIGH"
+ },
+ {
+  "k": "ômega 3 efeitos colaterais",
+  "v": 2400,
+  "c": "LOW"
+ },
+ {
+  "k": "berberina efeitos colaterais",
+  "v": 2400,
+  "c": "LOW"
+ },
+ {
+  "k": "melissa para que serve",
+  "v": 2400,
+  "c": "LOW"
+ },
+ {
+  "k": "lactase para que serve",
+  "v": 2400,
+  "c": "HIGH"
+ },
+ {
+  "k": "geleia real para que serve",
+  "v": 2400,
+  "c": "HIGH"
+ },
+ {
+  "k": "boswellia",
+  "v": 2400,
+  "c": "HIGH"
+ },
+ {
+  "k": "ômega 3 vegano",
+  "v": 2400,
+  "c": "HIGH"
+ },
+ {
+  "k": "ubiquinol para que serve",
+  "v": 1900,
+  "c": "HIGH"
+ },
+ {
+  "k": "nad para que serve",
+  "v": 1900,
+  "c": "HIGH"
+ },
+ {
+  "k": "apigenina",
+  "v": 1900,
+  "c": "HIGH"
+ },
+ {
+  "k": "sulforafano",
+  "v": 1900,
+  "c": "HIGH"
+ },
+ {
+  "k": "fitoesteróis",
+  "v": 1900,
+  "c": "HIGH"
+ },
+ {
+  "k": "ácido fólico efeitos colaterais",
+  "v": 1600,
+  "c": "LOW"
+ },
+ {
+  "k": "cobre para que serve",
+  "v": 1600,
+  "c": "LOW"
+ },
+ {
+  "k": "óleo de krill para que serve",
+  "v": 1600,
+  "c": "HIGH"
+ },
+ {
+  "k": "bacopa para que serve",
+  "v": 1600,
+  "c": "HIGH"
+ },
+ {
+  "k": "reishi",
+  "v": 1600,
+  "c": "HIGH"
+ },
+ {
+  "k": "arginina efeitos colaterais",
+  "v": 1600,
+  "c": "LOW"
+ },
+ {
+  "k": "saw palmetto efeitos colaterais",
+  "v": 1600,
+  "c": "LOW"
+ },
+ {
+  "k": "magnésio dimalato efeitos colaterais",
+  "v": 1300,
+  "c": "LOW"
+ },
+ {
+  "k": "taurina efeitos colaterais",
+  "v": 1300,
+  "c": "LOW"
+ },
+ {
+  "k": "beta alanina efeitos colaterais",
+  "v": 1300,
+  "c": "LOW"
+ },
+ {
+  "k": "camu camu para que serve",
+  "v": 1300,
+  "c": "HIGH"
+ },
+ {
+  "k": "colágeno verisol para que serve",
+  "v": 1300,
+  "c": "HIGH"
+ },
+ {
+  "k": "eletrólitos para que serve",
+  "v": 1300,
+  "c": "HIGH"
+ },
+ {
+  "k": "magnésio para câimbras",
+  "v": 1300,
+  "c": "HIGH"
+ },
+ {
+  "k": "magnésio óxido",
+  "v": 1300,
+  "c": "HIGH"
+ },
+ {
+  "k": "magnésio efeitos colaterais",
+  "v": 1000,
+  "c": "LOW"
+ },
+ {
+  "k": "magnésio treonato efeitos colaterais",
+  "v": 1000,
+  "c": "LOW"
+ },
+ {
+  "k": "nmn para que serve",
+  "v": 1000,
+  "c": "HIGH"
+ },
+ {
+  "k": "glicina efeitos colaterais",
+  "v": 1000,
+  "c": "LOW"
+ },
+ {
+  "k": "gaba efeitos colaterais",
+  "v": 1000,
+  "c": "LOW"
+ },
+ {
+  "k": "valeriana efeitos colaterais",
+  "v": 1000,
+  "c": "LOW"
+ },
+ {
+  "k": "hmb efeitos colaterais",
+  "v": 1000,
+  "c": "LOW"
+ },
+ {
+  "k": "silimarina efeitos colaterais",
+  "v": 1000,
+  "c": "LOW"
+ },
+ {
+  "k": "magnésio bisglicinato efeitos colaterais",
+  "v": 880,
+  "c": "LOW"
+ },
+ {
+  "k": "ferro para que serve",
+  "v": 880,
+  "c": "LOW"
+ },
+ {
+  "k": "cálcio para que serve",
+  "v": 880,
+  "c": "LOW"
+ },
+ {
+  "k": "ginkgo biloba efeitos colaterais",
+  "v": 880,
+  "c": "LOW"
+ },
+ {
+  "k": "5 htp efeitos colaterais",
+  "v": 880,
+  "c": "LOW"
+ },
+ {
+  "k": "triptofano efeitos colaterais",
+  "v": 880,
+  "c": "LOW"
+ },
+ {
+  "k": "prebióticos para que serve",
+  "v": 880,
+  "c": "HIGH"
+ },
+ {
+  "k": "psyllium efeitos colaterais",
+  "v": 880,
+  "c": "LOW"
+ },
+ {
+  "k": "acetil l carnitina para que serve",
+  "v": 880,
+  "c": "HIGH"
+ },
+ {
+  "k": "glutamina efeitos colaterais",
+  "v": 880,
+  "c": "LOW"
+ },
+ {
+  "k": "feno grego efeitos colaterais",
+  "v": 880,
+  "c": "LOW"
+ },
+ {
+  "k": "citicolina para que serve",
+  "v": 880,
+  "c": "HIGH"
+ },
+ {
+  "k": "alfa gpc para que serve",
+  "v": 880,
+  "c": "HIGH"
+ },
+ {
+  "k": "uridina",
+  "v": 880,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "urolitina",
+  "v": 880,
+  "c": "HIGH"
+ },
+ {
+  "k": "tudca para que serve",
+  "v": 880,
+  "c": "HIGH"
+ },
+ {
+  "k": "boswellia para que serve",
+  "v": 880,
+  "c": "HIGH"
+ },
+ {
+  "k": "arroz vermelho fermentado",
+  "v": 880,
+  "c": "HIGH"
+ },
+ {
+  "k": "quercetina efeitos colaterais",
+  "v": 720,
+  "c": "LOW"
+ },
+ {
+  "k": "curcumina para que serve",
+  "v": 720,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "ashwagandha efeitos colaterais",
+  "v": 720,
+  "c": "LOW"
+ },
+ {
+  "k": "cordyceps para que serve",
+  "v": 720,
+  "c": "HIGH"
+ },
+ {
+  "k": "bromelaína",
+  "v": 720,
+  "c": "HIGH"
+ },
+ {
+  "k": "l carnitina efeitos colaterais",
+  "v": 720,
+  "c": "LOW"
+ },
+ {
+  "k": "whey protein efeitos colaterais",
+  "v": 720,
+  "c": "LOW"
+ },
+ {
+  "k": "spirulina efeitos colaterais",
+  "v": 720,
+  "c": "LOW"
+ },
+ {
+  "k": "fisetina",
+  "v": 720,
+  "c": "HIGH"
+ },
+ {
+  "k": "complexo b efeitos colaterais",
+  "v": 720,
+  "c": "LOW"
+ },
+ {
+  "k": "vitamina d3 efeitos colaterais",
+  "v": 590,
+  "c": "LOW"
+ },
+ {
+  "k": "metilcobalamina efeitos colaterais",
+  "v": 590,
+  "c": "LOW"
+ },
+ {
+  "k": "passiflora efeitos colaterais",
+  "v": 590,
+  "c": "LOW"
+ },
+ {
+  "k": "enzimas digestivas efeitos colaterais",
+  "v": 590,
+  "c": "LOW"
+ },
+ {
+  "k": "cafeína efeitos colaterais",
+  "v": 590,
+  "c": "LOW"
+ },
+ {
+  "k": "astaxantina efeitos colaterais",
+  "v": 590,
+  "c": "LOW"
+ },
+ {
+  "k": "multivitamínico para que serve",
+  "v": 590,
+  "c": "HIGH"
+ },
+ {
+  "k": "cúrcuma efeitos colaterais",
+  "v": 590,
+  "c": "LOW"
+ },
+ {
+  "k": "gengibre efeitos colaterais",
+  "v": 590,
+  "c": "LOW"
+ },
+ {
+  "k": "nitrato beterraba",
+  "v": 590,
+  "c": "HIGH"
+ },
+ {
+  "k": "pregnenolona para que serve",
+  "v": 590,
+  "c": "HIGH"
+ },
+ {
+  "k": "zinco efeitos colaterais",
+  "v": 480,
+  "c": "LOW"
+ },
+ {
+  "k": "ferro bisglicinato para que serve",
+  "v": 480,
+  "c": "HIGH"
+ },
+ {
+  "k": "selênio efeitos colaterais",
+  "v": 480,
+  "c": "LOW"
+ },
+ {
+  "k": "silício orgânico efeitos colaterais",
+  "v": 480,
+  "c": "LOW"
+ },
+ {
+  "k": "pqq efeitos colaterais",
+  "v": 480,
+  "c": "LOW"
+ },
+ {
+  "k": "rhodiola para que serve",
+  "v": 480,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "l teanina efeitos colaterais",
+  "v": 480,
+  "c": "LOW"
+ },
+ {
+  "k": "ácido hialurônico oral",
+  "v": 480,
+  "c": "HIGH"
+ },
+ {
+  "k": "fosfatidilserina efeitos colaterais",
+  "v": 480,
+  "c": "LOW"
+ },
+ {
+  "k": "apigenina para que serve",
+  "v": 390,
+  "c": "HIGH"
+ },
+ {
+  "k": "bcaa efeitos colaterais",
+  "v": 390,
+  "c": "LOW"
+ },
+ {
+  "k": "alho em cápsula",
+  "v": 390,
+  "c": "HIGH"
+ },
+ {
+  "k": "pycnogenol efeitos colaterais",
+  "v": 390,
+  "c": "LOW"
+ },
+ {
+  "k": "ferro na gravidez",
+  "v": 390,
+  "c": "LOW"
+ },
+ {
+  "k": "vitamina d para idosos",
+  "v": 390,
+  "c": "HIGH"
+ },
+ {
+  "k": "cálcio para osteoporose",
+  "v": 390,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina c efeitos colaterais",
+  "v": 320,
+  "c": "LOW"
+ },
+ {
+  "k": "vitamina e efeitos colaterais",
+  "v": 320,
+  "c": "LOW"
+ },
+ {
+  "k": "metilfolato efeitos colaterais",
+  "v": 320,
+  "c": "LOW"
+ },
+ {
+  "k": "citrato de cálcio para que serve",
+  "v": 320,
+  "c": "HIGH"
+ },
+ {
+  "k": "msm efeitos colaterais",
+  "v": 320,
+  "c": "LOW"
+ },
+ {
+  "k": "fisetina para que serve",
+  "v": 320,
+  "c": "HIGH"
+ },
+ {
+  "k": "lion's mane para que serve",
+  "v": 320,
+  "c": "HIGH"
+ },
+ {
+  "k": "urolitina para que serve",
+  "v": 320,
+  "c": "HIGH"
+ },
+ {
+  "k": "espermidina para que serve",
+  "v": 320,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina k2 efeitos colaterais",
+  "v": 260,
+  "c": "LOW"
+ },
+ {
+  "k": "resveratrol efeitos colaterais",
+  "v": 260,
+  "c": "LOW"
+ },
+ {
+  "k": "reishi para que serve",
+  "v": 260,
+  "c": "HIGH"
+ },
+ {
+  "k": "glutationa efeitos colaterais",
+  "v": 260,
+  "c": "LOW"
+ },
+ {
+  "k": "mio inositol efeitos colaterais",
+  "v": 260,
+  "c": "LOW"
+ },
+ {
+  "k": "garcinia cambogia efeitos colaterais",
+  "v": 260,
+  "c": "LOW"
+ },
+ {
+  "k": "uridina para que serve",
+  "v": 260,
+  "c": "LOW"
+ },
+ {
+  "k": "zma efeitos colaterais",
+  "v": 260,
+  "c": "LOW"
+ },
+ {
+  "k": "cálcio efeitos colaterais",
+  "v": 210,
+  "c": "LOW"
+ },
+ {
+  "k": "curcumina efeitos colaterais",
+  "v": 210,
+  "c": "LOW"
+ },
+ {
+  "k": "colágeno tipo 2 efeitos colaterais",
+  "v": 210,
+  "c": "LOW"
+ },
+ {
+  "k": "própolis efeitos colaterais",
+  "v": 210,
+  "c": "LOW"
+ },
+ {
+  "k": "dim diindolilmetano",
+  "v": 210,
+  "c": "HIGH"
+ },
+ {
+  "k": "sulforafano para que serve",
+  "v": 210,
+  "c": "HIGH"
+ },
+ {
+  "k": "colina efeitos colaterais",
+  "v": 210,
+  "c": "LOW"
+ },
+ {
+  "k": "magnésio taurato efeitos colaterais",
+  "v": 170,
+  "c": "LOW"
+ },
+ {
+  "k": "niacina efeitos colaterais",
+  "v": 170,
+  "c": "LOW"
+ },
+ {
+  "k": "n acetilcisteína efeitos colaterais",
+  "v": 170,
+  "c": "LOW"
+ },
+ {
+  "k": "chá verde extrato",
+  "v": 170,
+  "c": "HIGH"
+ },
+ {
+  "k": "d ribose efeitos colaterais",
+  "v": 170,
+  "c": "LOW"
+ },
+ {
+  "k": "vitamina de k2",
+  "v": 170,
+  "c": "HIGH"
+ },
+ {
+  "k": "dhea efeitos colaterais",
+  "v": 170,
+  "c": "LOW"
+ },
+ {
+  "k": "ácido alfa lipóico efeitos colaterais",
+  "v": 140,
+  "c": "LOW"
+ },
+ {
+  "k": "citrulina efeitos colaterais",
+  "v": 140,
+  "c": "LOW"
+ },
+ {
+  "k": "chlorella efeitos colaterais",
+  "v": 140,
+  "c": "LOW"
+ },
+ {
+  "k": "cranberry efeitos colaterais",
+  "v": 140,
+  "c": "LOW"
+ },
+ {
+  "k": "óleo de prímula efeitos colaterais",
+  "v": 140,
+  "c": "LOW"
+ },
+ {
+  "k": "levedura de cerveja efeitos colaterais",
+  "v": 140,
+  "c": "LOW"
+ },
+ {
+  "k": "bicarbonato de sódio suplemento",
+  "v": 140,
+  "c": "HIGH"
+ },
+ {
+  "k": "óleo de krill efeitos colaterais",
+  "v": 110,
+  "c": "LOW"
+ },
+ {
+  "k": "glucosamina efeitos colaterais",
+  "v": 110,
+  "c": "LOW"
+ },
+ {
+  "k": "probióticos efeitos colaterais",
+  "v": 110,
+  "c": "LOW"
+ },
+ {
+  "k": "lactase efeitos colaterais",
+  "v": 110,
+  "c": "LOW"
+ },
+ {
+  "k": "licopeno efeitos colaterais",
+  "v": 110,
+  "c": "LOW"
+ },
+ {
+  "k": "citicolina efeitos colaterais",
+  "v": 110,
+  "c": "LOW"
+ },
+ {
+  "k": "same efeitos colaterais",
+  "v": 110,
+  "c": "LOW"
+ },
+ {
+  "k": "alcachofra efeitos colaterais",
+  "v": 110,
+  "c": "LOW"
+ },
+ {
+  "k": "pregnenolona efeitos colaterais",
+  "v": 110,
+  "c": "LOW"
+ },
+ {
+  "k": "creatina monohidratada efeitos colaterais",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "vitamina b6 efeitos colaterais",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "vitamina a efeitos colaterais",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "ferro efeitos colaterais",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "cromo efeitos colaterais",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "boro efeitos colaterais",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "colágeno hidrolisado efeitos colaterais",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "condroitina efeitos colaterais",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "luteína efeitos colaterais",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "tribulus efeitos colaterais",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "vitamina k efeitos colaterais",
+  "v": 90,
+  "c": "LOW"
+ },
+ {
+  "k": "iodo efeitos colaterais",
+  "v": 70,
+  "c": "LOW"
+ },
+ {
+  "k": "nmn efeitos colaterais",
+  "v": 70,
+  "c": "LOW"
+ },
+ {
+  "k": "alho em cápsula para que serve",
+  "v": 70,
+  "c": "HIGH"
+ },
+ {
+  "k": "tudca efeitos colaterais",
+  "v": 70,
+  "c": "LOW"
+ },
+ {
+  "k": "fitoesteróis para que serve",
+  "v": 70,
+  "c": "LOW"
+ },
+ {
+  "k": "monacolina",
+  "v": 70,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "nad efeitos colaterais",
+  "v": 70,
+  "c": "LOW"
+ },
+ {
+  "k": "betaína tmg",
+  "v": 70,
+  "c": "HIGH"
+ },
+ {
+  "k": "b12 para idosos",
+  "v": 70,
+  "c": "HIGH"
+ },
+ {
+  "k": "vitamina b1 efeitos colaterais",
+  "v": 50,
+  "c": "LOW"
+ },
+ {
+  "k": "ferro bisglicinato efeitos colaterais",
+  "v": 50,
+  "c": "LOW"
+ },
+ {
+  "k": "cordyceps efeitos colaterais",
+  "v": 50,
+  "c": "LOW"
+ },
+ {
+  "k": "acetil l carnitina efeitos colaterais",
+  "v": 50,
+  "c": "LOW"
+ },
+ {
+  "k": "sais minerais para que serve",
+  "v": 50,
+  "c": "LOW"
+ },
+ {
+  "k": "magnésio óxido para que serve",
+  "v": 50,
+  "c": "LOW"
+ },
+ {
+  "k": "magnésio citrato efeitos colaterais",
+  "v": 40,
+  "c": "LOW"
+ },
+ {
+  "k": "inulina efeitos colaterais",
+  "v": 40,
+  "c": "LOW"
+ },
+ {
+  "k": "multivitamínico efeitos colaterais",
+  "v": 40,
+  "c": "LOW"
+ },
+ {
+  "k": "camu camu efeitos colaterais",
+  "v": 40,
+  "c": "LOW"
+ },
+ {
+  "k": "arroz vermelho fermentado para que serve",
+  "v": 40,
+  "c": "HIGH"
+ },
+ {
+  "k": "bacopa efeitos colaterais",
+  "v": 30,
+  "c": "LOW"
+ },
+ {
+  "k": "melissa efeitos colaterais",
+  "v": 30,
+  "c": "LOW"
+ },
+ {
+  "k": "proteína vegetal para que serve",
+  "v": 30,
+  "c": "HIGH"
+ },
+ {
+  "k": "geleia real efeitos colaterais",
+  "v": 30,
+  "c": "LOW"
+ },
+ {
+  "k": "ácido ascórbico efeitos colaterais",
+  "v": 30,
+  "c": "LOW"
+ },
+ {
+  "k": "lion's mane efeitos colaterais",
+  "v": 30,
+  "c": "LOW"
+ },
+ {
+  "k": "dim diindolilmetano para que serve",
+  "v": 30,
+  "c": "HIGH"
+ },
+ {
+  "k": "espermidina efeitos colaterais",
+  "v": 30,
+  "c": "LOW"
+ },
+ {
+  "k": "vitamina b2 efeitos colaterais",
+  "v": 20,
+  "c": "LOW"
+ },
+ {
+  "k": "cobre efeitos colaterais",
+  "v": 20,
+  "c": "LOW"
+ },
+ {
+  "k": "ubiquinol efeitos colaterais",
+  "v": 20,
+  "c": "LOW"
+ },
+ {
+  "k": "rhodiola efeitos colaterais",
+  "v": 20,
+  "c": "LOW"
+ },
+ {
+  "k": "fisetina efeitos colaterais",
+  "v": 20,
+  "c": "LOW"
+ },
+ {
+  "k": "zinco e imunidade",
+  "v": 20,
+  "c": "MEDIUM"
+ },
+ {
+  "k": "citrato de cálcio efeitos colaterais",
+  "v": 20,
+  "c": "LOW"
+ },
+ {
+  "k": "ácido hialurônico oral para que serve",
+  "v": 20,
+  "c": "HIGH"
+ },
+ {
+  "k": "alfa gpc efeitos colaterais",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "sulforafano efeitos colaterais",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "boswellia efeitos colaterais",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "fitoesteróis efeitos colaterais",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "vitamina ce imunidade",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "potássio efeitos colaterais",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "reishi efeitos colaterais",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "apigenina efeitos colaterais",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "vinagre de maçã efeitos colaterais",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "betaína tmg para que serve",
+  "v": 10,
+  "c": "HIGH"
+ },
+ {
+  "k": "ômega 3 vegano para que serve",
+  "v": 10,
+  "c": "HIGH"
+ },
+ {
+  "k": "colágeno verisol efeitos colaterais",
+  "v": 10,
+  "c": "LOW"
+ },
+ {
+  "k": "magnésio óxido efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "ácido hialurônico oral efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "prebióticos efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "bromelaína efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "proteína vegetal efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "tongkat ali",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "tongkat ali para que serve",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "tongkat ali efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "dim diindolilmetano efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "alho em cápsula efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "chá verde extrato para que serve",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "chá verde extrato efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "uridina efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "urolitina efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "betaína tmg efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "ômega 3 vegano efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "monacolina para que serve",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "monacolina efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "arroz vermelho fermentado efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "nitrato beterraba para que serve",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "nitrato beterraba efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "bicarbonato de sódio suplemento para que serve",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "bicarbonato de sódio suplemento efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "eletrólitos efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "sais minerais efeitos colaterais",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "iodo e tireoide",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "selênio e tireoide",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "magnésio para ansiedade",
+  "v": 0,
+  "c": null
+ },
+ {
+  "k": "vitamina d para depressão",
+  "v": 0,
+  "c": null
+ }
+]
