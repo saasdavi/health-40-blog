@@ -94,7 +94,8 @@ async function main() {
   }
   const pegarHtml = async (url) => {
     if (MOCK) return url.includes('google') ? fix('serp.html') : fix('pagina.html');
-    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
+    const resp = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
+    if (resp && resp.status() >= 400 && !/google\./.test(url)) throw new Error(`página não existe ou bloqueou (HTTP ${resp.status()})`);
     if (/consent\.google/.test(page.url())) { try { await page.getByRole('button', { name: /Aceitar tudo|Rejeitar tudo|Accept all|Reject all/i }).first().click({ timeout: 8000 }); } catch {} }
     await page.waitForLoadState('networkidle', { timeout: 15000 }).catch(() => {});
     return page.content();
