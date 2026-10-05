@@ -7,24 +7,17 @@ Origem: 100 macro-temas da planilha de 25.000 linhas (combinatória, não é dem
 | constipação o que é | 33.100 | ↓ |
 | café da manha saudavel | 22.200 | ↓ |
 | chá para dor de cabeça | 14.800 |  |
-| dia mundial da água | 14.800 |  |
 | chá para secar barriga | 14.800 | ↓ |
 | chá para pressão alta | 14.800 |  |
 | chá dente de leão | 14.800 | ↓ |
 | chá para desinchar a barriga | 12.100 | ↓ |
 | frutas que soltam o intestino | 12.100 |  |
 | jejum intermitente como fazer | 12.100 | ↓ |
-| whey protein zero lactose | 12.100 |  |
-| whey protein 0 lactose | 12.100 |  |
 | gordura abdominal como perder | 9.900 |  |
-| lanches proximo a mim | 9.900 |  |
 | proteina isolada de soja | 9.900 | ↑ |
 | peso ideal por altura | 9.900 |  |
 | gordura visceral o que é | 8.100 |  |
-| estação de tratamento de água | 8.100 |  |
-| lanche proximo de mim | 8.100 |  |
 | dieta para perder barriga | 8.100 | ↓ |
-| whey protein sem lactose | 8.100 |  |
 | lanche da tarde saudavel | 6.600 | ↓ |
 | chá seca barriga caseiro em 4 dias | 6.600 | ↓ |
 | dieta para emagrecer rapido | 6.600 | ↓ |
@@ -32,7 +25,6 @@ Origem: 100 macro-temas da planilha de 25.000 linhas (combinatória, não é dem
 | jejum intermitente como funciona | 6.600 | ↓ |
 | peso ideal para altura | 6.600 |  |
 | alimentos ricos em carboidratos | 6.600 | ↓ |
-| whey protein para emagrecer | 5.400 |  |
 | cha para emagrecer rapido | 5.400 | ↓ |
 | cafe da manha para diabeticos | 5.400 |  |
 | dieta para ganhar massa muscular | 5.400 | ↓ |
@@ -40,19 +32,14 @@ Origem: 100 macro-temas da planilha de 25.000 linhas (combinatória, não é dem
 | gordura visceral como eliminar | 4.400 |  |
 | gordura visceral como perder | 4.400 |  |
 | chá para desinchar e emagrecer | 4.400 | ↑ |
-| café da manhã de aniversário | 4.400 |  |
 | chá para desinchar o corpo | 4.400 | ↓ |
-| alimentação saudavel educação infantil | 4.400 | ↓ |
 | não quero emagrecer quero perder barriga | 4.400 | ↓ |
-| alimentação saudável na educação infantil | 4.400 | ↓ |
 | gordura na barriga como perder | 3.600 | ↓ |
 | gordura da barriga como perder | 3.600 | ↓ |
-| melhor whey para emagrecer | 3.600 | ↓ |
 | calcular taxa metabólica basal | 3.600 | ↓ |
 | lanches saudaveis para criancas | 3.600 | ↓ |
 | taxa metabólica basal calculadora | 3.600 |  |
 | chá para perder barriga | 3.600 | ↓ |
-| almoço dia das mães | 3.600 | ↑ |
 | dieta de 1200 calorias | 3.600 | ↓ |
 | peso ideal para cada altura | 3.600 |  |
 | lanche saudavel para criança | 3.600 | ↓ |
@@ -65,7 +52,6 @@ Origem: 100 macro-temas da planilha de 25.000 linhas (combinatória, não é dem
 | contador de calorias gratuito | 2.400 | ↓ |
 | taxa de metabolismo basal | 2.400 | ↓ |
 | 7 exercícios para perder barriga | 2.400 | ↓ |
-| cafe da manha dia das maes | 2.400 | ↑ |
 | chá caseiro para emagrecer | 2.400 | ↓ |
 | cha natural para emagrecer | 2.400 | ↓ |
 | chá que ajuda a emagrecer | 2.400 | ↓ |
@@ -78,8 +64,6 @@ Origem: 100 macro-temas da planilha de 25.000 linhas (combinatória, não é dem
 | benefícios do jejum intermitente | 2.400 | ↓ |
 | gordura da barriga como eliminar | 1.900 |  |
 | gordura na barriga como eliminar | 1.900 |  |
-| melhor suplemento para queimar gordura abdominal | 1.900 | ↓ |
-| suplemento alimentar para emagrecer | 1.900 | ↓ |
 | remedios que ajudam a emagrecer | 1.900 | ↓ |
 | calculadora de gasto calorico | 1.900 | ↓ |
 | café da manhã saudável de pobre | 1.900 |  |
@@ -88,54 +72,37 @@ Origem: 100 macro-temas da planilha de 25.000 linhas (combinatória, não é dem
 | tabela nutricional dos alimentos | 1.900 | ↓ |
 | alimentos que ajudam a emagrecer | 1.900 | ↓ |
 | proteina vegetal em pó | 1.900 |  |
-| dux nutrition whey protein isolado | 1.900 |  |
-| nutridrink protein sem sabor | 1.900 |  |
 | dieta cetogenica como funciona | 1.900 | ↓ |
 | dieta cetogênica como fazer | 1.900 | ↓ |
 | gordura localizada na barriga | 1.600 | ↓ |
-| melhor whey protein para emagrecer | 1.600 | ↓ |
 | simulador de caminhada emagrece | 1.600 |  |
 | produtos naturais para emagrecer | 1.600 | ↓ |
 | lanches saudaveis para tarde | 1.600 |  |
 | jantar saudável para emagrecer | 1.600 | ↓ |
-| nutricionista em porto alegre | 1.600 |  |
-| melhor whey protein isolado para emagrecer | 1.600 |  |
 | calculo de deficit calorico | 1.600 |  |
 | opções de jantar saudável | 1.600 | ↓ |
 | opções de lanches saudáveis | 1.600 | ↓ |
 | planejamento alimentar para emagrecer | 1.600 | ↓ |
 | jantar rápido e saudável | 1.600 |  |
 | cardapio da semana saudavel | 1.600 | ↓ |
-| tabela nutricional coca cola | 1.600 | ↓ |
 | lanches saudáveis e práticos | 1.600 |  |
 | chá para dor de cabeça forte | 1.600 |  |
 | dieta low carb cardápio | 1.600 | ↓ |
 | dieta de 1500 calorias | 1.600 | ↓ |
 | jejum intermitente para emagrecer | 1.600 | ↓ |
-| whey zero lactose probiótica | 1.600 |  |
-| whey isolado sem lactose | 1.600 |  |
-| whey isolado zero lactose | 1.600 | ↑ |
-| whey protein zero açúcar | 1.600 |  |
 | dieta cetogenica o que é | 1.600 | ↓ |
 | alimentos que não contem gluten | 1.600 |  |
 | café da manhã low carb | 1.600 | ↓ |
 | alimentos que não tem glúten | 1.600 | ↓ |
 | alimentos nao contem gluten | 1.600 |  |
 | compulsão o que é | 1.300 |  |
-| melhor suplemento para emagrecer | 1.300 | ↓ |
 | calculadora de calorias dos alimentos | 1.300 | ↓ |
 | remedios naturais para emagrecer | 1.300 | ↓ |
-| melhor pré treino para emagrecer | 1.300 | ↓ |
-| suplementos para queimar gordura | 1.300 | ↓ |
-| whey ajuda a emagrecer | 1.300 | ↓ |
 | receitas de lanches saudaveis | 1.300 | ↓ |
 | lanche da tarde fit | 1.300 | ↓ |
-| cafe da manha em sao paulo | 1.300 | ↓ |
-| cafe da manha sao paulo | 1.300 | ↓ |
 | dieta de 1000 calorias | 1.300 | ↓ |
 | dieta para secar barriga | 1.300 | ↓ |
 | cardapio de dieta para emagrecer | 1.300 | ↓ |
-| suplemento para queimar gordura | 1.300 | ↓ |
 | dieta para emagrecer em 7 dias | 1.300 | ↓ |
 | déficit calórico como fazer | 1.300 | ↓ |
 | alimentação saudavel para crianças | 1.300 | ↓ |
@@ -144,25 +111,16 @@ Origem: 100 macro-temas da planilha de 25.000 linhas (combinatória, não é dem
 | alimentacao para perder barriga | 1.000 | ↓ |
 | compulsao alimentar o que é | 1.000 |  |
 | treino para emagrecer na academia | 1.000 | ↓ |
-| suplementos para emagrecer feminino | 1.000 | ↓ |
-| suplementos que ajudam a emagrecer | 1.000 |  |
-| melhor whey protein feminino para emagrecer | 1.000 |  |
-| suplemento para emagrecer rápido | 1.000 | ↓ |
 | calculadora de déficit calórico | 1.000 | ↓ |
-| suplemento para ajudar a emagrecer | 1.000 |  |
 | chá que emagrece 1kg por dia | 1.000 | ↓ |
 | chá relaxante muscular e antiinflamatório | 1.000 | ↓ |
 | chá poderoso para aumentar a imunidade | 1.000 |  |
 | reeducação alimentar para emagrecer | 1.000 | ↓ |
 | dieta simples para emagrecer | 1.000 | ↓ |
-| whey protein isolado zero lactose | 1.000 |  |
-| whey protein isolado sem lactose | 1.000 |  |
 | cardapio para ganho de massa muscular | 1.000 | ↓ |
 | alimentos para perder barriga | 1.000 | ↓ |
 | alimentação para ganhar massa | 1.000 | ↓ |
 | lista de dieta para emagrecer | 1.000 |  |
-| whey com mais proteina | 1.000 |  |
-| whey protein para idosos | 1.000 |  |
 | proteina de colageno equaliv | 1.000 |  |
 | dieta para perder barriga e ganhar massa muscular | 1.000 | ↓ |
 | constipação intestinal o que fazer | 1.000 |  |
@@ -176,8 +134,6 @@ Origem: 100 macro-temas da planilha de 25.000 linhas (combinatória, não é dem
 | manchas de resistencia a insulina | 880 | ↑ |
 | calcular calorias dos alimentos | 880 | ↓ |
 | dieta saudável para emagrecer | 880 | ↓ |
-| pré treino para emagrecer | 880 | ↓ |
-| nutricionista em são paulo | 880 |  |
 | proteína de soja tabela nutricional | 880 |  |
 | agua potavel e saneamento | 880 | ↓ |
 | cha de boldo aborta | 880 | ↓ |
@@ -195,18 +151,14 @@ Origem: 100 macro-temas da planilha de 25.000 linhas (combinatória, não é dem
 | abdominal para queimar gordura | 720 |  |
 | fazer abdominais perde barriga | 720 |  |
 | melhores remedios para emagrecer | 720 | ↓ |
-| melhores suplementos para emagrecer | 720 | ↓ |
 | alimentação saudavel para emagrecer | 720 | ↓ |
 | alimentos saudáveis para emagrecer | 720 | ↓ |
 | café da manhã saudável simples | 720 |  |
 | cardápio semanal saudável simples e barato | 720 | ↓ |
 | calculadora de calorias online | 720 | ↓ |
-| suplemento natural para emagrecer | 720 | ↓ |
 | complemento alimentar para idosos | 720 |  |
 | taxa metabólica basal emagrecer | 720 | ↓ |
-| suplemento que ajuda a emagrecer | 720 | ↓ |
 | déficit calórico como calcular | 720 | ↓ |
-| whey para quem quer emagrecer | 720 |  |
 | calcular calorias de alimentos | 720 | ↓ |
 | receitas saudáveis para jantar | 720 |  |
 | calculadora de calorias diárias | 720 | ↓ |
@@ -235,20 +187,12 @@ Origem: 100 macro-temas da planilha de 25.000 linhas (combinatória, não é dem
 | queima de gordura abdominal | 590 | ↓ |
 | abdominal queima gordura da barriga | 590 |  |
 | geografia da fome josué de castro | 590 | ↑ |
-| nutricionista em santo andre | 590 | ↓ |
-| suplemento para acelerar o metabolismo | 590 | ↓ |
-| nutricionista em nova iguaçu | 590 | ↓ |
 | receitas de café da manhã saudável | 590 |  |
 | receitas saudáveis para café da manhã | 590 |  |
-| nutricionista em ribeirão preto | 590 |  |
 | tabela de horário de refeições para emagrecer | 590 | ↓ |
-| whey protein ajuda a emagrecer | 590 |  |
 | opções de lanche da tarde saudável | 590 |  |
 | jantar leve e saudável | 590 |  |
-| suplemento para tirar a fome | 590 |  |
 | jantar saudavel e gostoso | 590 | ↓ |
-| tele entrega de lanches mais próximo | 590 |  |
-| disk lanche mais próximo | 590 | ↓ |
 | chá caseiro para enxaqueca | 590 |  |
 | emagrecer em 30 dias | 590 | ↓ |
 | emagrecer 8 kg em 4 dias | 590 | ↓ |
