@@ -35,6 +35,9 @@ for (const nome of arquivos) {
     const pauta = robot.kw.find((k) => k.keyword.toLowerCase() === keyword.toLowerCase()) || { keyword, volume: null, cluster: get('CLUSTER') || null };
     if (pauta.sensivel && pauta.revisar && get('REVISADO') !== 'sim') throw new Error('pauta sensível: precisa de revisão humana (adicione "REVISADO: sim" no cabeçalho depois de revisar)');
     if (/<Article[A-Za-z]*|<hr\b|<h1\b/i.test(d.body)) throw new Error('o HTML tem componentes de código (<Article...>), <hr> ou <h1>: peça à IA HTML simples (veja data/entrada/MODELO-PARA-A-IA.md)');
+    const cab = raw.slice(0, raw.indexOf('\n---\n'));
+    const concorrentes = [...cab.matchAll(/^CONCORRENTE:\s*(.+)$/gm)].map((m) => m[1].trim());
+    const lacunas = [...cab.matchAll(/^LACUNA:\s*(.+)$/gm)].map((m) => m[1].trim());
     const dem = demandaDe(keyword);
     if (pauta.volume == null && dem) pauta.volume = dem.volume;
     console.log(`  demanda: ${dem ? `${dem.volume} buscas/mês (${dem.classe}${dem.tendencia ? ', ' + dem.tendencia : ''}${dem.porSimilar ? ', por frase parecida: ' + dem.frase : ''})` : 'NÃO MEDIDA (palavra-chave fora de data/pesquisa/demanda-validada.json)'}`);
@@ -50,7 +53,7 @@ for (const nome of arquivos) {
     const agora = new Date().toISOString();
     delete art.bodyOriginal; delete art._substitui;
     Object.assign(art, { status: 'draft', estoque: true, estocadoEm: agora, scores: { auditoria: aud.nota, demanda: dem ? dem.classe : 'não medida', total: pont.total, decisao: pont.decisao, partes: pont.partes, atencao: pont.motivos.slice(0, 8) }, validador: 'Auditoria automática (sem API); texto escrito fora do robô', origem: 'importado',
-      validacao: { palavraChave: keyword, demanda: dem ? { volume: dem.volume, classe: dem.classe, tendencia: dem.tendencia, concorrencia: dem.concorrencia, fonte: dem.fonte, fraseMedida: dem.frase, porSimilar: dem.porSimilar } : { classe: 'não medida' }, volume: pauta.volume, cluster: pauta.cluster, apoio: (pauta.secundarias || []).map((x) => x.palavra), perguntasDoGoogle: pauta.absorve || [], serp: pauta.serp || null, fontesDaPauta: fontes.map((f) => f.url), notas: pauta.notas || '', briefing: robot.readJson(`data/briefings/${slugify(keyword)}.json`, null), validadoEm: agora, observacao: 'originalidade contra o concorrente não conferida automaticamente' } });
+      validacao: { palavraChave: keyword, demanda: dem ? { volume: dem.volume, classe: dem.classe, tendencia: dem.tendencia, concorrencia: dem.concorrencia, fonte: dem.fonte, fraseMedida: dem.frase, porSimilar: dem.porSimilar } : { classe: 'não medida' }, volume: pauta.volume, cluster: pauta.cluster, apoio: (pauta.secundarias || []).map((x) => x.palavra), perguntasDoGoogle: pauta.absorve || [], concorrentes: concorrentes.length ? concorrentes : 'não informado (concorrente não conferido)', lacunasCobertas: lacunas, serp: pauta.serp || null, fontesDaPauta: fontes.map((f) => f.url), notas: pauta.notas || '', briefing: robot.readJson(`data/briefings/${slugify(keyword)}.json`, null), validadoEm: agora, observacao: 'originalidade contra o concorrente não conferida automaticamente' } });
     const i = robot.db.articles.findIndex((x) => x.slug === art.slug);
     if (i >= 0) { art.createdAt = robot.db.articles[i].createdAt || art.createdAt; robot.db.articles[i] = art; } else robot.db.articles.push(art);
     robot.gravar();

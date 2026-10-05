@@ -1,3 +1,5 @@
+> **Versão nova e completa (concorrência + artigo + autopontuação): veja `PROMPT-MESTRE.md`.** Este modelo antigo continua valendo para artigos simples.
+
 # Prompt para colar na ChatGPT / Gemini (artigo no padrão do blog)
 
 Escreva um artigo em português do Brasil sobre: **[PALAVRA-CHAVE]**, para pessoas de 40+ anos.
