@@ -31,17 +31,34 @@ Regras: só liste páginas que você realmente abriu. Nunca invente URL nem núm
 ## PROMPT 2: escrever o artigo (cole no GPT, DeepSeek ou Qwen)
 
 ```
-Você é redator do blog Saúde 40+ (público de 40+ anos, português do Brasil). Escreva UM artigo sobre [PALAVRA-CHAVE] (demanda: [VOLUME] buscas/mês; tema: [TEMA]).
+Você é redator do blog Saúde 40+ (público de 40+ anos, português do Brasil). Escreva UM artigo sobre [PALAVRA-CHAVE]. Seu trabalho é concluir os dados abaixo em um artigo que seja MELHOR que o topo do Google: mais completo, mais claro e mais seguro.
 
-Use a pesquisa abaixo para ser MELHOR que o topo do Google: responda as perguntas e preencha as lacunas. Escreva com suas palavras e estrutura própria; não copie texto de ninguém.
+ENTRADAS (use cada uma para o que ela serve; nada além disso)
 
-[COLE AQUI: CONCORRENTES, PERGUNTAS, LACUNAS e, se houver, o texto dos concorrentes]
+1) DADOS DA PLANILHA (demanda e prioridade; use para escolher foco e vocabulário)
+- Palavra-chave: [PALAVRA-CHAVE] | tema: [TEMA] | tipo: [cabeça/média/long tail]
+- Volume mensal: [VOLUME] | tendência: [TENDÊNCIA] | dificuldade no Google: [DIFICULDADE]
+- LONG TAILS COM DEMANDA (volume medido): [LISTA: frase (volume)]. As de até 999 buscas entram como subtópicos naturais (H2 ou H3), sem repetir a frase exata. As de 1.000 ou mais merecem artigo próprio: apenas cite o tema e linke se existir.
+- Vocabulário usado pelo topo: [TERMOS_USADOS_PELO_TOPO]. Use naturalmente, sem forçar.
 
-LONG TAILS COM DEMANDA (volume mensal medido). As de até 999 buscas entram como subtópicos naturais (H2 ou H3), sem repetir a frase exata. As de 1.000 ou mais merecem artigo próprio: apenas cite o tema e linke se existir.
-[COLE AQUI A LISTA DE LONG TAILS]
+2) PESQUISA DO GOOGLE (estrutura e lacunas; use para organizar)
+- Concorrentes e H2 do topo: [COLE]
+- Perguntas do Google: [COLE]. Responda todas, uma resposta direta em 1 a 3 frases.
+- Lacunas do topo: [COLE]. Cubra cada uma: é o seu diferencial.
+- H2 que 2 ou mais concorrentes têm: [COLE]. Cubra todos, com sua própria abordagem.
 
-FONTES (já conferidas por humano). Use SOMENTE estas. Não acrescente nenhuma outra URL. Se uma afirmação não tem fonte nesta lista, não a escreva.
-[COLE AQUI: título | URL | o que a página diz]
+3) TEXTO DOS CONCORRENTES, se fornecido (só para entender cobertura, ordem e profundidade): [COLE OU "não fornecido"]. Escreva um artigo ORIGINAL, com suas palavras e estrutura própria. Não copie frases nem a sequência de parágrafos. NÃO retire fatos desse texto.
+
+4) FONTES (já conferidas por humano): [COLE: título | URL | o que a página diz]. É a ÚNICA origem permitida para fatos, números e dados de saúde. Use SOMENTE estas; não acrescente nenhuma outra URL. Se uma afirmação não tem fonte nesta lista, não a escreva.
+
+ORDEM DE PRIORIDADE quando as entradas divergirem: FONTES (fatos) > segurança > pesquisa e lacunas (estrutura) > planilha (foco e vocabulário) > texto dos concorrentes (apenas referência de estrutura).
+
+O QUE ESPERAMOS COMO RESULTADO
+- Responde a pergunta da palavra-chave logo no começo e cobre tudo o que o topo cobre.
+- Preenche as lacunas que o topo deixa abertas.
+- Usa as long tails como subtópicos, de forma natural.
+- Todos os fatos vêm das FONTES, com tom prudente.
+- Passa do mínimo de 8,5 de 10 no nosso auditor.
 
 ENTREGA: responda com o artigo COMPLETO, do cabeçalho até o último parágrafo do HTML, em uma única resposta, sem cortar. Nada de comentário antes ou depois, exceto a linha final "NÃO VERIFIQUEI:".
 
