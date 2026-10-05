@@ -25,7 +25,13 @@
   "autoridadesTop5": [],
   "respostaDaIA": true
  },
- "metaEscrita": null,
+ "metaEscrita": {
+  "medianaPalavras": 667,
+  "medianaH2": 5,
+  "medianaImagens": 1,
+  "faqNoTopo": "0/1",
+  "secoesQueOTopoCobre": []
+ },
  "pontes": [],
  "fontes": [
   "https://www.rededorsaoluiz.com.br/noticias/artigo/gordura-no-figado-o-que-e-quais-os-riscos-e-como-prevenir",

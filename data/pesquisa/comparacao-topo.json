@@ -1,6 +1,6 @@
 {
- "gerado": "2026-10-04",
- "avaliados": 13,
+ "gerado": "2026-10-05",
+ "avaliados": 14,
  "resultado": [
   {
    "geradoEm": "2026-10-04T16:34:07.135Z",
@@ -260,6 +260,51 @@
     }
    ],
    "meta": "publicar com ≥ 1595 palavras, ≥ 12 H2, ≥ 0 imagens e FAQ; cobrir: —"
+  },
+  {
+   "geradoEm": "2026-10-05T02:08:20.148Z",
+   "keyword": "gordura no fígado",
+   "volume": 90500,
+   "publicado": true,
+   "concorrentesLidos": 1,
+   "tentados": 1,
+   "medianaTopo": {
+    "palavras": 667,
+    "h2": 5,
+    "imagens": 1,
+    "imagensComAlt": 0,
+    "tituloChars": 71,
+    "descricaoChars": 0,
+    "linksInternos": 0
+   },
+   "faqNoTopo": "0/1",
+   "secoesComuns": [],
+   "concorrentes": [
+    {
+     "host": "rededorsaoluiz.com.br",
+     "palavras": 667,
+     "h2": 5,
+     "imagens": 1,
+     "data": "2025-06-20"
+    }
+   ],
+   "nosso": {
+    "palavras": 1558,
+    "h2": 14,
+    "imagens": 3,
+    "imagensComAlt": 2,
+    "tituloChars": 51,
+    "descricaoChars": 142,
+    "linksInternos": 2,
+    "faq": false
+   },
+   "lacunas": [],
+   "vantagens": [
+    "palavras: 1558 vs topo 667",
+    "subtítulos H2: 14 vs topo 5",
+    "imagens: 3 vs topo 1",
+    "imagens com alt: 2 vs topo 0"
+   ]
   },
   {
    "geradoEm": "2026-10-04T16:33:41.985Z",

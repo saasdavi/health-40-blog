@@ -1,6 +1,6 @@
 # Comparação com o topo do Google
 
-Gerado em 2026-10-04. Mediana das páginas do topo (concorrentes lidos) contra o nosso artigo. Lacuna = abaixo de 85% do topo; vantagem = acima de 115%.
+Gerado em 2026-10-05. Mediana das páginas do topo (concorrentes lidos) contra o nosso artigo. Lacuna = abaixo de 85% do topo; vantagem = acima de 115%.
 
 ## alimentos ricos em ferro (meta para publicar)
 - Topo (mediana de 3): 1090 palavras, 5 H2, 21 imagens; FAQ em 0/3
@@ -26,6 +26,12 @@ Gerado em 2026-10-04. Mediana das páginas do topo (concorrentes lidos) contra o
 ## ereção matinal (meta para publicar)
 - Topo (mediana de 1): 1595 palavras, 12 H2, 0 imagens; FAQ em 1/1
 - **Meta:** publicar com ≥ 1595 palavras, ≥ 12 H2, ≥ 0 imagens e FAQ; cobrir: —
+
+## gordura no fígado (publicado)
+- Topo (mediana de 1): 667 palavras, 5 H2, 1 imagens; FAQ em 0/1
+- Nosso: 1558 palavras, 14 H2, 3 imagens
+- **Lacunas:** nenhuma
+- Vantagens: palavras: 1558 vs topo 667 | subtítulos H2: 14 vs topo 5 | imagens: 3 vs topo 1 | imagens com alt: 2 vs topo 0
 
 ## hemoglobina glicada (publicado)
 - Topo (mediana de 6): 569 palavras, 3 H2, 3 imagens; FAQ em 1/6
