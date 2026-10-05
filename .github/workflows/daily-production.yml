@@ -49,17 +49,11 @@ jobs:
 
       - name: ✅ Validar próximas pautas (regras + fontes online)
         continue-on-error: true
-        run: node scripts/validar-pautas.js --online --limite 9
-
-      - name: 📋 Comparar com o topo (pautas que faltam) e montar briefings
-        continue-on-error: true
-        run: |
-          node scripts/comparar-topo.js --pendentes 6
-          node scripts/briefing.js
+        run: node scripts/validar-pautas.js
 
       - name: 🤖 ARTICLE ROBOT 3/DIA - Fluxo Completo
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SEM_API: '1'   # só publica do estoque; nunca escreve com API (sem gasto)
           GOOGLE_ADS_CLIENT_ID: ${{ secrets.GOOGLE_ADS_CLIENT_ID }}
           GOOGLE_ADS_CLIENT_SECRET: ${{ secrets.GOOGLE_ADS_CLIENT_SECRET }}
           GOOGLE_ADS_REFRESH_TOKEN: ${{ secrets.GOOGLE_ADS_REFRESH_TOKEN }}

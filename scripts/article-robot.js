@@ -31,6 +31,8 @@ const MAX_SEMELHANCA = Number(process.env.MAX_SEMELHANCA || 6);
 // As execuções agendadas (sem ESTOQUE) publicam do estoque primeiro, no máximo DAILY_LIMIT por dia, e só escrevem na hora se o estoque acabar.
 // ESTOQUE_ALVO = quantos artigos prontos manter guardados (padrão 21 = 7 dias).
 const ESTOQUE = process.env.ESTOQUE === '1';
+// SEM_API=1: só publica do estoque (artigos escritos fora); nunca chama a API de escrita nem exige chave.
+const SEM_API = process.env.SEM_API === '1';
 const ESTOQUE_ALVO = Number(process.env.ESTOQUE_ALVO || 21);
 const WRITER_MODEL = process.env.ROBOT_MODEL || 'claude-haiku-4-5-20251001';
 const VALIDATOR_MODEL = process.env.VALIDATOR_MODEL || 'claude-haiku-4-5-20251001';
@@ -581,12 +583,13 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
   }
 
   async executar() {
-    if (!process.env.ANTHROPIC_API_KEY) throw new Error('ANTHROPIC_API_KEY ausente');
+    if (!SEM_API && !process.env.ANTHROPIC_API_KEY) throw new Error('ANTHROPIC_API_KEY ausente');
     console.log(`\n🤖 ARTICLE ROBOT — ${new Date().toISOString()}`);
     if (!ESTOQUE) {
       if (this.restanteHoje() === 0) { console.log(`⏸️  Teto do dia atingido (${DAILY_LIMIT} artigos publicados hoje). Nada a fazer.`); return this.stats; }
       const n = this.publicarDoEstoque(BATCH_SIZE);
       if (n > 0) { this.gravar(); console.log(`\n📦 ${n} artigo(s) publicado(s) do estoque (${this.prontosNoEstoque().length} ainda guardados).`); return this.stats; }
+      if (SEM_API) { console.log('📦 Estoque vazio e SEM_API=1: nada a publicar (sem gasto de API). Importe mais artigos em data/entrada/.'); return this.stats; }
       console.log('📦 Estoque vazio: escrevendo e publicando na hora.');
     } else {
       const faltam = ESTOQUE_ALVO - this.prontosNoEstoque().length;

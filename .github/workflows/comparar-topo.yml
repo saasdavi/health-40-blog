@@ -12,8 +12,7 @@ on:
         description: 'Só pautas que contenham este texto (vazio = todas)'
         required: false
         default: ''
-  schedule:
-    - cron: '17 9 * * 1'   # toda segunda, 09:17 UTC (fora do horário cheio)
+  # agendamento desligado (decisão do usuário, 05/10): sem gasto de API; só manual
 
 permissions:
   contents: write

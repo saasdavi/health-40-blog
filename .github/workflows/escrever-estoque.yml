@@ -16,8 +16,7 @@ on:
         description: 'Tamanho do estoque a manter (artigos prontos guardados)'
         required: false
         default: '21'
-  schedule:
-    - cron: '37 2 * * *'   # 02:37 UTC (23:37 em Brasília), fora do horário cheio
+  # agendamento desligado (decisão do usuário, 05/10): sem gasto de API; só manual
 
 concurrency:
   group: produce-articles
