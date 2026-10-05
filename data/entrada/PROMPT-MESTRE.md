@@ -84,6 +84,12 @@ LACUNA: cada lacuna que o artigo cobre (1 por linha)
 ---
 <corpo em HTML simples>
 
+REGRAS DAS FOTOS (o nosso sistema procura e coloca as fotos sozinho, no Pexels ou Pixabay, e grava o crédito)
+- Você informa SÓ a busca em inglês (cena concreta, sem marca), o alt, a legenda e a seção. NÃO invente ID de foto, URL de foto, nome de fotógrafo nem escreva "Pexels" ou "Pixabay" no texto.
+- ALT: em português, descreve a cena real da foto, 25+ caracteres. Use a palavra-chave em no máximo uma foto, de forma natural.
+- LEGENDA: até 120 caracteres, ligada ao assunto da seção. Foto 1 e foto 2 em seções diferentes.
+- Não escreva "(Foto ilustrativa...)" nem [IMAGEM...] dentro do corpo do artigo.
+
 CORPO (HTML simples: p, h2, h3, ul, li, strong, a; sem h1, sem hr, sem componentes, sem data):
 1. Primeiro parágrafo (até 45 palavras): responde a pergunta direto e contém a palavra-chave exata.
 2. De 6 a 9 <h2>, a maioria em forma de pergunta, usando as long tails de apoio. Parágrafos de até 45 palavras, frases de até 20 palavras em média, listas onde ajudar.
