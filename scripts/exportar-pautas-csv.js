@@ -15,14 +15,15 @@ const serpK = new Set(Object.keys(serp).map(chave));
 const temas = Object.fromEntries(ler('data/temas-regras.json').temas.map((t) => [t.slug, t.nome]));
 const regs = ler('data/temas-regras.json').regras.map((r) => ({ tema: r.tema, re: new RegExp(sa(r.padrao)) }));
 const tema = (t) => temas[(regs.find((r) => r.re.test(sa(t))) || { tema: 'saude-geral' }).tema];
-const SENS = /\b(minoxidil|minoquisidiu|isotretino|tretino|hidroquinona|ozempic|mounjaro|wegovy|semaglut|tirzepat|finasterid|dutasterid|melatonin|antidepress|cancer|melanoma|quimio|creatinina|ureia|hemograma|ferritina|tsh|psa|reposicao hormonal|colesterol|pressao|diabetes|insulin|prostata)\b/;
+const SENS = /\b(minoxidil|minoq\w*|isotretin\w*|tretin\w*|hidroquinon\w*|ozempic|mounjaro|wegovy|semaglut\w*|tirzepat\w*|finasterid\w*|dutasterid\w*|melatonin\w*|antidepress\w*|cancer|melanoma|quimio\w*|creatinina|ureia|hemograma|ferritina|tsh|psa|reposicao hormonal|colesterol|pressao|diabetes|insulin\w*|prostata|cobreiro|herpes)\b/;
+const GENERICO = /\b(pitaya|laranja|pera|caqui|goiaba|atemoia|fruta do conde|ovos|acucar|chas|carboidratos|bebidas alcoolicas|proteinas|fibras|alcachofra|gengibre|cha de gengibre|frutas|agua|almoco|lanches|cromo|colina|ferro|botox|msm)\b/;
 const RUIDO = /\b(cafeteira|expresso|starbucks|restaurante|delivery|comprar|preco|loja|marca|mercado|bolo|torta|panela|fritadeira|liquidificador|balanca|garrafa|copo|aquario|perto de mim|proximo|distribuidora|dolce gusto|capsulas?|churrasco|picanha|acougue|bife|alcatra|costela|download|baixar|aplicativo|curso|clinica|farmacia|morena|loiro|loira|ruivo|trancas?|corte|cortes|penteados?|tintura|coloracao|ombre|sombre|coque|rabo de cavalo|nutricionista|dia mundial|aniversario|dia das maes|educacao infantil|melissa|whey|sanduiche|carne de|carnes|hamburguer|espetinho|cerveja|gin|vodka|skol|boutique|pao de|comida|deposito|estacao|mcdonald|ingles|fruta do dragao|unimed|verduras e legumes|altas horas|lanche 24|mais 1|bebidas com|casa da|lanche do|cafe|cafe da manha ingles|imc calculo|calculo imc|imc calcular|calcular imc|calculadora)\b/;
 const q = (s) => `"${String(s ?? '').replace(/"/g, '""')}"`;
 const linhas = [];
 const usados = new Set();
 const dd = (k) => dem[chave(k)] || null;
 const temArt = (k) => arts.find((a) => chave(a.primaryKeyword || '') === chave(k));
-const prioridade = (e, sens) => (e.volume >= 5000 && e.volume <= 150000 && e.concorrencia !== 'HIGH' && e.tendencia !== 'caindo' && !sens ? 'SIM' : '');
+const prioridade = (e, sens) => (!GENERICO.test(sa(e.frase)) && e.volume >= 5000 && e.volume <= 150000 && e.concorrencia !== 'HIGH' && e.tendencia !== 'caindo' && !sens ? 'SIM' : '');
 // Grupo 1: artigos
 for (const a of arts) { const k = a.primaryKeyword; const e = dd(k); usados.add(chave(k)); linhas.push(['1 validada + artigo', tema(k), k, e?.volume ?? '', e?.concorrencia ?? '', e?.tendencia ?? '', a.status === 'published' ? 'no ar' : 'estoque', a.scores?.auditoria ?? '', SENS.test(sa(k)) ? 'sim' : '', serpK.has(chave(k)) ? 'sim' : '', '', a.slug]); }
 // Grupo 2: validadas sem artigo (antigas + ≥1.000 da demanda)
