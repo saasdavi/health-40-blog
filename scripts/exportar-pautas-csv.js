@@ -43,6 +43,8 @@ for (const f of ['caneta emagrecedora', 'caneta emagrecedora e jejum', 'ozempic'
 const cab = ['grupo', 'tema', 'palavra_chave', 'buscas_mes_exato', 'concorrencia_ads', 'tendencia', 'status_artigo', 'nota_auditoria', 'sensivel_revisao', 'google_checado', 'produzir_amanha_sugerido', 'origem'];
 fs.mkdirSync(path.join(raiz, 'data/conteudo'), { recursive: true });
 const out = '﻿' + [cab.join(';'), ...linhas.map((r) => r.map(q).join(';'))].join('\r\n') + '\r\n';
-fs.writeFileSync(path.join(raiz, 'data/conteudo/pautas-mestre.csv'), out);
+fs.writeFileSync(path.join(raiz, 'data/conteudo/pautas-prontas-55.csv'), '\uFEFF' + [cab.join(';'), ...linhas.filter((l) => l[0].startsWith('1')).map((r) => r.map(q).join(';'))].join('\r\n') + '\r\n');
+const sem55 = '\uFEFF' + [cab.join(';'), ...linhas.filter((l) => !l[0].startsWith('1')).map((r) => r.map(q).join(';'))].join('\r\n') + '\r\n';
+fs.writeFileSync(path.join(raiz, 'data/conteudo/pautas-mestre.csv'), sem55);
 const c = (g) => linhas.filter((l) => l[0].startsWith(g)).length;
 console.log(`CSV: g1 ${c('1')} | g2 ${c('2')} (sugeridas amanhã: ${linhas.filter((l) => l[10] === 'SIM').length}) | g3 ${c('3')} | total ${linhas.length}`);
