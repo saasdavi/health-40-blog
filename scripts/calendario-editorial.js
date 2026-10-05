@@ -4,6 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { norm } from './demanda-lib.js';
+import { SAUDE, LIXO } from './lib/saude.js';
 const raiz = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const lerCsv = (f) => fs.readFileSync(path.join(raiz, f), 'utf8').replace(/^﻿/, '').split(/\r?\n/).filter(Boolean).slice(1).map((l) => { const c = []; let cur = '', q = false; for (const ch of l) { if (ch === '"') q = !q; else if (ch === ';' && !q) { c.push(cur); cur = ''; } else cur += ch; } c.push(cur); return c; });
 const rows = lerCsv('data/conteudo/pautas-mestre.csv').filter((r) => r[0].startsWith('2'));
@@ -19,8 +20,6 @@ for (const r of rows) {
   if (v > c.vmax) { if (c.vmax) c.sats.push(c.cabeca); c.cabeca = frase; c.vmax = v; c.tema = tema; } else c.sats.push(frase);
   cl.set(k, c);
 }
-const SAUDE = /\b(sintomas?|causas?|tratamento|para que serve|efeitos colaterais|beneficios?|doenca|dor|dores|alopecia|queda|couro cabeludo|psoriase|foliculite|dermatite|melasma|estrias?|celulite|acne|cravos|rosacea|vitaminas?|b12|magnesio|zinco|ferro|omega|colageno|probioticos?|melatonina|insonia|sono|ansiedade|estresse|menopausa|climaterio|colesterol|triglicerid\w*|pressao|diabetes|glicemia|insulin\w*|tireoid\w*|hormon\w*|testosterona|prostata|intestin\w*|constipacao|gases|refluxo|azia|gastrite|figado|rins?|imc|peso|emagrec\w*|gordura|metabolismo|jejum|dieta|exames?|hemograma|creatinina|ureia|ferritina|tsh|alergia|infeccao|micose|herpes|sarna|impetigo|urticaria|queloide|calvicie|caspa|grisalh\w*|brancos|visao|olhos?|audicao|zumbido|labirintite|tontura|cansaco|fadiga|memoria|esquecimento|artrose|osteoporose|gota|bursite|coluna|lombar|joelho|ombro|caimbras?|sarcopenia|massa muscular|proteina|fibras?|constipacao|inchaco|retencao|longevidade|envelhec\w*|idosos?|alopecia|botox capilar|cronograma capilar|hidratacao|taurina|creatina|cafeina|niacina|potassio|iodo|vitamina)\b/;
-const LIXO = /\b(maquinas?|charque|pinga|agua tonica|recursos hidricos|citrico|angus|guisada|pasteurizado|nespresso|sabonete de enxofre|remedio para emagrecer|tamarine|fibermais|gelado|abiu|lichia|pitaya|cartilha|metro|descafeinado|oolong|carne)\b/;
 const sa2 = (t) => String(t || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
 const pautas = [...cl.values()].filter((c) => c.vmax >= 1000 && SAUDE.test(sa2(c.cabeca)) && !LIXO.test(sa2(c.cabeca))).sort((a, b) => (b.soma + (b.sobe ? 5000 : 0)) - (a.soma + (a.sobe ? 5000 : 0)));
 // agenda: 365 dias x 3
