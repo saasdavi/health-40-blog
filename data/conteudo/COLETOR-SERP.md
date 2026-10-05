@@ -40,3 +40,6 @@ https://site3.com/pagina
 
 ## Cópia local do HTML e do texto
 Para cada concorrente medido, o coletor guarda no SEU computador (pasta `.cache\serp\<palavra>\`, fora do GitHub) o HTML (`.html`, equivale ao Ctrl+U) e o texto (`.txt`). Serve para você conferir os números e consultar. Para a planilha vão só as métricas, nunca o texto.
+
+## A IA lê o texto dos concorrentes
+O `montar-prompt.js` inclui no prompt o texto (até 2.500 palavras por página) guardado em `.cache\serp\<palavra>\`, além do vocabulário do topo e das fontes oficiais que eles citam. Rode o `montar-prompt.js` no mesmo computador em que rodou o coletor.

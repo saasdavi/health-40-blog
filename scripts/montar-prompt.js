@@ -20,12 +20,16 @@ const con = ler(`data/pesquisa/concorrentes/${slugify(kw)}.json`, null);
 const arts = ler('data/articles.json', { articles: [] }).articles;
 const rel = (a) => [...meus].filter((t) => norm(`${a.primaryKeyword} ${a.title}`).includes(t)).length;
 const links = arts.filter((a) => a.status === 'published').map((a) => ({ a, r: rel(a) })).sort((x, y) => y.r - x.r).slice(0, 8).map(({ a }) => `/${a.slug}/ (${a.primaryKeyword})`);
+// Texto dos concorrentes guardado pelo coletor neste computador (.cache/serp/<palavra>/*.txt): vai no prompt para a IA LER antes de escrever
+const dirTxt = path.join(raiz, '.cache', 'serp', slugify(kw));
+const textos = fs.existsSync(dirTxt) ? fs.readdirSync(dirTxt).filter((f) => f.endsWith('.txt')).sort().map((f) => ({ f, t: fs.readFileSync(path.join(dirTxt, f), 'utf8').split(/\s+/).slice(0, 2500).join(' ') })) : [];
+const textoBloco = textos.length ? `\n\nTEXTO DOS CONCORRENTES DO TOPO (leia para entender cobertura, ordem e profundidade. Escreva um artigo ORIGINAL com suas palavras e estrutura; NÃO copie frases nem a sequência de parágrafos; NÃO use fatos que não estejam nas fontes oficiais)\n${textos.map(({ f, t }) => `--- ${f.replace(/\.txt$/, '')} ---\n${t}`).join('\n\n')}` : '';
 const concBloco = con ? `CONCORRENTES (dados reais coletados em ${con.data}; use só para estrutura, NÃO copie)\n${con.paginas.filter((p) => !p.erro).map((p, i) => `${i + 1} | ${p.tituloGoogle || p.titulo} | ${p.url} | ${p.palavras} palavras | H2: ${(p.secoes || []).slice(0, 8).join('; ')}`).join('\n')}\nMediana do topo: ${con.medianaPalavras ?? 'n/d'} palavras (escreva pelo menos ${Math.max(1300, Math.round((con.medianaPalavras || 0) * 1.15))}).\nH2 que 2+ concorrentes têm (cubra todos): ${(con.h2Comuns || []).join('; ') || 'n/d'}\nPERGUNTAS DO GOOGLE: ${(sp?.perguntas || []).join(' | ') || 'n/d'}\nLACUNAS (o topo não responde bem; cubra): ${(con.lacunas || []).join(' | ') || 'n/d'}\nDificuldade no Google: ${sp?.nivel || sp?.veredito || 'n/d'}` : 'CONCORRENTES: não coletados ainda (concorrente não conferido). Escreva pelas regras abaixo e inclua as perguntas que as pessoas costumam ter sobre o tema.';
 const prompt = `Você é redator do blog Saúde 40+ (público de 40+ anos, português do Brasil). Escreva UM artigo sobre **${kw}** (demanda: ${dem ? dem.volume + ' buscas/mês' : 'não medida'}; tema do blog: ${dem?.tema || ''}). Frases que o MESMO artigo deve cobrir como subtópicos: ${satelites.join('; ') || 'nenhuma'}.
 
 Seja MELHOR que o topo do Google: responda as perguntas e preencha as lacunas. Reescreva com suas palavras e estrutura própria; nada de copiar.
 
-${concBloco}
+${concBloco}${con?.termosComuns?.length ? `\nVocabulário que o topo usa (use os termos naturalmente): ${con.termosComuns.join(', ')}` : ''}${con ? `\nFontes oficiais citadas pelo topo (confira se abrem antes de usar): ${[...new Set(con.paginas.flatMap((p) => p.fontesOficiais || []))].slice(0, 8).join(' ; ') || 'n/d'}` : ''}${textoBloco}
 
 FORMATO DE SAÍDA (exato; sem Markdown, sem cercas de código):
 PALAVRA_CHAVE: ${kw}
