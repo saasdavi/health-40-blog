@@ -1,0 +1,3047 @@
+{
+ "tema": "cabelo-arvore",
+ "data": "2026-10-05",
+ "total": 304,
+ "linhas": [
+  {
+   "frase": "minoxidil oral",
+   "planilha": null,
+   "exato": 27100,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "revisar (sensível)",
+   "inflada": null
+  },
+  {
+   "frase": "transplante capilar",
+   "planilha": null,
+   "exato": 22200,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo poroso",
+   "planilha": null,
+   "exato": 18100,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "minoxidil barba",
+   "planilha": null,
+   "exato": 18100,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "revisar (sensível)",
+   "inflada": null
+  },
+  {
+   "frase": "pitiríase",
+   "planilha": null,
+   "exato": 12100,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "queratina para cabelo",
+   "planilha": null,
+   "exato": 9900,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": null
+  },
+  {
+   "frase": "tinea capitis",
+   "planilha": null,
+   "exato": 9900,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "lavar o cabelo todo dia faz mal",
+   "planilha": null,
+   "exato": 8100,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "óleo de argan para cabelo",
+   "planilha": null,
+   "exato": 8100,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": null
+  },
+  {
+   "frase": "henna para cabelo",
+   "planilha": null,
+   "exato": 8100,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": null
+  },
+  {
+   "frase": "gelatina para cabelo",
+   "planilha": null,
+   "exato": 8100,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": null
+  },
+  {
+   "frase": "finasterida efeitos colaterais",
+   "planilha": null,
+   "exato": 8100,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "revisar (sensível)",
+   "inflada": null
+  },
+  {
+   "frase": "dermatite seborreica tratamento",
+   "planilha": null,
+   "exato": 6600,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo com frizz",
+   "planilha": null,
+   "exato": 5400,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": null
+  },
+  {
+   "frase": "folículo piloso",
+   "planilha": null,
+   "exato": 5400,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "dht o que é",
+   "planilha": null,
+   "exato": 5400,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "mesoterapia capilar",
+   "planilha": null,
+   "exato": 5400,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "transplante capilar preço",
+   "planilha": null,
+   "exato": 4400,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "comercial",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "caspa o que é",
+   "planilha": null,
+   "exato": 3600,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "touca de cetim para dormir",
+   "planilha": null,
+   "exato": 2900,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo arrepiado",
+   "planilha": null,
+   "exato": 2900,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo duro",
+   "planilha": null,
+   "exato": 2900,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "quantos fios de cabelo caem por dia",
+   "planilha": null,
+   "exato": 2900,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "bulbo capilar",
+   "planilha": null,
+   "exato": 2900,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "mel para cabelo",
+   "planilha": null,
+   "exato": 1900,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "caroço no couro cabeludo",
+   "planilha": null,
+   "exato": 1900,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "prp capilar",
+   "planilha": null,
+   "exato": 1900,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "minoxidil quanto tempo para fazer efeito",
+   "planilha": null,
+   "exato": 1900,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "revisar (sensível)",
+   "inflada": null
+  },
+  {
+   "frase": "minoxidil funciona",
+   "planilha": null,
+   "exato": 1900,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "revisar (sensível)",
+   "inflada": null
+  },
+  {
+   "frase": "finasterida para cabelo",
+   "planilha": null,
+   "exato": 1600,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "revisar (sensível)",
+   "inflada": null
+  },
+  {
+   "frase": "finasterida para queda de cabelo",
+   "planilha": null,
+   "exato": 1600,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "revisar (sensível)",
+   "inflada": null
+  },
+  {
+   "frase": "aminoácidos para cabelo",
+   "planilha": null,
+   "exato": 1600,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": null
+  },
+  {
+   "frase": "quantos fios de cabelo temos",
+   "planilha": null,
+   "exato": 1600,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "tratamento para queda de cabelo feminina",
+   "planilha": null,
+   "exato": 1300,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": null
+  },
+  {
+   "frase": "cebola para cabelo",
+   "planilha": null,
+   "exato": 1300,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "bolinhas no couro cabeludo",
+   "planilha": null,
+   "exato": 1300,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "saw palmetto para cabelo",
+   "planilha": null,
+   "exato": 1000,
+   "concorrencia": "HIGH",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "ângulo (concorrência alta)",
+   "inflada": null
+  },
+  {
+   "frase": "azeite para cabelo",
+   "planilha": null,
+   "exato": 1000,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "cisto no couro cabeludo",
+   "planilha": null,
+   "exato": 1000,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "pauta",
+   "inflada": null
+  },
+  {
+   "frase": "silício para cabelo",
+   "planilha": null,
+   "exato": 880,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "abacate para cabelo",
+   "planilha": null,
+   "exato": 880,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "ácido hialurônico para cabelo",
+   "planilha": null,
+   "exato": 880,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "couro cabeludo sensível",
+   "planilha": null,
+   "exato": 880,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "minoxidil engorda",
+   "planilha": null,
+   "exato": 880,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "porosidade capilar",
+   "planilha": null,
+   "exato": 720,
+   "concorrencia": "HIGH",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo embaraçado",
+   "planilha": null,
+   "exato": 720,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "minoxidil oral efeitos colaterais",
+   "planilha": null,
+   "exato": 720,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "minoxidil sublingual",
+   "planilha": null,
+   "exato": 720,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo de palha",
+   "planilha": null,
+   "exato": 590,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "vitamina d para queda de cabelo",
+   "planilha": null,
+   "exato": 590,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "vitamina c para cabelo",
+   "planilha": null,
+   "exato": 590,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "vitamina e para cabelo",
+   "planilha": null,
+   "exato": 590,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "piolho sintomas",
+   "planilha": null,
+   "exato": 590,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "couro cabeludo formigando",
+   "planilha": null,
+   "exato": 590,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "peptídeos para cabelo",
+   "planilha": null,
+   "exato": 590,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo quebrando",
+   "planilha": null,
+   "exato": 480,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "gengibre para cabelo",
+   "planilha": null,
+   "exato": 480,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "espironolactona para cabelo",
+   "planilha": null,
+   "exato": 480,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cetoconazol para cabelo",
+   "planilha": null,
+   "exato": 480,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo caindo por estresse",
+   "planilha": null,
+   "exato": 390,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "zinco para queda de cabelo",
+   "planilha": null,
+   "exato": 390,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "linhaça para cabelo",
+   "planilha": null,
+   "exato": 390,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "dutasterida para cabelo",
+   "planilha": null,
+   "exato": 390,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "estrutura do fio de cabelo",
+   "planilha": null,
+   "exato": 390,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "estresse causa cabelo branco",
+   "planilha": null,
+   "exato": 390,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "tratamento para queda de cabelo masculina",
+   "planilha": null,
+   "exato": 320,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "dormir com o cabelo molhado faz mal",
+   "planilha": null,
+   "exato": 320,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "chapinha estraga o cabelo",
+   "planilha": null,
+   "exato": 320,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo fraco",
+   "planilha": null,
+   "exato": 320,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "ômega 3 para cabelo",
+   "planilha": null,
+   "exato": 320,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "selênio para cabelo",
+   "planilha": null,
+   "exato": 320,
+   "concorrencia": "HIGH",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "magnésio para cabelo",
+   "planilha": null,
+   "exato": 320,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "caspa causas",
+   "planilha": null,
+   "exato": 320,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "foliculite no couro cabeludo tratamento",
+   "planilha": null,
+   "exato": 320,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "couro cabeludo doendo",
+   "planilha": null,
+   "exato": 320,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo áspero",
+   "planilha": null,
+   "exato": 260,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "alecrim para queda de cabelo",
+   "planilha": null,
+   "exato": 260,
+   "concorrencia": "HIGH",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "vitamina b12 para queda de cabelo",
+   "planilha": null,
+   "exato": 260,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "henna cobre cabelo branco",
+   "planilha": null,
+   "exato": 260,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "tinta faz o cabelo cair",
+   "planilha": null,
+   "exato": 260,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "melanina no cabelo",
+   "planilha": null,
+   "exato": 260,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "couro cabeludo inchado",
+   "planilha": null,
+   "exato": 260,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "couro cabeludo dormente",
+   "planilha": null,
+   "exato": 260,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "microagulhamento capilar funciona",
+   "planilha": null,
+   "exato": 260,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo na menopausa o que fazer",
+   "planilha": null,
+   "exato": 210,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "melaleuca para cabelo",
+   "planilha": null,
+   "exato": 210,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "como cobrir cabelo branco sem tinta",
+   "planilha": null,
+   "exato": 210,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "queimadura química no couro cabeludo",
+   "planilha": null,
+   "exato": 210,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "couro cabeludo queimando",
+   "planilha": null,
+   "exato": 210,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "ferro para queda de cabelo",
+   "planilha": null,
+   "exato": 170,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "clara de ovo para cabelo",
+   "planilha": null,
+   "exato": 170,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "quantas vezes lavar o cabelo por semana",
+   "planilha": null,
+   "exato": 140,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "ácido salicílico para cabelo",
+   "planilha": null,
+   "exato": 140,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "hibisco para cabelo",
+   "planilha": null,
+   "exato": 140,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "tonalizante danifica o cabelo",
+   "planilha": null,
+   "exato": 140,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "diferença entre hidratação nutrição e reconstrução",
+   "planilha": null,
+   "exato": 110,
+   "concorrencia": "MEDIUM",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo oleoso como tratar",
+   "planilha": null,
+   "exato": 110,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "niacinamida para cabelo",
+   "planilha": null,
+   "exato": 110,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "óleo de rícino para queda de cabelo",
+   "planilha": null,
+   "exato": 110,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cebola para queda de cabelo",
+   "planilha": null,
+   "exato": 110,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo branco aos 20 anos",
+   "planilha": null,
+   "exato": 110,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo branco falta de vitamina",
+   "planilha": null,
+   "exato": 110,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "pílula e queda de cabelo",
+   "planilha": null,
+   "exato": 110,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "transplante capilar resultados",
+   "planilha": null,
+   "exato": 110,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "minoxidil 5 como usar",
+   "planilha": null,
+   "exato": 110,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "ferritina para cabelo",
+   "planilha": null,
+   "exato": 110,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por estresse o que fazer",
+   "planilha": null,
+   "exato": 90,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo seco como tratar",
+   "planilha": null,
+   "exato": 90,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "fio de cabelo com bulbo",
+   "planilha": null,
+   "exato": 90,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "óleo de coco para queda de cabelo",
+   "planilha": null,
+   "exato": 90,
+   "concorrencia": "HIGH",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "ginseng para cabelo",
+   "planilha": null,
+   "exato": 90,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "colágeno hidrolisado para cabelo",
+   "planilha": null,
+   "exato": 90,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cravo para cabelo",
+   "planilha": null,
+   "exato": 90,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "suco de cebola para cabelo",
+   "planilha": null,
+   "exato": 90,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "alergia a tinta de cabelo sintomas",
+   "planilha": null,
+   "exato": 90,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "fases do crescimento do cabelo",
+   "planilha": null,
+   "exato": 90,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "gravidez e cabelo",
+   "planilha": null,
+   "exato": 90,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "laser capilar funciona",
+   "planilha": null,
+   "exato": 90,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "minoxidil e gravidez",
+   "planilha": null,
+   "exato": 90,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "exossomos para cabelo",
+   "planilha": null,
+   "exato": 90,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo feminina o que fazer",
+   "planilha": null,
+   "exato": 70,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "como saber a porosidade do cabelo",
+   "planilha": null,
+   "exato": 70,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "queratina para queda de cabelo",
+   "planilha": null,
+   "exato": 70,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "colágeno para queda de cabelo",
+   "planilha": null,
+   "exato": 70,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "chá verde para cabelo",
+   "planilha": null,
+   "exato": 70,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "tinta de cabelo na gravidez",
+   "planilha": null,
+   "exato": 70,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "dutasterida capilar",
+   "planilha": null,
+   "exato": 70,
+   "concorrencia": "HIGH",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "tratamento para queda de cabelo em mulheres",
+   "planilha": null,
+   "exato": 50,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "tratamento para queda de cabelo em homens",
+   "planilha": null,
+   "exato": 50,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "aveia para cabelo",
+   "planilha": null,
+   "exato": 50,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cortisol e queda de cabelo",
+   "planilha": null,
+   "exato": 50,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "alopecia hereditária",
+   "planilha": null,
+   "exato": 50,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "queda normal de cabelo por dia",
+   "planilha": null,
+   "exato": 50,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "semente de abóbora para cabelo",
+   "planilha": null,
+   "exato": 50,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "quebra de cabelo causas",
+   "planilha": null,
+   "exato": 40,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo caindo em tufos",
+   "planilha": null,
+   "exato": 40,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "hortelã pimenta para cabelo",
+   "planilha": null,
+   "exato": 40,
+   "concorrencia": "HIGH",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "spirulina para cabelo",
+   "planilha": null,
+   "exato": 40,
+   "concorrencia": "MEDIUM",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por falta de vitamina d",
+   "planilha": null,
+   "exato": 30,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "como parar a queda de cabelo masculina",
+   "planilha": null,
+   "exato": 30,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "tratamento para queda de cabelo em idosos",
+   "planilha": null,
+   "exato": 30,
+   "concorrencia": "HIGH",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "secador de cabelo faz mal",
+   "planilha": null,
+   "exato": 30,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo caindo com raiz",
+   "planilha": null,
+   "exato": 30,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "sono e queda de cabelo",
+   "planilha": null,
+   "exato": 30,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "bolinha branca na raiz do cabelo",
+   "planilha": null,
+   "exato": 30,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cafeína para queda de cabelo",
+   "planilha": null,
+   "exato": 30,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "niacinamida para queda de cabelo",
+   "planilha": null,
+   "exato": 30,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo caindo por ansiedade",
+   "planilha": null,
+   "exato": 20,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por caspa",
+   "planilha": null,
+   "exato": 20,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "como parar a queda de cabelo feminina",
+   "planilha": null,
+   "exato": 20,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "ovo para cabelo",
+   "planilha": null,
+   "exato": 20,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "própolis para cabelo",
+   "planilha": null,
+   "exato": 20,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "tinta de cabelo causa alergia",
+   "planilha": null,
+   "exato": 20,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "calvície masculina causas",
+   "planilha": null,
+   "exato": 20,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "capacete laser cabelo",
+   "planilha": null,
+   "exato": 20,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por covid",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por tintura",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "estética",
+   "decisao": "guardar",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por alisamento",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "estética",
+   "decisao": "guardar",
+   "inflada": null
+  },
+  {
+   "frase": "tratamento para queda de cabelo pós parto",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo na praia cuidados",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": null,
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "pontas duplas causas",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo fino causas",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo opaco causas",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo cai muito no banho",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "pantenol para queda de cabelo",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "arroz para cabelo",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cúrcuma para cabelo",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "batata para cabelo",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "quanto tempo esperar para pintar o cabelo",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo descolorido quebrando",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "HIGH",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "ciclo de vida do fio de cabelo",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo cresce mais no verão",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo e alimentação",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "coceira no couro cabeludo causas",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "descamação no couro cabeludo causas",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "oleosidade no couro cabeludo causas",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "feridas no couro cabeludo causas",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "alopecia difusa causas",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": null,
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "entradas no cabelo tratamento",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": null,
+   "tendencia": "caindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por ferritina baixa",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por dengue",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por testosterona",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "ashwagandha para cabelo",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "estrogênio e cabelo",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "MEDIUM",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "anemia e cabelo",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "LOW",
+   "tendencia": "estável",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "menopausa queda de cabelo tratamento",
+   "planilha": null,
+   "exato": 10,
+   "concorrencia": "HIGH",
+   "tendencia": "subindo",
+   "intencao": "informativa",
+   "decisao": "satélite",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por anemia",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo caindo por anemia",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por ferro baixo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo caindo por ferro baixo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por problema na tireoide",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por hipotireoidismo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por menopausa",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo caindo por menopausa",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por gravidez",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por pós parto",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo caindo por pós parto",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo caindo por anticoncepcional",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por dieta",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo caindo por dieta",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por emagrecimento rápido",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo caindo por emagrecimento rápido",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por cirurgia bariátrica",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por ozempic",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo caindo por quimioterapia",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por antidepressivo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por falta de proteína",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por falta de zinco",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por falta de vitamina b12",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por síndrome dos ovários policísticos",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por diabetes",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por lúpus",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por genética",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo caindo por tração",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por chapinha",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por cirurgia",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por febre",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por infecção",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por excesso de vitamina a",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por dermatite seborreica",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por depressão",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por menopausa precoce",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por reposição hormonal",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por anabolizantes",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por insônia",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por fumo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo por álcool",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo masculina o que fazer",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "tratamento para queda de cabelo hereditária",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo pós parto o que fazer",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "tratamento para queda de cabelo na menopausa",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "tratamento para queda de cabelo repentina",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo repentina o que fazer",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "tratamento para queda de cabelo em jovens",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "tratamento para queda de cabelo depois dos 40",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo depois dos 40 o que fazer",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "tratamento para queda de cabelo depois dos 50",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo em mulheres o que fazer",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "queda de cabelo em homens o que fazer",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "tratamento para queda de cabelo na adolescência",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "escovar o cabelo molhado",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo e sol proteção",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo na piscina cuidados",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "corte de pontas ajuda o cabelo crescer",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "estética",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "massagem no couro cabeludo funciona",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cuidados com o cabelo depois dos 40",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cuidados com o cabelo depois dos 50",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cuidados com o cabelo na menopausa",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "ressecamento do cabelo causas",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo elástico causa",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo danificado sinais",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo sem brilho causas",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo ralo causas",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo cai muito ao pentear",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo caindo aos poucos",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "plasma rico em plaquetas para cabelo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "fenogrego para cabelo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "vinagre de arroz para cabelo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "tinta de cabelo e câncer",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "descoloração do cabelo danos",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "tinta sem amônia faz mal",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "alergia a tintura capilar",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "estética",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "tinta de cabelo na amamentação",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "dermatite por tinta de cabelo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "tinta de cabelo com ppd",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "como diminuir danos da tinta",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "pintar cabelo grisalho aos 40",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "por que o cabelo fica grisalho",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "grisalho precoce causas",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo branco reverte",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "hormônios e cabelo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo e genética",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "cabelo e idade",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "exercício e cabelo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "água e cabelo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "tireoide e cabelo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "diabetes e cabelo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "dermatite seborreica causas",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "psoríase no couro cabeludo tratamento",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "psoríase no couro cabeludo sintomas",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "micose no couro cabeludo sintomas",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "líquen plano pilar",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "couro cabeludo com caspa e queda",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "couro cabeludo com crostas amareladas",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "couro cabeludo vermelho causas",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "dor de cabeça e couro cabeludo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "alergia de couro cabeludo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "alopecia androgenética",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "alopecia androgenética feminina",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "alopecia androgenética masculina",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "alopecia areata sintomas",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "alopecia cicatricial",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "alopecia feminina causas",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "alopecia feminina tratamento",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "calvície feminina",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "entradas no cabelo causas",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "coroa rala",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "transplante capilar quanto tempo",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "minoxidil oral quem pode usar",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "minoxidil causa queda inicial",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "minoxidil e pressão",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "minoxidil e coração",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "minoxidil crescimento de pelos no rosto",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  },
+  {
+   "frase": "minoxidil e álcool",
+   "planilha": null,
+   "exato": null,
+   "concorrencia": null,
+   "tendencia": "sem dado",
+   "intencao": "informativa",
+   "decisao": "satélite (sem dado: demanda oculta, agrupar na pauta-mãe)",
+   "inflada": null
+  }
+ ]
+}
