@@ -51,4 +51,4 @@ No fim de cada rodada o coletor também gera `.cache\concorrentes-texto.csv` (1 
 ```
 node scripts/coletor-serp.js --so-links --limite 5
 ```
-Faz só a busca no Google (sem abrir os concorrentes): grava as 10 URLs do topo, as perguntas do Google e a dificuldade na planilha mestre (coluna `urls_topo_google`) e acrescenta cada palavra em `data\entrada\urls-topo.txt`. Depois você pode (a) entregar essas URLs ao Gemini para ele ler, ou (b) medir as páginas sem Google: `node scripts/coletor-serp.js --urls data/entrada/urls-topo.txt --topo 10`. O captcha vem da busca no Google, então o limite de palavras por sessão continua o mesmo.
+Faz só a busca no Google (sem abrir os concorrentes): grava as 5 URLs do topo (mude com `--topo 10`), as perguntas do Google e a dificuldade na planilha mestre (coluna `urls_topo_google`) e acrescenta cada palavra em `data\entrada\urls-topo.txt`. Depois você pode (a) entregar essas URLs ao Gemini para ele ler, ou (b) medir as páginas sem Google: `node scripts/coletor-serp.js --urls data/entrada/urls-topo.txt --topo 10`. O captcha vem da busca no Google, então o limite de palavras por sessão continua o mesmo.

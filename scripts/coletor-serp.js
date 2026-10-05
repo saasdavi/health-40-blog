@@ -2,7 +2,7 @@
 //   npm i --no-save playwright          (uma vez; usa o Chrome já instalado, não baixa navegador)
 //   node scripts/coletor-serp.js --so-sim --limite 10 --topo 3 [--tema Cabelo] [--push]
 //   node scripts/coletor-serp.js --urls data/entrada/urls-topo.txt   (sem Google: você cola as URLs do topo; blocos separados por linha em branco, 1ª linha = palavra)
-//   node scripts/coletor-serp.js --so-links --limite 5   (só a busca no Google: grava as 10 URLs do topo + perguntas e gera data/entrada/urls-topo.txt; não abre os concorrentes)
+//   node scripts/coletor-serp.js --so-links --limite 5   (só a busca no Google: grava as 5 URLs do topo (ou --topo N) + perguntas e gera data/entrada/urls-topo.txt; não abre os concorrentes)
 //   node scripts/coletor-serp.js --mock   (teste offline com HTML de exemplo em scripts/fixtures/serp/)
 // Lê data/conteudo/pautas-mestre.csv (grupo 2), abre o Google, pega o topo orgânico, abre as primeiras páginas, guarda SÓ métricas
 // (nunca o texto do concorrente) em data/pesquisa/serp-resultados.json e data/pesquisa/concorrentes/<slug>.json, e regenera a planilha mestre.
@@ -18,7 +18,7 @@ const raiz = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const args = process.argv.slice(2);
 const opt = (n, d = null) => { const i = args.indexOf(n); return i >= 0 ? args[i + 1] : d; };
 const flag = (n) => args.includes(n);
-const URLS = opt('--urls'), MOCK = flag('--mock'), LIMITE = Number(opt('--limite', 5)), TOPO = Number(opt('--topo', 3)), TEMA = opt('--tema'), SO_SIM = flag('--so-sim'), SO_LINKS = flag('--so-links'), PUSH = flag('--push');
+const URLS = opt('--urls'), MOCK = flag('--mock'), LIMITE = Number(opt('--limite', 5)), TOPO = Number(opt('--topo', 3)), TEMA = opt('--tema'), SO_SIM = flag('--so-sim'), SO_LINKS = flag('--so-links'), NLINKS = args.includes('--topo') ? Number(opt('--topo', 5)) : 5, PUSH = flag('--push');
 const lerJson = (f, d) => { try { return JSON.parse(fs.readFileSync(path.join(raiz, f), 'utf8')); } catch { return d; } };
 const chave = (s) => norm(s).split(' ').sort().join(' ');
 const slugify = (s) => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
@@ -140,11 +140,11 @@ async function main() {
       }
       const ana = analisar(paginas.filter((p) => !p.erro), s.perguntas);
       const hoje = new Date().toISOString().slice(0, 10);
-      serp[kw] = { data: hoje, fonte: 'navegador local (Playwright)', veredito: cls.veredito, nivel: cls.nivel, autoridadesTop5: cls.autoridadesTop5, fracosTop10: cls.fracosTop10, topoDoGoogle: s.organicos.map((o) => o.host).join(', '), topoUrls: s.organicos.slice(0, SO_LINKS ? 10 : 5).map((o) => o.url), aiOverview: s.aiOverview, perguntas: s.perguntas, relacionadas: s.relacionadas };
+      serp[kw] = { data: hoje, fonte: 'navegador local (Playwright)', veredito: cls.veredito, nivel: cls.nivel, autoridadesTop5: cls.autoridadesTop5, fracosTop10: cls.fracosTop10, topoDoGoogle: s.organicos.map((o) => o.host).join(', '), topoUrls: s.organicos.slice(0, SO_LINKS ? NLINKS : 5).map((o) => o.url), aiOverview: s.aiOverview, perguntas: s.perguntas, relacionadas: s.relacionadas };
       if (SO_LINKS) {
         if (!MOCK) { fs.mkdirSync(path.join(raiz, 'data/entrada'), { recursive: true });
-        fs.appendFileSync(path.join(raiz, 'data/entrada/urls-topo.txt'), `${kw}\n${s.organicos.slice(0, 10).map((o) => o.url).join('\n')}\n\n`); }
-        novos[kw] = cls.veredito; console.log(`  🔗 ${s.organicos.length} link(s) do topo salvos (${cls.nivel}); ${s.perguntas.length} pergunta(s) do Google`); continue;
+        fs.appendFileSync(path.join(raiz, 'data/entrada/urls-topo.txt'), `${kw}\n${s.organicos.slice(0, NLINKS).map((o) => o.url).join('\n')}\n\n`); }
+        novos[kw] = cls.veredito; console.log(`  🔗 ${Math.min(NLINKS, s.organicos.length)} link(s) do topo salvos (${cls.nivel}); ${s.perguntas.length} pergunta(s) do Google`); continue;
       }
       fs.mkdirSync(path.join(raiz, 'data/pesquisa/concorrentes'), { recursive: true });
       fs.writeFileSync(path.join(raiz, `data/pesquisa/concorrentes/${slugify(kw)}.json`), JSON.stringify({ keyword: kw, data: hoje, veredito: cls.veredito, paginas, ...ana }, null, 1));
