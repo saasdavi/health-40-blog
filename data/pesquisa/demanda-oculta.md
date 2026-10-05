@@ -15,3 +15,6 @@ Título de trabalho: "Queda de cabelo ao emagrecer: por que acontece e quando vo
 Cobre: emagrecimento rápido, dieta restritiva, bariátrica, canetas emagrecedoras, jejum, low carb; eflúvio telógeno; ferro, ferritina, proteína, zinco e vitaminas; quanto tempo dura; quando procurar o médico.
 Links internos: eflúvio telógeno, ferritina baixa, queda de cabelo causas.
 Marca: sensível (revisão humana).
+
+## Planilhas combinatórias não são demanda (05/10)
+`alimentacao_e_peso_25000_long_tails_4.csv`: 25.000 linhas = 100 macro-temas x 25 modificadores x 9 sufixos ("para mulheres açúcar como fazer"). Quase nenhuma é busca real. O que vale: os 100 macro-temas. Processo: ideias reais do Google (HYPD) por tema, negativas, long tails com volume exato.
