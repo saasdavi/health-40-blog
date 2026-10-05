@@ -150,6 +150,7 @@ async function main() {
   if (MOCK) { console.log('\n(MOCK: nada foi gravado em serp-resultados.json)'); fs.mkdirSync('/tmp/coletor-mock', { recursive: true }); fs.writeFileSync('/tmp/coletor-mock/serp.json', JSON.stringify(serp, null, 1)); return; }
   fs.writeFileSync(path.join(raiz, 'data/pesquisa/serp-resultados.json'), JSON.stringify(serp, null, 2));
   execSync('node scripts/exportar-pautas-csv.js', { cwd: raiz, stdio: 'inherit' });
+  try { execSync('node scripts/exportar-concorrentes-texto.js', { cwd: raiz, stdio: 'inherit' }); } catch {}
   console.log(`\n📊 ${Object.keys(novos).length} palavra(s) coletada(s). Planilha mestre atualizada.`);
   if (PUSH) { try { execSync('git add -A && git commit -m "Coletor SERP: concorrentes e dificuldade atualizados" && git pull --rebase origin main && git push', { cwd: raiz, stdio: 'inherit' }); } catch { console.log('⚠️ push não concluído; rode git push depois.'); } }
 }
