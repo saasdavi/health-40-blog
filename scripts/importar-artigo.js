@@ -9,6 +9,7 @@ import ArticleRobot from './article-robot.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DIR = path.join(__dirname, '../data/entrada');
+import { demandaDe } from './demanda-lib.js';
 const MIN_SCORE = 86; // regra do usuário: só sobe com nota acima de 85
 
 const slugify = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
@@ -33,6 +34,9 @@ for (const nome of arquivos) {
     const pauta = robot.kw.find((k) => k.keyword.toLowerCase() === keyword.toLowerCase()) || { keyword, volume: null, cluster: get('CLUSTER') || null };
     if (pauta.sensivel && pauta.revisar && get('REVISADO') !== 'sim') throw new Error('pauta sensível: precisa de revisão humana (adicione "REVISADO: sim" no cabeçalho depois de revisar)');
     if (/<Article[A-Za-z]*|<hr\b|<h1\b/i.test(d.body)) throw new Error('o HTML tem componentes de código (<Article...>), <hr> ou <h1>: peça à IA HTML simples (veja data/entrada/MODELO-PARA-A-IA.md)');
+    const dem = demandaDe(keyword);
+    if (pauta.volume == null && dem) pauta.volume = dem.volume;
+    console.log(`  demanda: ${dem ? `${dem.volume} buscas/mês (${dem.classe}${dem.tendencia ? ', ' + dem.tendencia : ''}${dem.porSimilar ? ', por frase parecida: ' + dem.frase : ''})` : 'NÃO MEDIDA (palavra-chave fora de data/pesquisa/demanda-validada.json)'}`);
     const art = robot.montar(pauta, d, fontes);
     const aud = robot.auditar(art, null);
     console.log(`  ${art.wordCount} palavras | auditoria ${aud.nota}/100${aud.bloqueios.length ? ' | BLOQUEIOS: ' + aud.bloqueios.join('; ') : ''}`);
@@ -40,8 +44,8 @@ for (const nome of arquivos) {
     if (!(await robot.imagem(art))) { relatorio(['Sem imagens: confira PEXEL_API_KEY/PIXABAY_API_KEY e as buscas de foto do cabeçalho.']); continue; }
     const agora = new Date().toISOString();
     delete art.bodyOriginal; delete art._substitui;
-    Object.assign(art, { status: 'draft', estoque: true, estocadoEm: agora, scores: { auditoria: aud.nota }, validador: 'Auditoria automática (sem API); texto escrito fora do robô', origem: 'importado',
-      validacao: { palavraChave: keyword, volume: pauta.volume, cluster: pauta.cluster, apoio: (pauta.secundarias || []).map((x) => x.palavra), perguntasDoGoogle: pauta.absorve || [], serp: pauta.serp || null, fontesDaPauta: fontes.map((f) => f.url), notas: pauta.notas || '', briefing: robot.readJson(`data/briefings/${slugify(keyword)}.json`, null), validadoEm: agora, observacao: 'originalidade contra o concorrente não conferida automaticamente' } });
+    Object.assign(art, { status: 'draft', estoque: true, estocadoEm: agora, scores: { auditoria: aud.nota, demanda: dem ? dem.classe : 'não medida' }, validador: 'Auditoria automática (sem API); texto escrito fora do robô', origem: 'importado',
+      validacao: { palavraChave: keyword, demanda: dem ? { volume: dem.volume, classe: dem.classe, tendencia: dem.tendencia, concorrencia: dem.concorrencia, fonte: dem.fonte, fraseMedida: dem.frase, porSimilar: dem.porSimilar } : { classe: 'não medida' }, volume: pauta.volume, cluster: pauta.cluster, apoio: (pauta.secundarias || []).map((x) => x.palavra), perguntasDoGoogle: pauta.absorve || [], serp: pauta.serp || null, fontesDaPauta: fontes.map((f) => f.url), notas: pauta.notas || '', briefing: robot.readJson(`data/briefings/${slugify(keyword)}.json`, null), validadoEm: agora, observacao: 'originalidade contra o concorrente não conferida automaticamente' } });
     const i = robot.db.articles.findIndex((x) => x.slug === art.slug);
     if (i >= 0) { art.createdAt = robot.db.articles[i].createdAt || art.createdAt; robot.db.articles[i] = art; } else robot.db.articles.push(art);
     robot.gravar();
