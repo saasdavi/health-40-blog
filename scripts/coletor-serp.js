@@ -59,7 +59,9 @@ export function analisar(paginas, perguntas) {
   const comuns = [...contagem].filter(([, n]) => n >= 2).map(([k]) => exemplo.get(k)).slice(0, 10);
   const textoH2 = norm(paginas.flatMap((p) => p.secoes || []).join(' '));
   const lacunas = (perguntas || []).filter((q) => { const t = norm(q).split(' ').filter((x) => x.length > 3); return t.length && t.filter((x) => textoH2.includes(x)).length / t.length < 0.6; }).slice(0, 6);
-  return { medianaPalavras: mediana(paginas.map((p) => p.palavras)), h2Comuns: comuns, lacunas };
+  const tc = new Map(); paginas.forEach((p) => (p.termosFrequentes || []).forEach((t) => { const k = t.replace(/ \(\d+\)$/, ''); tc.set(k, (tc.get(k) || 0) + 1); }));
+  const termosComuns = [...tc].filter(([, n]) => n >= 2).sort((a, b) => b[1] - a[1]).slice(0, 15).map(([k]) => k);
+  return { medianaPalavras: mediana(paginas.map((p) => p.palavras)), h2Comuns: comuns, lacunas, termosComuns };
 }
 
 // ---------- entrada: pautas da planilha mestre ----------
@@ -120,7 +122,7 @@ async function main() {
       const cls = classificar(s.organicos);
       const paginas = [];
       for (const o of s.organicos.slice(0, TOPO)) {
-        try { const h = await pegarHtml(o.url); const m = metricasHtml(h); paginas.push({ url: o.url, host: o.host, tituloGoogle: o.titulo, ...m }); console.log(`  📄 ${o.host}: ${m.palavras} palavras, ${m.h2} H2`); }
+        try { const h = await pegarHtml(o.url); const m = metricasHtml(h, { keyword: kw }); paginas.push({ url: o.url, host: o.host, tituloGoogle: o.titulo, ...m }); console.log(`  📄 #${paginas.length} ${o.host}: ${m.palavras} palavras, ${m.h2} H2, imagens ${m.imagensComAlt}/${m.imagens} com alt, palavra-chave no título: ${m.kwNoTitulo ? 'sim' : 'não'}, ${m.kwUsos ?? '?'} usos${AUTORIDADE.test(o.host) ? ' [AUTORIDADE]' : ''}`); }
         catch (e) { paginas.push({ url: o.url, host: o.host, erro: String(e.message).slice(0, 80) }); console.log(`  ⚠️ ${o.host}: ${String(e.message).slice(0, 60)}`); }
         if (!MOCK) await esperar(rand(3000, 7000));
       }

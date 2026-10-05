@@ -11,7 +11,8 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DIR = path.join(__dirname, '../data/entrada');
 import { demandaDe } from './demanda-lib.js';
 import { pontuar } from './pontuacao.js';
-const MIN_SCORE = 86; // regra do usuário: só sobe com nota acima de 85
+const MIN_SCORE = 85; // regra do usuário: nota mínima 8,5 de 10 (85/100)
+const de10 = (n) => (n / 10).toFixed(1).replace('.', ',');
 
 const slugify = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
@@ -43,11 +44,11 @@ for (const nome of arquivos) {
     console.log(`  demanda: ${dem ? `${dem.volume} buscas/mês (${dem.classe}${dem.tendencia ? ', ' + dem.tendencia : ''}${dem.porSimilar ? ', por frase parecida: ' + dem.frase : ''})` : 'NÃO MEDIDA (palavra-chave fora de data/pesquisa/demanda-validada.json)'}`);
     const art = robot.montar(pauta, d, fontes);
     const aud = robot.auditar(art, null);
-    console.log(`  ${art.wordCount} palavras | auditoria ${aud.nota}/100${aud.bloqueios.length ? ' | BLOQUEIOS: ' + aud.bloqueios.join('; ') : ''}`);
-    if (aud.bloqueios.length || aud.nota < MIN_SCORE) { relatorio([`Nota ${aud.nota}/100 (precisa ser acima de 85)`, ...aud.bloqueios.map((b) => `BLOQUEIO: ${b}`), ...aud.alertas]); console.log('  ⛔ reprovado; veja o .relatorio.md'); continue; }
+    console.log(`  ${art.wordCount} palavras | auditoria ${aud.nota}/100 (nota ${de10(aud.nota)}/10)${aud.bloqueios.length ? ' | BLOQUEIOS: ' + aud.bloqueios.join('; ') : ''}`);
+    if (aud.bloqueios.length || aud.nota < MIN_SCORE) { relatorio([`Nota ${de10(aud.nota)}/10 (mínimo 8,5)`, ...aud.bloqueios.map((b) => `BLOQUEIO: ${b}`), ...aud.alertas]); console.log('  ⛔ reprovado; veja o .relatorio.md'); continue; }
     if (!(await robot.imagem(art))) { relatorio(['Sem imagens: confira PEXEL_API_KEY/PIXABAY_API_KEY e as buscas de foto do cabeçalho.']); continue; }
     const pont = pontuar({ art, aud, outros: robot.db.articles, revisado: get('REVISADO') === 'sim' });
-    console.log(`  🎯 pontuação ${pont.total}/100 → ${pont.decisao} (qualidade ${pont.partes.qualidade} | demanda ${pont.partes.demanda} | fontes ${pont.partes.fontes} | originalidade ${pont.partes.originalidade} | formato ${pont.partes.formato})`);
+    console.log(`  🎯 pontuação ${pont.total}/100 (nota ${de10(pont.total)}/10) → ${pont.decisao} (qualidade ${pont.partes.qualidade} | demanda ${pont.partes.demanda} | fontes ${pont.partes.fontes} | originalidade ${pont.partes.originalidade} | formato ${pont.partes.formato})`);
     if (pont.motivos.length) console.log(`     pontos de atenção: ${pont.motivos.slice(0, 4).join('; ')}`);
     if (pont.decisao === 'DEVOLVER') { relatorio([`Pontuação ${pont.total}/100: DEVOLVER`, ...pont.motivos]); console.log('  ⛔ devolvido pela pontuação; veja o .relatorio.md'); continue; }
     const agora = new Date().toISOString();
@@ -61,7 +62,7 @@ for (const nome of arquivos) {
     fs.renameSync(caminho, path.join(DIR, 'processados', nome));
     fs.rmSync(caminho.replace(/\.txt$/, '.relatorio.md'), { force: true });
     guardados++;
-    console.log(`  📦 guardado no estoque: /${art.slug}/ (nota ${aud.nota})`);
+    console.log(`  📦 guardado no estoque: /${art.slug}/ (nota ${de10(aud.nota)}/10)`);
   } catch (e) { relatorio([e.message]); console.error(`  ❌ ${e.message}`); }
 }
 console.log(`\n📊 ${guardados} de ${arquivos.length} guardados.`);
