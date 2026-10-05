@@ -46,3 +46,9 @@ O `montar-prompt.js` inclui no prompt o texto (até 2.500 palavras por página) 
 
 ## Planilha com o texto dos concorrentes (para subir no Google Sheets)
 No fim de cada rodada o coletor também gera `.cache\concorrentes-texto.csv` (1 linha por concorrente: palavra-chave, posição, site, URL, métricas e o texto da página numa célula, cortado em 45.000 caracteres). Suba esse arquivo no Google Sheets ou anexe no GPT, junto com `data\conteudo\pautas-mestre.csv`. Para rodar sem o coletor: `node scripts/exportar-concorrentes-texto.js`. Fica só no seu PC (`.cache` não vai ao GitHub).
+
+## Só os links (`--so-links`)
+```
+node scripts/coletor-serp.js --so-links --limite 5
+```
+Faz só a busca no Google (sem abrir os concorrentes): grava as 10 URLs do topo, as perguntas do Google e a dificuldade na planilha mestre (coluna `urls_topo_google`) e acrescenta cada palavra em `data\entrada\urls-topo.txt`. Depois você pode (a) entregar essas URLs ao Gemini para ele ler, ou (b) medir as páginas sem Google: `node scripts/coletor-serp.js --urls data/entrada/urls-topo.txt --topo 10`. O captcha vem da busca no Google, então o limite de palavras por sessão continua o mesmo.
