@@ -43,3 +43,15 @@ for (const [t, l] of Object.entries(por).sort((a, b) => b[1].length - a[1].lengt
 }
 fs.writeFileSync(path.join(raiz, 'data/pesquisa/DEMANDA-VALIDADA.md'), md);
 console.log(`Demanda: ${Object.keys(itens).length} frases | temas com pautas: ${Object.keys(por).length}`);
+
+// Candidatas "mais fáceis de ranquear" (proxy; a prova é o Google): concorrência de anúncios baixa, 1.000–25.000/mês,
+// 3+ palavras (long tail), sem marca/produto/ruído, sem artigo, não caindo. Marca sensível com ⚠.
+const RUIDO2 = /\b(sanduiche|carne de|carnes|hamburguer|espetinho|cerveja|gin|vodka|skol|boutique|pao de|comida|deposito|estacao|mcdonald|ingles|fruta do dragao|nutricionista pela|unimed|verduras e legumes|altas horas|lanche 24|mais 1|bebidas com|casa da|lanche do|lanche da tarde|laser de co2|peeling de fenol)\b/;
+const facil = Object.values(itens).filter((e) => !RUIDO2.test(sa(e.frase)) && e.volume >= 1000 && e.volume <= 25000 && e.concorrencia === 'LOW' && sa(e.frase).split(/\s+/).length >= 3 && !RUIDO.test(sa(e.frase)) && e.tendencia !== 'caindo' && !tem(e.frase));
+const vistos = new Set(); const f2 = [];
+for (const e of facil.sort((a, b) => b.volume - a.volume)) { const k = chave(e.frase).split(' ').slice(0, 3).join(' '); if (vistos.has(k + e.volume)) continue; vistos.add(k + e.volume); f2.push(e); }
+let mf = `# Candidatas mais fáceis de ranquear (${new Date().toISOString().slice(0, 10)})\n\nCritério (proxy): volume exato 1.000–25.000/mês, concorrência de anúncios BAIXA, frase de 3+ palavras, sem marca/produto/local, sem artigo no blog, tendência não caindo. **Isto é uma pista, não prova**: a facilidade real só se confirma olhando o topo do Google (autoridades, lojas, tamanho dos concorrentes). Confirmar as escolhidas antes de escrever.\n\n`;
+const pt = {}; for (const e of f2) (pt[e.tema] ||= []).push(e);
+for (const [t, l] of Object.entries(pt).sort((a, b) => b[1].length - a[1].length)) mf += `## ${temas[t] || t} (${l.length})\n\n${l.slice(0, 50).map((e) => `- ${e.frase} — ${num(e.volume)}${e.tendencia === 'subindo' ? ' ↑' : ''}${SENS.test(norm(e.frase)) ? ' ⚠' : ''}`).join('\n')}\n\n`;
+fs.writeFileSync(path.join(raiz, 'data/pesquisa/DEMANDA-FACIL.md'), mf);
+console.log(`Fáceis (proxy): ${f2.length}`);
