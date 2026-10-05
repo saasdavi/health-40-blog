@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 10,
-  "prontosParaUsar": 36,
+  "publicados": 11,
+  "prontosParaUsar": 35,
   "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -199,15 +199,15 @@
    "palavraChave": "dores lombares",
    "cluster": "coluna",
    "volume": 74000,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1306,
    "h2": 10,
    "imagens": 3,
    "fontes": 3,
    "auditoria": 98,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-05T14:53:06.802Z",
    "escritoEm": "2026-10-04T16:39:40.649Z",
-   "previstoPara": "2026-10-05",
+   "previstoPara": null,
    "pontesSugeridas": [
     "dor nas costas"
    ]

@@ -149,4 +149,15 @@
       <image:caption>Gordura no fígado afeta milhões. Saiba o que causa, reconheça sintomas e descubra como reverter essa condição silenciosa com mudanças simples.</image:caption>
     </image:image>
   </url>
+  <url>
+    <loc>https://health-40-blog.vercel.app/dores-lombares</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>/images/dores-lombares/dores-lombares-capa.jpg</image:loc>
+      <image:title>Dores Lombares: Causas e Alívio Prático</image:title>
+      <image:caption>Dores lombares afetam sua rotina? Descubra as principais causas, sinais de alerta e estratégias práticas para aliviar a dor na lombar.</image:caption>
+    </image:image>
+  </url>
 </urlset>

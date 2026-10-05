@@ -1195,7 +1195,7 @@
         ]
       },
       "volume": 74000,
-      "status": "draft",
+      "status": "published",
       "createdAt": "2026-10-04T16:39:38.313Z",
       "scores": {
         "auditoria": 98
@@ -1248,7 +1248,7 @@
         "pexels:3884248"
       ],
       "altConferido": false,
-      "estoque": true,
+      "estoque": false,
       "estocadoEm": "2026-10-04T16:39:40.649Z",
       "validacao": {
         "palavraChave": "dores lombares",
@@ -1322,7 +1322,9 @@
           ]
         },
         "validadoEm": "2026-10-04T16:39:40.649Z"
-      }
+      },
+      "publishedAt": "2026-10-05T14:53:06.802Z",
+      "publicadoDoEstoqueEm": "2026-10-05T14:53:06.802Z"
     },
     {
       "id": "art_1791132020167_n8aq",
@@ -9751,6 +9753,6 @@
   ],
   "stats": {
     "total": 55,
-    "published": 10
+    "published": 11
   }
 }
