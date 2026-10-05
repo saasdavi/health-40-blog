@@ -72,6 +72,16 @@ function lerBlocosUrls(f) {
   return fs.readFileSync(path.join(raiz, f), 'utf8').replace(/^﻿/, '').split(/\r?\n\s*\r?\n/).map((b) => b.split(/\r?\n/).map((x) => x.trim()).filter(Boolean)).filter((b) => b.length > 1)
     .map((b) => ({ kw: b[0], urls: b.slice(1).filter((u) => /^https?:\/\//.test(u)) }));
 }
+// Cópia LOCAL (fora do Git: .cache/ está no .gitignore) do HTML e do texto de cada concorrente, para você conferir (equivale ao Ctrl+U) e usar de referência.
+function guardarLocal(kw, n, host, html) {
+  try {
+    const dir = path.join(raiz, '.cache', 'serp', slugify(kw)); fs.mkdirSync(dir, { recursive: true });
+    const base = `${String(n).padStart(2, '0')}-${slugify(host)}`;
+    fs.writeFileSync(path.join(dir, `${base}.html`), html);
+    const corpo = html.replace(/<(script|style|noscript|nav|header|footer|aside)[\s\S]*?<\/\1>/gi, ' ').replace(/<\/(p|h[1-6]|li|div|tr)>/gi, '\n');
+    fs.writeFileSync(path.join(dir, `${base}.txt`), corpo.replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/[ \t]+/g, ' ').replace(/\n\s*\n+/g, '\n').trim());
+  } catch {}
+}
 const perguntar = (t) => new Promise((r) => { const rl = readline.createInterface({ input: process.stdin, output: process.stdout }); rl.question(t, (a) => { rl.close(); r(a); }); });
 
 async function main() {
@@ -123,7 +133,7 @@ async function main() {
       const cls = classificar(s.organicos);
       const paginas = [];
       for (const o of s.organicos.slice(0, TOPO)) {
-        try { const h = await pegarHtml(o.url); const m = metricasHtml(h, { keyword: kw }); paginas.push({ url: o.url, host: o.host, tituloGoogle: o.titulo, ...m }); console.log(`  📄 #${paginas.length} ${o.host}: ${m.palavras} palavras, ${m.h2} H2, imagens ${m.imagensComAlt}/${m.imagens} com alt, palavra-chave no título: ${m.kwNoTitulo ? 'sim' : 'não'}, ${m.kwUsos ?? '?'} usos${AUTORIDADE.test(o.host) ? ' [AUTORIDADE]' : ''}`); }
+        try { const h = await pegarHtml(o.url); const m = metricasHtml(h, { keyword: kw }); guardarLocal(kw, paginas.length + 1, o.host, h); paginas.push({ url: o.url, host: o.host, tituloGoogle: o.titulo, ...m }); console.log(`  📄 #${paginas.length} ${o.host}: ${m.palavras} palavras, ${m.h2} H2, imagens ${m.imagensComAlt}/${m.imagens} com alt, palavra-chave no título: ${m.kwNoTitulo ? 'sim' : 'não'}, ${m.kwUsos ?? '?'} usos${AUTORIDADE.test(o.host) ? ' [AUTORIDADE]' : ''}`); }
         catch (e) { paginas.push({ url: o.url, host: o.host, erro: String(e.message).slice(0, 80) }); console.log(`  ⚠️ ${o.host}: ${String(e.message).slice(0, 60)}`); }
         if (!MOCK) await esperar(rand(3000, 7000));
       }

@@ -37,3 +37,6 @@ creatina
 https://site3.com/pagina
 ```
 (1ª linha = palavra; linhas seguintes = URLs; linha em branco separa as palavras.) Depois: `node scripts/coletor-serp.js --urls data/entrada/urls-topo.txt --topo 10`. Esse modo não aciona o Google, então não tem captcha; só não traz as perguntas "As pessoas também perguntam".
+
+## Cópia local do HTML e do texto
+Para cada concorrente medido, o coletor guarda no SEU computador (pasta `.cache\serp\<palavra>\`, fora do GitHub) o HTML (`.html`, equivale ao Ctrl+U) e o texto (`.txt`). Serve para você conferir os números e consultar. Para a planilha vão só as métricas, nunca o texto.
