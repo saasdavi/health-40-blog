@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 12,
-  "prontosParaUsar": 34,
+  "publicados": 13,
+  "prontosParaUsar": 33,
   "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -235,15 +235,15 @@
    "palavraChave": "cortisol alto",
    "cluster": "hormonios",
    "volume": 60500,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1503,
    "h2": 12,
    "imagens": 3,
    "fontes": 6,
    "auditoria": 93,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-05T21:14:15.817Z",
    "escritoEm": "2026-10-04T16:41:43.429Z",
-   "previstoPara": "2026-10-06",
+   "previstoPara": null,
    "pontesSugeridas": []
   },
   {

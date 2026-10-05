@@ -4,8 +4,8 @@ Fonte dos textos: `data/articles.json`. Atualizado por `node scripts/banco-conte
 
 | O que | Quantidade | Dias (3/dia) |
 |---|---|---|
-| **Pronto para usar** (escrito, aprovado, guardado) | **34** | 11 |
-| Publicado (no ar) | 12 | |
+| **Pronto para usar** (escrito, aprovado, guardado) | **33** | 11 |
+| Publicado (no ar) | 13 | |
 | Pauta validada, falta escrever | 18 | 6 |
 | Planejado, falta validar no Google | 886 | 295 |
 | Vagas (sem tema levantado) | 146 | |
@@ -16,7 +16,6 @@ Dias de conteúdo já escrito + pauta validada: **17** (a 3 por dia).
 
 | Artigo | Palavras | Auditoria | Previsto para |
 |---|---|---|---|
-| Cortisol Alto: Como Controlar o Hormônio do Estresse | 1503 | 93 | 2026-10-06 |
 | Azia: Causas, Alívio e Quando Procurar Médico | 1171 | 88 | 2026-10-07 |
 | Varizes nas Pernas: Guia Completo para Tratar | 1685 | 98 | 2026-10-07 |
 | Dor nas Costas: Guia Prático para Aliviar em Casa | 1681 | 85 | 2026-10-08 |
@@ -76,6 +75,7 @@ Dias de conteúdo já escrito + pauta validada: **17** (a 3 por dia).
 | Gordura no Fígado: Causas, Sintomas e Como Reverter | 1558 | 87 | 2026-10-04 |
 | Dores Lombares: Causas e Alívio Prático | 1306 | 98 | 2026-10-05 |
 | Sintomas de Diabetes: 7 Sinais de Alerta para Mulheres 40+ | 1533 | 95 | 2026-10-05 |
+| Cortisol Alto: Como Controlar o Hormônio do Estresse | 1503 | 93 | 2026-10-05 |
 
 ## Pautas validadas esperando texto (próximas a escrever)
 
