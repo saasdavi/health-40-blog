@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 13,
-  "prontosParaUsar": 33,
+  "publicados": 14,
+  "prontosParaUsar": 32,
   "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -252,15 +252,15 @@
    "palavraChave": "azia",
    "cluster": "digestivo",
    "volume": 49500,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1171,
    "h2": 10,
    "imagens": 3,
    "fontes": 4,
    "auditoria": 88,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-06T03:08:46.903Z",
    "escritoEm": "2026-10-04T16:42:18.255Z",
-   "previstoPara": "2026-10-07",
+   "previstoPara": null,
    "pontesSugeridas": []
   },
   {

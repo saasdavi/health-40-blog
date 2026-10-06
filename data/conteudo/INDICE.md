@@ -4,19 +4,18 @@ Fonte dos textos: `data/articles.json`. Atualizado por `node scripts/banco-conte
 
 | O que | Quantidade | Dias (3/dia) |
 |---|---|---|
-| **Pronto para usar** (escrito, aprovado, guardado) | **33** | 11 |
-| Publicado (no ar) | 13 | |
+| **Pronto para usar** (escrito, aprovado, guardado) | **32** | 10 |
+| Publicado (no ar) | 14 | |
 | Pauta validada, falta escrever | 18 | 6 |
 | Planejado, falta validar no Google | 886 | 295 |
 | Vagas (sem tema levantado) | 146 | |
 
-Dias de conteúdo já escrito + pauta validada: **17** (a 3 por dia).
+Dias de conteúdo já escrito + pauta validada: **16** (a 3 por dia).
 
 ## Prontos para usar
 
 | Artigo | Palavras | Auditoria | Previsto para |
 |---|---|---|---|
-| Azia: Causas, Alívio e Quando Procurar Médico | 1171 | 88 | 2026-10-07 |
 | Varizes nas Pernas: Guia Completo para Tratar | 1685 | 98 | 2026-10-07 |
 | Dor nas Costas: Guia Prático para Aliviar em Casa | 1681 | 85 | 2026-10-08 |
 | Alimentos Ricos em Fibras: Guia Prático 40+ | 1735 | 92 | 2026-10-08 |
@@ -76,6 +75,7 @@ Dias de conteúdo já escrito + pauta validada: **17** (a 3 por dia).
 | Dores Lombares: Causas e Alívio Prático | 1306 | 98 | 2026-10-05 |
 | Sintomas de Diabetes: 7 Sinais de Alerta para Mulheres 40+ | 1533 | 95 | 2026-10-05 |
 | Cortisol Alto: Como Controlar o Hormônio do Estresse | 1503 | 93 | 2026-10-05 |
+| Azia: Causas, Alívio e Quando Procurar Médico | 1171 | 88 | 2026-10-06 |
 
 ## Pautas validadas esperando texto (próximas a escrever)
 
