@@ -1924,7 +1924,7 @@
         ]
       },
       "volume": 49500,
-      "status": "draft",
+      "status": "published",
       "createdAt": "2026-10-04T16:43:42.675Z",
       "scores": {
         "auditoria": 98
@@ -1977,7 +1977,7 @@
         "pexels:16204310"
       ],
       "altConferido": false,
-      "estoque": true,
+      "estoque": false,
       "estocadoEm": "2026-10-04T16:43:44.762Z",
       "validacao": {
         "palavraChave": "varizes",
@@ -2042,7 +2042,9 @@
           ]
         },
         "validadoEm": "2026-10-04T16:43:44.762Z"
-      }
+      },
+      "publishedAt": "2026-10-06T13:24:41.885Z",
+      "publicadoDoEstoqueEm": "2026-10-06T13:24:41.885Z"
     },
     {
       "id": "art_1791132309173_8e1x",
@@ -9759,6 +9761,6 @@
   ],
   "stats": {
     "total": 55,
-    "published": 14
+    "published": 15
   }
 }

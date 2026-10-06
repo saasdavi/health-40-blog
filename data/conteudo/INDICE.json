@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 14,
-  "prontosParaUsar": 32,
+  "publicados": 15,
+  "prontosParaUsar": 31,
   "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -269,15 +269,15 @@
    "palavraChave": "varizes",
    "cluster": "circulacao",
    "volume": 49500,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1685,
    "h2": 12,
    "imagens": 3,
    "fontes": 6,
    "auditoria": 98,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-06T13:24:41.885Z",
    "escritoEm": "2026-10-04T16:43:44.762Z",
-   "previstoPara": "2026-10-07",
+   "previstoPara": null,
    "pontesSugeridas": []
   },
   {
