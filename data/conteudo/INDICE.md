@@ -4,8 +4,8 @@ Fonte dos textos: `data/articles.json`. Atualizado por `node scripts/banco-conte
 
 | O que | Quantidade | Dias (3/dia) |
 |---|---|---|
-| **Pronto para usar** (escrito, aprovado, guardado) | **31** | 10 |
-| Publicado (no ar) | 15 | |
+| **Pronto para usar** (escrito, aprovado, guardado) | **30** | 10 |
+| Publicado (no ar) | 16 | |
 | Pauta validada, falta escrever | 18 | 6 |
 | Planejado, falta validar no Google | 886 | 295 |
 | Vagas (sem tema levantado) | 146 | |
@@ -17,7 +17,6 @@ Dias de conteúdo já escrito + pauta validada: **16** (a 3 por dia).
 | Artigo | Palavras | Auditoria | Previsto para |
 |---|---|---|---|
 | Dor nas Costas: Guia Prático para Aliviar em Casa | 1681 | 85 | 2026-10-08 |
-| Alimentos Ricos em Fibras: Guia Prático 40+ | 1735 | 92 | 2026-10-08 |
 | Insônia: Causas, Tipos e Como Resolver | 1346 | 92 | 2026-10-08 |
 | Ritmo Circadiano: Restaure o Sono Após 40 | 1552 | 90 | 2026-10-09 |
 | Andropausa: Sintomas, Idade e Como Lidar | 1268 | 100 | 2026-10-09 |
@@ -76,6 +75,7 @@ Dias de conteúdo já escrito + pauta validada: **16** (a 3 por dia).
 | Cortisol Alto: Como Controlar o Hormônio do Estresse | 1503 | 93 | 2026-10-05 |
 | Azia: Causas, Alívio e Quando Procurar Médico | 1171 | 88 | 2026-10-06 |
 | Varizes nas Pernas: Guia Completo para Tratar | 1685 | 98 | 2026-10-06 |
+| Alimentos Ricos em Fibras: Guia Prático 40+ | 1735 | 92 | 2026-10-06 |
 
 ## Pautas validadas esperando texto (próximas a escrever)
 

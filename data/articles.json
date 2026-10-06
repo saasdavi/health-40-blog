@@ -2324,7 +2324,7 @@
         ]
       },
       "volume": 49500,
-      "status": "draft",
+      "status": "published",
       "createdAt": "2026-10-04T16:45:52.234Z",
       "scores": {
         "auditoria": 92
@@ -2377,7 +2377,7 @@
         "pexels:37472949"
       ],
       "altConferido": false,
-      "estoque": true,
+      "estoque": false,
       "estocadoEm": "2026-10-04T16:45:54.649Z",
       "validacao": {
         "palavraChave": "alimentos ricos em fibras",
@@ -2473,7 +2473,9 @@
           ]
         },
         "validadoEm": "2026-10-04T16:45:54.649Z"
-      }
+      },
+      "publishedAt": "2026-10-06T16:14:54.615Z",
+      "publicadoDoEstoqueEm": "2026-10-06T16:14:54.615Z"
     },
     {
       "id": "art_1791132390412_t5v1",
@@ -9761,6 +9763,6 @@
   ],
   "stats": {
     "total": 55,
-    "published": 15
+    "published": 16
   }
 }
