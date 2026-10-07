@@ -2801,7 +2801,7 @@
         ]
       },
       "volume": 40500,
-      "status": "draft",
+      "status": "published",
       "createdAt": "2026-10-04T16:49:32.097Z",
       "scores": {
         "auditoria": 90
@@ -2854,7 +2854,7 @@
         "pexels:8070517"
       ],
       "altConferido": false,
-      "estoque": true,
+      "estoque": false,
       "estocadoEm": "2026-10-04T16:49:34.578Z",
       "validacao": {
         "palavraChave": "ritmo circadiano",
@@ -2944,7 +2944,9 @@
           ]
         },
         "validadoEm": "2026-10-04T16:49:34.578Z"
-      }
+      },
+      "publishedAt": "2026-10-07T19:32:33.639Z",
+      "publicadoDoEstoqueEm": "2026-10-07T19:32:33.639Z"
     },
     {
       "id": "art_1791132611284_8o6l",
@@ -9765,6 +9767,6 @@
   ],
   "stats": {
     "total": 55,
-    "published": 17
+    "published": 18
   }
 }

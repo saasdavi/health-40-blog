@@ -226,4 +226,15 @@
       <image:caption>Insônia afeta sua qualidade de vida. Saiba o que causa, os 3 tipos principais e estratégias práticas para dormir melhor depois dos 40.</image:caption>
     </image:image>
   </url>
+  <url>
+    <loc>https://health-40-blog.vercel.app/ritmo-circadiano</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>/images/ritmo-circadiano/ritmo-circadiano-capa.jpg</image:loc>
+      <image:title>Ritmo Circadiano: Restaure o Sono Após 40</image:title>
+      <image:caption>Ritmo circadiano é seu relógio biológico de 24h. Descubra como regulá-lo, sinais de desregulação e técnicas práticas para dormir melhor aos 40+.</image:caption>
+    </image:image>
+  </url>
 </urlset>

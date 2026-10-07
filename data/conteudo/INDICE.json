@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 17,
-  "prontosParaUsar": 29,
+  "publicados": 18,
+  "prontosParaUsar": 28,
   "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -344,15 +344,15 @@
    "palavraChave": "ritmo circadiano",
    "cluster": "sono",
    "volume": 40500,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1552,
    "h2": 10,
    "imagens": 3,
    "fontes": 5,
    "auditoria": 90,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-07T19:32:33.639Z",
    "escritoEm": "2026-10-04T16:49:34.578Z",
-   "previstoPara": "2026-10-09",
+   "previstoPara": null,
    "pontesSugeridas": []
   },
   {
