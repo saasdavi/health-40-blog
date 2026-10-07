@@ -2525,7 +2525,7 @@
         ]
       },
       "volume": 40500,
-      "status": "draft",
+      "status": "published",
       "createdAt": "2026-10-04T16:46:30.412Z",
       "scores": {
         "auditoria": 92
@@ -2578,7 +2578,7 @@
         "pexels:7556611"
       ],
       "altConferido": false,
-      "estoque": true,
+      "estoque": false,
       "estocadoEm": "2026-10-04T16:46:32.350Z",
       "validacao": {
         "palavraChave": "insônia",
@@ -2741,7 +2741,9 @@
           ]
         },
         "validadoEm": "2026-10-04T16:46:32.350Z"
-      }
+      },
+      "publishedAt": "2026-10-07T13:34:17.014Z",
+      "publicadoDoEstoqueEm": "2026-10-07T13:34:17.014Z"
     },
     {
       "id": "art_1791132572097_xdt1",
@@ -9763,6 +9765,6 @@
   ],
   "stats": {
     "total": 55,
-    "published": 16
+    "published": 17
   }
 }

@@ -215,4 +215,15 @@
       <image:caption>Descubra quais alimentos ricos em fibras ajudam seu intestino, controlam diabetes e auxiliam no emagrecimento. Guia completo para mulheres 40+.</image:caption>
     </image:image>
   </url>
+  <url>
+    <loc>https://health-40-blog.vercel.app/insonia</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>/images/insonia/insonia-capa.jpg</image:loc>
+      <image:title>Insônia: Causas, Tipos e Como Resolver</image:title>
+      <image:caption>Insônia afeta sua qualidade de vida. Saiba o que causa, os 3 tipos principais e estratégias práticas para dormir melhor depois dos 40.</image:caption>
+    </image:image>
+  </url>
 </urlset>

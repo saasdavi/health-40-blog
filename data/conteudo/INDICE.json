@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 16,
-  "prontosParaUsar": 30,
+  "publicados": 17,
+  "prontosParaUsar": 29,
   "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -324,15 +324,15 @@
    "palavraChave": "insônia",
    "cluster": "sono",
    "volume": 40500,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1346,
    "h2": 11,
    "imagens": 3,
    "fontes": 3,
    "auditoria": 92,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-07T13:34:17.014Z",
    "escritoEm": "2026-10-04T16:46:32.350Z",
-   "previstoPara": "2026-10-08",
+   "previstoPara": null,
    "pontesSugeridas": [
     "insônia causas",
     "insônia o que fazer"
