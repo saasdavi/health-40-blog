@@ -237,4 +237,15 @@
       <image:caption>Ritmo circadiano é seu relógio biológico de 24h. Descubra como regulá-lo, sinais de desregulação e técnicas práticas para dormir melhor aos 40+.</image:caption>
     </image:image>
   </url>
+  <url>
+    <loc>https://health-40-blog.vercel.app/andropausa</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>/images/andropausa/andropausa-capa.jpg</image:loc>
+      <image:title>Andropausa: Sintomas, Idade e Como Lidar</image:title>
+      <image:caption>Andropausa é a queda de testosterona nos homens após 40 anos. Conheça os 9 sintomas principais, quando investigar e como melhorar a qualidade de vida.</image:caption>
+    </image:image>
+  </url>
 </urlset>

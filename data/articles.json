@@ -3004,7 +3004,7 @@
         ]
       },
       "volume": 39200,
-      "status": "draft",
+      "status": "published",
       "createdAt": "2026-10-04T16:50:11.284Z",
       "scores": {
         "auditoria": 100
@@ -3057,7 +3057,7 @@
         "pexels:14085138"
       ],
       "altConferido": false,
-      "estoque": true,
+      "estoque": false,
       "estocadoEm": "2026-10-04T16:50:13.923Z",
       "validacao": {
         "palavraChave": "andropausa",
@@ -3124,7 +3124,9 @@
           ]
         },
         "validadoEm": "2026-10-04T16:50:13.923Z"
-      }
+      },
+      "publishedAt": "2026-10-07T22:05:11.164Z",
+      "publicadoDoEstoqueEm": "2026-10-07T22:05:11.164Z"
     },
     {
       "id": "art_1791132785204_hwjf",
@@ -9767,6 +9769,6 @@
   ],
   "stats": {
     "total": 55,
-    "published": 18
+    "published": 19
   }
 }

@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 18,
-  "prontosParaUsar": 28,
+  "publicados": 19,
+  "prontosParaUsar": 27,
   "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -361,15 +361,15 @@
    "palavraChave": "andropausa",
    "cluster": "hormonios",
    "volume": 39200,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1268,
    "h2": 11,
    "imagens": 3,
    "fontes": 5,
    "auditoria": 100,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-07T22:05:11.164Z",
    "escritoEm": "2026-10-04T16:50:13.923Z",
-   "previstoPara": "2026-10-09",
+   "previstoPara": null,
    "pontesSugeridas": []
   },
   {
