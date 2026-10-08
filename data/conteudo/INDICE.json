@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 19,
-  "prontosParaUsar": 27,
+  "publicados": 20,
+  "prontosParaUsar": 26,
   "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -378,15 +378,15 @@
    "palavraChave": "barriga inchada",
    "cluster": "digestao",
    "volume": 33100,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1192,
    "h2": 11,
    "imagens": 3,
    "fontes": 3,
    "auditoria": 88,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-08T13:39:45.057Z",
    "escritoEm": "2026-10-04T16:53:07.289Z",
-   "previstoPara": "2026-10-10",
+   "previstoPara": null,
    "pontesSugeridas": []
   },
   {

@@ -3176,7 +3176,7 @@
         ]
       },
       "volume": 33100,
-      "status": "draft",
+      "status": "published",
       "createdAt": "2026-10-04T16:53:05.204Z",
       "scores": {
         "auditoria": 88
@@ -3229,7 +3229,7 @@
         "pexels:6443473"
       ],
       "altConferido": false,
-      "estoque": true,
+      "estoque": false,
       "estocadoEm": "2026-10-04T16:53:07.289Z",
       "validacao": {
         "palavraChave": "barriga inchada",
@@ -3292,7 +3292,9 @@
           ]
         },
         "validadoEm": "2026-10-04T16:53:07.289Z"
-      }
+      },
+      "publishedAt": "2026-10-08T13:39:45.057Z",
+      "publicadoDoEstoqueEm": "2026-10-08T13:39:45.057Z"
     },
     {
       "id": "art_1791132855421_yic7",
@@ -9769,6 +9771,6 @@
   ],
   "stats": {
     "total": 55,
-    "published": 19
+    "published": 20
   }
 }

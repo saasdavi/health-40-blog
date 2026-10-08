@@ -4,20 +4,19 @@ Fonte dos textos: `data/articles.json`. Atualizado por `node scripts/banco-conte
 
 | O que | Quantidade | Dias (3/dia) |
 |---|---|---|
-| **Pronto para usar** (escrito, aprovado, guardado) | **27** | 9 |
-| Publicado (no ar) | 19 | |
+| **Pronto para usar** (escrito, aprovado, guardado) | **26** | 8 |
+| Publicado (no ar) | 20 | |
 | Pauta validada, falta escrever | 18 | 6 |
 | Planejado, falta validar no Google | 886 | 295 |
 | Vagas (sem tema levantado) | 146 | |
 
-Dias de conteúdo já escrito + pauta validada: **15** (a 3 por dia).
+Dias de conteúdo já escrito + pauta validada: **14** (a 3 por dia).
 
 ## Prontos para usar
 
 | Artigo | Palavras | Auditoria | Previsto para |
 |---|---|---|---|
 | Dor nas Costas: Guia Prático para Aliviar em Casa | 1681 | 85 | 2026-10-08 |
-| Barriga Inchada: Causas e Como Aliviar | 1192 | 88 | 2026-10-10 |
 | Prisão de Ventre: Como Aliviar em Dias | 1219 | 84 | 2026-10-11 |
 | Síndrome do Intestino Irritável: Controle Agora | 1870 | 94 | 2026-10-12 |
 | Glicemia normal: valores por idade e quando procurar ajuda | 1276 | 91 | 2026-10-11 |
@@ -76,6 +75,7 @@ Dias de conteúdo já escrito + pauta validada: **15** (a 3 por dia).
 | Insônia: Causas, Tipos e Como Resolver | 1346 | 92 | 2026-10-07 |
 | Ritmo Circadiano: Restaure o Sono Após 40 | 1552 | 90 | 2026-10-07 |
 | Andropausa: Sintomas, Idade e Como Lidar | 1268 | 100 | 2026-10-07 |
+| Barriga Inchada: Causas e Como Aliviar | 1192 | 88 | 2026-10-08 |
 
 ## Pautas validadas esperando texto (próximas a escrever)
 
