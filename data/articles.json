@@ -3706,7 +3706,7 @@
         ]
       },
       "volume": 27100,
-      "status": "draft",
+      "status": "published",
       "createdAt": "2026-10-04T16:56:56.002Z",
       "scores": {
         "auditoria": 91
@@ -3759,7 +3759,7 @@
         "pexels:3601098"
       ],
       "altConferido": false,
-      "estoque": true,
+      "estoque": false,
       "estocadoEm": "2026-10-04T16:56:58.229Z",
       "validacao": {
         "palavraChave": "glicemia normal",
@@ -3848,7 +3848,9 @@
           ]
         },
         "validadoEm": "2026-10-04T16:56:58.229Z"
-      }
+      },
+      "publishedAt": "2026-10-08T19:26:57.669Z",
+      "publicadoDoEstoqueEm": "2026-10-08T19:26:57.669Z"
     },
     {
       "id": "art_1791133114993_iiej",
@@ -9773,6 +9775,6 @@
   ],
   "stats": {
     "total": 55,
-    "published": 21
+    "published": 22
   }
 }

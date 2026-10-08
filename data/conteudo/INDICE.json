@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 21,
-  "prontosParaUsar": 25,
+  "publicados": 22,
+  "prontosParaUsar": 24,
   "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -429,15 +429,15 @@
    "palavraChave": "glicemia normal",
    "cluster": "diabetes",
    "volume": 27100,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1276,
    "h2": 13,
    "imagens": 3,
    "fontes": 4,
    "auditoria": 91,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-08T19:26:57.669Z",
    "escritoEm": "2026-10-04T16:56:58.229Z",
-   "previstoPara": "2026-10-11",
+   "previstoPara": null,
    "pontesSugeridas": []
   },
   {
