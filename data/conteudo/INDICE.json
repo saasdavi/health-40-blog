@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 20,
-  "prontosParaUsar": 26,
+  "publicados": 21,
+  "prontosParaUsar": 25,
   "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -412,15 +412,15 @@
    "palavraChave": "síndrome do intestino irritável",
    "cluster": "digestao",
    "volume": 33100,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1870,
    "h2": 12,
    "imagens": 3,
    "fontes": 5,
    "auditoria": 94,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-08T16:54:54.604Z",
    "escritoEm": "2026-10-04T16:56:20.703Z",
-   "previstoPara": "2026-10-12",
+   "previstoPara": null,
    "pontesSugeridas": []
   },
   {

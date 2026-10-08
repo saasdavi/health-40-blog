@@ -259,4 +259,15 @@
       <image:caption>Barriga inchada afeta muitas mulheres 40+. Descubra as causas reais, sintomas de alerta e ações práticas para aliviar o desconforto.</image:caption>
     </image:image>
   </url>
+  <url>
+    <loc>https://health-40-blog.vercel.app/sindrome-do-intestino-irritavel</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>/images/sindrome-do-intestino-irritavel/sindrome-do-intestino-irritavel-capa.jpg</image:loc>
+      <image:title>Síndrome do Intestino Irritável: Controle Agora</image:title>
+      <image:caption>Síndrome do intestino irritável causa desconforto recorrente. Veja sintomas, alimentos a evitar, dieta low FODMAP e como controlar crises no dia a dia.</image:caption>
+    </image:image>
+  </url>
 </urlset>

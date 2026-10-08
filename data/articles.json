@@ -3532,7 +3532,7 @@
         ]
       },
       "volume": 33100,
-      "status": "draft",
+      "status": "published",
       "createdAt": "2026-10-04T16:56:18.164Z",
       "scores": {
         "auditoria": 94
@@ -3585,7 +3585,7 @@
         "pexels:36764974"
       ],
       "altConferido": false,
-      "estoque": true,
+      "estoque": false,
       "estocadoEm": "2026-10-04T16:56:20.703Z",
       "validacao": {
         "palavraChave": "síndrome do intestino irritável",
@@ -3650,7 +3650,9 @@
           ]
         },
         "validadoEm": "2026-10-04T16:56:20.703Z"
-      }
+      },
+      "publishedAt": "2026-10-08T16:54:54.604Z",
+      "publicadoDoEstoqueEm": "2026-10-08T16:54:54.604Z"
     },
     {
       "id": "art_1791133016002_r6f5",
@@ -9771,6 +9773,6 @@
   ],
   "stats": {
     "total": 55,
-    "published": 20
+    "published": 21
   }
 }
