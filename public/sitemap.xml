@@ -281,4 +281,15 @@
       <image:caption>Glicemia normal varia conforme a idade. Saiba os valores ideais em jejum, após comer e quando procurar um médico. Guia prático para mulheres 40+.</image:caption>
     </image:image>
   </url>
+  <url>
+    <loc>https://health-40-blog.vercel.app/inchaco-nas-pernas</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>/images/inchaco-nas-pernas/inchaco-nas-pernas-capa.jpg</image:loc>
+      <image:title>Inchaço nas Pernas: Causas e Alívio Prático</image:title>
+      <image:caption>Inchaço nas pernas pode indicar má circulação, retenção de líquido ou doenças sistêmicas. Veja causas, sinais de alerta e o que fazer.</image:caption>
+    </image:image>
+  </url>
 </urlset>

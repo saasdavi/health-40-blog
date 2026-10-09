@@ -3904,7 +3904,7 @@
         ]
       },
       "volume": 22200,
-      "status": "draft",
+      "status": "published",
       "createdAt": "2026-10-04T16:58:34.993Z",
       "scores": {
         "auditoria": 100
@@ -3957,7 +3957,7 @@
         "pexels:7108419"
       ],
       "altConferido": false,
-      "estoque": true,
+      "estoque": false,
       "estocadoEm": "2026-10-04T16:58:37.433Z",
       "validacao": {
         "palavraChave": "inchaço nas pernas",
@@ -4022,7 +4022,9 @@
           ]
         },
         "validadoEm": "2026-10-04T16:58:37.433Z"
-      }
+      },
+      "publishedAt": "2026-10-09T13:25:53.783Z",
+      "publicadoDoEstoqueEm": "2026-10-09T13:25:53.783Z"
     },
     {
       "id": "art_1791133201479_tv1o",
@@ -9775,6 +9777,6 @@
   ],
   "stats": {
     "total": 55,
-    "published": 22
+    "published": 23
   }
 }

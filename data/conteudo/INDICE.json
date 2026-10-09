@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 22,
-  "prontosParaUsar": 24,
+  "publicados": 23,
+  "prontosParaUsar": 23,
   "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -446,15 +446,15 @@
    "palavraChave": "inchaço nas pernas",
    "cluster": "circulacao",
    "volume": 22200,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1997,
    "h2": 13,
    "imagens": 3,
    "fontes": 4,
    "auditoria": 100,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-09T13:25:53.783Z",
    "escritoEm": "2026-10-04T16:58:37.433Z",
-   "previstoPara": "2026-10-11",
+   "previstoPara": null,
    "pontesSugeridas": []
   },
   {

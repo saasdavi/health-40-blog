@@ -4,13 +4,13 @@ Fonte dos textos: `data/articles.json`. Atualizado por `node scripts/banco-conte
 
 | O que | Quantidade | Dias (3/dia) |
 |---|---|---|
-| **Pronto para usar** (escrito, aprovado, guardado) | **24** | 8 |
-| Publicado (no ar) | 22 | |
+| **Pronto para usar** (escrito, aprovado, guardado) | **23** | 7 |
+| Publicado (no ar) | 23 | |
 | Pauta validada, falta escrever | 18 | 6 |
 | Planejado, falta validar no Google | 886 | 295 |
 | Vagas (sem tema levantado) | 146 | |
 
-Dias de conteúdo já escrito + pauta validada: **14** (a 3 por dia).
+Dias de conteúdo já escrito + pauta validada: **13** (a 3 por dia).
 
 ## Prontos para usar
 
@@ -18,7 +18,6 @@ Dias de conteúdo já escrito + pauta validada: **14** (a 3 por dia).
 |---|---|---|---|
 | Dor nas Costas: Guia Prático para Aliviar em Casa | 1681 | 85 | 2026-10-08 |
 | Prisão de Ventre: Como Aliviar em Dias | 1219 | 84 | 2026-10-11 |
-| Inchaço nas Pernas: Causas e Alívio Prático | 1997 | 100 | 2026-10-11 |
 | Moscas Volantes: Causas, Sinais e Quando Procurar Médico | 1394 | 83 | 2026-10-12 |
 | Alimentos Ricos em Ferro: Absorção Prática 40+ | 1591 | 98 | 2026-10-09 |
 | Noctúria: Por Que Acorda à Noite para Urinar | 1378 | 92 | 2026-10-12 |
@@ -76,6 +75,7 @@ Dias de conteúdo já escrito + pauta validada: **14** (a 3 por dia).
 | Barriga Inchada: Causas e Como Aliviar | 1192 | 88 | 2026-10-08 |
 | Síndrome do Intestino Irritável: Controle Agora | 1870 | 94 | 2026-10-08 |
 | Glicemia normal: valores por idade e quando procurar ajuda | 1276 | 91 | 2026-10-08 |
+| Inchaço nas Pernas: Causas e Alívio Prático | 1997 | 100 | 2026-10-09 |
 
 ## Pautas validadas esperando texto (próximas a escrever)
 
