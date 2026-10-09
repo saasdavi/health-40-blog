@@ -4258,7 +4258,7 @@
         ]
       },
       "volume": 40500,
-      "status": "draft",
+      "status": "published",
       "createdAt": "2026-10-04T17:42:16.213Z",
       "scores": {
         "auditoria": 98
@@ -4311,7 +4311,7 @@
         "pexels:36870365"
       ],
       "altConferido": false,
-      "estoque": true,
+      "estoque": false,
       "estocadoEm": "2026-10-04T17:42:18.533Z",
       "validacao": {
         "palavraChave": "alimentos ricos em ferro",
@@ -4395,7 +4395,9 @@
           ]
         },
         "validadoEm": "2026-10-04T17:42:18.533Z"
-      }
+      },
+      "publishedAt": "2026-10-09T16:32:16.561Z",
+      "publicadoDoEstoqueEm": "2026-10-09T16:32:16.561Z"
     },
     {
       "id": "art_1791135942864_1tj3",
@@ -9777,6 +9779,6 @@
   ],
   "stats": {
     "total": 55,
-    "published": 23
+    "published": 24
   }
 }

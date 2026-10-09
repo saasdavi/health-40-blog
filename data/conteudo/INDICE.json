@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 23,
-  "prontosParaUsar": 23,
+  "publicados": 24,
+  "prontosParaUsar": 22,
   "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -480,15 +480,15 @@
    "palavraChave": "alimentos ricos em ferro",
    "cluster": "alimentacao",
    "volume": 40500,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1591,
    "h2": 14,
    "imagens": 3,
    "fontes": 4,
    "auditoria": 98,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-09T16:32:16.561Z",
    "escritoEm": "2026-10-04T17:42:18.533Z",
-   "previstoPara": "2026-10-09",
+   "previstoPara": null,
    "pontesSugeridas": [
     "alimentos ricos em fibras"
    ]

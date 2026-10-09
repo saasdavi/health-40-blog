@@ -4,8 +4,8 @@ Fonte dos textos: `data/articles.json`. Atualizado por `node scripts/banco-conte
 
 | O que | Quantidade | Dias (3/dia) |
 |---|---|---|
-| **Pronto para usar** (escrito, aprovado, guardado) | **23** | 7 |
-| Publicado (no ar) | 23 | |
+| **Pronto para usar** (escrito, aprovado, guardado) | **22** | 7 |
+| Publicado (no ar) | 24 | |
 | Pauta validada, falta escrever | 18 | 6 |
 | Planejado, falta validar no Google | 886 | 295 |
 | Vagas (sem tema levantado) | 146 | |
@@ -19,7 +19,6 @@ Dias de conteúdo já escrito + pauta validada: **13** (a 3 por dia).
 | Dor nas Costas: Guia Prático para Aliviar em Casa | 1681 | 85 | 2026-10-08 |
 | Prisão de Ventre: Como Aliviar em Dias | 1219 | 84 | 2026-10-11 |
 | Moscas Volantes: Causas, Sinais e Quando Procurar Médico | 1394 | 83 | 2026-10-12 |
-| Alimentos Ricos em Ferro: Absorção Prática 40+ | 1591 | 98 | 2026-10-09 |
 | Noctúria: Por Que Acorda à Noite para Urinar | 1378 | 92 | 2026-10-12 |
 | Queda de Cabelo: Saiba Quando é Normal Tratar | 1544 | 96 | 2026-10-13 |
 | Presbiopia: Como Corrigir Sua Visão de Perto | 1777 | 90 | 2026-10-14 |
@@ -76,6 +75,7 @@ Dias de conteúdo já escrito + pauta validada: **13** (a 3 por dia).
 | Síndrome do Intestino Irritável: Controle Agora | 1870 | 94 | 2026-10-08 |
 | Glicemia normal: valores por idade e quando procurar ajuda | 1276 | 91 | 2026-10-08 |
 | Inchaço nas Pernas: Causas e Alívio Prático | 1997 | 100 | 2026-10-09 |
+| Alimentos Ricos em Ferro: Absorção Prática 40+ | 1591 | 98 | 2026-10-09 |
 
 ## Pautas validadas esperando texto (próximas a escrever)
 
