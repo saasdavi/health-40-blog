@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 24,
-  "prontosParaUsar": 22,
+  "publicados": 25,
+  "prontosParaUsar": 21,
   "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -499,15 +499,15 @@
    "palavraChave": "noctúria",
    "cluster": "urinario",
    "volume": 22200,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1378,
    "h2": 12,
    "imagens": 3,
    "fontes": 4,
    "auditoria": 92,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-09T19:00:41.814Z",
    "escritoEm": "2026-10-04T17:45:45.191Z",
-   "previstoPara": "2026-10-12",
+   "previstoPara": null,
    "pontesSugeridas": []
   },
   {

@@ -4451,7 +4451,7 @@
         ]
       },
       "volume": 22200,
-      "status": "draft",
+      "status": "published",
       "createdAt": "2026-10-04T17:45:42.864Z",
       "scores": {
         "auditoria": 92
@@ -4504,7 +4504,7 @@
         "pexels:10222467"
       ],
       "altConferido": false,
-      "estoque": true,
+      "estoque": false,
       "estocadoEm": "2026-10-04T17:45:45.191Z",
       "validacao": {
         "palavraChave": "noctúria",
@@ -4569,7 +4569,9 @@
           ]
         },
         "validadoEm": "2026-10-04T17:45:45.191Z"
-      }
+      },
+      "publishedAt": "2026-10-09T19:00:41.814Z",
+      "publicadoDoEstoqueEm": "2026-10-09T19:00:41.814Z"
     },
     {
       "id": "art_1791136144456_b6tw",
@@ -9779,6 +9781,6 @@
   ],
   "stats": {
     "total": 55,
-    "published": 24
+    "published": 25
   }
 }
