@@ -17,6 +17,9 @@ try {
 }
 const todosPublicados = artigosPublicados();
 const temasMenu = temasComArtigos(todosPublicados);
+// Data de publicação em dd/mm/aaaa (horário de Brasília)
+const formatarData = (iso: string | undefined) =>
+  iso ? new Date(iso).toLocaleDateString('pt-BR', { timeZone: 'America/Sao_Paulo' }) : '';
 ---
 
 <html lang="pt-BR">
@@ -548,6 +551,7 @@ const temasMenu = temasComArtigos(todosPublicados);
                     <h3>{article.title}</h3>
                     <p>{article.description}</p>
                     <div class="article-meta">
+                      {article.publishedAt && <span>📅 {formatarData(article.publishedAt)}</span>}
                       <span>⏱️ {Math.ceil((article.wordCount || 0) / 200)} min</span>
                     </div>
                     <span class="btn btn-block">Ler Artigo</span>
