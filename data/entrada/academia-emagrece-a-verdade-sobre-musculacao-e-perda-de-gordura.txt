@@ -34,11 +34,12 @@ FOTO2_SECAO: 4
 <h2>Por que a alimentação continua decisiva</h2>
 <p>Mesmo com treino frequente, é difícil perder gordura sem algum controle da alimentação. Bebidas calóricas, lanches frequentes e porções grandes podem anular o gasto adicional do exercício.</p>
 <p>A orientação de profissionais de nutrição é valiosa para ajustar a dieta à rotina e às necessidades de cada pessoa. Dietas muito restritivas, por outro lado, aumentam o risco de perda de massa muscular, fadiga e abandono do treino.</p>
-<p>Para aprofundar o tema da perda de peso sem extremos, leia sobre <a href="/emagrecimento-saudavel/">emagrecimento saudável</a>, que explica o que costuma funcionar a longo prazo.</p>
+<p>Para aprofundar o tema da perda de gordura sem extremos, leia sobre <a href="/o-que-e-gordura-visceral/">gordura visceral</a>, que ajuda a entender por que o foco não é só o peso.</p>
 <h2>Cuidados para quem vai começar</h2>
 <p>Quem está há muito tempo sem atividade física, tem doenças cardíacas, diabetes, dores articulares ou usa medicamentos deve conversar com um médico antes de iniciar. A avaliação ajuda a definir a intensidade adequada.</p>
 <p>Comece com cargas leves e técnica correta, aumentando gradualmente. Acompanhamento de profissional de educação física reduz o risco de lesões, que são uma das principais causas de abandono.</p>
-<p>Um dos motivos para a frustração com a academia é a expectativa de que o treino, sozinho, transforme o corpo em poucas semanas. Na prática, as mudanças mais visíveis costumam aparecer após meses de constância, e a combinação de treino e alimentação tende a funcionar melhor do que qualquer um dos dois isoladamente.</p>
+<p>Um dos motivos para a frustração com a academia é a expectativa de que o treino, sozinho, transforme o corpo em poucas semanas.</p>
+<p>Na prática, as mudanças mais visíveis costumam aparecer após meses de constância, e a combinação de treino e alimentação tende a funcionar melhor do que qualquer um dos dois isoladamente.</p>
 <p>A musculação também melhora a força para atividades do dia a dia, como carregar compras, subir escadas e levantar do chão. Essa autonomia funcional é um benefício importante para o envelhecimento, e ajuda a prevenir quedas e dores, além de contribuir para a autoestima.</p>
 <p>Quem começa tende a se concentrar em um único tipo de exercício. Uma rotina bem planejada inclui força, resistência cardiorrespiratória e alongamento ou mobilidade. Esse conjunto cuida de diferentes sistemas do corpo e reduz o risco de sobrecarga em uma mesma região.</p>
 <p>A progressão é outro ponto central. Aumentar a carga, o número de repetições ou o volume de treino de forma gradual é o que estimula adaptação. Por outro lado, aumentar tudo ao mesmo tempo costuma levar a dores, lesões e desistência, o que anula o ganho acumulado.</p>

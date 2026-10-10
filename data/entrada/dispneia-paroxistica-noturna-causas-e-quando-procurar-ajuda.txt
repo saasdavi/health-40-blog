@@ -1,5 +1,5 @@
-PALAVRA_CHAVE: Dispneia Paroxística Noturna Causas e Quando Procurar Ajuda
-TITLE: Dispneia paroxística noturna: causas e quando buscar ajuda
+PALAVRA_CHAVE: dispneia paroxística noturna
+TITLE: Dispneia paroxística noturna: causas e alertas
 DESCRIPTION: Dispneia paroxística noturna: entenda as causas possíveis, os sinais de alerta e quando procurar atendimento médico com urgência.
 FONTE: MedlinePlus (National Library of Medicine) | https://medlineplus.gov
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
@@ -15,14 +15,19 @@ FOTO2_ALT: Atendimento de emergência em hospital, para casos de falta de ar int
 FOTO2_LEGENDA: Falta de ar intensa exige atendimento imediato.
 FOTO2_SECAO: 4
 ---
-<p>A dispneia paroxística noturna é uma crise súbita de falta de ar que acorda a pessoa durante o sono. Costuma vir com tosse, sensação de sufocamento e necessidade de sentar para respirar melhor. Pode ter causas cardíacas e pulmonares, por isso exige avaliação médica. Veja o que observar e quando buscar ajuda.</p>
+<p>A dispneia paroxística noturna é uma crise súbita de falta de ar que acorda a pessoa durante o sono. Costuma vir com tosse e sensação de sufocamento, e a pessoa precisa sentar para respirar melhor. Pode ter causas cardíacas e pulmonares, por isso exige avaliação médica.</p>
 <h2>O que é a dispneia paroxística noturna</h2>
-<p>A palavra dispneia significa dificuldade para respirar, e o termo paroxística indica crises que surgem de forma repentina. Quando a dispneia paroxística noturna acontece, a pessoa costuma acordar com a sensação de que não consegue puxar o ar, precisa se sentar na cama ou abrir a janela e só então sente alívio gradual.</p>
-<p>Os episódios podem durar minutos ou mais tempo, e a sensação de aperto no peito nem sempre aparece. Em alguns casos, a respiração fica ruidosa, com chiado. Esse quadro é frequentemente descrito em conexão com alterações do coração, mas também pode estar ligado a doenças do pulmão e a outros fatores que mudam a respiração durante o sono.</p>
-<p>Como a crise costuma ocorrer quando a pessoa está deitada, o corpo tende a redistribuir líquidos e a aumentar o trabalho do coração. Essa explicação ajuda a entender por que a posição do corpo influencia os sintomas, mas não substitui a investigação com exames e a avaliação clínica feita por um profissional.</p>
+<p>A palavra dispneia significa dificuldade para respirar, e o termo paroxística indica crises que surgem de forma repentina.</p>
+<p>Quando a dispneia paroxística noturna acontece, a pessoa costuma acordar com a sensação de que não consegue puxar o ar, precisa se sentar na cama ou abrir a janela e só então sente alívio gradual.</p>
+<p>Os episódios podem durar minutos ou mais tempo, e a sensação de aperto no peito nem sempre aparece. Em alguns casos, a respiração fica ruidosa, com chiado.</p>
+<p>Esse quadro é frequentemente descrito em conexão com alterações do coração, mas também pode estar ligado a doenças do pulmão e a outros fatores que mudam a respiração durante o sono.</p>
+<p>Como a crise costuma ocorrer quando a pessoa está deitada, o corpo tende a redistribuir líquidos e a aumentar o trabalho do coração.</p>
+<p>Essa explicação ajuda a entender por que a posição do corpo influencia os sintomas, mas não substitui a investigação com exames e a avaliação clínica feita por um profissional.</p>
 <h2>Principais causas relacionadas ao quadro</h2>
-<p>A causa mais associada à dispneia paroxística noturna é a insuficiência cardíaca, sobretudo quando o lado esquerdo do coração não consegue bombear bem o sangue. Nessa situação, o líquido pode se acumular nos pulmões, e a falta de ar piora quando a pessoa deita. Alterações das válvulas do coração e problemas de <a href="/pressao-alta-sintomas/">pressão alta</a> também podem contribuir.</p>
-<p>Outras causas possíveis incluem asma, doença pulmonar obstrutiva crônica, apneia do sono e episódios de ansiedade intensa. Em alguns casos, a crise tem origem em uma embolia pulmonar, que é uma emergência. Por isso, não há como definir a causa apenas pelos sintomas. A investigação precisa considerar histórico, exame físico e exames complementares.</p>
+<p>A causa mais associada à dispneia paroxística noturna é a insuficiência cardíaca, sobretudo quando o lado esquerdo do coração não consegue bombear bem o sangue.</p>
+<p>Nessa situação, o líquido pode se acumular nos pulmões, e a falta de ar piora quando a pessoa deita. Alterações das válvulas do coração, a pressão alta e o <a href="/colesterol-depois-dos-40/">colesterol elevado</a> também aumentam o risco de doenças do coração.</p>
+<p>Outras causas possíveis incluem asma, doença pulmonar obstrutiva crônica, apneia do sono e episódios de ansiedade intensa. Em alguns casos, a crise tem origem em uma embolia pulmonar, que é uma emergência.</p>
+<p>Por isso, não há como definir a causa apenas pelos sintomas. A investigação precisa considerar histórico, exame físico e exames complementares.</p>
 <ul>
 <li>Insuficiência cardíaca e alterações das válvulas do coração;</li>
 <li>Asma e doença pulmonar obstrutiva crônica;</li>
@@ -30,15 +35,19 @@ FOTO2_SECAO: 4
 <li>Embolia pulmonar e outras condições que exigem urgência.</li>
 </ul>
 <h2>Sinais que acompanham a crise</h2>
-<p>Além da falta de ar, é comum haver tosse seca ou com secreção, cansaço ao esforço e inchaço nas pernas. Algumas pessoas relatam suor frio, aperto no peito, palpitações ou sensação de coração acelerado. Quando esses sintomas aparecem juntos, a combinação precisa ser levada a sério, principalmente em pessoas com mais de 40 anos.</p>
+<p>Além da falta de ar, é comum haver tosse seca ou com secreção, cansaço ao esforço e inchaço nas pernas.</p>
+<p>Algumas pessoas relatam suor frio, aperto no peito, palpitações ou sensação de coração acelerado. Quando esses sintomas aparecem juntos, a combinação precisa ser levada a sério, principalmente em pessoas com mais de 40 anos.</p>
 <p>O inchaço nas pernas e a necessidade de dormir com vários travesseiros podem indicar que o corpo está retendo líquido. Esses sinais se relacionam bastante com o coração e a circulação. Para entender melhor esse aspecto, vale ler sobre <a href="/inchaco-nas-pernas/">inchaço nas pernas</a>, que também pode ter causas variadas.</p>
-<p>Também é importante observar a frequência das crises, o horário em que começam e o que ajuda a melhorar. Anotar esses dados facilita a conversa com o médico e pode acelerar o diagnóstico. Uma lista de sintomas bem registrada costuma ser mais útil do que uma descrição vaga feita em meio à crise.</p>
+<p>Também é importante observar a frequência das crises, o horário em que começam e o que ajuda a melhorar. Anotar esses dados facilita a conversa com o médico e pode acelerar o diagnóstico.</p>
+<p>Uma lista de sintomas bem registrada costuma ser mais útil do que uma descrição vaga feita em meio à crise.</p>
 <h2>Fatores que podem favorecer as crises</h2>
-<p>Alguns fatores aumentam a chance de crises em pessoas com doenças cardíacas ou pulmonares. Entre eles estão o excesso de sal na alimentação, a retenção de líquidos, a falta de adesão a remédios prescritos e infecções respiratórias. O consumo de álcool e o uso de certos medicamentos também podem interferir na respiração durante o sono.</p>
+<p>Alguns fatores aumentam a chance de crises em pessoas com doenças cardíacas ou pulmonares. Entre eles estão o excesso de sal na alimentação, a retenção de líquidos, a falta de adesão a remédios prescritos e infecções respiratórias.</p>
+<p>O consumo de álcool e o uso de certos medicamentos também podem interferir na respiração durante o sono.</p>
 <p>Problemas de sono, como roncos intensos e pausas respiratórias, merecem atenção especial. Quem acorda muito cansado, com dor de cabeça pela manhã ou com sonolência durante o dia deve comentar o assunto com o médico. A relação entre sono, pressão arterial e coração é bem documentada na literatura científica.</p>
 <p>Em algumas pessoas, a crise surge em contexto de ansiedade ou ataques de pânico. Mesmo assim, o diagnóstico de qualquer causa emocional só deve ser feito depois de excluir problemas cardíacos e pulmonares. Esse cuidado é essencial, porque sintomas parecidos podem ter origens muito diferentes.</p>
 <h2>Como a investigação costuma acontecer</h2>
-<p>O médico costuma começar pela história clínica, perguntando sobre o início da falta de ar, a posição em que a pessoa dorme, o uso de remédios e doenças prévias. Em seguida, examina coração, pulmões e pernas, e verifica sinais de retenção de líquido. Dependendo do quadro, são pedidos exames como eletrocardiograma, radiografia de tórax, ecocardiograma e exames de sangue.</p>
+<p>O médico costuma começar pela história clínica, perguntando sobre o início da falta de ar, a posição em que a pessoa dorme, o uso de remédios e doenças prévias.</p>
+<p>Em seguida, examina coração, pulmões e pernas, e verifica sinais de retenção de líquido. Dependendo do quadro, são pedidos exames como eletrocardiograma, radiografia de tórax, ecocardiograma e exames de sangue.</p>
 <p>A depender da suspeita, o profissional pode solicitar testes específicos para avaliar o funcionamento do coração e dos pulmões. O objetivo é identificar a causa e iniciar o tratamento adequado. Em muitos casos, o acompanhamento é feito com cardiologista ou pneumologista, de acordo com o quadro.</p>
 <p>Tratamentos dependem totalmente da causa encontrada. Ajustes de medicamentos, mudanças de hábitos e acompanhamento regular costumam fazer parte do plano. A decisão sobre qualquer tratamento é sempre do médico, com base em exames e no histórico de cada pessoa.</p>
 <h2>Tratamento e acompanhamento</h2>
@@ -54,7 +63,9 @@ FOTO2_SECAO: 4
 <p><strong>Ansiedade pode causar falta de ar à noite?</strong> Pode contribuir para a sensação de falta de ar, mas só depois que outras causas forem avaliadas por um profissional.</p>
 <h2>Quando procurar um médico</h2>
 <p>Procure atendimento de emergência se a falta de ar for intensa, se houver dor forte no peito, desmaio, confusão, lábios ou unhas arroxeadas, ou dificuldade para falar durante a crise. Esses sinais podem indicar uma situação grave e não devem esperar a manhã seguinte.</p>
-<p>Mesmo que os sintomas melhorem, marque uma consulta para investigar a causa, principalmente se a crise se repetir. Quem já tem doença cardíaca ou pulmonar deve avisar o médico sobre qualquer mudança. A orientação individual é indispensável. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+<p>Mesmo que os sintomas melhorem, marque uma consulta para investigar a causa, principalmente se a crise se repetir. Quem já tem doença cardíaca ou pulmonar deve avisar o médico sobre qualquer mudança.</p>
+<p>A orientação individual é indispensável. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 <h2>Resumindo</h2>
-<p>A dispneia paroxística noturna é uma crise de falta de ar que acorda a pessoa durante a noite e costuma melhorar quando ela se senta ou fica em pé. Pode estar ligada ao coração, aos pulmões, ao sono e, em situações raras, a emergências como embolia pulmonar. Por isso, nenhuma causa deve ser presumida sem avaliação.</p>
+<p>A dispneia paroxística noturna é uma crise de falta de ar que acorda a pessoa durante a noite e costuma melhorar quando ela se senta ou fica em pé.</p>
+<p>Pode estar ligada ao coração, aos pulmões, ao sono e, em situações raras, a emergências como embolia pulmonar. Por isso, nenhuma causa deve ser presumida sem avaliação.</p>
 <p>Se a crise acontecer, o mais seguro é buscar atendimento rapidamente, principalmente quando há dor no peito ou dificuldade intensa para respirar. Anotar os sintomas e levar o registro ao médico ajuda a acelerar a investigação e a definir o melhor caminho para cada caso.</p>

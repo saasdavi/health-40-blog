@@ -1,4 +1,4 @@
-PALAVRA_CHAVE: Hidrafacial O Que É, Preço, Benefícios e Riscos
+PALAVRA_CHAVE: hidrafacial
 TITLE: Hidrafacial: o que é, benefícios e riscos
 DESCRIPTION: Hidrafacial: entenda o que é o procedimento, os benefícios relatados, os riscos possíveis e por que a avaliação de um dermatologista importa.
 FONTE: Governo Federal | https://www.gov.br
@@ -22,7 +22,7 @@ FOTO2_SECAO: 4
 <h2>Benefícios relatados</h2>
 <p>Os benefícios mais citados são a sensação de pele limpa, a melhora temporária da textura e da aparência da hidratação. Algumas pessoas relatam mais luminosidade logo após a sessão, o que costuma ser associado à remoção de células mortas e ao efeito dos produtos aplicados.</p>
 <p>É importante separar esses efeitos imediatos de mudanças duradouras. A maior parte dos relatos se refere ao efeito cosmético de curta duração, e não há evidência robusta de que o procedimento trate condições como acne persistente, manchas profundas ou envelhecimento de forma definitiva.</p>
-<p>Para problemas como manchas, o tema costuma exigir um plano mais amplo. Quem tem esse tipo de alteração pode conhecer melhor as opções lendo sobre <a href="/manchas-na-pele/">manchas na pele</a>, sempre com avaliação médica.</p>
+<p>Para problemas como manchas, o tema costuma exigir um plano mais amplo, sempre com avaliação médica. Hábitos gerais também contam para a pele, como o sono, tratado no texto sobre <a href="/insonia/">insônia</a>, e o controle do estresse, tema de <a href="/como-controlar-a-ansiedade/">como controlar a ansiedade</a>.</p>
 <h2>Riscos e efeitos indesejados</h2>
 <p>Após a sessão, pode haver vermelhidão, ardor, sensibilidade e inchaço leve, que costumam ser passageiros. Em algumas pessoas, surgem irritações mais intensas, manchas ou reações alérgicas aos produtos aplicados. Pele com acne ativa, rosácea, lesões ou tendência a manchas exige cuidado extra.</p>
 <ul>
@@ -41,9 +41,10 @@ FOTO2_SECAO: 4
 <h2>Vale a pena? Como avaliar com critério</h2>
 <p>A decisão de fazer um procedimento estético deve considerar expectativas realistas, custo, frequência de sessões e riscos. Não há um resultado que se repita igual em todas as peles, e o efeito costuma ser temporário quando não é acompanhado de cuidados diários.</p>
 <p>Desconfie de anúncios que prometem resultados imediatos e definitivos, ou que usam linguagem de tratamento médico sem avaliação. Um bom profissional explica o que o procedimento faz, o que não faz e quais alternativas existem.</p>
-<p>A avaliação antes da sessão deve incluir o tipo de pele, o fototipo, o histórico de manchas e cicatrizes e o uso de medicamentos. O profissional verifica se há lesões ativas e decide se o procedimento é adequado naquele momento. Essa triagem é uma etapa de segurança, e não um detalhe burocrático.</p>
+<p>A avaliação antes da sessão deve incluir o tipo de pele, o fototipo, o histórico de manchas e cicatrizes e o uso de medicamentos.</p>
+<p>O profissional verifica se há lesões ativas e decide se o procedimento é adequado naquele momento. Essa triagem é uma etapa de segurança, e não um detalhe burocrático.</p>
 <p>Peles mais escuras merecem atenção especial, porque a inflamação causada por irritações pode deixar manchas que demoram a clarear. Quem tem essa característica deve informar o profissional e seguir rigorosamente as orientações de proteção solar depois da sessão.</p>
-<p>Quem convive com <a href="/melasma/">melasma</a> costuma ter a pele muito sensível à luz e a estímulos físicos. Nesses casos, procedimentos mecânicos ou com ácidos precisam de planejamento cuidadoso, e a escolha deve ser feita junto com o dermatologista que acompanha a condição.</p>
+<p>Quem convive com melasma costuma ter a pele muito sensível à luz e a estímulos físicos. Nesses casos, procedimentos mecânicos ou com ácidos precisam de planejamento cuidadoso, e a escolha deve ser feita junto com o dermatologista que acompanha a condição.</p>
 <p>Entre os cuidados depois da sessão estão evitar sol forte, não manipular a pele, não usar maquiagem pesada no primeiro dia e manter a hidratação. Se surgirem sinais de infecção, como pus, dor crescente ou febre, procure atendimento sem demora.</p>
 <p>A sensação de limpeza e luminosidade costuma ser temporária. Para manter o aspecto da pele, é necessário um conjunto de hábitos: limpeza suave, hidratante adequado, protetor solar diário e, quando indicado, tratamentos prescritos. Procedimentos isolados raramente substituem essa rotina.</p>
 <p>Vale também considerar o ambiente da clínica. Higiene dos equipamentos, descarte correto de materiais, registro do procedimento no prontuário e explicações claras sobre os produtos são sinais de um serviço organizado. Quando algo parece improvisado, a pessoa tem o direito de perguntar e, se necessário, buscar outro atendimento.</p>

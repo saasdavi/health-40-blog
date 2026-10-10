@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: inibidor de apetite forte
-TITLE: Inibidor de apetite forte: riscos e cuidados necessários
+TITLE: Inibidor de apetite forte: riscos e cuidados
 DESCRIPTION: Inibidor de apetite forte: entenda por que exigem prescrição, quais riscos existem e por que não devem ser usados por conta própria.
 FONTE: sbcbm.org.br | https://sbcbm.org.br
 FONTE: Governo Federal | https://www.gov.br
@@ -15,7 +15,7 @@ FOTO2_ALT: Médico revisando exames e relatório de saúde com paciente
 FOTO2_LEGENDA: A avaliação de riscos é feita caso a caso pelo médico.
 FOTO2_SECAO: 4
 ---
-<p>Inibidor de apetite forte é a expressão usada para medicamentos que atuam sobre os mecanismos da fome e da saciedade. Eles podem ter indicações médicas específicas, mas também geram riscos importantes e exigem prescrição e acompanhamento. Usá-los sem orientação é perigoso. Veja, em termos gerais, por que essas substâncias são controladas, quais riscos merecem atenção e o que observar.</p>
+<p>Inibidor de apetite forte é a expressão usada para medicamentos que atuam sobre os mecanismos da fome e da saciedade. Eles podem ter indicações médicas específicas, mas geram riscos importantes e exigem prescrição e acompanhamento. Usá-los sem orientação é perigoso. Veja por que são controlados e o que observar.</p>
 <h2>Inibidor de apetite forte: o que são essas substâncias</h2>
 <p>Os inibidores de apetite são substâncias que agem no sistema nervoso ou no trato digestivo para reduzir a sensação de fome ou aumentar a saciedade. Alguns atuam sobre neurotransmissores ligados ao humor e à energia, enquanto outros modificam a forma como o intestino responde à comida.</p>
 <p>Essa atuação sobre o cérebro e o organismo é justamente o que exige cuidado. Ao mexer com mecanismos fisiológicos, esses medicamentos podem produzir efeitos sobre o coração, a pressão, o humor e o sono, além de interações com outros remédios.</p>
@@ -40,16 +40,19 @@ FOTO2_SECAO: 4
 <p>Desconfie de produtos que prometem emagrecimento rápido, sem esforço ou sem orientação. Também merecem atenção embalagens sem informações claras, rótulos em outro idioma, preços muito baixos e vendas por intermediários sem identificação. Esses sinais são comuns em produtos irregulares.</p>
 <p>A orientação das autoridades sanitárias é conferir o registro do medicamento e denunciar a venda irregular. Quem notar efeitos após o uso de um produto desconhecido deve procurar atendimento imediatamente e informar o que foi usado.</p>
 <h2>O que fazer em vez disso</h2>
-<p>A base do cuidado com o peso continua sendo a alimentação equilibrada, a atividade física e o sono de qualidade. Para quem sente fome intensa e perde o controle, a psicoterapia e o acompanhamento nutricional costumam ajudar a entender os gatilhos. Um bom ponto de partida é o <a href="/deficit-calorico/">déficit calórico</a> moderado, com orientação profissional.</p>
-<p>Também é útil conhecer estratégias de reeducação alimentar, que ajudam a construir refeições mais saciantes e a reduzir a compulsão. O tema da <a href="/reeducacao-alimentar-para-emagrecer/">reeducação alimentar para emagrecer</a> pode orientar essa conversa com o profissional.</p>
+<p>A base do cuidado com o peso continua sendo a alimentação equilibrada, a atividade física e o sono de qualidade. Para quem sente fome intensa e perde o controle, a psicoterapia e o acompanhamento nutricional costumam ajudar a entender os gatilhos.</p>
+<p>Um bom ponto de partida é um plano moderado, com orientação profissional e atenção aos <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a>, que ajudam na saciedade.</p>
+<p>Também é útil conhecer estratégias de reeducação alimentar, que ajudam a construir refeições mais saciantes e a reduzir a compulsão. A compulsão costuma se relacionar à ansiedade, tema de <a href="/como-controlar-a-ansiedade/">como controlar a ansiedade</a>, e isso pode orientar a conversa com o profissional.</p>
 <p>A investigação do ganho ou da perda de apetite deve começar com perguntas simples: a fome é física ou emocional, há mudanças de rotina, de sono ou de humor, e existem doenças que alteram o metabolismo? Essas respostas orientam o profissional sobre a melhor estratégia e evitam tratamentos desnecessários.</p>
 <p>Em muitos casos, a fome intensa está ligada a refeições irregulares, a dietas muito restritas e à privação de sono. Reorganizar horários, incluir proteínas e fibras em cada refeição e reduzir bebidas açucaradas costuma trazer ganhos concretos na saciedade, sem necessidade de medicamentos.</p>
 <p>Quando o peso é uma preocupação de saúde, o acompanhamento multiprofissional costuma ser o mais eficaz. Médico, nutricionista, psicólogo e profissional de educação física podem atuar juntos, com metas graduais e revisões periódicas. Essa abordagem contempla os aspectos biológicos, comportamentais e sociais do problema.</p>
 <p>A cirurgia bariátrica e metabólica é uma opção para casos específicos, com indicação criteriosa e acompanhamento de longo prazo. Ela não é uma alternativa imediata e exige avaliação especializada, que considera riscos, benefícios e expectativas. Trata-se de uma decisão médica, tomada junto com a pessoa e a equipe.</p>
 <p>Por fim, a busca por medicamentos rápidos pode esconder problemas maiores, como transtornos alimentares e depressão. Quem se sente sem controle ao comer, ou vive com culpa intensa, deve buscar apoio psicológico. O tratamento do comportamento alimentar é parte importante do cuidado.</p>
 <p>Antes de qualquer decisão, vale pedir ao profissional uma explicação escrita sobre riscos, custos, duração esperada e o que acontece se o tratamento for interrompido. Esse registro ajuda a comparar alternativas com calma e reduz decisões tomadas por impulso.</p>
-<p>Também é prudente desconfiar de anúncios com antes e depois, depoimentos e promessas de resultados em poucos dias. Esse tipo de conteúdo raramente mostra os efeitos adversos e não substitui uma avaliação individual. Em caso de dúvida sobre a segurança de um produto, procure um serviço de saúde ou o farmacêutico responsável, levando a embalagem e as informações disponíveis.</p>
-<p>Quando a pessoa sente que nada funciona, a frustração pode levar à busca por soluções rápidas e arriscadas. Essa reação é compreensível, mas justamente nessas horas a orientação profissional é mais valiosa. Um plano revisado, com metas realistas e apoio contínuo, costuma ser mais seguro do que tentativas sucessivas sem acompanhamento.</p>
+<p>Também é prudente desconfiar de anúncios com antes e depois, depoimentos e promessas de resultados em poucos dias. Esse tipo de conteúdo raramente mostra os efeitos adversos e não substitui uma avaliação individual.</p>
+<p>Em caso de dúvida sobre a segurança de um produto, procure um serviço de saúde ou o farmacêutico responsável, levando a embalagem e as informações disponíveis.</p>
+<p>Quando a pessoa sente que nada funciona, a frustração pode levar à busca por soluções rápidas e arriscadas. Essa reação é compreensível, mas justamente nessas horas a orientação profissional é mais valiosa.</p>
+<p>Um plano revisado, com metas realistas e apoio contínuo, costuma ser mais seguro do que tentativas sucessivas sem acompanhamento.</p>
 <p>Também é importante lembrar que o peso corporal é influenciado por genética, hormônios, sono, medicamentos e condições de saúde. Isso significa que a comparação com outras pessoas tem pouco valor prático. O objetivo do cuidado é a saúde, e não um número igual ao de terceiros.</p>
 <p>Em caso de dúvida sobre um produto indicado por alguém conhecido ou visto na internet, a melhor atitude é levar a informação ao médico. Muitas vezes, a conversa revela que existem alternativas mais seguras e adequadas ao caso.</p>
 <h2>Perguntas frequentes</h2>

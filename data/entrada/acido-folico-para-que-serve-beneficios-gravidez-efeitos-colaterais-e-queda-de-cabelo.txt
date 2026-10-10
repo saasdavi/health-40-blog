@@ -34,7 +34,7 @@ FOTO2_SECAO: 4
 <p>Uma alimentação variada costuma fornecer boa parte da necessidade diária, mas a gestação eleva essa demanda e pode exigir suplemento.</p>
 <h2>Ácido fólico e cabelo</h2>
 <p>Algumas pessoas associam a vitamina a queda de cabelo, e essa relação é frequentemente divulgada. Na prática, a deficiência de folato pode, em casos específicos, contribuir para alterações do cabelo, mas isso não significa que a suplementação previna a queda em quem não tem carência.</p>
-<p>Quando há queda, a investigação deve considerar outras causas, como ferro, tireoide, hormônios e fatores genéticos. O texto sobre <a href="/ferro-baixo-sintomas/">ferro baixo e seus sintomas</a> ajuda a entender uma das causas nutricionais mais comuns.</p>
+<p>Quando há queda, a investigação deve considerar outras causas, como ferro, tireoide, hormônios e fatores genéticos. O texto sobre <a href="/queda-de-cabelo/">queda de cabelo</a> ajuda a entender as causas mais comuns.</p>
 <h2>Quando há risco de excesso ou de interação</h2>
 <p>O ácido fólico é geralmente bem tolerado, mas o uso sem indicação pode mascarar sinais de deficiência de vitamina B12, o que exige atenção. Por isso, pessoas com anemia não diagnosticada devem fazer avaliação antes de suplementar.</p>
 <p>Alguns medicamentos, como certos anticonvulsivantes e antagonistas do folato, interagem com a vitamina. Informe sempre ao médico e ao farmacêutico os produtos que você usa.</p>
@@ -51,7 +51,7 @@ FOTO2_SECAO: 4
 <p>Para mulheres que já estão em uso de contraceptivos, planejando gestação ou em tratamento de longo prazo, a conversa com o médico deve incluir o momento de iniciar a suplementação. Esse planejamento permite organizar exames e reduzir preocupações ao longo do processo.</p>
 <p>Também é comum surgirem dúvidas sobre a segurança durante a amamentação. A vitamina passa para o leite materno, e a necessidade após o parto deve ser orientada por profissional, que considerará a alimentação da mãe e a saúde do bebê.</p>
 <p>Em pessoas idosas, a absorção de folato pode ser menos eficiente, e o uso de alguns medicamentos pode interferir no metabolismo da vitamina. Por isso, o acompanhamento de rotina ajuda a manter níveis adequados sem excessos desnecessários.</p>
-<p>Vale ressaltar que a suplementação não deve ser usada como forma de compensar uma alimentação pobre de forma permanente. A combinação entre dieta variada e acompanhamento profissional é a abordagem mais segura e sustentável para a maioria das pessoas.</p>
+<p>É preciso reforçar que a suplementação não deve ser usada como forma de compensar uma alimentação pobre de forma permanente. A combinação entre dieta variada e acompanhamento profissional é a abordagem mais segura e sustentável para a maioria das pessoas.</p>
 <p>Quem busca informação sobre a vitamina deve desconfiar de promessas que a apresentam como solução universal para cabelo, pele, energia e humor. Os benefícios bem estabelecidos são específicos, e a maior parte das alegações amplas não tem respaldo em estudos de boa qualidade.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Ácido fólico para que serve além da gravidez?</strong></p>

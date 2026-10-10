@@ -1,4 +1,4 @@
-PALAVRA_CHAVE: isosource soya fiber
+PALAVRA_CHAVE: fibra de soja em dietas enterais
 TITLE: Fibra de soja em dietas enterais: para que serve
 DESCRIPTION: Fibra de soja em dietas enterais: entenda para que serve, por que seu uso exige orientação da equipe de saúde e quais cuidados considerar.
 FONTE: Governo Federal | https://www.gov.br
@@ -14,13 +14,14 @@ FOTO2_ALT: Enfermeira cuidando de paciente em ambiente hospitalar
 FOTO2_LEGENDA: A nutrição enteral é acompanhada de perto pela equipe de saúde.
 FOTO2_SECAO: 4
 ---
-<p>A fibra de soja em dietas enterais é um ingrediente usado em fórmulas nutricionais para pessoas que não conseguem se alimentar bem pela boca e precisam de nutrição por sonda ou via digestiva. Ela contribui para o funcionamento do intestino, mas seu uso é uma decisão clínica. Veja para que serve, por que exige orientação e quais cuidados considerar.</p>
+<p>A fibra de soja em dietas enterais é um ingrediente de fórmulas nutricionais para pessoas que não conseguem se alimentar bem pela boca e precisam de nutrição por sonda. Contribui para o funcionamento do intestino, mas seu uso é uma decisão clínica. Veja para que serve e quais cuidados considerar.</p>
 <h2>O que é a nutrição enteral</h2>
 <p>A nutrição enteral é a alimentação que chega ao trato digestivo por meio de uma sonda ou de uma via digestiva, quando o consumo por via oral é insuficiente, inseguro ou impossível. Ela é indicada em situações como doenças neurológicas, cirurgias, dificuldades para engolir e quadros de desnutrição.</p>
 <p>Por esse motivo, as fórmulas enterais são preparadas com nutrientes completos, em quantidades calculadas. Elas não são produtos de consumo livre, e a indicação, a escolha da fórmula e o volume devem ser definidos por uma equipe especializada.</p>
 <p>Como se trata de uma alimentação completa, a administração errada pode causar sérios problemas, como broncoaspiração, diarreia, desidratação e alterações metabólicas. O acompanhamento é parte essencial do tratamento.</p>
 <h2>Para que serve a fibra de soja</h2>
-<p>A fibra de soja é uma fibra alimentar que pode ser incluída em fórmulas para contribuir com o funcionamento do intestino. Entre suas funções gerais estão a formação de bolo fecal, a regularidade do trânsito intestinal e o suporte à microbiota. Essas características são estudadas como forma de reduzir alguns desconfortos digestivos em pacientes específicos.</p>
+<p>A fibra de soja é uma fibra alimentar que pode ser incluída em fórmulas para contribuir com o funcionamento do intestino.</p>
+<p>Entre suas funções gerais estão a formação de bolo fecal, a regularidade do trânsito intestinal e o suporte à microbiota. Essas características são estudadas como forma de reduzir alguns desconfortos digestivos em pacientes específicos.</p>
 <p>Fibras de diferentes fontes têm comportamentos distintos no intestino. Algumas são mais solúveis e fermentáveis, outras são mais insolúveis e aumentam o volume das fezes. A escolha depende do quadro clínico e da tolerância de cada pessoa.</p>
 <p>A presença de fibra na fórmula não torna o produto adequado para todos. Ela deve ser considerada junto com o estado nutricional, o tempo de uso e as demais características da dieta.</p>
 <h2>Por que o uso exige orientação</h2>
@@ -40,7 +41,7 @@ FOTO2_SECAO: 4
 <p>Pessoas com alergia à soja ou com histórico de reações alimentares também precisam de avaliação antes do uso. Essa informação deve constar no prontuário e ser comunicada à equipe responsável.</p>
 <h2>Alimentação do dia a dia e fibras</h2>
 <p>Para quem se alimenta por via oral, a fibra costuma vir de alimentos como frutas, verduras, legumes, leguminosas e grãos integrais. Esses alimentos oferecem outros nutrientes e beneficiam o intestino de forma mais ampla do que um ingrediente isolado. O texto sobre <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a> traz exemplos gerais.</p>
-<p>Quando há problemas de trânsito intestinal, o tema da <a href="/prisao-de-ventre/">prisão de ventre</a> pode ser útil para entender sintomas comuns, mas a escolha de qualquer suplemento de fibra deve ser discutida com o médico.</p>
+<p>Quando há problemas de trânsito intestinal, o tema da <a href="/barriga-inchada/">barriga inchada</a> pode ser útil para entender sintomas digestivos comuns, mas a escolha de qualquer suplemento de fibra deve ser discutida com o médico.</p>
 <p>Na nutrição enteral, a rotina de cuidados começa antes da primeira administração. A equipe avalia o estado nutricional, o funcionamento do intestino, as condições da via de acesso e as metas de energia e proteína. Essa etapa é fundamental para escolher a fórmula adequada e evitar complicações desde o início.</p>
 <p>A introdução gradual é uma prática comum. Iniciar com volumes menores e aumentar conforme a tolerância ajuda a reduzir distensão, cólicas e diarreia. Qualquer mudança deve ser feita sob orientação, e a equipe decide quando e como avançar.</p>
 <p>O monitoramento inclui observar o volume residual, a consistência das fezes, o peso, a hidratação e os exames laboratoriais quando indicados. Esses dados mostram se a dieta está funcionando e se há sinais de intolerância ou de excesso ou falta de nutrientes.</p>
@@ -48,8 +49,10 @@ FOTO2_SECAO: 4
 <p>Quando a alimentação por via oral é retomada, a transição costuma ser planejada pela equipe, com acompanhamento de deglutição e de tolerância. A decisão de reduzir ou suspender a dieta enteral é clínica e deve ser feita com segurança.</p>
 <p>A oferta de água deve ser ajustada às necessidades de cada pessoa, considerando perdas, temperatura ambiente e condições clínicas. Excesso ou falta de líquidos pode causar desequilíbrios sérios, por isso a avaliação de hidratação faz parte do acompanhamento.</p>
 <p>A equipe também deve avaliar a interação com medicamentos, porque alguns remédios têm absorção alterada quando administrados junto com a dieta. O horário de cada medicação deve ser combinado com o profissional. Fórmulas enterais não devem ser misturadas com outros alimentos nem substituídas por preparações caseiras improvisadas.</p>
-<p>Pacientes em nutrição enteral costumam ter necessidades que mudam ao longo do tratamento. Por isso, a fórmula, o volume e a forma de administração são reavaliados com frequência, conforme a evolução clínica, os exames e a tolerância. Essa revisão periódica é uma parte central do cuidado e não deve ser dispensada.</p>
-<p>Ao longo do tempo, a família pode perceber mudanças de humor, de apetite ou de disposição. Relatar essas alterações à equipe ajuda a ajustar o plano nutricional e a identificar problemas antes que se agravem. A comunicação honesta entre cuidadores e profissionais é um dos fatores que mais contribuem para a segurança.</p>
+<p>Pacientes em nutrição enteral costumam ter necessidades que mudam ao longo do tratamento. Por isso, a fórmula, o volume e a forma de administração são reavaliados com frequência, conforme a evolução clínica, os exames e a tolerância.</p>
+<p>Essa revisão periódica é uma parte central do cuidado e não deve ser dispensada.</p>
+<p>Ao longo do tempo, a família pode perceber mudanças de humor, de apetite ou de disposição. Relatar essas alterações à equipe ajuda a ajustar o plano nutricional e a identificar problemas antes que se agravem.</p>
+<p>A comunicação honesta entre cuidadores e profissionais é um dos fatores que mais contribuem para a segurança.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Posso comprar essa fibra e usar em casa?</strong> Não sem orientação. Dietas enterais são indicadas e acompanhadas por profissionais, e o uso inadequado pode trazer riscos.</p>
 <p><strong>Fibra de soja tem o mesmo efeito de outras fibras?</strong> Não necessariamente. Cada fibra tem características próprias de fermentação e de volume.</p>

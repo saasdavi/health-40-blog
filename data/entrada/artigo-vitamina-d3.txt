@@ -43,7 +43,8 @@ FOTO2_SECAO: 4
 
 <h2>Quem tem mais risco de ter níveis baixos?</h2>
 <p>Algumas pessoas tendem a ter níveis mais baixos de vitamina D.</p>
-<p>Entre elas estão quem passa a maior parte do tempo dentro de casa ou no trabalho, quem usa roupas que cobrem quase todo o corpo por motivos culturais ou religiosos, pessoas com pele mais escura, idosos, pessoas com obesidade e quem tem doenças que afetam a absorção de gorduras ou o funcionamento dos rins e do fígado.</p>
+<p>Entre elas estão quem passa a maior parte do tempo dentro de casa ou no trabalho, quem usa roupas que cobrem quase todo o corpo por motivos culturais ou religiosos e pessoas com pele mais escura.</p>
+<p>Também entram idosos, pessoas com obesidade e quem tem doenças que afetam a absorção de gorduras ou o funcionamento dos rins e do fígado.</p>
 <p>Esses fatores não significam deficiência, mas indicam que vale conversar com o médico sobre a necessidade de avaliação.</p>
 
 <h2>Como os níveis são avaliados?</h2>

@@ -1,4 +1,4 @@
-PALAVRA_CHAVE: HMB O Que É, Para Que Serve e Efeitos Colaterais
+PALAVRA_CHAVE: HMB
 TITLE: HMB: o que é, para que serve e efeitos colaterais
 DESCRIPTION: HMB: entenda o que é o composto, para que costuma ser usado, o que a pesquisa ainda mostra e quais efeitos colaterais exigem cuidado.
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
@@ -39,7 +39,8 @@ FOTO2_SECAO: 4
 <p>Pessoas com doenças dos rins ou do fígado, com alterações metabólicas, em tratamento oncológico ou em uso contínuo de medicamentos devem consultar o médico antes de qualquer suplemento. O mesmo vale para gestantes, lactantes e adolescentes.</p>
 <p>Atletas que participam de competições oficiais precisam verificar se o produto é permitido pela entidade esportiva, porque suplementos podem conter substâncias não declaradas.</p>
 <h2>Alternativas e base da massa muscular</h2>
-<p>Para manter ou ganhar músculo, a base costuma ser o treino de força regular e uma alimentação com proteína distribuída ao longo do dia. Essas medidas têm respaldo muito maior do que qualquer suplemento isolado. Para entender a perda muscular com a idade, leia sobre a <a href="/sarcopenia/">sarcopenia</a>.</p>
+<p>Para manter ou ganhar músculo, a base costuma ser o treino de força regular e uma alimentação com proteína distribuída ao longo do dia.</p>
+<p>Essas medidas têm respaldo muito maior do que qualquer suplemento isolado. Para entender como os hormônios mudam com a idade e afetam a massa muscular, leia sobre a <a href="/andropausa/">andropausa</a>.</p>
 <p>Também faz diferença adequar a ingestão de proteína às necessidades de cada fase da vida. O texto sobre <a href="/proteina-mulheres-40/">proteína para mulheres acima de 40</a> aborda esse tema de forma geral, sem substituir a orientação de um nutricionista.</p>
 <p>Para quem busca preservar músculos, a estrutura da rotina costuma ser mais importante do que qualquer ingrediente isolado. Treinos de força com progressão, distribuição de proteína ao longo do dia e sono adequado formam a base. Essas medidas têm respaldo muito mais consistente do que suplementos específicos.</p>
 <p>A quantidade de proteína que cada pessoa precisa depende de idade, peso, nível de atividade e condições de saúde. Adultos mais velhos, por exemplo, costumam se beneficiar de uma ingestão proteica bem distribuída nas refeições, mas a meta deve ser definida pelo nutricionista ou pelo médico.</p>
@@ -49,7 +50,8 @@ FOTO2_SECAO: 4
 <p>Atletas que disputam competições oficiais precisam verificar se o produto é permitido pela entidade esportiva, porque suplementos podem conter substâncias não declaradas no rótulo. Essa checagem protege o desempenho e a saúde e deve ser feita antes de qualquer uso.</p>
 <p>Para quem treina por lazer, o caminho mais simples costuma ser organizar a alimentação, registrar os treinos e buscar acompanhamento de um profissional de educação física e de um nutricionista. A pesquisa sobre o composto continua em andamento, e novos estudos podem mudar as recomendações no futuro.</p>
 <p>Por último, vale desconfiar de propagandas que associem o composto a ganhos rápidos de massa ou força. A evidência disponível não sustenta promessas desse tipo, e o consumidor deve buscar informações em revisões científicas e em profissionais habilitados.</p>
-<p>Pessoas que treinam com frequência costumam ter dúvidas sobre o momento de consumir proteína e outros nutrientes. A orientação geral é priorizar refeições completas, com proteína em cada uma delas, em vez de depender de um produto isolado antes ou depois do treino. Essa estratégia é mais simples e tende a ser suficiente para a maioria das pessoas.</p>
+<p>Pessoas que treinam com frequência costumam ter dúvidas sobre o momento de consumir proteína e outros nutrientes.</p>
+<p>A orientação geral é priorizar refeições completas, com proteína em cada uma delas, em vez de depender de um produto isolado antes ou depois do treino. Essa estratégia é mais simples e tende a ser suficiente para a maioria das pessoas.</p>
 <p>Também vale observar a qualidade do sono e a percepção de cansaço. Quando o corpo parece não se recuperar, a causa frequentemente está na carga de treino excessiva, na alimentação insuficiente ou na falta de descanso. Ajustar esses fatores costuma ser mais eficaz do que aumentar o número de suplementos.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>HMB aumenta a força?</strong> Os resultados são mistos. Em alguns estudos o efeito é pequeno, e em outros não aparece de forma clara.</p>

@@ -15,10 +15,11 @@ FOTO2_ALT: Mulher dormindo em quarto arejado, com cuidados para suores noturnos
 FOTO2_LEGENDA: Um ambiente fresco e rotina regular podem aliviar parte do desconforto.
 FOTO2_SECAO: 4
 ---
-<p>Fogacho menopausa é o termo popular para as ondas de calor súbitas que muitas mulheres sentem na transição para a menopausa. Elas podem vir acompanhadas de vermelhidão, suor e sensação de coração acelerado. Essas ondas são muito comuns e, em geral, têm relação com mudanças hormonais. Veja, em termos gerais, causas, duração e cuidados.</p>
+<p>Fogacho menopausa é o termo popular para as ondas de calor súbitas que muitas mulheres sentem na transição para a menopausa. Elas podem vir com vermelhidão, suor e coração acelerado. São muito comuns e costumam ter relação com mudanças hormonais. Veja causas, duração e cuidados.</p>
 <h2>Fogacho menopausa: o que são os episódios de calor</h2>
 <p>Os fogachos são episódios de calor intenso que começam de forma repentina, geralmente no rosto, no pescoço e no peito, e se espalham pelo corpo. Em seguida, pode surgir suor, seguido de calafrios ou de uma sensação de frio. A intensidade varia bastante de uma mulher para outra.</p>
-<p>Muitas mulheres percebem os fogachos durante o dia, mas eles também acontecem à noite, quando são chamados de suores noturnos. Quando ocorrem enquanto a pessoa dorme, o sono pode ficar fragmentado e a disposição no dia seguinte fica prejudicada. Esse impacto costuma ser um dos motivos mais citados para procurar ajuda.</p>
+<p>Muitas mulheres percebem os fogachos durante o dia, mas eles também acontecem à noite, quando são chamados de suores noturnos.</p>
+<p>Quando ocorrem enquanto a pessoa dorme, o sono pode ficar fragmentado e a disposição no dia seguinte fica prejudicada. Esse impacto costuma ser um dos motivos mais citados para procurar ajuda.</p>
 <p>Os fogachos fazem parte de um conjunto de mudanças que podem incluir alterações do ciclo menstrual, do humor e do sono. Nem todas as mulheres sentem os mesmos sintomas, e a experiência pessoal deve ser considerada na avaliação.</p>
 <h2>Por que os fogachos acontecem</h2>
 <p>A principal explicação está na queda dos níveis de estrogênio, hormônio que participa da regulação da temperatura corporal. Com menos estrogênio, o hipotálamo, região do cérebro que controla a temperatura, passa a reagir de forma mais sensível a pequenas variações, o que dispara a sensação de calor.</p>
@@ -34,11 +35,11 @@ FOTO2_SECAO: 4
 <p>Em geral, a intensidade tende a diminuir com o tempo, mas esse padrão nem sempre acontece. Vale observar a frequência e o impacto dos episódios, anotando dias, horários e possíveis gatilhos. Essas informações ajudam a comparar a evolução e a planejar o cuidado.</p>
 <h2>Caminhos de tratamento</h2>
 <p>Existem tratamentos que podem aliviar os fogachos. A terapia hormonal é uma opção estudada e indicada para casos selecionados, sempre com avaliação de riscos e benefícios. Também há medicamentos não hormonais, com indicações específicas, que o médico pode considerar conforme o quadro e o histórico da paciente.</p>
-<p>Além dos remédios, mudanças de hábito costumam ajudar. Roupas leves, ambientes arejados, redução de álcool e cigarro e técnicas de relaxamento podem diminuir o desconforto em parte das mulheres. Para entender os sintomas em geral, vale a leitura sobre a <a href="/o-que-e-menopausa/">menopausa</a>.</p>
+<p>Além dos remédios, mudanças de hábito costumam ajudar. Roupas leves, ambientes arejados, redução de álcool e cigarro e técnicas de relaxamento podem diminuir o desconforto em parte das mulheres. Para entender os sintomas em geral, vale a leitura sobre a <a href="/o-que-e-perimenopausa/">perimenopausa</a>.</p>
 <p>A escolha do tratamento é sempre individual. Ela considera idade, doenças prévias, histórico familiar, uso de outros medicamentos e preferências da paciente. Nenhum tratamento deve ser iniciado ou suspenso sem orientação profissional.</p>
 <h2>Impacto no sono e no dia a dia</h2>
 <p>Os suores noturnos costumam interromper o sono e reduzir a qualidade do descanso. Com o tempo, isso pode causar cansaço, irritabilidade, dificuldade de concentração e alterações de humor. Quando o sono está muito prejudicado, é importante falar com o médico, porque existem caminhos para melhorar a noite.</p>
-<p>Algumas mulheres relatam também ansiedade associada às ondas de calor, principalmente quando os episódios acontecem em reuniões ou em público. Compreender que os fogachos são um sintoma comum pode aliviar parte dessa preocupação. Para entender melhor os episódios noturnos, leia sobre o <a href="/suor-noturno/">suor noturno</a>.</p>
+<p>Algumas mulheres relatam também ansiedade associada às ondas de calor, principalmente quando os episódios acontecem em reuniões ou em público. Compreender que os fogachos são um sintoma comum pode aliviar parte dessa preocupação. Para entender melhor como as ondas de calor afetam a noite, leia sobre a <a href="/insonia/">insônia</a>.</p>
 <h2>Cuidados gerais no dia a dia</h2>
 <p>Algumas medidas simples podem ajudar. Manter o quarto fresco, usar roupas de algodão e camadas que possam ser tiradas, beber água em pequenos goles e evitar alimentos e bebidas que costumam desencadear episódios são estratégias comuns. Atividade física regular também tem benefícios para o humor e o sono.</p>
 <p>Ainda assim, cuidados gerais nem sempre são suficientes. Quando os fogachos atrapalham a vida, o acompanhamento com médico é o caminho mais seguro para avaliar as opções e acompanhar a evolução.</p>

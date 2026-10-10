@@ -1,5 +1,5 @@
-PALAVRA_CHAVE: hidratante-facial-como-escolher
-TITLE: Hidratante facial: como escolher o ideal para sua pele
+PALAVRA_CHAVE: hidratante facial
+TITLE: Hidratante facial: como escolher o ideal
 DESCRIPTION: Hidratante facial: veja como escolher pelo tipo de pele, quais ingredientes observar, cuidados com alergias e quando procurar um dermatologista.
 FONTE: Governo Federal | https://www.gov.br
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
@@ -20,7 +20,8 @@ FOTO2_SECAO: 4
 <p>Além disso, muitos hidratantes incluem substâncias que ajudam a repor lipídios e a reduzir a sensação de repuxamento. Esses efeitos são, em geral, cosméticos e temporários, e não substituem um tratamento para doenças de pele.</p>
 <p>Usar hidratante todos os dias faz parte de uma rotina básica de cuidados. Ele pode ser aplicado de manhã e à noite, sempre sobre a pele limpa e levemente úmida.</p>
 <h2>Como identificar o seu tipo de pele</h2>
-<p>A pele pode ser seca, oleosa, mista, sensível ou normal, e essas categorias ajudam a orientar a escolha. Pele seca costuma apresentar aspereza e repuxamento. Pele oleosa tem brilho e poros mais visíveis. Pele mista combina áreas oleosas, como a testa e o nariz, com áreas secas. Pele sensível reage com facilidade a produtos e ao calor.</p>
+<p>A pele pode ser seca, oleosa, mista, sensível ou normal, e essas categorias ajudam a orientar a escolha. Pele seca costuma apresentar aspereza e repuxamento.</p>
+<p>Pele oleosa tem brilho e poros mais visíveis. Pele mista combina áreas oleosas, como a testa e o nariz, com áreas secas. Pele sensível reage com facilidade a produtos e ao calor.</p>
 <p>Observar a pele ao longo do dia, sem produtos, pode ajudar a identificar o padrão. Em caso de dúvida, a avaliação de um dermatologista é o caminho mais confiável.</p>
 <ul>
 <li>Pele seca: texturas mais ricas e com emolientes;</li>
@@ -40,14 +41,15 @@ FOTO2_SECAO: 4
 <p>Também é importante desconfiar de indicações de uso que misturam hidratante com medicamentos sem orientação. Clareadores e produtos com substâncias ativas fortes devem ser usados apenas com indicação profissional, principalmente em peles sensíveis ou com manchas.</p>
 <h2>Protetor solar e hidratação</h2>
 <p>Hidratante não substitui o protetor solar. A exposição ao sol é um dos principais fatores de envelhecimento da pele e de manchas. Muitos hidratantes têm filtro solar, mas a proteção deve ser conferida no rótulo e reaplicada conforme as orientações do fabricante e do dermatologista.</p>
-<p>Para entender melhor o cuidado com manchas, vale ler sobre as <a href="/manchas-na-pele/">manchas na pele</a>, que costumam exigir proteção solar constante e avaliação médica quando aparecem de forma nova.</p>
+<p>Hábitos gerais também refletem na pele, como dormir bem (veja <a href="/insonia/">insônia</a>) e controlar o estresse (veja <a href="/como-controlar-a-ansiedade/">como controlar a ansiedade</a>). As manchas, por sua vez, costumam exigir proteção solar constante e avaliação médica quando aparecem de forma nova.</p>
 <p>O clima influencia a escolha do hidratante. Em regiões quentes e úmidas, texturas leves costumam ser mais confortáveis e reduzem a sensação de pele oleosa. Em ambientes secos, ar-condicionado e frio intenso aumentam a perda de água, e fórmulas mais ricas podem ser necessárias nessas épocas.</p>
 <p>A rotina noturna merece atenção própria. À noite, a pele se recupera do dia, e o hidratante ajuda a manter a barreira. Em muitos casos, o produto usado à noite pode ser mais nutritivo do que o da manhã, desde que não cause desconforto ou brilho excessivo ao acordar.</p>
 <p>Ao aplicar, use pequena quantidade e espalhe com movimentos suaves, do centro do rosto para as bordas. Excesso de produto não traz mais benefício e pode deixar a pele pesada. Esperar alguns instantes antes da maquiagem ou do protetor solar melhora a absorção.</p>
 <p>Peles sensíveis reagem a perfumes, ao álcool e a alguns conservantes. Fórmulas sem fragrância costumam ser mais toleradas por elas. Ainda assim, o teste em pequena área continua sendo a melhor forma de verificar a tolerância.</p>
 <p>Quem usa outros cosméticos, como esfoliantes, séruns e produtos clareadores, deve observar como a pele responde à combinação. Alguns ativos fortes podem aumentar a sensibilidade e exigir ajustes na rotina. Nesses casos, a orientação de um dermatologista ajuda a montar uma sequência segura.</p>
 <p>A constância faz diferença. Aplicar o hidratante todos os dias, mesmo quando a pele parece estar bem, mantém a barreira protegida. Mudanças de produto devem ser feitas aos poucos, observando a reação de cada etapa.</p>
-<p>Vale lembrar que a textura preferida nem sempre é a mais adequada. Uma pessoa pode gostar de sensação leve, mas ter pele seca que pede algo mais nutritivo. Avaliar a pele algumas horas após a aplicação e ao longo da semana, e não apenas no momento do uso, dá uma visão mais precisa.</p>
+<p>Vale lembrar que a textura preferida nem sempre é a mais adequada. Uma pessoa pode gostar de sensação leve, mas ter pele seca que pede algo mais nutritivo.</p>
+<p>Avaliar a pele algumas horas após a aplicação e ao longo da semana, e não apenas no momento do uso, dá uma visão mais precisa.</p>
 <p>Mudanças hormonais, gravidez, uso de determinados remédios e envelhecimento podem alterar a necessidade da pele ao longo da vida. O que funcionava bem em uma fase pode precisar de ajuste em outra. Por isso, vale revisar a rotina de tempos em tempos, observando conforto, aparência e possíveis reações.</p>
 <p>Em peles com acne, a escolha do hidratante também faz diferença. Fórmulas leves, não comedogênicas e sem óleos pesados costumam ser melhor toleradas. Se a acne estiver ativa ou em crise, a orientação do dermatologista define quais produtos combinam com o tratamento prescrito.</p>
 <p>Na dúvida entre dois produtos, observe a sensação na pele depois de algumas horas, sem maquiagem, e veja se há repuxamento, brilho excessivo ou vermelhidão. A resposta do próprio rosto é uma das informações mais úteis para decidir.</p>
@@ -58,7 +60,7 @@ FOTO2_SECAO: 4
 <p><strong>Hidratante natural é melhor?</strong> Não necessariamente. Produtos naturais também podem causar alergia, e a segurança depende da formulação.</p>
 <h2>Quando procurar um médico</h2>
 <p>Procure um dermatologista se a pele apresentar vermelhidão persistente, coceira intensa, descamação que não melhora, ardor após o uso de produtos ou manchas que mudam de forma. Esses sinais podem indicar dermatite ou outras condições que exigem tratamento.</p>
-<p>Como a <a href="/dermatite-de-contato/">dermatite de contato</a> pode surgir após o uso de cosméticos, é importante observar quais produtos antecederam a irritação. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+<p>Como a dermatite de contato pode surgir após o uso de cosméticos, é importante observar quais produtos antecederam a irritação. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 <h2>Resumindo</h2>
 <p>Escolher um hidratante facial começa pela identificação do tipo de pele, passa pela leitura da lista de ingredientes e pelo teste antes do uso completo. Texturas leves ou ricas, fórmulas simples e ausência de fragrância são pontos a considerar em peles sensíveis.</p>
 <p>Hidratante ajuda na barreira da pele, mas não substitui protetor solar nem tratamento médico. Quando surgirem irritações ou dúvidas persistentes, a avaliação de um dermatologista é o melhor caminho para definir os cuidados adequados.</p>

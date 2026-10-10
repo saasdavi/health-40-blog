@@ -1,5 +1,5 @@
-PALAVRA_CHAVE: Glicina O Que É, Para Que Serve e Efeitos Colaterais
-TITLE: Glicina: o que é, para que serve e efeitos colaterais
+PALAVRA_CHAVE: glicina
+TITLE: Glicina: o que é, para que serve e riscos
 DESCRIPTION: Glicina: entenda o que é esse aminoácido, para que costuma ser usado, o que a pesquisa mostra e quais efeitos colaterais merecem atenção.
 FONTE: PubMed Central (NIH) | https://pmc.ncbi.nlm.nih.gov
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
@@ -39,7 +39,8 @@ FOTO2_SECAO: 4
 <p>Antes de iniciar um suplemento, vale perguntar qual é o objetivo, se existe evidência suficiente para esse uso e se há alternativas mais seguras. Muitas vezes, o problema que motivou a compra tem causas que precisam de avaliação, como sono ruim, ansiedade ou dores articulares.</p>
 <p>Quando o interesse é o sono, medidas de higiene e acompanhamento costumam ser o primeiro passo. A <a href="/insonia/">insônia</a> tem causas diversas, e a orientação profissional ajuda a identificá-las. Já para o manejo de tensão, práticas como a <a href="/meditacao-ansiedade-40/">meditação</a> podem ser um apoio, sem substituir o cuidado médico.</p>
 <h2>Glicina na alimentação e nos estudos</h2>
-<p>Como a glicina é encontrada em alimentos comuns, a maior parte das pessoas recebe quantidades relevantes pela dieta. Carnes, peixes, ovos, laticínios e leguminosas contêm proteínas que fornecem o aminoácido. Caldos preparados por horas, tradicionalmente usados em receitas, também trazem glicina de forma variável, sem comprovação de efeitos específicos sobre a saúde.</p>
+<p>Como a glicina é encontrada em alimentos comuns, a maior parte das pessoas recebe quantidades relevantes pela dieta. Carnes, peixes, ovos, laticínios e leguminosas contêm proteínas que fornecem o aminoácido.</p>
+<p>Caldos preparados por horas, tradicionalmente usados em receitas, também trazem glicina de forma variável, sem comprovação de efeitos específicos sobre a saúde.</p>
 <p>Quando se fala em suplementação, é preciso diferenciar o consumo alimentar do uso de doses concentradas. Essa distinção é importante porque as quantidades são muito diferentes, assim como os riscos e a segurança a longo prazo. Muitos estudos citados em propagandas utilizam doses que não correspondem à alimentação comum.</p>
 <p>Pesquisas em animais e em modelos experimentais ajudam a entender o papel do aminoácido no organismo, mas nem sempre se transferem para as pessoas. Resultados promissores em laboratório são o início da investigação, não a conclusão. Essa cautela vale para qualquer substância apresentada como solução simples.</p>
 <p>Na prática clínica, o aminoácido aparece em discussões sobre sono e humor, em estudos pequenos. Os achados são heterogêneos, e a ausência de grandes ensaios de longa duração limita conclusões. Por isso, a leitura crítica de revisões sistemáticas é mais confiável do que relatos de experiência individual.</p>

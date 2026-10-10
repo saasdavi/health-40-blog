@@ -1,4 +1,4 @@
-PALAVRA_CHAVE: GABA Para Que Serve, Efeitos Colaterais e Riscos
+PALAVRA_CHAVE: GABA
 TITLE: GABA: para que serve, efeitos colaterais e riscos
 DESCRIPTION: GABA: entenda o que é, para que costuma ser usado, o que a pesquisa ainda não comprova e os riscos que exigem orientação profissional.
 FONTE: Governo Federal | https://www.gov.br
@@ -14,7 +14,7 @@ FOTO2_ALT: Farmacêutico orientando cliente no balcão
 FOTO2_LEGENDA: Antes de usar qualquer suplemento, a orientação profissional é indispensável.
 FOTO2_SECAO: 4
 ---
-<p>GABA é a sigla para ácido gama-aminobutírico, um neurotransmissor que atua como freio natural da atividade do sistema nervoso. Por isso, ele é associado ao relaxamento e ao sono. Suplementos com GABA são vendidos com promessas variadas, mas as evidências são limitadas. Veja os riscos e o que a pesquisa mostra.</p>
+<p>GABA é a sigla para ácido gama-aminobutírico, um neurotransmissor que atua como freio natural do sistema nervoso. Por isso, é associado ao relaxamento e ao sono. Suplementos com GABA são vendidos com promessas variadas, mas as evidências são limitadas. Veja os riscos e o que a pesquisa mostra.</p>
 <h2>O que é o GABA no organismo</h2>
 <p>O GABA é produzido naturalmente pelo cérebro e participa da comunicação entre neurônios. Sua função principal é reduzir a excitabilidade de algumas células nervosas, o que ajuda a equilibrar a atividade cerebral. Esse papel é fundamental para o controle da ansiedade, da tensão muscular e da transição para o sono.</p>
 <p>O GABA também está presente em alguns alimentos fermentados e em vegetais, mas a quantidade obtida pela dieta é variável. O corpo mantém seus níveis principalmente pela própria produção, que é regulada por diferentes fatores.</p>
@@ -41,7 +41,8 @@ FOTO2_SECAO: 4
 <h2>Alternativas com base mais sólida</h2>
 <p>Para ansiedade e dificuldade de dormir, as abordagens com maior respaldo incluem a psicoterapia, especialmente a terapia cognitivo-comportamental, e medidas de higiene do sono. Entender o problema e buscar avaliação ajuda a escolher o caminho adequado. Para aprofundar o tema da ansiedade, vale ler sobre <a href="/como-controlar-a-ansiedade/">como controlar a ansiedade</a>.</p>
 <p>Quando o sono é o principal problema, a investigação deve considerar causas como apneia, uso de telas, cafeína e rotina irregular. O texto sobre <a href="/insonia/">insônia</a> explica sinais e caminhos de cuidado.</p>
-<p>Para entender melhor a notícia sobre um suplemento, vale separar três níveis de informação: o que o corpo produz, o que os estudos observaram e o que a propaganda afirma. Muitas vezes, a ponte entre o primeiro e o terceiro nível é feita sem evidência adequada, e essa lacuna deve ser percebida pelo leitor.</p>
+<p>Para entender melhor a notícia sobre um suplemento, vale separar três níveis de informação: o que o corpo produz, o que os estudos observaram e o que a propaganda afirma.</p>
+<p>Muitas vezes, a ponte entre o primeiro e o terceiro nível é feita sem evidência adequada, e essa lacuna deve ser percebida pelo leitor.</p>
 <p>Ao ler um estudo, observe quem foram os participantes, por quanto tempo foram acompanhados e qual era o grupo de comparação. Estudos com poucos participantes, sem grupo controle ou com financiamento do próprio fabricante exigem cautela. Revisões sistemáticas costumam ser a melhor forma de resumir o conjunto de pesquisas.</p>
 <p>Os neurotransmissores atuam em redes complexas, e alterar um deles com um suplemento não garante efeito previsível sobre humor ou sono. O cérebro compensa variações de muitas maneiras, o que explica por que os resultados individuais variam tanto e por que a melhora percebida pode ter outras causas.</p>
 <p>O efeito placebo merece destaque. Em estudos sobre ansiedade e sono, a expectativa de melhora pode produzir mudanças reais na percepção de bem-estar. Isso não invalida a experiência da pessoa, mas mostra que a sensação de alívio nem sempre se deve à substância.</p>
