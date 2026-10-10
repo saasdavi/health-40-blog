@@ -1,6 +1,6 @@
 PALAVRA_CHAVE: psoríase no couro cabeludo  sintomas
 TITLE: Psoríase no Couro Cabeludo: Sintomas e Diferença da Caspa
-DESCRIPTION: Entenda os sintomas da psoríase no couro cabeludo, como ela se diferencia da caspa, o que pode desencadeá-la e por que a avaliação deve ser feita por dermatologista.
+DESCRIPTION: Entenda os sintomas da psoríase no couro cabeludo, a diferença para a caspa, os gatilhos das crises e por que o dermatologista deve avaliar o caso.
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: Ministério da Saúde | https://www.gov.br/saude
 CAPA_BUSCA: scalp care hair brush
@@ -35,6 +35,8 @@ FOTO2_SECAO: 4
 <p>A caspa é uma descamação mais fina e oleosa, geralmente ligada ao fungo que vive naturalmente na pele, e costuma responder bem a xampus específicos. Já a psoríase forma placas mais espessas, com bordas bem marcadas, escamas secas e aderidas ao couro cabeludo, e tende a não melhorar apenas com xampus comuns.</p>
 <p>Outra diferença é a reação ao tratamento. A caspa melhora com higiene e produtos antifúngicos em muitos casos, enquanto a psoríase exige abordagem específica, com avaliação médica. Também é comum que a psoríase cause vermelhidão mais intensa e sinais em outras partes do corpo, como unhas com pequenas cavidades ou lesões em cotovelos e joelhos.</p>
 <p>Como as duas situações podem se parecer, a dica é observar a evolução por algumas semanas e levar o caso ao dermatologista se a descamação persistir, se houver placas bem definidas ou se o incômodo aumentar.</p>
+<p>Um detalhe útil para a conversa com o médico é anotar quando a descamação começou, se ela piora em certas épocas do ano e quais produtos foram usados nas últimas semanas. Essas informações ajudam o especialista a entender o padrão das crises e a escolher a investigação mais adequada.</p>
+<p>Fotos do couro cabeludo tiradas em diferentes momentos também podem ajudar, desde que sejam apenas um registro para a consulta. Elas não substituem o exame clínico, que é feito pelo profissional com a pele e o cabelo à vista.</p>
 
 <h2>O que pode desencadear as crises</h2>
 <p>A psoríase tem forte influência genética, mas crises costumam ser desencadeadas por fatores do dia a dia. Estresse intenso, infecções, traumas na pele, mudanças climáticas, certos medicamentos e o consumo de álcool e cigarro estão entre os gatilhos relatados com mais frequência.</p>
@@ -42,13 +44,14 @@ FOTO2_SECAO: 4
 <p>Alguns medicamentos devem ser revisados pelo médico, sobretudo quando iniciados recentemente. A decisão de alterar qualquer remédio cabe ao profissional que acompanha o caso, e nunca deve ser tomada por conta própria.</p>
 
 <h2>Cuidados diários que ajudam no conforto</h2>
-<p>Enquanto a avaliação médica não acontece, alguns cuidados podem reduzir o desconforto. Lavar o cabelo com xampu suave, evitar coçar e secar o couro cabeludo com toques leves são medidas simples. Manter o cabelo bem hidratado, sem excesso de produtos que irritem a pele, também ajuda.</p>
+<p>Enquanto a avaliação médica não acontece, alguns cuidados podem reduzir o desconforto. Vale evitar pentes de metal e escovas muito duras, que podem arranhar a pele e aumentar a irritação. Na hora de secar, o secador deve ficar a uma distância segura e em temperatura moderada, pois o calor excessivo resseca o couro cabeludo. Lavar o cabelo com xampu suave, evitar coçar e secar o couro cabeludo com toques leves são medidas simples. Manter o cabelo bem hidratado, sem excesso de produtos que irritem a pele, também ajuda.</p>
 <p>É importante não usar produtos agressivos, como alcoóis concentrados ou tinturas aplicadas sobre lesões abertas, sem orientação. Cada tratamento tem indicação própria, e a escolha deve ser feita com um profissional.</p>
 <p>Para entender melhor como outros problemas do couro cabeludo se manifestam, vale ler sobre <a href="/dermatite-de-contato/">dermatite de contato</a>, que também causa vermelhidão e coceira na região.</p>
 
 <h2>Quando a psoríase pode afetar a rotina e a saúde</h2>
 <p>Além dos sintomas na pele, a psoríase pode impactar o bem-estar emocional. Muitas pessoas relatam vergonha, ansiedade e sensação de isolamento, especialmente quando as escamas ficam visíveis. Esses aspectos merecem ser discutidos com o médico, que pode indicar apoio adicional.</p>
 <p>A doença também pode se associar a outras condições, por isso a avaliação deve considerar o quadro geral. Quem tem psoríase deve manter o acompanhamento regular, mesmo nos períodos de melhora.</p>
+<p>Outro aspecto a considerar é a rotina de trabalho e de sono. Jornadas longas, noites mal dormidas e períodos de pressão costumam coincidir com crises de coceira e descamação. Pequenos ajustes, como pausas durante o dia e horários de dormir mais regulares, podem facilitar o manejo da condição junto com o tratamento indicado pelo médico.</p>
 <p>Com o tempo, a queixa de queda de cabelo pode surgir, seja pela inflamação, seja pelo coçar e pelas lesões. Sobre esse ponto, vale conhecer o tema de <a href="/queda-de-cabelo/">queda de cabelo</a> e a importância de investigar a causa.</p>
 
 <h2>Perguntas frequentes</h2>

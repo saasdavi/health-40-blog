@@ -1,328 +1,65 @@
 PALAVRA_CHAVE: babosa no cabelo
-TITLE: Babosa no Cabelo: 5 Benefícios, Como Usar e Frequência
-DESCRIPTION: Conheça os 5 principais benefícios da babosa no cabelo, como remover a aloína, a frequência segura de aplicação e por que ela não trata calvície genética.
+TITLE: Babosa no Cabelo: Benefícios, Como Usar e Frequência
+DESCRIPTION: Entenda o que se sabe sobre babosa no cabelo, quais efeitos são prováveis, como usar com cuidado, com que frequência e quando procurar um dermatologista.
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
-FONTE: natura.com.br | https://natura.com.br
-FONTE: terra.com.br | https://terra.com.br
-CAPA_BUSCA: woman hair care brush
-CAPA_ALT: Cuidados com os cabelos sobre babosa no cabelo
-FOTO1_BUSCA: dermatologist scalp examination
-FOTO1_ALT: Avaliação do couro cabeludo relacionado a babosa no cabelo
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
+FONTE: Anvisa | https://www.gov.br/anvisa
+CAPA_BUSCA: aloe vera plant leaves
+CAPA_ALT: Folhas de babosa, também chamada de aloe vera, com gel transparente, usada em cuidados com o cabelo
+FOTO1_BUSCA: aloe vera gel spoon
+FOTO1_ALT: Colher com gel transparente de babosa sobre uma superfície clara, cuidado caseiro para o cabelo
+FOTO1_LEGENDA: O gel da planta é o componente mais usado em cuidados caseiros para os fios.
 FOTO1_SECAO: 2
+FOTO2_BUSCA: woman healthy shiny hair
+FOTO2_ALT: Mulher com cabelo longo e brilhante, sorrindo ao ar livre, cuidado com a hidratação dos fios
+FOTO2_LEGENDA: Hidratação e cuidado suave com os fios são a base de qualquer rotina capilar.
+FOTO2_SECAO: 4
 ---
-<div id="container-imagem-capa" class="loading">Carregando imagem...</div>
+<p>A babosa no cabelo é um dos cuidados naturais mais populares, geralmente aplicada na forma de gel extraído das folhas da planta. Ela tem uso tradicional e alguns componentes com ação hidratante, mas as evidências científicas para o cabelo são limitadas. Antes de incorporar o gel à rotina, vale saber o que é provável, o que não é e quais cuidados tomar. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
-<p>A <strong>babosa no cabelo</strong> é um dos tratamentos caseiros mais populares do Brasil, e não é à toa. A planta, também conhecida como Aloe vera, concentra vitaminas A, C, E, complexo B, minerais como zinco e magnésio, e polissacarídeos que formam um filme protetor sobre a fibra capilar. Seus benefícios incluem hidratação profunda, fortalecimento, controle da oleosidade, combate à caspa e brilho intenso. No entanto, o uso incorreto — especialmente a aplicação do gel sem remover a aloína — pode causar coceira, irritação e dermatite. Além disso, é fundamental entender que a babosa atua na haste e no couro cabeludo, mas não altera condições genéticas ou hormonais como a calvície. Este artigo detalha os 5 principais benefícios da babosa no cabelo, o passo a passo para remover a aloína com segurança, a frequência ideal de aplicação e as limitações da planta.</p>
+<h2>O que é a babosa e o que tem no gel?</h2>
+<p>A babosa, conhecida cientificamente como Aloe vera, é uma planta suculenta. O gel transparente que existe dentro das folhas é composto principalmente por água, polissacarídeos, vitaminas e minerais em pequenas quantidades. Ele tem textura leve e costuma ser usado por causa da sensação de frescor e de hidratação.</p>
+<p>A planta também contém outras substâncias, que ficam mais concentradas na casca das folhas. Essas substâncias são as que mais preocupam quando o assunto é segurança, e serão abordadas mais adiante.</p>
 
-<h2>Quais São os 5 Principais Benefícios da Babosa no Cabelo?</h2>
-
-<p>A babosa tem propriedades que a tornam versátil no cuidado capilar. Seus benefícios são bem documentados na literatura dermatológica e cosmética. A revisão sistemática publicada no British Journal of General Practice avaliou a eficácia clínica da Aloe vera e confirmou suas propriedades anti-inflamatórias, hidratantes e cicatrizantes, mediadas pelos polissacarídeos do gel.</p>
-
-<h3>1. Hidratação Profunda</h3>
-<p>A babosa é um umectante natural. Seus polissacarídeos atraem e retêm água na fibra capilar, aumentando o teor de umidade e melhorando a maciez. O gel forma um filme que reduz a perda de água transepidérmica, mantendo o fio hidratado por mais tempo. É especialmente útil para cabelos secos, ressecados por química ou expostos ao sol.</p>
-
-<h3>2. Fortalecimento da Fibra</h3>
-<p>Os aminoácidos e minerais presentes na babosa ajudam a preencher as fissuras da cutícula e a reforçar a estrutura do fio. O resultado é um cabelo mais resistente à quebra e com menos pontas duplas. A ação não é tão intensa quanto a de proteínas como a queratina, mas é uma alternativa suave para manutenção.</p>
-
-<h3>3. Controle da Oleosidade</h3>
-<p>A babosa tem ação adstringente. Ela ajuda a regular a produção de sebo no couro cabeludo, reduzindo o aspecto oleoso sem ressecar. Por isso, é indicada para cabelos mistos e oleosos, especialmente na raiz. A aplicação no couro cabeludo ajuda a equilibrar a oleosidade sem estimular o efeito rebote.</p>
-
-<h3>4. Combate à Caspa e Descamação</h3>
-<p>A babosa tem propriedades antifúngicas e anti-inflamatórias que ajudam a acalmar o couro cabeludo irritado e a reduzir a descamação. Ela não substitui o tratamento específico para dermatite seborreica, mas é um coadjuvante útil no controle da caspa leve.</p>
-
-<h3>5. Brilho e Maciez</h3>
-<p>A selagem das cutículas proporcionada pela babosa deixa o cabelo com brilho intenso e toque macio. O gel também reduz o frizz e os fios rebeldes, facilitando a modelagem e o desembaraço. É um efeito visível já na primeira aplicação.</p>
-
-<h3>Tabela: Benefícios da Babosa no Cabelo</h3>
-
-<table>
-<thead>
-<tr>
-<th>Benefício</th>
-<th>Mecanismo</th>
-<th>Indicação</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Hidratação profunda</td>
-<td>Umectante; forma filme que retém água</td>
-<td>Cabelos secos, ressecados por química</td>
-</tr>
-<tr>
-<td>Fortalecimento</td>
-<td>Aminoácidos e minerais preenchem fissuras da cutícula</td>
-<td>Cabelos fragilizados, com quebra</td>
-</tr>
-<tr>
-<td>Controle da oleosidade</td>
-<td>Ação adstringente regula produção de sebo</td>
-<td>Cabelos mistos e oleosos</td>
-</tr>
-<tr>
-<td>Combate à caspa</td>
-<td>Propriedades antifúngicas e anti-inflamatórias</td>
-<td>Couro cabeludo com descamação leve</td>
-</tr>
-<tr>
-<td>Brilho e maciez</td>
-<td>Selagem das cutículas e redução do frizz</td>
-<td>Todos os tipos de cabelo</td>
-</tr>
-</tbody>
-</table>
-
-<div id="container-imagem-1" class="loading">Carregando imagem...</div>
-
-<h2>Pode Usar a Folha de Babosa Pura Direto no Couro Cabeludo?</h2>
-
-<p>Sim, desde que a aloína tenha sido completamente removida. A aloína é a substância amarelada presente entre a casca e o gel transparente. Ela tem ação irritante e laxante e pode causar coceira intensa, vermelhidão, ardência e descamação quando aplicada na pele. Em pessoas sensíveis, a reação pode ser ainda mais grave, evoluindo para dermatite de contato.</p>
-
-<p>Por isso, a recomendação é sempre fazer o teste de alergia antes de usar qualquer preparação com babosa. Aplique uma pequena quantidade no antebraço, cubra com um curativo e observe por 24 horas. Se houver vermelhidão, coceira ou inchaço, não use o produto.</p>
-
-<p>Além disso, a babosa pura pode ser muito adstringente para alguns tipos de cabelo, deixando a fibra rígida e sem maleabilidade. Para evitar esse efeito, combine o gel com um óleo vegetal ou use apenas no couro cabeludo, evitando as pontas.</p>
-
-<h2>Como Tirar a Aloína da Babosa para Não Queimar a Pele?</h2>
-
-<p>A remoção da aloína é o passo mais importante para usar a babosa com segurança. O método mais eficaz é a drenagem em água por 24 horas.</p>
-
-<h3>Passo a Passo para Remover a Aloína</h3>
-
-<ol>
-<li><strong>Colha uma folha madura:</strong> prefira folhas externas, mais grossas e com pelo menos 15 cm. Corte na base, próximo ao caule.</li>
-<li><strong>Lave e seque:</strong> remova a sujeira com água corrente e seque bem.</li>
-<li><strong>Corte as laterais da folha:</strong> remova as bordas espinhosas com uma faca afiada.</li>
-<li><strong>Coloque a folha em pé dentro de um recipiente com água:</strong> a base deve ficar submersa. A aloína escorre para a água.</li>
-<li><strong>Deixe descansar por 24 horas:</strong> troque a água a cada 6 horas para garantir a remoção completa.</li>
-<li><strong>Extraia o gel transparente:</strong> após 24 horas, corte a folha ao meio no sentido do comprimento e retire o gel transparente com uma colher. Evite raspar a parte amarelada próxima à casca.</li>
-<li><strong>Bata o gel no liquidificador:</strong> se preferir uma textura mais fluida, bata rapidamente. O gel puro pode ser usado diretamente ou combinado com óleos.</li>
-</ol>
-
-<h3>Tabela: Métodos de Remoção da Aloína</h3>
-
-<table>
-<thead>
-<tr>
-<th>Método</th>
-<th>Tempo</th>
-<th>Eficácia</th>
-<th>Observação</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Drenagem em água por 24h</td>
-<td>24 horas</td>
-<td>Alta</td>
-<td>Trocar a água a cada 6 horas</td>
-</tr>
-<tr>
-<td>Lavagem do gel em água corrente</td>
-<td>5 a 10 minutos</td>
-<td>Moderada</td>
-<td>Pode deixar resíduos em folhas mais velhas</td>
-</tr>
-<tr>
-<td>Fervura rápida do gel</td>
-<td>2 a 3 minutos</td>
-<td>Alta</td>
-<td>Pode degradar nutrientes termossensíveis</td>
-</tr>
-</tbody>
-</table>
-
-<div id="container-imagem-2" class="loading">Carregando imagem...</div>
-
-<h2>De Quanto em Quanto Tempo Pode Passar Babosa nos Fios?</h2>
-
-<p>A frequência ideal depende do tipo de cabelo e do objetivo. O uso diário do gel bruto pode enrijecer a haste capilar, especialmente em cabelos finos ou já danificados, e deixar o fio pesado. A recomendação é de uma aplicação semanal para a maioria dos tipos de cabelo.</p>
-
-<h3>Tabela: Frequência de Aplicação por Tipo de Cabelo</h3>
-
-<table>
-<thead>
-<tr>
-<th>Tipo de Cabelo</th>
-<th>Frequência</th>
-<th>Observação</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Oleoso</td>
-<td>1 a 2 vezes por semana</td>
-<td>Ação adstringente ajuda a controlar a oleosidade</td>
-</tr>
-<tr>
-<td>Normal</td>
-<td>1 vez por semana</td>
-<td>Como máscara de hidratação</td>
-</tr>
-<tr>
-<td>Seco</td>
-<td>1 vez por semana</td>
-<td>Combinar com óleo vegetal para evitar ressecamento</td>
-</tr>
-<tr>
-<td>Crespo ou cacheado</td>
-<td>1 vez a cada 15 dias</td>
-<td>Usar como leave-in diluído ou em máscara</td>
-</tr>
-<tr>
-<td>Com química</td>
-<td>1 vez a cada 15 dias</td>
-<td>Evitar uso frequente para não sobrecarregar a fibra</td>
-</tr>
-</tbody>
-</table>
-
-<p><em>Observação: o uso diário da babosa pura não é recomendado para a maioria dos tipos de cabelo. O gel pode formar um filme que, em excesso, deixa o fio pesado e sem movimento.</em></p>
-
-<h3>Como Aplicar</h3>
-<p>Aplique o gel no couro cabeludo seco ou levemente úmido, massageando suavemente com as pontas dos dedos em movimentos circulares. Deixe agir por 30 minutos a 1 hora. Enxágue com água morna e lave o cabelo com shampoo suave. Para potencializar o efeito hidratante, combine o gel com óleo de coco ou azeite de oliva.</p>
-
-<h2>Babosa Trata Calvície Genética ou Queda de Cabelo?</h2>
-
-<p>Não. A babosa atua na haste capilar e no couro cabeludo, mas não altera condições hormonais ou genéticas profundas, como a alopecia androgenética. A calvície genética é causada pela miniaturização do folículo pela ação do DHT, e nenhum tratamento tópico natural reverte esse mecanismo.</p>
-
-<p>O que a babosa faz é melhorar as condições do couro cabeludo e da fibra, o que indiretamente pode reduzir a quebra e a queda associada a inflamação, caspa e ressecamento. Ela não tem efeito sobre a queda com origem no folículo.</p>
-
-<h3>Tabela Comparativa: Queda vs. Quebra e o Papel da Babosa</h3>
-
-<table>
-<thead>
-<tr>
-<th>Característica</th>
-<th>Queda Capilar</th>
-<th>Quebra Capilar</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Local do rompimento</td>
-<td>Raiz (folículo)</td>
-<td>Haste (ao longo do fio)</td>
-</tr>
-<tr>
-<td>Aspecto do fio</td>
-<td>Bulbo esbranquiçado na ponta</td>
-<td>Sem bulbo; ponta irregular</td>
-</tr>
-<tr>
-<td>Causas principais</td>
-<td>Hormônios, nutrição, genética, estresse</td>
-<td>Química, calor, atrito, desidratação</td>
-</tr>
-<tr>
-<td>Efeito da babosa</td>
-<td>Não atua na causa; pode ajudar na saúde do couro</td>
-<td>Atua diretamente: hidrata, sela e reduz quebra</td>
-</tr>
-</tbody>
-</table>
-
-<div id="container-imagem-3" class="loading">Carregando imagem...</div>
-
-<h2>Babosa Caseira vs. Produtos com Babosa</h2>
-
-<p>Se você não quer extrair o gel em casa, existem no mercado máscaras, shampoos e leave-in com extrato de babosa. A vantagem é a praticidade e a formulação equilibrada, que combina a babosa com outros ativos hidratantes e protetores. A desvantagem é que a concentração de babosa pode ser menor e nem sempre há transparência sobre a quantidade usada.</p>
-
-<p>A babosa caseira tem a vantagem de ser pura e livre de conservantes, mas exige o trabalho de extração e o cuidado com a aloína. Se você optar pelo gel caseiro, use em até 3 dias, mantendo na geladeira em recipiente esterilizado. O gel natural oxida e pode contaminar-se com bactérias rapidamente.</p>
-
-<h3>Tabela Comparativa: Babosa Caseira vs. Produtos com Babosa</h3>
-
-<table>
-<thead>
-<tr>
-<th>Critério</th>
-<th>Babosa Caseira (gel puro)</th>
-<th>Produtos com Babosa</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Concentração</td>
-<td>Alta (gel puro)</td>
-<td>Variável; geralmente menor</td>
-</tr>
-<tr>
-<td>Conservação</td>
-<td>Até 3 dias na geladeira</td>
-<td>Meses (com conservantes)</td>
-</tr>
-<tr>
-<td>Praticidade</td>
-<td>Exige extração e cuidado com aloína</td>
-<td>Pronto para usar</td>
-</tr>
-<tr>
-<td>Risco de irritação</td>
-<td>Maior se a aloína não for removida</td>
-<td>Menor; formulações testadas</td>
-</tr>
-<tr>
-<td>Custo</td>
-<td>Baixo</td>
-<td>Variável</td>
-</tr>
-</tbody>
-</table>
-
-<h2>Quando a Babosa Não É Indicada</h2>
-
-<p>A babosa é geralmente segura, mas existem situações em que seu uso deve ser evitado ou feito com cautela.</p>
-
+<h2>O que a babosa no cabelo faz de fato?</h2>
+<p>Os efeitos mais citados são a hidratação superficial e a sensação de maciez. O gel forma uma película leve que reduz a perda de água dos fios e pode deixar o cabelo mais fácil de pentear. Em algumas pessoas, ajuda a aliviar a sensação de couro cabeludo seco.</p>
 <ul>
-<li><strong>Alergia à Aloe vera:</strong> pessoas com alergia conhecida à planta não devem usar.</li>
-<li><strong>Couro cabeludo com feridas abertas:</strong> a aplicação pode irritar e atrasar a cicatrização.</li>
-<li><strong>Dermatite seborreica grave:</strong> a babosa pode ajudar no controle leve, mas não substitui o tratamento médico com antifúngicos e corticoides.</li>
-<li><strong>Queda de cabelo intensa ou súbita:</strong> a avaliação dermatológica é indispensável para identificar a causa e o tratamento adequado.</li>
-<li><strong>Uso em crianças pequenas:</strong> a pele infantil é mais sensível e a aloína pode causar irritação. Consulte um pediatra antes de usar.</li>
+<li>Sensação de hidratação e maciez nos fios.</li>
+<li>Alívio temporário de ressecamento leve no couro cabeludo.</li>
+<li>Facilidade para desembaraçar, em cabelos mais secos.</li>
 </ul>
+<p>Esses efeitos são observados de forma prática, mas não equivalem a um tratamento. O gel não corrige danos profundos nem muda a estrutura do fio.</p>
 
-<h2>FAQ — Perguntas Frequentes</h2>
+<h2>A babosa faz o cabelo crescer ou deixa de cair?</h2>
+<p>Esta é uma das expectativas mais comuns e também uma das que têm menos respaldo científico. Não há evidência consistente de que a babosa estimule o crescimento de fios ou interrompa a queda causada por fatores genéticos, hormonais, inflamatórios ou nutricionais. Estudos com a planta costumam ser pequenos, e a maioria não avalia a queda de cabelo de forma adequada.</p>
+<p>Por isso, usar babosa como tratamento único para queda pode atrasar a investigação da causa. Para entender as origens mais comuns da queda, veja a página sobre <a href="/queda-de-cabelo/">queda de cabelo</a>.</p>
 
-<h3>1. Quais são os 5 principais benefícios da babosa no cabelo?</h3>
-<p>Hidratação profunda, fortalecimento da fibra, controle da oleosidade, combate à caspa e brilho e maciez. A babosa é um umectante natural com propriedades anti-inflamatórias e adstringentes.</p>
+<h2>Como usar o gel de forma segura?</h2>
+<p>O cuidado começa pela origem do produto. Quando possível, use gel extraído da própria planta, retirando o líquido amarelado da casca, que pode irritar. Produtos industrializados, quando regulamentados, costumam indicar a concentração e a forma de uso no rótulo.</p>
+<p>Aplique uma pequena quantidade no couro cabeludo ou nas pontas, massageie suavemente e deixe agir pelo tempo que for confortável. Depois, enxágue com água morna e shampoo suave. Faça um teste de contato em pequena área antes do primeiro uso completo.</p>
 
-<h3>2. Pode usar a folha de babosa pura direto no couro cabeludo?</h3>
-<p>Sim, desde que a aloína tenha sido removida. A aloína é irritante e pode causar coceira e dermatite. Faça sempre um teste de alergia no antebraço antes do primeiro uso.</p>
+<h2>Com que frequência usar?</h2>
+<p>Não há uma frequência universal comprovada. Em geral, o uso ocasional, de acordo com a tolerância da pele, é a orientação mais prudente. Se o couro cabeludo ficar vermelho, arder ou coçar, suspenda o uso. A regularidade deve ser ajustada ao tipo de cabelo e à sensibilidade de cada pessoa, sempre com atenção aos sinais de irritação.</p>
+<p>Excesso de gel também pode deixar uma película pegajosa, que atrai sujeira e dificulta o enxágue.</p>
 
-<h3>3. Como tirar a aloína da babosa para não queimar a pele?</h3>
-<p>Corte as laterais da folha e deixe-a em pé dentro de um recipiente com água por 24 horas, trocando a água a cada 6 horas. A aloína escorre para a água e o gel transparente fica livre da substância irritante.</p>
+<h2>Quais riscos merecem atenção?</h2>
+<p>A principal preocupação é a irritação do couro cabeludo e da pele ao redor. Plantas da família das aloés podem causar reação alérgica em pessoas sensíveis. Como já mencionado, a casca da planta contém substâncias que podem irritar a pele e, quando ingeridas, causar problemas intestinais. Por isso, o uso do gel deve ser feito com cuidado, e a ingestão de preparações caseiras não é recomendada sem orientação profissional.</p>
+<p>Também é prudente evitar o contato com os olhos e com feridas abertas. Quem tem dermatite, psoríase ou outras doenças de pele deve pedir orientação antes de usar qualquer produto natural no couro cabeludo.</p>
 
-<h3>4. De quanto em quanto tempo pode passar babosa nos fios?</h3>
-<p>Uma vez por semana é suficiente para a maioria dos tipos de cabelo. Cabelos crespos ou com química podem usar a cada 15 dias. O uso diário pode enrijecer a fibra e deixar o cabelo pesado.</p>
+<h2>Babosa pode ser combinada com outros cuidados?</h2>
+<p>Algumas pessoas misturam o gel a condicionadores, máscaras e óleos vegetais. Essas combinações podem tornar a aplicação mais agradável, mas aumentam a chance de alergia, porque cada ingrediente pode causar reação. Ao combinar, mude apenas um item por vez, para identificar qual produto causou algum desconforto.</p>
+<p>Para outros cuidados caseiros amplamente divulgados, como o <a href="/suco-de-cebola-no-cabelo/">suco de cebola no cabelo</a>, o mesmo raciocínio de cautela se aplica.</p>
 
-<h3>5. A babosa trata calvície genética?</h3>
-<p>Não. A babosa atua na haste e no couro cabeludo, mas não altera condições hormonais ou genéticas como a alopecia androgenética. Ela ajuda a reduzir a quebra e melhora a saúde do couro, mas não substitui tratamentos médicos para calvície.</p>
+<h2>Perguntas frequentes</h2>
+<p><strong>Babosa no cabelo substitui o shampoo?</strong><br>Não. Ela pode complementar a rotina, mas a limpeza do couro cabeludo continua necessária.</p>
+<p><strong>Babosa pode deixar o cabelo oleoso?</strong><br>Pode, se for usada em excesso ou não for bem enxaguada.</p>
+<p><strong>Gel de babosa é seguro para todos?</strong><br>Em geral, o uso tópico é bem tolerado, mas pessoas com alergias a plantas da mesma família devem evitar.</p>
+<p><strong>Babosa tem efeito comprovado para caspa?</strong><br>As evidências são limitadas. Caspa costuma exigir avaliação e cuidados específicos.</p>
+
+<h2>Quando procurar um médico</h2>
+<p>Procure um dermatologista se o couro cabeludo apresentar coceira intensa, ardência, vermelhidão, descamação persistente, feridas ou pus. Também é importante buscar avaliação se a queda de cabelo aumentar depois de iniciar o uso de babosa ou se surgirem falhas definidas.</p>
+<p>Se houver inchaço, falta de ar ou urticária após o contato com o produto, procure atendimento de urgência.</p>
 
 <h2>Resumindo</h2>
-
-<p>A babosa no cabelo é uma aliada versátil para hidratação, fortalecimento, controle da oleosidade, combate à caspa e brilho. Seus benefícios são mediados por polissacarídeos, vitaminas e minerais que atuam na fibra e no couro cabeludo. A revisão sistemática publicada no British Journal of General Practice confirma suas propriedades anti-inflamatórias e cicatrizantes.</p>
-
-<p>O uso seguro exige a remoção completa da aloína, substância irritante que pode causar coceira e dermatite. O método mais eficaz é a drenagem da folha em água por 24 horas, trocando a água a cada 6 horas. O teste de alergia no antebraço é indispensável antes do primeiro uso.</p>
-
-<p>A frequência ideal é de uma vez por semana para a maioria dos tipos de cabelo, podendo chegar a uma vez a cada 15 dias em cabelos crespos ou com química. O uso diário não é recomendado, pois pode enrijecer a fibra e deixar o fio pesado.</p>
-
-<p>A babosa não substitui tratamentos médicos para alopecia androgenética, alopecia areata ou eflúvio telógeno grave. Nesses casos, ela pode ser usada como coadjuvante, mas o tratamento principal deve ser orientado por dermatologista. Se a sua queixa é quebra, ressecamento, frizz ou couro cabeludo irritado, a babosa é uma opção natural e eficaz.</p>
-
-<p>Antes de iniciar qualquer tratamento capilar, especialmente se houver queda intensa ou súbita, consulte um dermatologista para avaliação individualizada. A babosa é uma ferramenta de cuidado, não um tratamento para doenças capilares.</p>
-
-<h2>Fontes</h2>
-<ul>
-<li>Natura. Babosa no cabelo: conheça os benefícios. <a href="https://www.natura.com.br/blog/cabelo/babosa-no-cabelo" target="_blank" rel="noopener">https://www.natura.com.br/blog/cabelo/babosa-no-cabelo</a></li>
-<li>Terra. Queda de cabelo: a babosa ajuda mesmo ou a fama é exagerada. <a href="https://www.terra.com.br/vida-e-estilo/saude/queda-de-cabelo-a-babosa-ajuda-mesmo-ou-a-fama-e-exagerada,d2a6b16fd4958cc7595ee970340256b3hezl3yp0.html" target="_blank" rel="noopener">https://www.terra.com.br/vida-e-estilo/saude/queda-de-cabelo-a-babosa-ajuda-mesmo-ou-a-fama-e-exagerada,d2a6b16fd4958cc7595ee970340256b3hezl3yp0.html</a></li>
-<li>Sociedade Brasileira de Dermatologia. Queda ou Quebra de Cabelo: Como Diferenciar no Consultório. <a href="https://www.sbd.org.br" target="_blank" rel="noopener">https://www.sbd.org.br</a></li>
-<li>British Journal of General Practice / NIH. Aloe vera: A systematic review of its clinical effectiveness. <a href="https://pubmed.ncbi.nlm.nih.gov/10562846/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/10562846/</a></li>
-<li>Clínica de Cirurgia Estética Dr. André Colaneri. Quais os benefícios da Babosa para o cabelo? <a href="https://www.cirurgiaestetica.com.br/quais-os-beneficios-da-babosa-para-o-cabelo-cirurgia-plastica-estetica-dr-andre-colaneri/" target="_blank" rel="noopener">https://www.cirurgiaestetica.com.br/quais-os-beneficios-da-babosa-para-o-cabelo-cirurgia-plastica-estetica-dr-andre-colaneri/</a></li>
-<li>Manual.com.br. Babosa (Aloe Vera) para Cabelo: Tudo Sobre o Ingrediente. <a href="https://www.manual.com.br" target="_blank" rel="noopener">https://www.manual.com.br</a></li>
-</ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
-<h2>Quando procurar um médico</h2>
-<p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://pubmed.ncbi.nlm.nih.gov" target="_blank" rel="noopener">PubMed (National Library of Medicine)</a>, <a href="https://natura.com.br" target="_blank" rel="noopener">natura.com.br</a> e da <a href="https://terra.com.br" target="_blank" rel="noopener">terra.com.br</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>A babosa no cabelo pode oferecer hidratação superficial e maciez, mas não há evidência de que ela faça o cabelo crescer ou trate a queda. Como todo produto natural, precisa de teste de contato, moderação e atenção à reação da pele.</p>
+<p>Quando a queda ou a irritação persistem, o caminho mais seguro é a avaliação com um dermatologista. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
