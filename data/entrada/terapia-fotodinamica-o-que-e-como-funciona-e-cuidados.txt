@@ -22,6 +22,10 @@ FOTO2_SECAO: 4
 
 <p>Esse princípio já é estudado há décadas e aparece em artigos científicos brasileiros e internacionais. A proposta é atuar sobre áreas específicas, poupando, na medida do possível, o tecido ao redor.</p>
 
+<p>Em termos simples, a luz funciona como um gatilho, e a substância só age onde as duas se encontram. Essa seletividade é um dos motivos pelos quais a técnica é estudada, mas ela não elimina riscos nem dispensa o controle profissional.</p>
+
+<p>A técnica também é pesquisada em outras áreas da medicina, mas o uso mais consolidado na pele exige conhecimento de dermatologia e de fotoproteção.</p>
+
 <h2>Como o procedimento funciona na prática</h2>
 
 <p>Na consulta, o médico avalia a lesão, a extensão da área e o tipo de pele. Em seguida, aplica-se uma substância na superfície, que pode ser um creme ou uma solução, e aguarda-se um tempo para que ela seja absorvida pelas células doentes ou alteradas.</p>
@@ -30,13 +34,15 @@ FOTO2_SECAO: 4
 
 <p>Como o efeito depende da combinação entre substância e luz, a técnica não deve ser reproduzida em casa com aparelhos sem orientação. A variação de equipamento e de protocolo muda o resultado e o risco.</p>
 
+<p>Os equipamentos variam em potência, tipo de luz e tempo de exposição. Por isso, dois procedimentos com o mesmo nome podem ser bem diferentes na prática, e perguntar sobre o protocolo faz parte de uma decisão segura.</p>
+
 <h2>Para quais situações da pele ela é usada</h2>
 
 <p>Na dermatologia, a terapia fotodinâmica é estudada e utilizada em algumas lesões pré-cancerosas, como a ceratose actínica, e em certos tumores superficiais da pele. Ela também aparece em protocolos para algumas condições inflamatórias e para lesões de acne, conforme avaliação do especialista.</p>
 
 <p>Em cada caso, a decisão depende do diagnóstico, da localização, da extensão e do histórico do paciente. Alternativas como cirurgia, crioterapia, cremes tópicos e outros tratamentos podem ser mais adequadas em determinadas situações.</p>
 
-<p>Pesquisas brasileiras publicadas em revistas dermatológicas discutem resultados, indicações e limites dessa técnica. A leitura desses trabalhos é útil para entender o tema, mas não substitui a avaliação de um dermatologista.</p>
+<p>Pesquisas publicadas em revistas dermatológicas, muitas delas indexadas na base SciELO, discutem resultados, indicações e limites dessa técnica. A leitura desses trabalhos é útil para entender o tema, mas não substitui a avaliação de um dermatologista.</p>
 
 <h2>O que acontece durante e depois da sessão</h2>
 
