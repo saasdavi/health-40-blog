@@ -62,6 +62,9 @@ FOTO2_SECAO: 4
 <p>Pequenos ajustes, como pausas durante o dia e horários de dormir mais regulares, podem facilitar o manejo da condição junto com o tratamento indicado pelo médico.</p>
 <p>Com o tempo, a queixa de queda de cabelo pode surgir, seja pela inflamação, seja pelo coçar e pelas lesões. Sobre esse ponto, vale conhecer o tema de <a href="/queda-de-cabelo/">queda de cabelo</a> e a importância de investigar a causa.</p>
 
+<p>Vale lembrar que a convivência com a doença melhora quando a pessoa entende o próprio padrão de crises. Um diário simples, com datas, produtos usados e momentos de estresse, ajuda o médico a ajustar o acompanhamento.</p>
+<p>Grupos de apoio e conversas com familiares também reduzem o peso emocional da condição. Falar sobre o assunto sem vergonha costuma facilitar a busca por ajuda e a adesão ao tratamento indicado.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Psoríase no couro cabeludo é contagiosa?</strong><br>Não. A psoríase não é transmitida por contato, toque ou compartilhamento de objetos.</p>
 <p><strong>Xampu anticaspa resolve a psoríase?</strong><br>Não necessariamente. Produtos anticaspa podem aliviar sintomas leves, mas a psoríase costuma exigir avaliação e tratamento específico.</p>

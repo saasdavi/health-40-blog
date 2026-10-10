@@ -60,6 +60,9 @@ FOTO2_SECAO: 4
 <p>Crianças e adolescentes precisam de avaliação específica antes de usar ativos dessa classe.</p>
 <p>Na dúvida, a melhor conduta é esperar a orientação de um profissional. Muitas vezes, existem alternativas mais suaves para o mesmo objetivo, como hidratação reforçada e protetor solar, que podem ser mantidas enquanto a decisão sobre o retinol é tomada com calma.</p>
 
+<p>Ao começar, o ideal é usar poucas vezes por semana e observar como a pele reage. Vermelhidão leve e descamação inicial podem ocorrer, mas ardência forte pede suspensão e orientação profissional.</p>
+<p>O protetor solar diário é parte essencial do cuidado, pois a pele fica mais sensível à luz. Sem essa proteção, os benefícios esperados ficam comprometidos e o risco de irritação aumenta.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Retinol tira manchas?</strong><br>Pode ajudar em algumas alterações de pigmentação, mas o resultado depende da causa e da constância. O diagnóstico das manchas deve ser feito por dermatologista.</p>
 <p><strong>Retinol deve ser usado todos os dias?</strong><br>Nem sempre. Muitas pessoas começam com algumas noites por semana e ajustam conforme a tolerância.</p>

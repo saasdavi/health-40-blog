@@ -80,6 +80,9 @@ FOTO2_SECAO: 4
 
 <p>Para entender melhor o tema, veja <a href="/o-que-e-gordura-visceral/">o guia sobre gordura visceral</a> e <a href="/alimentos-ricos-em-fibras/">a lista de alimentos ricos em fibras</a>, dois pontos de partida que ajudam a separar o que tem base científica do que é apenas marketing.</p>
 
+<p>Vale desconfiar de rótulos que prometem resultado rápido sem mudança de hábitos. A propaganda costuma destacar relatos pessoais, que não substituem estudos bem conduzidos.</p>
+<p>Antes de comprar qualquer produto, converse com um médico ou nutricionista. Eles avaliam se há necessidade real e se existem riscos para quem tem pressão alta ou problemas no coração.</p>
+
 <h2>Perguntas frequentes</h2>
 
 <p><strong>Suplemento queimador de gordura funciona?</strong><br>Em geral, a evidência é fraca. Os efeitos costumam ser pequenos e inconsistentes, e os riscos precisam ser considerados.</p>

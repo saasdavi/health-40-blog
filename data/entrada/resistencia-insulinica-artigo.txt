@@ -60,6 +60,9 @@ FOTO2_SECAO: 4
 <p>O sono regular e o controle do estresse também participam da prevenção. Noites mal dormidas aumentam a fome e a resistência à insulina, e por isso o descanso deve ser encarado como parte do tratamento.</p>
 <p>Para quem já tem diagnóstico de diabetes, o cuidado é ainda mais importante. Ao identificar sintomas como sede excessiva, aumento da urina e fome frequente, é necessário procurar atendimento, como ensina o texto sobre <a href="/sintomas-de-diabetes/">sintomas de diabetes</a>.</p>
 
+<p>Na rotina, algumas mudanças costumam ajudar, como caminhar com regularidade, dormir bem e reduzir o consumo de ultraprocessados. Essas medidas são graduais e funcionam melhor quando adaptadas à realidade de cada pessoa.</p>
+<p>O acompanhamento periódico com exames, solicitado pelo médico, permite observar a evolução ao longo do tempo. Assim, é possível ajustar o plano de cuidado antes que o quadro avance.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>A resistência insulínica tem tratamento?</strong><br>A resposta depende do caso, mas a sensibilidade à insulina pode melhorar com alimentação, atividade física, sono e acompanhamento médico.</p>
 <p><strong>Quem é magro pode ter resistência insulínica?</strong><br>Sim. Embora o excesso de gordura abdominal seja um fator importante, pessoas com peso considerado normal também podem apresentar o quadro.</p>

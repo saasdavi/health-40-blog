@@ -83,6 +83,9 @@ FOTO2_SECAO: 4
 
 <p>Para aprofundar o tema da queda de cabelo em geral, você pode ler <a href="/queda-de-cabelo/">o guia sobre queda de cabelo e suas causas</a>. Quem suspeita de falta de ferro pode ver também <a href="/alimentos-ricos-em-ferro/">os alimentos ricos em ferro</a>, já que a deficiência é uma causa frequente de queda difusa.</p>
 
+<p>Outro cuidado é a qualidade do produto. Extratos vendidos como suplemento variam em composição e concentração, e isso dificulta comparar os resultados dos estudos com o que se encontra nas prateleiras.</p>
+<p>Por isso, a decisão de usar ou não deve ser conversada com um médico, que conhece o histórico e os medicamentos em uso de cada pessoa.</p>
+
 <h2>Perguntas frequentes</h2>
 
 <p><strong>Saw palmetto faz o cabelo crescer?</strong><br>As evidências são limitadas e os resultados variam. Não há como prever o efeito em cada pessoa, e nenhum estudo permite afirmar que o crescimento será certo.</p>

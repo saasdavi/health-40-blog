@@ -62,6 +62,9 @@ FOTO2_SECAO: 4
 <p>Evite compensar a salada com doces ou ultraprocessados em seguida, pois isso anula parte do efeito de saciedade. Planejar os lanches com antecedência facilita o cumprimento da proposta.</p>
 <p>A hidratação também faz parte do conjunto, e água ou chá sem açúcar costumam ser boas escolhas ao longo do dia.</p>
 
+<p>Para facilitar a rotina, vale preparar as bases com antecedência, como grãos cozidos e legumes cortados, e montar a salada na hora. Assim, o prato fica fresco e o tempo gasto diminui.</p>
+<p>Variar as cores e as texturas também torna a refeição mais agradável. Folhas, grãos, castanhas e uma fonte de proteína criam combinações diferentes a cada dia, sem monotonia.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Salada completa emagrece?</strong><br>Ela pode favorecer um déficit calórico moderado, por ser saciante, mas o resultado depende do conjunto da alimentação, da atividade física e do sono.</p>
 <p><strong>Dá para comer salada todo dia?</strong><br>Sim, desde que a variedade seja mantida e que o prato seja equilibrado. Repetir apenas uma combinação pode gerar cansaço e restringir nutrientes.</p>
