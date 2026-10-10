@@ -314,4 +314,15 @@
       <image:caption>Noctúria é acordar 2+ vezes à noite para urinar. Descubra causas, como combater e quando procurar médico. Guia completo para dormir melhor.</image:caption>
     </image:image>
   </url>
+  <url>
+    <loc>https://health-40-blog.vercel.app/queda-de-cabelo</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>/images/queda-de-cabelo/queda-de-cabelo-capa.jpg</image:loc>
+      <image:title>Queda de Cabelo: Saiba Quando é Normal Tratar</image:title>
+      <image:caption>Queda de cabelo normal ou sinal de alerta? Descubra as causas reais, deficiências nutricionais e quando procurar um dermatologista para tratar.</image:caption>
+    </image:image>
+  </url>
 </urlset>

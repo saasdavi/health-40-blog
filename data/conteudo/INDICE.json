@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 25,
-  "prontosParaUsar": 21,
+  "publicados": 26,
+  "prontosParaUsar": 20,
   "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -516,15 +516,15 @@
    "palavraChave": "queda de cabelo",
    "cluster": "pele-cabelo",
    "volume": 22000,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1544,
    "h2": 10,
    "imagens": 3,
    "fontes": 3,
    "auditoria": 96,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-10T12:41:17.461Z",
    "escritoEm": "2026-10-04T17:49:06.860Z",
-   "previstoPara": "2026-10-13",
+   "previstoPara": null,
    "pontesSugeridas": [
     "queda de cabelo causas"
    ]

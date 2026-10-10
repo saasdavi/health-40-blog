@@ -4621,7 +4621,7 @@
         ]
       },
       "volume": 22000,
-      "status": "draft",
+      "status": "published",
       "createdAt": "2026-10-04T17:49:04.456Z",
       "scores": {
         "auditoria": 96
@@ -4674,7 +4674,7 @@
         "pexels:7660464"
       ],
       "altConferido": false,
-      "estoque": true,
+      "estoque": false,
       "estocadoEm": "2026-10-04T17:49:06.860Z",
       "validacao": {
         "palavraChave": "queda de cabelo",
@@ -4822,7 +4822,9 @@
           ]
         },
         "validadoEm": "2026-10-04T17:49:06.860Z"
-      }
+      },
+      "publishedAt": "2026-10-10T12:41:17.461Z",
+      "publicadoDoEstoqueEm": "2026-10-10T12:41:17.461Z"
     },
     {
       "id": "art_1791136267753_m9lz",
@@ -9781,6 +9783,6 @@
   ],
   "stats": {
     "total": 55,
-    "published": 25
+    "published": 26
   }
 }
