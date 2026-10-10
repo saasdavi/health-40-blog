@@ -31,6 +31,7 @@ jobs:
           PEXEL_API_KEY: ${{ secrets.PEXEL_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          FOTO_NA_PUBLICACAO: '1'   # sem foto agora (limite das APIs): guarda o artigo e busca a foto na hora de publicar
         run: node scripts/importar-artigo.js
       - name: 🏗️ Build do site
         run: npm run build

@@ -46,14 +46,21 @@ for (const nome of arquivos) {
     const aud = robot.auditar(art, null);
     console.log(`  ${art.wordCount} palavras | auditoria ${aud.nota}/100 (nota ${de10(aud.nota)}/10)${aud.bloqueios.length ? ' | BLOQUEIOS: ' + aud.bloqueios.join('; ') : ''}`);
     if (aud.bloqueios.length || aud.nota < MIN_SCORE) { relatorio([`Nota ${de10(aud.nota)}/10 (mínimo 8,5)`, ...aud.bloqueios.map((b) => `BLOQUEIO: ${b}`), ...aud.alertas]); console.log('  ⛔ reprovado; veja o .relatorio.md'); continue; }
-    if (!(await robot.imagem(art))) { relatorio(['Sem imagens: confira PEXEL_API_KEY/PIXABAY_API_KEY e as buscas de foto do cabeçalho.']); continue; }
+    let fotoPendente = false;
+    if (!(await robot.imagem(art))) {
+      if (process.env.FOTO_NA_PUBLICACAO !== '1') { relatorio(['Sem imagens: confira PEXEL_API_KEY/PIXABAY_API_KEY/UNSPLASH_ACCESS_KEY e as buscas de foto do cabeçalho.']); continue; }
+      // Guarda o artigo sem foto, com a busca de fotos (imagePlan); a foto é buscada na hora de publicar.
+      for (const k of ['featuredImage', 'imageAlt', 'imageCredit', 'images', 'imageIds']) delete art[k];
+      fotoPendente = true;
+      console.log('  📷 sem foto agora: guardado com as buscas de foto; a foto é buscada na hora de publicar');
+    }
     const pont = pontuar({ art, aud, outros: robot.db.articles, revisado: get('REVISADO') === 'sim' });
     console.log(`  🎯 pontuação ${pont.total}/100 (nota ${de10(pont.total)}/10) → ${pont.decisao} (qualidade ${pont.partes.qualidade} | demanda ${pont.partes.demanda} | fontes ${pont.partes.fontes} | originalidade ${pont.partes.originalidade} | formato ${pont.partes.formato})`);
     if (pont.motivos.length) console.log(`     pontos de atenção: ${pont.motivos.slice(0, 4).join('; ')}`);
     if (pont.decisao === 'DEVOLVER') { relatorio([`Pontuação ${pont.total}/100: DEVOLVER`, ...pont.motivos]); console.log('  ⛔ devolvido pela pontuação; veja o .relatorio.md'); continue; }
     const agora = new Date().toISOString();
     delete art.bodyOriginal; delete art._substitui;
-    Object.assign(art, { status: 'draft', estoque: true, estocadoEm: agora, scores: { auditoria: aud.nota, demanda: dem ? dem.classe : 'não medida', total: pont.total, decisao: pont.decisao, partes: pont.partes, atencao: pont.motivos.slice(0, 8) }, validador: 'Auditoria automática (sem API); texto escrito fora do robô', origem: 'importado',
+    Object.assign(art, fotoPendente ? { fotoPendente: true } : {}, { status: 'draft', estoque: true, estocadoEm: agora, scores: { auditoria: aud.nota, demanda: dem ? dem.classe : 'não medida', total: pont.total, decisao: pont.decisao, partes: pont.partes, atencao: pont.motivos.slice(0, 8) }, validador: 'Auditoria automática (sem API); texto escrito fora do robô', origem: 'importado',
       validacao: { palavraChave: keyword, demanda: dem ? { volume: dem.volume, classe: dem.classe, tendencia: dem.tendencia, concorrencia: dem.concorrencia, fonte: dem.fonte, fraseMedida: dem.frase, porSimilar: dem.porSimilar } : { classe: 'não medida' }, volume: pauta.volume, cluster: pauta.cluster, apoio: (pauta.secundarias || []).map((x) => x.palavra), perguntasDoGoogle: pauta.absorve || [], concorrentes: concorrentes.length ? concorrentes : 'não informado (concorrente não conferido)', lacunasCobertas: lacunas, serp: pauta.serp || null, fontesDaPauta: fontes.map((f) => f.url), notas: pauta.notas || '', briefing: robot.readJson(`data/briefings/${slugify(keyword)}.json`, null), validadoEm: agora, observacao: 'originalidade contra o concorrente não conferida automaticamente' } });
     const i = robot.db.articles.findIndex((x) => x.slug === art.slug);
     if (i >= 0) { art.createdAt = robot.db.articles[i].createdAt || art.createdAt; robot.db.articles[i] = art; } else robot.db.articles.push(art);

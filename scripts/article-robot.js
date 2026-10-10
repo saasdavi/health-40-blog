@@ -126,15 +126,29 @@ class ArticleRobot {
   prontosNoEstoque() { return this.db.articles.filter(a => a.status === 'draft' && a.estoque === true && (a.validador === 'APROVADO' || a.origem === 'importado') && (a.scores?.auditoria ?? 100) > 85); }
 
   // Publica do estoque (no máximo `quantos`, respeitando o teto do dia). Devolve quantos publicou.
-  publicarDoEstoque(quantos) {
+  // Artigo guardado sem foto (fotoPendente) busca a foto AGORA, na hora de publicar; se as APIs de foto
+  // ainda estiverem no limite, ele fica no estoque e a vez passa para o próximo (nunca vai ao ar sem imagem).
+  async publicarDoEstoque(quantos) {
     const agora = new Date().toISOString();
-    const lote = this.prontosNoEstoque().slice(0, Math.max(0, Math.min(quantos, this.restanteHoje())));
-    for (const a of lote) {
+    const limite = Math.max(0, Math.min(quantos, this.restanteHoje()));
+    let publicados = 0;
+    for (const a of this.prontosNoEstoque()) {
+      if (publicados >= limite) break;
+      if (a.fotoPendente) {
+        let ok = false;
+        try { ok = await this.imagem(a); } catch (e) { console.log(`  ⚠️  ${e.message}`); }
+        if (!ok) {
+          for (const k of ['featuredImage', 'imageAlt', 'imageCredit', 'images', 'imageIds']) delete a[k];
+          console.log(`  📷 sem foto agora para /${a.slug}/: continua no estoque e tenta de novo na próxima execução`);
+          continue;
+        }
+        delete a.fotoPendente;
+      }
       a.status = 'published'; a.publishedAt = agora; a.estoque = false; a.publicadoDoEstoqueEm = agora;
-      this.stats.published++;
+      this.stats.published++; publicados++;
       console.log(`  📤 publicado do estoque: /${a.slug}/`);
     }
-    return lote.length;
+    return publicados;
   }
 
   // Briefing salvo no GitHub (scripts/briefing.js): perguntas do Google, buscas relacionadas, meta de escrita e pontes de link.
@@ -606,9 +620,14 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
     console.log(`\n🤖 ARTICLE ROBOT — ${new Date().toISOString()}`);
     if (!ESTOQUE) {
       if (this.restanteHoje() === 0) { console.log(`⏸️  Teto do dia atingido (${DAILY_LIMIT} artigos publicados hoje). Nada a fazer.`); return this.stats; }
-      const n = this.publicarDoEstoque(BATCH_SIZE);
+      const n = await this.publicarDoEstoque(BATCH_SIZE);
       if (n > 0) { this.gravar(); console.log(`\n📦 ${n} artigo(s) publicado(s) do estoque (${this.prontosNoEstoque().length} ainda guardados).`); return this.stats; }
-      if (SEM_API) { console.log('📦 Estoque vazio e SEM_API=1: nada a publicar (sem gasto de API). Importe mais artigos em data/entrada/.'); return this.stats; }
+      if (SEM_API) {
+        const aguardando = this.prontosNoEstoque().length;
+        console.log(aguardando ? `📷 ${aguardando} artigo(s) no estoque aguardam foto (limite das APIs de imagem): nada publicado agora, tenta de novo na próxima execução.` : '📦 Estoque vazio e SEM_API=1: nada a publicar (sem gasto de API). Importe mais artigos em data/entrada/.');
+        this.gravar();
+        return this.stats;
+      }
       console.log('📦 Estoque vazio: escrevendo e publicando na hora.');
     } else {
       const faltam = ESTOQUE_ALVO - this.prontosNoEstoque().length;
