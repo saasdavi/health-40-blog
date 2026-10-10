@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: termogênicos naturais
-TITLE: Termogênicos Naturais: O Que Funciona e os Riscos
+TITLE: Termogênicos Naturais: Funciona e os Riscos
 DESCRIPTION: Termogênicos naturais: o que a ciência mostra sobre efeitos modestos, riscos de estimulantes de origem vegetal e cuidados antes de usar qualquer produto.
 FONTE: sbemsc.org.br | https://sbemsc.org.br
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
@@ -56,7 +56,7 @@ FOTO2_SECAO: 4
 
 <p>Em resumo, o conjunto de evidências é insuficiente para recomendar termogênicos naturais a adultos que buscam perder peso, porque os efeitos observados são pequenos e os riscos não são desprezíveis.</p>
 
-<p>Para o contexto geral de emagrecimento, veja <a href="/emagrecimento-saudavel/">o guia sobre emagrecimento saudável</a>.</p>
+<p>Para o contexto geral de emagrecimento, veja <a href="/o-que-e-gordura-visceral/">o guia sobre gordura visceral</a>.</p>
 
 <h2>Riscos: estimulantes escondidos e interações</h2>
 

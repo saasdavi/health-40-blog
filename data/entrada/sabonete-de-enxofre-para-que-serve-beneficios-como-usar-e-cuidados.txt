@@ -19,9 +19,8 @@ FOTO2_SECAO: 4
 <h2>O que é o enxofre na pele</h2>
 <p>O enxofre é um elemento químico presente em proteínas e em diversas substâncias do corpo. Em dermatologia, ele é usado há muito tempo por causa de propriedades que ajudam a reduzir a oleosidade e a descamação da superfície da pele.</p>
 <p>Em formulações de sabonete, o enxofre costuma aparecer em concentrações baixas e em combinação com outros ingredientes. Essa combinação pode alterar a intensidade da ação e a sensação na pele, por isso a leitura do rótulo é importante.</p>
-<p>Historicamente, o enxofre foi empregado em preparações tópicas para diversas finalidades, e algumas dessas indicações permanecem em uso até hoje, em contextos específicos. Ainda assim, a ciência atual pede cautela na comparação com tratamentos mais modernos, que têm estudos mais amplos.
-
-Apesar do uso antigo, o enxofre não é um tratamento para todas as pessoas. A indicação depende do tipo de pele, do problema apresentado e da tolerância individual.</p>
+<p>Historicamente, o enxofre foi empregado em preparações tópicas para diversas finalidades, e algumas dessas indicações permanecem em uso até hoje, em contextos específicos. Ainda assim, a ciência atual pede cautela na comparação com tratamentos mais modernos, que têm estudos mais amplos.</p>
+<p>Apesar do uso antigo, o enxofre não é um tratamento para todas as pessoas. A indicação depende do tipo de pele, do problema apresentado e da tolerância individual.</p>
 
 <h2>Para que o sabonete de enxofre costuma ser usado</h2>
 <p>Os usos mais citados envolvem peles oleosas, com tendência a brilho e poros mais visíveis, e algumas condições inflamatórias leves do couro cabeludo e da face. Em alguns casos, ele é indicado como apoio à higiene em quadros de acne, sempre como parte de um cuidado maior.</p>

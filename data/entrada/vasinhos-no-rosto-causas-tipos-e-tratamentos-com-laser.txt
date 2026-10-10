@@ -1,5 +1,5 @@
-PALAVRA_CHAVE: Vasinhos no Rosto Causas, Tipos e Tratamentos com Laser
-TITLE: Vasinhos no Rosto: Causas, Tipos e Tratamentos com Laser
+PALAVRA_CHAVE: vasinhos no rosto
+TITLE: Vasinhos no Rosto: Causas e Tratamento a Laser
 DESCRIPTION: Vasinhos no rosto: causas, tipos, quando investigar e como funcionam os tratamentos com laser indicados por dermatologista, com expectativas realistas.
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
@@ -87,9 +87,9 @@ FOTO2_SECAO: 4
 
 <p>O protetor deve ser reaplicado ao longo do dia, e chapéus e óculos de sol complementam a proteção. Evitar sauna, banhos muito quentes e exercícios intensos sem pausas também ajuda na recuperação.</p>
 
-<p>Para entender outras alterações da pele que aparecem com o sol, veja <a href="/manchas-na-pele/">o guia sobre manchas na pele</a>. Algumas manchas podem se confundir com vasinhos e merecem avaliação.</p>
+<p>Vasos dilatados também aparecem nas pernas, e <a href="/varizes/">o guia sobre varizes</a> explica as diferenças e quando investigar.</p>
 
-<p>Quando as manchas são o principal problema, <a href="/melasma/">o texto sobre melasma</a> explica causas e cuidados que costumam ser discutidos junto com a avaliação dos vasos.</p>
+<p>O estresse pode piorar o rubor da face, e <a href="/meditacao-ansiedade-40/">o conteúdo sobre meditação e ansiedade</a> traz estratégias gerais que podem ajudar no dia a dia. Essas medidas complementam o cuidado com a pele, mas não substituem a avaliação do dermatologista, que define a causa e o melhor caminho.</p>
 
 <h2>Perguntas frequentes</h2>
 

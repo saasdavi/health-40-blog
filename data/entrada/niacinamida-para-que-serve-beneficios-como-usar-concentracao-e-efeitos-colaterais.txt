@@ -1,6 +1,6 @@
-PALAVRA_CHAVE: niacinamida  para que serve
+PALAVRA_CHAVE: niacinamida para que serve
 TITLE: Niacinamida Para Que Serve: Benefícios e Efeitos
-DESCRIPTION: Veja para que serve a niacinamida na pele, como usar com cuidado, por que a concentração importa e quais efeitos colaterais observar antes de começar.
+DESCRIPTION: Veja niacinamida para que serve na pele, como usar com cuidado, por que a concentração importa e quais efeitos colaterais observar antes de começar.
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: Ministério da Saúde | https://www.gov.br/saude
 CAPA_BUSCA: skincare serum dropper
@@ -14,7 +14,8 @@ FOTO2_ALT: Mulher aplicando creme hidratante no rosto pela manhã
 FOTO2_LEGENDA: Aplicar aos poucos e observar a reação da pele evita irritações.
 FOTO2_SECAO: 4
 ---
-<p>A niacinamida é uma forma da vitamina B3 muito usada em cosméticos para cuidados da pele. Quem pesquisa niacinamida para que serve quer entender os benefícios mais citados, como usar sem irritar a pele e quais efeitos colaterais observar. Este texto responde a essas dúvidas com linguagem simples e sem promessas de resultados.</p>
+<p>A niacinamida é uma forma da vitamina B3 muito usada em cosméticos. Quem pesquisa niacinamida para que serve quer entender os benefícios mais citados.</p>
+<p>Também quer saber como usar sem irritar a pele e quais efeitos colaterais observar. Este texto responde a essas dúvidas com linguagem simples e sem promessas de resultados.</p>
 
 <h2>O que é a niacinamida</h2>
 <p>A niacinamida, também chamada de nicotinamida, é um composto da vitamina B3 que participa de processos celulares na pele. Por isso, ela aparece em sérums, hidratantes e produtos para pele oleosa ou sensível.</p>
@@ -28,7 +29,7 @@ FOTO2_SECAO: 4
 <li><strong>Aparência de manchas:</strong> há estudos com resultados positivos, mas o efeito é gradual e não substitui o tratamento dermatológico.</li>
 <li><strong>Textura e poros:</strong> a melhora visual costuma ser sutil.</li>
 </ul>
-<p>Se a sua preocupação é uma mancha específica, vale conhecer o tema em <a href="/manchas-na-pele/">manchas na pele</a> antes de escolher um produto.</p>
+<p>Como o sono ruim também prejudica a aparência da pele, vale conhecer o tema em <a href="/insonia/">insônia</a> antes de escolher um produto.</p>
 
 <p>A niacinamida costuma ser associada a outros ativos, como ácidos esfoliantes e retinoides. Combinações assim podem aumentar a irritação, e a ordem de aplicação deve seguir a orientação do fabricante ou do dermatologista.</p>
 <p>Quem tem pele seca ou com tendência à sensibilidade pode notar mais ardência no início. Reduzir a frequência por alguns dias e observar a reação costuma ser o caminho mais prudente.</p>
@@ -84,7 +85,7 @@ FOTO2_SECAO: 4
 
 <h2>Quando procurar um médico</h2>
 <p>Procure um dermatologista se houver queimação forte, vermelhidão que não melhora, inchaço, bolhas, coceira intensa ou se surgir uma mancha nova ou que mude de forma.</p>
-<p>Também é importante conversar com o médico se você tiver dermatite ou outra condição de pele. Quando a irritação aparece após usar um cosmético, a <a href="/dermatite-de-contato/">dermatite de contato</a> é uma possibilidade a ser avaliada.</p>
+<p>Também é importante conversar com o médico se você tiver dermatite ou outra condição de pele. Como o estresse também afeta a pele, vale ler sobre <a href="/cortisol-alto/">cortisol alto</a> e seus sinais.</p>
 <p>O especialista pode indicar o produto mais adequado e orientar o uso com segurança. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
 <p>Com paciência e observação, a niacinamida pode fazer parte de uma rotina simples de cuidados com a pele, desde que a escolha seja adequada ao seu perfil e acompanhada de proteção solar.</p>

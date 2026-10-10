@@ -18,11 +18,14 @@ FOTO2_SECAO: 4
 
 <h2>Como o estresse afeta o ciclo dos fios</h2>
 <p>O cabelo passa por ciclos de crescimento, transição e repouso. Situações de estresse intenso, físico ou emocional, podem empurrar um número maior de fios para a fase de repouso ao mesmo tempo. Depois de alguns meses, esses fios caem, o que gera a sensação de queda repentina e difusa.</p>
-<p>Esse tipo de queda costuma ser temporário e não destrói os folículos. Por isso, em geral, o cabelo se recupera quando o organismo volta ao equilíbrio e o ciclo normal se restabelece. Esse processo tem o nome de eflúvio telógeno na literatura médica, termo que o dermatologista costuma usar ao explicar o quadro. Entender esse nome ajuda a perceber que a queda é uma reação do ciclo dos fios, e não um sinal de que o cabelo esteja "morrendo".</p>
+<p>Esse tipo de queda costuma ser temporário e não destrói os folículos. Por isso, em geral, o cabelo se recupera quando o organismo volta ao equilíbrio e o ciclo normal se restabelece.</p>
+<p>Esse processo tem o nome de eflúvio telógeno na literatura médica, termo que o dermatologista costuma usar ao explicar o quadro. Entender esse nome ajuda a perceber que a queda é uma reação do ciclo dos fios, e não um sinal de que o cabelo esteja "morrendo".</p>
 <p>Vale lembrar que nem toda queda após um período de estresse tem essa origem. Por isso, a avaliação médica continua sendo importante para confirmar o diagnóstico.</p>
 
 <h2>Queda de cabelo por estresse: linha do tempo típica</h2>
-<p>Em geral, a queda começa algumas semanas ou meses após o período de maior estresse. Ela pode ser mais forte por alguns meses e, depois, diminuir gradualmente. Muitas pessoas notam que a queda parece começar de repente, mas, na verdade, ela foi preparada pelo estresse semanas antes, enquanto o ciclo dos fios se modificava em silêncio. O intervalo entre o gatilho e a queda costuma ser o principal motivo de confusão, porque a pessoa nem sempre associa um fato ao outro.</p>
+<p>Em geral, a queda começa algumas semanas ou meses após o período de maior estresse. Ela pode ser mais forte por alguns meses e, depois, diminuir gradualmente.</p>
+<p>Muitas pessoas notam que a queda parece começar de repente, mas, na verdade, ela foi preparada pelo estresse semanas antes, enquanto o ciclo dos fios se modificava em silêncio.</p>
+<p>O intervalo entre o gatilho e a queda costuma ser o principal motivo de confusão, porque a pessoa nem sempre associa um fato ao outro.</p>
 <p>Após a fase mais intensa, começa a recuperação, que é lenta, pois os fios crescem poucos centímetros por mês. Por isso, a melhora visível pode levar vários meses, e a paciência é parte do processo.</p>
 <p>Em algumas pessoas, o estresse continua presente, e a queda se prolonga. Nesses casos, cuidar da causa do estresse é tão importante quanto tratar o cabelo em si.</p>
 <p>Um ponto que tranquiliza é que o couro cabeludo costuma continuar saudável durante a queda por estresse, sem sinais de inflamação ou lesão. Os folículos permanecem vivos, e isso explica por que os fios novos aparecem depois, desde que o ambiente interno do corpo se estabilize.</p>
@@ -46,7 +49,8 @@ FOTO2_SECAO: 4
 <p>Para entender o contexto geral da queda, vale conhecer o texto sobre <a href="/queda-de-cabelo/">queda de cabelo</a>, que apresenta as principais causas e caminhos de investigação.</p>
 
 <h2>Estresse, hormônios e corpo</h2>
-<p>Quando o organismo fica sob pressão por muito tempo, hormônios como o cortisol são liberados em maior quantidade e podem afetar o funcionamento de vários sistemas. Esse efeito ajuda a explicar por que o estresse prolongado se reflete na pele, no sono e no cabelo. Para saber mais, veja o texto sobre <a href="/cortisol-alto/">cortisol alto</a>.</p>
+<p>Quando o organismo fica sob pressão por muito tempo, hormônios como o cortisol são liberados em maior quantidade e podem afetar o funcionamento de vários sistemas.</p>
+<p>Esse efeito ajuda a explicar por que o estresse prolongado se reflete na pele, no sono e no cabelo. Para saber mais, veja o texto sobre <a href="/cortisol-alto/">cortisol alto</a>.</p>
 <p>Por isso, a recuperação não depende só do cabelo. Dormir melhor, alimentar-se com regularidade e buscar apoio emocional também fazem parte do cuidado.</p>
 
 <h2>Como reduzir o impacto do estresse no dia a dia</h2>

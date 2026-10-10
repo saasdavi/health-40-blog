@@ -1,4 +1,4 @@
-PALAVRA_CHAVE: adapaleno o que e para que serve como usar efeitos e cuidado
+PALAVRA_CHAVE: adapaleno
 TITLE: Adapaleno: o que é, para que serve e como usar
 DESCRIPTION: Adapaleno: o que é, para que serve na pele, como age um retinoide tópico, efeitos iniciais esperados e cuidados a combinar com o dermatologista.
 FONTE: Ministério da Saúde | https://www.gov.br/saude
@@ -21,7 +21,7 @@ FOTO2_SECAO: 4
 <p>Por ser um medicamento, ele é regulado pela Anvisa, e as informações sobre indicações e advertências constam na bula.</p>
 <h2>Para que serve na prática</h2>
 <p>A indicação mais conhecida é a acne de intensidade leve a moderada. Em alguns casos, retinoides tópicos também são usados em outras condições da pele, sempre por indicação médica.</p>
-<p>Pessoas com manchas, cicatrizes e textura irregular podem se beneficiar de outros tratamentos dermatológicos, e a escolha depende do diagnóstico. Para entender as alterações mais comuns, leia sobre <a href="/manchas-na-pele/">manchas na pele</a>.</p>
+<p>Pessoas com manchas, cicatrizes e textura irregular podem se beneficiar de outros tratamentos dermatológicos, e a escolha depende do diagnóstico. Para entender as mudanças da pele nessa fase, leia sobre <a href="/o-que-e-perimenopausa/">perimenopausa</a>.</p>
 <h2>Como costuma começar o uso</h2>
 <p>O início do tratamento pede paciência e orientação. O dermatologista costuma indicar a aplicação em pequena quantidade, em pele limpa e seca, geralmente à noite, e pode orientar a frequência nas primeiras semanas.</p>
 <p>A adaptação é gradual. Muitas pessoas notam ressecamento, descamação e leve ardência nas primeiras semanas, e isso faz parte do processo de adaptação. Não aumente a frequência por conta própria.</p>
@@ -44,11 +44,13 @@ FOTO2_SECAO: 4
 <p>Muitas pessoas se perguntam se é possível associar o adapaleno a outros cuidados da pele. A resposta depende do conjunto de produtos. Limpadores suaves, hidratantes sem álcool e protetor solar costumam ser bem tolerados, enquanto esfoliantes, ácidos e peelings precisam de avaliação, já que somam o efeito irritante.</p>
 <p>Em relação ao horário, a aplicação noturna é comum porque a luz solar pode reduzir a estabilidade de alguns retinoides e aumentar a sensibilidade da pele. O dermatologista pode indicar o momento mais adequado para o seu caso, incluindo a frequência inicial.</p>
 <p>A pele que está em tratamento tende a ficar mais sensível ao frio, ao vento e ao atrito de roupas e de máscaras. Hidratação regular e cuidado com o barbear ajudam a reduzir o desconforto, e o profissional pode orientar sobre produtos de apoio, sem indicar marcas nesta etapa.</p>
-<p>Para quem tem acne com cicatrizes ou manchas, o tratamento costuma ser combinado e de longo prazo. O retinoide tópico pode fazer parte desse plano, mas a evolução precisa ser acompanhada, e o médico pode incluir outras medidas quando necessário. Veja também o texto sobre <a href="/melasma/">melasma</a>, que explica por que a exposição solar precisa de cuidado extra.</p>
+<p>Para quem tem acne com cicatrizes ou manchas, o tratamento costuma ser combinado e de longo prazo. O retinoide tópico pode fazer parte desse plano, mas a evolução precisa ser acompanhada, e o médico pode incluir outras medidas quando necessário.</p>
+<p>A exposição solar também pede cuidado extra durante o uso. O estresse pode influenciar a acne; veja sobre <a href="/cortisol-alto/">cortisol alto</a>.</p>
 <p>A interrupção do uso deve ser discutida com o médico, mesmo quando a pele parece melhor. Parar de forma abrupta pode levar ao retorno das lesões, e a retomada precisa de nova orientação sobre a intensidade e a frequência.</p>
 <p>Em casos de dúvida sobre o rótulo ou a bula, leve o produto à consulta. A informação correta sobre a concentração, a forma de aplicação e as contraindicações evita erros e facilita o acompanhamento ao longo do tratamento.</p>
 <p>Por fim, lembre que a acne tem causas variadas, incluindo genética, hormônios e alimentação em alguns casos. Um plano bem feito considera esses fatores e não depende de um único produto, por mais eficaz que ele seja em determinadas situações.</p>
-<p>Muitas pessoas esperam que a pele melhore em poucos dias e abandonam o tratamento ao notar irritação no início. Essa expectativa é um dos motivos mais comuns de desistência. Registrar a evolução com fotos e comentar cada efeito na consulta permite ajustar o plano sem interromper o tratamento por conta própria.</p>
+<p>Muitas pessoas esperam que a pele melhore em poucos dias e abandonam o tratamento ao notar irritação no início.</p>
+<p>Essa expectativa é um dos motivos mais comuns de desistência. Registrar a evolução com fotos e comentar cada efeito na consulta permite ajustar o plano sem interromper o tratamento por conta própria.</p>
 <p>Em peles mais escuras, a acne inflamada pode deixar manchas pós-inflamatórias que demoram a clarear. Nesses casos, o controle da inflamação com o tratamento adequado é parte da prevenção, e a exposição solar deve ser evitada durante a fase ativa da lesão.</p>
 <p>Também é importante lembrar que a acne não é causada por falta de higiene. Lavar o rosto várias vezes ao dia ou usar esfoliação excessiva costuma piorar a irritação. A limpeza suave, duas vezes ao dia, é suficiente na maior parte dos casos.</p>
 <p>Ao receber a prescrição, peça orientação clara sobre o que fazer se surgir ardência intensa, sobre quais produtos evitar e por quanto tempo manter o uso. Esse esclarecimento torna a rotina mais segura e evita dúvidas nas semanas seguintes.</p>

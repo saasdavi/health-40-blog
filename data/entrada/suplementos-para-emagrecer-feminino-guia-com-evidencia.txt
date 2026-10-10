@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: suplementos para emagrecer feminino
-TITLE: Suplementos para Emagrecer Feminino: Guia com Evidência
+TITLE: Suplementos para Emagrecer Feminino: Evidências
 DESCRIPTION: Suplementos para emagrecer feminino: o que dizem as evidências, quais fatores hormonais e de saúde pesam e quando buscar avaliação profissional.
 FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
 FONTE: Mayo Clinic | https://www.mayoclinic.org
@@ -70,7 +70,7 @@ FOTO2_SECAO: 4
 
 <p>Na menopausa, o tratamento de sintomas como ondas de calor e alterações do sono pode influenciar o peso. Quem usa terapia hormonal, antidepressivos, anticoagulantes ou medicamentos para diabetes precisa de avaliação de interações antes de iniciar qualquer produto.</p>
 
-<p>Para entender melhor essa fase, leia <a href="/menopausa/">o guia sobre menopausa e seus sintomas</a>. Ele ajuda a separar mudanças esperadas de sinais que pedem consulta.</p>
+<p>Para entender melhor essa fase, leia <a href="/o-que-e-perimenopausa/">o guia sobre perimenopausa e seus sintomas</a>. Ele ajuda a separar mudanças esperadas de sinais que pedem consulta.</p>
 
 <h2>Caminhos com mais respaldo para emagrecer com saúde</h2>
 
@@ -78,7 +78,7 @@ FOTO2_SECAO: 4
 
 <p>O treino de força ajuda a preservar a massa muscular, que tem papel importante no gasto de energia. Caminhadas, atividades de intensidade moderada e alongamento completam a rotina, sempre respeitando limitações e histórico de saúde.</p>
 
-<p>Dormir bem e controlar o estresse também contam. Noites mal dormidas aumentam a fome e a vontade de alimentos calóricos. Para um caminho estruturado, veja <a href="/reeducacao-alimentar-para-emagrecer/">como a reeducação alimentar pode ser feita</a> com calma e sem radicalismos.</p>
+<p>Dormir bem e controlar o estresse também contam. Noites mal dormidas aumentam a fome e a vontade de alimentos calóricos. Para um caminho estruturado, comece pela alimentação e veja <a href="/alimentos-ricos-em-fibras/">os alimentos ricos em fibras</a>, que ajudam na saciedade sem radicalismos.</p>
 
 <p>Um bom plano começa com metas pequenas e observáveis, como incluir mais legumes nas refeições ou caminhar com regularidade na semana. Essas mudanças são fáceis de manter e permitem ajustes com base no que funciona para a rotina de cada mulher.</p>
 

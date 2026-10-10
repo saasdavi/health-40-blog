@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: terapia fotodinâmica
-TITLE: Terapia Fotodinâmica: O Que É, Como Funciona e Cuidados
+TITLE: Terapia Fotodinâmica: O Que É e Como Funciona
 DESCRIPTION: Terapia fotodinâmica: o que é, como funciona, em quais situações da pele é estudada e os cuidados que exigem indicação e acompanhamento médico.
 FONTE: SciELO Brasil | https://www.scielo.br
 FONTE: Ministério da Saúde | https://www.gov.br/saude
@@ -70,7 +70,9 @@ FOTO2_SECAO: 4
 
 <p>Após a fase aguda, a proteção continua importante, porque a radiação solar é uma das principais causas de lesões da pele. Quem tem histórico de lesões pré-cancerosas deve manter acompanhamento regular com dermatologista.</p>
 
-<p>Quem tiver dúvidas sobre sinais suspeitos na pele pode consultar <a href="/melanoma/">as orientações sobre melanoma</a>, que ajudam a reconhecer alterações que precisam de avaliação. Manchas que aparecem após o sol também merecem atenção, e <a href="/manchas-na-pele/">o guia sobre manchas na pele</a> explica os tipos mais comuns.</p>
+<p>Quem sente ansiedade antes de procedimentos pode consultar <a href="/como-controlar-a-ansiedade/">o conteúdo sobre como controlar a ansiedade</a>. Queixas de pele e couro cabeludo também pedem avaliação dermatológica, e <a href="/queda-de-cabelo/">o guia sobre queda de cabelo</a> mostra quando procurar ajuda.</p>
+
+<p>Em qualquer dessas situações, a conversa com o médico deve esclarecer expectativas, riscos e alternativas antes da decisão.</p>
 
 <h2>Riscos, limites e o papel da indicação médica</h2>
 

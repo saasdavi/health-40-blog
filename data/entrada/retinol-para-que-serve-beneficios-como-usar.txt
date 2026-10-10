@@ -19,9 +19,10 @@ FOTO2_SECAO: 4
 <h2>O que é o retinol e como ele age na pele</h2>
 <p>O retinol pertence à família dos retinoides, substâncias derivadas da vitamina A. Na pele, ele é convertido em formas ativas que se ligam a receptores específicos e influenciam a renovação celular, a produção de colágeno e a organização da barreira cutânea.</p>
 <p>Essa ação explica o uso do retinol em rugas finas, textura irregular e poros mais visíveis. Também é útil em algumas manchas, como parte de um plano de tratamento que inclua proteção solar. A eficácia varia conforme a concentração, a formulação e a tolerância de cada pessoa.</p>
-<p>A regulamentação dos cosméticos no Brasil cabe à Anvisa, que estabelece regras para rotulagem e para as alegações feitas pelos fabricantes. Ainda assim, o rótulo não substitui a avaliação de um profissional sobre a adequação do produto ao caso individual. Também vale entender que nem toda pele reage da mesma forma. Peles mais claras e mais escuras, peles oleosas e secas e peles com histórico de irritação respondem de maneiras diferentes ao mesmo produto. Por isso, a comparação com relatos de terceiros tem pouco valor prático para quem está começando. O mais útil é observar a própria pele, com calma e constância, e levar essas observações à consulta com o dermatologista, que pode ajustar o plano com segurança.
-
-Por ser um ativo potente, o retinol exige cuidados. Ele não deve ser visto como um produto de uso livre sem orientação, principalmente para quem tem pele sensível ou condições dermatológicas.</p>
+<p>A regulamentação dos cosméticos no Brasil cabe à Anvisa, que estabelece regras para rotulagem e para as alegações feitas pelos fabricantes. Ainda assim, o rótulo não substitui a avaliação de um profissional sobre a adequação do produto ao caso individual.</p>
+<p>Também vale entender que nem toda pele reage da mesma forma. Peles mais claras e mais escuras, peles oleosas e secas e peles com histórico de irritação respondem de maneiras diferentes ao mesmo produto.</p>
+<p>Por isso, a comparação com relatos de terceiros tem pouco valor prático para quem está começando. O mais útil é observar a própria pele, com calma e constância, e levar essas observações à consulta com o dermatologista, que pode ajustar o plano com segurança.</p>
+<p>Por ser um ativo potente, o retinol exige cuidados. Ele não deve ser visto como um produto de uso livre sem orientação, principalmente para quem tem pele sensível ou condições dermatológicas.</p>
 
 <h2>Retinol para que serve: benefícios para a pele madura</h2>
 <p>Estudos dermatológicos relatam melhora da textura, da firmeza e da aparência de linhas finas com o uso regular de retinoides. Essa melhora costuma levar semanas ou meses para aparecer, e depende da constância da aplicação.</p>
@@ -38,13 +39,13 @@ Por ser um ativo potente, o retinol exige cuidados. Ele não deve ser visto como
 <h2>Como usar o retinol com segurança</h2>
 <p>O uso costuma começar com baixa frequência, por exemplo algumas noites por semana, aumentando aos poucos conforme a pele tolera. Aplicar o produto à noite é a prática mais comum, pois a luz solar pode inativar parte do ativo e aumentar a sensibilidade.</p>
 <p>Após a limpeza, aplique uma pequena quantidade sobre a pele seca e evite a região dos olhos e as áreas de dobras e mucosas, sempre que possível. Hidratantes podem ser usados depois, para reduzir o ressecamento.</p>
-<p>Nas primeiras semanas, é útil anotar em que dias o produto foi usado e como a pele reagiu, pois esse registro ajuda a ajustar a frequência com mais segurança. Se a pele estiver muito sensível em um dia, o melhor é pular a aplicação e retomar quando o desconforto passar.
-
-Ao escolher o produto, prefira formulações indicadas para o seu tipo de pele e siga as orientações do rótulo. Não misture com muitos outros ativos ao mesmo tempo, como ácidos, sem orientação profissional.</p>
+<p>Nas primeiras semanas, é útil anotar em que dias o produto foi usado e como a pele reagiu, pois esse registro ajuda a ajustar a frequência com mais segurança. Se a pele estiver muito sensível em um dia, o melhor é pular a aplicação e retomar quando o desconforto passar.</p>
+<p>Ao escolher o produto, prefira formulações indicadas para o seu tipo de pele e siga as orientações do rótulo. Não misture com muitos outros ativos ao mesmo tempo, como ácidos, sem orientação profissional.</p>
 
 <h2>Irritação, ressecamento e sensibilidade</h2>
 <p>Vermelhidão, descamação, ardência e ressecamento são efeitos comuns nas primeiras semanas. Em geral, eles diminuem com a adaptação, mas precisam ser observados. Se a irritação for intensa ou persistir, o uso deve ser interrompido e o dermatologista consultado.</p>
-<p>Para reduzir o desconforto, a dica é diminuir a frequência, usar hidratante simples e evitar esfoliações ao mesmo tempo. Uma pele que descama muito ou arde ao toque pede pausa, e não aumento de quantidade, pois o excesso tende a piorar a irritação e demorar mais a recuperar a barreira. A pele deve estar confortável durante o uso, e não em sofrimento.</p>
+<p>Para reduzir o desconforto, a dica é diminuir a frequência, usar hidratante simples e evitar esfoliações ao mesmo tempo.</p>
+<p>Uma pele que descama muito ou arde ao toque pede pausa, e não aumento de quantidade, pois o excesso tende a piorar a irritação e demorar mais a recuperar a barreira. A pele deve estar confortável durante o uso, e não em sofrimento.</p>
 <p>Quem tem dermatite de contato ou pele muito sensível deve ter cuidado extra. Para entender melhor esse quadro, vale conhecer o texto sobre <a href="/dermatite-de-contato/">dermatite de contato</a>.</p>
 
 <h2>Proteção solar e cuidados diários</h2>

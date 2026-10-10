@@ -17,7 +17,8 @@ FOTO2_SECAO: 4
 <p>A queda de cabelo intensa costuma assustar, principalmente quando os fios aparecem em grande quantidade no banho, na escova ou no travesseiro. Ela pode ter origens muito diferentes, de carências nutricionais a alterações hormonais, passando por estresse e doenças inflamatórias. Entender o que costuma causar esse quadro, como ele tende a evoluir e quando procurar avaliação ajuda a agir com calma e no momento certo.</p>
 
 <h2>O que caracteriza a queda intensa</h2>
-<p>Perder algumas dezenas de fios por dia faz parte do ciclo natural do cabelo, que alterna fases de crescimento, transição e repouso. A queda passa a ser considerada intensa quando é mais forte do que o habitual, quando se mantém por semanas ou meses, ou quando o volume do cabelo diminui de forma visível.</p>
+<p>Perder algumas dezenas de fios por dia faz parte do ciclo natural do cabelo, que alterna fases de crescimento, transição e repouso.</p>
+<p>A queda passa a ser considerada intensa quando é mais forte do que o habitual, quando se mantém por semanas ou meses, ou quando o volume do cabelo diminui de forma visível.</p>
 <p>Em geral, a percepção começa com mais fios no ralo, no pente e no travesseiro, seguida de afinamento e menor densidade. Alguns percebem também que o couro cabeludo fica mais visível em certas áreas, como a parte superior da cabeça.</p>
 <p>Anotar a data de início, a quantidade aproximada de fios e os acontecimentos recentes, como doenças, cirurgias, partos ou mudanças de medicação, ajuda muito na consulta.</p>
 
@@ -32,7 +33,8 @@ FOTO2_SECAO: 4
 <li>Uso de alguns medicamentos, que deve ser revisado pelo médico.</li>
 </ul>
 <p>Como essas causas podem se sobrepor, a investigação deve considerar o conjunto da história de saúde, e não apenas o número de fios perdidos.</p>
-<p>Em mulheres, a queda intensa também aparece com frequência após mudanças de rotina importantes, como troca de trabalho, mudança de cidade, período de provas ou luto. Isso não quer dizer que o estresse seja a única explicação, mas ele pode ser um fator que se soma a outras condições já existentes.</p>
+<p>Em mulheres, a queda intensa também aparece com frequência após mudanças de rotina importantes, como troca de trabalho, mudança de cidade, período de provas ou luto.</p>
+<p>Isso não quer dizer que o estresse seja a única explicação, mas ele pode ser um fator que se soma a outras condições já existentes.</p>
 <p>Em homens e mulheres, pequenas alterações de hábitos, como tranças muito apertadas, tratamentos químicos frequentes e uso constante de calor, também podem intensificar a percepção da queda, porque quebram os fios e deixam o cabelo mais fino.</p>
 
 <h2>Linha do tempo: o que esperar nos meses seguintes</h2>
@@ -42,17 +44,22 @@ FOTO2_SECAO: 4
 <p>Uma dica prática é registrar a queda em um calendário simples, anotando semanas em que ela foi mais forte e possíveis gatilhos. Esse histórico costuma ser mais útil do que lembranças gerais, porque mostra padrões que o paciente talvez não perceba no dia a dia.</p>
 
 <h2>Exames e investigação médica</h2>
-<p>A avaliação costuma começar com a história clínica e com o exame do couro cabeludo. O médico pode solicitar exames de sangue para checar tireoide, ferro, ferritina, vitaminas e outros marcadores, de acordo com o quadro. Em alguns casos, é necessário um exame de tração ou uma biópsia para diferenciar tipos de alopecia.</p>
-<p>Muitas pessoas chegam à consulta com resultados de exames feitos antes, e isso ajuda bastante. Ainda assim, exames antigos podem não refletir o momento atual, por isso o médico costuma avaliar a data e decidir se é preciso repetir algum deles. Os resultados precisam ser interpretados em conjunto com os sintomas. Um exame isolado fora da faixa não define sozinho a causa, e um exame normal também não descarta a investigação quando os sinais persistem.</p>
+<p>A avaliação costuma começar com a história clínica e com o exame do couro cabeludo. O médico pode solicitar exames de sangue para checar tireoide, ferro, ferritina, vitaminas e outros marcadores, de acordo com o quadro.</p>
+<p>Em alguns casos, é necessário um exame de tração ou uma biópsia para diferenciar tipos de alopecia.</p>
+<p>Muitas pessoas chegam à consulta com resultados de exames feitos antes, e isso ajuda bastante. Ainda assim, exames antigos podem não refletir o momento atual, por isso o médico costuma avaliar a data e decidir se é preciso repetir algum deles.</p>
+<p>Os resultados precisam ser interpretados em conjunto com os sintomas. Um exame isolado fora da faixa não define sozinho a causa, e um exame normal também não descarta a investigação quando os sinais persistem.</p>
 <p>Por isso, a decisão sobre o que pedir e como interpretar os resultados cabe ao médico, que deve explicar cada etapa à pessoa.</p>
 
 <h2>Tratamento: o que depende da causa</h2>
-<p>O tratamento da queda intensa varia de acordo com a origem. Quando há carência, a reposição deve ser orientada por exame. Quando há doença da tireoide ou alteração hormonal, o foco é o controle da condição de base. Já na alopecia de origem genética, o dermatologista pode indicar medicamentos tópicos, como o minoxidil, e outras medidas de apoio.</p>
-<p>Em eventos agudos, o principal é aguardar a recuperação do organismo e cuidar da saúde geral. Nessas situações, também vale evitar agressões extras aos fios, como tinturas e alisamentos feitos no mesmo período, que podem aumentar a fragilidade do cabelo enquanto ele se recupera. Nesses casos, o uso de produtos sem indicação costuma gerar gastos e expectativas irreais, sem acelerar o processo.</p>
+<p>O tratamento da queda intensa varia de acordo com a origem. Quando há carência, a reposição deve ser orientada por exame.</p>
+<p>Quando há doença da tireoide ou alteração hormonal, o foco é o controle da condição de base. Já na alopecia de origem genética, o dermatologista pode indicar medicamentos tópicos, como o minoxidil, e outras medidas de apoio.</p>
+<p>Em eventos agudos, o principal é aguardar a recuperação do organismo e cuidar da saúde geral. Nessas situações, também vale evitar agressões extras aos fios, como tinturas e alisamentos feitos no mesmo período, que podem aumentar a fragilidade do cabelo enquanto ele se recupera.</p>
+<p>Nesses casos, o uso de produtos sem indicação costuma gerar gastos e expectativas irreais, sem acelerar o processo.</p>
 <p>Para aprofundar o assunto, vale ler sobre <a href="/queda-de-cabelo/">queda de cabelo</a>, que explica as principais origens do problema.</p>
 
 <h2>Alimentação, estresse e rotina</h2>
-<p>Dietas muito restritivas, jejuns prolongados e falta de proteína podem contribuir para a queda. Quem reduziu bastante o que come em pouco tempo, seja por rotina corrida, seja por dietas da moda, pode perceber a queda algum tempo depois, o que dificulta ligar o efeito à causa. A alimentação deve trazer quantidade suficiente de proteína, ferro, zinco e vitaminas, sempre com equilíbrio e sem exageros de suplementos.</p>
+<p>Dietas muito restritivas, jejuns prolongados e falta de proteína podem contribuir para a queda. Quem reduziu bastante o que come em pouco tempo, seja por rotina corrida, seja por dietas da moda, pode perceber a queda algum tempo depois, o que dificulta ligar o efeito à causa.</p>
+<p>A alimentação deve trazer quantidade suficiente de proteína, ferro, zinco e vitaminas, sempre com equilíbrio e sem exageros de suplementos.</p>
 <p>O estresse intenso também pode desencadear queda temporária. Cuidar do sono, das pausas e da atividade física ajuda o organismo a se reequilibrar e favorece a recuperação dos fios.</p>
 <p>Quando a carência de ferro é confirmada, o tema costuma estar ligado ao quadro de <a href="/ferro-baixo-sintomas/">ferro baixo</a>, que merece investigação e orientação específica.</p>
 

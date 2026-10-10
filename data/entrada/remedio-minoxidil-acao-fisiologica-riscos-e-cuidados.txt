@@ -21,7 +21,8 @@ FOTO2_SECAO: 4
 <p>O minoxidil pertence ao grupo dos vasodilatadores, medicamentos que ampliam os vasos sanguíneos. Ele foi inicialmente estudado para tratar pressão alta e, ao longo do tempo, passou a ser utilizado na queda de cabelo, após a observação de crescimento de pelos em algumas pessoas.</p>
 <p>Na prática dermatológica, o uso mais conhecido é na alopecia androgenética, tanto em homens quanto em mulheres. Mesmo assim, a indicação depende do tipo de queda, da idade, da saúde geral e de outros tratamentos que a pessoa esteja fazendo.</p>
 <p>Por isso, não se trata de um produto de uso universal. A indicação precisa ser individual e acompanhada por um profissional.</p>
-<p>Também é importante lembrar que a queda androgenética é uma condição de longo prazo, marcada por afinamento progressivo dos fios. Tratamentos que atuam sobre essa dinâmica costumam ser pensados como manutenção, e não como solução definitiva. Essa diferença precisa ficar clara antes de qualquer decisão, para que a expectativa seja compatível com o que a ciência observa.</p>
+<p>Também é importante lembrar que a queda androgenética é uma condição de longo prazo, marcada por afinamento progressivo dos fios. Tratamentos que atuam sobre essa dinâmica costumam ser pensados como manutenção, e não como solução definitiva.</p>
+<p>Essa diferença precisa ficar clara antes de qualquer decisão, para que a expectativa seja compatível com o que a ciência observa.</p>
 <p>Em muitos consultórios, o dermatologista combina medidas diferentes, como cuidados com os fios, correção de carências e, quando indicado, medicamentos. O minoxidil pode fazer parte desse conjunto, mas raramente funciona de forma isolada em quem tem uma causa associada.</p>
 
 <h2>Como o medicamento atua no couro cabeludo</h2>
@@ -38,23 +39,27 @@ FOTO2_SECAO: 4
 <li>Reação alérgica, com inchaço, dificuldade para respirar ou urticária.</li>
 </ul>
 <p>As formas orais têm riscos diferentes e exigem avaliação mais criteriosa, pois podem afetar a pressão arterial e a frequência cardíaca. Por isso, nunca devem ser iniciadas sem prescrição.</p>
-<p>Vale saber que efeitos indesejados podem aparecer mesmo em quem usa a forma local corretamente. Por isso, o acompanhamento não deve ser abandonado quando tudo parece bem. Ao notar qualquer sintoma novo, a pessoa deve registrar quando começou, o que estava usando e se houve contato com outros produtos, para relatar com clareza ao profissional.</p>
+<p>Vale saber que efeitos indesejados podem aparecer mesmo em quem usa a forma local corretamente. Por isso, o acompanhamento não deve ser abandonado quando tudo parece bem.</p>
+<p>Ao notar qualquer sintoma novo, a pessoa deve registrar quando começou, o que estava usando e se houve contato com outros produtos, para relatar com clareza ao profissional.</p>
 <p>Em caso de contato com os olhos ou com mucosas, a orientação é lavar a região com água em abundância e procurar atendimento se a irritação persistir. Também é prudente manter o produto fora do alcance de crianças e animais de estimação.</p>
 
 <h2>Quem deve ter mais cuidado</h2>
 <p>Algumas pessoas precisam de avaliação ainda mais cuidadosa antes de considerar o uso. Isso inclui quem tem doença cardíaca, pressão alterada, alterações renais, histórico de reações a medicamentos e quem usa outros remédios para pressão ou para o coração.</p>
 <p>Durante a gravidez e a amamentação, a orientação também deve ser individualizada, e o uso só ocorre com indicação médica clara. Crianças e adolescentes exigem a mesma atenção, com decisão tomada por especialistas.</p>
-<p>Também é importante informar ao médico outros tratamentos em uso, inclusive produtos naturais e suplementos, para que a avaliação seja completa. Quem tem histórico familiar de doenças do coração ou do rim também deve mencionar essa informação, pois ela ajuda o especialista a medir o risco com mais precisão antes de qualquer decisão.</p>
+<p>Também é importante informar ao médico outros tratamentos em uso, inclusive produtos naturais e suplementos, para que a avaliação seja completa.</p>
+<p>Quem tem histórico familiar de doenças do coração ou do rim também deve mencionar essa informação, pois ela ajuda o especialista a medir o risco com mais precisão antes de qualquer decisão.</p>
 
 <h2>Uso orientado e expectativas realistas</h2>
 <p>O uso correto envolve seguir as orientações da bula e da prescrição, sem aumentar a frequência ou a quantidade por conta própria. Mais aplicação não significa mais resultado, e pode aumentar o risco de efeitos indesejados.</p>
-<p>Também é importante ter expectativas realistas. O tratamento costuma ser de longo prazo, e a melhora, quando acontece, é gradual e pode ser discreta. Outro cuidado prático é não misturar produtos para o couro cabeludo sem orientação, principalmente ativos fortes, pois isso pode aumentar a irritação. Se a pessoa usar outros tratamentos, o ideal é informar o profissional para que a rotina seja revista como um todo. O dermatologista pode avaliar fotos e exames ao longo do tempo para acompanhar a evolução.</p>
+<p>Também é importante ter expectativas realistas. O tratamento costuma ser de longo prazo, e a melhora, quando acontece, é gradual e pode ser discreta. Outro cuidado prático é não misturar produtos para o couro cabeludo sem orientação, principalmente ativos fortes, pois isso pode aumentar a irritação.</p>
+<p>Se a pessoa usar outros tratamentos, o ideal é informar o profissional para que a rotina seja revista como um todo. O dermatologista pode avaliar fotos e exames ao longo do tempo para acompanhar a evolução.</p>
 <p>Para entender melhor as causas e o cenário geral da queda, vale ler o texto sobre <a href="/queda-de-cabelo/">queda de cabelo</a>, que apresenta as principais origens do problema.</p>
 
 <h2>Por que nem toda queda é tratada com o mesmo remédio</h2>
 <p>A queda de cabelo pode ter causas variadas, como alterações da tireoide, carências nutricionais, estresse e fatores hormonais. Um medicamento que atua bem em uma causa pode não ter efeito em outra, e pode até atrasar o diagnóstico correto.</p>
 <p>Alterações hormonais, por exemplo, exigem investigação própria. Um exemplo é o hipotireoidismo, cujos sinais merecem avaliação, como mostra o texto sobre <a href="/hipotireoidismo-sintomas/">sintomas de hipotireoidismo</a>.</p>
-<p>Na transição menopausal, a queda pode ter componente hormonal e exigir conversa com o médico sobre as opções disponíveis. Nesse contexto, a avaliação costuma incluir o histórico completo da paciente, incluindo outras condições e medicamentos em uso, antes de qualquer proposta de tratamento. Saiba mais sobre o período em <a href="/o-que-e-menopausa/">o que é menopausa</a>.</p>
+<p>Na transição menopausal, a queda pode ter componente hormonal e exigir conversa com o médico sobre as opções disponíveis.</p>
+<p>Nesse contexto, a avaliação costuma incluir o histórico completo da paciente, incluindo outras condições e medicamentos em uso, antes de qualquer proposta de tratamento. Saiba mais sobre o período em <a href="/o-que-e-menopausa/">o que é menopausa</a>.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>O remédio minoxidil faz o cabelo crescer rápido?</strong><br>Não. Os efeitos costumam levar meses e variam bastante de uma pessoa para outra.</p>

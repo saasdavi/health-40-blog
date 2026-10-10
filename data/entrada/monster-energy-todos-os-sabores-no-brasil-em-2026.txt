@@ -1,6 +1,6 @@
-PALAVRA_CHAVE: monster energy sabores
+PALAVRA_CHAVE: energético sabores
 TITLE: Energético Sabores: Riscos, Cafeína e Cuidados
-DESCRIPTION: Entenda o que observar nos energéticos de diferentes sabores, como a cafeína afeta o corpo, quem deve evitar essas bebidas e quando procurar um médico.
+DESCRIPTION: Entenda o que observar em energético sabores variados, como a cafeína afeta o corpo, quem deve evitar essas bebidas e quando procurar um médico.
 FONTE: Mayo Clinic | https://www.mayoclinic.org
 FONTE: Governo Federal | https://www.gov.br
 CAPA_BUSCA: energy drink cans
@@ -14,7 +14,8 @@ FOTO2_ALT: Profissional de saúde verificando a pressão arterial de um paciente
 FOTO2_LEGENDA: Pressão e batimentos merecem atenção em quem consome estimulantes.
 FOTO2_SECAO: 4
 ---
-<p>Energéticos com diferentes sabores são facilmente encontrados em mercados e lojas de conveniência, e muitas pessoas os consomem para ganhar disposição. Quem pesquisa energético sabores quer saber o que existe nessas bebidas, quanto de cafeína elas costumam conter e quais riscos merecem atenção. Este texto apresenta essas informações de forma geral e cuidadosa.</p>
+<p>Quem pesquisa energético sabores encontra dezenas de opções em mercados e lojas de conveniência, e muitas pessoas as consomem para ganhar disposição.</p>
+<p>É natural querer saber o que existe nessas bebidas, quanto de cafeína elas costumam conter e quais riscos merecem atenção. Este texto apresenta essas informações de forma geral e cuidadosa.</p>
 
 <h2>O que são as bebidas energéticas</h2>
 <p>As bebidas energéticas são produtos com estimulantes, principalmente a cafeína, combinados com açúcar ou adoçantes, vitaminas e outros ingredientes, como taurina e extratos vegetais. A variedade de sabores costuma ser uma estratégia de marketing e não altera a presença do estimulante.</p>
@@ -48,7 +49,7 @@ FOTO2_SECAO: 4
 <h2>Riscos para o coração e a pressão</h2>
 <p>O consumo frequente de estimulantes pode elevar a pressão e acelerar os batimentos. Em quem tem doença cardíaca, arritmia ou hipertensão, a combinação de cafeína com esforço físico ou estresse aumenta o risco de complicações.</p>
 <p>Também é importante lembrar que misturas com outros estimulantes, como alguns suplementos e produtos para energia, somam os efeitos e tornam o quadro mais difícil de controlar.</p>
-<p>Para reconhecer quando a pressão merece atenção, leia sobre <a href="/pressao-alta-sintomas/">sintomas de pressão alta</a>.</p>
+<p>Se a agitação e os batimentos acelerados forem frequentes, leia sobre <a href="/como-controlar-a-ansiedade/">como controlar a ansiedade</a>.</p>
 
 <p>Também é importante lembrar que a bebida costuma ser consumida em ambientes sociais, como festas e academias. Nesses contextos, a pessoa pode não perceber a soma de estimulantes com álcool ou com outros produtos.</p>
 <p>Misturar energético com bebida alcoólica é uma combinação que mascara o efeito sedativo do álcool e pode levar a consumo excessivo sem percepção do risco.</p>

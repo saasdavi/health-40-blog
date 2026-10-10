@@ -23,9 +23,11 @@ FOTO2_SECAO: 4
 <p>Por isso, o processo costuma ser acompanhado por nutricionistas, que ajustam as orientações às necessidades individuais e às condições de saúde.</p>
 
 <h2>Por que a reeducação costuma funcionar melhor</h2>
-<p>Dietas muito restritivas tendem a gerar fome intensa, cansaço e sensação de falha quando são interrompidas. Muitas pessoas recuperam o peso perdido depois de um período de restrição, em um ciclo que desgasta a relação com a comida. A reeducação, ao contrário, mexe nos hábitos que sustentam o peso e permite manter as mudanças por mais tempo.</p>
+<p>Dietas muito restritivas tendem a gerar fome intensa, cansaço e sensação de falha quando são interrompidas. Muitas pessoas recuperam o peso perdido depois de um período de restrição, em um ciclo que desgasta a relação com a comida.</p>
+<p>A reeducação, ao contrário, mexe nos hábitos que sustentam o peso e permite manter as mudanças por mais tempo.</p>
 <p>Além disso, a abordagem costuma melhorar aspectos da saúde que vão além do peso, como o controle da glicemia, dos triglicerídeos e da pressão, dependendo do perfil de cada pessoa. A pesquisa científica sobre padrões alimentares equilibrados é extensa, e estudos publicados em bases como o SciELO discutem essas relações.</p>
-<p>Outro ponto importante é que a reeducação preserva o prazer de comer. Ao incluir alimentos que a pessoa gosta, preparados de forma mais saudável, a rotina se torna mais agradável e menos cansativa de manter ao longo dos anos. Outro ponto é a flexibilidade. Quem aprende a equilibrar as refeições consegue comer fora, em festas e viagens sem culpa excessiva, o que facilita a continuidade.</p>
+<p>Outro ponto importante é que a reeducação preserva o prazer de comer. Ao incluir alimentos que a pessoa gosta, preparados de forma mais saudável, a rotina se torna mais agradável e menos cansativa de manter ao longo dos anos.</p>
+<p>Outro ponto é a flexibilidade. Quem aprende a equilibrar as refeições consegue comer fora, em festas e viagens sem culpa excessiva, o que facilita a continuidade.</p>
 
 <h2>Como começar a reeducação alimentar</h2>
 <p>O primeiro passo costuma ser observar a rotina atual por alguns dias, anotando o que é comido, em que horário e em que contexto. Esse registro revela padrões, como lanches por ansiedade, refeições puladas ou excesso de bebidas açucaradas.</p>
@@ -35,10 +37,13 @@ FOTO2_SECAO: 4
 <li>Reduza gradualmente os ultraprocessados, em vez de cortar tudo de uma vez.</li>
 <li>Planeje compras e leve lanches prontos para evitar escolhas por impulso.</li>
 </ul>
-<p>Mudanças pequenas e repetidas costumam ser mais eficazes do que uma transformação radical. Ao começar, também ajuda definir um objetivo claro, como comer uma fruta a mais por dia ou preparar o almoço em casa algumas vezes na semana, pois metas concretas são mais fáceis de acompanhar do que promessas genéricas. Uma boa estratégia é escolher uma ou duas mudanças por vez e consolidá-las antes de avançar.</p>
+<p>Mudanças pequenas e repetidas costumam ser mais eficazes do que uma transformação radical.</p>
+<p>Ao começar, também ajuda definir um objetivo claro, como comer uma fruta a mais por dia ou preparar o almoço em casa algumas vezes na semana, pois metas concretas são mais fáceis de acompanhar do que promessas genéricas.</p>
+<p>Uma boa estratégia é escolher uma ou duas mudanças por vez e consolidá-las antes de avançar.</p>
 
 <h2>O papel das porções e do equilíbrio calórico</h2>
-<p>A quantidade ingerida também importa. Para perder peso, é necessário que o consumo de energia seja menor que o gasto, o que se chama de déficit calórico. A reeducação não elimina esse princípio, mas o aplica de forma gradual e sustentável, sem cortes extremos. Para compreender melhor esse conceito, veja o texto sobre <a href="/deficit-calorico/">déficit calórico</a>.</p>
+<p>A quantidade ingerida também importa. Para perder peso, é necessário que o consumo de energia seja menor que o gasto, o que se chama de déficit calórico.</p>
+<p>A reeducação não elimina esse princípio, mas o aplica de forma gradual e sustentável, sem cortes extremos. Para compreender melhor esse conceito, veja o texto sobre <a href="/deficit-calorico/">déficit calórico</a>.</p>
 <p>Porções adequadas podem ser estimadas com a ajuda de referências visuais, como a metade do prato com vegetais e um quarto com proteína. Esse método não exige balança e funciona bem no dia a dia, especialmente quando a pessoa está começando.</p>
 <p>Quem tem dificuldade de controlar as porções pode se beneficiar de orientação profissional, que avalia a necessidade energética e ajusta o plano conforme a idade e a atividade física.</p>
 

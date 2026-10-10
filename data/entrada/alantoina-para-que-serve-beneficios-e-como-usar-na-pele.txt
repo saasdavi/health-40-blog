@@ -25,7 +25,7 @@ FOTO2_SECAO: 4
 <p>A leitura mais honesta é que se trata de um ingrediente com função conhecida no cuidado diário e com estudos preliminares em cicatrização. Para ferimentos, a orientação profissional é indispensável.</p>
 <h2>Usos cosméticos e cuidados do dia a dia</h2>
 <p>No cotidiano, a alantoína costuma aparecer em produtos para pele seca, áreas de atrito e pele sensível. Ela pode ajudar a manter a sensação de conforto após a limpeza ou o banho.</p>
-<p>Para quem tem alterações como manchas e irritações, o cuidado com a pele deve incluir protetor solar e evitar fatores irritantes. Leia também sobre <a href="/manchas-na-pele/">manchas na pele</a>, que descreve quando investigar.</p>
+<p>Para quem tem alterações como manchas e irritações, o cuidado com a pele deve incluir protetor solar e evitar fatores irritantes. Leia também sobre <a href="/o-que-e-perimenopausa/">perimenopausa</a>, fase em que a pele costuma mudar.</p>
 <ul>
 <li>Escolha produtos com indicação clara para o seu tipo de pele.</li>
 <li>Prefira fórmulas sem fragrâncias se a pele for sensível.</li>
@@ -36,7 +36,7 @@ FOTO2_SECAO: 4
 <p>O contato repetido com produtos que contêm ingredientes irritantes pode levar à dermatite de contato. Por isso, a suspensão do produto ao primeiro sinal de reação é a conduta mais prudente.</p>
 <h2>Feridas, cicatrizes e queloides</h2>
 <p>Feridas profundas, queimaduras e cicatrizes que crescem exigem avaliação médica. Cremes cosméticos não substituem o curativo adequado nem o tratamento indicado pelo profissional.</p>
-<p>Em cicatrizes elevadas, como os queloides, o tratamento costuma ser feito por dermatologista, com medidas específicas. Veja mais sobre o tema em <a href="/queloide/">queloide</a>.</p>
+<p>Em cicatrizes elevadas, como os queloides, o tratamento costuma ser feito por dermatologista, com medidas específicas.</p>
 <h2>Como testar um produto com alantoína</h2>
 <p>Antes de usar um produto novo no rosto ou em área extensa, aplique uma pequena quantidade na parte interna do antebraço ou atrás da orelha. Observe a pele por dois ou três dias antes de usar de forma regular.</p>
 <p>Se aparecer coceira, ardência ou vermelhidão que persiste, suspenda o uso e procure um dermatologista. Guardar o rótulo ajuda o profissional a identificar possíveis ingredientes causadores de reação.</p>
@@ -46,8 +46,10 @@ FOTO2_SECAO: 4
 <p>Em crianças pequenas, qualquer produto deve ser usado com orientação do pediatra, e a região do rosto e das mucosas exige cuidado extra. Antes de aplicar, verifique a idade mínima indicada pelo fabricante e a presença de fragrâncias, que aumentam a chance de irritação.</p>
 <p>Em pessoas com dermatite atópica ou psoríase, o uso de cosméticos deve ser discutido com dermatologista. Mesmo produtos considerados suaves podem desencadear crises em quem tem pele muito reativa, e a escolha do veículo, como creme ou loção, também faz diferença.</p>
 <p>O armazenamento adequado é outro cuidado. Mantenha o produto fechado, longe do calor e da luz direta, e observe o prazo de validade. Embalagens abertas por muito tempo podem perder estabilidade e favorecer contaminação, aumentando o risco de irritação.</p>
-<p>Por último, vale considerar a relação entre a pele e o ambiente. Ar seco, água muito quente e excesso de sabonetes fortes enfraquecem a barreira natural da pele. A alantoína pode ser um apoio, mas hábitos simples, como banhos mornos e curtos, costumam ter efeito mais consistente no conforto do dia a dia.</p>
-<p>Quando há dúvida entre um cosmético e um medicamento, a regra é procurar orientação antes de decidir. Produtos com finalidade de tratamento são regulados de forma diferente, e a indicação deve vir de um profissional que conheça o quadro. Para entender outro tema de pele que exige cuidado, leia sobre <a href="/dermatite-de-contato/">dermatite de contato</a>.</p>
+<p>Por último, vale considerar a relação entre a pele e o ambiente. Ar seco, água muito quente e excesso de sabonetes fortes enfraquecem a barreira natural da pele.</p>
+<p>A alantoína pode ser um apoio, mas hábitos simples, como banhos mornos e curtos, costumam ter efeito mais consistente no conforto do dia a dia.</p>
+<p>Quando há dúvida entre um cosmético e um medicamento, a regra é procurar orientação antes de decidir. Produtos com finalidade de tratamento são regulados de forma diferente, e a indicação deve vir de um profissional que conheça o quadro.</p>
+<p>O estresse também pode afetar a pele; veja sobre <a href="/cortisol-alto/">cortisol alto</a>.</p>
 <p>Na prática, a alantoína costuma aparecer em produtos para mãos, pés e cotovelos, regiões que sofrem com atrito, frio e lavagens frequentes. Nesses casos, o creme funciona como apoio ao conforto, mas não substitui a avaliação de rachaduras profundas, feridas ou infecções, que exigem tratamento específico.</p>
 <p>Quem trabalha com água o tempo todo, como profissionais da limpeza e da saúde, pode notar ressecamento constante. Nessa situação, a escolha de luvas adequadas e a hidratação após a lavagem das mãos são medidas complementares importantes e de baixo custo.</p>
 <p>Em pessoas com diabetes, a atenção às feridas nos pés é ainda mais importante. Qualquer machucado que demore a cicatrizar deve ser avaliado, e a aplicação de cosméticos não deve atrasar a procura por atendimento especializado.</p>

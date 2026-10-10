@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: treino funcional emagrece
-TITLE: Treino Funcional Emagrece? O Que a Ciência Mostra
+TITLE: Treino Funcional Emagrece? O Que Diz a Ciência
 DESCRIPTION: Treino funcional emagrece? Veja o que a ciência mostra sobre gasto de energia, ganho de força, limites das promessas e cuidados para começar com segurança.
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 FONTE: Ministério da Saúde | https://www.gov.br/saude
@@ -60,7 +60,7 @@ FOTO2_SECAO: 4
 <li>Progredir aos poucos, aumentando carga ou repetições, mantém o estímulo sem sobrecarga.</li>
 </ul>
 
-<p>Para quem perdeu massa muscular com a idade, <a href="/sarcopenia/">o conteúdo sobre sarcopenia</a> explica por que o treino de força é tão importante nessa fase.</p>
+<p>Para quem perdeu massa muscular com a idade, <a href="/proteina-mulheres-40/">o conteúdo sobre proteína para mulheres 40+</a> explica por que a massa muscular importa tanto nessa fase.</p>
 
 <h2>Riscos de execução e como começar com segurança</h2>
 
@@ -86,7 +86,7 @@ FOTO2_SECAO: 4
 
 <p>Em todas as faixas etárias, vale registrar como o corpo responde nas semanas seguintes, anotando sono, energia e dores. Esses registros mostram se a carga está adequada e orientam ajustes simples.</p>
 
-<p>Para entender como adaptar a rotina nessa faixa etária, veja <a href="/exercicios-para-idosos/">as orientações sobre exercícios para idosos</a>, que trazem princípios gerais de segurança.</p>
+<p>Para entender como adaptar a rotina nessa faixa etária, veja <a href="/dores-lombares/">o guia sobre dores lombares</a>, que traz princípios gerais de segurança.</p>
 
 <h2>Perguntas frequentes</h2>
 

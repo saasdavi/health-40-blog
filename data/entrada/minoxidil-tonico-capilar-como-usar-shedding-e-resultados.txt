@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: minoxidil tônico capilar
-TITLE: Minoxidil Tônico Capilar: Como Usar, Shedding e Resultados
+TITLE: Minoxidil Tônico Capilar: Como Usar e Shedding
 DESCRIPTION: Entenda como o minoxidil tônico capilar é usado, o que é o shedding, quanto tempo leva para avaliar resultados e quais cuidados exigem um médico.
 FONTE: Governo Federal | https://www.gov.br
 FONTE: Hospital Israelita Albert Einstein | https://www.einstein.br
@@ -14,7 +14,8 @@ FOTO2_ALT: Médico explicando a um paciente o acompanhamento do couro cabeludo
 FOTO2_LEGENDA: O acompanhamento médico define a duração e os ajustes do tratamento.
 FOTO2_SECAO: 4
 ---
-<p>O minoxidil tônico capilar é uma das formas de uso do minoxidil no couro cabeludo, indicada em casos de queda de padrão androgenético. Como a substância exige regularidade e acompanhamento, muitas dúvidas surgem sobre a aplicação, o período de queda inicial e o tempo até observar mudanças. Este texto responde a essas dúvidas de forma geral e segura.</p>
+<p>O minoxidil tônico capilar é uma das formas de uso do minoxidil no couro cabeludo, indicada em casos de queda de padrão androgenético.</p>
+<p>Como a substância exige regularidade e acompanhamento, muitas dúvidas surgem sobre a aplicação, o período de queda inicial e o tempo até observar mudanças. Este texto responde a essas dúvidas de forma geral e segura.</p>
 
 <h2>O que é o minoxidil e para que é usado</h2>
 <p>O minoxidil é uma substância que, quando aplicada no couro cabeludo, pode ajudar a manter fios em fase de crescimento e a aumentar a espessura dos cabelos. Ele não corrige a causa hormonal ou genética da queda, mas atua sobre o ciclo capilar.</p>
@@ -46,7 +47,7 @@ FOTO2_SECAO: 4
 <h2>Quanto tempo leva para ver resultados</h2>
 <p>Os efeitos do minoxidil são graduais e costumam ser avaliados após vários meses de uso regular. Fotos padronizadas, feitas no mesmo local e com a mesma luz, são um bom recurso para comparar a evolução.</p>
 <p>Os resultados variam bastante. Há pessoas que observam pouca mudança e outras que percebem ganho de densidade. Não há como prometer resposta, e é importante manter expectativas realistas.</p>
-<p>Para entender outros fatores que influenciam a queda, como a falta de ferro, vale conhecer os <a href="/ferro-baixo-sintomas/">sintomas de ferro baixo</a>.</p>
+<p>Para entender outros fatores que influenciam a queda, como a falta de ferro, vale conhecer os <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a>.</p>
 
 <p>Alguns efeitos sistêmicos, como alterações da pressão e batimentos acelerados, são raros com a aplicação tópica, mas exigem atenção especial em quem tem doença cardíaca ou usa medicamentos para o coração.</p>
 <p>Em caso de sintomas incomuns, suspenda a aplicação e busque atendimento, levando o frasco ou a informação sobre a fórmula utilizada.</p>

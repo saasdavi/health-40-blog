@@ -78,7 +78,7 @@ FOTO2_SECAO: 4
 
 <p>Queda em placas, com falhas bem definidas, coceira, descamação ou dor deve ser avaliada por dermatologista. Esses padrões não costumam responder a vitaminas isoladas.</p>
 
-<p>Se houver alteração da tireoide, o tratamento é direcionado à glândula. Para entender esses sinais, veja <a href="/hipotireoidismo-sintomas/">os sintomas de hipotireoidismo</a>, que ajudam a perceber quando procurar avaliação.</p>
+<p>Se houver alteração da tireoide, o tratamento é direcionado à glândula. O estresse prolongado também pesa, e <a href="/cortisol-alto/">o conteúdo sobre cortisol alto</a> ajuda a perceber quando procurar avaliação.</p>
 
 <h2>Seguimento: o que muda depois da reposição</h2>
 
@@ -90,7 +90,7 @@ FOTO2_SECAO: 4
 
 <p>Esse registro também evita comparações equivocadas, já que a luz e o ângulo das fotos mudam a percepção de densidade.</p>
 
-<p>Se a queda estiver ligada a níveis baixos de ferro, <a href="/ferro-baixo-sintomas/">o conteúdo sobre ferro baixo</a> explica os sinais que costumam aparecer junto e que merecem atenção.</p>
+<p>Se a queda estiver ligada a níveis baixos de ferro, <a href="/alimentos-ricos-em-ferro/">a lista de alimentos ricos em ferro</a> explica as fontes que costumam aparecer junto e que merecem atenção.</p>
 
 <h2>Perguntas frequentes</h2>
 

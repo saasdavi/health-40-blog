@@ -1,5 +1,5 @@
-PALAVRA_CHAVE: Vitamina de Cavalo no Cabelo Riscos e o Que Fazer
-TITLE: Vitamina de Cavalo no Cabelo: Riscos e o Que Fazer
+PALAVRA_CHAVE: vitamina de cavalo no cabelo
+TITLE: Vitamina de Cavalo no Cabelo: Riscos
 DESCRIPTION: Vitamina de cavalo no cabelo: por que produtos veterinários não são feitos para pessoas, quais são os riscos e o que fazer se alguém já usou.
 FONTE: crmvrj.org.br | https://crmvrj.org.br
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
@@ -72,7 +72,7 @@ FOTO2_SECAO: 4
 
 <p>Por isso, quem usa biotina deve avisar o laboratório e o médico antes de fazer exames, porque o resultado pode levar a condutas equivocadas.</p>
 
-<p>Para entender o papel da vitamina no cabelo e os limites dessa relação, veja <a href="/biotina/">o conteúdo sobre biotina</a>, que explica usos, cuidados e o que a evidência mostra.</p>
+<p>Para entender o papel da vitamina no cabelo e os limites dessa relação, veja <a href="/alimentos-ricos-em-ferro/">a lista de alimentos ricos em ferro</a>, que mostra como a dieta influencia os fios.</p>
 
 <h2>Quando o problema é o cabelo: o que costuma estar por trás</h2>
 

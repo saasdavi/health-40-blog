@@ -17,7 +17,8 @@ FOTO2_SECAO: 4
 <p>A queda de cabelo feminino é uma queixa muito comum e pode aparecer em diferentes fases da vida, como após a gravidez, durante a menopausa ou em períodos de estresse intenso. Ela costuma causar preocupação porque afeta a aparência e a autoestima. Entender as causas mais frequentes e os tratamentos com respaldo científico ajuda a buscar a ajuda certa, no tempo certo.</p>
 
 <h2>Como a queda de cabelo feminino costuma se apresentar</h2>
-<p>Na mulher, a queda costuma ser difusa, ou seja, os fios diminuem em todo o couro cabeludo, em vez de formar falhas bem definidas. Muitas percebem o aumento de fios nas mãos ao pentear, no ralo do banho ou no travesseiro, e o cabelo pode parecer mais fino, com menos volume.</p>
+<p>Na mulher, a queda costuma ser difusa, ou seja, os fios diminuem em todo o couro cabeludo, em vez de formar falhas bem definidas.</p>
+<p>Muitas percebem o aumento de fios nas mãos ao pentear, no ralo do banho ou no travesseiro, e o cabelo pode parecer mais fino, com menos volume.</p>
 <p>Essa perda pode ser temporária ou prolongada. Quando é temporária, costuma ter um gatilho identificável, como uma doença recente, uma febre alta, uma cirurgia ou mudança de dieta. Quando é prolongada, o padrão tende a se manter por meses e exige investigação mais detalhada.</p>
 <p>Por isso, a primeira etapa é observar o padrão da queda, a duração e os sintomas que a acompanham, para levar essas informações ao médico ou ao dermatologista.</p>
 
@@ -38,12 +39,14 @@ FOTO2_SECAO: 4
 <p>Esse diagnóstico é importante porque as opções de tratamento variam muito. Um tratamento indicado para uma causa pode ser inadequado para outra, e iniciar produtos por conta própria pode atrasar a solução do problema.</p>
 <p>Também vale saber que alguns sintomas precisam de atenção mais rápida, como queda muito intensa e súbita, falhas em placas ou inflamação do couro cabeludo. Nesses casos, a consulta deve acontecer sem demora.</p>
 <p>Durante a consulta, é útil levar uma lista de medicamentos em uso, suplementos, histórico de gestações e cirurgias recentes, além de informações sobre alimentação e rotina de estresse. Esses dados ajudam o especialista a montar um raciocínio mais completo e a evitar exames desnecessários.</p>
-<p>Fotografias do cabelo tiradas em intervalos regulares também podem ajudar a documentar a evolução, sobretudo quando a queda é gradual e fica difícil perceber a diferença no dia a dia. Também é útil levar à consulta um registro de ciclos menstruais, gestações e mudanças de peso, já que essas informações costumam orientar a investigação hormonal.</p>
+<p>Fotografias do cabelo tiradas em intervalos regulares também podem ajudar a documentar a evolução, sobretudo quando a queda é gradual e fica difícil perceber a diferença no dia a dia.</p>
+<p>Também é útil levar à consulta um registro de ciclos menstruais, gestações e mudanças de peso, já que essas informações costumam orientar a investigação hormonal.</p>
 
 <h2>Tratamentos com respaldo científico</h2>
 <p>Os tratamentos variam conforme a causa. Na alopecia androgenética feminina, o minoxidil tópico é uma das opções estudadas e indicadas por dermatologistas, em conjunto com outras medidas. Esse medicamento deve ser usado apenas com orientação, pois pode causar efeitos locais e exige constância para mostrar resultados.</p>
 <p>Quando a causa é hormonal, o especialista pode discutir a necessidade de avaliação ginecológica ou endocrinológica. Em casos de carência de ferro ou vitaminas, a reposição depende de exames confirmando a deficiência, e não deve ser feita por conta própria.</p>
-<p>Tratamentos costumam levar meses para mostrar efeito, porque o ciclo de crescimento dos fios é lento. Por isso, a avaliação de resultados deve ser feita com o profissional, em intervalos definidos, e não com base em poucas semanas de uso. Interromper ou trocar tratamentos sem orientação é uma das causas mais frequentes de frustração.</p>
+<p>Tratamentos costumam levar meses para mostrar efeito, porque o ciclo de crescimento dos fios é lento.</p>
+<p>Por isso, a avaliação de resultados deve ser feita com o profissional, em intervalos definidos, e não com base em poucas semanas de uso. Interromper ou trocar tratamentos sem orientação é uma das causas mais frequentes de frustração.</p>
 <p>Outras medidas de apoio incluem cuidados com os fios, redução de tração e de química agressiva, e uma alimentação equilibrada. Essas medidas ajudam a proteger o cabelo, mas raramente são suficientes sozinhas quando há causa definida.</p>
 <p>Para entender melhor o quadro geral, vale conhecer o texto sobre <a href="/queda-de-cabelo/">queda de cabelo</a>, que aborda as principais origens do problema.</p>
 
@@ -55,7 +58,8 @@ FOTO2_SECAO: 4
 <h2>Rotina de cuidados com os fios</h2>
 <p>Além do tratamento específico, alguns cuidados ajudam a manter os fios mais fortes. Evitar penteados muito apertados, reduzir o uso de calor intenso e de chapinhas, e escolher produtos suaves pode diminuir a quebra. Lavar o cabelo com delicadeza e secá-lo sem fricção também contribuem.</p>
 <p>Química frequente, descoloração e alisamentos agressivos enfraquecem a haste. Quando possível, faça esses procedimentos com intervalos maiores e com profissionais habilitados. Dormir bem, comer com regularidade e lidar com o estresse também fazem diferença.</p>
-<p>Esses hábitos não substituem o tratamento de uma causa definida, mas formam uma base que favorece a recuperação e o conforto com o cabelo. Vale ainda lembrar que o couro cabeludo precisa de limpeza adequada, sem excesso de produtos acumulados, pois resíduos podem irritar a pele e dificultar a saúde dos fios.</p>
+<p>Esses hábitos não substituem o tratamento de uma causa definida, mas formam uma base que favorece a recuperação e o conforto com o cabelo.</p>
+<p>Vale ainda lembrar que o couro cabeludo precisa de limpeza adequada, sem excesso de produtos acumulados, pois resíduos podem irritar a pele e dificultar a saúde dos fios.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>A queda de cabelo feminino sempre tem tratamento?</strong><br>Em muitos casos, há opções que estabilizam a queda ou melhoram a densidade. O resultado depende da causa, do tempo de evolução e da resposta individual.</p>
@@ -70,4 +74,5 @@ FOTO2_SECAO: 4
 
 <h2>Resumindo</h2>
 <p>A queda de cabelo feminino tem causas variadas, como fatores genéticos, hormonais, nutricionais e inflamatórios. Identificar o motivo é o passo mais importante para escolher um tratamento adequado e evitar gastos com produtos sem indicação.</p>
-<p>Com avaliação especializada, exames quando necessários e cuidados regulares com os fios, a maioria das mulheres consegue melhorar a situação ou estabilizar o quadro. Não hesite em buscar orientação profissional, sobretudo se a queda for intensa ou persistente. Mesmo quando a causa é benigna, a conversa com o especialista traz clareza, reduz a ansiedade e ajuda a escolher caminhos realistas para o seu caso.</p>
+<p>Com avaliação especializada, exames quando necessários e cuidados regulares com os fios, a maioria das mulheres consegue melhorar a situação ou estabilizar o quadro. Não hesite em buscar orientação profissional, sobretudo se a queda for intensa ou persistente.</p>
+<p>Mesmo quando a causa é benigna, a conversa com o especialista traz clareza, reduz a ansiedade e ajuda a escolher caminhos realistas para o seu caso.</p>

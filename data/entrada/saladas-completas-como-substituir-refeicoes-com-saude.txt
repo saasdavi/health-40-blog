@@ -22,7 +22,8 @@ FOTO2_SECAO: 4
 <p>Por isso, o segredo não está na folha escolhida, e sim na combinação de ingredientes.</p>
 
 <h2>Os componentes essenciais de uma salada completa</h2>
-<p>Uma boa montagem tem base de folhas e legumes variados, uma fonte de proteína, um carboidrato integral ou leguminosa e um toque de gordura boa. Cada parte tem um papel: vegetais trazem fibras e micronutrientes, a proteína ajuda na saciedade e na manutenção da massa muscular, e os grãos oferecem energia.</p>
+<p>Uma boa montagem tem base de folhas e legumes variados, uma fonte de proteína, um carboidrato integral ou leguminosa e um toque de gordura boa.</p>
+<p>Cada parte tem um papel: vegetais trazem fibras e micronutrientes, a proteína ajuda na saciedade e na manutenção da massa muscular, e os grãos oferecem energia.</p>
 <ul>
 <li>Base de folhas verdes e legumes crus ou cozidos, em cores variadas.</li>
 <li>Proteína, como ovos, frango, peixe, atum em lata, tofu ou grão-de-bico.</li>
@@ -34,9 +35,11 @@ FOTO2_SECAO: 4
 <p>Na escolha das folhas, vale alternar entre opções mais escuras, como couve e espinafre, e opções mais leves, como alface e rúcula. Essa alternância amplia o leque de nutrientes e evita a monotonia do prato.</p>
 
 <h2>Como montar uma salada completa passo a passo</h2>
-<p>Comece pela base de folhas e vegetais, depois acrescente a proteína e o grão escolhido. Também é possível aquecer parte dos ingredientes, como legumes assados ou grão-de-bico refogado, para variar a temperatura do prato. Por último, adicione o tempero, que pode ser um molho simples de azeite, limão, ervas e um pouco de mostarda. Evite molhos prontos cheios de açúcar e conservantes, que transformam a refeição em algo mais calórico do que parece.</p>
+<p>Comece pela base de folhas e vegetais, depois acrescente a proteína e o grão escolhido. Também é possível aquecer parte dos ingredientes, como legumes assados ou grão-de-bico refogado, para variar a temperatura do prato.</p>
+<p>Por último, adicione o tempero, que pode ser um molho simples de azeite, limão, ervas e um pouco de mostarda. Evite molhos prontos cheios de açúcar e conservantes, que transformam a refeição em algo mais calórico do que parece.</p>
 <p>Para quem tem pouco tempo, cozinhar grãos e leguminosas no fim de semana e guardar em porções ajuda muito. Na hora do almoço, basta montar a salada com ingredientes prontos, o que reduz a tentação de pedir comida pronta.</p>
-<p>Um bom critério é observar se o prato tem volume suficiente para encerrar a fome. Experimente registrar, por algumas semanas, como você se sente duas horas depois do almoço. Esse registro simples mostra se a combinação escolhida funciona para o seu corpo e quais ajustes fazem sentido. Anote também o que foi comido e o horário, pois esses dados ajudam na conversa com o nutricionista. Se a salada parecer pequena, aumente a quantidade de proteína e grãos, sem exagerar nas gorduras.</p>
+<p>Um bom critério é observar se o prato tem volume suficiente para encerrar a fome. Experimente registrar, por algumas semanas, como você se sente duas horas depois do almoço. Esse registro simples mostra se a combinação escolhida funciona para o seu corpo e quais ajustes fazem sentido.</p>
+<p>Anote também o que foi comido e o horário, pois esses dados ajudam na conversa com o nutricionista. Se a salada parecer pequena, aumente a quantidade de proteína e grãos, sem exagerar nas gorduras.</p>
 
 <h2>Saladas completas podem substituir refeições?</h2>
 <p>Sim, em muitas situações, desde que a salada seja realmente completa, com proteína, carboidrato e gordura em quantidades adequadas. Substituir uma refeição não significa comer pouco, e sim garantir que o conjunto de nutrientes seja suficiente para a rotina da pessoa.</p>
@@ -47,7 +50,8 @@ FOTO2_SECAO: 4
 <p>Uma das vantagens das saladas completas é a quantidade de fibras, que contribui para o funcionamento do intestino e para a sensação de saciedade. Fontes como leguminosas, folhas, sementes e grãos integrais aumentam esse aporte de forma natural.</p>
 <p>Para que a adaptação seja confortável, é recomendável aumentar as fibras de forma gradual e beber água ao longo do dia. Quem não está acostumado pode sentir gases no começo, o que costuma diminuir com a rotina.</p>
 <p>Se a mudança provocar desconforto intenso, vale ajustar a quantidade e buscar orientação. Mais informações sobre o tema estão em <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a>.</p>
-<p>Entre os erros mais comuns está colocar muitos ingredientes ricos em gordura, como queijos, bacon, croutons e molhos cremosos, sem perceber o aumento calórico. Outro é usar porções pequenas de proteína e grãos, o que deixa a refeição pouco saciante. Repetir a mesma combinação todos os dias também cansa e reduz a variedade de nutrientes.</p>
+<p>Entre os erros mais comuns está colocar muitos ingredientes ricos em gordura, como queijos, bacon, croutons e molhos cremosos, sem perceber o aumento calórico.</p>
+<p>Outro é usar porções pequenas de proteína e grãos, o que deixa a refeição pouco saciante. Repetir a mesma combinação todos os dias também cansa e reduz a variedade de nutrientes.</p>
 
 <p>Um erro comum é colocar muitos ingredientes ricos em gordura, como queijos, bacon, croutons e molhos cremosos, sem perceber o aumento calórico. Outro é usar porções pequenas de proteína e grãos, o que deixa a refeição pouco saciante.</p>
 <p>Também é comum repetir a mesma salada todos os dias, o que cansa e reduz a variedade de nutrientes. Trocar ingredientes a cada semana ajuda a manter o prato interessante e nutritivo.</p>

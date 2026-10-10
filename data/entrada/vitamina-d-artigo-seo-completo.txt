@@ -88,7 +88,7 @@ FOTO2_SECAO: 4
 
 <p>Em todos esses casos, as recomendações podem mudar ao longo do tempo, o que reforça a importância de revisões periódicas.</p>
 
-<p>Para entender melhor a relação entre a vitamina e a saúde óssea, leia <a href="/osteoporose/">o conteúdo sobre osteoporose</a>, que explica fatores de risco e prevenção.</p>
+<p>Para entender melhor a relação entre a vitamina e a saúde óssea, leia <a href="/dores-lombares/">o guia sobre dores lombares</a>, que ajuda a separar dores comuns de sinais que pedem avaliação.</p>
 
 <h2>Perguntas frequentes</h2>
 
@@ -114,4 +114,4 @@ FOTO2_SECAO: 4
 
 <p>A vitamina D é importante para ossos, músculos e outras funções, e sua produção depende muito da exposição solar. A falta e o excesso trazem problemas, por isso a suplementação deve ser orientada por exames e profissional.</p>
 
-<p>Entender os sinais, as fontes e os grupos de risco ajuda a tomar decisões mais seguras. Para revisar os sintomas mais comuns, veja <a href="/vitamina-d-baixa-sintomas/">o conteúdo sobre sinais de vitamina D baixa</a>. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+<p>Entender os sinais, as fontes e os grupos de risco ajuda a tomar decisões mais seguras. Como a luz do dia também organiza o sono, veja <a href="/ritmo-circadiano/">o conteúdo sobre ritmo circadiano</a>. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>

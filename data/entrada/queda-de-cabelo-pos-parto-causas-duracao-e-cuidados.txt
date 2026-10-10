@@ -17,19 +17,22 @@ FOTO2_SECAO: 4
 <p>A queda de cabelo pós-parto é uma das queixas mais comuns no primeiro ano depois do nascimento de um bebê. Muitas mulheres notam mais fios no banho, na escova e no travesseiro, geralmente alguns meses após o parto. Embora assuste, esse processo costuma ser temporário e tem explicação hormonal. Entender por que ele acontece, quanto tempo pode durar e quais cuidados ajudam traz mais tranquilidade para a rotina.</p>
 
 <h2>Por que a queda acontece depois do parto</h2>
-<p>Durante a gravidez, os níveis de estrogênio aumentam e reduzem a velocidade com que os fios caem. Por isso, muitas gestantes percebem o cabelo mais volumoso e com menos queda. Depois do parto, esses hormônios voltam a níveis mais próximos do habitual, e os fios que estavam em fase de crescimento passam para a fase de repouso ao mesmo tempo.</p>
+<p>Durante a gravidez, os níveis de estrogênio aumentam e reduzem a velocidade com que os fios caem. Por isso, muitas gestantes percebem o cabelo mais volumoso e com menos queda.</p>
+<p>Depois do parto, esses hormônios voltam a níveis mais próximos do habitual, e os fios que estavam em fase de crescimento passam para a fase de repouso ao mesmo tempo.</p>
 <p>Esse movimento faz com que uma quantidade maior de fios caia em um período curto, o que costuma gerar a sensação de queda intensa. Trata-se de uma resposta natural do ciclo do cabelo, e não de um dano aos folículos.</p>
 <p>Além disso, o estresse físico do parto, a privação de sono e as mudanças de rotina podem contribuir para a intensidade da queda nesse período.</p>
 
 <h2>Queda de cabelo pós-parto: quanto tempo costuma durar</h2>
 <p>Em geral, a queda começa entre o segundo e o quarto mês após o parto e pode se estender por alguns meses. Em muitas mulheres, ela diminui gradualmente e o cabelo volta ao padrão anterior ao longo do primeiro ano, embora o processo varie bastante de uma pessoa para outra.</p>
-<p>Como os fios crescem devagar, a recuperação da densidade costuma ser visível após vários meses. Nas primeiras semanas, é comum que a queda pareça não parar, mesmo quando já está diminuindo, porque os fios que caíram são substituídos aos poucos e nem sempre aparecem de imediato no couro cabeludo. Por isso, a paciência é uma parte importante do processo, e a comparação com fotos de meses anteriores ajuda a perceber a melhora.</p>
+<p>Como os fios crescem devagar, a recuperação da densidade costuma ser visível após vários meses. Nas primeiras semanas, é comum que a queda pareça não parar, mesmo quando já está diminuindo, porque os fios que caíram são substituídos aos poucos e nem sempre aparecem de imediato no couro cabeludo.</p>
+<p>Por isso, a paciência é uma parte importante do processo, e a comparação com fotos de meses anteriores ajuda a perceber a melhora.</p>
 <p>Se a queda persistir por mais de um ano ou se houver falhas bem definidas, o caso merece avaliação, pois pode haver outra causa associada.</p>
 
 <h2>Mitos e verdades sobre a queda depois do parto</h2>
 <p>Um mito comum é achar que a queda pós-parto significa que o cabelo ficará definitivamente mais fino. Na prática, a maioria das mulheres recupera a densidade com o tempo, embora alguns fios possam ter aparência diferente durante a recuperação, com textura mais fina nas bordas e na região da testa.</p>
 <p>Outra crença é a de que cortar o cabelo curto resolve o problema. O corte pode dar a sensação de volume, mas não altera o ciclo dos fios. Já o uso de produtos com promessas de crescimento rápido costuma gerar frustração e gasto desnecessário.</p>
-<p>Também se fala que a amamentação sempre causa queda intensa. Na verdade, a queda acontece por causa das mudanças hormonais e do ciclo de crescimento dos fios, e não apenas pela amamentação. Ter uma rotina de cuidado e de alimentação adequada ajuda o organismo a atravessar esse período com mais conforto.</p>
+<p>Também se fala que a amamentação sempre causa queda intensa. Na verdade, a queda acontece por causa das mudanças hormonais e do ciclo de crescimento dos fios, e não apenas pela amamentação.</p>
+<p>Ter uma rotina de cuidado e de alimentação adequada ajuda o organismo a atravessar esse período com mais conforto.</p>
 
 <h2>Cuidados que ajudam no dia a dia</h2>
 <p>Alguns cuidados simples ajudam a reduzir a quebra e a proteger os fios. Penteados mais soltos, escova de cerdas macias e secagem com toalha sem fricção são medidas práticas. Evitar presilhas muito apertadas e o uso frequente de calor intenso também faz diferença.</p>
@@ -39,10 +42,12 @@ FOTO2_SECAO: 4
 <li>Prefira secagem em temperatura moderada.</li>
 <li>Mantenha o couro cabeludo limpo, sem excesso de produtos acumulados.</li>
 </ul>
-<p>Esses cuidados não impedem totalmente a queda, mas ajudam a manter os fios em melhor estado durante a recuperação. Uma rotina de banho mais curta, com água morna e sem esfregar o couro cabeludo, também ajuda a reduzir o atrito. Em dias de rotina corrida, prender o cabelo de forma frouxa já traz alívio para os fios mais frágeis.</p>
+<p>Esses cuidados não impedem totalmente a queda, mas ajudam a manter os fios em melhor estado durante a recuperação.</p>
+<p>Uma rotina de banho mais curta, com água morna e sem esfregar o couro cabeludo, também ajuda a reduzir o atrito. Em dias de rotina corrida, prender o cabelo de forma frouxa já traz alívio para os fios mais frágeis.</p>
 
 <h2>Alimentação, ferro e vitaminas</h2>
-<p>A amamentação aumenta a demanda de nutrientes, e uma alimentação variada é essencial para a mãe e para o bebê. Proteínas, vegetais, frutas, cereais integrais e fontes de ferro costumam compor uma base adequada. Quando há perda de sangue importante no parto, a reserva de ferro pode ficar baixa, e isso pode contribuir para a queda.</p>
+<p>A amamentação aumenta a demanda de nutrientes, e uma alimentação variada é essencial para a mãe e para o bebê. Proteínas, vegetais, frutas, cereais integrais e fontes de ferro costumam compor uma base adequada.</p>
+<p>Quando há perda de sangue importante no parto, a reserva de ferro pode ficar baixa, e isso pode contribuir para a queda.</p>
 <p>Por isso, o médico pode solicitar exames para avaliar ferro e outras vitaminas. Para conhecer os sinais de carência de ferro, vale ler sobre <a href="/ferro-baixo-sintomas/">ferro baixo</a>. Qualquer suplementação deve ser orientada, principalmente durante a amamentação.</p>
 <p>Também é importante não iniciar medicamentos sem avaliação, pois muitos deles exigem cuidados específicos na fase de amamentação. A orientação médica é indispensável nesse ponto.</p>
 <p>Refeições fracionadas, com lanches simples como frutas, iogurte natural e castanhas, ajudam a manter a energia nos dias de noites mal dormidas. Beber água ao longo do dia, sobretudo durante a amamentação, também faz parte do cuidado com o corpo e com os fios.</p>
@@ -51,7 +56,9 @@ FOTO2_SECAO: 4
 <h2>Sinais de que vale investigar</h2>
 <p>A queda pós-parto costuma ser difusa e temporária. Quando há sinais diferentes, como falhas em placas, coceira intensa, descamação, cansaço excessivo ou sintomas de alteração da tireoide, a investigação é importante. Nessas situações, a avaliação pode incluir exames de sangue e exame do couro cabeludo.</p>
 <p>Outro aspecto a observar é a vitamina D, cuja baixa pode se associar a cansaço e a queixas gerais. Para entender melhor esse quadro, veja o texto sobre <a href="/vitamina-d-baixa-sintomas/">vitamina D baixa</a>.</p>
-<p>Vale também observar se a queda vem acompanhada de outros sinais do pós-parto, como sangramentos fora do esperado, febre ou dor, pois esses casos exigem contato imediato com a equipe de saúde. Anotar quando a queda começou e como ela evolui ajuda o médico a diferenciar uma queda temporária de outro problema. Tirar fotos do cabelo no mesmo local e com a mesma luz, a cada mês, também facilita essa comparação, principalmente nos primeiros meses após o parto, quando tudo parece mudar muito depressa.</p>
+<p>Vale também observar se a queda vem acompanhada de outros sinais do pós-parto, como sangramentos fora do esperado, febre ou dor, pois esses casos exigem contato imediato com a equipe de saúde.</p>
+<p>Anotar quando a queda começou e como ela evolui ajuda o médico a diferenciar uma queda temporária de outro problema.</p>
+<p>Tirar fotos do cabelo no mesmo local e com a mesma luz, a cada mês, também facilita essa comparação, principalmente nos primeiros meses após o parto, quando tudo parece mudar muito depressa.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>A queda após o parto é definitiva?</strong><br>Em geral, não. Na maioria das mulheres, ela é temporária e o cabelo tende a recuperar a densidade ao longo do tempo.</p>

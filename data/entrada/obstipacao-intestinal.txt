@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: obstipação intestinal
-TITLE: Obstipação Intestinal: Causas, Sintomas e Cuidados
+TITLE: Obstipação Intestinal: Causas e Sintomas
 DESCRIPTION: Entenda o que é a obstipação intestinal, quais são as causas mais comuns, como cuidar do intestino no dia a dia e quando procurar um médico.
 FONTE: Ministério da Saúde | https://www.gov.br/saude
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
@@ -15,12 +15,13 @@ FOTO2_ALT: Mulher caminhando em um parque, atividade física que favorece o inte
 FOTO2_LEGENDA: A atividade física regular ajuda o trânsito intestinal.
 FOTO2_SECAO: 4
 ---
-<p>A obstipação intestinal, conhecida popularmente como prisão de ventre, é a dificuldade de evacuar com regularidade, com fezes endurecidas ou sensação de esvaziamento incompleto. Ela é muito comum e afeta pessoas de todas as idades, com maior frequência em mulheres e em idosos. Este texto explica as causas, os cuidados do dia a dia e os sinais de alerta.</p>
+<p>A obstipação intestinal, conhecida popularmente como prisão de ventre, é a dificuldade de evacuar com regularidade, com fezes endurecidas ou sensação de esvaziamento incompleto.</p>
+<p>Ela é muito comum e afeta pessoas de todas as idades, com maior frequência em mulheres e em idosos. Este texto explica as causas, os cuidados do dia a dia e os sinais de alerta.</p>
 
 <h2>O que caracteriza a obstipação intestinal</h2>
 <p>Não existe um número único de evacuações considerado normal. Em geral, fala-se em obstipação quando a pessoa evacua menos de três vezes por semana, com esforço, fezes duras ou sensação de bloqueio, por um período prolongado.</p>
 <p>O quadro pode ser crônico ou surgir de forma passageira, por mudanças na rotina, na alimentação ou no uso de remédios.</p>
-<p>Em ambos os casos, a avaliação ajuda a entender a origem. Para uma visão complementar sobre o tema do dia a dia, o artigo sobre <a href="/prisao-de-ventre/">prisão de ventre</a> descreve sinais e rotinas que costumam ser associados ao problema.</p>
+<p>Em ambos os casos, a avaliação ajuda a entender a origem. Para uma visão complementar, o artigo sobre a <a href="/sindrome-do-intestino-irritavel/">síndrome do intestino irritável</a> descreve sinais e rotinas que costumam ser associados a alterações do trânsito intestinal.</p>
 
 <p>Entender a origem ajuda a escolher a estratégia certa. Uma causa pouco lembrada é o hábito de usar o banheiro com pressa ou de forçar a evacuação, o que pode, com o tempo, enfraquecer o reflexo natural.</p>
 <p>Outra situação comum é a rotina de viagens e de trabalho, em que a pessoa deixa de beber água e de se movimentar, e o intestino sente o efeito em poucos dias.</p>

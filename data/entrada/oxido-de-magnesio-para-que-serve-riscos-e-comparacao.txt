@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: óxido de magnésio
-TITLE: Óxido de Magnésio: Para Que Serve, Riscos e Comparação
+TITLE: Óxido de Magnésio: Para Que Serve e Riscos
 DESCRIPTION: Entenda para que serve o óxido de magnésio, por que sua absorção costuma ser menor, quais riscos observar e como ele se compara a outras formas do mineral.
 FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
@@ -30,7 +30,7 @@ FOTO2_SECAO: 4
 <li><strong>Efeito laxante:</strong> pode ajudar em situações pontuais, mas o uso contínuo exige orientação.</li>
 <li><strong>Acidez estomacal:</strong> aparece em alguns produtos, mas a causa dos sintomas deve ser avaliada.</li>
 </ul>
-<p>Se a queixa principal é a dificuldade para evacuar, vale conhecer o texto sobre <a href="/prisao-de-ventre/">prisão de ventre</a>, que descreve causas e hábitos associados.</p>
+<p>Se a queixa principal é a dificuldade para evacuar, vale conhecer o texto sobre <a href="/sindrome-do-intestino-irritavel/">síndrome do intestino irritável</a>, que descreve causas e hábitos associados.</p>
 
 <p>Como o composto tem efeito laxante, a diarreia pode ser o sinal de que a dose ultrapassou a tolerância individual. Reduzir a quantidade ou suspender o uso é a conduta esperada nesse caso.</p>
 <p>Pessoas com colite, doença inflamatória intestinal ou outras condições do intestino devem evitar o uso sem orientação, pois a resposta pode ser imprevisível.</p>
@@ -51,7 +51,7 @@ FOTO2_SECAO: 4
 <h2>Óxido de magnésio versus outras formas</h2>
 <p>As formas de magnésio se diferenciam principalmente pela absorção, pela tolerância digestiva e pelo uso pretendido. Em termos gerais, formas orgânicas, como o citrato e o glicinato, costumam ser mais bem absorvidas e causam menos desconforto intestinal do que o óxido.</p>
 <p>Por outro lado, o óxido pode ser mais barato e é frequentemente usado com finalidade laxante. A escolha entre uma forma e outra deve considerar o objetivo, a tolerância e as condições de saúde, e não apenas o preço.</p>
-<p>Para entender o papel do mineral no corpo e sua presença na alimentação, leia o texto sobre <a href="/magnesio/">magnésio</a>.</p>
+<p>Para entender hábitos que ajudam o intestino além do mineral, leia o texto sobre <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a>.</p>
 
 <p>O rótulo de produtos com óxido de magnésio costuma informar a quantidade de magnésio elementar, que é a parte realmente disponível para o organismo. Comparar esse número entre produtos é mais útil do que olhar o peso total do composto.</p>
 <p>Também vale observar a presença de outros ingredientes, como cálcio, vitamina D ou antiácidos combinados, pois eles mudam o perfil de tolerância e de interação.</p>

@@ -18,7 +18,8 @@ FOTO2_SECAO: 4
 <p>A resistência insulínica acontece quando as células do corpo respondem menos ao hormônio insulina, que é responsável por levar a glicose do sangue para dentro delas. Para compensar, o pâncreas passa a produzir mais insulina, e isso pode durar anos sem sintomas evidentes. Entender o que é resistência insulínica, quais fatores favorecem esse quadro e como ele é investigado ajuda a agir cedo, quando as mudanças ainda são mais fáceis de reverter.</p>
 
 <h2>O que acontece no corpo na resistência insulínica</h2>
-<p>A insulina é produzida pelo pâncreas e atua como uma chave que permite a entrada de glicose nas células de músculos, fígado e gordura. Quando essas células ficam menos sensíveis ao hormônio, a glicose permanece mais tempo no sangue, e o pâncreas precisa liberar quantidades maiores de insulina para dar conta da demanda.</p>
+<p>A insulina é produzida pelo pâncreas e atua como uma chave que permite a entrada de glicose nas células de músculos, fígado e gordura.</p>
+<p>Quando essas células ficam menos sensíveis ao hormônio, a glicose permanece mais tempo no sangue, e o pâncreas precisa liberar quantidades maiores de insulina para dar conta da demanda.</p>
 <p>Esse excesso de insulina circulante tem efeitos sobre o metabolismo. Ele pode favorecer o acúmulo de gordura, aumentar a produção de gordura pelo fígado e alterar o colesterol e os triglicerídeos. Por isso, a resistência insulínica está ligada a um conjunto de alterações, muitas vezes chamado de síndrome metabólica.</p>
 <p>Com o passar do tempo, se o quadro não for controlado, a glicemia pode subir até os níveis que caracterizam o diabetes tipo 2. Por isso, identificar a condição cedo é uma das estratégias mais importantes de prevenção.</p>
 <p>Vale notar que a resistência insulínica pode existir mesmo com exames de glicose ainda dentro da faixa considerada normal. Essa é uma das razões pelas quais o médico avalia o conjunto de dados, e não apenas um resultado isolado, ao investigar o metabolismo de uma pessoa.</p>
@@ -32,7 +33,8 @@ FOTO2_SECAO: 4
 <li>Sono curto ou de má qualidade e estresse prolongado.</li>
 <li>Histórico familiar de diabetes ou de doenças cardiovasculares.</li>
 </ul>
-<p>Esses fatores costumam se somar. Quem tem mais de um deles merece atenção redobrada, mesmo sem sintomas claros. Em muitos casos, a combinação de sedentarismo com sono curto e alimentação pouco equilibrada cria um ciclo difícil de quebrar sozinho, o que reforça o valor de um plano construído com ajuda profissional.</p>
+<p>Esses fatores costumam se somar. Quem tem mais de um deles merece atenção redobrada, mesmo sem sintomas claros.</p>
+<p>Em muitos casos, a combinação de sedentarismo com sono curto e alimentação pouco equilibrada cria um ciclo difícil de quebrar sozinho, o que reforça o valor de um plano construído com ajuda profissional.</p>
 
 <h2>Sinais e formas de investigação</h2>
 <p>A resistência insulínica geralmente não causa sintomas específicos. Algumas pessoas notam manchas escuras em dobras do corpo, aumento do apetite, cansaço após refeições ricas em carboidratos e dificuldade para perder peso na região abdominal. Esses sinais não são exclusivos da condição e exigem avaliação.</p>

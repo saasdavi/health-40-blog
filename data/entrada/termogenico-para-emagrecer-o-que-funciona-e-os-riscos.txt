@@ -1,5 +1,5 @@
-PALAVRA_CHAVE: Termogênico para Emagrecer O Que Funciona e os Riscos
-TITLE: Termogênico para Emagrecer: O Que Funciona e os Riscos
+PALAVRA_CHAVE: termogênico para emagrecer
+TITLE: Termogênico para Emagrecer: Funciona e Riscos
 DESCRIPTION: Termogênico para emagrecer: o que a evidência mostra, quais riscos cardiovasculares e hepáticos existem e quando procurar orientação profissional.
 FONTE: Governo Federal | https://www.gov.br
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
@@ -34,7 +34,7 @@ FOTO2_SECAO: 4
 
 <p>Em muitos casos, o efeito estimulante é o único que aparece de forma clara. A sensação de energia pode ser maior que qualquer ganho metabólico real.</p>
 
-<p>Para entender o contexto de quem busca emagrecer sem atalhos, veja <a href="/emagrecimento-saudavel/">o guia sobre emagrecimento saudável</a>.</p>
+<p>Para entender o contexto de quem busca emagrecer sem atalhos, veja <a href="/o-que-e-gordura-visceral/">o guia sobre gordura visceral</a>.</p>
 
 <h2>O que a evidência científica mostra</h2>
 
@@ -62,7 +62,7 @@ FOTO2_SECAO: 4
 <li>Insônia persistente e crises de ansiedade devem ser comunicadas ao profissional.</li>
 </ul>
 
-<p>Quem já convive com pressão alta pode conferir <a href="/pressao-alta-sintomas/">os sinais de pressão alta</a> e levar qualquer uso de estimulantes à consulta.</p>
+<p>Quem acompanha o colesterol pode conferir <a href="/colesterol-depois-dos-40/">o conteúdo sobre colesterol depois dos 40</a> e levar qualquer uso de estimulantes à consulta.</p>
 
 <h2>Riscos do fígado e das combinações de ingredientes</h2>
 

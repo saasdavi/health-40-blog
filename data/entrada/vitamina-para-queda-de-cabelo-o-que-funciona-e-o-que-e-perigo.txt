@@ -50,7 +50,7 @@ FOTO2_SECAO: 4
 
 <p>Mulheres com sangramentos intensos e pessoas que doam sangue com frequência também devem discutir esse ponto com o médico.</p>
 
-<p>Para entender melhor esse nutriente e as fontes na alimentação, veja <a href="/ferro-baixo-sintomas/">os sinais de ferro baixo</a>, que explica quando a suspeita faz sentido.</p>
+<p>Para entender melhor esse nutriente e as fontes na alimentação, veja <a href="/alimentos-ricos-em-ferro/">a lista de alimentos ricos em ferro</a>, que ajuda a planejar a dieta.</p>
 
 <h2>Biotina, zinco e vitamina D: o que a evidência mostra</h2>
 
@@ -62,7 +62,7 @@ FOTO2_SECAO: 4
 
 <p>Quem tem queda acompanhada de alterações na pele ou nas unhas deve comentar esses sinais na consulta, porque eles ajudam a direcionar a investigação.</p>
 
-<p>Para entender melhor o papel da biotina e os limites dessa relação, leia <a href="/biotina/">o conteúdo sobre biotina</a>, que explica usos e cuidados com a suplementação.</p>
+<p>Para entender melhor o papel da biotina e os limites dessa relação, leia <a href="/queda-de-cabelo/">o guia sobre queda de cabelo</a>, que explica causas e cuidados antes de qualquer suplementação.</p>
 
 <h2>Excesso de vitaminas também faz mal ao cabelo</h2>
 

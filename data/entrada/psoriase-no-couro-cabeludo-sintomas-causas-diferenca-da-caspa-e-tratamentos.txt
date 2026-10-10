@@ -17,8 +17,10 @@ FOTO2_SECAO: 4
 <p>A psoríase no couro cabeludo é uma forma da doença inflamatória crônica da pele que aparece na região do cabelo. Ela pode causar placas avermelhadas, escamas espessas e coceira, o que costuma gerar dúvidas sobre a diferença em relação à caspa. Conhecer os sinais, entender o que pode favorecer as crises e saber quando procurar avaliação ajuda a cuidar melhor dessa condição.</p>
 
 <h2>O que é a psoríase no couro cabeludo</h2>
-<p>A psoríase é uma doença de origem imunológica, em que o sistema de defesa acelera a renovação das células da pele. Como resultado, as células se acumulam na superfície antes da hora, formando placas e escamas. No couro cabeludo, essa renovação acelerada pode ser bem visível, principalmente nas áreas com mais pelos.</p>
-<p>A condição é crônica, ou seja, costuma ter períodos de melhora e de piora. Em alguns momentos, a doença fica quase imperceptível; em outros, pode incomodar bastante e afetar o sono, a autoestima e o convívio social. Por isso, o objetivo do acompanhamento costuma ser controlar os sintomas e melhorar a qualidade de vida, e não apenas eliminar as placas de uma vez.</p>
+<p>A psoríase é uma doença de origem imunológica, em que o sistema de defesa acelera a renovação das células da pele.</p>
+<p>Como resultado, as células se acumulam na superfície antes da hora, formando placas e escamas. No couro cabeludo, essa renovação acelerada pode ser bem visível, principalmente nas áreas com mais pelos.</p>
+<p>A condição é crônica, ou seja, costuma ter períodos de melhora e de piora. Em alguns momentos, a doença fica quase imperceptível; em outros, pode incomodar bastante e afetar o sono, a autoestima e o convívio social.</p>
+<p>Por isso, o objetivo do acompanhamento costuma ser controlar os sintomas e melhorar a qualidade de vida, e não apenas eliminar as placas de uma vez.</p>
 <p>Além do couro cabeludo, a psoríase pode atingir cotovelos, joelhos, região lombar e unhas. Quem tem a doença em outras áreas deve comentar isso com o médico, pois a avaliação costuma ser global.</p>
 
 <h2>Sintomas mais comuns no couro cabeludo</h2>
@@ -29,11 +31,14 @@ FOTO2_SECAO: 4
 <li>Ardência ou sensação de repuxamento na pele.</li>
 <li>Queda de escamas sobre os ombros, o que costuma chamar atenção.</li>
 </ul>
-<p>Esses sintomas são comuns a vários quadros, e a história clínica, o aspecto das lesões e o acompanhamento ao longo do tempo ajudam a separar uma condição da outra. Esses sintomas não são exclusivos da psoríase. Outras condições da pele também podem causar descamação e vermelhidão, e por isso a avaliação de um dermatologista é importante.</p>
+<p>Esses sintomas são comuns a vários quadros, e a história clínica, o aspecto das lesões e o acompanhamento ao longo do tempo ajudam a separar uma condição da outra.</p>
+<p>Esses sintomas não são exclusivos da psoríase. Outras condições da pele também podem causar descamação e vermelhidão, e por isso a avaliação de um dermatologista é importante.</p>
 
 <h2>Diferença entre psoríase e caspa</h2>
-<p>A caspa é uma descamação mais fina e oleosa, geralmente ligada ao fungo que vive naturalmente na pele, e costuma responder bem a xampus específicos. Já a psoríase forma placas mais espessas, com bordas bem marcadas, escamas secas e aderidas ao couro cabeludo, e tende a não melhorar apenas com xampus comuns.</p>
-<p>Outra diferença é a reação ao tratamento. A caspa melhora com higiene e produtos antifúngicos em muitos casos, enquanto a psoríase exige abordagem específica, com avaliação médica. Também é comum que a psoríase cause vermelhidão mais intensa e sinais em outras partes do corpo, como unhas com pequenas cavidades ou lesões em cotovelos e joelhos.</p>
+<p>A caspa é uma descamação mais fina e oleosa, geralmente ligada ao fungo que vive naturalmente na pele, e costuma responder bem a xampus específicos.</p>
+<p>Já a psoríase forma placas mais espessas, com bordas bem marcadas, escamas secas e aderidas ao couro cabeludo, e tende a não melhorar apenas com xampus comuns.</p>
+<p>Outra diferença é a reação ao tratamento. A caspa melhora com higiene e produtos antifúngicos em muitos casos, enquanto a psoríase exige abordagem específica, com avaliação médica.</p>
+<p>Também é comum que a psoríase cause vermelhidão mais intensa e sinais em outras partes do corpo, como unhas com pequenas cavidades ou lesões em cotovelos e joelhos.</p>
 <p>Como as duas situações podem se parecer, a dica é observar a evolução por algumas semanas e levar o caso ao dermatologista se a descamação persistir, se houver placas bem definidas ou se o incômodo aumentar.</p>
 <p>Um detalhe útil para a conversa com o médico é anotar quando a descamação começou, se ela piora em certas épocas do ano e quais produtos foram usados nas últimas semanas. Essas informações ajudam o especialista a entender o padrão das crises e a escolher a investigação mais adequada.</p>
 <p>Fotos do couro cabeludo tiradas em diferentes momentos também podem ajudar, desde que sejam apenas um registro para a consulta. Elas não substituem o exame clínico, que é feito pelo profissional com a pele e o cabelo à vista.</p>
@@ -44,14 +49,17 @@ FOTO2_SECAO: 4
 <p>Alguns medicamentos devem ser revisados pelo médico, sobretudo quando iniciados recentemente. A decisão de alterar qualquer remédio cabe ao profissional que acompanha o caso, e nunca deve ser tomada por conta própria.</p>
 
 <h2>Cuidados diários que ajudam no conforto</h2>
-<p>Enquanto a avaliação médica não acontece, alguns cuidados podem reduzir o desconforto. Vale evitar pentes de metal e escovas muito duras, que podem arranhar a pele e aumentar a irritação. Na hora de secar, o secador deve ficar a uma distância segura e em temperatura moderada, pois o calor excessivo resseca o couro cabeludo. Lavar o cabelo com xampu suave, evitar coçar e secar o couro cabeludo com toques leves são medidas simples. Manter o cabelo bem hidratado, sem excesso de produtos que irritem a pele, também ajuda.</p>
+<p>Enquanto a avaliação médica não acontece, alguns cuidados podem reduzir o desconforto. Vale evitar pentes de metal e escovas muito duras, que podem arranhar a pele e aumentar a irritação.</p>
+<p>Na hora de secar, o secador deve ficar a uma distância segura e em temperatura moderada, pois o calor excessivo resseca o couro cabeludo.</p>
+<p>Lavar o cabelo com xampu suave, evitar coçar e secar o couro cabeludo com toques leves são medidas simples. Manter o cabelo bem hidratado, sem excesso de produtos que irritem a pele, também ajuda.</p>
 <p>É importante não usar produtos agressivos, como alcoóis concentrados ou tinturas aplicadas sobre lesões abertas, sem orientação. Cada tratamento tem indicação própria, e a escolha deve ser feita com um profissional.</p>
 <p>Para entender melhor como outros problemas do couro cabeludo se manifestam, vale ler sobre <a href="/dermatite-de-contato/">dermatite de contato</a>, que também causa vermelhidão e coceira na região.</p>
 
 <h2>Quando a psoríase pode afetar a rotina e a saúde</h2>
 <p>Além dos sintomas na pele, a psoríase pode impactar o bem-estar emocional. Muitas pessoas relatam vergonha, ansiedade e sensação de isolamento, especialmente quando as escamas ficam visíveis. Esses aspectos merecem ser discutidos com o médico, que pode indicar apoio adicional.</p>
 <p>A doença também pode se associar a outras condições, por isso a avaliação deve considerar o quadro geral. Quem tem psoríase deve manter o acompanhamento regular, mesmo nos períodos de melhora.</p>
-<p>Outro aspecto a considerar é a rotina de trabalho e de sono. Jornadas longas, noites mal dormidas e períodos de pressão costumam coincidir com crises de coceira e descamação. Pequenos ajustes, como pausas durante o dia e horários de dormir mais regulares, podem facilitar o manejo da condição junto com o tratamento indicado pelo médico.</p>
+<p>Outro aspecto a considerar é a rotina de trabalho e de sono. Jornadas longas, noites mal dormidas e períodos de pressão costumam coincidir com crises de coceira e descamação.</p>
+<p>Pequenos ajustes, como pausas durante o dia e horários de dormir mais regulares, podem facilitar o manejo da condição junto com o tratamento indicado pelo médico.</p>
 <p>Com o tempo, a queixa de queda de cabelo pode surgir, seja pela inflamação, seja pelo coçar e pelas lesões. Sobre esse ponto, vale conhecer o tema de <a href="/queda-de-cabelo/">queda de cabelo</a> e a importância de investigar a causa.</p>
 
 <h2>Perguntas frequentes</h2>

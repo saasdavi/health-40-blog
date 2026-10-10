@@ -1,4 +1,4 @@
-PALAVRA_CHAVE: Vitaminas para Queda de Cabelo Guia Completo
+PALAVRA_CHAVE: vitaminas para queda de cabelo
 TITLE: Vitaminas para Queda de Cabelo: Guia Completo
 DESCRIPTION: Vitaminas para queda de cabelo: guia completo sobre os nutrientes que importam, sinais de carência, riscos do excesso e quando procurar um dermatologista.
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
@@ -106,7 +106,7 @@ FOTO2_SECAO: 4
 
 <p>Procure um dermatologista se a queda for intensa, rápida, em placas, acompanhada de coceira, dor ou descamação. Esses sinais podem indicar condições que exigem tratamento próprio e não se resolvem com vitaminas. Não espere meses para buscar avaliação se a queda estiver avançando.</p>
 
-<p>Também vale a consulta se houver cansaço persistente, alterações menstruais, mudanças de peso ou sinais de tireoide. Nesses casos, a avaliação conjunta com outros profissionais costuma ser necessária. Para revisar sinais de carência de vitamina D, <a href="/vitamina-d-baixa-sintomas/">o conteúdo sobre vitamina D baixa</a> é um bom ponto de partida.</p>
+<p>Também vale a consulta se houver cansaço persistente, alterações menstruais, mudanças de peso ou sinais de tireoide. Nesses casos, a avaliação conjunta com outros profissionais costuma ser necessária. Para entender o papel do estresse, <a href="/cortisol-alto/">o conteúdo sobre cortisol alto</a> é um bom ponto de partida.</p>
 
 <h2>Resumindo</h2>
 
