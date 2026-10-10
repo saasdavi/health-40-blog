@@ -481,7 +481,7 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
   }
 
   // ---------- 5. imagem ----------
-  // ---------- 5. imagens (Pexels + Pixabay) ----------
+  // ---------- 5. imagens (Pexels + Pixabay + Unsplash) ----------
   async buscarFoto(busca, preferir, usadas, pexelsId) {
     if (pexelsId && process.env.PEXEL_API_KEY) {
       const r = await fetch(`https://api.pexels.com/v1/photos/${pexelsId}`, { headers: { Authorization: process.env.PEXEL_API_KEY } });
@@ -506,7 +506,20 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
       if (!f) return null;
       return { id: `pixabay:${f.id}`, url: f.largeImageURL, width: 1280, height: Math.round(1280 * f.imageHeight / f.imageWidth), credit: { author: f.user, source: 'Pixabay', url: f.pageURL, license: 'Licença Pixabay', licenseUrl: 'https://pixabay.com/service/license-summary/' } };
     };
-    const ordem = preferir === 'pixabay' ? [pixabay, pexels] : [pexels, pixabay];
+    // Unsplash (reserva): exige hotlink, crédito com UTM e aviso de download (regras da API deles)
+    const unsplash = async () => {
+      if (!process.env.UNSPLASH_ACCESS_KEY) return null;
+      const h = { Authorization: `Client-ID ${process.env.UNSPLASH_ACCESS_KEY}`, 'Accept-Version': 'v1' };
+      const r = await fetch(`https://api.unsplash.com/search/photos?query=${encodeURIComponent(busca)}&per_page=20&orientation=landscape&content_filter=high`, { headers: h });
+      if (!r.ok) throw new Error(`Unsplash ${r.status}`);
+      const j = await r.json();
+      const f = (j.results || []).find(x => !usadas.has(`unsplash:${x.id}`));
+      if (!f) return null;
+      if (f.links?.download_location) fetch(f.links.download_location, { headers: h }).catch(() => {});
+      const utm = '?utm_source=40maisblog&utm_medium=referral';
+      return { id: `unsplash:${f.id}`, url: f.urls.regular, width: 1080, height: Math.round(1080 * f.height / f.width), credit: { author: f.user.name, source: 'Unsplash', url: `${f.user.links.html}${utm}`, license: 'Licença Unsplash', licenseUrl: 'https://unsplash.com/license' } };
+    };
+    const ordem = preferir === 'pixabay' ? [pixabay, pexels, unsplash] : [pexels, pixabay, unsplash];
     for (const t of ordem) {
       try { const f = await t(); if (f) return f; } catch (e) { console.log(`  ⚠️  ${e.message}`); }
     }
@@ -514,6 +527,7 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
   }
 
   async baixar(foto, slug, nome) {
+    if (foto.credit?.source === 'Unsplash') return foto.url; // Unsplash exige hotlink (não guardar cópia)
     const r = await fetch(foto.url);
     if (!r.ok) throw new Error(`download ${r.status}`);
     const dir = path.join(__dirname, '../public/images', slug);
@@ -544,9 +558,9 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
   }
 
   async imagem(a) {
-    if (!process.env.PEXEL_API_KEY && !process.env.PIXABAY_API_KEY) {
+    if (!process.env.PEXEL_API_KEY && !process.env.PIXABAY_API_KEY && !process.env.UNSPLASH_ACCESS_KEY) {
       if (process.env.ALLOW_NO_IMAGE) { console.log('  ⚠️  sem chaves de imagem (ALLOW_NO_IMAGE=1, só teste)'); return true; }
-      console.log('  ⛔ sem PEXEL_API_KEY/PIXABAY_API_KEY: regra "todo artigo sobe com imagem"'); return false;
+      console.log('  ⛔ sem PEXEL_API_KEY/PIXABAY_API_KEY/UNSPLASH_ACCESS_KEY: regra "todo artigo sobe com imagem"'); return false;
     }
     const usadas = new Set(this.db.articles.flatMap(x => x.imageIds || []));
     const ids = [];
