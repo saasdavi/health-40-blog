@@ -1,20 +1,15 @@
-# Candidatas mais fáceis de ranquear (2026-10-05)
+# Candidatas mais fáceis de ranquear (2026-10-10)
 
 Critério (proxy): volume exato 1.000–25.000/mês, concorrência de anúncios BAIXA, frase de 3+ palavras, sem marca/produto/local, sem artigo no blog, tendência não caindo. **Isto é uma pista, não prova**: a facilidade real só se confirma olhando o topo do Google (autoridades, lojas, tamanho dos concorrentes). Confirmar as escolhidas antes de escrever.
 
-## Saúde geral (57)
+## Saúde geral (41)
 
 - pé de atleta — 22.200
 - arroz tem gluten — 18.100
 - gengibre para que serve — 14.800
 - iodo para que serve — 12.100
-- melatonina efeitos colaterais — 9.900
 - finasterida efeitos colaterais — 8.100
-- minoxidil como usar — 8.100 ⚠
 - benefícios da babosa — 8.100
-- creatina efeitos colaterais — 8.100
-- maca peruana efeitos colaterais — 8.100
-- efeitos colaterais do minoxidil — 6.600 ⚠
 - picolinato de cromo efeitos colaterais — 6.600
 - vinagre de maçã para que serve — 6.600
 - dht o que é — 5.400
@@ -32,7 +27,6 @@ Critério (proxy): volume exato 1.000–25.000/mês, concorrência de anúncios 
 - gordura visceral ideal — 2.900
 - almoço de pascoa — 2.900
 - lanchonetes abertas agora — 2.900
-- biotina efeitos colaterais — 2.900
 - same para que serve — 2.900
 - nutricionista ou nutrologo — 2.400
 - psoríase em placas — 2.400
@@ -40,7 +34,6 @@ Critério (proxy): volume exato 1.000–25.000/mês, concorrência de anúncios 
 - berberina efeitos colaterais — 2.400
 - nutricionista e nutrologo — 1.900
 - frutas para aumentar a imunidade — 1.900
-- minoxidil quanto tempo para fazer efeito — 1.900 ⚠
 - casca de laranja — 1.900
 - taco tabela nutricional — 1.600
 - ácido fólico efeitos colaterais — 1.600
@@ -49,20 +42,16 @@ Critério (proxy): volume exato 1.000–25.000/mês, concorrência de anúncios 
 - saw palmetto efeitos colaterais — 1.600
 - compulsão o que é — 1.300
 - gasto calorico basal — 1.300
-- tabela nutricional online — 1.300 ↑
-- magnésio dimalato efeitos colaterais — 1.300
-- beta alanina efeitos colaterais — 1.300
-- fome no mundo — 1.000
-- compulsao alimentar o que é — 1.000
+- acordar com falta de ar — 1.000
+- valeriana efeitos colaterais — 1.000
+- silimarina efeitos colaterais — 1.000
 
-## Cabelo (33)
+## Cabelo (23)
 
-- psoríase no couro cabeludo — 18.100 ↑
 - hidratação caseira para cabelo — 12.100
 - lavar o cabelo todo dia faz mal — 8.100
 - foliculite no couro cabeludo — 8.100
 - alopecia frontal fibrosante — 6.600
-- babosa no cabelo como usar — 6.600
 - feridas no couro cabeludo — 6.600
 - caspa o que é — 3.600
 - alopecia por tração — 3.600 ↑
@@ -77,21 +66,13 @@ Critério (proxy): volume exato 1.000–25.000/mês, concorrência de anúncios 
 - tipos de alopecia — 1.900
 - alopecia de tração — 1.600 ↑
 - como usar óleo de alecrim no cabelo — 1.600
-- cebola para cabelo — 1.300 ↑
-- bolinhas no couro cabeludo — 1.300
 - cabelo caindo o que pode ser — 1.300
-- alopecia na barba — 1.300
-- alopecia areata causas — 1.300
-- como lavar o cabelo corretamente — 1.300
-- alopecia areata causa — 1.300
 - alopecia em mulher — 1.300
 - azeite para cabelo — 1.000
-- cisto no couro cabeludo — 1.000
-- alopecia por estresse — 1.000
 - a babosa serve para o cabelo — 1.000
 - alecrim benefícios para o cabelo — 1.000
 
-## Alimentação e peso (24)
+## Alimentação e peso (21)
 
 - compulsão por alimentos — 22.200
 - peso ideal por altura — 9.900
@@ -103,8 +84,6 @@ Critério (proxy): volume exato 1.000–25.000/mês, concorrência de anúncios 
 - vitamina b1 para que serve — 5.400
 - frutas com vitamina c — 3.600
 - peso ideal para cada altura — 3.600
-- vitamina b12 efeitos colaterais — 3.600
-- dieta para colesterol alto — 3.600
 - fazer caminhada emagrece — 2.900
 - lanche de metro — 2.900
 - frutas ricas em vitamina c — 2.900
@@ -116,23 +95,6 @@ Critério (proxy): volume exato 1.000–25.000/mês, concorrência de anúncios 
 - frutas vitamina c — 1.600
 - alimentos que não contem gluten — 1.600
 - frutas que tem vitamina c — 1.300
-- academia para emagrecer — 1.000
-
-## Pele (13)
-
-- dermatite de contato alérgica — 9.900
-- bolinhas na pele — 8.100
-- ressecamento da pele — 8.100
-- hiperpigmentação pós inflamatória — 5.400
-- dermatite de fralda — 5.400
-- coceira na pele — 4.400
-- alergia de pele — 4.400
-- descamação da pele — 3.600
-- fototipos de pele — 3.600
-- flacidez da pele — 1.600
-- ph da pele — 1.300
-- vasinhos no rosto — 1.000
-- melasma na gravidez — 1.000
 
 ## Sono (9)
 
@@ -146,22 +108,24 @@ Critério (proxy): volume exato 1.000–25.000/mês, concorrência de anúncios 
 - relaxamento para dormir — 2.400
 - o que comer antes de dormir — 1.000
 
-## Coração e colesterol (7)
+## Pele (9)
+
+- bolinhas na pele — 8.100
+- ressecamento da pele — 8.100
+- hiperpigmentação pós inflamatória — 5.400
+- dermatite de fralda — 5.400
+- coceira na pele — 4.400
+- alergia de pele — 4.400
+- descamação da pele — 3.600
+- fototipos de pele — 3.600
+- flacidez da pele — 1.600
+
+## Coração e colesterol (4)
 
 - pressão 14 por 9 — 18.100
 - chá para pressão alta — 14.800
 - o que é colesterol — 12.100
-- pressão alta o que fazer — 12.100
-- chá para colesterol — 4.400
-- colesterol bom como aumentar — 2.400
 - acordar com o coração acelerado — 1.600
-
-## Mente e memória (4)
-
-- chá para dor de cabeça — 14.800
-- chás para dor de cabeça — 14.800
-- dor de cabeça ao acordar — 14.800
-- chá para dor de cabeça forte — 1.600
 
 ## Digestão e fígado (4)
 
@@ -170,11 +134,9 @@ Critério (proxy): volume exato 1.000–25.000/mês, concorrência de anúncios 
 - gordura na barriga — 1.900
 - intestino preguiçoso sintomas — 1.600
 
-## Mulher e menopausa (1)
+## Mente e memória (3)
 
-- com quantos anos a mulher entra na menopausa — 16.300
-
-## Próstata e vias urinárias (1)
-
-- taurina efeitos colaterais — 1.300
+- chá para dor de cabeça — 14.800
+- dor de cabeça ao acordar — 14.800
+- chá para dor de cabeça forte — 1.600
 

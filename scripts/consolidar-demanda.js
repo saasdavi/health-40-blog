@@ -25,6 +25,13 @@ for (const f of fs.readdirSync(path.join(raiz, 'data/pesquisa/validadas')).filte
 }
 for (const f of ['pele', 'sono', 'suplementos']) for (const r of ler(`data/pesquisa/${f}-volumes.json`, [])) add(r.k, r.v, r.c, null, `${f}-volumes.json`);
 for (const r of ler('data/pesquisa/queda-de-cabelo-ideias-hypd.json', [])) add(r.k, r.v, r.c, null, 'queda-de-cabelo-ideias-hypd.json');
+// Planilhas do Planejador de Palavras-chave já no repositório (data/conteudo): palavra-chave + long tails com volume.
+const csv = (f) => { try { const [h, ...ls] = fs.readFileSync(path.join(raiz, f), 'utf8').replace(/^\uFEFF/, '').split(/\r?\n/).filter(Boolean); const cols = h.split(';').map((c) => c.replace(/"/g, '')); return ls.map((l) => { const v = l.split(';').map((c) => c.replace(/^"|"$/g, '')); return Object.fromEntries(cols.map((c, i) => [c, v[i]])); }); } catch { return []; } };
+for (const r of csv('data/conteudo/pautas-mestre.csv')) {
+  const v = parseInt(r.buscas_mes_exato, 10); if (!isNaN(v)) add(r.palavra_chave, v, r.concorrencia_ads, r.tendencia, 'conteudo/pautas-mestre.csv');
+  for (const m of String(r.long_tails_com_volume || '').split(' | ')) { const x = m.match(/^(.*) \((\d+)\)$/); if (x) add(x[1], parseInt(x[2], 10), null, null, 'conteudo/pautas-mestre.csv (long tail)'); }
+}
+for (const r of csv('data/conteudo/calendario-12-meses.csv')) { const v = parseInt(r.buscas_mes_cabeca, 10); if (!isNaN(v) && r.palavra_chave) add(r.palavra_chave, v, null, null, 'conteudo/calendario-12-meses.csv'); }
 const kv = ler('data/keywords-validated.json', []); for (const k of kv.keywords || kv) add(k.keyword, k.volume, k.competition, null, 'keywords-validated.json');
 fs.writeFileSync(path.join(raiz, 'data/pesquisa/demanda-validada.json'), JSON.stringify({ gerado: new Date().toISOString().slice(0, 10), total: Object.keys(itens).length, itens }, null, 0));
 

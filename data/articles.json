@@ -3382,7 +3382,23 @@
       "status": "draft",
       "createdAt": "2026-10-04T16:54:15.421Z",
       "scores": {
-        "auditoria": 84
+        "auditoria": 84,
+        "total": 90,
+        "decisao": "PUBLICAR",
+        "partes": {
+          "qualidade": 84,
+          "demanda": 100,
+          "fontes": 80,
+          "originalidade": 100,
+          "formato": 90,
+          "seguranca": 100
+        },
+        "atencao": [
+          "só 1 fonte(s) oficial(is) de 6 (ideal 2+)",
+          "ajuste: 1º parágrafo com 60 palavras (máx 50)",
+          "ajuste: 1 parágrafos > 50 palavras",
+          "ajuste: densidade da keyword 3.4% (máx 3%): varie com sinônimos e pronomes"
+        ]
       },
       "validador": "APROVADO",
       "featuredImage": "/images/prisao-de-ventre/prisao-de-ventre-capa.jpg",
@@ -4112,7 +4128,22 @@
       "status": "draft",
       "createdAt": "2026-10-04T17:00:01.479Z",
       "scores": {
-        "auditoria": 83
+        "auditoria": 83,
+        "total": 93,
+        "decisao": "PUBLICAR",
+        "partes": {
+          "qualidade": 83,
+          "demanda": 100,
+          "fontes": 100,
+          "originalidade": 100,
+          "formato": 90,
+          "seguranca": 100
+        },
+        "atencao": [
+          "ajuste: title 68 chars com sufixo (máx 60)",
+          "ajuste: 1º parágrafo com 55 palavras (máx 50)",
+          "ajuste: 3 parágrafos > 50 palavras"
+        ]
       },
       "validador": "APROVADO",
       "featuredImage": "/images/moscas-volantes/moscas-volantes-capa.jpg",
@@ -6186,7 +6217,22 @@
       "status": "draft",
       "createdAt": "2026-10-04T18:01:12.126Z",
       "scores": {
-        "auditoria": 87
+        "auditoria": 87,
+        "total": 92,
+        "decisao": "PUBLICAR",
+        "partes": {
+          "qualidade": 87,
+          "demanda": 100,
+          "fontes": 80,
+          "originalidade": 100,
+          "formato": 100,
+          "seguranca": 100
+        },
+        "atencao": [
+          "só 1 fonte(s) oficial(is) de 4 (ideal 2+)",
+          "ajuste: title 75 chars com sufixo (máx 60)",
+          "ajuste: 5 parágrafos > 50 palavras"
+        ]
       },
       "validador": "APROVADO",
       "featuredImage": "/images/cabelos-brancos/cabelos-brancos-capa.jpg",
@@ -7898,7 +7944,20 @@
       "status": "draft",
       "createdAt": "2026-10-04T18:19:37.147Z",
       "scores": {
-        "auditoria": 95
+        "auditoria": 95,
+        "total": 93,
+        "decisao": "PUBLICAR",
+        "partes": {
+          "qualidade": 95,
+          "demanda": 80,
+          "fontes": 100,
+          "originalidade": 100,
+          "formato": 90,
+          "seguranca": 100
+        },
+        "atencao": [
+          "ajuste: title 68 chars com sufixo (máx 60)"
+        ]
       },
       "validador": "APROVADO",
       "featuredImage": "/images/ferro-baixo-sintomas/ferro-baixo-sintomas-capa.jpg",
@@ -8603,7 +8662,20 @@
       "estoque": true,
       "estocadoEm": "2026-10-04T19:06:03.556Z",
       "scores": {
-        "auditoria": 98
+        "auditoria": 98,
+        "total": 98,
+        "decisao": "PUBLICAR",
+        "partes": {
+          "qualidade": 98,
+          "demanda": 100,
+          "fontes": 100,
+          "originalidade": 100,
+          "formato": 90,
+          "seguranca": 100
+        },
+        "atencao": [
+          "ajuste: 1 parágrafos > 50 palavras"
+        ]
       },
       "validador": "Auditoria automática (sem API); texto escrito fora do robô",
       "origem": "importado",
@@ -8778,7 +8850,21 @@
       "estoque": true,
       "estocadoEm": "2026-10-04T19:18:21.347Z",
       "scores": {
-        "auditoria": 96
+        "auditoria": 96,
+        "total": 95,
+        "decisao": "SEGURAR (corrigir)",
+        "partes": {
+          "qualidade": 96,
+          "demanda": 100,
+          "fontes": 100,
+          "originalidade": 100,
+          "formato": 90,
+          "seguranca": 40
+        },
+        "atencao": [
+          "tema sensível sem REVISADO: sim",
+          "ajuste: 2 parágrafos > 50 palavras"
+        ]
       },
       "validador": "Auditoria automática (sem API); texto escrito fora do robô",
       "origem": "importado",
@@ -8986,7 +9072,22 @@
       "estoque": true,
       "estocadoEm": "2026-10-04T19:35:50.569Z",
       "scores": {
-        "auditoria": 96
+        "auditoria": 96,
+        "total": 93,
+        "decisao": "SEGURAR (corrigir)",
+        "partes": {
+          "qualidade": 96,
+          "demanda": 100,
+          "fontes": 100,
+          "originalidade": 100,
+          "formato": 70,
+          "seguranca": 40
+        },
+        "atencao": [
+          "1042 palavras (ideal 1.200+)",
+          "tema sensível sem REVISADO: sim",
+          "ajuste: 1042 palavras (ideal ≥ 1200)"
+        ]
       },
       "validador": "Auditoria automática (sem API); texto escrito fora do robô",
       "origem": "importado",
@@ -9189,7 +9290,23 @@
       "estoque": true,
       "estocadoEm": "2026-10-04T20:10:41.686Z",
       "scores": {
-        "auditoria": 94
+        "auditoria": 94,
+        "total": 92,
+        "decisao": "SEGURAR (corrigir)",
+        "partes": {
+          "qualidade": 94,
+          "demanda": 100,
+          "fontes": 100,
+          "originalidade": 100,
+          "formato": 70,
+          "seguranca": 40
+        },
+        "atencao": [
+          "1144 palavras (ideal 1.200+)",
+          "tema sensível sem REVISADO: sim",
+          "ajuste: 1144 palavras (ideal ≥ 1200)",
+          "ajuste: 1 parágrafos > 50 palavras"
+        ]
       },
       "validador": "Auditoria automática (sem API); texto escrito fora do robô",
       "origem": "importado",
@@ -11841,17 +11958,19 @@
       "scores": {
         "auditoria": 100,
         "demanda": "alta",
-        "total": 100,
+        "total": 96,
         "decisao": "PUBLICAR",
         "partes": {
           "qualidade": 100,
           "demanda": 100,
           "fontes": 100,
-          "originalidade": 100,
+          "originalidade": 70,
           "formato": 100,
           "seguranca": 100
         },
-        "atencao": []
+        "atencao": [
+          "parecido com \"glicina\" (50%): risco de canibalização"
+        ]
       },
       "validador": "Auditoria automática (sem API); texto escrito fora do robô",
       "origem": "importado",
@@ -14284,17 +14403,18 @@
       "scores": {
         "auditoria": 100,
         "demanda": "alta",
-        "total": 96,
+        "total": 87,
         "decisao": "SEGURAR (corrigir)",
         "partes": {
           "qualidade": 100,
           "demanda": 100,
           "fontes": 100,
-          "originalidade": 100,
+          "originalidade": 40,
           "formato": 90,
           "seguranca": 40
         },
         "atencao": [
+          "parecido com \"minoxidil\" (67%): risco de canibalização",
           "tema sensível sem REVISADO: sim"
         ]
       },
@@ -17581,17 +17701,18 @@
       "scores": {
         "auditoria": 100,
         "demanda": "boa",
-        "total": 93,
+        "total": 89,
         "decisao": "SEGURAR (corrigir)",
         "partes": {
           "qualidade": 100,
           "demanda": 80,
           "fontes": 100,
-          "originalidade": 100,
+          "originalidade": 70,
           "formato": 100,
           "seguranca": 40
         },
         "atencao": [
+          "parecido com \"minoxidil spray\" (50%): risco de canibalização",
           "tema sensível sem REVISADO: sim"
         ]
       },
@@ -19553,17 +19674,19 @@
       "scores": {
         "auditoria": 100,
         "demanda": "boa",
-        "total": 90,
+        "total": 85,
         "decisao": "PUBLICAR",
         "partes": {
           "qualidade": 100,
           "demanda": 80,
           "fontes": 65,
-          "originalidade": 100,
+          "originalidade": 70,
           "formato": 90,
           "seguranca": 100
         },
-        "atencao": []
+        "atencao": [
+          "parecido com \"perder gordura e ganhar massa muscular\" (57%): risco de canibalização"
+        ]
       },
       "validador": "Auditoria automática (sem API); texto escrito fora do robô",
       "origem": "importado",
@@ -20271,17 +20394,19 @@
       "scores": {
         "auditoria": 100,
         "demanda": "alta",
-        "total": 99,
+        "total": 95,
         "decisao": "PUBLICAR",
         "partes": {
           "qualidade": 100,
           "demanda": 100,
           "fontes": 100,
-          "originalidade": 100,
+          "originalidade": 70,
           "formato": 90,
           "seguranca": 100
         },
-        "atencao": []
+        "atencao": [
+          "parecido com \"alopecia na barba\" (50%): risco de canibalização"
+        ]
       },
       "validador": "Auditoria automática (sem API); texto escrito fora do robô",
       "origem": "importado",
@@ -21706,17 +21831,19 @@
       "scores": {
         "auditoria": 100,
         "demanda": "alta",
-        "total": 94,
+        "total": 85,
         "decisao": "PUBLICAR",
         "partes": {
           "qualidade": 100,
           "demanda": 100,
           "fontes": 65,
-          "originalidade": 100,
+          "originalidade": 40,
           "formato": 90,
           "seguranca": 100
         },
-        "atencao": []
+        "atencao": [
+          "parecido com \"vitamina D\" (67%): risco de canibalização"
+        ]
       },
       "validador": "Auditoria automática (sem API); texto escrito fora do robô",
       "origem": "importado",
@@ -22811,18 +22938,19 @@
       "scores": {
         "auditoria": 100,
         "demanda": "boa",
-        "total": 92,
+        "total": 88,
         "decisao": "PUBLICAR",
         "partes": {
           "qualidade": 100,
           "demanda": 80,
           "fontes": 80,
-          "originalidade": 100,
+          "originalidade": 70,
           "formato": 90,
           "seguranca": 100
         },
         "atencao": [
-          "só 1 fonte(s) oficial(is) de 3 (ideal 2+)"
+          "só 1 fonte(s) oficial(is) de 3 (ideal 2+)",
+          "parecido com \"queda de cabelo o que fazer\" (50%): risco de canibalização"
         ]
       },
       "validador": "Auditoria automática (sem API); texto escrito fora do robô",
@@ -24095,18 +24223,19 @@
       "scores": {
         "auditoria": 100,
         "demanda": "não medida",
-        "total": 84,
+        "total": 80,
         "decisao": "SEGURAR (corrigir)",
         "partes": {
           "qualidade": 100,
           "demanda": 25,
           "fontes": 100,
-          "originalidade": 100,
+          "originalidade": 70,
           "formato": 90,
           "seguranca": 100
         },
         "atencao": [
-          "demanda NÃO medida: palavra-chave fora de demanda-validada.json"
+          "demanda NÃO medida: palavra-chave fora de demanda-validada.json",
+          "parecido com \"marmita fitness cardápio semanal\" (57%): risco de canibalização"
         ]
       },
       "validador": "Auditoria automática (sem API); texto escrito fora do robô",
@@ -25084,17 +25213,19 @@
       "scores": {
         "auditoria": 100,
         "demanda": "alta",
-        "total": 94,
+        "total": 85,
         "decisao": "PUBLICAR",
         "partes": {
           "qualidade": 100,
           "demanda": 100,
           "fontes": 65,
-          "originalidade": 100,
+          "originalidade": 40,
           "formato": 90,
           "seguranca": 100
         },
-        "atencao": []
+        "atencao": [
+          "parecido com \"cúrcuma\" (67%): risco de canibalização"
+        ]
       },
       "validador": "Auditoria automática (sem API); texto escrito fora do robô",
       "origem": "importado",
@@ -28445,17 +28576,18 @@
       "scores": {
         "auditoria": 95,
         "demanda": "alta",
-        "total": 92,
+        "total": 88,
         "decisao": "PUBLICAR",
         "partes": {
           "qualidade": 95,
           "demanda": 100,
           "fontes": 65,
-          "originalidade": 100,
+          "originalidade": 70,
           "formato": 90,
           "seguranca": 100
         },
         "atencao": [
+          "parecido com \"HMB\" (57%): risco de canibalização",
           "ajuste: title 61 chars com sufixo (máx 60)"
         ]
       },
@@ -30868,17 +31000,18 @@
       "scores": {
         "auditoria": 100,
         "demanda": "boa",
-        "total": 92,
+        "total": 88,
         "decisao": "SEGURAR (corrigir)",
         "partes": {
           "qualidade": 100,
           "demanda": 80,
           "fontes": 100,
-          "originalidade": 100,
+          "originalidade": 70,
           "formato": 90,
           "seguranca": 40
         },
         "atencao": [
+          "parecido com \"minoxidil tônico capilar\" (50%): risco de canibalização",
           "tema sensível sem REVISADO: sim"
         ]
       },
@@ -33733,17 +33866,19 @@
       "scores": {
         "auditoria": 100,
         "demanda": "boa",
-        "total": 90,
+        "total": 85,
         "decisao": "PUBLICAR",
         "partes": {
           "qualidade": 100,
           "demanda": 80,
           "fontes": 65,
-          "originalidade": 100,
+          "originalidade": 70,
           "formato": 90,
           "seguranca": 100
         },
-        "atencao": []
+        "atencao": [
+          "parecido com \"queda de cabelo depois dos 40\" (57%): risco de canibalização"
+        ]
       },
       "validador": "Auditoria automática (sem API); texto escrito fora do robô",
       "origem": "importado",
@@ -34591,17 +34726,19 @@
       "scores": {
         "auditoria": 100,
         "demanda": "alta",
-        "total": 99,
+        "total": 95,
         "decisao": "PUBLICAR",
         "partes": {
           "qualidade": 100,
           "demanda": 100,
           "fontes": 100,
-          "originalidade": 100,
+          "originalidade": 70,
           "formato": 90,
           "seguranca": 100
         },
-        "atencao": []
+        "atencao": [
+          "parecido com \"vitamina para queda de cabelo\" (57%): risco de canibalização"
+        ]
       },
       "validador": "Auditoria automática (sem API); texto escrito fora do robô",
       "origem": "importado",
