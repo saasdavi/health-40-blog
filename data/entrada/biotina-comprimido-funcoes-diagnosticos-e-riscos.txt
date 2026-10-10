@@ -61,8 +61,8 @@ FOTO2_SECAO: 4
 
 <h2>Como obter biotina pela alimentação</h2>
 <p>Alimentos como ovos cozidos, fígado, sementes, oleaginosas, aveia, batata-doce e leguminosas fornecem biotina de forma natural. Essa é uma forma mais previsível de manter a vitamina em níveis adequados, porque o organismo recebe o nutriente junto com outros componentes da dieta.</p>
-<p>Para quem tem uma alimentação equilibrada, a suplementação costuma ser desnecessária. Um nutricionista pode avaliar a rotina, identificar eventuais lacunas e sugerir ajustes. Para entender como a vitamina aparece em conteúdos de saúde, vale ler sobre <a href="/biotina/">biotina e seus usos mais comuns</a>, que trata do tema de forma geral.</p>
-<p>Outras vitaminas também são motivo frequente de dúvida na faixa dos 40 anos, como a vitamina D. Quando há sintomas, a investigação é mais segura se incluir exames e uma conversa completa sobre sinais e histórico, como mostra o conteúdo sobre <a href="/vitamina-d-baixa-sintomas/">vitamina D baixa e sintomas</a>.</p>
+<p>Para quem tem uma alimentação equilibrada, a suplementação costuma ser desnecessária. Um nutricionista pode avaliar a rotina, identificar eventuais lacunas e sugerir ajustes. Para entender outras causas comuns de fios frágeis, vale ler sobre <a href="/queda-de-cabelo/">queda de cabelo</a>.</p>
+<p>Outras carências também são motivo frequente de dúvida na faixa dos 40 anos, como a de ferro. Quando há sintomas, a investigação é mais segura se incluir exames e uma conversa completa sobre sinais e histórico, como mostra o conteúdo sobre <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a>.</p>
 
 <h2>Sinais que merecem uma conversa com o médico</h2>
 <p>Queda de cabelo, unhas fracas e cansaço são queixas comuns, mas nenhuma delas indica, por si só, falta de biotina. Essas queixas podem ter causas ligadas à tireoide, ao ferro, a alterações hormonais, a estresse ou a outras condições.</p>

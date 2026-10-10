@@ -1,6 +1,6 @@
-PALAVRA_CHAVE: Caindo — O Que Fazer e Causas Reais
-TITLE: Caindo — O Que Fazer e Causas Reais
-DESCRIPTION: Caindo — O Que Fazer e Causas Reais: entenda as causas mais comuns da queda de cabelo, os sinais que pedem avaliação e como organizar a investigação.
+PALAVRA_CHAVE: queda de cabelo o que fazer
+TITLE: Queda de cabelo o que fazer: causas reais
+DESCRIPTION: Queda de cabelo o que fazer: entenda as causas mais comuns, os sinais que pedem avaliação e como organizar a investigação com ajuda médica.
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: ccjm.org | https://ccjm.org
 FONTE: aafp.org | https://aafp.org
@@ -15,7 +15,7 @@ FOTO2_ALT: Coleta de sangue em laboratório, exame que pode fazer parte da inves
 FOTO2_LEGENDA: Exames de sangue ajudam a investigar causas clínicas da queda
 FOTO2_SECAO: 4
 ---
-<p>Caindo o que fazer é uma busca que costuma começar com um susto diante do pente ou do box do banheiro. A queda de cabelo tem muitas origens, e o caminho certo depende de entender a causa real, e não apenas de reagir ao sintoma.</p>
+<p>Queda de cabelo o que fazer é uma busca que costuma começar com um susto diante do pente ou do box do banheiro. A queda de cabelo tem muitas origens, e o caminho certo depende de entender a causa real, e não apenas de reagir ao sintoma.</p>
 
 <p>Este texto apresenta os sinais que pedem atenção, as causas mais investigadas pelos médicos e um plano de ação para organizar os próximos passos.</p>
 
@@ -39,7 +39,7 @@ FOTO2_SECAO: 4
 <p>Nesses casos, o médico costuma pedir exames de sangue e avaliar o contexto antes de propor qualquer conduta. Uma leitura isolada de um único marcador raramente basta para explicar a queda.</p>
 
 <h2>Causas nutricionais e efeitos de medicamentos</h2>
-<p>A falta de ferro, mesmo sem anemia evidente, pode ser associada à queda de cabelo em algumas pessoas. A deficiência de vitamina D também tem sido estudada nesse contexto, e o conteúdo sobre <a href="/vitamina-d-baixa-sintomas/">vitamina D baixa e sintomas</a> ajuda a reconhecer sinais gerais que merecem investigação.</p>
+<p>A falta de ferro, mesmo sem anemia evidente, pode ser associada à queda de cabelo em algumas pessoas. A deficiência de vitamina D também tem sido estudada nesse contexto, e o conteúdo sobre <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a> mostra como a dieta ajuda a evitar a carência do mineral.</p>
 
 <p>Mesmo assim, a suplementação só deve ser feita após confirmar a deficiência.</p>
 <p>Alguns medicamentos de uso contínuo podem contribuir para a perda de cabelo, sobretudo no início do tratamento ou após ajustes de dose. Nunca suspenda um remédio por conta própria. Converse com o médico que o prescreveu, pois há alternativas quando o efeito incomoda.</p>

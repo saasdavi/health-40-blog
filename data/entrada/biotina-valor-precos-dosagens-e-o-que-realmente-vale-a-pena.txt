@@ -69,10 +69,10 @@ FOTO2_SECAO: 4
 <p>Antes de comprar, pergunte-se qual é o objetivo e se ele pode ser alcançado com alimentação, mudança de rotina ou investigação médica. Para a maioria das pessoas, uma dieta variada já fornece a quantidade necessária da vitamina, o que torna a suplementação desnecessária.</p>
 <p>Se houver dúvida sobre deficiência, o caminho mais seguro é a avaliação com médico ou nutricionista, que pode indicar exames e orientar a conduta.</p>
 
-<p>Esse investimento costuma ser mais útil do que gastar em produtos sem indicação. Para entender os usos gerais da vitamina, o conteúdo sobre <a href="/biotina/">biotina e seus usos mais comuns</a> reúne informações introdutórias.</p>
+<p>Esse investimento costuma ser mais útil do que gastar em produtos sem indicação. Para entender outras causas de fios frágeis, o conteúdo sobre <a href="/queda-de-cabelo/">queda de cabelo</a> reúne informações introdutórias.</p>
 <p>Outra forma de economizar é priorizar alimentos ricos em biotina, como ovos cozidos, castanhas, sementes e leguminosas. Essa escolha costuma ser mais barata do que um suplemento contínuo e traz outros nutrientes importantes.</p>
 
-<p>Para quem tem dúvidas sobre outras carências que podem aparecer com cansaço e queda de cabelo, o conteúdo sobre <a href="/vitamina-d-baixa-sintomas/">vitamina D baixa e sintomas</a> ajuda a reconhecer sinais que merecem investigação antes de qualquer compra.</p>
+<p>Para quem tem dúvidas sobre outras carências que podem aparecer com cansaço e queda de cabelo, o conteúdo sobre <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a> ajuda a ver como a dieta pesa nessa investigação antes de qualquer compra.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>Biotina mais cara funciona melhor?</strong> Não há relação comprovada entre preço e eficácia. O que importa são a composição, a indicação e a orientação profissional.</p>

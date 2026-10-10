@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: beta-alanina
-TITLE: Beta-alanina: o que é, formigamento e riscos reais
+TITLE: Beta-alanina: o que é, formigamento e riscos
 DESCRIPTION: Beta-alanina: entenda para que ela é usada, por que pode causar formigamento, quais riscos existem e quando buscar orientação profissional antes de usar.
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 FONTE: Bundesinstitut für Risikobewertung (BfR) | https://bfr.bund.de
@@ -69,9 +69,9 @@ FOTO2_SECAO: 4
 <p>Antes de começar qualquer suplemento, leve a lista completa do que você toma ao consultório.</p>
 <p>Também vale lembrar que desempenho e recuperação no esporte dependem mais de sono, alimentação equilibrada e treino progressivo do que de um único produto.</p>
 
-<p>Se a intenção é ganhar força e condicionamento com segurança, a orientação de um profissional de educação física e de um nutricionista costuma ser o caminho mais seguro. Para entender outro suplemento bastante conhecido no mesmo contexto, vale ler sobre <a href="/creatina/">creatina e seus efeitos no treino</a>.</p>
+<p>Se a intenção é ganhar força e condicionamento com segurança, a orientação de um profissional de educação física e de um nutricionista costuma ser o caminho mais seguro. O descanso também pesa na recuperação, tema tratado no conteúdo sobre <a href="/insonia/">insônia</a>.</p>
 <p>Na alimentação, carnes, aves e peixes fornecem a substância de forma natural e em quantidades distribuídas ao longo do dia. Essa é uma base mais previsível do que a suplementação isolada, principalmente para quem não tem uma indicação específica.</p>
-<p>Vale notar que proteínas em pó, como o <a href="/whey-protein/">whey protein</a>, costumam ser compradas junto com outros produtos. Montar uma rotina com muitos suplementos ao mesmo tempo dificulta identificar qual deles causou algum efeito indesejado. Essa é mais uma razão para começar devagar e sempre com orientação profissional.</p>
+<p>Vale notar que <a href="/proteina-mulheres-40/">proteínas em pó</a>, como o whey protein, costumam ser compradas junto com outros produtos. Montar uma rotina com muitos suplementos ao mesmo tempo dificulta identificar qual deles causou algum efeito indesejado. Essa é mais uma razão para começar devagar e sempre com orientação profissional.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>A beta-alanina é perigosa?</strong> Para a maioria dos adultos saudáveis, os efeitos mais comuns são leves, mas a segurança depende de cada caso, de doenças prévias e do uso de medicamentos.</p>

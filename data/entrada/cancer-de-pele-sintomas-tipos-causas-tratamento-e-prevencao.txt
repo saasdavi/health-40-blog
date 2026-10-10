@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: câncer de pele sintomas
-TITLE: Câncer de pele sintomas: sinais de alerta e quando agir
+TITLE: Câncer de pele sintomas: sinais de alerta
 DESCRIPTION: Câncer de pele sintomas: conheça os sinais de alerta, os tipos mais comuns, as causas ligadas ao sol e a importância da avaliação dermatológica precoce.
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: Ministério da Saúde | https://www.gov.br/saude
@@ -31,7 +31,7 @@ FOTO2_SECAO: 4
 <p>Para pintas, a Sociedade Brasileira de Dermatologia costuma orientar a observação pela regra do ABCDE: assimetria, bordas irregulares, cores variadas, diâmetro maior que 6 milímetros e evolução com mudanças. Qualquer pinta que apresente essas características deve ser avaliada por um dermatologista.</p>
 <p>Nem toda mancha na pele é um câncer, e muitas alterações de cor são benignas ou causadas pelo sol e pelo envelhecimento.</p>
 
-<p>Ainda assim, uma mancha nova ou que muda rapidamente deve ser observada com atenção. Para diferenciar as alterações mais comuns, o conteúdo sobre <a href="/manchas-na-pele/">manchas na pele</a> pode servir como introdução ao tema.</p>
+<p>Ainda assim, uma mancha nova ou que muda rapidamente deve ser observada com atenção. O medo diante de uma lesão suspeita é comum, e o conteúdo sobre <a href="/como-controlar-a-ansiedade/">como controlar a ansiedade</a> ajuda a esperar a consulta com mais calma.</p>
 
 <h2>Tipos mais comuns de câncer de pele</h2>
 <p>O câncer de pele é classificado principalmente em três grupos. O carcinoma basocelular é o mais frequente entre os tipos não melanoma e costuma crescer devagar, sem se espalhar com facilidade, mas pode causar destruição local se não for tratado.</p>
@@ -40,7 +40,7 @@ FOTO2_SECAO: 4
 <p>O carcinoma espinocelular também surge em regiões expostas e pode se disseminar quando não é identificado a tempo. Em geral, aparece como uma lesão com crosta ou aspecto de ferida persistente. Pessoas com lesões antigas de pele ou com sistema imunológico enfraquecido podem ter maior risco.</p>
 <p>O melanoma é menos frequente, mas é o tipo mais agressivo. Ele se origina nas células que produzem melanina e pode surgir de uma pinta já existente ou em uma pele aparentemente normal.</p>
 
-<p>Por isso, a identificação precoce é tão importante. Para entender melhor esse tipo, vale ler sobre <a href="/melanoma/">melanoma e seus sinais</a>.</p>
+<p>Por isso, a identificação precoce é tão importante. O couro cabeludo também faz parte do exame de pele, e o conteúdo sobre <a href="/queda-de-cabelo/">queda de cabelo</a> explica outros sinais nessa região.</p>
 
 <h2>Causas e fatores de risco</h2>
 <p>A exposição à radiação ultravioleta é o principal fator ambiental associado ao câncer de pele. Ela vem do sol e também de equipamentos de bronzeamento artificial, e seu efeito é cumulativo, ou seja, o dano se acumula ao longo dos anos, muitas vezes sem sensação imediata de queimadura.</p>
@@ -71,7 +71,7 @@ FOTO2_SECAO: 4
 <p><strong>Quem tem pele escura precisa se preocupar?</strong> Sim. O câncer de pele também ocorre em peles escuras, e as lesões em áreas pouco expostas merecem atenção.</p>
 <p><strong>Toda pinta deve ser removida?</strong> Não. A maioria é benigna, e a decisão de remover depende de avaliação do dermatologista, sobretudo quando há mudanças.</p>
 
-<h2>Quando procurar um dermatologista</h2>
+<h2>Quando procurar um médico</h2>
 <p>Procure um dermatologista se uma lesão não cicatrizar em algumas semanas, se uma pinta mudar de forma, cor ou tamanho, se surgir um nódulo brilhante ou uma mancha escamosa persistente. Também é importante buscar avaliação se você tiver muitas pintas, histórico familiar de câncer de pele ou queimaduras solares frequentes.</p>
 
 <p>Não espere a lesão crescer para marcar a consulta, pois a avaliação inicial costuma ser simples e rápida, e a identificação precoce faz diferença nas opções disponíveis.</p>

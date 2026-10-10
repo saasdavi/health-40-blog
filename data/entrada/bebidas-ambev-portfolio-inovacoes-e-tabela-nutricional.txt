@@ -1,6 +1,6 @@
 PALAVRA_CHAVE: bebidas ambev
-TITLE: Bebidas Ambev — Portfólio, Inovações e Tabela Nutricional
-DESCRIPTION: Conheça o portfólio de bebidas da Ambev, as inovações Wellness com cervejas zero álcool e sem glúten, a tabela nutricional comparativa e os impactos na saúde.
+TITLE: Bebidas Ambev: portfólio e tabela nutricional
+DESCRIPTION: Veja as bebidas Ambev: portfólio, linha Wellness com cervejas zero álcool e sem glúten, tabela nutricional comparativa e os impactos na saúde.
 FONTE: ambev.com.br | https://ambev.com.br
 FONTE: exame.com | https://exame.com
 FONTE: cnnbrasil.com.br | https://cnnbrasil.com.br
@@ -13,7 +13,7 @@ FOTO1_SECAO: 2
 ---
 <div id="container-imagem-capa" class="loading">Carregando imagem...</div>
 
-<p>A Ambev é a maior empresa de bebidas da América Latina e detém um portfólio que vai muito além da cerveja. A companhia opera com refrigerantes, isotônicos, energéticos, chás e drinks prontos.</p>
+<p>As bebidas Ambev vão muito além da cerveja. A maior empresa do setor na América Latina opera com refrigerantes, isotônicos, energéticos, chás e drinks prontos.</p>
 
 <p>Nos últimos anos, a empresa acelerou a aposta em produtos mais leves e saudáveis, com o segmento Wellness crescendo 67% em volume no Brasil.</p>
 
@@ -113,9 +113,13 @@ FOTO1_SECAO: 2
 
 <p>Diabéticos devem observar a quantidade de carboidratos nas bebidas. As versões zero açúcar têm menos carboidratos, mas ainda podem conter maltodextrina e outros componentes que afetam a glicemia. A orientação profissional é recomendada.</p>
 
+<p>Para entender os valores de referência, veja o conteúdo sobre <a href="/glicemia-normal/">glicemia normal</a>.</p>
+
 <p>Pessoas com sensibilidade a adoçantes ou com histórico de distúrbios gastrointestinais devem ter cautela com bebidas zero. O consumo excessivo pode causar desconforto abdominal e alterações na microbiota.</p>
 
 <p>Pacientes com doenças hepáticas devem evitar o consumo de álcool, mesmo em pequenas quantidades. As versões zero são uma alternativa mais segura, mas o consumo deve ser discutido com o médico.</p>
+
+<p>Sobre o acúmulo de gordura no órgão, veja o conteúdo sobre <a href="/gordura-no-figado/">gordura no fígado</a>.</p>
 
 <h2>Perguntas frequentes sobre bebidas Ambev</h2>
 

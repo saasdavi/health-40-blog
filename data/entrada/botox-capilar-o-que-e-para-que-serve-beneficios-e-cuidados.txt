@@ -1,6 +1,6 @@
-PALAVRA_CHAVE: botox capilar o que e para que serve beneficios e cuidados
-TITLE: Botox capilar o que e para que serve beneficios e cuidados
-DESCRIPTION: Botox capilar o que e para que serve beneficios e cuidados: entenda o procedimento, o que a ciência sabe e por que a avaliação profissional é essencial.
+PALAVRA_CHAVE: botox capilar
+TITLE: Botox capilar: o que é, benefícios e cuidados
+DESCRIPTION: Botox capilar: entenda o que é o procedimento, que benefícios são relatados, quais cuidados tomar e por que a avaliação profissional é essencial.
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: Ministério da Saúde | https://www.gov.br/saude
 CAPA_BUSCA: hair treatment salon
@@ -14,7 +14,7 @@ FOTO2_ALT: Médica conversando com paciente em consultório sobre cuidados com o
 FOTO2_LEGENDA: Antes de tratamentos intensos, converse com um profissional
 FOTO2_SECAO: 4
 ---
-<p>Botox capilar o que e para que serve é uma dúvida frequente de quem busca cabelos mais macios, brilhantes e com menos frizz. O nome é comercial e pode causar confusão, porque o procedimento não tem relação com a toxina botulínica usada em tratamentos médicos.</p>
+<p>O botox capilar é uma dúvida frequente de quem busca cabelos mais macios, brilhantes e com menos frizz. O nome é comercial e pode causar confusão, porque o procedimento não tem relação com a toxina botulínica usada em tratamentos médicos.</p>
 
 <p>Este texto explica o que se costuma fazer, quais benefícios são relatados, quais limitações existem e que cuidados tomar.</p>
 
@@ -46,7 +46,9 @@ FOTO2_SECAO: 4
 <p>Benefícios de hidratação e de proteção contra o calor são mais bem compreendidos quando se pensa na rotina completa do cabelo, que inclui lavagem adequada, proteção térmica e cortes regulares. O tratamento de salão pode ser um complemento, mas não substitui esses cuidados básicos.</p>
 <p>Para quem percebe mudanças de textura ao longo dos anos, como fios mais secos e opacos, a origem costuma estar em fatores combinados, como exposição ao sol, uso frequente de calor, tintura e envelhecimento natural.</p>
 
-<p>Um exemplo é a alteração de cor e de textura que acompanha os <a href="/cabelos-brancos/">cabelos brancos</a>, que pedem uma rotina de cuidados diferente da de fios tingidos. Nesses casos, o ideal é ajustar a rotina inteira e não depender de um único procedimento.</p>
+<p>Um exemplo é a alteração de cor e de textura que acompanha os cabelos brancos, que pedem uma rotina de cuidados diferente da de fios tingidos. Nesses casos, o ideal é ajustar a rotina inteira e não depender de um único procedimento.</p>
+
+<p>A alimentação também conta, e o conteúdo sobre <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a> ajuda a planejar o prato.</p>
 <p>Também vale considerar o custo e a frequência. Como o efeito é temporário, a manutenção pode se tornar recorrente e pesar no orçamento. Comparar esse gasto com o de produtos de uso diário e com a orientação de um cabeleireiro de confiança ajuda a tomar uma decisão mais consciente.</p>
 
 <h2>Limitações e efeitos indesejados</h2>

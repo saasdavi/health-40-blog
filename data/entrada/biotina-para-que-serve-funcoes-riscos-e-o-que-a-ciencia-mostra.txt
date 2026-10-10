@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: biotina para que serve
-TITLE: Biotina para que serve: funções, riscos e evidências
+TITLE: Biotina para que serve: funções e evidências
 DESCRIPTION: Biotina para que serve: conheça as funções da vitamina, os riscos conhecidos e o que a ciência mostra sobre cabelo, pele e unhas em adultos.
 FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
 FONTE: fda.gov | https://fda.gov
@@ -59,13 +59,13 @@ FOTO2_SECAO: 4
 <p>A FDA emitiu comunicados sobre casos de resultados incorretos em testes da tireoide e em marcadores usados para avaliar o coração. Em situações de urgência, um valor alterado pode levar a condutas inadequadas, o que mostra por que essa informação não deve ser deixada de lado.</p>
 <p>O tempo de intervalo entre a última dose e a coleta influencia o risco, e a orientação varia conforme o teste. Por isso, quem está com exames marcados deve perguntar ao laboratório e ao médico como proceder, em vez de tomar a decisão sozinho.</p>
 
-<p>Para entender melhor o uso da vitamina de forma geral, o conteúdo sobre <a href="/biotina/">biotina e seus usos mais comuns</a> reúne informações complementares.</p>
+<p>Para montar um prato variado, o conteúdo sobre <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a> reúne informações complementares.</p>
 
 <h2>Fontes naturais e necessidades do dia a dia</h2>
 <p>A biotina aparece em ovos cozidos, fígado, castanhas, amendoim, sementes, aveia, batata-doce e leguminosas. Uma alimentação variada costuma fornecer a quantidade necessária sem a necessidade de suplementos, e esses alimentos trazem outros nutrientes importantes para a saúde.</p>
 <p>Em algumas situações, a falta de outros nutrientes pode se confundir com falta de biotina. É o caso do ferro, cuja carência também causa cansaço, queda de cabelo e unhas quebradiças.</p>
 
-<p>Entender esse cenário ajuda a evitar escolhas erradas. Vale consultar o conteúdo sobre <a href="/ferro-baixo-sintomas/">sintomas de ferro baixo</a> para reconhecer esses sinais.</p>
+<p>Entender esse cenário ajuda a evitar escolhas erradas. Vale consultar o conteúdo sobre <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a> para ver como a dieta ajuda a evitar essa carência.</p>
 <p>Quando a alimentação não supre as necessidades por restrições, idade ou doenças, o nutricionista pode orientar as adaptações necessárias. A decisão sobre suplementar deve considerar o quadro completo.</p>
 
 <h2>Como avaliar as promessas de um produto</h2>

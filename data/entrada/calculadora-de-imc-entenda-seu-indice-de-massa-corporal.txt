@@ -61,7 +61,7 @@ FOTO2_SECAO: 4
 <p>Para aproveitar a ferramenta, meça o peso pela manhã, em jejum e sem roupas pesadas, e use uma balança calibrada. A altura deve ser medida em posição ereta, sem sapatos, encostado em uma parede.</p>
 
 <p>Registrar os valores em um caderno ou aplicativo permite acompanhar a tendência ao longo dos meses, que costuma ser mais informativa do que um único número.</p>
-<p>Quando o objetivo é entender a alimentação, o IMC pode ser comparado com a rotina de refeições e com o gasto de energia. Para isso, é útil consultar a <a href="/tabela-de-calorias-dos-alimentos/">tabela de calorias dos alimentos</a>, que ajuda a estimar o valor energético de cada item.</p>
+<p>Quando o objetivo é entender a alimentação, o IMC pode ser comparado com a rotina de refeições e com o gasto de energia. Para isso, é útil consultar o conteúdo sobre <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a>, que ajuda a montar refeições mais saciantes.</p>
 
 <p>Mesmo assim, a mudança de peso deve ser planejada com um nutricionista, principalmente quando há doenças associadas.</p>
 <p>Vale considerar também que o peso oscila ao longo do dia por causa de líquidos, alimentação recente e intestino. Por isso, uma variação de um ou dois quilos entre medições não indica, por si só, ganho ou perda real de massa corporal.</p>

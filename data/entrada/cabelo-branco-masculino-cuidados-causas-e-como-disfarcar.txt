@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: cabelo branco masculino
-TITLE: Cabelo branco masculino: causas, cuidados e disfarce
+TITLE: Cabelo branco masculino: causas e cuidados
 DESCRIPTION: Cabelo branco masculino: entenda as causas, os cuidados possíveis e as formas de disfarçar os fios grisalhos, com orientação informativa e responsável.
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: Ministério da Saúde | https://www.gov.br/saude
@@ -70,7 +70,7 @@ FOTO2_SECAO: 4
 <p>A higiene com água morna e sabonete suave evita irritações, que podem ser confundidas com alterações da pele.</p>
 <p>A aparência geral da barba depende do aparo e do formato. Linhas bem definidas e comprimento uniforme criam um efeito de cuidado, e isso costuma ser mais importante do que tentar esconder cada fio.</p>
 
-<p>Como o cabelo branco também aparece nas sobrancelhas e no peito em alguns homens, a mesma lógica de cuidado vale para essas regiões. Para entender como o grisalho se apresenta em outras áreas, o conteúdo sobre <a href="/cabelos-brancos/">cabelos brancos</a> traz uma visão geral.</p>
+<p>Como o cabelo branco também aparece nas sobrancelhas e no peito em alguns homens, a mesma lógica de cuidado vale para essas regiões. Quando o grisalho vem junto de queda de fios, o conteúdo sobre <a href="/queda-de-cabelo/">queda de cabelo</a> traz uma visão geral das causas.</p>
 <p>Se a barba estiver muito irritada, com descamação, coceira ou pequenas feridas, a recomendação é buscar avaliação dermatológica, e não aplicar produtos por conta própria. Essas alterações têm causas variadas e precisam de orientação individual.</p>
 
 <h2>Perguntas frequentes</h2>

@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: cabelo caindo muito
-TITLE: Cabelo caindo muito: o que pode ser e como investigar
+TITLE: Cabelo caindo muito: causas e investigação
 DESCRIPTION: Cabelo caindo muito: veja as causas mais comuns, sinais de alerta e quando procurar um médico para investigar a queda de cabelo com segurança.
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 FONTE: Hospital Israelita Albert Einstein | https://www.einstein.br
@@ -36,7 +36,7 @@ FOTO2_SECAO: 4
 <p>Em muitos casos, o cabelo volta a crescer sozinho quando o fator desaparece.</p>
 <p>Outras causas envolvem deficiências nutricionais, sobretudo de ferro, de proteínas e, em alguns casos, de vitaminas. A anemia por falta de ferro é uma das associações mais estudadas e pode trazer cansaço, palidez e queda de cabelo ao mesmo tempo.</p>
 
-<p>Quem quer entender essa ligação pode ler sobre <a href="/ferro-baixo-sintomas/">sintomas de ferro baixo</a>.</p>
+<p>Quem quer entender essa ligação pode ler sobre <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a>.</p>
 <p>Medicamentos de uso contínuo também podem contribuir para a queda. Alguns remédios para pressão, para o humor, para o colesterol e para determinadas doenças têm esse efeito conhecido. Nesse caso, a conduta deve ser discutida com o médico que prescreveu, e não suspensa por conta própria.</p>
 
 <h2>Queda hormonal e alopecia androgenética</h2>
@@ -51,7 +51,7 @@ FOTO2_SECAO: 4
 <h2>Quando a queda pode indicar outra condição</h2>
 <p>Algumas doenças afetam o cabelo como um dos primeiros sinais. Alterações da tireoide, tanto o excesso quanto a falta de hormônios, são causas bem conhecidas de queda difusa.</p>
 
-<p>Quem tem sintomas como cansaço, alteração de peso, intolerância ao frio ou ao calor deve considerar essa possibilidade. Um exemplo é o conteúdo sobre <a href="/hipotireoidismo-sintomas/">sintomas de hipotireoidismo</a>, que ajuda a reconhecer esse quadro.</p>
+<p>Quem tem sintomas como cansaço, alteração de peso, intolerância ao frio ou ao calor deve considerar essa possibilidade. O estresse prolongado também entra na investigação, como explica o conteúdo sobre <a href="/cortisol-alto/">cortisol alto</a>.</p>
 <p>Doenças autoimunes, infecções do couro cabeludo e algumas inflamações da pele também podem provocar queda localizada ou intensa. Nesses casos, pode haver coceira, descamação, vermelhidão ou áreas sem cabelo bem delimitadas. A presença de sinais na pele deve ser avaliada por um dermatologista.</p>
 <p>Por isso, a queda de cabelo raramente deve ser tratada como um problema isolado. Ela funciona como um sinal que pede uma investigação mais ampla, que considere o corpo como um todo.</p>
 

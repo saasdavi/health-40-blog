@@ -1,6 +1,6 @@
-PALAVRA_CHAVE: Cabelo Caindo O Que Fazer e Causas Reais
-TITLE: Cabelo Caindo O Que Fazer e Causas Reais
-DESCRIPTION: Cabelo Caindo O Que Fazer e Causas Reais: veja as causas mais comuns da queda, o que observar em casa e quando buscar avaliação médica especializada.
+PALAVRA_CHAVE: cabelo caindo o que fazer
+TITLE: Cabelo caindo o que fazer: causas e cuidados
+DESCRIPTION: Cabelo caindo o que fazer: veja as causas mais comuns da queda, o que observar em casa e quando buscar avaliação médica especializada.
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: ccjm.org | https://ccjm.org
 FONTE: aafp.org | https://aafp.org
@@ -44,7 +44,9 @@ FOTO2_SECAO: 4
 <h2>Causas reais que costumam ser investigadas</h2>
 <p>Entre as causas reais mais observadas estão as alterações da tireoide. Tanto o excesso quanto a falta de hormônios podem afinar os fios e alterar a textura do cabelo.</p>
 
-<p>Quem sente cansaço, mudança de peso ou alteração do humor deve considerar esse caminho, e a dosagem de hormônios tireoidianos costuma ser solicitada nesses casos. Um dos marcadores usados nessa triagem é o <a href="/tsh-alto/">TSH</a>, cujo resultado precisa ser interpretado junto com o quadro clínico.</p>
+<p>Quem sente cansaço, mudança de peso ou alteração do humor deve considerar esse caminho, e a dosagem de hormônios tireoidianos costuma ser solicitada nesses casos. Um dos marcadores usados nessa triagem é o TSH, cujo resultado precisa ser interpretado junto com o quadro clínico.</p>
+
+<p>A alimentação também entra na conta, e o conteúdo sobre <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a> mostra opções para o dia a dia.</p>
 <p>A anemia por falta de ferro é outra causa importante, sobretudo em mulheres em idade fértil e em pessoas com sangramentos menstruais intensos ou dietas pobres em alimentos de origem animal.</p>
 
 <p>Também há associação com a deficiência de outros nutrientes, mas a investigação deve ser feita com exames, e não com suposições.</p>

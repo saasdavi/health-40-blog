@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: biotina
-TITLE: Biotina: para que serve, efeitos e interferência em exames
+TITLE: Biotina: para que serve e efeito em exames
 DESCRIPTION: Biotina: entenda para que serve, quais efeitos são relatados e por que a vitamina pode alterar resultados de exames de laboratório. Veja orientações gerais.
 FONTE: fda.gov | https://fda.gov
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
@@ -71,7 +71,7 @@ FOTO2_SECAO: 4
 <p>Ovos cozidos, fígado, castanhas, amendoim, sementes, aveia, batata-doce e leguminosas fornecem biotina de forma natural. Quando a dieta é variada, a vitamina chega ao corpo junto com outros nutrientes, em quantidades que não costumam provocar interferência em exames.</p>
 <p>Montar um prato equilibrado também favorece a absorção e o uso dos nutrientes. Um guia prático sobre <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a> pode ajudar a organizar refeições que combinam diferentes fontes de vitaminas e minerais.</p>
 
-<p>Já para entender a quantidade de energia de cada item do prato, a <a href="/tabela-de-calorias-dos-alimentos/">tabela de calorias dos alimentos</a> oferece um bom ponto de partida.</p>
+<p>Já para quem busca a vitamina por causa dos fios, vale entender as causas mais comuns no conteúdo sobre <a href="/queda-de-cabelo/">queda de cabelo</a>.</p>
 <p>Vale lembrar que a biotina presente em alimentos é absorvida de forma diferente da que vem em cápsulas concentradas. Os alimentos chegam ao organismo acompanhados de fibras, água e outros nutrientes, o que torna a absorção mais gradual.</p>
 
 <p>Essa diferença ajuda a explicar por que a dieta raramente causa os problemas associados aos suplementos de alta concentração.</p>

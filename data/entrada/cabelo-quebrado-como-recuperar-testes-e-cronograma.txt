@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: cabelo quebrado
-TITLE: Cabelo quebrado: como recuperar, testes e cronograma
+TITLE: Cabelo quebrado: como recuperar e cronograma
 DESCRIPTION: Cabelo quebrado: entenda as causas da quebra, como montar um cronograma capilar simples, testes caseiros de elasticidade e quando procurar um dermatologista.
 FONTE: SciELO Brasil | https://www.scielo.br
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
@@ -65,7 +65,9 @@ FOTO2_SECAO: 4
 <p>Cortar as pontas mais danificadas é uma das medidas mais eficazes, porque remove a parte mais frágil.</p>
 <p>Também ajuda usar pentes e escovas adequados, secar com toalha sem esfregar e evitar dormir com o cabelo molhado. Proteger os fios do sol com chapéus e produtos específicos é outra medida prática. Essas atitudes são simples, mas fazem diferença quando repetidas diariamente.</p>
 <p>Para quem depende de química frequente, vale conversar com o cabeleireiro sobre intervalos mais longos entre os procedimentos, o que dá tempo para o fio se recuperar e reduz o acúmulo de dano.</p>
-<p>Fios brancos ou muito claros costumam ficar mais secos e ásperos, e exigem atenção extra à hidratação. Para entender essa particularidade, vale ler sobre <a href="/cabelos-brancos/">cabelos brancos</a>, que aborda o tema da textura e dos cuidados com os fios grisalhos.</p>
+<p>Fios brancos ou muito claros costumam ficar mais secos e ásperos, e exigem atenção extra à hidratação. Essa particularidade pede cuidado especial com a hidratação.</p>
+
+<p>Como os fios são formados por proteína, a alimentação também conta, e o conteúdo sobre <a href="/proteina-mulheres-40/">proteína após os 40 anos</a> ajuda a planejar as refeições.</p>
 <p>Em casos de fios muito danificados, o profissional pode orientar um corte mais curto, que remove a parte mais frágil e dá início a um crescimento mais saudável. Essa escolha costuma ser mais eficaz do que insistir em produtos que não resolvem o dano acumulado.</p>
 
 <h2>Perguntas frequentes</h2>

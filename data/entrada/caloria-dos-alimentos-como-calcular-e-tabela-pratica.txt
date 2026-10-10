@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: caloria dos alimentos
-TITLE: Caloria dos alimentos: como calcular e usar uma tabela
+TITLE: Caloria dos alimentos: como calcular e usar
 DESCRIPTION: Caloria dos alimentos: aprenda como o valor energético é calculado, como ler rótulos e usar tabelas nutricionais com segurança no dia a dia.
 FONTE: Conselho Federal de Nutricionistas (CFN) | https://www.cfn.org.br
 FONTE: Governo Federal | https://www.gov.br
@@ -62,13 +62,13 @@ FOTO2_SECAO: 4
 <p>Ao usar a tabela no dia a dia, procure padronizar a forma de medir. Um mesmo alimento pode ter valores diferentes quando é pesado cru ou cozido, com ou sem casca, ou quando é servido em porções distintas.</p>
 
 <p>Anotar a forma de preparo ao consultar a tabela evita comparações erradas e torna o acompanhamento da alimentação mais consistente ao longo das semanas.</p>
-<p>Para quem quer um apoio digital, vale conhecer a opção de <a href="/calcular-tabela-nutricional-online-gratis/">calcular tabela nutricional online gratuitamente</a>, desde que a fonte dos dados seja clara. A ferramenta ajuda, mas não substitui a orientação de um nutricionista quando há condições de saúde.</p>
+<p>Para variar o prato, vale conhecer os <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a>, que ajudam na saciedade. Tabelas e aplicativos ajudam, mas não substituem a orientação de um nutricionista quando há condições de saúde.</p>
 
 <h2>Erros comuns ao contar calorias</h2>
 <p>O primeiro erro é confiar apenas na memória. Quem estima porções de cabeça tende a subestimar o que come, principalmente com azeite, castanhas, molhos e bebidas. Pequenas quantidades somam bastante ao longo do dia e podem explicar diferenças entre o que se imagina e o que realmente foi consumido.</p>
 <p>O segundo erro é ignorar a qualidade do alimento. Duas refeições com o mesmo valor energético podem ter efeitos diferentes na saciedade, na glicemia e no conforto digestivo, porque a composição importa. Por isso, a contagem deve vir acompanhada de atenção aos alimentos in natura, às fibras e à variedade.</p>
 <p>O terceiro erro é transformar a contagem em obsessão. Esse comportamento pode gerar ansiedade e afastar a pessoa de uma relação saudável com a comida. Se isso acontecer, o ideal é buscar apoio profissional.</p>
-<p>Um lanche bem escolhido pode ajudar a organizar o dia sem exigir cálculos complicados. Opções com proteína, fibras e pouca gordura saturada costumam ser mais saciantes. Para ideias práticas, o conteúdo sobre <a href="/lanche-saudavel/">lanche saudável</a> reúne sugestões simples de montar.</p>
+<p>Um lanche bem escolhido pode ajudar a organizar o dia sem exigir cálculos complicados. Opções com proteína, fibras e pouca gordura saturada costumam ser mais saciantes. Para ideias práticas, o conteúdo sobre <a href="/proteina-mulheres-40/">proteína após os 40 anos</a> reúne sugestões simples de montar.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>Toda caloria é igual?</strong> Do ponto de vista energético, a conta é semelhante, mas a qualidade do alimento influencia saciedade, metabolismo e saúde geral.</p>
@@ -76,7 +76,7 @@ FOTO2_SECAO: 4
 <p><strong>O rótulo é sempre exato?</strong> Os valores são estimativas com margem de variação permitida. Por isso, servem como guia, não como medida absoluta.</p>
 <p><strong>Alimentos naturais precisam de rótulo?</strong> Não têm rótulo, mas constam em tabelas de composição. Valores variam conforme a variedade, a safra e o preparo.</p>
 
-<h2>Quando procurar um médico ou nutricionista</h2>
+<h2>Quando procurar um médico</h2>
 <p>Procure um nutricionista se precisar planejar a alimentação por causa de diabetes, doenças renais, hipertensão, alergias ou gestação. Também é recomendável buscar orientação se você sentir fome excessiva, perda de peso sem explicação, cansaço constante ou sinais de compulsão alimentar.</p>
 <p>Em casos de tontura, desmaios ou sintomas de desnutrição, o atendimento médico deve ser imediato.</p>
 

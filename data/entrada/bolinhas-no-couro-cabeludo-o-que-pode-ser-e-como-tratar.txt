@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: bolinhas no couro cabeludo
-TITLE: Bolinhas no couro cabeludo: o que pode ser e quando agir
+TITLE: Bolinhas no couro cabeludo: causas e quando agir
 DESCRIPTION: Bolinhas no couro cabeludo: veja as causas mais comuns, os sinais que pedem atenção e quando procurar um dermatologista para avaliar o caso com segurança.
 FONTE: Anais Brasileiros de Dermatologia | https://anaisdedermatologia.org.br
 FONTE: Governo Federal | https://www.gov.br
@@ -44,7 +44,7 @@ FOTO2_SECAO: 4
 
 <p>Evitar pentear com força e não dormir com o cabelo molhado também ajuda.</p>
 <p>Também é útil evitar apertar, espremer ou cutucar as bolinhas. Essa atitude parece inofensiva, mas aumenta o risco de infecção, de cicatrizes e de manchas. Toalhas, escovas e travesseiros devem ser trocados ou higienizados com regularidade, principalmente quando há lesões.</p>
-<p>Outro cuidado é observar mudanças depois de trocar shampoos, tinturas ou produtos de finalização. Uma irritação de contato pode surgir após um novo produto, e a identificação do gatilho facilita a conversa com o médico. Para entender melhor esse tipo de reação, vale ler sobre <a href="/dermatite-de-contato/">dermatite de contato</a>.</p>
+<p>Outro cuidado é observar mudanças depois de trocar shampoos, tinturas ou produtos de finalização. Uma irritação de contato pode surgir após um novo produto, e a identificação do gatilho facilita a conversa com o médico. Para entender outras queixas do couro cabeludo, vale ler sobre <a href="/queda-de-cabelo/">queda de cabelo</a>.</p>
 <p>Uma dica prática é manter um registro simples dos produtos usados nas últimas semanas, com a data de cada troca. Quando as bolinhas aparecem logo depois de um item novo, essa anotação ajuda a identificar o possível gatilho.</p>
 
 <p>Retirar o produto suspeito por um tempo e observar a evolução também costuma ser útil, desde que isso seja combinado com o profissional.</p>
@@ -54,7 +54,7 @@ FOTO2_SECAO: 4
 
 <p>Também pergunta sobre medicamentos em uso, produtos capilares, alergias e histórico familiar de problemas de pele. Esses dados orientam a suspeita e a necessidade de exames.</p>
 <p>Em alguns casos, o profissional coleta uma amostra da pele ou do fio para análise laboratorial. Esse procedimento é simples e costuma ser feito em consultório, e permite confirmar a origem da lesão com mais segurança. Quando a dúvida é grande, a biópsia pode ser indicada.</p>
-<p>Vale lembrar que lesões na pele também podem aparecer em outras partes do corpo, e o médico pode avaliar a relação entre elas. Algumas alterações de pigmentação, por exemplo, são abordadas no conteúdo sobre <a href="/manchas-na-pele/">manchas na pele</a>.</p>
+<p>Vale lembrar que lesões na pele também podem aparecer em outras partes do corpo, e o médico pode avaliar a relação entre elas. Em alguns casos, o estresse piora a coceira, e o conteúdo sobre <a href="/como-controlar-a-ansiedade/">como controlar a ansiedade</a> traz orientações gerais.</p>
 
 <h2>Bolinhas inflamadas e bolinhas que não inflamam</h2>
 <p>Uma forma útil de organizar a observação é separar as lesões que estão inflamadas das que não estão. Bolinhas inflamadas costumam ser vermelhas, quentes e doloridas, e podem conter pus.</p>

@@ -1,20 +1,18 @@
-PALAVRA_CHAVE: beta-alanina-artigo
-TITLE: beta-alanina-artigo
-DESCRIPTION: ![Pessoa praticando exercício de alta intensidade](https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg)
+PALAVRA_CHAVE: beta-alanina
+TITLE: Beta-alanina: para que serve e como tomar
+DESCRIPTION: Beta-alanina: entenda para que serve, como age nos músculos, por que causa formigamento e quais cuidados tomar antes de usar o suplemento.
 FONTE: images.pexels.com | https://images.pexels.com
 CAPA_BUSCA: woman workout gym training
-CAPA_ALT: Rotina de treino sobre beta-alanina-artigo
+CAPA_ALT: Rotina de treino sobre beta-alanina
 FOTO1_BUSCA: exercise training outdoor
-FOTO1_ALT: Atividade física regular relacionado a beta-alanina-artigo
+FOTO1_ALT: Atividade física regular relacionado a beta-alanina
 FOTO1_LEGENDA: Ilustração ilustrativa do tema
 FOTO1_SECAO: 2
 FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
 ---
-<p>![Pessoa praticando exercício de alta intensidade](https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg)</p>
 <p>A beta-alanina é um aminoácido utilizado principalmente por pessoas que praticam exercícios de alta intensidade. Sua principal função na suplementação esportiva está relacionada ao aumento da concentração muscular de <strong>carnosina</strong>, uma substância que ajuda a controlar a acidez produzida durante esforços intensos.</p>
 <p>Por isso, a beta-alanina pode contribuir para melhorar o desempenho em atividades nas quais há grande exigência muscular e metabólica, especialmente exercícios de alta intensidade com duração de aproximadamente um a vários minutos.</p>
 <h2>O que é beta-alanina?</h2>
-<p>![Treino de musculação em academia](https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg)</p>
 <p>A beta-alanina é um aminoácido não essencial produzido naturalmente pelo organismo e também obtido por meio da alimentação. No músculo, ela participa da formação da <strong>carnosina</strong>, juntamente com o aminoácido histidina.</p>
 <p>A carnosina atua como um importante sistema de tamponamento dentro das células musculares. Durante exercícios intensos, o metabolismo energético aumenta a produção de íons de hidrogênio, contribuindo para a redução do pH muscular.</p>
 <p>Com mais carnosina disponível, o músculo pode melhorar sua capacidade de lidar com essa alteração de acidez.</p>
@@ -58,6 +56,8 @@ FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
 <p>A beta-alanina é normalmente utilizada de forma <strong>diária e contínua</strong>, porque seu principal efeito depende do aumento gradual da carnosina muscular.</p>
 <p>Protocolos estudados em pesquisas com suplementação esportiva frequentemente utilizam aproximadamente <strong>4 a 6 g por dia</strong>, embora a quantidade adequada possa variar conforme a pessoa, o produto, a alimentação e o objetivo.</p>
 <p>Uma maneira de melhorar a tolerabilidade é dividir a dose diária em pequenas porções ao longo do dia.</p>
+
+<p>A alimentação também sustenta o treino, e o conteúdo sobre <a href="/proteina-mulheres-40/">proteína após os 40 anos</a> ajuda a planejar as refeições.</p>
 <h3>Beta-alanina precisa ser tomada antes do treino?</h3>
 <p>Não necessariamente.</p>
 <p>Diferentemente de substâncias cujo efeito depende de uma concentração elevada no momento do exercício, a beta-alanina atua principalmente por meio da <strong>saturação progressiva da carnosina muscular</strong>.</p>
@@ -78,7 +78,6 @@ FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
 <p>A velocidade de aumento depende da dose diária, da regularidade do uso e das características individuais.</p>
 <p>Por isso, avaliar a beta-alanina apenas pela sensação provocada logo após tomar o suplemento pode levar a uma interpretação equivocada. O formigamento pode aparecer rapidamente, mas ele <strong>não é o indicador de que o suplemento está melhorando o desempenho</strong>.</p>
 <h2>Beta-alanina e creatina: qual a diferença?</h2>
-<p>![Suplementos esportivos e equipamentos de treino](https://images.pexels.com/photos/4397840/pexels-photo-4397840.jpeg)</p>
 <p>Beta-alanina e creatina são suplementos diferentes e atuam por mecanismos distintos.</p>
 <p>A <strong>creatina</strong> aumenta a disponibilidade de fosfocreatina muscular, contribuindo principalmente para a regeneração rápida de ATP durante esforços de alta intensidade.</p>
 <p>A <strong>beta-alanina</strong>, por outro lado, aumenta a disponibilidade de carnosina muscular e melhora a capacidade de tamponamento intracelular.</p>
@@ -104,7 +103,6 @@ FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
 <p>Alterações no peso corporal dependem principalmente do balanço energético, da alimentação, do treinamento e de outros fatores individuais.</p>
 <p>Portanto, consumir beta-alanina não significa automaticamente ganhar gordura ou massa corporal.</p>
 <h2>Beta-alanina em pó: vale a pena?</h2>
-<p>![Suplemento em pó sendo preparado](https://images.pexels.com/photos/4397839/pexels-photo-4397839.jpeg)</p>
 <p>A beta-alanina em pó pode ser uma opção prática para quem deseja controlar a quantidade consumida e dividir a dose diária em pequenas porções.</p>
 <p>Ao escolher um suplemento, é importante verificar:</p>
 <ul>
@@ -141,11 +139,13 @@ FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
 <p>Em protocolos estudados, são comuns doses diárias na faixa de <strong>4 a 6 g</strong>, frequentemente divididas em pequenas porções para melhorar a tolerabilidade. O melhor protocolo, entretanto, depende das características individuais e deve considerar o produto utilizado e a orientação de um profissional qualificado.</p>
 <p>O ponto principal é entender que <strong>beta-alanina não funciona como um pré-treino estimulante tradicional</strong>. Seu benefício está relacionado ao uso regular e ao aumento gradual da carnosina muscular.</p>
 <p>Quando utilizada de maneira adequada, pode complementar uma estratégia de treinamento voltada para desempenho, mas não substitui alimentação, recuperação, sono e planejamento esportivo.</p>
+
+<p>O descanso entra nessa conta, e o conteúdo sobre <a href="/insonia/">insônia</a> mostra como o sono afeta a recuperação.</p>
 <h2>Quando procurar um médico</h2>
 <p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
 
 <h2>Resumindo</h2>
-<p>![Pessoa praticando exercício de alta intensidade](https://images.pexels.com/photos/416778/pexels-photo-416778.jpeg) Antes de mudar sua alimentação, rotina ou usar qualquer suplemento, converse com um médico ou nutricionista.</p>
+<p>Antes de mudar sua alimentação, rotina ou usar qualquer suplemento, converse com um médico ou nutricionista.</p>
 <h2>Fontes consultadas</h2>
 <p>As informações deste texto têm como base materiais da <a href="https://images.pexels.com" target="_blank" rel="noopener">images.pexels.com</a>. Ver também: <a href="https://ods.od.nih.gov" target="_blank" rel="noopener">Office of Dietary Supplements (NIH)</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
 

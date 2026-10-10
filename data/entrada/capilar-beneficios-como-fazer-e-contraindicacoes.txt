@@ -1,6 +1,6 @@
-PALAVRA_CHAVE: Capilar Benefícios, Como Fazer e Contraindicações
-TITLE: Capilar Benefícios, Como Fazer e Contraindicações
-DESCRIPTION: Capilar Benefícios, Como Fazer e Contraindicações: veja o que tratamentos capilares caseiros podem oferecer, cuidados de preparo e situações em que evitar.
+PALAVRA_CHAVE: tratamento capilar caseiro
+TITLE: Tratamento capilar caseiro: benefícios e riscos
+DESCRIPTION: Tratamento capilar caseiro: veja o que ele pode oferecer, como preparar com cuidado e em quais situações é melhor evitar ou buscar orientação profissional.
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 CAPA_BUSCA: woman hair mask treatment at home
@@ -14,7 +14,7 @@ FOTO2_ALT: Dermatologista avaliando o couro cabeludo de paciente em consultório
 FOTO2_LEGENDA: Em caso de irritação persistente, procure um dermatologista
 FOTO2_SECAO: 4
 ---
-<p>Capilar benefícios, como fazer e contraindicações é um tema de interesse de quem quer cuidar dos fios em casa com ingredientes simples. Tratamentos caseiros podem ajudar na hidratação e na sensação de maciez, mas também têm limites e riscos.</p>
+<p>O tratamento capilar caseiro é um tema de interesse de quem quer cuidar dos fios em casa com ingredientes simples. Tratamentos caseiros podem ajudar na hidratação e na sensação de maciez, mas também têm limites e riscos.</p>
 
 <p>Este texto explica o que esses tratamentos costumam oferecer, como são feitos de forma cuidadosa e em quais situações é melhor evitá-los ou buscar orientação profissional.</p>
 
@@ -38,7 +38,9 @@ FOTO2_SECAO: 4
 <p>Ainda assim, a maior parte desses benefícios é descrita em relatos e publicações informais. Vale lembrar que a percepção de maciez é subjetiva e pode mudar conforme a temperatura ambiente, o tipo de fio e o penteado usado no dia.</p>
 <p>Na prática, a melhor forma de avaliar uma máscara caseira é observar o cabelo depois de alguns usos, com as mesmas condições de lavagem e secagem.</p>
 
-<p>Anotar a receita, o tempo de pose e as impressões de cada aplicação ajuda a identificar o que funciona para cada tipo de fio e o que deve ser descartado.Estudos clínicos específicos sobre máscaras caseiras são escassos, e a maioria dos trabalhos disponíveis avalia produtos padronizados, não preparações feitas em casa.</p>
+<p>Anotar a receita, o tempo de pose e as impressões de cada aplicação ajuda a identificar o que funciona para cada tipo de fio e o que deve ser descartado.</p>
+
+<p>Estudos clínicos específicos sobre máscaras caseiras são escassos, e a maioria dos trabalhos disponíveis avalia produtos padronizados, não preparações feitas em casa.</p>
 
 <h2>Como fazer com segurança</h2>
 <p>O primeiro cuidado é a higiene de todos os utensílios e a escolha de ingredientes frescos e de procedência conhecida. Misturas com alimentos perecíveis, como iogurte ou clara de ovo, devem ser preparadas na hora do uso, para evitar contaminação. Recipientes limpos e secos também fazem diferença.</p>
@@ -66,7 +68,11 @@ FOTO2_SECAO: 4
 
 <h2>Cuidados com o cabelo quebrado e a queda</h2>
 <p>Quem percebe fios quebradiços ou queda aumentada deve entender que a máscara caseira não resolve a causa. Muitas vezes, a fragilidade vem de hábitos como uso excessivo de calor, penteados apertados, química frequente ou falta de nutrientes. Ajustar essas práticas costuma trazer mais benefício do que qualquer receita isolada.</p>
-<p>Para quem busca entender a queda, o conteúdo sobre <a href="/queda-de-cabelo/">queda de cabelo</a> explica causas comuns e sinais de alerta. Já receitas populares, como o uso de <a href="/suco-de-cebola-no-cabelo/">suco de cebola no cabelo</a>, devem ser avaliadas com cautela, porque a evidência para esse uso é limitada e há relatos de irritação.</p>
+<p>Para quem busca entender a queda, o conteúdo sobre <a href="/queda-de-cabelo/">queda de cabelo</a> explica causas comuns e sinais de alerta.</p>
+
+<p>Já receitas populares, como o uso de suco de cebola no cabelo, devem ser avaliadas com cautela, porque a evidência para esse uso é limitada e há relatos de irritação.</p>
+
+<p>A alimentação também pesa, e o conteúdo sobre <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a> ajuda a planejar o prato.</p>
 <p>Quando a queda é intensa ou persistente, o cuidado caseiro não deve atrasar a consulta. A investigação pode identificar causas que precisam de tratamento específico.</p>
 <p>Em fios com muita quebra, outra medida útil é reduzir o comprimento das pontas danificadas com corte regular. Isso remove a parte mais frágil e melhora a aparência do cabelo como um todo, sem depender de nenhuma receita.</p>
 
