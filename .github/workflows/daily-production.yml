@@ -60,6 +60,7 @@ jobs:
           GOOGLE_ADS_CUSTOMER_ID: ${{ secrets.GOOGLE_ADS_CUSTOMER_ID }}
           PEXEL_API_KEY: ${{ secrets.PEXEL_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
           BATCH_SIZE: ${{ github.event.inputs.batch || '1' }}
         run: |
           echo "🔥 Iniciando Article Robot (Google Ads API + E-E-A-T Validation)..."
