@@ -1,6 +1,6 @@
-PALAVRA_CHAVE: queda de cabelo
-TITLE: Queda de Cabelo: Causas e Quando Buscar Ajuda
-DESCRIPTION: Entenda as principais causas da queda de cabelo, os cuidados diários com os fios e os sinais que pedem avaliação de um dermatologista.
+PALAVRA_CHAVE: queda de cabelo depois dos 40
+TITLE: Queda de cabelo depois dos 40: causas e cuidados
+DESCRIPTION: Entenda a queda de cabelo depois dos 40: principais causas, cuidados diários com os fios e os sinais que pedem avaliação de um dermatologista.
 FONTE: sciencedirect.com | https://sciencedirect.com
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 CAPA_BUSCA: hair care brush
@@ -14,7 +14,7 @@ FOTO2_ALT: Lavagem suave dos cabelos com as mãos, um cuidado simples no dia a d
 FOTO2_LEGENDA: Hábitos suaves reduzem o atrito e a tensão sobre os fios.
 FOTO2_SECAO: 4
 ---
-<p>A queda de cabelo é uma das queixas mais comuns depois dos 40 anos e costuma gerar dúvidas sobre o que é normal. Perder alguns fios por dia faz parte do ciclo natural. Já a perda contínua, o couro cabeludo mais aparente e o afinamento progressivo pedem avaliação.</p>
+<p>A queda de cabelo depois dos 40 é uma das queixas mais comuns e costuma gerar dúvidas sobre o que é normal. Perder alguns fios por dia faz parte do ciclo natural. Já a perda contínua, o couro cabeludo mais aparente e o afinamento progressivo pedem avaliação.</p>
 <p>Este texto reúne causas gerais, cuidados do dia a dia e sinais de alerta. A proposta é informar com clareza, sem prometer resultados para ninguém.</p>
 
 <h2>Como funciona o ciclo do fio de cabelo</h2>
