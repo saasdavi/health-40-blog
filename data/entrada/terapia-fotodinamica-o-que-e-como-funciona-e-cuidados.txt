@@ -14,7 +14,7 @@ FOTO2_ALT: Protetor solar sendo aplicado no rosto, cuidado essencial após a ter
 FOTO2_LEGENDA: A proteção solar é parte importante dos cuidados depois da sessão.
 FOTO2_SECAO: 4
 ---
-<p>A terapia fotodinâmica é um procedimento que combina um agente sensível à luz com uma fonte luminosa de comprimento de onda específico. Na dermatologia, ela é usada em algumas lesões da pele, sempre por indicação médica. Entender como funciona e quais cuidados exigem ajuda a evitar expectativas erradas e riscos desnecessários.</p>
+<p>A terapia fotodinâmica é um procedimento que combina um agente sensível à luz com uma fonte luminosa de comprimento de onda específico. Na dermatologia, ela é usada em algumas lesões da pele, sempre por indicação médica. Entender o funcionamento e os cuidados evita expectativas erradas.</p>
 
 <h2>O que é a terapia fotodinâmica</h2>
 
@@ -44,9 +44,15 @@ FOTO2_SECAO: 4
 
 <p>Pesquisas publicadas em revistas dermatológicas, muitas delas indexadas na base SciELO, discutem resultados, indicações e limites dessa técnica. A leitura desses trabalhos é útil para entender o tema, mas não substitui a avaliação de um dermatologista.</p>
 
+<p>Antes de qualquer sessão, o médico costuma perguntar sobre medicamentos, histórico de sensibilidade, exposição solar recente e gestação. Essas respostas influenciam a escolha da substância e o tempo de exposição à luz.</p>
+
+<p>Em todos os casos, o paciente deve receber explicações claras sobre o motivo da indicação, o que esperar e quais são as alternativas. Esse diálogo faz parte do cuidado e ajuda a tomar uma decisão consciente.</p>
+
 <h2>O que acontece durante e depois da sessão</h2>
 
 <p>Durante a aplicação, é comum sentir ardor, formigamento ou desconforto na área tratada. Equipes costumam usar medidas para reduzir essa sensação, e o paciente deve avisar o profissional caso a dor seja intensa.</p>
+
+<p>Algumas pessoas relatam calor que passa após alguns minutos. Se o desconforto persistir ou se espalhar para áreas não tratadas, a equipe deve ser informada imediatamente.</p>
 
 <p>Nos dias seguintes, a pele pode ficar avermelhada, inchada, com descamação e sensação de queimadura. Esses efeitos fazem parte do processo e costumam melhorar com cuidados simples, orientados pelo médico.</p>
 
@@ -60,6 +66,8 @@ FOTO2_SECAO: 4
 
 <p>A pele tratada pode ficar mais sensível à luz por um período. Por isso, a exposição ao sol deve ser evitada ou reduzida nos dias seguintes, e o uso de protetor solar de amplo espectro e de chapéu é recomendado.</p>
 
+<p>Roupas com proteção e a escolha de horários com menos sol ajudam a reduzir a exposição sem depender apenas do protetor. O filtro solar deve ser reaplicado ao longo do dia, principalmente após suor ou contato com água.</p>
+
 <p>Após a fase aguda, a proteção continua importante, porque a radiação solar é uma das principais causas de lesões da pele. Quem tem histórico de lesões pré-cancerosas deve manter acompanhamento regular com dermatologista.</p>
 
 <p>Quem tiver dúvidas sobre sinais suspeitos na pele pode consultar <a href="/melanoma/">as orientações sobre melanoma</a>, que ajudam a reconhecer alterações que precisam de avaliação. Manchas que aparecem após o sol também merecem atenção, e <a href="/manchas-na-pele/">o guia sobre manchas na pele</a> explica os tipos mais comuns.</p>
@@ -70,7 +78,11 @@ FOTO2_SECAO: 4
 
 <p>Os efeitos adversos mais comuns são locais, como dor, vermelhidão e inchaço. Reações sistêmicas são menos frequentes, mas exigem atenção médica imediata. Por isso, o acompanhamento do procedimento é parte da segurança.</p>
 
-<p>Promessas de resultado definitivo ou de tratamento universal devem ser recebidas com cautela. A indicação precisa vir de um profissional que avaliou a pele e explicou riscos, alternativas e expectativas.</p>
+<p>Quem já teve reações fortes a outros procedimentos na pele deve comunicar isso antes da primeira sessão, para que o plano seja ajustado com mais cuidado.</p>
+
+<p>Lesões que não respondem ao tratamento, ou que voltam com frequência, merecem reavaliação e, se necessário, outra abordagem. Insistir em uma técnica sem revisar o diagnóstico pode atrasar o cuidado adequado.</p>
+
+<p>Promessas de resultado definitivo ou de tratamento universal devem ser recebidas com cautela. A indicação precisa vir de um profissional que avaliou a pele e explicou riscos, alternativas e expectativas. Desconfie também de locais que oferecem o procedimento como pacote genérico, sem exame prévio da lesão.</p>
 
 <h2>Perguntas frequentes</h2>
 
@@ -80,11 +92,15 @@ FOTO2_SECAO: 4
 
 <p><strong>Quantas sessões são necessárias?</strong><br>Não há um número fixo. O profissional define o plano de acordo com a lesão e a resposta da pele.</p>
 
+<p><strong>Tem algum risco para a pele clara ou escura?</strong><br>Os riscos devem ser avaliados caso a caso, considerando o tipo de pele e o histórico de manchas. Quem tem tendência a manchas após inflamações deve comentar o tema com o médico.</p>
+
 <p><strong>Posso fazer em casa com aparelho de luz?</strong><br>Não é recomendado. Sem avaliação e protocolo adequado, o risco de queimadura e de resposta inadequada aumenta.</p>
 
 <h2>Quando procurar um médico</h2>
 
 <p>Procure um dermatologista se surgir uma lesão nova, que sangra, coça, muda de cor ou de tamanho, ou não cicatriza. Esses sinais precisam de avaliação, e nem sempre a lesão é benigna.</p>
+
+<p>Se a lesão mudar depois de meses de acompanhamento, a reavaliação deve ser feita sem demora, mesmo que o tratamento anterior tenha parecido adequado.</p>
 
 <p>Também vale a consulta após a terapia se houver sinais de infecção, dor intensa, febre ou piora progressiva da área tratada. A equipe pode orientar cuidados e decidir sobre exames complementares.</p>
 

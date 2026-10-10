@@ -20,6 +20,7 @@ FOTO2_SECAO: 4
 <p>A radiação ultravioleta é a principal causa de envelhecimento precoce da pele e está relacionada ao surgimento de manchas, perda de elasticidade e lesões pré-cancerígenas. Ela atravessa as nuvens e pode atingir a pele mesmo em dias frios ou com céu encoberto. Por isso, a proteção deve ser diária, e não apenas em dias de praia.</p>
 <p>No rosto, a exposição é constante, porque a face fica desprotegida durante a maior parte do dia. Além disso, a pele facial é uma das áreas mais visíveis do corpo, o que faz dela o local onde os sinais do tempo costumam aparecer primeiro.</p>
 <p>O protetor solar facial, usado em todas as manhãs, é uma das medidas mais simples e eficazes para diminuir o dano acumulado. Ele deve ser combinado com outras estratégias, como sombra nos horários de pico e roupas adequadas.</p>
+<p>Além do efeito estético, a proteção contra o sol faz parte da prevenção de câncer de pele. Por isso, pintas que mudam, feridas que não cicatrizam ou manchas escuras que crescem merecem avaliação. Para entender melhor esses sinais, leia sobre <a href="/melanoma/">melanoma</a>, tema que exige atenção de dermatologista.</p>
 
 <h2>Entendendo o FPS e a proteção UVA</h2>
 <p>O FPS, ou fator de proteção solar, indica a proteção contra a radiação ultravioleta B, responsável principalmente pelas queimaduras. Protetores com FPS mais alto oferecem proteção maior contra essa radiação, mas nenhum fator elimina totalmente o risco, e a aplicação correta é determinante.</p>
@@ -33,7 +34,7 @@ FOTO2_SECAO: 4
 
 <h2>Como escolher de acordo com a pele</h2>
 <p>Peles oleosas costumam se dar bem com fórmulas em gel, fluidas ou com acabamento matte. Peles secas podem preferir cremes mais hidratantes. Peles sensíveis devem buscar produtos com menos fragrância e com lista curta de ingredientes, de preferência testados em peles delicadas.</p>
-<p>Quem tem manchas ou melasma precisa de um cuidado extra, pois a luz visível e a radiação infravermelha também podem contribuir para a piora dessas alterações em algumas pessoas. Nesses casos, a orientação de um dermatologista ajuda a definir o protetor mais adequado e a rotina completa.</p>
+<p>Quem tem manchas ou <a href="/melasma/">melasma</a> precisa de um cuidado extra, pois a luz visível e a radiação infravermelha também podem contribuir para a piora dessas alterações em algumas pessoas. Nesses casos, a orientação de um dermatologista ajuda a definir o protetor mais adequado e a rotina completa.</p>
 <p>Pele madura, com ressecamento frequente, costuma se beneficiar de produtos que combinam proteção e hidratação, sem sobrecarregar a face. A escolha deve ser feita pensando na sensação de conforto ao longo do dia.</p>
 <p>Para entender melhor como a exposição interfere nas manchas, vale ler o texto sobre <a href="/manchas-na-pele/">manchas na pele</a>.</p>
 
@@ -51,6 +52,11 @@ FOTO2_SECAO: 4
 <p>O erro mais comum é aplicar pouca quantidade e esquecer da reaplicação. Outro é confiar que a base ou o pó compacto com cor já protegem o suficiente, pois normalmente são aplicados em camada fina e não atingem o FPS indicado no rótulo.</p>
 <p>Também é comum pular o protetor em dias chuvosos ou de inverno. A radiação continua presente e a pele sofre o mesmo acúmulo de dano, mesmo sem a sensação de calor. Por fim, há quem troque o protetor pelo bronzeamento artificial, prática que aumenta a exposição a radiação e não é recomendada.</p>
 <p>Quando surgir irritação, ardência ou vermelhidão após o uso de um protetor, a orientação é suspender o produto e procurar um dermatologista para avaliar a causa e indicar uma alternativa.</p>
+
+<h2>Protetor solar facial no dia a dia: montando a rotina</h2>
+<p>Uma rotina prática começa com a limpeza suave da manhã, seguida de sérum ou hidratante, e termina com o protetor solar facial. Quando a etapa final é feita sempre no mesmo ponto do dia, ela vira hábito e fica mais fácil de lembrar, mesmo em viagens ou em dias corridos.</p>
+<p>Para quem trabalha em ambientes com ar-condicionado e passa boa parte do tempo no computador, a luz de telas e a luz natural que entra pelas janelas ainda merecem atenção. Manter o protetor na bolsa ou na mesa de trabalho facilita a reaplicação sem depender de memória.</p>
+<p>Quem pratica atividades ao ar livre, como caminhadas ou esportes, deve escolher produtos resistentes ao suor e à água e reaplicar com mais frequência. Testar o produto antes de uma viagem ou de um evento importante evita surpresas na pele, como irritação ou brilho excessivo.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>Protetor solar facial pode ser usado todos os dias?</strong><br>Sim. A proteção diária é uma das medidas mais recomendadas para a saúde da pele, inclusive em dias nublados e no inverno.</p>
