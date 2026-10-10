@@ -1,0 +1,266 @@
+PALAVRA_CHAVE: bebidas-artigo
+TITLE: bebidas-artigo
+DESCRIPTION: ![Variedade de bebidas em uma mesa](https://images.pexels.com/photos/1267696/pexels-photo-1267696.jpeg?auto=compress&cs=tinysrgb&w=1200)
+FONTE: Organização Mundial da Saúde (OMS) | https://www.who.int
+FONTE: Ministério da Saúde | https://www.gov.br/saude
+CAPA_BUSCA: fresh fruits on wooden table
+CAPA_ALT: Frutas e alimentos naturais sobre bebidas-artigo
+FOTO1_BUSCA: healthy breakfast table food
+FOTO1_ALT: Alimentos frescos relacionado a bebidas-artigo
+FOTO1_LEGENDA: Ilustração ilustrativa do tema
+FOTO1_SECAO: 2
+---
+<p>![Variedade de bebidas em uma mesa](https://images.pexels.com/photos/1267696/pexels-photo-1267696.jpeg?auto=compress&cs=tinysrgb&w=1200)</p>
+<p>A palavra <strong>bebidas</strong> inclui uma variedade enorme de produtos: água, sucos, refrigerantes, cafés, chás, bebidas fermentadas, destiladas, coquetéis e alternativas sem álcool. Por isso, uma busca genérica por “bebidas” pode ter intenção comercial, culinária ou informativa.</p>
+<p>Quando o assunto é <strong>saúde</strong>, porém, a principal diferença está na composição da bebida, na presença de álcool, açúcar e cafeína e, principalmente, na quantidade consumida.</p>
+<p>No caso das bebidas alcoólicas, não existe uma opção que possa ser considerada “saudável” apenas por ser vinho, cerveja, destilado ou artesanal. O álcool etílico é a substância responsável por grande parte dos riscos. A Organização Mundial da Saúde considera o álcool uma substância tóxica e carcinogênica, e informa que não existe consumo de álcool sem risco à saúde. [OMS](https://www.who.int/news-room/fact-sheets/detail/alcohol)</p>
+<h2>Quais são os principais tipos de bebidas?</h2>
+<p>As bebidas podem ser agrupadas de diferentes formas. Uma classificação prática é:</p>
+<ul>
+<li><strong>não alcoólicas:</strong> água, café, chá, sucos, refrigerantes e bebidas sem álcool;</li>
+<li><strong>fermentadas:</strong> cerveja, vinho, sidra e algumas bebidas tradicionais obtidas por fermentação;</li>
+<li><strong>destiladas:</strong> vodka, whisky, cachaça, gin, rum e tequila;</li>
+<li><strong>licores:</strong> bebidas geralmente produzidas a partir de destilados ou outras bases, com adição de açúcar, frutas, ervas, especiarias ou cremes;</li>
+<li><strong>coquetéis:</strong> combinações de uma ou mais bebidas, podendo conter álcool, açúcar, sucos, refrigerantes ou outros ingredientes.</li>
+</ul>
+<p>Essa classificação descreve <strong>como a bebida é produzida ou composta</strong>, mas não determina sozinha o risco à saúde.</p>
+<h2>Qual a diferença entre bebidas fermentadas e destiladas?</h2>
+<p>A diferença principal está no processo de produção.</p>
+<p>Nas bebidas <strong>fermentadas</strong>, microrganismos transformam açúcares em álcool. É o caso de cerveja e vinho.</p>
+<p>Nas bebidas <strong>destiladas</strong>, uma bebida alcoólica passa por um processo de destilação que concentra o etanol e outros componentes voláteis. Exemplos incluem cachaça, vodka, whisky, rum e gin.</p>
+<p>Uma bebida destilada geralmente apresenta teor alcoólico maior por volume, mas isso não significa que qualquer destilado seja necessariamente mais prejudicial do que qualquer fermentado em uma comparação feita apenas pelo nome da bebida.</p>
+<p>Para avaliar a exposição ao álcool, é mais útil considerar <strong>quanto etanol foi consumido</strong>. Uma dose pequena de uma bebida de alto teor pode conter quantidade semelhante de álcool a uma porção maior de uma bebida com menor teor.</p>
+<h2>Quais são os tipos de bebidas destiladas?</h2>
+<p>Entre os destilados mais conhecidos estão:</p>
+<ul>
+<li><strong>cachaça:</strong> destilado brasileiro produzido a partir da cana-de-açúcar;</li>
+<li><strong>vodka:</strong> destilado de origem diversa, produzido a partir de matérias-primas como cereais ou outros vegetais ricos em carboidratos;</li>
+<li><strong>whisky:</strong> destilado produzido a partir de cereais e submetido a processos específicos de fermentação, destilação e, em muitas categorias, maturação;</li>
+<li><strong>gin:</strong> destilado cuja característica marcante é o uso de zimbro e outros botânicos;</li>
+<li><strong>rum:</strong> destilado associado à cana-de-açúcar e seus derivados;</li>
+<li><strong>tequila:</strong> destilado mexicano produzido a partir de agave, conforme regras específicas;</li>
+<li><strong>brandy/conhaque:</strong> destilados obtidos de matérias-primas fermentadas, frequentemente frutas ou vinho, conforme a categoria.</li>
+</ul>
+<p>O teor alcoólico varia bastante entre produtos. Por isso, consultar o rótulo é mais preciso do que assumir uma graduação alcoólica apenas pelo tipo da bebida.</p>
+<h2>O que é teor alcoólico?</h2>
+<p>O <strong>teor alcoólico</strong> indica a proporção de etanol presente na bebida, geralmente expressa em porcentagem por volume (% vol.).</p>
+<p>Por exemplo, uma bebida com 5% vol. contém aproximadamente 5 mL de etanol em cada 100 mL da bebida, desconsiderando pequenas diferenças decorrentes da forma de expressão e da temperatura.</p>
+<p>O teor alcoólico não informa sozinho quantos gramas de álcool serão ingeridos. Para isso, também é necessário considerar o volume consumido.</p>
+<p>Uma forma aproximada de estimar o álcool puro é:</p>
+<p><strong>gramas de álcool ≈ volume da bebida (mL) × teor alcoólico (%) × 0,789 ÷ 100</strong></p>
+<p>Por exemplo, 330 mL de uma bebida a 5% vol. correspondem a aproximadamente 13 g de etanol.</p>
+<h2>O que é uma dose de bebida alcoólica?</h2>
+<p>O tamanho de uma “dose” varia entre países e diretrizes. No Brasil, o Ministério da Saúde definiu, para fins de vigilância epidemiológica, uma <strong>dose-padrão de 10 g de álcool puro</strong>, equivalente a aproximadamente 12,5 mL de álcool puro. A quantidade de bebida necessária para atingir esse valor depende do teor alcoólico. [Ministério da Saúde](https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2024/nota-tecnica-conjunta-no-263-2024-svsa-saps-saes-ms.pdf)</p>
+<p>Isso é importante porque “uma lata”, “uma taça” ou “um copo” não representam necessariamente a mesma quantidade de álcool.</p>
+<p>Uma cerveja, uma taça de vinho e uma dose de destilado podem ter volumes muito diferentes, mas fornecer quantidades semelhantes de etanol dependendo do tamanho e do teor alcoólico.</p>
+<h2>Bebidas alcoólicas têm calorias?</h2>
+<p>Sim.</p>
+<p>O álcool fornece aproximadamente <strong>7 kcal por grama</strong>. Além disso, bebidas podem conter carboidratos, açúcares e outros ingredientes que acrescentam energia.</p>
+<p>Por isso, bebidas alcoólicas podem contribuir para a ingestão energética total e para o ganho de peso quando consumidas com frequência ou em grandes quantidades.</p>
+<p>Os chamados “drinks” podem ter ainda mais calorias quando combinam álcool com:</p>
+<ul>
+<li>açúcar;</li>
+<li>xaropes;</li>
+<li>leite condensado;</li>
+<li>cremes;</li>
+<li>sucos adoçados;</li>
+<li>refrigerantes;</li>
+<li>licores.</li>
+</ul>
+<h3>Whisky é menos calórico que um licor cremoso?</h3>
+<p>Não é adequado comparar apenas o nome da bebida.</p>
+<p>Um destilado puro geralmente contém pouco ou nenhum carboidrato residual, mas fornece calorias provenientes principalmente do álcool. Já um licor cremoso pode conter álcool e uma quantidade considerável de açúcar e gordura, dependendo da formulação.</p>
+<p>Assim, uma porção de licor cremoso pode fornecer mais calorias do que uma porção equivalente de destilado puro, mas <strong>o tamanho da porção e o teor alcoólico precisam ser considerados</strong>.</p>
+<h2>Bebidas alcoólicas quebram o jejum?</h2>
+<p>Sim.</p>
+<p>Do ponto de vista energético e metabólico, uma bebida alcoólica não pode ser considerada uma bebida “sem calorias” ou neutra para o jejum. O etanol fornece energia e provoca respostas metabólicas próprias.</p>
+<p>Além disso, beber álcool em jejum pode favorecer uma elevação mais rápida da concentração de álcool no sangue do que beber após uma refeição, porque a presença de alimentos altera o esvaziamento gástrico e a absorção.</p>
+<p>Por isso, não existe bebida alcoólica que possa ser classificada como adequada para um jejum apenas por ter pouco açúcar.</p>
+<h2>O álcool desidrata?</h2>
+<p>O álcool pode contribuir para alterações no equilíbrio de líquidos, principalmente em determinadas quantidades e situações.</p>
+<p>O etanol reduz a secreção de vasopressina, um hormônio envolvido na retenção de água pelos rins. Além disso, a pessoa que bebe pode consumir menos água, permanecer fisicamente ativa ou estar exposta a calor, aumentando a possibilidade de desidratação.</p>
+<p>Isso não significa que cada bebida alcoólica provoque automaticamente uma desidratação grave. O efeito depende da quantidade ingerida, hidratação prévia, ambiente e outros fatores.</p>
+<p>Álcool também não deve ser usado como bebida de reidratação após exercício.</p>
+<h2>O que é ressaca e por que ela acontece?</h2>
+<p>A <strong>ressaca</strong> é um conjunto de sintomas que pode ocorrer depois do consumo de álcool, especialmente após quantidades elevadas.</p>
+<p>Pode envolver:</p>
+<ul>
+<li>dor de cabeça;</li>
+<li>náusea;</li>
+<li>sede;</li>
+<li>fadiga;</li>
+<li>fraqueza;</li>
+<li>sensibilidade à luz e ao som;</li>
+<li>dificuldade de concentração;</li>
+<li>mal-estar gastrointestinal.</li>
+</ul>
+<p>A ressaca não é explicada apenas por “desidratação”. O metabolismo do álcool, alterações do sono, irritação gastrointestinal, inflamação e outros mecanismos também podem participar.</p>
+<p>Não existe um alimento ou suplemento comprovadamente capaz de eliminar rapidamente a ressaca. O principal fator é dar tempo para o organismo metabolizar o álcool e evitar novo consumo.</p>
+<h2>Quais são os efeitos das bebidas alcoólicas no organismo?</h2>
+<p>O álcool afeta vários sistemas do organismo.</p>
+<p>No sistema nervoso central, altera atenção, coordenação, julgamento e tempo de reação. Em quantidades maiores, pode provocar intoxicação, perda de consciência e risco de depressão respiratória.</p>
+<p>No fígado, o metabolismo do álcool produz substâncias como o acetaldeído e pode favorecer alterações hepáticas quando o consumo é elevado ou repetido.</p>
+<p>No longo prazo, o consumo de álcool está associado a doenças hepáticas, cardiovasculares, diferentes tipos de câncer, transtornos relacionados ao uso de álcool e outros problemas de saúde. A OMS relaciona o álcool a mais de 200 condições de saúde. [OMS](https://www.who.int/news-room/fact-sheets/detail/alcohol)</p>
+<h2>Existe uma bebida alcoólica mais saudável?</h2>
+<p>Não.</p>
+<p>Pode haver diferenças nutricionais e de composição entre cerveja, vinho, destilados e licores, mas isso não transforma nenhuma bebida alcoólica em uma escolha necessária para proteger a saúde.</p>
+<p>O antigo argumento de que pequenas quantidades de vinho seriam recomendadas para proteger o coração não justifica iniciar ou aumentar o consumo de álcool. A evidência atual não estabelece uma quantidade de álcool que seja livre de risco.</p>
+<p>Quanto menor o consumo, menor tende a ser o risco. Para quem não bebe, <strong>não há recomendação de começar a beber por supostos benefícios cardiovasculares</strong>.</p>
+<h2>Bebidas alcoólicas fazem mal ao coração?</h2>
+<p>O álcool está relacionado a diferentes efeitos cardiovasculares. O risco depende da quantidade e do padrão de consumo, além das características individuais.</p>
+<p>Consumo elevado ou episódios de grande ingestão podem aumentar o risco de hipertensão, arritmias, acidente vascular cerebral e outras complicações.</p>
+<p>Também não é recomendado usar álcool como estratégia preventiva para doenças cardiovasculares. A redução do consumo faz mais sentido do ponto de vista de prevenção do que escolher uma bebida alcoólica específica acreditando que ela seja cardioprotetora.</p>
+<h2>Álcool aumenta o risco de câncer?</h2>
+<p>Sim.</p>
+<p>O álcool é classificado como <strong>carcinógeno do Grupo 1 pela Agência Internacional de Pesquisa em Câncer (IARC)</strong>. O consumo está relacionado a vários tipos de câncer, incluindo câncer de mama, fígado, esôfago, cavidade oral, faringe, laringe e colorretal.</p>
+<p>A relação não depende de a bebida ser cerveja, vinho ou destilado. O componente relevante é principalmente o etanol e seus produtos metabólicos.</p>
+<p>A OMS destaca que não existe nível seguro de consumo de álcool em relação ao risco de câncer e que o risco aumenta conforme aumenta o consumo. [OMS](https://www.who.int/europe/news-room/fact-sheets/item/alcohol-and-cancer)</p>
+<h2>Misturar bebida alcoólica com energético faz mal?</h2>
+<p><strong>Pode aumentar os riscos.</strong></p>
+<p>A cafeína pode fazer a pessoa se sentir mais alerta, mas não neutraliza os efeitos do álcool. Isso pode criar uma falsa sensação de menor embriaguez e favorecer maior consumo.</p>
+<p>O CDC alerta que misturar álcool e cafeína pode estar associado a maior ingestão de álcool, lesões e outros riscos. Também podem ocorrer aumento da pressão arterial e alterações do ritmo cardíaco. [CDC](https://www.cdc.gov/alcohol/about-alcohol-use/alcohol-caffeine.html)</p>
+<p>Portanto, energético não “corta” o álcool e não torna a bebida mais segura.</p>
+<h2>Bebidas gaseificadas aceleram a absorção do álcool?</h2>
+<p>É comum encontrar a afirmação de que o gás presente em bebidas do tipo “Ice” ou em misturas carbonatadas necessariamente acelera a absorção do álcool. Essa afirmação é <strong>mais complexa do que parece</strong>.</p>
+<p>A carbonatação pode influenciar algumas características gastrointestinais, mas não existe uma regra simples segundo a qual qualquer bebida gaseificada automaticamente acelera a absorção do álcool a ponto de tornar seu consumo seguro ou perigoso por esse motivo isolado.</p>
+<p>A velocidade de absorção do álcool também depende de fatores como concentração alcoólica, quantidade ingerida, presença de alimentos, velocidade de consumo e características individuais.</p>
+<p>Portanto, não é correto apresentar a carbonatação como um mecanismo universal de “absorção acelerada”.</p>
+<h2>Álcool e suplementos esportivos: interfere na creatina ou glutamina?</h2>
+<p>Não há evidência suficiente para afirmar que o álcool <strong>bloqueie diretamente a absorção intestinal da creatina ou da glutamina</strong> como uma regra geral.</p>
+<p>A preocupação é mais ampla: o consumo de álcool pode prejudicar aspectos importantes da recuperação esportiva, especialmente quando é elevado ou ocorre próximo de sessões de treino.</p>
+<p>Revisões sobre álcool após exercício de resistência encontraram alterações em alguns marcadores relacionados à recuperação, incluindo redução da síntese de proteína muscular em determinadas condições experimentais. Os efeitos variam conforme dose, tempo e contexto. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33467356/)</p>
+<p>A creatina, por sua vez, não deve ser considerada incompatível com hidratação adequada apenas porque uma pessoa consome álcool ocasionalmente. Não há evidência de que o álcool torne a creatina automaticamente inútil.</p>
+<p>Para quem busca desempenho e recuperação, porém, o álcool não oferece vantagem e pode competir com hábitos mais importantes, como sono, alimentação, hidratação e recuperação adequada.</p>
+<h2>Bebidas sem álcool são mais saudáveis?</h2>
+<p><strong>Em geral, retirar o álcool reduz um importante fator de risco</strong>, mas “sem álcool” não significa automaticamente “saudável”.</p>
+<p>Uma bebida pode não conter etanol e ainda apresentar muito açúcar, calorias ou cafeína.</p>
+<p>Ao escolher bebidas sem álcool, vale observar:</p>
+<ul>
+<li>quantidade de açúcar;</li>
+<li>calorias;</li>
+<li>tamanho da porção;</li>
+<li>presença de cafeína;</li>
+<li>quantidade de sódio;</li>
+<li>lista de ingredientes.</li>
+</ul>
+<p>Água é a opção mais simples para hidratação cotidiana. Café e chá sem excesso de açúcar também podem fazer parte de uma alimentação equilibrada.</p>
+<h2>Quais são boas opções de bebidas sem álcool?</h2>
+<p>Algumas alternativas incluem:</p>
+<ul>
+<li>água natural;</li>
+<li>água com gás;</li>
+<li>água aromatizada com frutas ou ervas;</li>
+<li>café sem excesso de açúcar;</li>
+<li>chás sem açúcar;</li>
+<li>leite ou bebidas vegetais adequadas ao contexto alimentar;</li>
+<li>sucos em porções moderadas;</li>
+<li>mocktails sem álcool e com pouco açúcar.</li>
+</ul>
+<h3>Como preparar coquetéis sem álcool mais equilibrados?</h3>
+<p>Uma alternativa é combinar água com gás, frutas, ervas e gelo, evitando excesso de xaropes e açúcar.</p>
+<p>Por exemplo:</p>
+<p><strong>Água com gás + limão + hortelã + gelo</strong> cria uma bebida simples e sem álcool, sem a necessidade de adicionar açúcar.</p>
+<p>Outra possibilidade é usar frutas inteiras maceradas em vez de grandes quantidades de suco adoçado.</p>
+<h2>Bebidas menos calóricas para dieta</h2>
+<p>Se o objetivo é reduzir calorias, bebidas sem açúcar geralmente facilitam o controle energético, mas o contexto importa.</p>
+<p>Boas opções para o dia a dia incluem:</p>
+<ul>
+<li>água;</li>
+<li>água com gás sem açúcar;</li>
+<li>café sem açúcar;</li>
+<li>chá sem açúcar.</li>
+</ul>
+<p>Entre as bebidas alcoólicas, não existe uma opção que possa ser classificada como “ideal para emagrecimento”. Mesmo uma bebida com poucos carboidratos continua fornecendo energia proveniente do álcool.</p>
+<p>Além disso, o consumo de álcool pode vir acompanhado de petiscos, refeições mais calóricas e redução do controle alimentar.</p>
+<h2>Bebidas quentes: quais tipos existem?</h2>
+<p>Bebidas quentes incluem diversas opções alcoólicas e não alcoólicas.</p>
+<p>Entre as não alcoólicas estão:</p>
+<ul>
+<li>café;</li>
+<li>chá;</li>
+<li>infusões de ervas;</li>
+<li>leite quente;</li>
+<li>bebidas de cacau;</li>
+<li>algumas preparações com especiarias.</li>
+</ul>
+<p>Entre as alcoólicas, existem preparações aquecidas como vinho quente e determinados coquetéis.</p>
+<p>O fato de uma bebida ser quente não a torna automaticamente saudável ou prejudicial. A composição e a quantidade consumida continuam sendo os fatores principais.</p>
+<h2>Como reduzir o consumo de bebidas alcoólicas?</h2>
+<p>Para quem deseja beber menos, algumas estratégias práticas podem ajudar:</p>
+<ul>
+<li>estabelecer previamente quantos dias da semana ficarão sem álcool;</li>
+<li>não manter grandes quantidades de bebida em casa;</li>
+<li>alternar bebidas com água;</li>
+<li>escolher porções menores;</li>
+<li>evitar beber automaticamente em situações de estresse ou tédio;</li>
+<li>identificar situações sociais que estimulam o consumo;</li>
+<li>registrar a quantidade ingerida;</li>
+<li>combinar atividades sociais que não tenham o álcool como centro.</li>
+</ul>
+<p>O objetivo não precisa ser apenas trocar uma bebida alcoólica por outra. Muitas vezes, a estratégia mais efetiva é mudar o contexto em que o consumo acontece.</p>
+<h2>Quais benefícios podem ocorrer ao parar de beber?</h2>
+<p>Reduzir ou interromper o consumo pode trazer benefícios dependendo do padrão anterior de ingestão.</p>
+<p>Entre eles podem estar:</p>
+<ul>
+<li>menor exposição aos efeitos tóxicos do álcool;</li>
+<li>melhora do sono em algumas pessoas;</li>
+<li>redução da ingestão calórica;</li>
+<li>menor risco de acidentes relacionados à intoxicação;</li>
+<li>redução da exposição a um carcinógeno;</li>
+<li>melhora de alguns fatores cardiometabólicos em determinados indivíduos;</li>
+<li>menor risco de desenvolver transtorno relacionado ao uso de álcool.</li>
+</ul>
+<p>Os benefícios variam conforme a quantidade e frequência anteriores e as condições de saúde de cada pessoa.</p>
+<h2>Quem deve evitar completamente bebidas alcoólicas?</h2>
+<p>Há situações em que a abstinência é especialmente importante, incluindo:</p>
+<ul>
+<li>gravidez ou tentativa de engravidar;</li>
+<li>menores de idade;</li>
+<li>pessoas que precisam dirigir ou operar máquinas;</li>
+<li>pessoas que utilizam medicamentos incompatíveis com álcool;</li>
+<li>pessoas com determinadas doenças hepáticas;</li>
+<li>pessoas com histórico ou risco de transtorno por uso de álcool;</li>
+<li>pessoas que não conseguem controlar a quantidade consumida;</li>
+<li>situações em que o álcool possa agravar uma condição médica ou psiquiátrica.</li>
+</ul>
+<p>Além disso, alguém que apresenta sintomas de abstinência ao tentar parar de beber não deve simplesmente interromper o consumo por conta própria sem avaliação profissional, especialmente quando o uso é frequente ou intenso. A abstinência alcoólica pode ser grave e, em alguns casos, potencialmente fatal.</p>
+<h2>Quando procurar ajuda para o consumo de álcool?</h2>
+<p>É importante buscar ajuda quando a pessoa:</p>
+<ul>
+<li>tenta reduzir o consumo e não consegue;</li>
+<li>precisa beber quantidades cada vez maiores para obter o mesmo efeito;</li>
+<li>passa muito tempo pensando em beber;</li>
+<li>continua bebendo apesar de problemas familiares, profissionais ou de saúde;</li>
+<li>perde compromissos por causa do álcool;</li>
+<li>apresenta tremores, suor, ansiedade ou outros sintomas quando fica sem beber;</li>
+<li>sofre acidentes ou situações de risco relacionadas ao consumo.</li>
+</ul>
+<p>O tratamento não é sinônimo de falta de força de vontade. O transtorno por uso de álcool é uma condição de saúde que pode ser tratada.</p>
+<h2>Perguntas frequentes</h2>
+<h3>Quais são os tipos de bebidas destiladas?</h3>
+<p>Os principais exemplos incluem cachaça, vodka, whisky, gin, rum, tequila e brandy. O teor alcoólico varia conforme o produto e deve ser conferido no rótulo.</p>
+<h3>Qual a diferença entre bebida fermentada e destilada?</h3>
+<p>Bebidas fermentadas são produzidas pela ação de microrganismos sobre açúcares. As destiladas passam também por um processo de destilação que concentra o álcool e outros componentes voláteis.</p>
+<h3>Qual bebida alcoólica tem menos calorias?</h3>
+<p>Não existe uma resposta universal porque calorias dependem do teor alcoólico, volume e ingredientes adicionais. Licores, cremes, xaropes e misturas açucaradas podem aumentar bastante o valor energético.</p>
+<h3>Misturar energético com bebida alcoólica faz mal?</h3>
+<p>Pode aumentar os riscos. A cafeína não neutraliza o álcool e pode fazer a pessoa se sentir mais alerta do que realmente está, favorecendo maior consumo e comportamentos de risco.</p>
+<h3>Existem bebidas alcoólicas que não quebram o jejum?</h3>
+<p>Não. O álcool fornece energia e provoca respostas metabólicas, portanto não deve ser tratado como uma bebida neutra para o jejum.</p>
+<h3>Bebida sem álcool é sempre saudável?</h3>
+<p>Não. Uma bebida sem álcool pode conter muito açúcar, calorias, sódio ou cafeína. É preciso observar o rótulo e o contexto da alimentação.</p>
+<h3>Qual bebida é melhor para hidratação?</h3>
+<p>Para a maioria das situações cotidianas, <strong>água</strong> é a escolha mais simples. Bebidas alcoólicas não devem ser usadas como estratégia de hidratação.</p>
+<h3>O álcool engorda?</h3>
+<p>Pode contribuir para o ganho de peso porque fornece energia e pode aumentar a ingestão calórica total. O efeito depende da quantidade, frequência, alimentação e outros fatores.</p>
+<h2>Conclusão</h2>
+<p>“Bebidas” é um termo amplo que inclui produtos muito diferentes. Para escolher melhor, é necessário separar <strong>tipo de bebida, teor alcoólico, quantidade, açúcar, calorias e contexto de consumo</strong>.</p>
+<p>Fermentadas e destiladas diferem principalmente pelo processo de produção e pela concentração de álcool. Porém, quando a preocupação é saúde, não basta perguntar qual bebida é “melhor”: é preciso considerar a quantidade de etanol ingerida.</p>
+<p>No caso do álcool, a evidência atual não sustenta a ideia de que vinho, cerveja ou destilados sejam necessários para proteger o coração. A OMS afirma que não existe consumo de álcool completamente livre de risco, e o Ministério da Saúde brasileiro utiliza uma dose-padrão de 10 g de álcool puro para facilitar a mensuração do consumo.</p>
+<p>Para quem quer reduzir riscos, <strong>menos álcool é melhor; não beber é a opção de menor exposição ao álcool</strong>. Já entre as bebidas sem álcool, vale priorizar opções simples, com pouco ou nenhum açúcar, de acordo com as necessidades individuais.</p>
+
+<h2>Resumindo</h2>
+<p>![Variedade de bebidas em uma mesa](https://images.pexels.com/photos/1267696/pexels-photo-1267696.jpeg?auto=compress&cs=tinysrgb&w=1200) Antes de mudar sua alimentação, rotina ou usar qualquer suplemento, converse com um médico ou nutricionista.</p>
+<h2>Fontes consultadas</h2>
+<p>As informações deste texto têm como base materiais da <a href="https://www.who.int" target="_blank" rel="noopener">Organização Mundial da Saúde (OMS)</a> e da <a href="https://www.gov.br/saude" target="_blank" rel="noopener">Ministério da Saúde</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+

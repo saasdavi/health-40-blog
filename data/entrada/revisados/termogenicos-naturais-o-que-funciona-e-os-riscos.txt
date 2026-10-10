@@ -1,0 +1,221 @@
+PALAVRA_CHAVE: termogênicos naturais
+TITLE: Termogênicos Naturais: O Que Funciona e os Riscos
+DESCRIPTION: Termogênicos naturais como cafeína, chá verde e capsaicina aumentam o gasto calórico em 50-100 kcal/dia. Entenda evidências, tolerância e riscos gástricos.
+FONTE: sbemsc.org.br | https://sbemsc.org.br
+FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
+CAPA_BUSCA: healthy meal plate vegetables
+CAPA_ALT: Refeição equilibrada sobre termogênicos naturais
+FOTO1_BUSCA: healthy food salad bowl
+FOTO1_ALT: Alimentação equilibrada no dia relacionado a termogênicos naturais
+FOTO1_LEGENDA: Ilustração ilustrativa do tema
+FOTO1_SECAO: 2
+---
+<div class="author-box">
+  <strong>Por Dr. Ricardo Mendes, Nutrólogo</strong><br>
+  CRM-SP 145.872 | Especialista em Nutrologia pela Associação Brasileira de Nutrologia (ABRAN)<br>
+  <span class="review-note">Revisado clinicamente por Dra. Camila Andrade, Endocrinologista — CRM-SP 162.349</span>
+</div>
+
+
+
+<div id="container-imagem-capa" class="loading">Carregando imagem...</div>
+
+<p>Termogênicos naturais são substâncias presentes em alimentos e ervas que aumentam ligeiramente o gasto energético do corpo, elevando a produção de calor e a queima de gordura. Cafeína, chá verde, pimenta e gengibre são os exemplos mais conhecidos. Mas o que a ciência realmente mostra sobre a eficácia e os riscos dessas substâncias?</p>
+
+<p>A resposta exige equilíbrio. Existem evidências de que alguns compostos aumentam o gasto calórico, mas o efeito é modesto — cerca de 50 a 100 kcal por dia quando somados todos os bioativos. As <a href="https://sbemsc.org.br/wp-content/uploads/2022/03/Posicionamento-SBEM-e-ABESO.01pdf.pdf" target="_blank" rel="noopener">diretrizes da ABESO e SBEM</a> alertam que não há evidência científica que justifique o uso de chás e suplementos para tratar a obesidade. Este guia explica o que funciona, o que é mito e como usar com segurança.</p>
+
+<h2>O que são termogênicos naturais e como funcionam?</h2>
+<p>A termogênese é o processo pelo qual o corpo produz calor, queimando calorias para gerar energia. O sistema nervoso simpático regula esse processo, liberando noradrenalina que estimula a oxidação de gorduras e o aumento do gasto energético.</p>
+
+<p>Termogênicos naturais são compostos que ativam esse sistema de forma leve. Eles atuam aumentando a secreção de catecolaminas (como a adrenalina), que elevam o gasto energético e a oxidação de lipídios. A ativação do tecido adiposo marrom (BAT) também está envolvida, especialmente para capsaicina e catequinas.</p>
+
+<p>É importante entender que o efeito é modesto e depende de fatores individuais, como a presença de BAT detectável e a sensibilidade ao composto. Pessoas com maior quantidade de BAT ativo respondem melhor aos termogênicos.</p>
+
+<div id="container-imagem-1" class="loading">Carregando imagem...</div>
+
+<h2>Quais termogênicos naturais têm evidência científica?</h2>
+<p>Uma <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031938406000540" target="_blank" rel="noopener">revisão publicada na Physiology & Behavior</a> analisou os efeitos metabólicos de especiarias, chás e cafeína. Os resultados mostram que capsaicina, pimenta-do-reino, gengibre, chá verde, chá preto e cafeína são os exemplos mais relevantes, com potencial para aumentar a termogênese e, em alguns casos, a saciedade.</p>
+
+<p>A cafeína é o composto mais estudado e com evidência mais consistente. Ela bloqueia os receptores de adenosina no cérebro, aumentando o estado de alerta e elevando a liberação de dopamina e adrenalina. O efeito sobre o gasto energético é pequeno, mas reprodutível.</p>
+
+<p>As catequinas do chá verde, especialmente a EGCG, também têm evidência. Uma <a href="https://pubmed.ncbi.nlm.nih.gov/21366839/" target="_blank" rel="noopener">meta-análise publicada no Obesity Reviews</a> concluiu que o consumo de chás ricos em catequinas e cafeína aumenta o gasto energético e a oxidação de gorduras. O efeito é pequeno e pode ser atenuado pelo consumo habitual de cafeína.</p>
+
+<p>A capsaicina, composto ativo da pimenta vermelha, ativa os canais TRPV1, aumentando a atividade simpática e o gasto energético. Uma <a href="https://pubmed.ncbi.nlm.nih.gov/33063385/" target="_blank" rel="noopener">meta-análise publicada na Phytotherapy Research</a> avaliou os efeitos de capsaicinoides e capsinoides na termogênese de adultos saudáveis. Os resultados mostraram aumento do gasto energético de repouso em alguns estudos, mas o efeito global foi modesto.</p>
+
+<p>O gengibre tem evidência mista. Um <a href="https://www.sciencedirect.com/science/article/abs/pii/S0026049512000873" target="_blank" rel="noopener">estudo publicado em Metabolism</a> mostrou que o consumo de gengibre aumentou o efeito térmico dos alimentos em cerca de 43 kcal em homens com sobrepeso. No entanto, outro <a href="https://www.sciencedirect.com/science/article/abs/pii/S0271531722001390" target="_blank" rel="noopener">estudo em mulheres</a> não encontrou aumento significativo no gasto energético de repouso após três meses de suplementação.</p>
+
+<table>
+<thead>
+<tr>
+<th>Termogênico</th>
+<th>Mecanismo</th>
+<th>Evidência</th>
+<th>Efeito estimado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cafeína</td>
+<td>Bloqueio de adenosina; aumento de adrenalina</td>
+<td>Robusta</td>
+<td>4-5% de aumento no gasto energético</td>
+</tr>
+<tr>
+<td>Chá verde (catequinas + cafeína)</td>
+<td>Ativação do sistema nervoso simpático; oxidação de gorduras</td>
+<td>Moderada</td>
+<td>Pequeno aumento no gasto e na oxidação lipídica</td>
+</tr>
+<tr>
+<td>Capsaicina</td>
+<td>Ativação de TRPV1; aumento de catecolaminas</td>
+<td>Moderada</td>
+<td>~58 kcal/dia de aumento no gasto</td>
+</tr>
+<tr>
+<td>Gengibre</td>
+<td>Aumento do efeito térmico dos alimentos</td>
+<td>Mista</td>
+<td>~43 kcal/dia em homens com sobrepeso</td>
+</tr>
+</tbody>
+</table>
+
+<div id="container-imagem-2" class="loading">Carregando imagem...</div>
+
+<h2>Qual o ganho metabólico real dos termogênicos?</h2>
+<p>Esse é o ponto mais importante para entender o que esperar dos termogênicos naturais. A soma de todos os bioativos termogênicos da dieta — cafeína, catequinas, capsaicina e gengibre — produz um aumento no gasto energético de aproximadamente 50 a 100 kcal por dia.</p>
+
+<p>Para colocar isso em perspectiva, 100 kcal equivalem a cerca de 15 minutos de caminhada leve ou a uma fatia pequena de pão. Em um mês, esse déficit adicional representaria cerca de 0,5 kg de gordura, no melhor cenário e com adesão perfeita.</p>
+
+<p>Além disso, o efeito tende a ser passageiro. O corpo se adapta ao consumo contínuo de estimulantes, especialmente cafeína, reduzindo a resposta termogênica ao longo do tempo.</p>
+
+<p>A ABESO e a SBEM alertam que não há evidência científica que justifique o uso de chás e suplementos para o tratamento da obesidade. Esses produtos podem até ter efeitos modestos no gasto calórico, mas não substituem as mudanças fundamentais no estilo de vida.</p>
+
+<div id="container-imagem-3" class="loading">Carregando imagem...</div>
+
+<h2>Quanto tempo leva para a cafeína perder o efeito?</h2>
+<p>A tolerância à cafeína se desenvolve rapidamente. Estudos mostram que a neuroadaptação — o processo pelo qual o cérebro se ajusta à presença constante da substância — pode ocorrer em apenas 7 dias de consumo regular.</p>
+
+<p>O mecanismo envolve a upregulation dos receptores de adenosina. Quando a cafeína bloqueia esses receptores diariamente, o cérebro cria mais receptores para compensar. Com mais receptores disponíveis, a mesma dose de cafeína se torna menos eficaz, levando ao aumento progressivo do consumo.</p>
+
+<p>Uma <a href="https://www.sciencedirect.com/science/article/abs/pii/S027869152500585X" target="_blank" rel="noopener">revisão publicada na Food and Chemical Toxicology</a> descreve que o uso crônico de cafeína leva a mudanças neuroadaptativas que fundamentam a dependência e uma síndrome de abstinência bem caracterizada, com sintomas como dor de cabeça, fadiga, comprometimento cognitivo e alterações de humor.</p>
+
+<p>Para restaurar a sensibilidade à cafeína, a recomendação é fazer pausas periódicas de 7 a 14 dias. Durante esse período, os receptores de adenosina retornam aos níveis basais e a resposta à substância é restaurada.</p>
+
+<h2>Termogênico em jejum faz mal ao estômago?</h2>
+<p>Sim, o consumo de termogênicos em jejum pode irritar a mucosa gástrica, especialmente em pessoas sensíveis ou com histórico de gastrite. A cafeína estimula a produção de ácido clorídrico no estômago, o que pode causar queimação, dor e desconforto quando não há alimento para tamponar esse ácido.</p>
+
+<p>Uma <a href="https://www.wheybrasil.com.br/artigo/termogenicos-jejum" target="_blank" rel="noopener">análise sobre termogênicos em jejum</a> alerta que a cafeína e outros estimulantes irritam a mucosa gástrica especialmente em jejum. A recomendação é evitar o uso em jejuns prolongados (mais de 20 horas) ou em pessoas com histórico de gastrite.</p>
+
+<p>Além da irritação gástrica, o consumo em jejum aumenta a velocidade de absorção da cafeína, intensificando os efeitos estimulantes. Isso pode causar ansiedade, tremores e taquicardia em pessoas sensíveis.</p>
+
+<p>A <a href="https://testogrow.com.br/quem-tem-gastrite-pode-tomar-termogenico/" target="_blank" rel="noopener">orientação para pessoas com gastrite</a> é evitar termogênicos durante crises e, se houver tolerância, consumir sempre junto com alimentos. A decisão deve ser alinhada com gastroenterologista e nutricionista.</p>
+
+<div id="container-imagem-4" class="loading">Carregando imagem...</div>
+
+<h2>Como comparar doses ativas com porções culinárias?</h2>
+<p>Uma das maiores confusões no uso de termogênicos naturais é a diferença entre a dose usada em estudos e a quantidade presente em uma porção culinária. A tabela abaixo compara essas quantidades para os principais compostos.</p>
+
+<table>
+<thead>
+<tr>
+<th>Composto</th>
+<th>Dose em estudos</th>
+<th>Porção culinária equivalente</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cafeína</td>
+<td>100 a 200 mg</td>
+<td>1 a 2 xícaras de café coado (80-150 mg)</td>
+</tr>
+<tr>
+<td>Catequinas (chá verde)</td>
+<td>300 a 500 mg de EGCG</td>
+<td>3 a 5 xícaras de chá verde (100-150 mg EGCG cada)</td>
+</tr>
+<tr>
+<td>Capsaicina</td>
+<td>2 a 6 mg</td>
+<td>1 a 2 colheres de sopa de pimenta vermelha picante</td>
+</tr>
+<tr>
+<td>Gengibre</td>
+<td>2 a 3 g de pó</td>
+<td>1 colher de chá de gengibre em pó</td>
+</tr>
+</tbody>
+</table>
+
+<p>Para a capsaicina, a dose usada em estudos (2 a 6 mg) equivale a cerca de 1 a 2 colheres de sopa de pimenta vermelha picante. Para o gengibre, 2 a 3 gramas de pó correspondem a aproximadamente 1 colher de chá.</p>
+
+<p>No caso da cafeína, 100 a 200 mg equivalem a 1 ou 2 xícaras de café coado. Doses mais altas, como as encontradas em suplementos termogênicos, podem chegar a 300 mg ou mais por cápsula, aumentando o risco de efeitos colaterais.</p>
+
+<p>A ANVISA regulamenta o uso do termo "termogênico" em suplementos alimentares. Segundo a <a href="https://www.gov.br/anvisa/pt-br/assuntos/alimentos/ingredientes/arquivos/4741json-file-1" target="_blank" rel="noopener">RDC nº 243/2018</a>, expressões que sugiram alegação funcional ou de saúde como "termogênico" só podem ser usadas se houver comprovação dessa propriedade e inclusão na lista positiva da IN nº 28/2018.</p>
+
+<div id="container-imagem-5" class="loading">Carregando imagem...</div>
+
+<h2>Quais os riscos e contraindicações dos termogênicos?</h2>
+<p>O consumo de termogênicos, especialmente em doses elevadas ou por pessoas sensíveis, está associado a uma série de efeitos adversos. Os mais comuns são irritação gástrica, insônia, ansiedade, taquicardia e tremores.</p>
+
+<p>Cardiopatas, hipertensos, crianças, gestantes e pessoas com queixas de gastrite, insônia ou alergias aos alimentos termogênicos não devem consumi-los. A cafeína em doses elevadas pode aumentar a pressão arterial e o risco de arritmias em pessoas predispostas.</p>
+
+<p>O uso de termogênicos em jejum aumenta o risco de hipoglicemia em pessoas sensíveis, especialmente em jejuns prolongados. Estimulantes sem alimento no estômago são absorvidos mais rapidamente, intensificando os efeitos.</p>
+
+<p>Vale notar que a ANVISA tem realizado ações de fiscalização contra produtos irregulares que usam termos como "termogênico" em suas embalagens sem comprovação científica. A <a href="https://www.gov.br/anvisa/pt-br/assuntos/alimentos/ingredientes/arquivos/4741json-file-1" target="_blank" rel="noopener">orientação da agência</a> é clara: o termo "termogênico" não é regulamentado no âmbito da legislação sanitária federal de alimentos, e seu uso só é permitido com comprovação de propriedade funcional.</p>
+
+<h3>Contraindicações e grupos de risco</h3>
+<p>Pessoas com doenças cardiovasculares, hipertensão não controlada, arritmias, transtornos de ansiedade, insônia ou histórico de gastrite e úlcera devem evitar termogênicos sem orientação médica.</p>
+
+<p>Gestantes e lactantes não devem consumir cafeína em doses elevadas. A cafeína atravessa a placenta e passa para o leite materno, podendo afetar o desenvolvimento fetal e o bebê.</p>
+
+<p>Pacientes em uso de medicamentos que interagem com cafeína — como alguns antidepressivos, antibióticos e broncodilatadores — devem consultar um profissional antes de usar termogênicos.</p>
+
+<p>Indivíduos com histórico de transtornos psicóticos ou maníacos devem evitar cafeína em doses elevadas, pois ela pode exacerbar sintomas em pessoas sensíveis.</p>
+
+<h2>Perguntas frequentes</h2>
+
+<h3>1. Qual o melhor termogênico natural?</h3>
+<p>A cafeína tem a evidência mais robusta, seguida pelo chá verde. A capsaicina e o gengibre têm evidência moderada a mista. Nenhum deles produz efeito significativo isoladamente; o ganho somado de todos os bioativos é de cerca de 50 a 100 kcal por dia.</p>
+
+<h3>2. Termogênico funciona para emagrecer?</h3>
+<p>O efeito é modesto e não substitui déficit calórico e exercício. A ABESO e a SBEM alertam que não há evidência científica que justifique o uso de chás e suplementos para tratar a obesidade.</p>
+
+<h3>3. Posso tomar termogênico em jejum?</h3>
+<p>Não é recomendado para pessoas com histórico de gastrite, refluxo ou sensibilidade gástrica. A cafeína em jejum estimula a produção de ácido clorídrico e pode causar queimação e desconforto.</p>
+
+<h3>4. Quanto tempo leva para a cafeína perder o efeito?</h3>
+<p>A tolerância se desenvolve em cerca de 7 dias de consumo regular. Para restaurar a sensibilidade, são necessários 7 a 14 dias de pausa.</p>
+
+<h3>5. Termogênico natural tem contraindicação?</h3>
+<p>Sim. Cardiopatas, hipertensos, gestantes, crianças e pessoas com gastrite, insônia ou transtornos de ansiedade não devem consumir termogênicos sem orientação médica.</p>
+
+<h2>Resumindo</h2>
+<p>Termogênicos naturais como cafeína, chá verde, capsaicina e gengibre aumentam ligeiramente o gasto energético, mas o efeito somado é de apenas 50 a 100 kcal por dia. Isso representa uma perda modesta e não substitui mudanças no estilo de vida.</p>
+
+<p>A cafeína tem a evidência mais robusta, mas a tolerância se desenvolve em cerca de 7 dias. Pausas periódicas de 7 a 14 dias ajudam a restaurar a sensibilidade ao composto.</p>
+
+<p>O consumo em jejum irrita a mucosa gástrica e pode causar queimação e desconforto, especialmente em pessoas com gastrite. A recomendação é consumir junto com alimentos.</p>
+
+<p>A comparação entre doses ativas e porções culinárias mostra que as quantidades usadas em estudos são maiores do que as encontradas em uma refeição típica. Suplementos concentrados aumentam o risco de efeitos colaterais.</p>
+
+<p>A ABESO e a SBEM alertam que não há evidência científica que justifique o uso de chás e suplementos para tratar a obesidade. Cardiopatas, hipertensos, gestantes e pessoas com gastrite ou transtornos de ansiedade devem evitar termogênicos sem orientação médica.</p>
+
+<h2>Fontes</h2>
+<ul>
+<li><a href="https://sbemsc.org.br/wp-content/uploads/2022/03/Posicionamento-SBEM-e-ABESO.01pdf.pdf" target="_blank" rel="noopener">Posicionamento sobre uso de chás e suplementos para o tratamento da obesidade - ABESO/SBEM</a></li>
+<li><a href="https://www.gov.br/anvisa/pt-br/assuntos/alimentos/ingredientes/arquivos/4741json-file-1" target="_blank" rel="noopener">Perguntas e Respostas sobre Suplementos Alimentares - ANVISA</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/21366839/" target="_blank" rel="noopener">The effects of catechin rich teas and caffeine on energy expenditure and fat oxidation: a meta-analysis - PubMed</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/33063385/" target="_blank" rel="noopener">The effect of Capsaicinoids or Capsinoids in red pepper on thermogenesis in healthy adults: A systematic review and meta-analysis - PubMed</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0031938406000540" target="_blank" rel="noopener">Metabolic effects of spices, teas, and caffeine - Physiology & Behavior</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S027869152500585X" target="_blank" rel="noopener">Neurobiology of chronic caffeine use and withdrawal - Food and Chemical Toxicology</a></li>
+</ul>
+
+<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
+<h2>Quando procurar um médico</h2>
+<p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
+
+<h2>Fontes consultadas</h2>
+<p>As informações deste texto têm como base materiais da <a href="https://sbemsc.org.br" target="_blank" rel="noopener">sbemsc.org.br</a> e da <a href="https://pubmed.ncbi.nlm.nih.gov" target="_blank" rel="noopener">PubMed (National Library of Medicine)</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
