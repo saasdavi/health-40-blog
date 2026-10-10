@@ -490,7 +490,7 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
     }
     const pexels = async () => {
       if (!process.env.PEXEL_API_KEY) return null;
-      const r = await fetch(`https://api.pexels.com/v1/search?query=${encodeURIComponent(busca)}&per_page=20&orientation=landscape`, { headers: { Authorization: process.env.PEXEL_API_KEY } });
+      const r = await fetch(`https://api.pexels.com/v1/search?query=${encodeURIComponent(busca)}&per_page=20&orientation=landscape`, { headers: { Authorization: process.env.PEXEL_API_KEY.trim() } });
       if (!r.ok) throw new Error(`Pexels ${r.status}`);
       const j = await r.json();
       const f = (j.photos || []).find(x => !usadas.has(`pexels:${x.id}`));
@@ -498,9 +498,10 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
       return { id: `pexels:${f.id}`, url: f.src.large, width: 940, height: Math.round(940 * f.height / f.width), credit: { author: f.photographer, source: 'Pexels', url: f.url, license: 'Licença Pexels', licenseUrl: 'https://www.pexels.com/license/' } };
     };
     const pixabay = async () => {
-      if (!process.env.PIXABAY_API_KEY) return null;
-      const r = await fetch(`https://pixabay.com/api/?key=${process.env.PIXABAY_API_KEY}&q=${encodeURIComponent(busca)}&image_type=photo&orientation=horizontal&safesearch=true&per_page=20`);
-      if (!r.ok) throw new Error(`Pixabay ${r.status}`);
+      const chave = (process.env.PIXABAY_API_KEY || '').trim().replace(/^["']|["']$/g, '');
+      if (!chave) return null;
+      const r = await fetch(`https://pixabay.com/api/?key=${encodeURIComponent(chave)}&q=${encodeURIComponent(busca.slice(0, 100))}&image_type=photo&orientation=horizontal&safesearch=true&per_page=20`);
+      if (!r.ok) throw new Error(`Pixabay ${r.status}: ${(await r.text().catch(() => '')).replace(/\s+/g, ' ').slice(0, 120)}`);
       const j = await r.json();
       const f = (j.hits || []).find(x => !usadas.has(`pixabay:${x.id}`));
       if (!f) return null;
@@ -509,7 +510,7 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
     // Unsplash (reserva): exige hotlink, crédito com UTM e aviso de download (regras da API deles)
     const unsplash = async () => {
       if (!process.env.UNSPLASH_ACCESS_KEY) return null;
-      const h = { Authorization: `Client-ID ${process.env.UNSPLASH_ACCESS_KEY}`, 'Accept-Version': 'v1' };
+      const h = { Authorization: `Client-ID ${process.env.UNSPLASH_ACCESS_KEY.trim()}`, 'Accept-Version': 'v1' };
       const r = await fetch(`https://api.unsplash.com/search/photos?query=${encodeURIComponent(busca)}&per_page=20&orientation=landscape&content_filter=high`, { headers: h });
       if (!r.ok) throw new Error(`Unsplash ${r.status}`);
       const j = await r.json();
