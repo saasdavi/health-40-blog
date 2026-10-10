@@ -4878,7 +4878,7 @@
         ]
       },
       "volume": 18100,
-      "status": "draft",
+      "status": "published",
       "createdAt": "2026-10-04T17:51:07.753Z",
       "scores": {
         "auditoria": 90
@@ -4931,7 +4931,7 @@
         "pexels:5996744"
       ],
       "altConferido": false,
-      "estoque": true,
+      "estoque": false,
       "estocadoEm": "2026-10-04T17:51:10.281Z",
       "validacao": {
         "palavraChave": "presbiopia",
@@ -4994,7 +4994,9 @@
           ]
         },
         "validadoEm": "2026-10-04T17:51:10.281Z"
-      }
+      },
+      "publishedAt": "2026-10-10T15:33:45.081Z",
+      "publicadoDoEstoqueEm": "2026-10-10T15:33:45.081Z"
     },
     {
       "id": "art_1791136303654_etoz",
@@ -9783,6 +9785,6 @@
   ],
   "stats": {
     "total": 55,
-    "published": 26
+    "published": 27
   }
 }

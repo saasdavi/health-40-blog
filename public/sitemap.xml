@@ -325,4 +325,15 @@
       <image:caption>Queda de cabelo normal ou sinal de alerta? Descubra as causas reais, deficiências nutricionais e quando procurar um dermatologista para tratar.</image:caption>
     </image:image>
   </url>
+  <url>
+    <loc>https://health-40-blog.vercel.app/presbiopia</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>/images/presbiopia/presbiopia-capa.jpg</image:loc>
+      <image:title>Presbiopia: Como Corrigir Sua Visão de Perto</image:title>
+      <image:caption>Presbiopia é dificuldade para ler de perto após os 40 anos. Veja as melhores formas de corrigir, diferenças com miopia e quando procurar o médico.</image:caption>
+    </image:image>
+  </url>
 </urlset>
