@@ -1,7 +1,3 @@
 # calculadora-de-imc-entenda-seu-indice-de-massa-corporal.txt
 
-- Nota 7,6/10 (mínimo 8,5)
-- title 68 chars com sufixo (máx 60)
-- keyword fora da description
-- keyword fora do 1º parágrafo
-- 0 links internos (mín 2)
+- Sem imagens: confira PEXEL_API_KEY/PIXABAY_API_KEY e as buscas de foto do cabeçalho.

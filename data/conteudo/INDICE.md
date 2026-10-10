@@ -50,7 +50,7 @@ Dias de conteúdo já escrito + pauta validada: **12** (a 3 por dia).
 | Goiaba: benefícios, intestino e tailandesa | 1798 | 100 | - |
 | Ashwagandha: benefícios, efeitos e cuidados | 1631 | 92 | - |
 | Bananazinha: Cachaça de Banana, Teor e Como Tomar | 1870 | 85 | - |
-| Biotina: para que serve, benefícios e cuidados | 1433 | 92 | - |
+| Biotina: para que serve e efeito em exames | 1358 | 100 | - |
 | Calcular Tabela Nutricional Online Grátis: Guia Prático | 2016 | 87 | - |
 | Celulite: causas, graus e tratamentos | 1575 | 100 | - |
 | Chá de cavalinha: para que serve e riscos | 1510 | 100 | - |
@@ -89,6 +89,48 @@ Dias de conteúdo já escrito + pauta validada: **12** (a 3 por dia).
 | Tabela de Calorias dos Alimentos — Guia Prático | 2115 | 86 | - |
 | Urticária: causas, sintomas e quando procurar | 1549 | 100 | - |
 | Whey Protein: Para Que Serve, Tipos e Como Tomar | 2404 | 88 | - |
+| Azeite de Oliva no Cabelo: Benefícios e Riscos | 1365 | 100 | - |
+| Babosa no Cabelo: Benefícios Reais e Riscos | 1399 | 100 | 2026-11-20 |
+| Biotina comprimido: funções, riscos e exames | 1316 | 100 | - |
+| Biotina para que serve: funções e evidências | 1326 | 100 | - |
+| Biotina valor: o que considerar antes de usar | 1329 | 100 | - |
+| Minoxidil spray cabelo: como usar e cuidados | 1710 | 100 | - |
+| Remédio minoxidil: como age e quais cuidados ter | 1374 | 100 | - |
+| Academia emagrece? Musculação e perda de gordura | 1356 | 100 | - |
+| Acantose nigricans: causas e manchas escuras | 1339 | 100 | - |
+| Ácido fólico para que serve: usos e cuidados | 1345 | 100 | 2026-11-02 |
+| Ácido hialurônico para que serve: tipos e riscos | 1330 | 100 | - |
+| Ácido salicílico: para que serve e como usar | 3078 | 100 | 2027-05-29 |
+| Ácido salicílico para que serve: benefícios e uso | 2810 | 95 | - |
+| Acordar cansado: causas e como melhorar o sono | 1382 | 100 | 2027-01-09 |
+| Adapaleno: o que é, para que serve e como usar | 1340 | 100 | - |
+| Alantoína: para que serve e cuidados na pele | 1330 | 100 | - |
+| Albumina suplemento: riscos e quem deve evitar | 1360 | 100 | - |
+| Alimentação saudável criança: guia prático | 1357 | 100 | - |
+| Alimentação sem lactose e glúten: guia completo | 1374 | 100 | - |
+| Alimentos para Ganhar Massa Muscular: Guia | 1411 | 100 | - |
+| Alimentos Ricos em Proteína: Lista e Como Usar | 1382 | 100 | 2026-11-09 |
+| Alimentos Saudáveis para Crianças: Guia Completo | 1397 | 100 | - |
+| Alimentos sem Glúten e sem Lactose: Guia Prático | 1387 | 100 | - |
+| Alimentos sem Lactose: Lista e Substituições | 1379 | 100 | - |
+| Alopecia Areata: Causas, Sintomas e Tratamentos | 1336 | 100 | - |
+| Alopecia Feminina: Causas, Tipos e Tratamentos | 1331 | 100 | - |
+| Alopecia na Barba: Causas e Tratamentos | 1370 | 100 | - |
+| Alopecia por Estresse: Sintomas e Controle | 1388 | 100 | - |
+| Ansiedade: Sintomas Físicos, Causas e Ajuda | 1348 | 100 | - |
+| Argila Verde: Para Que Serve e Como Usar | 1390 | 100 | - |
+| Frutas Exóticas: Quais São, Benefícios e Riscos | 1345 | 100 | - |
+| Magnésio Dimalato: O Que É, Usos e Cuidados | 1361 | 100 | - |
+| Resveratrol: O Que É, Onde Está e Cuidados | 1352 | 100 | - |
+| Vitamina B12: Para Que Serve e Sinais de Falta | 1370 | 100 | - |
+| Vitamina D3: Para Que Serve, Fontes e Cuidados | 1405 | 100 | 2027-05-25 |
+| Babosa para Queda de Cabelo: Como Usar | 1344 | 100 | - |
+| Tipos de bebidas: diferenças e efeitos na saúde | 3244 | 100 | - |
+| Beta-alanina: o que é, formigamento e riscos | 1363 | 100 | - |
+| Bolinhas no couro cabeludo: causas e quando agir | 1354 | 100 | - |
+| Botox capilar: o que é, benefícios e cuidados | 1362 | 100 | - |
+| Cabelo branco masculino: causas e cuidados | 1387 | 100 | - |
+| Cabelo caindo muito: causas e investigação | 1332 | 100 | 2026-11-18 |
 
 ## Publicados
 

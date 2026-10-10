@@ -1,7 +1,3 @@
 # fruta-do-conde-artigo.txt
 
-- Nota 7,7/10 (mínimo 8,5)
-- keyword fora da description
-- keyword fora do 1º parágrafo
-- 0 links internos (mín 2)
-- 2 parágrafos > 50 palavras
+- Sem imagens: confira PEXEL_API_KEY/PIXABAY_API_KEY e as buscas de foto do cabeçalho.

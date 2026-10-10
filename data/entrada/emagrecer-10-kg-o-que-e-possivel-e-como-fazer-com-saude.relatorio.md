@@ -1,10 +1,3 @@
 # emagrecer-10-kg-o-que-e-possivel-e-como-fazer-com-saude.txt
 
-- Nota 6,3/10 (mínimo 8,5)
-- title 68 chars com sufixo (máx 60)
-- keyword fora do title
-- keyword fora da description
-- keyword fora do 1º parágrafo
-- 1º parágrafo com 56 palavras (máx 50)
-- 0 links internos (mín 2)
-- 1 parágrafos > 50 palavras
+- Sem imagens: confira PEXEL_API_KEY/PIXABAY_API_KEY e as buscas de foto do cabeçalho.
