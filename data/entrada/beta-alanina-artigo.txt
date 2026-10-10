@@ -1,7 +1,7 @@
 PALAVRA_CHAVE: beta-alanina
 TITLE: Beta-alanina: para que serve e como tomar
 DESCRIPTION: Beta-alanina: entenda para que serve, como age nos músculos, por que causa formigamento e quais cuidados tomar antes de usar o suplemento.
-FONTE: images.pexels.com | https://images.pexels.com
+FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 CAPA_BUSCA: woman workout gym training
 CAPA_ALT: Rotina de treino sobre beta-alanina
 FOTO1_BUSCA: exercise training outdoor
