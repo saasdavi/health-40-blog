@@ -1,145 +1,59 @@
 PALAVRA_CHAVE: azeite de oliva no cabelo
-TITLE: Azeite de Oliva no Cabelo — Benefícios, Riscos e Como Usar
-DESCRIPTION: Entenda o que o azeite de oliva faz no cabelo, se funciona para crescimento, os riscos para o couro cabeludo e como remover sem ressecar os fios.
-CAPA_ALT: Frasco de azeite de oliva extravirgem ao lado de mechas de cabelo sobre uma mesa de madeira
-FONTE: dermaclub.com.br | https://dermaclub.com.br
-FONTE: aafp.org | https://aafp.org
-FONTE: ornatural.com.br | https://ornatural.com.br
-CAPA_BUSCA: woman hair care brush
-CAPA_ALT: Cuidados com os cabelos sobre azeite de oliva no cabelo
-FOTO1_BUSCA: dermatologist scalp examination
-FOTO1_ALT: Avaliação do couro cabeludo relacionado a azeite de oliva no cabelo
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+TITLE: Azeite de Oliva no Cabelo: Benefícios, Riscos e Como Usar
+DESCRIPTION: Veja o que se sabe sobre azeite de oliva no cabelo, quais benefícios são prováveis, quais riscos observar e quando procurar um dermatologista.
+FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
+FONTE: AAFP (American Academy of Family Physicians) | https://aafp.org
+CAPA_BUSCA: olive oil bottle wooden table
+CAPA_ALT: Garrafa de azeite de oliva sobre uma mesa de madeira, usado em cuidados com o cabelo
+FOTO1_BUSCA: woman hair mask conditioning
+FOTO1_ALT: Mulher aplicando um produto nas pontas do cabelo, cuidado com azeite de oliva no cabelo
+FOTO1_LEGENDA: Aplicar pouca quantidade e nas pontas costuma ser o cuidado mais tranquilo.
 FOTO1_SECAO: 2
+FOTO2_BUSCA: dermatologist scalp examination
+FOTO2_ALT: Dermatologista examinando o couro cabeludo de um paciente em consultório
+FOTO2_LEGENDA: Coceira, descamação ou queda intensa pedem avaliação antes de novos produtos.
+FOTO2_SECAO: 4
 ---
-<article>
+<p>O azeite de oliva no cabelo é um cuidado caseiro muito difundido, usado para tentar hidratar os fios, reduzir o frizz e aliviar o ressecamento. Ele tem propriedades emolientes conhecidas, mas as evidências específicas para cabelo são limitadas. Antes de transformar o hábito em rotina, vale entender o que é provável e o que não é. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
-<h1>Azeite de Oliva no Cabelo — Benefícios, Riscos e Como Usar</h1>
+<h2>O que o azeite de oliva faz no cabelo?</h2>
+<p>O azeite é composto principalmente por gorduras monoinsaturadas e contém pequenas quantidades de antioxidantes. Quando aplicado sobre os fios, ele forma uma película que reduz a perda de água e dá sensação de maciez. Esse efeito é semelhante ao de outros óleos vegetais usados como condicionadores caseiros.</p>
+<p>Esse efeito é superficial e temporário. O azeite não penetra de forma significativa na haste capilar a ponto de reparar danos profundos, e não altera a estrutura do fio de maneira permanente.</p>
 
-<p>O azeite de oliva é um dos óleos vegetais mais usados em receitas caseiras para o cabelo. Ele promete brilho, maciez e redução de pontas duplas. Mas o que a ciência mostra sobre o uso do azeite de oliva no cabelo? Ele funciona para todos os tipos de fio?</p>
-
-<p>Este conteúdo reúne informações sobre benefícios reais, riscos para o couro cabeludo e métodos práticos para usar e remover o produto sem causar ressecamento. A proposta é separar o que tem respaldo do que é apenas tradição popular.</p>
-
-<h2>Azeite de oliva no cabelo — o que ele faz de verdade</h2>
-
-<p>O azeite de oliva é rico em ácidos graxos monoinsaturados, principalmente o ácido oleico. Ele também contém vitamina E e compostos fenólicos com ação antioxidante. Essas propriedades explicam seu uso cosmético como emoliente e oclusivo.</p>
-
-<p>Quando aplicado na fibra capilar, o azeite forma uma película sobre a cutícula. Essa película reduz a perda de umidade para o ambiente e melhora o brilho e a maciez ao toque. O efeito é superficial, não reconstrói a fibra danificada.</p>
-
-<p>A ação do azeite é de oclusão passiva. Ele não penetra no córtex do fio nem repõe proteínas ou lipídios estruturais. A melhora percebida é cosmética e temporária. O efeito dura até a próxima lavagem.</p>
-
-<h2>O azeite de oliva faz o cabelo crescer?</h2>
-
-<p>Não há evidência científica de que o azeite de oliva estimule o crescimento capilar. As diretrizes médicas para queda de cabelo priorizam tratamentos com evidência, como o minoxidil tópico e outras medicações específicas. Óleos vegetais não fazem parte dessas recomendações.</p>
-
-<p>O azeite pode ajudar indiretamente ao reduzir a quebra dos fios. Fios menos ressecados quebram menos. Isso pode dar a impressão de que o cabelo está mais denso, mas não há aumento real no número de folículos em crescimento.</p>
-
-<p>Para queda de cabelo persistente, afinamento progressivo ou perda em placas, a avaliação dermatológica é indispensável. O diagnóstico correto define o tratamento eficaz. O azeite não substitui exames nem medicações.</p>
-
-<h2>Benefícios comprovados do azeite no cabelo</h2>
-
-<p>Com base nas propriedades conhecidas do azeite, os benefícios mais bem sustentados para uso cosmético são:</p>
-
+<h2>Quais benefícios são prováveis?</h2>
+<p>Entre os benefícios mais citados estão a sensação de hidratação, a redução do frizz em cabelos muito ressecados e a facilidade para desembaraçar os fios. Em quem tem cabelos crespos ou cacheados, o óleo pode ajudar a dar brilho e definição. Para cabelos finos, porém, o excesso pode pesar e deixar o visual oleoso.</p>
 <ul>
-<li><strong>Redução da perda de umidade:</strong> a película oclusiva retém água na fibra.</li>
-<li><strong>Melhora do brilho:</strong> a superfície alinhada reflete a luz de forma mais uniforme.</li>
-<li><strong>Redução de pontas duplas:</strong> fios menos ressecados quebram menos.</li>
-<li><strong>Facilidade ao desembaraçar:</strong> o óleo lubrifica a haste e reduz o atrito.</li>
+<li>Maciez e sensação de hidratação após a aplicação.</li>
+<li>Menor atrito e melhor desembaraço, em alguns tipos de cabelo.</li>
+<li>Brilho superficial nas pontas.</li>
 </ul>
+<p>Esses efeitos são percepções práticas. Não há evidência consistente de que o azeite faça o cabelo crescer ou de que trate a queda.</p>
 
-<p>Esses efeitos são cosméticos e funcionais. Eles não substituem tratamento dermatológico quando há diagnóstico de alopecia, dermatite seborreica ou outra condição médica.</p>
+<h2>Quais riscos merecem atenção?</h2>
+<p>O principal problema é o excesso. Aplicar muito azeite, ou deixá-lo por muito tempo, pode acumular resíduos no couro cabeludo, deixar os fios pesados e favorecer a oleosidade. Isso pode levar a entupimento dos folículos em algumas pessoas e a um aspecto sujo rapidamente.</p>
+<p>Em pessoas sensíveis, o azeite também pode causar irritação, coceira, vermelhidão e dermatite de contato. Reações alérgicas a alimentos e a ingredientes naturais existem, por isso um teste em pequena área é prudente. Também é importante lembrar que o azeite pode manchar roupas e travesseiros.</p>
 
-<h2>Como usar azeite de oliva no cabelo corretamente</h2>
+<h2>Como usar com mais cuidado?</h2>
+<p>Se quiser experimentar, comece com uma quantidade pequena, aplicada sobretudo nas pontas e nas áreas mais ressecadas, evitando o couro cabeludo quando ele já é oleoso ou tem caspa. Deixe agir pelo tempo que for confortável e lave com shampoo suave, fazendo mais de uma lavagem se necessário para remover o resíduo.</p>
+<p>Algumas pessoas preferem misturar o azeite ao condicionador, o que facilita a remoção. Evite aquecer o óleo em excesso e não use em cabelos com lesões no couro cabeludo sem orientação médica.</p>
 
-<p>A aplicação do azeite deve ser feita no cabelo seco e sujo, antes da lavagem. O óleo é distribuído do meio para as pontas, evitando a raiz. O tempo de contato varia de 20 a 30 minutos.</p>
+<h2>O azeite de oliva no cabelo ajuda na queda?</h2>
+<p>Esse é um dos pontos em que a expectativa costuma ser maior do que a evidência. O azeite não corrige alterações hormonais, deficiências nutricionais, doenças inflamatórias do couro cabeludo ou quedas de origem genética. Por isso, usá-lo como tratamento para queda pode atrasar a investigação da causa real.</p>
+<p>Se você está preocupada com a queda, a página sobre <a href="/queda-de-cabelo/">queda de cabelo</a> reúne as causas mais comuns e os sinais que merecem avaliação.</p>
 
-<p>O uso de touca térmica ou toalha morna ajuda a potencializar a absorção superficial. O calor abre levemente as cutículas e facilita a penetração do óleo. Não é necessário deixar por horas.</p>
+<h2>Quais alternativas caseiras circulam na internet?</h2>
+<p>Além do azeite, muitos conteúdos sugerem misturas com ervas, vinagre, mel e outros ingredientes. Algumas dessas receitas são seguras em uso ocasional, mas outras podem irritar o couro cabeludo ou causar queimaduras químicas, como ocorre com vinagre concentrado. Um exemplo de cuidado caseiro que também merece checagem é o uso de <a href="/suco-de-cebola-no-cabelo/">suco de cebola no cabelo</a>, que tem relatos populares e pouca comprovação.</p>
 
-<p>Após o tempo de contato, o cabelo deve ser lavado com shampoo suave. Pode ser necessário lavar duas vezes para remover todo o resíduo. O condicionador é aplicado normalmente depois.</p>
+<h2>Perguntas frequentes</h2>
+<p><strong>Azeite de oliva no cabelo faz crescer?</strong><br>Não há evidência de que ele estimule o crescimento dos fios.</p>
+<p><strong>Dá para usar todos os dias?</strong><br>Em geral, não. O uso frequente aumenta o risco de acúmulo e de oleosidade, principalmente em cabelos finos.</p>
+<p><strong>Azeite extravirgem é melhor?</strong><br>Não há comparação consistente para cabelo. A escolha deve considerar a textura do fio e a sensibilidade do couro cabeludo.</p>
+<p><strong>Azeite pode deixar o cabelo mais escuro?</strong><br>Pode dar aparência mais escura pelo excesso de óleo, mas isso não é uma mudança de pigmentação.</p>
 
-<h2>Pode passar azeite de cozinha puro no cabelo?</h2>
-
-<p>Sim, o azeite de cozinha pode ser usado topicamente no cabelo. No entanto, ele não é um produto formulado para fins cosméticos. Isso significa que sua estabilidade, segurança e eficácia não foram testadas para essa finalidade.</p>
-
-<p>O azeite de cozinha tem alto potencial de obstruir os poros do couro cabeludo. Em pessoas com pele oleosa ou tendência à dermatite seborreica, o uso pode agravar a condição. A recomendação é evitar a aplicação na raiz.</p>
-
-<p>Produtos cosméticos formulados com azeite de oliva passam por testes de estabilidade e controle microbiológico. Eles também contêm conservantes que evitam a contaminação. O azeite puro de cozinha não tem essas garantias.</p>
-
-<h2>Quais são os benefícios do azeite para cabelos cacheados?</h2>
-
-<p>Cabelos cacheados e crespos tendem a ser mais secos por natureza. A curvatura dificulta a distribuição do sebo produzido pelo couro cabeludo ao longo da haste. O azeite pode ajudar a repor parte da oleosidade natural.</p>
-
-<p>O uso como pré-shampoo é uma das técnicas mais indicadas para esse tipo de cabelo. O óleo protege as pontas durante a lavagem e reduz a perda de umidade. A aplicação deve ser feita do meio para as pontas.</p>
-
-<p>O azeite também pode ser misturado ao creme de pentear para potencializar a definição dos cachos. A quantidade deve ser pequena para não pesar. O excesso de óleo pode deixar o cabelo com aspecto engordurado.</p>
-
-<h2>O azeite pode causar caspa ou entupir os poros?</h2>
-
-<p>Sim, o azeite pode agravar quadros de caspa e dermatite seborreica. O óleo cria um ambiente favorável à proliferação do fungo Malassezia, que está associado a essas condições. A aplicação na raiz deve ser evitada por quem tem couro cabeludo oleoso.</p>
-
-<p>A obstrução dos poros é um risco real. O azeite é comedogênico, ou seja, pode obstruir os óstios foliculares. Isso pode levar ao surgimento de foliculite e piora da oleosidade.</p>
-
-<p>Pessoas com couro cabeludo sensível, dermatite ativa ou caspa persistente devem evitar o uso do azeite na raiz. A aplicação apenas nas pontas é mais segura. Em caso de dúvida, a avaliação dermatológica é recomendada.</p>
-
-<h2>Como remover o azeite do cabelo sem ressecar</h2>
-
-<p>A remoção do azeite exige cuidado para não ressecar os fios. A lavagem repetida com shampoo agressivo pode remover a oleosidade natural e causar efeito rebote. A técnica U.C.P.E. ajuda a evitar esse problema.</p>
-
-<p>U.C.P.E. significa Umectar, Condicionar, Pausar e Enxaguar. O primeiro passo é aplicar condicionador antes do shampoo. O condicionador emulsiona o óleo e facilita sua remoção. Depois, pausar por alguns minutos e enxaguar.</p>
-
-<p>Em seguida, lavar com shampoo suave. Se necessário, repetir a operação. O condicionador é aplicado novamente no final. Essa técnica reduz a necessidade de múltiplas lavagens com shampoo.</p>
-
-<h2>Contraindicações e grupos de risco</h2>
-
-<p>O azeite de oliva é contraindicado para pessoas com histórico de hipersensibilidade a qualquer componente do produto. Reações alérgicas, ainda que raras, exigem descontinuação imediata.</p>
-
-<p>Pessoas com couro cabeludo oleoso, dermatite seborreica ativa ou caspa persistente devem evitar a aplicação na raiz. O óleo pode agravar a inflamação e a descamação.</p>
-
-<p>Pessoas com feridas abertas no couro cabeludo ou lesões ativas devem evitar o uso até que a pele esteja íntegra. A absorção em pele lesionada é maior e pode intensificar reações indesejadas.</p>
-
-<p>Gestantes e lactantes podem usar o azeite topicamente, desde que não haja alergia conhecida. Não há evidência de risco sistêmico relevante pela via tópica.</p>
-
-<h2>Perguntas frequentes sobre azeite de oliva no cabelo</h2>
-
-<h3>O azeite de oliva faz o cabelo crescer?</h3>
-<p>Não. Não há evidência científica de que o azeite estimule o crescimento capilar. Ele pode reduzir a quebra ao manter o fio mais hidratado, mas não aumenta o número de folículos em crescimento. Para queda persistente, a avaliação dermatológica é indispensável.</p>
-
-<h3>Pode dormir com azeite no cabelo?</h3>
-<p>Dormir com azeite no cabelo aumenta o risco de transferência para o travesseiro e para o rosto. Isso pode causar acne e obstrução de poros. A recomendação é deixar o produto agir por 20 a 30 minutos e depois lavar.</p>
-
-<h3>O azeite de oliva escurece o cabelo?</h3>
-<p>Não há evidência de que o azeite altere a cor natural dos fios. Ele pode dar brilho e melhorar a aparência, mas não muda a pigmentação. O efeito é apenas cosmético.</p>
-
-<h3>Azeite de oliva no couro cabeludo cresce cabelo?</h3>
-<p>Não. A aplicação no couro cabeludo não estimula o crescimento. Além disso, o azeite na raiz pode obstruir os poros e agravar a oleosidade. O uso deve ser restrito ao comprimento e às pontas.</p>
-
-<h3>Qual a diferença entre azeite de oliva e óleos cosméticos?</h3>
-<p>Óleos cosméticos são formulados e testados para uso capilar. O azeite de cozinha não passa por esses testes. Ele pode ser usado, mas tem maior risco de contaminação e de obstrução dos poros. Produtos formulados oferecem mais segurança.</p>
+<h2>Quando procurar um médico</h2>
+<p>Procure um dermatologista se o couro cabeludo apresentar coceira persistente, vermelhidão, ardência, descamação, feridas ou se surgirem falhas de cabelo. Também é importante buscar avaliação se a queda aumentar depois do início de um cuidado caseiro ou se houver sinais de alergia, como inchaço ou urticária.</p>
+<p>A avaliação permite diferenciar uma irritação simples de condições que precisam de tratamento específico.</p>
 
 <h2>Resumindo</h2>
-
-<p>O azeite de oliva atua como oclusivo na fibra capilar. Ele reduz a perda de umidade, melhora o brilho e a maciez. O efeito é superficial e temporário. Não há evidência de que estimule o crescimento capilar.</p>
-
-<p>O uso deve ser feito no cabelo seco e sujo, do meio para as pontas. A aplicação na raiz deve ser evitada, especialmente por quem tem couro cabeludo oleoso ou dermatite seborreica. O risco de obstrução dos poros é real.</p>
-
-<p>A remoção exige técnica para evitar ressecamento. A técnica U.C.P.E. ajuda a remover o óleo sem múltiplas lavagens agressivas. O azeite pode ser usado como pré-shampoo ou misturado a cremes de pentear.</p>
-
-<p>Pessoas com couro cabeludo sensível, caspa persistente ou feridas devem evitar o uso na raiz. Para queda de cabelo, a avaliação dermatológica é indispensável. O azeite não substitui exames nem medicações.</p>
-
-<h2>Fontes</h2>
-
-<ul>
-<li>DermaClub. Azeite de Oliva para Cabelo: funciona ou é risco? https://www.dermaclub.com.br/blog/todos-os-temas/azeite-de-oliva.html</li>
-<li>Dakkak M, Forde KM, Lanney H. Hair Loss: Diagnosis and Treatment. <em>American Family Physician</em>. 2024;110(3):243-250. https://www.aafp.org/afp/2024/0900/hair-loss</li>
-<li>OR NATURAL. Azeite de Oliva para o Cabelo no Inverno. https://ornatural.com.br/blogs/novidades/azeite-de-oliva-para-o-cabelo-no-inverno</li>
-<li>Empório do Azeite. 6 motivos para você usar azeite de oliva no cabelo! https://www.emporiodoazeite.com.br/blog/como-usar-azeite-de-oliva-no-cabelo</li>
-</ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
-
-</article>
-<h2>Quando procurar um médico</h2>
-<p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://dermaclub.com.br" target="_blank" rel="noopener">dermaclub.com.br</a>, <a href="https://aafp.org" target="_blank" rel="noopener">aafp.org</a> e da <a href="https://ornatural.com.br" target="_blank" rel="noopener">ornatural.com.br</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>O azeite de oliva no cabelo pode dar maciez e brilho superficial, principalmente nas pontas. Os benefícios são práticos, mas limitados, e os riscos aumentam com o excesso, com a oleosidade e com a sensibilidade da pele.</p>
+<p>O óleo não substitui o diagnóstico de queda ou de problemas do couro cabeludo. Se a queda ou a irritação persistirem, procure um profissional. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>

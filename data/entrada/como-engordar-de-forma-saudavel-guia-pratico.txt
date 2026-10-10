@@ -68,13 +68,19 @@ FOTO2_SECAO: 4
 
 <p>Também ajuda montar uma rotina previsível: horários fixos, lanches planejados e alimentos que possam ser levados para o trabalho. A regularidade costuma ser mais útil do que picos de consumo seguidos de longos períodos de jejum.</p>
 
+<p>Algumas pessoas têm apetite pequeno pela manhã e conseguem comer mais à noite. Nesse caso, pode ser útil deslocar parte da energia para o início do dia, com um café da manhã simples, como ovos com pão integral e fruta, e não deixar tudo para o jantar. O importante é que a soma diária de energia e proteína seja compatível com a meta combinada com o profissional.</p>
+
 <p>Beber líquidos durante as refeições pode saciar mais rápido. Por isso, vale priorizar bebidas nutritivas, como leite, iogurte batido e vitaminas, em vez de refrigerantes ou sucos sem fibra.</p>
+
+<p>O sono e o descanso também fazem parte do processo. Dormir pouco aumenta o cansaço, reduz a disposição para treinar e altera hormônios ligados à fome e à saciedade. Uma rotina com horários regulares e um ambiente tranquilo para dormir favorece tanto o apetite quanto a recuperação dos músculos.</p>
 
 <h2>O que evitar na tentativa de ganhar peso</h2>
 
 <p>Ganhar peso com refrigerantes, doces e frituras é uma estratégia que traz muitos riscos. Esses alimentos podem elevar a glicemia, aumentar o colesterol, favorecer a gordura abdominal e prejudicar o fígado a longo prazo, sem oferecer nutrientes suficientes.</p>
 
 <p>Também é importante evitar produtos prometendo ganho de peso rápido, principalmente sem comprovação. Suplementos e produtos de academia devem ser avaliados com profissional de saúde, pois podem interagir com medicamentos e causar efeitos indesejados.</p>
+
+<p>Em muitos casos, a orientação de um nutricionista ajuda a transformar essas ideias em um cardápio prático, com porções, horários e substituições adequadas à rotina de cada pessoa. Ele pode trabalhar em conjunto com o médico, que avalia exames e condições de saúde.</p>
 
 <h2>Perguntas frequentes</h2>
 
@@ -103,6 +109,8 @@ FOTO2_SECAO: 4
 </ul>
 
 <p>O médico pode investigar as causas, solicitar exames e indicar se é necessário acompanhamento com nutricionista e outros profissionais.</p>
+
+<p>Também vale lembrar que o peso não deve ser o único indicador de progresso. Medidas da cintura e de braços e pernas, a força nos exercícios, a disposição no dia a dia e a forma como as roupas servem dão uma visão mais completa. Registrar essas informações a cada duas ou três semanas ajuda a conversar com o profissional de forma objetiva.</p>
 
 <h2>Resumindo</h2>
 
