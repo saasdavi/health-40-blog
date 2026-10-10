@@ -20,6 +20,8 @@ FOTO2_SECAO: 4
 <p>O óxido de magnésio é um composto em que o mineral está ligado ao oxigênio. Ele tem alto teor de magnésio por peso, o que explica sua presença em muitos produtos. Em compensação, a proporção de magnésio que o organismo consegue absorver é menor do que em outras formas.</p>
 <p>Essa característica faz com que parte do composto chegue ao intestino sem ser absorvida, e é justamente por isso que ele aparece em produtos com efeito laxante e em antiácidos.</p>
 
+<p>Antes de decidir, é útil separar a finalidade. Um produto usado para acidez, para constipação ou para repor o mineral tem objetivos diferentes, e a escolha da forma deve acompanhar esse objetivo.</p>
+
 <h2>Para que o óxido de magnésio é usado</h2>
 <p>Os usos mais comuns são de três tipos. O primeiro é a complementação do mineral na alimentação, quando há necessidade comprovada. O segundo é o efeito laxante, usado para aliviar a dificuldade de evacuar. O terceiro é a neutralização da acidez estomacal, em alguns antiácidos.</p>
 <ul>
@@ -28,6 +30,9 @@ FOTO2_SECAO: 4
 <li><strong>Acidez estomacal:</strong> aparece em alguns produtos, mas a causa dos sintomas deve ser avaliada.</li>
 </ul>
 <p>Se a queixa principal é a dificuldade para evacuar, vale conhecer o texto sobre <a href="/prisao-de-ventre/">prisão de ventre</a>, que descreve causas e hábitos associados.</p>
+
+<p>Como o composto tem efeito laxante, a diarreia pode ser o sinal de que a dose ultrapassou a tolerância individual. Reduzir a quantidade ou suspender o uso é a conduta esperada nesse caso.</p>
+<p>Pessoas com colite, doença inflamatória intestinal ou outras condições do intestino devem evitar o uso sem orientação, pois a resposta pode ser imprevisível.</p>
 
 <h2>Riscos e efeitos colaterais</h2>
 <p>O efeito colateral mais frequente é a diarreia, que pode vir acompanhada de cólicas e desconforto abdominal. Esse efeito está diretamente ligado ao efeito laxante e costuma aparecer com doses maiores.</p>
@@ -66,6 +71,8 @@ FOTO2_SECAO: 4
 <h2>Quando procurar um médico</h2>
 <p>Procure atendimento se houver diarreia persistente, fraqueza, confusão, batimentos irregulares, dificuldade para urinar ou sinais de desidratação. Também é importante consultar o médico em caso de doença renal, gestação, amamentação ou uso contínuo de medicamentos.</p>
 <p>O profissional pode indicar a forma mais adequada, se houver real necessidade, e definir o tempo de uso. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+
+<p>Escolher bem exige olhar para a finalidade, a tolerância, a função renal e os medicamentos em uso. Uma conversa com o médico ou com o farmacêutico antes do primeiro uso evita a maior parte dos problemas.</p>
 
 <h2>Resumindo</h2>
 <p>O óxido de magnésio é uma forma do mineral com alto teor, mas absorção geralmente menor do que outras formas. Ele é usado em suplementos, em produtos com efeito laxante e em alguns antiácidos, e costuma causar diarreia e cólicas em doses maiores.</p>

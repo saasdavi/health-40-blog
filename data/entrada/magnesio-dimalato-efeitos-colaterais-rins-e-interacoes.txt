@@ -33,6 +33,9 @@ FOTO2_SECAO: 4
 <p>Sintomas persistentes ou intensos não devem ser ignorados. Ao notá-los, interrompa o uso e procure orientação profissional.</p>
 <p>A sensação de desconforto costuma ser o primeiro sinal percebido. Nesse caso, a orientação é reduzir a quantidade ou suspender o produto e avaliar com o profissional o que fazer em seguida.</p>
 
+<p>O cuidado com os rins vai além do magnésio. Pessoas com hipertensão, diabetes ou histórico de doença renal na família devem fazer exames de rotina, incluindo creatinina e dosagem de eletrólitos, antes de iniciar qualquer suplemento mineral.</p>
+<p>Esses exames fornecem a base para uma decisão mais segura e permitem acompanhar a função renal durante o uso, quando o profissional considerar necessário.</p>
+
 <h2>Relação com os rins</h2>
 <p>Os rins são responsáveis por eliminar o excesso de magnésio. Quando a função renal está reduzida, o mineral pode se acumular no sangue, e esse acúmulo está associado a problemas sérios.</p>
 <p>Por isso, pessoas com doença renal crônica, ou com exames alterados de creatinina e filtração, precisam de avaliação médica antes de usar qualquer suplemento de magnésio.</p>
@@ -61,6 +64,9 @@ FOTO2_SECAO: 4
 
 <p>Crianças e adolescentes também precisam de orientação específica, já que doses adequadas para adultos não devem ser transferidas automaticamente para essa faixa etária.</p>
 <p>Quem pratica exercícios intensos deve lembrar que suor e perdas de eletrólitos mudam a necessidade diária, o que torna a escolha de qualquer suplemento uma decisão que vale discutir com um profissional.</p>
+
+<p>Outro ponto importante é a clareza das advertências. Rótulos que indicam contraindicações para gestantes, pessoas com doença renal e usuários de medicamentos específicos merecem atenção redobrada antes da compra.</p>
+<p>Se o produto não traz essas informações ou se o vendedor não consegue explicá-las, prefira outra opção e busque orientação profissional.</p>
 
 <h2>Como ler o rótulo com mais segurança</h2>
 <p>Antes de comprar, observe a quantidade de magnésio elementar informada, a presença de outros ingredientes e as advertências do fabricante.</p>

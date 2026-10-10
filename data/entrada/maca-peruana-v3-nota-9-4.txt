@@ -42,6 +42,9 @@ FOTO2_SECAO: 4
 <p>Antes de incluir qualquer suplemento na rotina, observe o registro do produto junto aos órgãos de vigilância sanitária e leia atentamente as advertências, as contraindicações e a origem do material.</p>
 <p>Se você costuma usar suplementos para energia ou sono, pode ser útil conhecer também os cuidados sobre <a href="/ashwagandha/">ashwagandha</a>, que levanta dúvidas parecidas sobre segurança e interações.</p>
 
+<p>Antes de incluir a maca na rotina, confira se o produto informa a origem, o modo de processamento e a presença de outros ingredientes. Rótulos genéricos, sem essas informações, dificultam qualquer avaliação segura.</p>
+<p>Também é recomendável evitar combinações de vários suplementos vendidos para energia ao mesmo tempo, pois a soma de estimulantes e de extratos vegetais pode ser difícil de controlar.</p>
+
 <h2>Cuidados antes de usar a maca peruana</h2>
 <p>Algumas pessoas precisam de cuidado extra. Gestantes, lactantes, quem tem problemas de tireoide, distúrbios hormonais, doenças hepáticas ou renais e quem faz uso contínuo de medicamentos deve conversar com o médico antes.</p>
 <p>A maca pode influenciar o funcionamento hormonal, e esse efeito é difícil de prever sem avaliação individual.</p>
@@ -73,6 +76,8 @@ FOTO2_SECAO: 4
 
 <p>Antes de consultar, anote o produto usado, a quantidade aproximada, a data de início e os sintomas observados. Esses dados ajudam o profissional a entender se a reação tem relação com a maca ou com outra causa.</p>
 <p>Também é importante guardar a embalagem, pois o rótulo traz informações úteis sobre composição e advertências.</p>
+
+<p>Mesmo quem se sente bem deve retomar a avaliação periódica de saúde ao usar um produto com regularidade. Exames de rotina, como glicemia, colesterol e função da tireoide, ajudam a identificar alterações que passariam despercebidas.</p>
 
 <h2>Quando procurar um médico</h2>
 <p>Procure orientação se tiver sintomas que afetam o sono, o humor, o ciclo menstrual, a energia ou o peso por mais de algumas semanas. Essas queixas podem ter causas diversas e merecem investigação.</p>

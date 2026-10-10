@@ -29,6 +29,9 @@ FOTO2_SECAO: 4
 </ul>
 <p>Esses usos não devem ser tratados como tratamento para perda de memória, insônia ou outras condições. Quando há queixa persistente, a investigação é o caminho.</p>
 
+<p>Ao avaliar um suplemento, pergunte o que ele promete, para quem foi pensado e quais riscos foram descritos. Respostas claras e referências verificáveis são sinais positivos de transparência.</p>
+<p>Respostas evasivas, promessas de solução definitiva ou de efeitos imediatos devem levar a um novo questionamento antes da compra.</p>
+
 <h2>Efeitos conhecidos e possíveis</h2>
 <p>Os efeitos relatados com mais frequência são digestivos, semelhantes aos de outras formas de magnésio: diarreia, cólicas e desconforto abdominal, sobretudo com doses mais altas. Há também relatos de sonolência e tontura, que devem ser observados com atenção.</p>
 <p>Pessoas com doença renal têm maior risco de acúmulo do mineral, e por isso precisam de avaliação médica antes de qualquer suplemento. Gestantes e lactantes também devem conversar com o profissional antes de começar.</p>
@@ -62,6 +65,9 @@ FOTO2_SECAO: 4
 
 <p>Quem tem interesse em memória deve lembrar que a perda de lembranças pode ter origens variadas, como sono ruim, estresse, uso de remédios, alterações da tireoide e deficiência de vitaminas. Identificar a causa é o passo mais importante.</p>
 <p>Atividade física regular, sono de boa qualidade, alimentação variada e controle de doenças crônicas são medidas com respaldo científico para a saúde cerebral e não dependem de suplementos específicos.</p>
+
+<p>Para quem já usa outros remédios para dormir, memória ou humor, a combinação exige atenção. Sedativos e antidepressivos podem somar efeitos sobre a sonolência, e o médico deve revisar o conjunto antes de qualquer acréscimo.</p>
+<p>Guardar um registro simples de sono, humor e memória por algumas semanas facilita essa conversa e mostra ao profissional o que realmente mudou.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>O magnésio treonato melhora a memória?</strong><br>As evidências são preliminares e não permitem afirmar um benefício comprovado em pessoas saudáveis.</p>

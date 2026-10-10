@@ -75,6 +75,9 @@ FOTO2_SECAO: 4
 <p>Se a queda vem com sinais na pele, como manchas, descamação ou coceira, o dermatologista pode examinar o couro cabeludo com recursos específicos, como a dermatoscopia, que amplia a visão dos folículos.</p>
 <p>Ao chegar à consulta, leve a lista de medicamentos, suplementos, produtos usados nos cabelos e exames anteriores. Esse conjunto dá ao profissional uma visão completa do caso.</p>
 
+<p>Ao longo do acompanhamento, vale registrar fotos mensais e a quantidade aproximada de fios encontrados no pente ou no ralo. Esses dados objetivos mostram a tendência melhor do que a impressão do dia a dia.</p>
+<p>Quando a causa é identificada e tratada, a recuperação costuma ser gradual, e o profissional orienta o tempo esperado para cada situação, sem prometer um prazo fixo.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Perder cabelo todo dia é normal?</strong><br>Perder uma quantidade pequena de fios diariamente faz parte do ciclo natural. Preocupa mais a perda que aumenta e a diminuição visível da densidade.</p>
 <p><strong>Estresse pode causar queda?</strong><br>Sim. Episódios intensos de estresse podem provocar queda temporária, geralmente alguns meses após o evento.</p>

@@ -78,6 +78,8 @@ FOTO2_SECAO: 4
 
 <p>Também é importante reavaliar o plano a cada algumas semanas, com medidas corporais, fotos e exames de rotina. Essa revisão periódica evita que a fase de perda de gordura se estenda além do necessário e ajuda a planejar a transição para a manutenção.</p>
 
+<p>Por fim, lembre que o plano precisa caber na vida real. Quem trabalha em turnos, viaja com frequência ou tem filhos pequenos precisa de estratégias compatíveis com essa rotina, e não de uma dieta idealizada. A melhor versão é a que pode ser repetida por meses, mesmo nos dias mais corridos.</p>
+
 <h2>Perguntas frequentes</h2>
 
 <p><strong>Posso secar sem academia?</strong></p>
@@ -110,6 +112,6 @@ FOTO2_SECAO: 4
 
 <h2>Resumindo</h2>
 
-<p>Dieta para secar, bem entendida, é um plano de redução de gordura que deve ser revisto com regularidade que protege a massa muscular, combina alimentação equilibrada com treino de força e respeita o ritmo do corpo. Não existem atalhos seguros, e produtos que prometem resultados rápidos costumam trazer mais riscos do que benefícios.</p>
+<p>Dieta para secar, bem entendida, é um plano de redução de gordura que protege a massa muscular, combina alimentação equilibrada com treino de força e respeita o ritmo do corpo. Não existem atalhos seguros, e produtos que prometem resultados rápidos costumam trazer mais riscos do que benefícios.</p>
 
 <p>O melhor caminho é construir uma rotina realista, acompanhada de exames e orientação profissional. Com paciência, sono adequado e consistência, a perda de gordura tende a ser mais duradoura e a preservar a saúde ao longo do processo.</p>

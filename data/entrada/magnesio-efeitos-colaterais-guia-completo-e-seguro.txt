@@ -23,6 +23,9 @@ FOTO2_SECAO: 4
 <p>Por isso, a falta do mineral pode causar sintomas, assim como o excesso pode trazer problemas. O equilíbrio é o ponto central.</p>
 <p>A maior parte das pessoas obtém magnésio pela alimentação, em alimentos como castanhas, sementes, feijões, folhas verde-escuras e grãos integrais.</p>
 
+<p>Vale distinguir o efeito esperado do efeito indesejado. Algumas pessoas notam maior frequência de evacuações logo no início, o que pode ser apenas o efeito do próprio mineral no intestino e tende a diminuir com o ajuste da dose.</p>
+<p>Já sinais como tontura intensa, fraqueza importante ou batimentos irregulares não são normais e exigem interrupção do uso e atendimento médico.</p>
+
 <h2>Efeitos colaterais do magnésio em suplementos</h2>
 <p>Os efeitos colaterais mais descritos estão ligados ao trato digestivo. Eles aparecem com mais frequência em doses elevadas e em formas de absorção menos eficiente.</p>
 <ul>
@@ -41,6 +44,9 @@ FOTO2_SECAO: 4
 <p>Nesse cenário, o risco de intoxicação aumenta, e o quadro pode envolver fraqueza, sonolência e alterações do ritmo do coração.</p>
 <p>Por isso, quem tem insuficiência renal, faz diálise ou tem exames de função renal alterados deve evitar suplementos de magnésio sem avaliação médica.</p>
 <p>Essa cautela vale também para pessoas idosas, cuja função renal costuma diminuir com o tempo.</p>
+
+<p>Entre as combinações que exigem cuidado estão também os antiácidos e os laxantes que contêm magnésio. Quem usa esses produtos com frequência para azia ou para o intestino pode acumular o mineral sem perceber.</p>
+<p>Por isso, sempre que houver uso de mais de um produto com magnésio, a soma das fontes deve ser informada ao médico, que decide se há necessidade de ajuste.</p>
 
 <h2>Interações que merecem atenção</h2>
 <p>O magnésio pode reduzir a absorção de alguns medicamentos quando tomado no mesmo horário. Entre as classes mais citadas estão certos antibióticos, medicamentos para osteoporose e a levotiroxina.</p>
@@ -66,6 +72,9 @@ FOTO2_SECAO: 4
 <p><strong>Diarreia com magnésio é normal?</strong><br>É um efeito comum com doses altas, mas, se persistir, deve ser avaliado por um médico.</p>
 <p><strong>Quem toma remédio pode usar magnésio?</strong><br>Algumas combinações exigem espaçamento de horário ou cuidado. Informe seus medicamentos ao profissional.</p>
 <p><strong>Alimentos também causam efeitos colaterais?</strong><br>Em geral não. Os efeitos aparecem sobretudo com suplementos concentrados.</p>
+
+<p>Quem já teve cálculos renais, pedras nos rins ou infecções urinárias de repetição deve informar o histórico antes de usar qualquer suplemento de magnésio, pois a decisão pode mudar de forma importante.</p>
+<p>Uma consulta preparada, com a lista de remédios, os suplementos e os exames recentes, torna a conversa mais objetiva e reduz a chance de decisões baseadas apenas em rótulos.</p>
 
 <h2>Quando procurar um médico</h2>
 <p>Procure atendimento se os sintomas forem intensos, se houver batimentos irregulares, confusão, sonolência, fraqueza muscular importante ou dificuldade para urinar.</p>

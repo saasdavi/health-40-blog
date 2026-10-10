@@ -21,6 +21,9 @@ FOTO2_SECAO: 4
 <p>Não existe um número único de evacuações considerado normal. Em geral, fala-se em obstipação quando a pessoa evacua menos de três vezes por semana, com esforço, fezes duras ou sensação de bloqueio, por um período prolongado.</p>
 <p>O quadro pode ser crônico ou surgir de forma passageira, por mudanças na rotina, na alimentação ou no uso de remédios. Em ambos os casos, a avaliação ajuda a entender a origem. Para uma visão complementar sobre o tema do dia a dia, o artigo sobre <a href="/prisao-de-ventre/">prisão de ventre</a> descreve sinais e rotinas que costumam ser associados ao problema.</p>
 
+<p>Entender a origem ajuda a escolher a estratégia certa. Uma causa pouco lembrada é o hábito de usar o banheiro com pressa ou de forçar a evacuação, o que pode, com o tempo, enfraquecer o reflexo natural.</p>
+<p>Outra situação comum é a rotina de viagens e de trabalho, em que a pessoa deixa de beber água e de se movimentar, e o intestino sente o efeito em poucos dias.</p>
+
 <h2>Causas mais comuns</h2>
 <p>A obstipação costuma ter causas combinadas. Entre as mais frequentes estão:</p>
 <ul>
@@ -56,15 +59,23 @@ FOTO2_SECAO: 4
 <p>Em crianças, a obstipação tem características próprias e costuma exigir avaliação pediátrica. Não se deve improvisar tratamento com produtos destinados a adultos.</p>
 <p>Idosos que usam vários medicamentos, ou que têm limitação de movimento, merecem atenção especial, pois a combinação desses fatores aumenta a chance de constipação persistente e de complicações.</p>
 
+<p>Mulheres grávidas e no pós-parto costumam relatar obstipação com frequência. Nesses períodos, a alimentação e a hidratação continuam importantes, e o médico pode orientar o que é seguro em cada fase.</p>
+<p>Após cirurgias, o uso de certos analgésicos e a menor mobilidade também favorecem a constipação, e a equipe de saúde deve ser informada sobre essa possibilidade.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Obstipação é sempre grave?</strong><br>Na maioria das vezes, não. Ainda assim, a persistência ou a mudança de padrão exige avaliação.</p>
 <p><strong>Fibras resolvem sozinhas?</strong><br>Ajudam em muitos casos, mas nem sempre bastam, sobretudo se houver outras causas ou remédios envolvidos.</p>
 <p><strong>Posso usar laxante todos os dias?</strong><br>Não sem orientação médica. O uso contínuo deve ser avaliado pelo profissional.</p>
 <p><strong>Gestantes podem ter obstipação?</strong><br>Sim, e o tratamento deve ser discutido com o médico ou obstetra.</p>
 
+<p>Em pessoas com histórico familiar de câncer colorretal, doença inflamatória intestinal ou sangramento digestivo, qualquer alteração persistente do hábito intestinal merece avaliação sem demora.</p>
+<p>Mesmo sem sinais graves, a obstipação que não responde a ajustes simples por algumas semanas deve ser discutida com o médico.</p>
+
 <h2>Quando procurar um médico</h2>
 <p>Procure atendimento se houver sangue nas fezes, perda de peso sem explicação, dor abdominal intensa, vômitos, febre, anemia ou mudança importante do hábito intestinal que dura semanas. Também é recomendável consultar se os sintomas começam após os 50 anos, pois esse quadro exige investigação.</p>
 <p>O médico pode solicitar exames e definir o tratamento mais adequado. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+
+<p>Na maioria dos casos, a melhora vem de uma combinação de fibras, água, movimento e rotina regular. Quando isso não basta, ou quando há sinais de alerta, a avaliação médica é o caminho seguro.</p>
 
 <h2>Resumindo</h2>
 <p>A obstipação intestinal é a dificuldade de evacuar com regularidade, com fezes duras ou esforço. Costuma ter causas combinadas, como pouca fibra, pouca água, sedentarismo, adiamento da vontade e certos remédios ou doenças.</p>
