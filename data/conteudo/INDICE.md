@@ -131,6 +131,16 @@ Dias de conteúdo já escrito + pauta validada: **12** (a 3 por dia).
 | Botox capilar: o que é, benefícios e cuidados | 1362 | 100 | - |
 | Cabelo branco masculino: causas e cuidados | 1387 | 100 | - |
 | Cabelo caindo muito: causas e investigação | 1332 | 100 | 2026-11-18 |
+| Cabelo caindo o que fazer: causas e cuidados | 1358 | 100 | - |
+| Cabelo quebrado: como recuperar e cronograma | 1369 | 100 | - |
+| Queda de cabelo o que fazer: causas reais | 1325 | 100 | 2027-06-29 |
+| Calculadora de IMC: entenda o seu índice corporal | 1330 | 95 | - |
+| Caloria dos alimentos: como calcular e usar | 1324 | 100 | - |
+| Calvície masculina: causas e tratamentos | 1335 | 100 | - |
+| Câncer de pele sintomas: sinais de alerta | 1348 | 100 | - |
+| Tratamento capilar caseiro: benefícios e riscos | 1349 | 100 | - |
+| Carboidratos: o que são, funções e tipos | 1361 | 100 | - |
+| Cardápio para emagrecer: guia semanal prático | 1364 | 100 | - |
 
 ## Publicados
 
