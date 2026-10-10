@@ -71,7 +71,7 @@ Dias de conteúdo já escrito + pauta validada: **12** (a 3 por dia).
 | Magnésio: Para Que Serve, Tipos e Cuidados | 2187 | 88 | 2027-05-24 |
 | Melanoma: sinais, ABCDE e quando procurar | 1772 | 100 | - |
 | Melasma: causas, sintomas e como cuidar | 1602 | 100 | 2026-10-29 |
-| Melatonina: Para Que Serve, Se Vicia e Como Usar | 2005 | 90 | 2027-05-25 |
+| Melatonina: Para Que Serve, Efeitos e Cuidados | 1355 | 100 | 2027-05-25 |
 | Nutrição Estética: Guia Completo da Pele e Saúde | 2314 | 92 | - |
 | Osteoporose: sintomas, prevenção e tratamento | 1355 | 86 | - |
 | Paralisia do sono: causas e o que fazer | 1512 | 100 | 2026-10-27 |
@@ -95,7 +95,7 @@ Dias de conteúdo já escrito + pauta validada: **12** (a 3 por dia).
 | Biotina para que serve: funções e evidências | 1326 | 100 | - |
 | Biotina valor: o que considerar antes de usar | 1329 | 100 | - |
 | Minoxidil spray cabelo: como usar e cuidados | 1710 | 100 | - |
-| Remédio minoxidil: como age e quais cuidados ter | 1374 | 100 | - |
+| Remédio Minoxidil: Ação, Riscos e Cuidados | 1370 | 100 | - |
 | Academia emagrece? Musculação e perda de gordura | 1356 | 100 | - |
 | Acantose nigricans: causas e manchas escuras | 1339 | 100 | - |
 | Ácido fólico para que serve: usos e cuidados | 1345 | 100 | 2026-11-02 |
@@ -141,6 +141,77 @@ Dias de conteúdo já escrito + pauta validada: **12** (a 3 por dia).
 | Tratamento capilar caseiro: benefícios e riscos | 1349 | 100 | - |
 | Carboidratos: o que são, funções e tipos | 1361 | 100 | - |
 | Cardápio para emagrecer: guia semanal prático | 1364 | 100 | - |
+| Chá que emagrece 1kg por dia: evidências | 1332 | 100 | - |
+| Chá relaxante muscular: o que a ciência diz | 1364 | 100 | - |
+| Chás: o que a ciência sabe sobre ervas e saúde | 1370 | 100 | - |
+| Cisto no couro cabeludo: tipos e cuidados | 1337 | 100 | - |
+| Como engordar de forma saudável: guia prático | 1342 | 100 | - |
+| Como lavar o cabelo corretamente: passo a passo | 1336 | 100 | - |
+| Complexo B para que serve: benefícios e cuidados | 1354 | 100 | - |
+| Compulsão alimentar: sintomas e tratamento | 1386 | 100 | - |
+| Contar calorias: como calcular e evitar erros | 1338 | 100 | - |
+| Cotovelos escuros: causas, como clarear e alerta | 1342 | 100 | - |
+| Cúrcuma: para que serve, benefícios e cuidados | 1333 | 100 | - |
+| Dieta de 1000 calorias: riscos e indicação | 1368 | 100 | - |
+| Dieta enteral 1.5: guia completo para cuidadores | 1340 | 100 | - |
+| Dieta para diabetes tipo 2: guia e cardápio | 1376 | 100 | - |
+| Dieta para perder barriga: o que funciona | 1347 | 100 | 2026-11-25 |
+| Dieta para secar: guia prático e realista | 1365 | 100 | - |
+| Dieta sem carboidrato: como funciona e riscos | 1412 | 100 | - |
+| Dispneia paroxística noturna: causas e alertas | 1400 | 100 | - |
+| Dormir cedo: benefícios, rotina e o que evitar | 1355 | 92 | - |
+| Eletrólitos: o que são, funções e como repor | 1448 | 100 | - |
+| Emagrecer 10kg: o que é possível e com saúde | 1403 | 100 | - |
+| Emagrecer rápido com saúde: guia seguro | 1388 | 100 | - |
+| Entradas no cabelo: causas, tratamentos e cortes | 1395 | 100 | - |
+| Especialista em cabelo: quando procurar | 1395 | 100 | 2027-01-11 |
+| Exercícios para emagrecer na academia: guia | 1368 | 100 | - |
+| Fogacho menopausa: causas, duração e tratamentos | 1354 | 100 | - |
+| Fome emocional: o que é, como identificar | 1357 | 100 | - |
+| Fome no mundo: causas, dados atuais e soluções | 1340 | 92 | - |
+| Fruta do conde: nutrientes, benefícios e cuidados | 1357 | 95 | - |
+| GABA: para que serve, efeitos colaterais e riscos | 1361 | 95 | - |
+| Glicina: o que é, para que serve e riscos | 1358 | 100 | - |
+| Hidrafacial: o que é, benefícios e riscos | 1361 | 100 | - |
+| Hidratante facial: como escolher o ideal | 1395 | 100 | - |
+| HMB: o que é, para que serve e efeitos colaterais | 1364 | 95 | - |
+| Inibidor de apetite forte: riscos e cuidados | 1379 | 100 | - |
+| Fibra de soja em dietas enterais: para que serve | 1328 | 100 | - |
+| Maca Peruana: O Que É e Quais Cuidados Ter | 1366 | 100 | - |
+| Magnésio Dimalato Efeitos Colaterais e Rins | 1320 | 100 | - |
+| Magnésio Efeitos Colaterais: Guia Seguro | 1341 | 100 | - |
+| Magnésio Treonato Para Que Serve e Efeitos | 1332 | 100 | - |
+| Manchas Senis: Causas, Tratamentos e Autoexame | 1354 | 98 | - |
+| Manipulados para Emagrecer: Riscos e Regras | 1341 | 100 | - |
+| Marmita Fitness Cardápio Semanal: Guia Prático | 1334 | 100 | - |
+| Massagem Capilar: Benefícios e Contraindicações | 1350 | 100 | - |
+| Melasma na Gravidez: Causas e Cuidados Seguros | 1337 | 100 | - |
+| Melhor Suplemento Para Reduzir Gordura: Estudos | 1339 | 100 | - |
+| Minoxidil Solução Capilar: Como Usar e Efeitos | 1341 | 100 | - |
+| Minoxidil Spray: Como Atua, Aplicação e Cuidados | 1333 | 100 | - |
+| Minoxidil Tônico Capilar: Como Usar e Shedding | 1336 | 100 | - |
+| Minoxidil para que serve, efeitos e cuidados | 1762 | 100 | - |
+| Energético Sabores: Riscos, Cafeína e Cuidados | 1338 | 100 | - |
+| Niacinamida Para Que Serve: Benefícios e Efeitos | 1344 | 100 | - |
+| Obstipação Intestinal: Causas e Sintomas | 1323 | 100 | - |
+| Óxido de Magnésio: Para Que Serve e Riscos | 1339 | 100 | - |
+| Corpo em Formato de Pera: Saúde e Cuidados 40+ | 1404 | 100 | - |
+| Perder Gordura e Ganhar Massa Muscular: Guia | 1358 | 100 | - |
+| pH da Pele: O Que é Ideal e Como Equilibrar | 1338 | 100 | - |
+| Picolinato de Cromo para Que Serve e Riscos | 1358 | 100 | - |
+| Produtos Sem Lactose: Guia Completo e Prático | 1342 | 100 | - |
+| Proteína para Emagrecer: Como Usar e Riscos | 1399 | 100 | - |
+| Proteína em Pó: Como Usar e Comparar Opções | 1412 | 100 | - |
+| Protetor Solar Facial: Como Escolher e Usar | 1394 | 100 | - |
+| Psoríase no Couro Cabeludo: Sintomas e Caspa | 1374 | 100 | - |
+| Queda de Cabelo Feminino: Causas e Tratamentos | 1393 | 100 | - |
+| Queda de Cabelo Intensa: Causas e Quando Tratar | 1385 | 100 | - |
+| Queda de Cabelo por Estresse: Causas e Sinais | 1374 | 100 | - |
+| Queda de Cabelo Pós-parto: Causas e Cuidados | 1368 | 100 | - |
+| Reeducação Alimentar: Como Fazer na Prática | 1391 | 100 | - |
+| Resistência Insulínica: Sintomas e Cuidados | 1366 | 100 | - |
+| Retinol Para Que Serve: Benefícios e Como Usar | 1364 | 100 | - |
+| Sabonete de Enxofre Para Que Serve e Cuidados | 1402 | 100 | - |
 
 ## Publicados
 
