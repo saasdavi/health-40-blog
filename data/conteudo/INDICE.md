@@ -126,7 +126,7 @@ Dias de conteúdo já escrito + pauta validada: **12** (a 3 por dia).
 | Vitamina D3: Para Que Serve, Fontes e Cuidados | 1405 | 100 | 2027-05-25 |
 | Babosa para Queda de Cabelo: Como Usar | 1344 | 100 | - |
 | Tipos de bebidas: diferenças e efeitos na saúde | 3244 | 100 | - |
-| Beta-alanina: o que é, formigamento e riscos | 1363 | 100 | - |
+| Beta-alanina: para que serve e como tomar | 2302 | 100 | - |
 | Bolinhas no couro cabeludo: causas e quando agir | 1354 | 100 | - |
 | Botox capilar: o que é, benefícios e cuidados | 1362 | 100 | - |
 | Cabelo branco masculino: causas e cuidados | 1387 | 100 | - |
@@ -227,6 +227,10 @@ Dias de conteúdo já escrito + pauta validada: **12** (a 3 por dia).
 | Vitamina de Cavalo no Cabelo: Riscos | 1332 | 100 | - |
 | Vitamina para Queda de Cabelo: O Que Funciona | 1336 | 100 | 2027-05-30 |
 | Vitaminas para Queda de Cabelo: Sinais e Exames | 1331 | 100 | - |
+| Albumina em pó: como usar e evitar gases | 1734 | 100 | - |
+| Bebidas Ambev: portfólio e tabela nutricional | 1843 | 100 | - |
+| Colágeno Verisol: para que serve e dosagem | 2281 | 100 | - |
+| Queda de cabelo depois dos 40: causas e cuidados | 1418 | 100 | - |
 
 ## Publicados
 
