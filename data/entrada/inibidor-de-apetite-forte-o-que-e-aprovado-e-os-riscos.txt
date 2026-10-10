@@ -16,7 +16,7 @@ FOTO2_LEGENDA: A avaliação de riscos é feita caso a caso pelo médico.
 FOTO2_SECAO: 4
 ---
 <p>Inibidor de apetite forte é a expressão usada para medicamentos que atuam sobre os mecanismos da fome e da saciedade. Eles podem ter indicações médicas específicas, mas também geram riscos importantes e exigem prescrição e acompanhamento. Usá-los sem orientação é perigoso. Veja, em termos gerais, por que essas substâncias são controladas, quais riscos merecem atenção e o que observar.</p>
-<h2>O que são os inibidores de apetite</h2>
+<h2>Inibidor de apetite forte: o que são essas substâncias</h2>
 <p>Os inibidores de apetite são substâncias que agem no sistema nervoso ou no trato digestivo para reduzir a sensação de fome ou aumentar a saciedade. Alguns atuam sobre neurotransmissores ligados ao humor e à energia, enquanto outros modificam a forma como o intestino responde à comida.</p>
 <p>Essa atuação sobre o cérebro e o organismo é justamente o que exige cuidado. Ao mexer com mecanismos fisiológicos, esses medicamentos podem produzir efeitos sobre o coração, a pressão, o humor e o sono, além de interações com outros remédios.</p>
 <p>Nem todo produto vendido como “inibidor de apetite” tem registro e comprovação. Há também substâncias proibidas ou retiradas do mercado por causa de riscos graves. Por isso, a origem do produto é tão importante quanto a substância em si.</p>

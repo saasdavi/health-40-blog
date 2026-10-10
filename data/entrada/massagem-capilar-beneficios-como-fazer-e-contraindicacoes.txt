@@ -25,6 +25,9 @@ FOTO2_SECAO: 4
 </ul>
 <p>Há pesquisas sobre o efeito da massagem na circulação local e no crescimento dos fios, mas os estudos são pequenos e não permitem afirmar que ela faça o cabelo crescer ou reduza a queda de forma comprovada.</p>
 
+<p>Na prática, a massagem é uma pausa de atenção plena: observar a respiração, a temperatura das mãos e a sensação na nuca ajuda a manter o momento leve e sem pressa.</p>
+<p>Não há necessidade de tempo longo. Alguns minutos de toque consistente costumam ser suficientes para criar a sensação de relaxamento que muitas pessoas procuram.</p>
+
 <h2>Como fazer a massagem capilar em casa</h2>
 <p>Você não precisa de equipamentos. Basta um momento tranquilo e as mãos limpas. A técnica abaixo é um ponto de partida, e a pressão deve ser sempre leve a moderada.</p>
 <ul>
@@ -41,6 +44,9 @@ FOTO2_SECAO: 4
 <h2>Massagem capilar e a queda de cabelo</h2>
 <p>Muita gente associa a massagem à queda de cabelo, mas é importante separar expectativa de evidência. Quando a perda tem causa hormonal, genética ou sistêmica, a massagem não resolve o problema sozinha.</p>
 <p>Se a queda é preocupante, vale conhecer as causas no texto sobre <a href="/queda-de-cabelo/">queda de cabelo</a> e buscar avaliação antes de atribuir o problema a um único hábito.</p>
+
+<p>A lista a seguir não é exaustiva. Em caso de dúvida sobre a pele do couro cabeludo, a melhor escolha é adiar a massagem e perguntar ao dermatologista, que examina a área com calma.</p>
+<p>Mesmo sem contraindicação aparente, pessoas com pele muito sensível ou com histórico de reações a cosméticos devem testar a técnica e os produtos em pequenas áreas antes de adotar a rotina.</p>
 
 <h2>Contraindicações da massagem capilar</h2>
 <p>Algumas situações exigem cautela e, em muitos casos, a suspensão temporária da massagem até avaliação:</p>
@@ -62,6 +68,9 @@ FOTO2_SECAO: 4
 
 <p>Para quem tem cabelos longos ou cacheados, a massagem pode ser feita antes da lavagem, com movimentos lentos, para soltar a sujeira acumulada sem embaraçar os fios.</p>
 <p>Ao final, lave o cabelo com suavidade e seque sem atrito, de preferência com toalha de algodão e secagem em temperatura moderada, já que o calor excessivo pode fragilizar a haste.</p>
+
+<p>Quem sente dor de cabeça tensional pode notar alívio com a massagem do pescoço e da região da nuca. Ainda assim, dores frequentes ou intensas merecem avaliação médica, já que têm causas diversas.</p>
+<p>A massagem nunca substitui o tratamento de condições da coluna, da circulação ou da pele, mas pode ser um complemento agradável ao plano definido pelo profissional.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>A massagem capilar faz o cabelo crescer?</strong><br>Não há evidência sólida de que isso aconteça. O benefício mais claro é o relaxamento.</p>

@@ -44,10 +44,16 @@ FOTO2_SECAO: 4
 <p>Peelings químicos, lasers e tratamentos com luz devem ser avaliados com cuidado. Em geral, o dermatologista prefere adiar intervenções até depois do parto, quando há menos risco e o resultado pode ser melhor planejado.</p>
 <p>Não existe um tratamento caseiro comprovado. Limão, vinagre ou misturas feitas em casa podem irritar a pele e piorar a mancha.</p>
 
+<p>Algumas gestantes sentem ardência ao usar produtos novos, o que pode acontecer também com o protetor solar. Nesse caso, troque de fórmula com orientação e observe a reação antes de manter o uso.</p>
+<p>Lavar o rosto com água morna e um sabonete suave, sem atrito excessivo, é suficiente para a maioria das peles no período.</p>
+
 <h2>Rotina segura para o período gestacional</h2>
 <p>Uma rotina simples costuma ser suficiente para manter o quadro controlado. Limpe o rosto com produto suave, aplique o protetor solar pela manhã e reaplique durante o dia, use hidratante adequado e observe a pele com regularidade.</p>
 <p>Anotar quando as manchas aparecem ou se intensificam ajuda na consulta, já que o padrão pode indicar exposição solar ou outros fatores.</p>
 <p>Se quiser entender melhor a condição fora da gravidez, o texto sobre <a href="/melasma/">melasma</a> explica causas e opções de tratamento de forma geral. Para outras alterações de cor da pele, veja também <a href="/manchas-na-pele/">manchas na pele</a>.</p>
+
+<p>Amamentar não impede o uso de todos os cuidados dermatológicos, mas cada produto deve ser escolhido com orientação. Informe o profissional sobre a amamentação antes de iniciar qualquer tratamento.</p>
+<p>Enquanto as manchas estiverem presentes, a proteção solar continua sendo indispensável no dia a dia.</p>
 
 <h2>Melasma após o parto</h2>
 <p>Em muitas mulheres, as manchas clareiam nos meses após o parto, com a normalização dos hormônios. Em outras, o melasma persiste e exige acompanhamento, principalmente se houve exposição solar intensa no período.</p>
@@ -65,6 +71,8 @@ FOTO2_SECAO: 4
 <h2>Quando procurar um médico</h2>
 <p>Procure orientação se a mancha crescer rapidamente, mudar de cor, sangrar ou coçar, ou se surgirem outras lesões na pele. Também é importante consultar o médico antes de usar qualquer produto clareador, procedimento estético ou medicamento na gestação.</p>
 <p>O dermatologista e o obstetra podem trabalhar juntos para escolher as medidas mais seguras. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+
+<p>Para a maioria das gestantes, o melasma é uma fase de cuidados simples e acompanhamento, sem necessidade de intervenções agressivas durante a gravidez.</p>
 
 <h2>Resumindo</h2>
 <p>O melasma na gravidez é causado principalmente por alterações hormonais, com influência da exposição solar e da predisposição individual. Ele costuma aparecer no rosto e, muitas vezes, melhora após o parto.</p>

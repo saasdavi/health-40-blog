@@ -14,7 +14,7 @@ FOTO2_ALT: Adulta fazendo exercício de força com faixa elástica
 FOTO2_LEGENDA: O treino de força é a base para preservar a massa muscular ao longo da vida.
 FOTO2_SECAO: 4
 ---
-<p>HMB é a sigla para beta-hidroxi-beta-metilbutirato, um composto produzido pelo corpo a partir da leucina, um dos aminoácidos essenciais. Ele é vendido como suplemento para atletas e para pessoas que querem preservar massa muscular. As evidências são mistas e dependem muito do contexto. Veja, em termos gerais, o que é o HMB, para que costuma ser usado e quais cuidados considerar.</p>
+<p>HMB é a sigla para beta-hidroxi-beta-metilbutirato, um composto produzido pelo corpo a partir da leucina, um dos aminoácidos essenciais. Ele é vendido como suplemento para atletas e para pessoas que querem preservar massa muscular. As evidências são mistas e dependem muito do contexto. Veja os cuidados necessários.</p>
 <h2>O que é o HMB</h2>
 <p>O HMB é um metabólito da leucina, aminoácido presente em alimentos ricos em proteína. Uma parte pequena da leucina consumida é convertida em HMB no organismo. Por isso, o composto também pode ser encontrado em alguns alimentos, em quantidades bem menores do que as dos suplementos.</p>
 <p>Ele participa de processos relacionados à manutenção das fibras musculares, especialmente quando o músculo está sob estresse, como em períodos de treino intenso, de pouca alimentação ou de envelhecimento. Essa função biológica explica o interesse científico pelo tema.</p>
@@ -41,13 +41,21 @@ FOTO2_SECAO: 4
 <h2>Alternativas e base da massa muscular</h2>
 <p>Para manter ou ganhar músculo, a base costuma ser o treino de força regular e uma alimentação com proteína distribuída ao longo do dia. Essas medidas têm respaldo muito maior do que qualquer suplemento isolado. Para entender a perda muscular com a idade, leia sobre a <a href="/sarcopenia/">sarcopenia</a>.</p>
 <p>Também faz diferença adequar a ingestão de proteína às necessidades de cada fase da vida. O texto sobre <a href="/proteina-mulheres-40/">proteína para mulheres acima de 40</a> aborda esse tema de forma geral, sem substituir a orientação de um nutricionista.</p>
+<p>Para quem busca preservar músculos, a estrutura da rotina costuma ser mais importante do que qualquer ingrediente isolado. Treinos de força com progressão, distribuição de proteína ao longo do dia e sono adequado formam a base. Essas medidas têm respaldo muito mais consistente do que suplementos específicos.</p>
+<p>A quantidade de proteína que cada pessoa precisa depende de idade, peso, nível de atividade e condições de saúde. Adultos mais velhos, por exemplo, costumam se beneficiar de uma ingestão proteica bem distribuída nas refeições, mas a meta deve ser definida pelo nutricionista ou pelo médico.</p>
+<p>A leucina, que dá origem ao HMB, está presente em fontes proteicas como carnes, peixes, ovos, laticínios e leguminosas. Quem consome essas fontes com regularidade já recebe o aminoácido na dieta, o que torna a suplementação menos necessária para a maioria das pessoas saudáveis.</p>
+<p>A recuperação entre treinos é outro fator. Dormir bem, reduzir o estresse e permitir dias de descanso dão tempo para o músculo se adaptar. Muitas pessoas que sentem fadiga excessiva não precisam de mais produtos, mas de ajuste na rotina de treino.</p>
+<p>Em casos de perda muscular relacionada a doenças, internações ou envelhecimento acentuado, a avaliação especializada é indispensável. Nesses contextos, o plano nutricional e o programa de reabilitação são definidos por equipe, e a decisão sobre qualquer suplemento deve ser compartilhada com o médico responsável.</p>
+<p>Atletas que disputam competições oficiais precisam verificar se o produto é permitido pela entidade esportiva, porque suplementos podem conter substâncias não declaradas no rótulo. Essa checagem protege o desempenho e a saúde e deve ser feita antes de qualquer uso.</p>
+<p>Para quem treina por lazer, o caminho mais simples costuma ser organizar a alimentação, registrar os treinos e buscar acompanhamento de um profissional de educação física e de um nutricionista. A pesquisa sobre o composto continua em andamento, e novos estudos podem mudar as recomendações no futuro.</p>
+<p>Por último, vale desconfiar de propagandas que associem o composto a ganhos rápidos de massa ou força. A evidência disponível não sustenta promessas desse tipo, e o consumidor deve buscar informações em revisões científicas e em profissionais habilitados.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>HMB aumenta a força?</strong> Os resultados são mistos. Em alguns estudos o efeito é pequeno, e em outros não aparece de forma clara.</p>
 <p><strong>Quem não treina precisa de HMB?</strong> Não há indicação geral. A prioridade costuma ser alimentação adequada e atividade física regular.</p>
 <p><strong>O HMB é seguro para uso prolongado?</strong> Não há dados suficientes para afirmar segurança em uso prolongado para todas as pessoas.</p>
 <p><strong>Posso usar junto com outros suplementos?</strong> Converse com o médico ou nutricionista, porque combinações podem gerar efeitos imprevisíveis.</p>
 <h2>Quando procurar um médico</h2>
-<p>Procure avaliação se sentir náusea persistente, dor de cabeça frequente, inchaço, alterações urinárias ou sinais de alerta após iniciar um suplemento. Também é importante avisar o médico se você tem doença renal, hepática ou usa medicamentos de forma contínua.</p>
+<p>Procure avaliação se sentir náusea persistente, dor de cabeça frequente, inchaço, alterações urinárias ou sinais de alerta após iniciar um suplemento. Também é importante avisar o médico se houver doença renal ou hepática, ou uso contínuo de medicamentos.</p>
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. A decisão sobre qualquer suplemento deve considerar o seu histórico e ser acompanhada por profissional habilitado.</p>
 <h2>Resumindo</h2>
 <p>O HMB é um metabólito da leucina ligado à manutenção da massa muscular, e os suplementos são vendidos com foco em força e recuperação. As evidências são mistas, com efeitos que variam conforme a população e o contexto, o que limita recomendações gerais.</p>

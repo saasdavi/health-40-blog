@@ -29,6 +29,9 @@ FOTO2_SECAO: 4
 <li><strong>Manutenção:</strong> poucos dados mostram que o resultado se mantém após a interrupção.</li>
 </ul>
 
+<p>Muitos produtos desse tipo são vendidos com depoimentos e fotos de antes e depois. Esses materiais não mostram quem não obteve resultado, nem informam os eventos adversos que aconteceram com outros usuários.</p>
+<p>Por isso, a ausência de relatos negativos não significa segurança. Os dados mais confiáveis vêm de estudos controlados e de sistemas de vigilância sanitária.</p>
+
 <h2>Termogênicos e os riscos que precisam de atenção</h2>
 <p>Os chamados termogênicos são produtos que prometem aumentar o gasto de energia. Muitos contêm estimulantes, como cafeína em combinações variadas, e alguns trazem ingredientes de origem vegetal pouco estudados em conjunto.</p>
 <p>Os riscos mais citados incluem aceleração dos batimentos, aumento da pressão, insônia, ansiedade, tremores, náusea e, em casos raros, lesões hepáticas. Esses riscos aumentam em quem tem doença cardíaca, hipertensão, arritmia, ansiedade ou usa outros estimulantes.</p>
@@ -58,9 +61,13 @@ FOTO2_SECAO: 4
 <p><strong>Chá ou cápsula natural é mais seguro?</strong><br>Ser natural não significa ausência de riscos. Ingredientes vegetais também podem interagir com medicamentos.</p>
 <p><strong>Quanto tempo leva para ver mudanças?</strong><br>Depende de cada pessoa. Mudanças consistentes costumam ser graduais, e o acompanhamento ajuda a ajustar o plano.</p>
 
+<p>Se você já usou um produto e sentiu algo diferente, registre o nome, a dose, a frequência e os sintomas. Essas informações ajudam o médico a entender o que aconteceu e a decidir os próximos passos.</p>
+
 <h2>Quando procurar um médico</h2>
 <p>Procure atendimento se você sentir palpitações, dor no peito, falta de ar, tontura intensa ou ansiedade forte depois de usar um produto para emagrecer. Também é importante conversar com o médico antes de qualquer suplemento em caso de doença cardíaca, hipertensão, diabetes, problemas hepáticos ou renais, ou uso contínuo de medicamentos.</p>
 <p>O profissional pode avaliar o peso, a cintura e os exames, além de orientar o plano mais seguro. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+
+<p>Uma estratégia realista costuma começar com metas pequenas, medição periódica e revisões com o profissional. Esse caminho é mais lento, porém mais previsível e menos arriscado.</p>
 
 <h2>Resumindo</h2>
 <p>Não há suplemento capaz de substituir alimentação equilibrada, atividade física regular e sono adequado para reduzir gordura. As evidências para a maioria dos produtos são fracas, e os termogênicos apresentam riscos relevantes para o coração e o sistema nervoso.</p>

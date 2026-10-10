@@ -51,15 +51,24 @@ FOTO2_SECAO: 4
 <p>Na prática, a dúvida mais comum é justamente o horário. A regra geral de separar os produtos vale, mas o intervalo ideal depende de cada remédio e do seu esquema.</p>
 <p>Levar a lista completa de medicamentos, vitaminas e chás à consulta evita surpresas, já que muitas interações acontecem com produtos que a pessoa não considera remédios.</p>
 
+<p>Em termos práticos, a pergunta central não é apenas se o suplemento causa problemas, mas se ele faz sentido para aquela pessoa. A resposta depende de exames, de sintomas e da alimentação já existente.</p>
+<p>Um teste simples de bom senso é perguntar ao profissional se há uma causa clara para a suspeita de deficiência. Sem essa base, o uso pode acontecer por hábito ou por propaganda.</p>
+
 <h2>Quem deve ter mais cuidado</h2>
 <p>Algumas condições pedem atenção redobrada. Além da função renal reduzida, a gestação e a amamentação exigem avaliação individual.</p>
 <p>Pessoas idosas também devem ter cuidado, já que a função renal tende a diminuir com a idade, e a eliminação do mineral pode ficar mais lenta sem que a pessoa perceba.</p>
 <p>Em pacientes com pressão alta, sinais de descontrole merecem acompanhamento. Você pode conhecer mais em <a href="/pressao-alta-sintomas/">sinais de pressão alta</a>, sem que isso signifique indicação do suplemento.</p>
 
+<p>Crianças e adolescentes também precisam de orientação específica, já que doses adequadas para adultos não devem ser transferidas automaticamente para essa faixa etária.</p>
+<p>Quem pratica exercícios intensos deve lembrar que suor e perdas de eletrólitos mudam a necessidade diária, o que torna a escolha de qualquer suplemento uma decisão que vale discutir com um profissional.</p>
+
 <h2>Como ler o rótulo com mais segurança</h2>
 <p>Antes de comprar, observe a quantidade de magnésio elementar informada, a presença de outros ingredientes e as advertências do fabricante.</p>
 <p>Produtos com dosagens altas ou combinações diversas exigem mais cuidado do que a simples presença do mineral na dieta.</p>
 <p>Guarde o frasco fora do alcance de crianças e siga as instruções de conservação. Se houver dúvida sobre o conteúdo, procure a equipe de saúde antes de continuar.</p>
+
+<p>Ao comparar produtos, observe também a presença de aditivos, adoçantes e outras substâncias. Ingredientes extras podem causar desconforto por si mesmos, o que confunde a interpretação dos sintomas.</p>
+<p>Se você notou algo novo depois de trocar de marca, considere a troca como um possível fator e comunique a mudança ao profissional que acompanha o seu caso.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>Magnésio dimalato causa problemas nos rins?</strong><br>Em pessoas com função renal normal, o risco é menor, mas quem tem doença renal precisa de avaliação antes do uso.</p>

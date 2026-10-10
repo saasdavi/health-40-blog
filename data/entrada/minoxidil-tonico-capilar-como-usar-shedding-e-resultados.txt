@@ -45,6 +45,9 @@ FOTO2_SECAO: 4
 <p>Os resultados variam bastante. Há pessoas que observam pouca mudança e outras que percebem ganho de densidade. Não há como prometer resposta, e é importante manter expectativas realistas.</p>
 <p>Para entender outros fatores que influenciam a queda, como a falta de ferro, vale conhecer os <a href="/ferro-baixo-sintomas/">sintomas de ferro baixo</a>.</p>
 
+<p>Alguns efeitos sistêmicos, como alterações da pressão e batimentos acelerados, são raros com a aplicação tópica, mas exigem atenção especial em quem tem doença cardíaca ou usa medicamentos para o coração.</p>
+<p>Em caso de sintomas incomuns, suspenda a aplicação e busque atendimento, levando o frasco ou a informação sobre a fórmula utilizada.</p>
+
 <h2>Efeitos colaterais e alertas importantes</h2>
 <p>Os efeitos locais mais comuns são coceira, irritação, ressecamento e descamação. Em alguns casos, podem surgir crescimento de pelos em áreas próximas e alterações da pressão, sobretudo com uso fora da orientação.</p>
 <ul>
@@ -64,9 +67,14 @@ FOTO2_SECAO: 4
 <p><strong>Posso parar quando quiser?</strong><br>Não sem orientação. Ao interromper, a queda costuma voltar em alguns meses.</p>
 <p><strong>Gestantes podem usar?</strong><br>Não sem avaliação médica específica, já que o uso na gestação exige cautela.</p>
 
+<p>Se o tratamento foi iniciado por conta própria, marque uma consulta para revisar a indicação, a concentração e a forma de uso. Essa conversa pode evitar erros que só aparecem meses depois.</p>
+<p>Também vale procurar orientação se a queda não melhora após um período razoável de acompanhamento, pois outras causas podem exigir abordagem diferente.</p>
+
 <h2>Quando procurar um médico</h2>
 <p>Procure um dermatologista antes de começar e se houver irritação importante, queda que aumenta muito, falhas em placas, dor de cabeça forte, tontura ou palpitações. Também é importante buscar orientação se o produto for usado por alguém da casa com risco de exposição acidental.</p>
 <p>A avaliação permite confirmar o diagnóstico, revisar a concentração e definir o plano. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+
+<p>Por fim, o uso do tônico deve ser visto como um processo de médio prazo, com registros periódicos e revisões. Assim, a decisão de continuar, ajustar ou interromper fica baseada em informação e não em impressão momentânea.</p>
 
 <h2>Resumindo</h2>
 <p>O minoxidil tônico capilar é um tratamento de uso contínuo para queda de cabelo, com uma fase de queda inicial chamada shedding e resultados que levam meses para aparecer. Ele precisa de indicação e acompanhamento profissional, além de cuidados com a aplicação e com a guarda do produto.</p>

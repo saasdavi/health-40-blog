@@ -25,6 +25,9 @@ FOTO2_SECAO: 4
 <p>A forma em spray é uma solução líquida, geralmente com álcool em sua composição, que se espalha com facilidade e seca rápido. Essa característica pode facilitar a aplicação em áreas amplas, mas também pode causar ressecamento e ardência em peles sensíveis.</p>
 <p>Diferente de géis ou espumas, o spray exige atenção para não atingir o rosto e as mucosas, porque a névoa pode se dispersar com o vento ou o movimento do frasco.</p>
 
+<p>Antes de começar, verifique a validade do frasco e a integridade do dispositivo de borrifar. Um spray entupido ou com vazamento altera a quantidade aplicada e atrapalha a constância do uso.</p>
+<p>Guarde o produto em temperatura ambiente, sem exposição ao calor, e mantenha a tampa bem fechada após cada uso.</p>
+
 <h2>Passo a passo geral de aplicação</h2>
 <p>A orientação exata sobre concentração, quantidade e frequência deve vir do médico ou da bula. Em termos gerais, a aplicação segue alguns cuidados:</p>
 <ul>
@@ -65,9 +68,14 @@ FOTO2_SECAO: 4
 <p><strong>Quem tem pressão alta pode usar?</strong><br>Pode haver avaliação, mas a decisão precisa considerar o histórico cardiovascular e os remédios em uso.</p>
 <p><strong>Preciso parar se a queda aumentar no início?</strong><br>Não sem orientação. Comunique o médico, que avaliará se é a queda esperada ou outro problema.</p>
 
+<p>Quem já teve reação a algum componente de um produto capilar deve informar o dermatologista antes de iniciar, para que a escolha da fórmula leve esse histórico em conta.</p>
+<p>Se a queda aparecer em uma única área, com contornos bem definidos, o caso deve ser avaliado antes de qualquer tratamento caseiro.</p>
+
 <h2>Quando procurar um médico</h2>
 <p>Procure um dermatologista antes de começar e sempre que houver ardência intensa, feridas, dor de cabeça forte, tontura, palpitações ou inchaço. Também é importante buscar orientação se a queda piorar, se aparecerem falhas em placas ou se houver crescimento de pelos em outras partes do corpo.</p>
 <p>A consulta permite confirmar o diagnóstico e ajustar o plano. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+
+<p>Em síntese, o spray é uma forma prática de aplicação, mas exige a mesma seriedade de qualquer tratamento. Constância, avaliação prévia e acompanhamento contam mais do que a escolha do formato.</p>
 
 <h2>Resumindo</h2>
 <p>O minoxidil spray atua principalmente sobre o ciclo de crescimento dos fios que ainda existem, e seus efeitos costumam exigir uso contínuo por meses. A aplicação segura depende de couro cabeludo limpo e seco, cuidado para não atingir o rosto e acompanhamento profissional.</p>

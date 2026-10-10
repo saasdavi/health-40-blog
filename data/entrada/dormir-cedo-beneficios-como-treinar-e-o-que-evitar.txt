@@ -15,7 +15,7 @@ FOTO2_ALT: Pessoa caminhando ao amanhecer, após uma noite de sono regular
 FOTO2_LEGENDA: O sono de qualidade costuma refletir na disposição do dia seguinte.
 FOTO2_SECAO: 4
 ---
-<p>Dormir cedo significa ir para a cama em um horário que permita um sono suficiente, em sintonia com o relógio biológico. Essa escolha pode favorecer a disposição, a regulação do apetite e a concentração no dia seguinte. Não existe um horário único para todos, mas há princípios que ajudam. Veja, em termos gerais, quais são os benefícios, como criar a rotina e o que evitar à noite.</p>
+<p>Dormir cedo significa deitar em um horário que permita um sono suficiente, em sintonia com o relógio biológico. Essa escolha pode favorecer a disposição, o apetite e a concentração no dia seguinte. Não existe horário único para todos. Veja benefícios, rotina e hábitos a evitar.</p>
 <h2>Por que dormir cedo faz diferença</h2>
 <p>O organismo funciona em ciclos de cerca de um dia, conhecidos como ritmo circadiano. Esses ciclos orientam a liberação de hormônios, a temperatura corporal e o estado de alerta. Quando a pessoa deita sempre no mesmo horário, o corpo aprende a antecipar o sono, o que facilita adormecer e acordar com menos esforço.</p>
 <p>Os estudos sobre sono associam dormir de forma regular a melhor memória, humor mais estável e menor risco de sonolência durante o dia. Em muitos casos, quem dorme cedo também consegue manter o horário de acordar, o que reforça a regularidade. Isso não significa que deitar cedo garanta saúde por si só, mas ajuda a compor um padrão de descanso mais organizado.</p>
@@ -40,6 +40,12 @@ FOTO2_SECAO: 4
 <h2>Quando o sono ruim é um sinal de alerta</h2>
 <p>Dormir cedo nem sempre resolve problemas de sono. Se a pessoa demora muito para pegar no sono, acorda várias vezes ou sente que o descanso não é reparador, é importante procurar ajuda. A <a href="/insonia/">insônia</a> é uma condição comum e tem tratamentos eficazes quando bem conduzidos.</p>
 <p>Roncos intensos, pausas na respiração, sensação de sufocamento durante a noite e sonolência excessiva durante o dia também exigem avaliação. Essas situações podem indicar apneia do sono, que pede investigação específica. Nessas situações, a rotina de horários sozinha não costuma ser suficiente.</p>
+<h2>Ambiente e rotina do quarto</h2>
+<p>O ambiente do quarto influencia bastante a qualidade do sono. Temperatura agradável, pouco barulho e escuridão moderada costumam favorecer o descanso. Cortinas que bloqueiam a luz da rua e um ventilador silencioso podem fazer diferença em grandes cidades, onde o movimento noturno é intenso.</p>
+<p>Colchão e travesseiro confortáveis também contam. Quando o corpo sente desconforto, o despertar é mais frequente e o sono fica mais leve. Vale observar se a cama está alinhada ao corpo e se o travesseiro mantém a coluna em posição confortável.</p>
+<p>Para quem trabalha em turnos ou tem filhos pequenos, o horário ideal pode ser difícil de encaixar. Nesses casos, vale priorizar a regularidade: deitar e acordar em horários semelhantes, sempre que possível, e buscar pausas curtas de descanso quando a rotina permitir. O corpo responde melhor à constância do que a grandes mudanças isoladas.</p>
+<p>A luz natural também tem papel importante. Expor-se ao sol nas primeiras horas do dia ajuda a sinalizar o início do período de atividade, e reduzir a luz forte no fim da tarde contribui para a chegada do sono. Essa combinação costuma facilitar a transição para a noite.</p>
+<p>Quem passa a noite pensando em tarefas pode se beneficiar de anotar as pendências antes de deitar. Escrever o que precisa ser feito no dia seguinte libera a mente e reduz a sensação de alerta. Pequenos rituais, como ouvir uma música calma ou alongar-se por alguns minutos, também ajudam o corpo a desacelerar.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Dormir cedo é melhor para todo mundo?</strong> Não necessariamente. O ideal é o horário que permite um sono suficiente e um despertar sem sofrimento, respeitando a rotina de cada pessoa.</p>
 <p><strong>Se eu deito cedo, mas não durmo, o que fazer?</strong> Evite ficar na cama acordado por muito tempo. Levantar, fazer uma atividade calma com pouca luz e voltar quando estiver com sono costuma ajudar.</p>

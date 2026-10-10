@@ -39,6 +39,9 @@ FOTO2_SECAO: 4
 </ul>
 <p>O importante é manter a lógica do prato equilibrado, e não seguir o cardápio à risca. Ajuste as porções ao seu apetite, à atividade física e às orientações de um profissional.</p>
 
+<p>Use utensílios limpos ao servir e evite deixar as marmitas abertas sobre a bancada por muito tempo. Cozinhar em lote não dispensa higiene das mãos, das tábuas e das superfícies de trabalho.</p>
+<p>Grandes panelas de alimento quente demoram para esfriar no centro. Dividir a preparação em recipientes menores acelera o resfriamento e reduz a permanência em temperatura de risco.</p>
+
 <h2>Armazenamento seguro das marmitas</h2>
 <p>Alimentos preparados precisam ser resfriados rapidamente após o cozimento, para não permanecer muito tempo em temperatura ambiente. O ideal é guardar em recipientes tampados e levar à geladeira logo que esfriarem um pouco.</p>
 <ul>
@@ -66,6 +69,9 @@ FOTO2_SECAO: 4
 <p>Temperos naturais, como ervas frescas, alho, cebola, limão e especiarias, deixam as marmitas mais saborosas sem excesso de sal ou molhos industrializados, que costumam trazer muito sódio e açúcar escondido.</p>
 <p>Ao trocar ingredientes ao longo da semana, mantenha a lógica do prato equilibrado. Trocar frango por ovo, ou arroz por batata-doce, muda o sabor e preserva o conjunto nutricional.</p>
 
+<p>Se você cozinha para a família inteira, inclua pelo menos uma receita que todos gostem. Isso aumenta a adesão ao plano e evita a sensação de que a rotina é apenas uma restrição individual.</p>
+<p>Registrar o que foi consumido e o que sobrou durante a semana também ajuda a ajustar as porções na semana seguinte, sem precisar contar cada detalhe.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Quanto tempo a marmita dura na geladeira?</strong><br>Em geral, poucos dias. Para um prazo maior, o congelamento é a melhor opção.</p>
 <p><strong>Posso congelar arroz e feijão?</strong><br>Sim, em porções individuais, e aquecidos até ficar bem quentes.</p>
@@ -75,6 +81,8 @@ FOTO2_SECAO: 4
 <h2>Quando procurar um médico ou nutricionista</h2>
 <p>Procure orientação em caso de diabetes, doença renal, alergias alimentares, intolerâncias ou outra condição que exija dieta específica. Também vale buscar ajuda se sentir fraqueza, tontura ou mal-estar frequente após mudar a alimentação.</p>
 <p>Um profissional pode adequar o cardápio ao seu caso, sem dietas restritivas desnecessárias. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+
+<p>Com o tempo, a organização se torna automática. O importante é começar com poucas receitas, testar combinações e manter a higiene e a refrigeração corretas em todas as etapas.</p>
 
 <h2>Resumindo</h2>
 <p>Um cardápio semanal de marmitas ajuda a organizar a alimentação, economizar tempo e manter combinações equilibradas de legumes, proteínas e grãos. O planejamento funciona melhor quando há rodízio de ingredientes e cuidado com armazenamento e congelamento.</p>

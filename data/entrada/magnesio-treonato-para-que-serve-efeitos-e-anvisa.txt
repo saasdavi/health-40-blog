@@ -37,6 +37,9 @@ FOTO2_SECAO: 4
 <p>Ao ler sobre a forma treonato, é importante distinguir o que foi estudado no laboratório, em animais e em pessoas. Resultados obtidos em modelos experimentais nem sempre se repetem no organismo humano em uso cotidiano.</p>
 <p>Também vale desconfiar de textos que apresentam um único estudo como prova definitiva. A ciência avança por acúmulo de evidências, e revisões sistemáticas costumam ser mais confiáveis do que relatos isolados.</p>
 
+<p>No campo do sono, muitas pessoas recorrem a outros produtos antes de qualquer avaliação. Quem busca ajuda para dormir pode conhecer as informações sobre <a href="/melatonina/">melatonina</a>, que também exige cuidado e orientação.</p>
+<p>Em todos os casos, a ideia é tratar o motivo da dificuldade para dormir, e não apenas acrescentar um produto à lista de compras.</p>
+
 <h2>Anvisa e regulação dos suplementos</h2>
 <p>No Brasil, suplementos alimentares são regulados pela Agência Nacional de Vigilância Sanitária, a Anvisa. As regras exigem que o produto tenha registro ou notificação, e que o rótulo traga informações sobre composição, modo de uso e advertências.</p>
 <p>Na prática, isso significa que o consumidor deve verificar a informação regulatória na embalagem, desconfiar de anúncios que prometem efeitos específicos e checar se o produto tem origem conhecida. Produtos sem registro ou com indicações terapêuticas não compatíveis com a categoria merecem cautela.</p>
@@ -44,6 +47,9 @@ FOTO2_SECAO: 4
 
 <p>Outro cuidado é observar o histórico de uso. Se o produto foi indicado para um motivo e o sintoma persiste, a causa do problema ainda precisa ser investigada, e não apenas tratada com mais suplemento.</p>
 <p>Guardar a embalagem com o número do lote e a data de validade também é recomendável, pois ajuda na identificação do produto em caso de reação ou de notificação a órgãos de vigilância.</p>
+
+<p>Em farmácias e lojas, é comum encontrar explicações comerciais muito positivas sobre a forma treonato. Compare essas informações com a bula, quando houver, e com fontes científicas e oficiais antes de decidir.</p>
+<p>Se o vendedor não souber explicar a composição ou tentar substituir a orientação médica, essa é uma boa razão para buscar outro canal de compra e outra opinião.</p>
 
 <h2>Cuidados ao escolher e usar</h2>
 <p>Antes de iniciar, avalie se o motivo do uso está claro e se há outra explicação para os sintomas. Leia a lista de ingredientes, a dosagem indicada pelo fabricante e as contraindicações. Evite misturar vários suplementos com o mesmo objetivo.</p>
@@ -66,6 +72,8 @@ FOTO2_SECAO: 4
 <h2>Quando procurar um médico</h2>
 <p>Procure orientação se você notar perda de memória progressiva, confusão, alterações do sono que duram semanas ou sintomas como fraqueza e batimentos irregulares após usar um suplemento. Também é importante conversar com o médico em caso de doença renal, gestação ou uso contínuo de medicamentos.</p>
 <p>A avaliação permite entender a causa dos sintomas e decidir o que faz sentido. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+
+<p>Se a expectativa é melhorar a memória ou o sono, a conversa com o médico é o primeiro passo, pois ela pode revelar causas tratáveis que um suplemento não alcança.</p>
 
 <h2>Resumindo</h2>
 <p>O magnésio treonato é uma forma do mineral usada em suplementos, com promessas ligadas à memória e ao sono que ainda carecem de comprovação sólida. Os efeitos mais comuns são digestivos, e o risco aumenta em quem tem problemas renais.</p>

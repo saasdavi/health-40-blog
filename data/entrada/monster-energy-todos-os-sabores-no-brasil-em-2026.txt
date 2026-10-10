@@ -44,6 +44,9 @@ FOTO2_SECAO: 4
 <p>Também é importante lembrar que misturas com outros estimulantes, como alguns suplementos e produtos para energia, somam os efeitos e tornam o quadro mais difícil de controlar.</p>
 <p>Para reconhecer quando a pressão merece atenção, leia sobre <a href="/pressao-alta-sintomas/">sintomas de pressão alta</a>.</p>
 
+<p>Também é importante lembrar que a bebida costuma ser consumida em ambientes sociais, como festas e academias. Nesses contextos, a pessoa pode não perceber a soma de estimulantes com álcool ou com outros produtos.</p>
+<p>Misturar energético com bebida alcoólica é uma combinação que mascara o efeito sedativo do álcool e pode levar a consumo excessivo sem percepção do risco.</p>
+
 <h2>Quem deve evitar energéticos</h2>
 <p>Algumas pessoas devem evitar completamente as bebidas energéticas, ou usá-las apenas com orientação médica. Esse grupo inclui crianças e adolescentes, gestantes, lactantes, pessoas com arritmia ou doença do coração e quem tem ansiedade intensa ou insônia.</p>
 <p>Também é recomendável cautela para quem usa medicamentos que interagem com estimulantes ou que tem dificuldade para controlar a pressão.</p>
@@ -58,9 +61,14 @@ FOTO2_SECAO: 4
 <p><strong>Café e energético são a mesma coisa?</strong><br>Ambos contêm cafeína, mas as bebidas energéticas costumam juntar outros ingredientes e açúcar, o que muda o perfil.</p>
 <p><strong>Posso consumir antes do exercício?</strong><br>Quem tem problemas cardíacos deve evitar a combinação com esforço intenso sem avaliação prévia.</p>
 
+<p>Se o consumo começou a substituir refeições, sono ou atividades do dia, vale conversar com um profissional de saúde. A dependência de estimulantes pode ser discreta e aparecer como cansaço constante.</p>
+<p>Pessoas que já têm diagnóstico de arritmia ou de doença do coração devem ter a orientação médica específica sobre qualquer consumo de cafeína concentrada.</p>
+
 <h2>Quando procurar um médico</h2>
 <p>Procure atendimento imediato se houver dor no peito, batimentos muito rápidos ou irregulares, falta de ar, desmaio, confusão ou convulsão. Também vale uma consulta se você sentir ansiedade, tremores ou insônia frequentes ligados ao consumo.</p>
 <p>O médico pode avaliar pressão, coração e hábitos, e orientar o uso com segurança. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+
+<p>Na prática, a melhor escolha para energia costuma ser uma rotina de sono regular, alimentação equilibrada e água ao longo do dia, combinadas com a atenção aos sinais que o corpo envia.</p>
 
 <h2>Resumindo</h2>
 <p>Os energéticos de diferentes sabores têm, em geral, a mesma base de cafeína e estimulantes. Eles podem afetar pressão, batimentos e sono, com riscos maiores para pessoas com doenças cardíacas, gestantes e crianças.</p>

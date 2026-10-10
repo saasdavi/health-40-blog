@@ -14,7 +14,7 @@ FOTO2_ALT: Barbeiro fazendo corte curto em um homem
 FOTO2_LEGENDA: Cortes bem feitos ajudam a equilibrar o visual da região frontal.
 FOTO2_SECAO: 4
 ---
-<p>Entradas no cabelo são a recessão da linha frontal, que costuma começar nas têmporas e avança com o tempo. Elas podem ter origem genética, hormonal ou relacionada a outros fatores, e a causa define as opções de tratamento. Nem sempre há algo a ser feito, mas há estratégias de cuidado e de visual que ajudam. Veja, em termos gerais, as causas mais comuns, os caminhos de tratamento e como o corte pode ajudar.</p>
+<p>Entradas no cabelo são a recessão da linha frontal, que costuma começar nas têmporas e avança com o tempo. A origem pode ser genética, hormonal ou relacionada a outros fatores, e a causa define o tratamento. Há estratégias de cuidado e de visual que ajudam. Veja, em termos gerais, causas, caminhos e o papel do corte.</p>
 <h2>O que são as entradas no cabelo</h2>
 <p>As entradas no cabelo são uma alteração do contorno da linha frontal. Em muitas pessoas, a região das têmporas perde fios e a testa parece maior. O processo costuma ser lento e pode se estabilizar por anos, mas em alguns casos avança de forma mais contínua.</p>
 <p>É importante diferenciar as entradas de outras perdas de cabelo. Queda difusa, falhas em placas e fios que caem em grande quantidade em pouco tempo têm causas diferentes e exigem investigação própria. Por isso, uma avaliação dermatológica ajuda a esclarecer o quadro antes de qualquer decisão.</p>
@@ -40,6 +40,14 @@ FOTO2_SECAO: 4
 <p>O corte de cabelo é uma das ferramentas mais práticas para lidar com as entradas. Cabelos mais curtos nas laterais e no topo tendem a dar sensação de densidade e de equilíbrio no rosto. Já fios muito longos e com volume concentrado na frente podem destacar a região que se quer disfarçar.</p>
 <p>Um bom barbeiro ou cabeleireiro observa o formato do rosto, a densidade dos fios e o tipo de cabelo antes de sugerir um estilo. Cores e técnicas de finalização também podem ajudar, mas devem ser usadas com cuidado para não agredir o couro cabeludo e os fios que restam.</p>
 <p>Há ainda o efeito dos <a href="/cabelos-brancos/">cabelos brancos</a> no visual. Em algumas pessoas, o grisalho acentua a diferença entre a região frontal e o restante do cabelo, o que pode ser considerado na escolha do corte e da cor.</p>
+<h2>Genética, hábitos e expectativas</h2>
+<p>A herança genética é o fator mais importante nas entradas, mas não é o único. Quem tem parentes com queda na mesma região costuma notar a alteração mais cedo. Ainda assim, a idade de início e a velocidade do processo variam muito, e a história familiar não define o futuro de cada pessoa.</p>
+<p>Hábitos do dia a dia também merecem atenção. Dormir mal, fumar, consumir álcool em excesso e passar por períodos de estresse prolongado podem influenciar a saúde dos fios. Esses fatores não criam a predisposição, mas podem acelerar a percepção da queda em algumas pessoas.</p>
+<p>O cuidado com o couro cabeludo faz parte da rotina básica. Lavar com frequência adequada ao tipo de cabelo, evitar tração em penteados apertados e proteger os fios do calor excessivo ajuda a manter a aparência saudável. Essas práticas não fazem a região voltar a crescer, mas reduzem agressões que podem piorar o aspecto dos fios.</p>
+<p>Produtos de higiene e tratamentos vendidos como solução rápida costumam gerar expectativas excessivas. Vale desconfiar de quem promete reversão total em pouco tempo, principalmente sem avaliação. Uma conversa honesta com o profissional ajuda a alinhar o que é possível e o que não é.</p>
+<p>A proteção solar da região frontal também é importante, principalmente para quem usa cabelos mais curtos. A exposição prolongada pode causar ressecamento e queimaduras no couro cabeludo, o que deixa a região com aspecto menos saudável. Usar chapéu em dias de sol forte é uma medida simples.</p>
+<p>Ao escolher um corte, vale levar em conta o formato do rosto, a densidade do cabelo e a rotina de finalização. Cabelos mais curtos costumam exigir menos manutenção e podem valorizar a região frontal de forma equilibrada. Um barbeiro experiente pode sugerir opções antes de a decisão ser tomada.</p>
+<p>Por fim, a aceitação faz parte do processo. Muitos homens escolhem manter o visual com um corte adequado e se sentem bem com a aparência. Essa decisão é pessoal e merece respeito, sem pressões estéticas. Quando a mudança causa sofrimento, o acompanhamento psicológico também pode ser útil.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>As entradas no cabelo sempre evoluem?</strong> Nem sempre. Em algumas pessoas a alteração se estabiliza, em outras avança devagar. A avaliação ajuda a entender o padrão.</p>
 <p><strong>Estresse causa entradas?</strong> O estresse intenso pode contribuir para queda temporária, mas o padrão de entradas costuma ter origem genética e hormonal.</p>
@@ -47,7 +55,7 @@ FOTO2_SECAO: 4
 <p><strong>Existe solução definitiva?</strong> Não há promessa de solução definitiva para todos os casos. O tratamento visa controlar a queda e melhorar a aparência, com orientação médica.</p>
 <h2>Quando procurar um médico</h2>
 <p>Procure um dermatologista se a queda começar de forma rápida, se houver falhas em placas, coceira, descamação ou dor no couro cabeludo, ou se você notar alterações em outras áreas do corpo. Esses sinais podem indicar causas que precisam de avaliação.</p>
-<p>Antes de usar qualquer medicamento ou produto para queda, converse com o médico. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde, e a escolha do tratamento é sempre individual.</p>
+<p>Antes de usar qualquer medicamento ou produto para queda, converse com o médico. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. A escolha do tratamento é sempre individual.</p>
 <h2>Resumindo</h2>
 <p>As entradas no cabelo são uma alteração comum, com causa principal genética e hormonal, mas que também pode ter fatores associados. A investigação com dermatologista ajuda a identificar a origem e a definir se há tratamentos indicados para o caso.</p>
 <p>Além do tratamento, o corte e o cuidado com o couro cabeludo podem melhorar o visual e o conforto com a aparência. A decisão deve ser tomada com informação de qualidade e acompanhamento profissional.</p>

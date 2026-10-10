@@ -14,7 +14,7 @@ FOTO2_ALT: Close de couro cabeludo sendo examinado, ilustrando a consulta capila
 FOTO2_LEGENDA: A consulta costuma incluir a observação detalhada do couro cabeludo.
 FOTO2_SECAO: 4
 ---
-<p>Um especialista em cabelo é, em geral, um médico que trata doenças do couro cabeludo e dos fios, como a dermatologia faz. Procurar esse profissional é indicado quando a queda, a descamação, a coceira ou as alterações de fios persistem ou mudam de padrão. Saber quem atende, quando buscar ajuda e o que esperar da consulta evita perda de tempo e decisões equivocadas.</p>
+<p>Um especialista em cabelo é, em geral, um médico que trata doenças do couro cabeludo e dos fios. Procurar esse profissional é indicado quando a queda, a descamação ou a coceira persistem. Saber quem atende e o que esperar da consulta evita perda de tempo e decisões equivocadas.</p>
 <h2>Quem é o especialista em cabelo</h2>
 <p>No Brasil, quem diagnostica e trata doenças do couro cabeludo e dos cabelos, com prescrição de medicamentos e procedimentos, é o médico com formação adequada e registro ativo no Conselho Regional de Medicina. A área de atuação mais associada ao tema é a dermatologia, e há profissionais que se dedicam especificamente à tricologia.</p>
 <p>Existem também profissionais de estética capilar, terapeutas e consultores de cabelo que oferecem serviços de cuidado e de estética. Esses atendimentos têm sua utilidade para cuidados gerais, mas não substituem a avaliação médica quando há uma doença ou uma queda importante.</p>
@@ -39,6 +39,13 @@ FOTO2_SECAO: 4
 <h2>Como se preparar para a consulta</h2>
 <p>Antes de ir, vale anotar quando a queda ou o sintoma começou, se houve mudanças de medicamento, doenças recentes e produtos usados no cabelo. Fotos antigas e recentes também ajudam a comparar a evolução. Essas informações facilitam a avaliação e reduzem a necessidade de repetir exames desnecessários.</p>
 <p>Levar a lista de medicamentos e suplementos em uso é especialmente importante. Alguns produtos interferem nos fios e nos exames de sangue, e o profissional precisa saber disso para orientar corretamente. Não suspenda remédios por conta própria antes da consulta sem orientação.</p>
+<h2>Perguntas que vale fazer ao profissional</h2>
+<p>Algumas perguntas ajudam a conduzir a consulta com clareza. Vale perguntar qual é a hipótese principal, quais exames são necessários, quanto tempo leva para avaliar a resposta ao tratamento e quais efeitos colaterais devem ser observados. Anotar as respostas durante a consulta ou pedir um resumo por escrito evita confusões depois.</p>
+<p>Também é legítimo perguntar sobre as opções disponíveis, incluindo alternativas que não envolvem medicamentos. Um bom profissional explica vantagens e limitações de cada caminho, inclusive a possibilidade de não tratar naquele momento e apenas acompanhar a evolução.</p>
+<p>Se a consulta gerar dúvidas ou sensação de pressa excessiva, vale solicitar um retorno ou uma segunda opinião. Essa prática é comum na medicina e não representa desconfiança pessoal. O objetivo é ter segurança para decidir com informação.</p>
+<p>Em casos de tratamento prolongado, o acompanhamento costuma ser feito em intervalos regulares, com fotos padronizadas e registro de sintomas. Essa rotina permite comparar a evolução de forma objetiva e ajustar o plano sem pressa.</p>
+<p>Vale lembrar que a relação com o profissional é uma parceria. Informar hábitos, medos e expectativas com franqueza torna o atendimento mais preciso. Quem se sente confortável tende a seguir o plano com mais regularidade e a relatar mudanças com mais clareza ao longo do tempo.</p>
+<p>Por fim, o acompanhamento inclui revisar o plano quando a situação muda, como durante a gestação, após uma doença ou com a entrada de novos remédios. Também é importante verificar o custo e a forma de pagamento antes de iniciar qualquer tratamento, porque os valores podem variar bastante.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Preciso de encaminhamento para ver um especialista?</strong> Em geral não, mas alguns planos de saúde exigem encaminhamento. Verifique as regras do seu convênio.</p>
 <p><strong>Dermatologista e tricologista são a mesma coisa?</strong> Não exatamente. O dermatologista é o médico da pele. A tricologia é uma área de atuação que se dedica aos cabelos e ao couro cabeludo.</p>

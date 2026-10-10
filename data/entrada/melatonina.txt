@@ -37,6 +37,9 @@ FOTO2_SECAO: 4
 <p>A Anvisa passou a permitir, em 2021, a comercialização da melatonina como suplemento alimentar, com regras próprias de rotulagem e de uso. Isso significa que o produto pode ser encontrado em farmácias e lojas, mas continua exigindo cuidado na escolha e na orientação.</p>
 <p>Antes de comprar, observe a informação regulatória na embalagem e as advertências sobre quem não deve usar. Desconfie de anúncios que prometem efeitos certos e imediatos.</p>
 
+<p>Mesmo quando o efeito é leve, a pessoa deve observar como se sente nas horas seguintes ao uso. Quem dirige cedo ou trabalha com atenção precisa considerar esse ponto antes de começar.</p>
+<p>Pesadelos vívidos e alterações do humor também foram relatados por alguns usuários, e merecem ser comunicados ao profissional.</p>
+
 <h2>Efeitos colaterais e interações</h2>
 <p>Os efeitos mais comuns são sonolência no dia seguinte, dor de cabeça, tontura, náusea e sensação de sono excessivo. Essas queixas tendem a aparecer com doses maiores ou com horários inadequados.</p>
 <ul>
@@ -54,6 +57,9 @@ FOTO2_SECAO: 4
 <p>Algumas populações exigem atenção redobrada. Crianças e adolescentes devem usar apenas com orientação médica. Gestantes, lactantes e pessoas com doenças autoimunes, epilepsia ou depressão também precisam de avaliação individual.</p>
 <p>Ao dirigir ou operar máquinas, lembre que a sonolência pode persistir pela manhã, e evite o uso se ainda precisar estar alerta.</p>
 
+<p>O quarto também influencia o descanso. Temperatura agradável, pouca luz e ausência de ruídos fortes criam um ambiente que favorece o início do sono sem nenhum produto.</p>
+<p>Refeições pesadas e bebidas alcoólicas no fim da noite costumam prejudicar a qualidade do sono, mesmo quando a pessoa adormece mais rápido.</p>
+
 <h2>Hábitos que ajudam o sono sem suplemento</h2>
 <p>A melatonina é apenas uma peça do quebra-cabeça. Manter horários regulares para dormir e acordar, reduzir telas e luz forte à noite, evitar cafeína no fim da tarde e criar um ambiente escuro e silencioso costumam trazer ganhos reais.</p>
 <p>Atividade física durante o dia e a redução do estresse também contribuem. Se os hábitos não bastarem, a avaliação profissional é o próximo passo. Para entender como o relógio biológico influencia esse processo, leia sobre o <a href="/ritmo-circadiano/">ritmo circadiano</a>, e, se a dificuldade para dormir se repete, o texto sobre <a href="/insonia/">insônia</a> aponta causas e sinais de alerta.</p>
@@ -70,6 +76,8 @@ FOTO2_SECAO: 4
 <h2>Quando procurar um médico</h2>
 <p>Procure orientação se a insônia durar mais de algumas semanas, se você acordar com cansaço intenso, roncar alto ou sentir sono excessivo durante o dia. Também é importante buscar atendimento se tiver sintomas depressivos, ansiedade ou se usar medicamentos de forma contínua.</p>
 <p>O médico pode investigar a causa do sono ruim e orientar o melhor caminho. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+
+<p>Em suma, a melatonina tem um papel real no ritmo do sono, mas seu uso como suplemento deve ser pontual, informado e acompanhado, sem substituir a investigação de causas e os hábitos saudáveis.</p>
 
 <h2>Resumindo</h2>
 <p>A melatonina é um hormônio que regula o ciclo sono e vigília, e seu uso como suplemento é voltado principalmente para dificuldade de adormecer e ajuste de horários. As evidências são mais claras para o curto prazo do que para a insônia crônica.</p>

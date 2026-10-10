@@ -14,12 +14,12 @@ FOTO2_ALT: Crianças fazendo uma refeição na escola
 FOTO2_LEGENDA: Programas de alimentação escolar são um dos instrumentos de combate à fome.
 FOTO2_SECAO: 4
 ---
-<p>A fome no mundo é a falta de acesso regular a alimentos suficientes e nutritivos, situação que atinge milhões de pessoas e tem causas econômicas, sociais, climáticas e políticas. Organismos internacionais acompanham o tema com relatórios periódicos, e o debate envolve produção, distribuição, renda e estabilidade. Este texto explica, em termos gerais, as principais causas, o que esses relatórios costumam mostrar e quais soluções são discutidas.</p>
+<p>A fome no mundo é a falta de acesso regular a alimentos suficientes e nutritivos, com causas econômicas, sociais, climáticas e políticas. Organismos internacionais acompanham o tema com relatórios periódicos. Veja as principais causas e as soluções discutidas.</p>
 <h2>O que é fome e o que é insegurança alimentar</h2>
 <p>Fome, em sentido estrito, é a privação persistente de energia suficiente para manter a vida e a atividade. A insegurança alimentar é um conceito mais amplo, que inclui situações em que a pessoa não sabe se terá comida no dia seguinte, precisa reduzir a quantidade ou a qualidade das refeições ou passa dias sem se alimentar bem.</p>
 <p>Os especialistas usam escalas para medir essas situações, desde a insegurança leve até a grave. Essa distinção é importante porque políticas públicas costumam atuar em estágios diferentes. Quem vive a insegurança moderada pode ser apoiado com renda e acesso a alimentos, enquanto casos graves exigem respostas emergenciais.</p>
 <p>Ter comida disponível no mercado não significa que todas as pessoas consigam comprá-la. Por isso, o tema é tratado tanto pela produção de alimentos quanto pelo acesso econômico e pela distribuição.</p>
-<h2>Principais causas</h2>
+<h2>Principais causas da fome no mundo</h2>
 <p>As causas se combinam e variam conforme cada região. Conflitos armados deslocam populações, destroem plantações e interrompem o comércio. Crises climáticas, como secas e enchentes, afetam a colheita e elevam os preços. Crises econômicas reduzem a renda das famílias e tornam a comida mais difícil de comprar.</p>
 <ul>
 <li>Conflitos e deslocamentos forçados;</li>
@@ -44,12 +44,17 @@ FOTO2_SECAO: 4
 <h2>O papel da alimentação saudável</h2>
 <p>Discutir fome também é discutir qualidade da alimentação. Uma dieta com grãos, leguminosas, frutas e verduras acessíveis tende a ser mais nutritiva e mais barata do que uma dieta baseada em ultraprocessados. Por isso, políticas que facilitam o acesso a alimentos in natura são parte do combate à fome e às doenças associadas à má alimentação.</p>
 <p>Em qualquer contexto, o consumo de <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a> contribui para a saciedade e para o funcionamento do intestino, e pode ser incluído mesmo com orçamento limitado, como em feijões, aveia e legumes.</p>
+<p>Os bancos de alimentos e as cozinhas comunitárias são exemplos de iniciativas locais que aproximam doação e necessidade. Quando bem organizados, esses serviços reduzem o desperdício de alimentos ainda próprios para consumo e chegam a famílias com dificuldade de acesso regular. Sua eficiência depende de logística, de voluntários e de apoio público.</p>
+<p>A agricultura familiar aparece com frequência nas discussões sobre combate à fome, porque aproxima a produção do consumo e fortalece a economia local. Compras públicas de alimentos de pequenos produtores, quando previstas em programas oficiais, criam mercado estável e ajudam a manter a diversidade de cultivos.</p>
+<p>O desperdício é outro ponto central. Grande parte dos alimentos perdidos ocorre na colheita, no transporte e no armazenamento, e também em casa. Melhorar a infraestrutura e orientar o consumo doméstico são ações que, somadas, podem liberar comida para quem precisa.</p>
+<p>A relação entre fome e saúde mental também é estudada. Insegurança alimentar está associada a estresse, ansiedade e depressão, o que cria um ciclo difícil de romper sem apoio. Por isso, políticas de alimentação costumam ser pensadas junto com as de saúde, assistência social e educação.</p>
+<p>A informação de qualidade ajuda a combater desinformação sobre o tema. Dados de diferentes fontes, metodologias transparentes e análises regionais permitem decisões mais justas e eficazes, e evitam que o debate se concentre em slogans.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Fome e pobreza são a mesma coisa?</strong> Estão relacionadas, mas não são idênticas. A pobreza é um dos fatores mais associados à insegurança alimentar, mas há outras causas.</p>
 <p><strong>Produzir mais alimentos resolve a fome?</strong> Ajuda, mas não basta. Sem renda, acesso, distribuição e políticas adequadas, parte da população continua sem alimentação suficiente.</p>
 <p><strong>O que uma pessoa pode fazer?</strong> Apoiar iniciativas locais, reduzir desperdício em casa, doar com responsabilidade e cobrar políticas públicas são formas de contribuir.</p>
 <p><strong>Os relatórios são confiáveis?</strong> Em geral, sim, quando produzidos por instituições técnicas. Vale comparar fontes e observar a metodologia usada.</p>
-<h2>Quando procurar ajuda</h2>
+<h2>Quando procurar um médico</h2>
 <p>Se você ou sua família estão passando por dificuldades para ter alimentos suficientes, procure os serviços de assistência social do município, os centros de referência e as equipes de saúde da atenção básica. Há programas de apoio alimentar e de orientação nutricional em muitas cidades.</p>
 <p>Sinais como cansaço constante, perda de peso sem motivo, palidez, tontura e queda de imunidade merecem avaliação médica. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 <h2>Resumindo</h2>

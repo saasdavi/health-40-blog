@@ -14,7 +14,7 @@ FOTO2_ALT: Dermatologista avaliando a pele de uma paciente em consulta
 FOTO2_LEGENDA: Em caso de irritação persistente, a avaliação dermatológica ajuda a decidir.
 FOTO2_SECAO: 4
 ---
-<p>Um bom hidratante facial repõe a água e os lipídios da pele e ajuda a manter a barreira que protege contra irritações. A escolha certa depende do tipo de pele, do clima e de eventuais sensibilidades. Não existe um produto único para todos, e marcas famosas nem sempre são as mais adequadas. Veja, em termos gerais, como escolher o hidratante ideal, quais ingredientes observar e quando procurar um dermatologista.</p>
+<p>Um bom hidratante facial repõe água e lipídios da pele e ajuda a manter a barreira que protege contra irritações. A escolha depende do tipo de pele, do clima e de eventuais sensibilidades. Não existe produto único para todos. Veja como escolher, quais ingredientes observar e quando procurar um dermatologista.</p>
 <h2>Para que serve o hidratante facial</h2>
 <p>O hidratante atua principalmente na hidratação e na proteção da camada mais superficial da pele. Ele forma uma película que reduz a perda de água, mantém a elasticidade e deixa a pele com aspecto mais macio. Em peles secas ou desidratadas, essa função é especialmente importante.</p>
 <p>Além disso, muitos hidratantes incluem substâncias que ajudam a repor lipídios e a reduzir a sensação de repuxamento. Esses efeitos são, em geral, cosméticos e temporários, e não substituem um tratamento para doenças de pele.</p>
@@ -41,6 +41,13 @@ FOTO2_SECAO: 4
 <h2>Protetor solar e hidratação</h2>
 <p>Hidratante não substitui o protetor solar. A exposição ao sol é um dos principais fatores de envelhecimento da pele e de manchas. Muitos hidratantes têm filtro solar, mas a proteção deve ser conferida no rótulo e reaplicada conforme as orientações do fabricante e do dermatologista.</p>
 <p>Para entender melhor o cuidado com manchas, vale ler sobre as <a href="/manchas-na-pele/">manchas na pele</a>, que costumam exigir proteção solar constante e avaliação médica quando aparecem de forma nova.</p>
+<p>O clima influencia a escolha do hidratante. Em regiões quentes e úmidas, texturas leves costumam ser mais confortáveis e reduzem a sensação de pele oleosa. Em ambientes secos, ar-condicionado e frio intenso aumentam a perda de água, e fórmulas mais ricas podem ser necessárias nessas épocas.</p>
+<p>A rotina noturna merece atenção própria. À noite, a pele se recupera do dia, e o hidratante ajuda a manter a barreira. Em muitos casos, o produto usado à noite pode ser mais nutritivo do que o da manhã, desde que não cause desconforto ou brilho excessivo ao acordar.</p>
+<p>Ao aplicar, use pequena quantidade e espalhe com movimentos suaves, do centro do rosto para as bordas. Excesso de produto não traz mais benefício e pode deixar a pele pesada. Esperar alguns instantes antes da maquiagem ou do protetor solar melhora a absorção.</p>
+<p>Peles sensíveis reagem a perfumes, ao álcool e a alguns conservantes. Fórmulas sem fragrância costumam ser mais toleradas por elas. Ainda assim, o teste em pequena área continua sendo a melhor forma de verificar a tolerância.</p>
+<p>Quem usa outros cosméticos, como esfoliantes, séruns e produtos clareadores, deve observar como a pele responde à combinação. Alguns ativos fortes podem aumentar a sensibilidade e exigir ajustes na rotina. Nesses casos, a orientação de um dermatologista ajuda a montar uma sequência segura.</p>
+<p>A constância faz diferença. Aplicar o hidratante todos os dias, mesmo quando a pele parece estar bem, mantém a barreira protegida. Mudanças de produto devem ser feitas aos poucos, observando a reação de cada etapa.</p>
+<p>Vale lembrar que a textura preferida nem sempre é a mais adequada. Uma pessoa pode gostar de sensação leve, mas ter pele seca que pede algo mais nutritivo. Avaliar a pele algumas horas após a aplicação e ao longo da semana, e não apenas no momento do uso, dá uma visão mais precisa.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Preciso de hidratante se tenho pele oleosa?</strong> Sim, em geral. A pele oleosa também precisa de hidratação, e o produto ideal costuma ser leve e sem excesso de óleo.</p>
 <p><strong>Hidratante pode causar acne?</strong> Algumas fórmulas podem, principalmente as muito oclusivas. Observe a reação e escolha produtos não comedogênicos quando possível.</p>

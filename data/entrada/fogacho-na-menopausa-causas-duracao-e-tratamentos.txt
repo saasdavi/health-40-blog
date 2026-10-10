@@ -15,8 +15,8 @@ FOTO2_ALT: Mulher dormindo em quarto arejado, com cuidados para suores noturnos
 FOTO2_LEGENDA: Um ambiente fresco e rotina regular podem aliviar parte do desconforto.
 FOTO2_SECAO: 4
 ---
-<p>Fogacho menopausa é o termo popular para as ondas de calor súbitas que muitas mulheres sentem na transição para a menopausa. Elas podem vir acompanhadas de vermelhidão, suor e sensação de coração acelerado. Essas ondas são muito comuns e, em geral, têm relação com mudanças hormonais. Veja, em termos gerais, quais são as causas, quanto tempo costumam durar e quais caminhos de cuidado existem.</p>
-<h2>O que são os fogachos</h2>
+<p>Fogacho menopausa é o termo popular para as ondas de calor súbitas que muitas mulheres sentem na transição para a menopausa. Elas podem vir acompanhadas de vermelhidão, suor e sensação de coração acelerado. Essas ondas são muito comuns e, em geral, têm relação com mudanças hormonais. Veja, em termos gerais, causas, duração e cuidados.</p>
+<h2>Fogacho menopausa: o que são os episódios de calor</h2>
 <p>Os fogachos são episódios de calor intenso que começam de forma repentina, geralmente no rosto, no pescoço e no peito, e se espalham pelo corpo. Em seguida, pode surgir suor, seguido de calafrios ou de uma sensação de frio. A intensidade varia bastante de uma mulher para outra.</p>
 <p>Muitas mulheres percebem os fogachos durante o dia, mas eles também acontecem à noite, quando são chamados de suores noturnos. Quando ocorrem enquanto a pessoa dorme, o sono pode ficar fragmentado e a disposição no dia seguinte fica prejudicada. Esse impacto costuma ser um dos motivos mais citados para procurar ajuda.</p>
 <p>Os fogachos fazem parte de um conjunto de mudanças que podem incluir alterações do ciclo menstrual, do humor e do sono. Nem todas as mulheres sentem os mesmos sintomas, e a experiência pessoal deve ser considerada na avaliação.</p>
@@ -42,6 +42,12 @@ FOTO2_SECAO: 4
 <h2>Cuidados gerais no dia a dia</h2>
 <p>Algumas medidas simples podem ajudar. Manter o quarto fresco, usar roupas de algodão e camadas que possam ser tiradas, beber água em pequenos goles e evitar alimentos e bebidas que costumam desencadear episódios são estratégias comuns. Atividade física regular também tem benefícios para o humor e o sono.</p>
 <p>Ainda assim, cuidados gerais nem sempre são suficientes. Quando os fogachos atrapalham a vida, o acompanhamento com médico é o caminho mais seguro para avaliar as opções e acompanhar a evolução.</p>
+<p>A respiração lenta e profunda é uma técnica simples que alguns estudos associam a menor desconforto durante as ondas de calor. Inspirar pelo nariz, expirar devagar pela boca e repetir por alguns minutos pode ajudar a acalmar o corpo, principalmente quando o episódio começa em reuniões ou em situações sociais.</p>
+<p>A alimentação também pode influenciar. Refeições muito pesadas, bebidas quentes e alimentos picantes parecem desencadear episódios em algumas mulheres, mas a resposta é individual. Anotar o que foi consumido antes de cada onda de calor ajuda a identificar padrões pessoais e a evitar gatilhos conhecidos.</p>
+<p>O exercício físico regular melhora o humor, o sono e a sensação geral de bem-estar. Atividades moderadas, como caminhada e pilates, costumam ser bem toleradas. Já treinos muito intensos em ambientes quentes podem aumentar o desconforto, por isso o horário e o local merecem atenção.</p>
+<p>Conversar com familiares, parceiro e colegas de trabalho sobre o que está acontecendo também faz diferença. Muitas mulheres se sentem mais tranquilas quando o assunto deixa de ser tabu e as pessoas próximas entendem os sinais. Essa rede de apoio reduz a sensação de isolamento.</p>
+<p>No ambiente de trabalho, pequenas adaptações podem ajudar, como manter um ventilador por perto, ter uma troca de roupa disponível e escolher assentos próximos a janelas ou a saídas de ar. Essas medidas simples dão mais conforto durante o dia sem exigir mudanças grandes na rotina.</p>
+<p>O cuidado com o sono continua essencial. Se os suores noturnos atrapalham o descanso, o quarto pode ser preparado com lençóis leves, pijamas de tecido respirável e um copo de água por perto, sem excesso de líquidos antes de deitar.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Fogacho é sinal de doença grave?</strong> Não necessariamente. Na transição menopausal, ele é um sintoma comum, mas deve ser avaliado para descartar outras causas.</p>
 <p><strong>Dá para ter fogachos antes da menopausa?</strong> Podem surgir em outras situações, como alterações hormonais, uso de certos medicamentos e outras condições clínicas. A avaliação médica ajuda a esclarecer o motivo.</p>
