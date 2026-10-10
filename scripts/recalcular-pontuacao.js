@@ -34,7 +34,7 @@ const L = ['# Artigos do estoque ainda abaixo de 90', '', `Atualizado em ${new D
   'A pontuação é a do importador (`scripts/pontuacao.js`): qualidade 35%, demanda 20%, fontes 15%, originalidade 15%, formato 10%, segurança 5%.', '',
   `**${ab.length} artigos** continuam com pontuação final abaixo de 90. Nenhum está publicado.`, '',
   '## Por que continuam abaixo',
-  '- **Demanda baixa ou não medida:** vale 20% da nota. Sem volume de busca de 1.000 ou mais por mês, o teto fica abaixo de 90. Estimativas do Google Trends (`volume-trends.js`) aparecem em `data/pesquisa/demanda-validada.json` com `"estimado": true`.',
+  '- **Demanda baixa ou não medida:** vale 20% da nota. Sem volume de busca de 1.000 ou mais por mês, o teto fica abaixo de 90. Os volumes vêm do Planejador de Palavras-chave (`data/pesquisa/demanda-validada.json`, gerado por `scripts/consolidar-demanda.js`).',
   '- **Parecido com outro artigo:** risco de canibalização; mudar o ângulo ou juntar.', '- **Tema sensível sem `REVISADO: sim`:** revisão humana, feita pelo dono.', '- **Faltam imagens:** ideal 3 por artigo.', '',
   '## Lista (da menor nota para a maior)', '', '| Nota | Artigo | Motivo principal |', '|---|---|---|',
   ...ab.map((x) => `| ${x.scores.total} | ${x.primaryKeyword} (\`/${x.slug}/\`) | ${causa(x)} |`)];
