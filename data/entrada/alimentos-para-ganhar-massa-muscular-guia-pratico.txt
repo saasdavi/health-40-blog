@@ -18,7 +18,7 @@ FOTO2_SECAO: 4
 
 <h2>Quais alimentos para ganhar massa muscular fazem sentido depois dos 40 anos?</h2>
 <p>Ganhar massa muscular é um processo lento, que depende de estímulo, descanso e nutrição. Com o passar dos anos, o organismo tende a perder músculo de forma gradual, um fenômeno conhecido como perda de massa muscular relacionada à idade. Isso não significa que nada possa ser feito. Ao contrário, a combinação de exercício resistido com uma alimentação bem planejada costuma ser um dos caminhos mais citados em orientações gerais de saúde.</p>
-<p>Por isso, quando alguém pergunta sobre alimentos para ganhar massa muscular, a resposta costuma passar por três pontos: quantidade adequada de proteína ao longo do dia, energia suficiente para sustentar o treino e variedade de nutrientes. Não existe um alimento milagroso. O que faz diferença é o conjunto da rotina.</p>
+<p>Por isso, quando alguém pergunta sobre alimentos para ganhar massa muscular, a resposta costuma passar por três pontos: quantidade adequada de proteína ao longo do dia, energia suficiente para sustentar o treino e variedade de nutrientes. Não existe alimento mágico. O que faz diferença é o conjunto da rotina.</p>
 
 <h2>Por que a proteína ocupa o centro dessa conversa?</h2>
 <p>A proteína fornece aminoácidos, que são blocos de construção do tecido muscular. Ela aparece em fontes animais, como ovos, carnes magras, peixes, laticínios e frango, e em fontes vegetais, como leguminosas, tofu e algumas combinações de cereais com feijões. A proteína distribuída em algumas refeições, em vez de concentrada em uma só, costuma ser apontada como uma estratégia prática.</p>
@@ -45,6 +45,16 @@ FOTO2_SECAO: 4
 <h2>Cuidados com suplementos e dietas muito restritivas</h2>
 <p>Suplementos proteicos são frequentemente lembrados quando o assunto é ganho de músculo. Eles podem ser úteis para algumas pessoas, mas não substituem a comida, e a decisão sobre uso deve ser tomada com um profissional. Dietas muito restritivas, que cortam grupos inteiros de alimentos sem indicação, podem causar deficiências e atrapalhar a recuperação.</p>
 <p>Também vale lembrar que quem já tem alguma condição de saúde, como diabetes, problemas renais ou doenças do fígado, precisa de acompanhamento antes de mudar a alimentação de forma importante. Uma boa orientação considera exames, medicamentos e rotina.</p>
+
+<h2>Como montar um prato equilibrado com alimentos para ganhar massa muscular?</h2>
+<p>Um prato simples pode seguir uma lógica fácil de lembrar: metade de vegetais variados, um quarto de fonte de proteína e um quarto de carboidrato, de preferência integral. Essa divisão visual ajuda a manter a proporção sem precisar pesar cada alimento. Em um almoço, por exemplo, pode haver frango grelhado, arroz integral, feijão e uma salada colorida com cenoura, tomate e folhas verdes.</p>
+<p>Quando o treino acontece pela manhã, uma refeição com proteína e carboidrato depois da atividade ajuda a repor energia e a recuperar os músculos. Quem treina no fim do dia pode priorizar um jantar leve, com fonte proteica e legumes, evitando excesso de gordura que demore muito para ser digerido. O ajuste fino depende da rotina de cada pessoa.</p>
+<p>Para quem tem pouca fome pela manhã, iogurte natural com frutas e aveia pode ser uma alternativa. Quem prefere refeições menores ao longo do dia pode distribuir a proteína em três ou quatro momentos. O texto sobre <a href="/proteina-mulheres-40/">proteína para mulheres acima dos 40</a> ajuda a entender ajustes específicos nessa fase da vida.</p>
+
+<h2>Como acompanhar a evolução sem depender só da balança?</h2>
+<p>A balança mostra o peso total, que inclui água, gordura e massa muscular. Por isso, ela pode oscilar muito sem indicar com precisão o que mudou no corpo. Algumas pessoas preferem acompanhar a força em exercícios básicos, a disposição no dia a dia, a medida da cintura e fotos mensais. Esses sinais costumam ser mais úteis do que uma variação isolada de uma semana.</p>
+<p>A paciência também faz parte do processo. O ganho de músculo é gradual e depende de treino consistente, sono de qualidade e alimentação adequada. Quando a evolução parece lenta, vale revisar a rotina antes de mudar tudo de uma vez. Ao notar dor persistente, inchaço ou cansaço fora do normal, a orientação é procurar avaliação profissional, e não aumentar a carga de forma impulsiva.</p>
+<p>Uma prática útil é registrar o que se come e como foi o treino por algumas semanas. Esse registro facilita a conversa com o nutricionista e com o profissional de educação física. Quem percebe perda de força mais intensa pode consultar também o texto sobre <a href="/sarcopenia/">sarcopenia</a>, que explica as causas desse processo com mais detalhes.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>Preciso comer muito para ganhar massa muscular?</strong><br>Não necessariamente. O mais importante costuma ser a consistência: proteína adequada, energia suficiente e treino de força regular.</p>

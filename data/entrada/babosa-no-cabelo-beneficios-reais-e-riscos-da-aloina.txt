@@ -42,6 +42,15 @@ FOTO2_SECAO: 4
 <p>Produtos cosméticos devem seguir a regulamentação de órgãos como a Anvisa, que estabelece critérios para ingredientes e rotulagem. Na embalagem, observe a lista de ingredientes, as advertências de uso e as indicações de contato com os olhos. Em caso de dúvida, procure as informações oficiais do fabricante e a orientação de um farmacêutico.</p>
 <p>Também vale desconfiar de produtos que prometem resultados rápidos ou que citam benefícios sem explicação. A ausência de informações claras é um sinal de alerta.</p>
 
+<h2>Por que a regulação importa para produtos com babosa?</h2>
+<p>Produtos cosméticos com babosa precisam atender a critérios de segurança, de identificação de ingredientes e de rotulagem. Esses critérios existem porque a composição da planta varia conforme a espécie, o cultivo e o processamento, e a presença de látex ou de extratos da casca pode mudar o perfil de risco do produto. Um fabricante que controla a produção tem mais condições de remover essas substâncias e de informar a concentração de cada componente.</p>
+<p>Já um preparo caseiro não passa por esse controle. Não há como saber, sem análise, quanto de látex permaneceu no gel ou se a folha foi bem lavada. Por isso, quem usa o produto em casa deve ser ainda mais cuidadoso. Em caso de dúvida, a consulta às informações oficiais do fabricante e a orientação de um farmacêutico ajudam a entender o que está escrito no rótulo.</p>
+
+<h2>Como reconhecer uma irritação ou reação alérgica?</h2>
+<p>A irritação costuma aparecer logo após a aplicação, com ardência, vermelhidão e coceira localizada. Ela tende a melhorar quando o produto é retirado e a área é lavada com água morna. Já a reação alérgica pode demorar a surgir e se espalhar para outras regiões do corpo, com placas avermelhadas, inchaço, bolhas e coceira intensa. Quando há inchaço no rosto ou na garganta, ou dificuldade para respirar, o atendimento deve ser imediato.</p>
+<p>Quem já tem histórico de dermatite de contato precisa de atenção redobrada, porque a pele reage com mais facilidade a substâncias novas. A página sobre <a href="/dermatite-de-contato/">dermatite de contato</a> ajuda a entender como essas reações costumam aparecer e por que o teste prévio é tão importante.</p>
+<p>Se a irritação persistir por mais de alguns dias após suspender o uso, ou se houver sinais de infecção, como pus e aumento da dor, procure um dermatologista. Ele pode avaliar se a reação é simples ou se precisa de tratamento específico.</p>
+
 <h2>Quem deve evitar o uso da babosa?</h2>
 <p>Pessoas com alergia conhecida a plantas da família das aloés, gestantes, pessoas com doenças intestinais inflamatórias e quem tem problemas renais devem conversar com um profissional antes de usar qualquer produto com babosa, inclusive os de uso externo. Crianças pequenas também precisam de orientação, porque a pele delas é mais sensível e a ingestão acidental pode ser perigosa.</p>
 

@@ -1,6 +1,6 @@
 PALAVRA_CHAVE: alimentação saudável criança
 TITLE: Alimentação saudável criança: guia prático para famílias
-DESCRIPTION: Alimentação saudável criança: como montar refeições equilibradas, reduzir ultraprocessados, lidar com a seletividade e criar uma rotina que favorece o crescimento.
+DESCRIPTION: Alimentação saudável criança: refeições equilibradas, menos ultraprocessados, manejo da seletividade alimentar e uma rotina que favorece o crescimento.
 FONTE: Ministério da Saúde | https://www.gov.br/saude
 FONTE: Governo Federal | https://www.gov.br
 CAPA_BUSCA: children eating vegetables
@@ -15,7 +15,7 @@ FOTO2_LEGENDA: Refeições em família e sem telas favorecem a alimentação tra
 FOTO2_SECAO: 4
 ---
 <p>Alimentação saudável criança é uma preocupação de muitas famílias, sobretudo quando surgem recusas, lanches fora de hora e excesso de produtos industrializados. A base está em alimentos naturais, refeições regulares e um ambiente tranquilo à mesa. As diretrizes oficiais do Ministério da Saúde servem de referência para esse cuidado.</p>
-<h2>Os princípios da alimentação saudável na infância</h2>
+<h2>Alimentação saudável criança: os princípios básicos</h2>
 <p>O Guia Alimentar do Ministério da Saúde orienta que a alimentação seja baseada em alimentos in natura ou minimamente processados. Arroz, feijão, legumes, verduras, frutas, ovos, carnes e peixes formam a base de uma dieta equilibrada para crianças.</p>
 <p>Alimentos ultraprocessados, como biscoitos recheados, refrigerantes e salgadinhos, devem ser limitados. Eles costumam ter muito açúcar, sal e gordura, e pouca fibra, além de substituírem alimentos mais nutritivos.</p>
 <p>A orientação vale desde os primeiros anos de vida e se mantém durante a escola. Em cada fase, a textura e a quantidade mudam, mas a lógica de equilíbrio continua a mesma.</p>
@@ -41,6 +41,19 @@ FOTO2_SECAO: 4
 <h2>Bebidas e produtos que pedem atenção</h2>
 <p>Água deve ser a bebida principal. Sucos industrializados, refrigerantes e bebidas açucaradas devem ser evitados, pois o consumo frequente contribui para o excesso de açúcar e para cáries.</p>
 <p>Produtos voltados ao público infantil, com embalagens coloridas e personagens, nem sempre são saudáveis. A leitura do rótulo ajuda a identificar excesso de açúcar, sal e gordura.</p>
+<p>As fibras merecem atenção especial na infância. Frutas com casca, aveia, feijão, legumes e cereais integrais ajudam o funcionamento do intestino e aumentam a sensação de saciedade. Para entender como introduzir esses alimentos com naturalidade, veja o texto sobre <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a>.</p>
+<p>Na escola, a merenda e os lanches costumam ser decisivos. Quando a família acompanha o que é oferecido e combina preparações caseiras com opções da escola, a criança recebe mais variedade. Conversar com a coordenação e levar lanches simples, como frutas e pães integrais, faz diferença no dia a dia.</p>
+<p>Brincar com os alimentos também ajuda. Montar pratos em formato de rosto, deixar a criança escolher entre duas opções saudáveis e comer junto com os adultos são estratégias que estimulam a curiosidade. O objetivo é tornar a refeição um momento agradável, e não uma disputa.</p>
+<p>O exemplo da família pesa mais do que as palavras. Crianças observam o que os adultos comem e como reagem às refeições. Quando pais e cuidadores demonstram interesse por alimentos variados, a aceitação tende a crescer com o tempo.</p>
+<p>Atenção também às porções. Crianças têm estômago pequeno e apetite variável, e servir porções adequadas à idade evita desperdício e pressão. Deixe que a criança peça mais, em vez de oferecer grandes quantidades de uma vez.</p>
+<p>As preparações caseiras costumam ser mais equilibradas que as industrializadas, porque permitem controlar o sal, o açúcar e a gordura. Sopas, refogados, omeletes com legumes e arroz com feijão são exemplos simples e econômicos que atendem bem às necessidades da infância.</p>
+<p>Finalmente, a alimentação saudável é um projeto de longo prazo. Erros pontuais não definem o hábito, e a constância de boas escolhas ao longo dos meses é o que faz diferença. Celebrar pequenos avanços, como experimentar um alimento novo, fortalece a relação da criança com a comida.</p>
+<p>A hora das refeições também precisa de estrutura. Crianças pequenas se beneficiam de rotinas previsíveis, com lugar fixo à mesa, tempo definido e ausência de pressão. Quando a refeição termina sem brigas, a criança aprende a reconhecer a fome e a saciedade, habilidade que sustenta a alimentação ao longo da vida.</p>
+<p>Atividade física e sono também influenciam o apetite. Crianças ativas tendem a comer melhor, e noites mal dormidas costumam aumentar a seletividade e a busca por alimentos muito açucarados. Cuidar da rotina como um todo ajuda a alimentação a funcionar melhor.</p>
+<p>Em festas e comemorações, é possível manter o equilíbrio sem proibições rígidas. Oferecer os alimentos especiais de forma tranquila, sem transformá-los em recompensa ou castigo, evita a relação de ansiedade com a comida que muitas famílias enfrentam.</p>
+<p>Por fim, a família deve observar a evolução do peso e da altura nas consultas de rotina. Esses dados mostram se a alimentação está adequada ao ritmo de crescimento e permitem ajustes precoces, antes que eventuais problemas se tornem difíceis de reverter.</p>
+<p>Vale lembrar que a alimentação de cada criança tem ritmo próprio. Algumas aceitam novos sabores em poucas semanas, outras levam meses. Respeitar esse tempo, mantendo a oferta constante e tranquila, costuma dar melhores resultados do que a pressão, que tende a aumentar a recusa.</p>
+<p>Água, leite e sucos naturais também merecem atenção nas quantidades. Excesso de leite na rotina pode reduzir o apetite por outros alimentos, e sucos, mesmo naturais, concentram açúcar e pouca fibra. Fruta inteira costuma ser a melhor escolha.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Meu filho só come arroz e feijão, é um problema?</strong></p>
 <p>Arroz e feijão são nutritivos, mas a dieta precisa de variedade. Se a seletividade for intensa, converse com o pediatra.</p>

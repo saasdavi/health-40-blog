@@ -28,10 +28,16 @@ FOTO2_SECAO: 4
 <li><strong>Taurina e outros extratos:</strong> têm efeitos pouco estudados quando consumidos em conjunto.</li>
 </ul>
 
+<p>Outro ponto que costuma passar despercebido é o volume. Latas grandes concentram mais cafeína do que parece, e o consumo de mais de uma unidade no mesmo dia soma os efeitos sem que a pessoa perceba essa soma.</p>
+<p>Por isso, vale verificar a quantidade de cafeína indicada no rótulo e comparar com outras fontes do dia, como café, chá preto, refrigerantes à base de cola e chocolate.</p>
+
 <h2>Como a cafeína age no organismo</h2>
 <p>A cafeína estimula o sistema nervoso, aumenta o estado de alerta e pode elevar temporariamente a frequência cardíaca e a pressão arterial. Em pessoas sensíveis, mesmo doses moderadas podem causar agitação, ansiedade, tremores e dificuldade para dormir.</p>
 <p>O efeito pode durar várias horas. Por isso, o consumo no fim do dia costuma atrapalhar o sono, e a falta de sono, por sua vez, reforça a sensação de cansaço e a vontade de consumir mais estimulantes.</p>
 <p>Se o sono já está comprometido, vale conhecer o texto sobre <a href="/insonia/">insônia</a>, que explica causas e sinais de alerta.</p>
+
+<p>A cafeína também atua sobre a sensação de sede e sobre o equilíbrio de líquidos. Em dias quentes, ou durante exercícios intensos, o consumo de estimulantes pode contribuir para desidratação e mal-estar.</p>
+<p>Esse quadro é especialmente relevante para idosos, que podem ter menor sensação de sede, e para quem treina em altas temperaturas sem reposição adequada de água.</p>
 
 <h2>Riscos para o coração e a pressão</h2>
 <p>O consumo frequente de estimulantes pode elevar a pressão e acelerar os batimentos. Em quem tem doença cardíaca, arritmia ou hipertensão, a combinação de cafeína com esforço físico ou estresse aumenta o risco de complicações.</p>
@@ -41,6 +47,10 @@ FOTO2_SECAO: 4
 <h2>Quem deve evitar energéticos</h2>
 <p>Algumas pessoas devem evitar completamente as bebidas energéticas, ou usá-las apenas com orientação médica. Esse grupo inclui crianças e adolescentes, gestantes, lactantes, pessoas com arritmia ou doença do coração e quem tem ansiedade intensa ou insônia.</p>
 <p>Também é recomendável cautela para quem usa medicamentos que interagem com estimulantes ou que tem dificuldade para controlar a pressão.</p>
+
+<p>Também é importante observar a relação entre o consumo e a vida emocional. Quem usa energéticos para compensar noites mal dormidas pode criar um ciclo em que o cansaço aumenta a dependência do estimulante, e não o contrário.</p>
+<p>Nesses casos, a orientação de um profissional pode ajudar a investigar a causa do cansaço, que pode envolver sono, alimentação, anemia, alterações da tireoide ou ansiedade.</p>
+<p>Para pessoas que praticam esportes, a hidratação com água e a alimentação adequada são, em geral, mais indicadas do que bebidas com estimulantes.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>Energético sem açúcar é mais seguro?</strong><br>Não necessariamente. A cafeína continua presente e seus efeitos no coração e no sono permanecem.</p>

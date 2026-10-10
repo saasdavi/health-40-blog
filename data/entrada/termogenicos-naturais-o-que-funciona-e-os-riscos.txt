@@ -68,11 +68,15 @@ FOTO2_SECAO: 4
 
 <p>Também há risco de interação com medicamentos para o coração, para a pressão, para a glicemia e para ansiedade, além de anticoagulantes. Por isso, o uso não deve ser decidido sem conversa com o médico.</p>
 
+<p>Atenção especial vale para quem usa medicamentos de faixa terapêutica estreita, em que pequenas mudanças de efeito já importam. Nesses casos, qualquer suplemento deve ser apresentado ao médico que acompanha o tratamento.</p>
+
 <h2>O fígado e os extratos concentrados</h2>
 
 <p>Alguns extratos vegetais concentrados foram associados a lesões no fígado, com relatos de icterícia e de aumento de enzimas hepáticas. Esses casos costumam envolver doses altas e uso prolongado, mas nem sempre são previsíveis.</p>
 
 <p>Como o fígado processa a maior parte das substâncias que entram no corpo, ele é um órgão sensível a produtos concentrados. Pessoas com doença hepática prévia ou que consomem álcool com frequência precisam de atenção redobrada.</p>
+
+<p>Os sinais precoces costumam ser discretos, como cansaço, falta de apetite e náusea. Por isso, sintomas leves não devem ser ignorados se houve uso recente de um extrato concentrado.</p>
 
 <p>Para entender melhor a relação entre o fígado e a gordura corporal, veja <a href="/gordura-no-figado/">o conteúdo sobre gordura no fígado</a>. O tema ajuda a perceber por que exames de rotina importam antes de qualquer produto.</p>
 
@@ -82,15 +86,21 @@ FOTO2_SECAO: 4
 
 <p>Ao avaliar um produto, observe a lista de ingredientes, a quantidade de cada extrato e a presença de estimulantes. Se o fabricante não informa essas quantidades, a segurança fica difícil de avaliar.</p>
 
-<p>Evite produtos que prometem queima rápida, emagrecimento sem esforço ou resultados garantidos. Esses argumentos não se sustentam em estudos e costumam acompanhar riscos pouco explicados.</p>
+<p>Também vale observar se a empresa é identificada, se há contato para dúvidas e se o produto informa o responsável técnico. A ausência desses dados é um sinal de alerta.</p>
+
+<p>Evite produtos que prometem queima rápida, emagrecimento sem esforço ou resultados certos. Esses argumentos não se sustentam em estudos e costumam acompanhar riscos pouco explicados.</p>
+
+<p>Se um anúncio cita pesquisas, procure o estudo original e veja o tamanho da amostra, a duração e o financiamento. Muitas vezes, a citação é apenas um resumo otimista de um trabalho pequeno.</p>
 
 <h2>Perguntas frequentes</h2>
 
-<p><strong>Natural significa sem efeitos colaterais?</strong><br>Não. Ingredientes vegetais podem causar reações, interagir com remédios e afetar órgãos como o coração e o fígado.</p>
+<p><strong>Natural quer dizer que não causa problemas?</strong><br>Não. Ingredientes vegetais podem causar reações, interagir com remédios e afetar órgãos como o coração e o fígado.</p>
 
 <p><strong>Chá verde comum faz mal?</strong><br>Em quantidades normais, a bebida costuma ser bem tolerada por adultos saudáveis. O risco aumenta com extratos concentrados e doses altas.</p>
 
 <p><strong>Termogênico natural ajuda a secar a barriga?</strong><br>Os efeitos sobre a gordura abdominal são pequenos e não isolados. A redução da gordura da região depende da rotina geral de alimentação e de movimento.</p>
+
+<p><strong>O que devo fazer se eu já usei?</strong><br>Suspenda o produto, anote o nome e a composição do rótulo e procure orientação médica, principalmente se houver sintomas. Não tente compensar com outros produtos.</p>
 
 <p><strong>Posso usar junto com café?</strong><br>Essa combinação soma estimulantes e pode causar palpitações e insônia. Converse com um profissional antes de misturar.</p>
 

@@ -34,6 +34,9 @@ FOTO2_SECAO: 4
 <p>A Agência Nacional de Vigilância Sanitária regula a manipulação de medicamentos e publica notas técnicas e alertas sobre produtos irregulares. Nos últimos anos, o órgão reforçou restrições para fórmulas de emagrecimento e para medicamentos análogos a classes usadas no tratamento da obesidade, por causa de riscos de falsificação, de dosagem e de uso sem prescrição adequada.</p>
 <p>Para o consumidor, isso significa que a existência de uma farmácia de manipulação não garante que um produto seja seguro para o seu caso. Vale consultar os comunicados oficiais e desconfiar de anúncios que prometem resultados rápidos.</p>
 
+<p>Um problema recorrente é a combinação de fórmulas com medicamentos de outras classes, feita sem que o prescritor conheça todo o histórico. Essa mistura pode somar efeitos sobre o coração, o fígado e o sistema nervoso.</p>
+<p>Também preocupa a dificuldade de saber, pelo rótulo, o que realmente está dentro do frasco. Sem análise adequada, a concentração pode variar entre lotes, o que impede qualquer previsão segura do efeito.</p>
+
 <h2>Como identificar um produto de risco</h2>
 <p>Alguns sinais devem acender o alerta antes de qualquer compra:</p>
 <ul>
@@ -45,10 +48,16 @@ FOTO2_SECAO: 4
 </ul>
 <p>Qualquer um desses sinais é motivo para não comprar e buscar orientação profissional.</p>
 
+<p>Quando a pessoa pensa em emagrecer, o primeiro passo costuma ser entender o motivo. Peso excessivo, medidas da cintura, pressão, glicemia e colesterol orientam se a perda de peso é uma prioridade clínica e qual ritmo é adequado.</p>
+<p>Em alguns casos, a perda de peso faz parte do tratamento de doenças e precisa de equipe multiprofissional, com médico, nutricionista e, quando necessário, outros especialistas.</p>
+
 <h2>O que a ciência diz sobre emagrecimento seguro</h2>
 <p>O emagrecimento sustentável costuma envolver alimentação equilibrada, atividade física regular, sono adequado e acompanhamento. Os órgãos de saúde reforçam que a perda de peso mais saudável é gradual e individualizada.</p>
 <p>Dietas muito restritivas e substâncias de efeito rápido costumam trazer riscos maiores e pouca manutenção do resultado. Por isso, o caminho mais seguro passa por avaliação de saúde e por um plano construído com profissionais.</p>
 <p>Para entender melhor esse caminho, vale a leitura sobre <a href="/emagrecimento-saudavel/">emagrecimento saudável</a>, que explica princípios gerais sem indicar produtos.</p>
+
+<p>Mudanças de hábito sustentáveis costumam incluir refeições regulares, sono adequado, atividade física com força e aeróbico e acompanhamento. Esse conjunto exige tempo, mas oferece um risco muito menor do que soluções de efeito rápido.</p>
+<p>Quem já tentou várias dietas e não conseguiu manter o peso deve buscar ajuda profissional antes de recorrer a fórmulas, pois o problema geralmente está na estratégia, e não na falta de um produto de efeito rápido.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>Manipulado para emagrecer é seguro?</strong><br>Depende da composição, da dose e da condição de quem usa. Não é possível afirmar segurança sem avaliação profissional.</p>
@@ -57,7 +66,7 @@ FOTO2_SECAO: 4
 <p><strong>Se eu já usei e senti algo, o que faço?</strong><br>Interrompa o uso e procure atendimento médico, levando a embalagem ou a receita.</p>
 
 <h2>Quando procurar um médico</h2>
-<p>Procure atendimento de urgência se houver palpitações, dor no peito, falta de ar, desmaio, vômitos persistentes, confusão ou sinais de desidratação. Também é importante buscar orientação antes de qualquer uso se você tem doença do coração, pressão alta, diabetes, problemas renais ou hepáticos, gravidez ou usa medicamentos de forma contínua.</p>
+<p>Procure atendimento de urgência se houver palpitações, dor no peito, falta de ar, desmaio, vômitos persistentes, confusão ou sinais de desidratação. Também é importante buscar orientação antes de qualquer uso em caso de doença do coração, pressão alta, diabetes, problemas renais ou hepáticos, gravidez ou uso contínuo de medicamentos.</p>
 <p>Quem deseja perder peso deve passar por avaliação clínica, que pode incluir exames e uma conversa sobre hábitos. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
 <h2>Resumindo</h2>

@@ -32,6 +32,9 @@ FOTO2_SECAO: 4
 <li><strong>Doenças e alterações hormonais:</strong> diabetes, hipotireoidismo e distúrbios neurológicos podem estar envolvidos.</li>
 </ul>
 
+<p>Muitas pessoas associam a obstipação apenas à dieta, mas o intestino responde também ao estresse, a viagens, a mudanças de horário e ao sono. Pequenas alterações na rotina podem bastar para desregular o trânsito intestinal.</p>
+<p>Por isso, observar o que acontece nos dias em que o intestino funciona melhor ajuda a identificar gatilhos e a montar um plano mais realista para cada pessoa.</p>
+
 <h2>Como cuidar do intestino no dia a dia</h2>
 <p>Mudanças simples costumam trazer melhora gradual. A base é a alimentação equilibrada, com fibras aumentadas de forma progressiva, para evitar gases e desconforto.</p>
 <ul>
@@ -42,9 +45,16 @@ FOTO2_SECAO: 4
 </ul>
 <p>Para ideias de alimentos com boa quantidade de fibras, veja o texto sobre <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a>.</p>
 
+<p>Ao aumentar a fibra, é importante fazer a mudança de forma gradual e manter a ingestão de água. Pular de uma alimentação pobre em fibras para uma dieta muito volumosa de uma vez tende a causar gases e inchaço.</p>
+<p>Algumas pessoas também sentem melhora com a regularidade das refeições, que estimula o reflexo gastrocólico, a resposta natural do intestino após comer.</p>
+<p>Quando a obstipação aparece após uma cirurgia, um parto ou o início de um remédio novo, o aviso deve ser dado ao médico, que pode rever o tratamento em andamento.</p>
+
 <h2>Laxantes e uso sem orientação</h2>
 <p>Muita gente recorre a laxantes por conta própria. O uso frequente, sem indicação, pode criar dependência do estímulo, causar desequilíbrio de líquidos e eletrólitos e mascarar um problema que precisa de investigação.</p>
 <p>Se for necessário algum medicamento, a escolha e o tempo de uso devem ser definidos pelo médico, que considera a causa e as condições de saúde da pessoa.</p>
+
+<p>Em crianças, a obstipação tem características próprias e costuma exigir avaliação pediátrica. Não se deve improvisar tratamento com produtos destinados a adultos.</p>
+<p>Idosos que usam vários medicamentos, ou que têm limitação de movimento, merecem atenção especial, pois a combinação desses fatores aumenta a chance de constipação persistente e de complicações.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>Obstipação é sempre grave?</strong><br>Na maioria das vezes, não. Ainda assim, a persistência ou a mudança de padrão exige avaliação.</p>

@@ -51,6 +51,14 @@ FOTO2_SECAO: 4
 <p>A suplementação de vitamina B12 é considerada segura em muitas situações, porque o excesso tende a ser eliminado pela urina. Ainda assim, a forma, a via e a duração do tratamento devem ser definidas pelo médico, principalmente quando há deficiência confirmada. Tomar doses altas por conta própria não é recomendado, e nenhuma dose deve ser usada sem orientação.</p>
 <p>A reposição também não substitui a investigação da causa. Se a falta for confirmada, o médico procura entender o motivo, porque ele pode estar ligado a problemas digestivos ou a medicamentos.</p>
 
+<h2>Como a reposição costuma ser acompanhada?</h2>
+<p>Quando há deficiência confirmada, o médico define uma estratégia de reposição e marca retornos para observar a resposta. Em algumas situações, a vitamina é administrada por via oral em formato específico; em outras, especialmente quando a absorção está muito comprometida, a aplicação pode ser feita por injeção. A escolha depende da causa, da gravidade e da tolerância de cada pessoa, e não existe um esquema único para todos.</p>
+<p>Durante o acompanhamento, os sintomas costumam ser avaliados com atenção, porque a melhora pode ser gradual. Cansaço e formigamento, por exemplo, podem levar semanas ou meses para diminuir, e alguns sinais neurológicos podem demorar mais. Por isso, é importante não interromper a reposição por conta própria quando os sintomas parecem melhorar, e comunicar ao médico qualquer mudança.</p>
+<p>Também faz parte do acompanhamento revisar os medicamentos em uso e a alimentação. Se a falta tiver origem em uma gastrite, por exemplo, o tratamento dessa condição é parte essencial do cuidado. Exames de controle podem ser solicitados de tempos em tempos, de acordo com a orientação do profissional, para confirmar que os níveis se mantêm adequados.</p>
+
+<p>Outra dúvida frequente diz respeito às alterações no paladar, no apetite e no peso que algumas pessoas associam à vitamina. Esses sintomas são pouco específicos e podem ter muitas origens, incluindo problemas digestivos, uso de medicamentos e mudanças na rotina. Por isso, a presença deles não deve levar a conclusões precipitadas nem a uso indiscriminado de suplementos.</p>
+<p>Para quem envelhece, vale lembrar que a alimentação e a absorção mudam juntas. Uma refeição pouco variada, somada à redução natural da acidez gástrica, pode diminuir o aproveitamento do nutriente. Manter uma dieta diversa, com proteínas de boa qualidade e alimentos enriquecidos, ajuda a sustentar a reserva corporal, mas não substitui a avaliação quando há sinais de alerta.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Vitamina B12 dá energia?</strong><br>Ela participa da produção de glóbulos vermelhos e do metabolismo, mas não dá energia de forma imediata em quem não tem deficiência.</p>
 <p><strong>Quem come carne precisa de suplemento?</strong><br>Em geral, não. Mas pessoas com problemas de absorção podem precisar, mesmo com alimentação adequada.</p>

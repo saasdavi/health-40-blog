@@ -29,6 +29,9 @@ FOTO2_SECAO: 4
 <li><strong>Alterações hormonais:</strong> algumas mudanças hormonais podem influenciar a pigmentação, embora esse papel seja menos central.</li>
 </ul>
 
+<p>Algumas características são mais típicas de manchas comuns, como cor uniforme, bordas bem definidas e crescimento lento. Ainda assim, a aparência isolada não garante benignidade, e a avaliação clínica continua indispensável.</p>
+<p>Lesões que coçam, ardem, descamam de forma persistente ou deixam feridas que não cicatrizam devem ser examinadas, mesmo que pareçam pequenas e antigas.</p>
+
 <h2>Como diferenciar manchas senis de outras lesões</h2>
 <p>Nem toda mancha escura é uma mancha senil. Algumas lesões precisam de avaliação, incluindo pintas que mudam, sangram ou coçam. A regra mais usada para orientar a observação é o acrônimo ABCDE, que pede atenção a assimetria, bordas irregulares, cor não uniforme, diâmetro maior que alguns milímetros e evolução com o tempo.</p>
 <p>Se uma mancha mudar de forma rápida, tiver cores variadas ou apresentar bordas irregulares, procure um dermatologista. Esse é um dos motivos para conhecer também o que é um <a href="/melanoma/">melanoma</a>, tipo de câncer de pele que exige diagnóstico precoce.</p>
@@ -43,10 +46,16 @@ FOTO2_SECAO: 4
 </ul>
 <p>O autoexame não substitui a consulta. Ele serve para perceber mudanças que merecem avaliação profissional.</p>
 
+<p>Muitas pessoas acreditam que a mancha pode ser apagada com esfoliações caseiras. Na prática, a esfoliação agressiva pode irritar a pele, deixar a área mais sensível ao sol e até piorar a pigmentação.</p>
+<p>Antes de qualquer procedimento, o dermatologista confirma o diagnóstico, avalia o tipo de pele e explica o que é realista esperar, incluindo a possibilidade de a mancha voltar com a exposição solar.</p>
+
 <h2>Cuidados e opções de tratamento</h2>
 <p>Como as manchas senis são em geral inofensivas, muitas pessoas optam por não tratar. Quando há desejo estético de reduzir a aparência, o dermatologista pode indicar procedimentos, como luz pulsada, laser ou crioterapia, cada um com indicações, riscos e limitações próprias.</p>
-<p>Também existem cremes com ativos clareadores, mas o uso deve ser feito com orientação, porque alguns produtos podem irritar a pele ou causar manchas de contato. Não existe garantia de remoção completa, e a escolha depende do tipo de pele e do quadro.</p>
+<p>Também existem cremes com ativos clareadores, mas o uso deve ser feito com orientação, porque alguns produtos podem irritar a pele ou causar manchas de contato. Não há como prometer remoção completa, e a escolha depende do tipo de pele e do quadro.</p>
 <p>A prevenção continua sendo o melhor caminho. Use filtro solar de amplo espectro todos os dias, reaplique conforme orientação, use chapéu e roupas de proteção e evite horários de sol mais intenso.</p>
+
+<p>Vale lembrar que o cuidado com o sol começa cedo. Mesmo sem perceber queimaduras, a exposição frequente ao longo dos anos é o que mais contribui para o surgimento de manchas nas áreas expostas.</p>
+<p>Roupas com proteção, sombra nos horários de pico e a rotina de filtro no rosto, nas mãos e no colo formam um conjunto simples e eficaz para desacelerar o aparecimento de novas manchas.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>Manchas senis são perigosas?</strong><br>Na maioria dos casos, não. Mesmo assim, qualquer mudança de forma, cor ou tamanho deve ser avaliada.</p>

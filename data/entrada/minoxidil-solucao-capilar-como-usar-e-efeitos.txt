@@ -31,10 +31,16 @@ FOTO2_SECAO: 4
 </ul>
 <p>Esses cuidados são informações gerais. A decisão sobre dose, tempo de uso e associação com outros produtos cabe ao dermatologista.</p>
 
+<p>Antes de iniciar, o dermatologista costuma registrar fotos e medir a densidade para servir de referência. Sem esse ponto de partida, fica difícil avaliar se houve mudança real ou apenas variação de luz e de penteado.</p>
+<p>A adesão é outro fator decisivo. Esquecer aplicações com frequência reduz as chances de resposta, e por isso muitas pessoas combinam o uso a uma rotina fixa, como a higiene noturna.</p>
+
 <h2>Quanto tempo leva para perceber resultados</h2>
 <p>O tratamento costuma exigir vários meses. Nas primeiras semanas, é comum uma queda temporária, chamada de <em>shedding</em>, que faz parte do processo de renovação dos fios. Esse período pode assustar, mas não deve levar à interrupção sem orientação.</p>
 <p>Os ganhos, quando ocorrem, tendem a ser graduais e precisam ser mantidos. Ao interromper o uso, a perda costuma voltar em alguns meses.</p>
 <p>Para entender outras causas que devem ser descartadas antes de iniciar, vale a leitura sobre <a href="/queda-de-cabelo/">queda de cabelo</a>, que apresenta sinais que merecem avaliação.</p>
+
+<p>Em mulheres, o médico pode considerar fatores como a menopausa e a gravidez ao decidir o tratamento. Essas situações mudam o cálculo de benefícios e riscos e exigem avaliação individual.</p>
+<p>Também é importante lembrar que o minoxidil não trata a alopecia de forma isolada. Quando há causa hormonal, inflamatória ou nutricional, o plano pode incluir outras medidas, definidas pelo especialista.</p>
 
 <h2>Efeitos colaterais possíveis</h2>
 <p>Os efeitos mais comuns são locais, como coceira, irritação, ressecamento e descamação do couro cabeludo. A queda inicial também entra nesse grupo de efeitos esperados e temporários.</p>
@@ -48,6 +54,9 @@ FOTO2_SECAO: 4
 <h2>Quem deve ter mais cuidado</h2>
 <p>O minoxidil não é indicado para crianças, e a gestação e a amamentação exigem avaliação médica específica. Pessoas com problemas cardíacos, pressão baixa, alterações de pressão, doença renal ou que usam medicamentos para a pressão devem conversar com o médico antes de começar.</p>
 <p>Também é importante informar se a queda é súbita, se há coceira intensa ou se surgiram falhas em placas, pois esses quadros podem ter outra origem. A falta de ferro, por exemplo, também pode provocar queda, e os <a href="/ferro-baixo-sintomas/">sintomas de ferro baixo</a> ajudam a reconhecer esse quadro.</p>
+
+<p>Ao longo do tratamento, anote a data de cada consulta, eventuais irritações e a percepção de queda. Essas informações ajudam o médico a ajustar o plano sem depender apenas da memória.</p>
+<p>Se o tratamento for interrompido por qualquer motivo, converse com o profissional antes de recomeçar, porque a retomada pode exigir nova avaliação e uma adaptação gradual.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>O minoxidil faz o cabelo crescer em todos?</strong><br>Não. A resposta varia bastante de uma pessoa para outra, e o dermatologista avalia se o tratamento faz sentido.</p>

@@ -36,10 +36,16 @@ FOTO2_SECAO: 4
 </ul>
 <p>Se houver irritação, interrompa a aplicação naquele ponto e procure orientação, sem trocar a dose por conta própria.</p>
 
+<p>A forma de aplicação também depende da estrutura do cabelo. Fios muito cacheados, volumosos ou com muita oleosidade exigem separação cuidadosa, para que a solução chegue à raiz e não fique apenas na superfície.</p>
+<p>Para quem usa outros produtos capilares, o ideal é aplicar o minoxidil antes de finalizar, com o couro cabeludo totalmente seco, evitando misturar com óleos ou sprays de fixação.</p>
+
 <h2>O que esperar nas primeiras semanas</h2>
 <p>O tratamento costuma levar vários meses para mostrar resultados. Nas primeiras semanas, pode ocorrer uma queda temporária de fios, que faz parte da renovação do ciclo capilar. Esse efeito é descrito na literatura, mas precisa ser acompanhado pelo médico.</p>
 <p>Fotos mensais e anotações sobre a densidade ajudam a avaliar a evolução com mais objetividade. Expectativas realistas evitam abandono precoce do tratamento.</p>
 <p>Se a queda tiver outras causas, como alterações da tireoide, o tratamento deve ser complementado. Veja mais no texto sobre <a href="/hipotireoidismo-sintomas/">sintomas de hipotireoidismo</a>, e, para uma visão geral das causas, o artigo sobre <a href="/queda-de-cabelo/">queda de cabelo</a> é um bom complemento.</p>
+
+<p>Muitas pessoas se preocupam com a queda que acontece no início. Nessa fase, o mais útil é manter o registro das observações e não interromper a aplicação por conta própria, salvo se houver sinais de reação importante.</p>
+<p>Se a irritação for leve, ajustar a frequência e hidratar o couro cabeludo com produtos suaves, conforme indicado pelo médico, pode ser suficiente para o desconforto diminuir.</p>
 
 <h2>Cuidados e efeitos indesejados</h2>
 <p>Os efeitos mais comuns são irritação do couro cabeludo, coceira, vermelhidão e descamação. Em casos menos frequentes, podem surgir crescimento de pelos em áreas próximas e alterações da pressão, principalmente se houver absorção maior do que a prevista.</p>
@@ -49,6 +55,9 @@ FOTO2_SECAO: 4
 <li>Guarde o frasco em local seguro, longe de fontes de calor e chama.</li>
 <li>Não use mais de uma aplicação para compensar a falta de outra.</li>
 </ul>
+
+<p>Ao planejar o tratamento, considere também o custo, a rotina e a praticidade. Um plano que a pessoa consegue manter por muitos meses tende a ser mais eficaz do que uma escolha teoricamente melhor que é abandonada cedo.</p>
+<p>O dermatologista pode discutir essas questões e combinar o minoxidil com outras medidas, sempre de acordo com a causa da queda e com a resposta observada.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>O minoxidil spray funciona para todos?</strong><br>Não. A resposta varia conforme a causa da queda, a idade e a resposta individual.</p>

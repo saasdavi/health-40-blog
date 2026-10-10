@@ -35,6 +35,9 @@ FOTO2_SECAO: 4
 </ul>
 <p>Se usar óleo ou creme, escolha um produto neutro, aplique com moderação e lave bem depois para não acumular resíduos no couro cabeludo.</p>
 
+<p>Em termos de rotina, a massagem funciona melhor quando vira um hábito curto e agradável, feito sempre no mesmo horário, como antes de dormir. Essa regularidade ajuda a perceber como o couro cabeludo reage ao longo das semanas.</p>
+<p>Também é possível combinar a prática com a pausa do banho ou com uma leitura tranquila, sem transformar o momento em tarefa a ser cumprida com pressa.</p>
+
 <h2>Massagem capilar e a queda de cabelo</h2>
 <p>Muita gente associa a massagem à queda de cabelo, mas é importante separar expectativa de evidência. Quando a perda tem causa hormonal, genética ou sistêmica, a massagem não resolve o problema sozinha.</p>
 <p>Se a queda é preocupante, vale conhecer as causas no texto sobre <a href="/queda-de-cabelo/">queda de cabelo</a> e buscar avaliação antes de atribuir o problema a um único hábito.</p>
@@ -48,11 +51,17 @@ FOTO2_SECAO: 4
 <li><strong>Dor, inchaço ou sensibilidade</strong> após procedimentos estéticos ou cirúrgicos.</li>
 <li><strong>Pressão muito alta ou condições circulatórias</strong>, sobretudo se a massagem for vigorosa.</li>
 </ul>
-<p>Nesses casos, o toque forte pode piorar a irritação ou espalhar a infecção. A orientação de um dermatologista é o caminho mais seguro.</p>
+<p>Nesses casos, o toque forte pode piorar a irritação ou espalhar a infecção. Para entender reações de contato a produtos usados no couro cabeludo, veja <a href="/dermatite-de-contato/">dermatite de contato</a>. A orientação de um dermatologista é o caminho mais seguro.</p>
+
+<p>A pele do couro cabeludo é sensível e coberta por fios que podem prender sujeira e oleosidade. Por isso, a massagem deve ser feita com as mãos limpas e, se houver produto, com quantidade pequena.</p>
+<p>Evite pressionar com as unhas, esfregar com força ou usar pentes e escovas duras logo após a massagem, sobretudo se o couro cabeludo estiver avermelhado ou sensível.</p>
 
 <h2>Cuidados ao fazer a massagem</h2>
 <p>Mantenha a pressão suave e evite movimentos que puxem os fios com força. Não massageie áreas com coceira intensa sem causa conhecida, e não use objetos pontiagudos. Se houver desconforto durante ou após a prática, pare.</p>
 <p>Quem tem alergia a componentes de óleos e cremes deve testar o produto em uma pequena área antes do uso regular.</p>
+
+<p>Para quem tem cabelos longos ou cacheados, a massagem pode ser feita antes da lavagem, com movimentos lentos, para soltar a sujeira acumulada sem embaraçar os fios.</p>
+<p>Ao final, lave o cabelo com suavidade e seque sem atrito, de preferência com toalha de algodão e secagem em temperatura moderada, já que o calor excessivo pode fragilizar a haste.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>A massagem capilar faz o cabelo crescer?</strong><br>Não há evidência sólida de que isso aconteça. O benefício mais claro é o relaxamento.</p>

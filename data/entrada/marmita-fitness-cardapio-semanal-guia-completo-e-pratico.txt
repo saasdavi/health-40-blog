@@ -49,13 +49,22 @@ FOTO2_SECAO: 4
 </ul>
 <p>Essas práticas reduzem o risco de contaminação e de intoxicação alimentar, que é mais perigosa para idosos e pessoas com imunidade reduzida.</p>
 
+<p>Antes de montar as marmitas, organize a compra por categorias: folhas e legumes, proteínas, grãos, temperos e frutas. Essa divisão evita esquecimentos e reduz o desperdício, já que cada item tem um prazo próprio na geladeira.</p>
+<p>Reserve um período fixo para o preparo, como um dia no meio da semana, e separe as tarefas: cozinhar os grãos, assar as proteínas e cortar os legumes em sequência.</p>
+
 <h2>Congelamento sem perder qualidade</h2>
 <p>Nem todo alimento se congela bem. Legumes firmes, grãos, carnes e feijões costumam manter textura razoável. Já folhas delicadas e alimentos com muito líquido podem perder consistência após o descongelamento.</p>
 <p>Para congelar legumes, o branqueamento rápido em água fervente seguido de resfriamento em água gelada ajuda a preservar cor e textura. Guardar em porções individuais também facilita o uso sem necessidade de descongelar tudo de uma vez.</p>
 
+<p>Ao descongelar, retire a marmita da forma de congelamento e aqueça por completo. Porções parcialmente descongeladas e reaquecidas mais de uma vez perdem qualidade e aumentam o risco microbiológico.</p>
+<p>Etiquetar cada recipiente com a data de preparo também ajuda a consumir primeiro o que foi feito antes, mantendo a ordem de uso e evitando sobras esquecidas no fundo da geladeira.</p>
+
 <h2>Erros comuns no planejamento</h2>
 <p>Alguns hábitos atrapalham o resultado. O primeiro é cozinhar muita comida de uma só vez sem armazenamento adequado. O segundo é repetir a mesma combinação por dias seguidos, o que pode levar ao abandono do plano. O terceiro é cortar grupos inteiros de alimentos sem orientação.</p>
 <p>Se a rotina estiver muito restritiva, procure ajustar o plano antes de desistir. Pequenas mudanças costumam ser mais sustentáveis. Para os intervalos entre as refeições, as sugestões de <a href="/lanches-saudaveis/">lanches saudáveis</a> ajudam a evitar fome excessiva, e a <a href="/reeducacao-alimentar-para-emagrecer/">reeducação alimentar</a> oferece uma visão geral de hábitos que sustentam a mudança.</p>
+
+<p>Temperos naturais, como ervas frescas, alho, cebola, limão e especiarias, deixam as marmitas mais saborosas sem excesso de sal ou molhos industrializados, que costumam trazer muito sódio e açúcar escondido.</p>
+<p>Ao trocar ingredientes ao longo da semana, mantenha a lógica do prato equilibrado. Trocar frango por ovo, ou arroz por batata-doce, muda o sabor e preserva o conjunto nutricional.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>Quanto tempo a marmita dura na geladeira?</strong><br>Em geral, poucos dias. Para um prazo maior, o congelamento é a melhor opção.</p>
@@ -64,7 +73,7 @@ FOTO2_SECAO: 4
 <p><strong>Preciso de acompanhamento para montar o cardápio?</strong><br>Pessoas com doenças, gestantes ou com necessidades específicas devem buscar orientação de nutricionista.</p>
 
 <h2>Quando procurar um médico ou nutricionista</h2>
-<p>Procure orientação se você tem diabetes, doença renal, alergias alimentares, intolerâncias ou outra condição que exija dieta específica. Também vale buscar ajuda se sentir fraqueza, tontura ou mal-estar frequente após mudar a alimentação.</p>
+<p>Procure orientação em caso de diabetes, doença renal, alergias alimentares, intolerâncias ou outra condição que exija dieta específica. Também vale buscar ajuda se sentir fraqueza, tontura ou mal-estar frequente após mudar a alimentação.</p>
 <p>Um profissional pode adequar o cardápio ao seu caso, sem dietas restritivas desnecessárias. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
 <h2>Resumindo</h2>

@@ -35,15 +35,25 @@ FOTO2_SECAO: 4
 <li>Anemia, palidez ou cansaço constante.</li>
 <li>Reação após consumo de leite ou de alimentos com trigo.</li>
 </ul>
-<h2>Como montar a alimentação sem lactose e sem glúten</h2>
+<h2>Alimentação sem lactose e glúten: como montar o cardápio</h2>
 <p>Quando há indicação, a dieta deve manter variedade. Frutas, legumes, verduras, carnes, ovos, peixes, arroz, milho, batata, mandioca e leguminosas formam uma base naturalmente livre de glúten.</p>
 <p>Para a lactose, existem bebidas vegetais e produtos sem lactose, mas é importante escolher versões enriquecidas com cálcio e observar o rótulo. Queijos maturados e iogurtes costumam ser melhor tolerados por algumas pessoas, e isso varia de indivíduo para indivíduo.</p>
 <h2>Cuidados com rótulos e contaminação</h2>
 <p>O glúten aparece em molhos, embutidos, temperos, cervejas e produtos de panificação. A lactose também está presente em produtos inesperados, como pães, biscoitos, margarinas e preparados de carne.</p>
 <p>Procure no rótulo as declarações de alérgenos e a indicação de ausência de glúten, quando houver. Em casa, evite contaminação cruzada com utensílios, torradeiras e tábuas usados com trigo.</p>
-<h2>Cuidados nutricionais na dieta de restrição</h2>
 <p>Quem exclui leite e derivados precisa garantir fontes de cálcio, como vegetais verde-escuros, sardinha com espinha, leguminosas e alimentos enriquecidos. Excluir o glúten reduz fibras e vitaminas do complexo B, que devem ser repostas com alimentos naturais.</p>
 <p>Um nutricionista pode ajudar a planejar as refeições, evitando carências e restrições desnecessárias.</p>
+<p>Muitas pessoas notam estufamento e gases após refeições ricas em leguminosas, verduras crucíferas e produtos integrais, mesmo sem ter intolerância a lactose ou doença celíaca. Nesse caso, a origem pode estar em outras alterações intestinais, como a síndrome do intestino irritável ou o crescimento bacteriano. Por isso, a exclusão de alimentos não deve ser a primeira resposta a esses sintomas.</p>
+<p>Em casos de desconforto recorrente, o médico pode solicitar exames e orientar mudanças graduais. Registrar o que foi comido e os sintomas que surgiram, por algumas semanas, ajuda a identificar padrões reais, sem eliminações desnecessárias. Veja também o que a <a href="/barriga-inchada/">barriga inchada</a> pode sinalizar e quando ela merece investigação.</p>
+<p>Para quem sente dificuldade digestiva com derivados do leite, a ingestão pode ser testada em pequenas quantidades e com diferentes produtos, como iogurtes e queijos curados. Essa estratégia, feita com orientação, permite manter fontes de cálcio na dieta sem sofrimento.</p>
+<p>Alimentos fermentados e produtos com probióticos são temas de interesse crescente, mas o efeito varia conforme a cepa e a condição de cada pessoa. Antes de incluí-los como estratégia, converse com o profissional, porque o benefício não é o mesmo para todos. Mais informações estão em <a href="/probioticos/">probióticos</a>.</p>
+<p>Na escolha de substitutos, observe a composição e o aporte nutricional. Bebidas vegetais variam bastante em proteína, cálcio e açúcar, e a versão sem açúcar nem sempre é a mais completa. Compare os rótulos e escolha o produto que se encaixa na sua necessidade.</p>
+<p>Cozinhar em casa ajuda a controlar ingredientes ocultos. Caldos, molhos prontos, temperos industrializados e embutidos costumam conter glúten ou derivados do leite em quantidades inesperadas. Preparar a comida com ingredientes simples reduz a dependência de produtos especiais, que costumam ser mais caros.</p>
+<p>Para crianças e adolescentes, a exclusão exige cuidado extra. O crescimento depende de cálcio, proteína e energia suficientes, e a retirada de grupos alimentares deve ser acompanhada pelo pediatra e pelo nutricionista. Restrições sem necessidade podem comprometer o desenvolvimento.</p>
+<p>Viajar e comer fora exigem planejamento extra. Pergunte sobre os ingredientes dos pratos, peça que o preparo seja feito sem contato com alimentos proibidos e leve opções seguras para os momentos em que não houver alternativa. Essa organização reduz o risco de sintomas e de decisões impulsivas.</p>
+<p>Na convivência familiar, a dieta de restrição também pede acordo. Quando todos participam das escolhas de compra e de preparo, a pessoa com restrição não se sente isolada e os erros de contaminação diminuem. Uma conversa aberta sobre o que pode e o que não pode entrar na cozinha ajuda bastante.</p>
+<p>Ao iniciar a mudança, registre os sintomas e a alimentação de cada dia durante algumas semanas. Esse registro ajuda a confirmar se a melhora de fato acompanha a retirada de um grupo alimentar e permite ajustar a dieta sem excessos, preservando a qualidade de vida.</p>
+<p>Por fim, lembre que a dieta é um meio e não um fim. O objetivo é controlar sintomas, preservar a nutrição e manter a vida social, e não transformar cada refeição em uma fonte de ansiedade. Com orientação adequada, a maioria das pessoas consegue uma rotina equilibrada e segura.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Sem glúten emagrece?</strong></p>
 <p>Não há indicação para perda de peso sem doença celíaca ou sensibilidade ao glúten comprovada. A dieta restritiva pode até levar a carências.</p>
