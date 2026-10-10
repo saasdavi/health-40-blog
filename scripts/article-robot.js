@@ -491,7 +491,11 @@ Responda SOMENTE com um objeto JSON válido (sem texto antes ou depois, sem cerc
     const pexels = async () => {
       if (!process.env.PEXEL_API_KEY) return null;
       const r = await fetch(`https://api.pexels.com/v1/search?query=${encodeURIComponent(busca)}&per_page=20&orientation=landscape`, { headers: { Authorization: process.env.PEXEL_API_KEY.trim() } });
-      if (!r.ok) throw new Error(`Pexels ${r.status}`);
+      if (!r.ok) {
+        const h = (n) => r.headers.get(n);
+        const reset = h('x-ratelimit-reset') ? new Date(Number(h('x-ratelimit-reset')) * 1000).toISOString() : '?';
+        throw new Error(`Pexels ${r.status} (limite: ${h('x-ratelimit-limit') ?? '?'}/período, restantes: ${h('x-ratelimit-remaining') ?? '?'}, zera em: ${reset})`);
+      }
       const j = await r.json();
       const f = (j.photos || []).find(x => !usadas.has(`pexels:${x.id}`));
       if (!f) return null;
