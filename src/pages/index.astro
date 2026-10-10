@@ -589,6 +589,7 @@ const formatarData = (iso: string | undefined) =>
         <a href="/termos-uso/">Termos de uso</a>
       </p>
       <p style="margin-top: 1rem;">© 2026 Saúde 40+ • Todos os direitos reservados</p>
+      <p style="margin-top: .5rem; font-size: .85em;"><a href="https://www.pexels.com" rel="noopener nofollow" target="_blank">Photos provided by Pexels</a></p>
       {(SITE.legal.razaoSocial || SITE.legal.cnpj) && (
         <p class="legal-info">{[SITE.legal.razaoSocial, SITE.legal.cnpj && `CNPJ ${SITE.legal.cnpj}`, SITE.legal.endereco].filter(Boolean).join(' • ')}</p>
       )}
