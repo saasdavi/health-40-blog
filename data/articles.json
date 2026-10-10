@@ -5704,7 +5704,7 @@
         ]
       },
       "volume": 12100,
-      "status": "draft",
+      "status": "published",
       "createdAt": "2026-10-04T17:59:09.167Z",
       "scores": {
         "auditoria": 95
@@ -5757,7 +5757,7 @@
         "pexels:4057839"
       ],
       "altConferido": false,
-      "estoque": true,
+      "estoque": false,
       "estocadoEm": "2026-10-04T17:59:11.199Z",
       "validacao": {
         "palavraChave": "como controlar a ansiedade",
@@ -5822,7 +5822,9 @@
           ]
         },
         "validadoEm": "2026-10-04T17:59:11.199Z"
-      }
+      },
+      "publishedAt": "2026-10-10T18:01:27.042Z",
+      "publicadoDoEstoqueEm": "2026-10-10T18:01:27.042Z"
     },
     {
       "id": "art_1791136789517_z29v",
@@ -9785,6 +9787,6 @@
   ],
   "stats": {
     "total": 55,
-    "published": 27
+    "published": 28
   }
 }

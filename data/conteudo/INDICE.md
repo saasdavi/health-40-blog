@@ -4,8 +4,8 @@ Fonte dos textos: `data/articles.json`. Atualizado por `node scripts/banco-conte
 
 | O que | Quantidade | Dias (3/dia) |
 |---|---|---|
-| **Pronto para usar** (escrito, aprovado, guardado) | **19** | 6 |
-| Publicado (no ar) | 27 | |
+| **Pronto para usar** (escrito, aprovado, guardado) | **18** | 6 |
+| Publicado (no ar) | 28 | |
 | Pauta validada, falta escrever | 18 | 6 |
 | Planejado, falta validar no Google | 886 | 295 |
 | Vagas (sem tema levantado) | 146 | |
@@ -22,7 +22,6 @@ Dias de conteúdo já escrito + pauta validada: **12** (a 3 por dia).
 | Manchas na Pele: Guia Completo para Identificar o Risco | 1155 | 83 | 2026-10-14 |
 | O que é Menopausa: Guia Completo para Mulheres 40+ | 1453 | 81 | 2026-10-15 |
 | Vitamina D Baixa Sintomas: Reconheça os Sinais | 1894 | 84 | 2026-10-15 |
-| Como Controlar a Ansiedade: Estratégias Práticas 40+ | 1471 | 95 | 2026-10-16 |
 | Lanche Saudável: 12 Ideias Fáceis para Sua Tarde | 1470 | 91 | 2026-10-17 |
 | Cabelos Brancos: Causas, Cuidados e Tudo que Você Precisa Saber | 1820 | 87 | 2026-10-17 |
 | Câimbras nas pernas: causas e alívio rápido | 1333 | 100 | 2026-10-18 |
@@ -76,6 +75,7 @@ Dias de conteúdo já escrito + pauta validada: **12** (a 3 por dia).
 | Noctúria: Por Que Acorda à Noite para Urinar | 1378 | 92 | 2026-10-09 |
 | Queda de Cabelo: Saiba Quando é Normal Tratar | 1544 | 96 | 2026-10-10 |
 | Presbiopia: Como Corrigir Sua Visão de Perto | 1777 | 90 | 2026-10-10 |
+| Como Controlar a Ansiedade: Estratégias Práticas 40+ | 1471 | 95 | 2026-10-10 |
 
 ## Pautas validadas esperando texto (próximas a escrever)
 

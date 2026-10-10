@@ -1,7 +1,7 @@
 {
  "resumo": {
-  "publicados": 27,
-  "prontosParaUsar": 19,
+  "publicados": 28,
+  "prontosParaUsar": 18,
   "pautasValidadasSemTexto": 18,
   "planejadasAValidar": 886,
   "vagas": 146,
@@ -612,15 +612,15 @@
    "palavraChave": "como controlar a ansiedade",
    "cluster": "saude-mental",
    "volume": 12100,
-   "status": "pronto",
+   "status": "publicado",
    "palavras": 1471,
    "h2": 18,
    "imagens": 3,
    "fontes": 3,
    "auditoria": 95,
-   "publicadoEm": null,
+   "publicadoEm": "2026-10-10T18:01:27.042Z",
    "escritoEm": "2026-10-04T17:59:11.199Z",
-   "previstoPara": "2026-10-16",
+   "previstoPara": null,
    "pontesSugeridas": []
   },
   {
