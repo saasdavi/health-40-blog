@@ -38,7 +38,7 @@ FOTO2_SECAO: 4
 <p>Esse diagnóstico é importante porque as opções de tratamento variam muito. Um tratamento indicado para uma causa pode ser inadequado para outra, e iniciar produtos por conta própria pode atrasar a solução do problema.</p>
 <p>Também vale saber que alguns sintomas precisam de atenção mais rápida, como queda muito intensa e súbita, falhas em placas ou inflamação do couro cabeludo. Nesses casos, a consulta deve acontecer sem demora.</p>
 <p>Durante a consulta, é útil levar uma lista de medicamentos em uso, suplementos, histórico de gestações e cirurgias recentes, além de informações sobre alimentação e rotina de estresse. Esses dados ajudam o especialista a montar um raciocínio mais completo e a evitar exames desnecessários.</p>
-<p>Fotografias do cabelo tiradas em intervalos regulares também podem ajudar a documentar a evolução, sobretudo quando a queda é gradual e fica difícil perceber a diferença no dia a dia.</p>
+<p>Fotografias do cabelo tiradas em intervalos regulares também podem ajudar a documentar a evolução, sobretudo quando a queda é gradual e fica difícil perceber a diferença no dia a dia. Também é útil levar à consulta um registro de ciclos menstruais, gestações e mudanças de peso, já que essas informações costumam orientar a investigação hormonal.</p>
 
 <h2>Tratamentos com respaldo científico</h2>
 <p>Os tratamentos variam conforme a causa. Na alopecia androgenética feminina, o minoxidil tópico é uma das opções estudadas e indicadas por dermatologistas, em conjunto com outras medidas. Esse medicamento deve ser usado apenas com orientação, pois pode causar efeitos locais e exige constância para mostrar resultados.</p>
@@ -70,4 +70,4 @@ FOTO2_SECAO: 4
 
 <h2>Resumindo</h2>
 <p>A queda de cabelo feminino tem causas variadas, como fatores genéticos, hormonais, nutricionais e inflamatórios. Identificar o motivo é o passo mais importante para escolher um tratamento adequado e evitar gastos com produtos sem indicação.</p>
-<p>Com avaliação especializada, exames quando necessários e cuidados regulares com os fios, a maioria das mulheres consegue melhorar a situação ou estabilizar o quadro. Não hesite em buscar orientação profissional, sobretudo se a queda for intensa ou persistente.</p>
+<p>Com avaliação especializada, exames quando necessários e cuidados regulares com os fios, a maioria das mulheres consegue melhorar a situação ou estabilizar o quadro. Não hesite em buscar orientação profissional, sobretudo se a queda for intensa ou persistente. Mesmo quando a causa é benigna, a conversa com o especialista traz clareza, reduz a ansiedade e ajuda a escolher caminhos realistas para o seu caso.</p>

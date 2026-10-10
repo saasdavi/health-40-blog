@@ -67,6 +67,9 @@ FOTO2_SECAO: 4
 <p>Pessoas que usam o tratamento por longos períodos devem ter o acompanhamento mantido, mesmo quando o resultado parece estável. Revisões periódicas garantem que a conduta continue adequada à idade, à saúde e aos remédios em uso.</p>
 <p>Caso surjam novas condições de saúde, como doença cardíaca ou gravidez, o plano precisa ser reavaliado, pois o uso pode deixar de ser indicado.</p>
 
+<p>Algumas pessoas se perguntam se é possível alternar o uso do tônico com outras opções. Essa decisão exige avaliação do dermatologista, que considera o padrão da queda e a resposta observada até o momento.</p>
+<p>Registre as datas de cada fase do tratamento para que a conversa com o médico seja objetiva e baseada em fatos.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Shedding significa que o tratamento não está funcionando?</strong><br>Não necessariamente. A queda inicial é descrita como transitória, mas deve ser acompanhada pelo médico.</p>
 <p><strong>Quanto tempo devo usar?</strong><br>A duração é definida pelo profissional, de acordo com a resposta e a evolução.</p>
@@ -81,6 +84,8 @@ FOTO2_SECAO: 4
 <p>A avaliação permite confirmar o diagnóstico, revisar a concentração e definir o plano. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
 <p>Por fim, o uso do tônico deve ser visto como um processo de médio prazo, com registros periódicos e revisões. Assim, a decisão de continuar, ajustar ou interromper fica baseada em informação e não em impressão momentânea.</p>
+
+<p>Se a queda estiver acompanhada de descamação, feridas ou manchas no couro cabeludo, leve essas observações à consulta, pois elas podem indicar outra condição que precisa de tratamento específico.</p>
 
 <h2>Resumindo</h2>
 <p>O minoxidil tônico capilar é um tratamento de uso contínuo para queda de cabelo, com uma fase de queda inicial chamada shedding e resultados que levam meses para aparecer. Ele precisa de indicação e acompanhamento profissional, além de cuidados com a aplicação e com a guarda do produto.</p>

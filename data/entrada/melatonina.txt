@@ -73,6 +73,10 @@ FOTO2_SECAO: 4
 <p>Pessoas com doenças do sono, como apneia, ou com ronco intenso devem buscar avaliação antes de recorrer ao hormônio, pois a causa do cansaço pode estar na respiração durante a noite e não no relógio biológico.</p>
 <p>Idosos que sentem sono excessivo durante o dia ou quedas frequentes também precisam de avaliação médica antes de qualquer suplemento para dormir.</p>
 
+<p>Algumas pessoas acordam com sensação de ressaca após usar o suplemento à noite. Quando isso acontece, reduza a quantidade após orientação, evite dirigir cedo e converse com o profissional sobre o horário de uso.</p>
+<p>Também é útil lembrar que o efeito sobre o sono varia com a idade, o peso e a rotina de luz, e que a resposta individual raramente é igual à de outras pessoas.</p>
+<p>Anote o horário de uso e como você se sentiu no dia seguinte, pois esse registro simples facilita o ajuste com o médico.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Melatonina causa dependência?</strong><br>Não é considerada uma substância de dependência física, mas o uso prolongado sem orientação não é recomendado.</p>
 <p><strong>Posso usar todos os dias?</strong><br>Depende do motivo e do acompanhamento. O uso contínuo deve ser decidido com o médico.</p>

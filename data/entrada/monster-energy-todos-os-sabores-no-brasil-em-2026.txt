@@ -64,6 +64,10 @@ FOTO2_SECAO: 4
 <p>Algumas pessoas notam palpitações e sensação de coração acelerado depois de consumir o produto, mesmo sem doença conhecida. Esse sintoma merece atenção e, se persistir, deve motivar uma avaliação com o médico.</p>
 <p>Pressão alta medida com frequência após o consumo também é informação útil para o profissional, que pode decidir sobre exames complementares.</p>
 
+<p>Ao escolher uma bebida para o dia a dia, considere também a presença de açúcar, o volume e a frequência de consumo. Esses fatores, somados, pesam tanto quanto o sabor escolhido.</p>
+<p>Água, chá sem açúcar e café em quantidade moderada costumam ser opções mais previsíveis para quem precisa de disposição sem efeitos indesejados.</p>
+<p>Se a sensação de cansaço persiste, a conversa com o profissional sobre sono e rotina é mais produtiva do que o aumento do consumo de estimulantes.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Energético sem açúcar é mais seguro?</strong><br>Não necessariamente. A cafeína continua presente e seus efeitos no coração e no sono permanecem.</p>
 <p><strong>Quanto é seguro consumir?</strong><br>A tolerância varia de pessoa para pessoa. Em caso de dúvida, o ideal é conversar com um médico, sobretudo se houver condições de saúde.</p>
@@ -78,6 +82,8 @@ FOTO2_SECAO: 4
 <p>O médico pode avaliar pressão, coração e hábitos, e orientar o uso com segurança. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
 <p>Na prática, a melhor escolha para energia costuma ser uma rotina de sono regular, alimentação equilibrada e água ao longo do dia, combinadas com a atenção aos sinais que o corpo envia.</p>
+
+<p>Em casos de dúvida sobre o próprio consumo, um registro simples de quantas bebidas são ingeridas por dia e em que horários já oferece uma base objetiva para a conversa com o profissional.</p>
 
 <h2>Resumindo</h2>
 <p>Os energéticos de diferentes sabores têm, em geral, a mesma base de cafeína e estimulantes. Eles podem afetar pressão, batimentos e sono, com riscos maiores para pessoas com doenças cardíacas, gestantes e crianças.</p>

@@ -70,6 +70,9 @@ FOTO2_SECAO: 4
 <p>Quem quer perder peso pode se beneficiar de metas realistas, acompanhamento com nutricionista e, quando indicado, apoio psicológico, especialmente em situações de compulsão alimentar ou de ansiedade ligada à comida.</p>
 <p>Para entender os princípios de uma mudança sustentável, o texto sobre <a href="/quero-emagrecer/">quero emagrecer</a> pode servir de ponto de partida, sempre com acompanhamento profissional.</p>
 
+<p>Um sinal de alerta frequente é a propaganda que trata a obesidade como problema de estética ou de força de vontade. A obesidade é uma condição de saúde complexa, e o tratamento deve ser conduzido por profissionais.</p>
+<p>Por isso, a busca por soluções rápidas costuma levar a riscos desnecessários, enquanto o acompanhamento estruturado oferece caminhos mais seguros, ainda que mais graduais.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Manipulado para emagrecer é seguro?</strong><br>Depende da composição, da dose e da condição de quem usa. Não é possível afirmar segurança sem avaliação profissional.</p>
 <p><strong>Farmácia de manipulação precisa de receita?</strong><br>Sim, em geral a preparação parte de prescrição, e a orientação técnica faz parte do processo.</p>
@@ -82,6 +85,10 @@ FOTO2_SECAO: 4
 <h2>Quando procurar um médico</h2>
 <p>Procure atendimento de urgência se houver palpitações, dor no peito, falta de ar, desmaio, vômitos persistentes, confusão ou sinais de desidratação. Também é importante buscar orientação antes de qualquer uso em caso de doença do coração, pressão alta, diabetes, problemas renais ou hepáticos, gravidez ou uso contínuo de medicamentos.</p>
 <p>Quem deseja perder peso deve passar por avaliação clínica, que pode incluir exames e uma conversa sobre hábitos. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+
+<p>Também vale desconfiar de qualquer oferta que dispense consulta, exames ou acompanhamento. Um atendimento responsável começa com perguntas sobre a sua saúde, e não com a venda imediata de uma fórmula.</p>
+
+<p>Em caso de dúvida sobre qualquer produto, a melhor pergunta a fazer é se ele foi indicado para você, por quem e com que acompanhamento previsto.</p>
 
 <h2>Resumindo</h2>
 <p>Os manipulados para emagrecer podem apresentar riscos cardíacos, digestivos, metabólicos e de interação com medicamentos, além de problemas de dosagem e de procedência. A Anvisa tem reforçado restrições e alertas sobre fórmulas desse tipo.</p>

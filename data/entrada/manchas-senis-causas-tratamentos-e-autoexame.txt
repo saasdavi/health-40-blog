@@ -72,6 +72,9 @@ FOTO2_SECAO: 4
 <p>Quando a mancha está em uma área de atrito, como a mão que segura objetos, ou sofre irritação repetida, vale observar se há descamação ou coceira, pois a inflamação pode alterar a aparência da lesão.</p>
 <p>Nesses casos, uma avaliação dermatológica permite distinguir a mancha benigna de outras alterações que exigem seguimento, sem depender de comparações feitas na internet.</p>
 
+<p>Algumas pessoas recorrem a tratamentos caseiros com vinagre, limão ou bicarbonato, na esperança de clarear a mancha. Essas receitas não têm comprovação e podem causar queimaduras químicas e manchas ainda mais escuras.</p>
+<p>Diante de qualquer dúvida, a melhor conduta é a consulta com o dermatologista, que oferece segurança e alternativas adequadas ao tipo de pele.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Manchas senis são perigosas?</strong><br>Na maioria dos casos, não. Mesmo assim, qualquer mudança de forma, cor ou tamanho deve ser avaliada.</p>
 <p><strong>Elas podem sumir sozinhas?</strong><br>Em geral não desaparecem por conta própria, mas podem clarear com o tempo se a exposição solar diminuir.</p>
@@ -81,6 +84,8 @@ FOTO2_SECAO: 4
 <h2>Quando procurar um médico</h2>
 <p>Procure um dermatologista se alguma mancha crescer, mudar de cor, sangrar, coçar, ulcerar ou não cicatrizar. Também vale a consulta se você notar manchas diferentes das habituais ou se tiver histórico de câncer de pele na família.</p>
 <p>O especialista faz a avaliação clínica e, quando necessário, indica exame de imagem ou biópsia. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+
+<p>Quando o dermatologista identifica uma mancha benigna, a orientação costuma ser de acompanhamento e de proteção solar. Essa conduta simples evita intervenções desnecessárias e mantém a atenção voltada a sinais de mudança.</p>
 
 <h2>Resumindo</h2>
 <p>As manchas senis são resultado principalmente da exposição solar acumulada e do envelhecimento da pele. Em geral são benignas, mas precisam ser distinguidas de lesões que exigem tratamento precoce.</p>

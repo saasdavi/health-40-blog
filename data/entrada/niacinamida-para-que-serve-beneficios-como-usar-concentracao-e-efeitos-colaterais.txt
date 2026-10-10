@@ -70,6 +70,9 @@ FOTO2_SECAO: 4
 <p>Ao trocar de produto, introduza a nova fórmula de forma gradual e mantenha a anterior por alguns dias, se possível. Essa transição facilita identificar qual ingrediente causou a reação, caso ela aconteça.</p>
 <p>Se a irritação for forte, interrompa todos os produtos novos e procure orientação antes de retomar qualquer ativo.</p>
 
+<p>Muitas pessoas perguntam se é preciso usar a niacinamida todos os dias. A resposta depende do objetivo e da tolerância da pele, e o rótulo deve ser a primeira referência, seguida da orientação profissional.</p>
+<p>Em peles que já usam muitos produtos, reduzir a quantidade de itens na rotina costuma ser mais eficaz do que acrescentar mais um ativo ao conjunto.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Niacinamida pode ser usada por todos?</strong><br>Em geral, é bem tolerada, mas pessoas com pele muito sensível devem começar com cautela.</p>
 <p><strong>Quanto tempo leva para notar efeito?</strong><br>Os efeitos são graduais e variam conforme o produto e a pele. Não existe um prazo fixo para todos.</p>
@@ -84,6 +87,10 @@ FOTO2_SECAO: 4
 <p>O especialista pode indicar o produto mais adequado e orientar o uso com segurança. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
 <p>Com paciência e observação, a niacinamida pode fazer parte de uma rotina simples de cuidados com a pele, desde que a escolha seja adequada ao seu perfil e acompanhada de proteção solar.</p>
+
+<p>Se a pele for muito reativa, ou se o uso de ativos já causou irritações antes, a avaliação com dermatologista ajuda a montar uma rotina mais simples e segura.</p>
+
+<p>Vale lembrar que a escolha de um cosmético deve considerar também o orçamento e a facilidade de manter a rotina, pois um produto abandonado logo no início não traz benefício algum.</p>
 
 <h2>Resumindo</h2>
 <p>A niacinamida é uma forma da vitamina B3 usada em cosméticos para apoiar a barreira da pele, a oleosidade e a aparência de manchas, com resultados graduais. Seu efeito depende da concentração, da fórmula e da tolerância de cada pessoa.</p>

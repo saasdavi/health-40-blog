@@ -30,7 +30,7 @@ FOTO2_SECAO: 4
 <li>Couro cabeludo sem coceira intensa, vermelhidão ou descamação.</li>
 <li>Melhora gradual quando a rotina se torna mais equilibrada.</li>
 </ul>
-<p>Esses sinais orientam a investigação, mas não substituem a avaliação médica. Se algum deles não se encaixar, o caminho mais seguro é procurar um dermatologista.</p>
+<p>Esses sinais orientam a investigação, mas não substituem a avaliação médica. Muitas pessoas acreditam que basta sentir-se mais calmas para o cabelo voltar de imediato, o que nem sempre acontece, pois os fios seguem o próprio ritmo de crescimento. Se algum deles não se encaixar, o caminho mais seguro é procurar um dermatologista.</p>
 
 <h2>O papel do sono e da rotina noturna</h2>
 <p>Dormir pouco ou com interrupções frequentes é um dos fatores que mais agravam o estresse. Durante o sono, o organismo se recupera e regula hormônios importantes. Quando essa recuperação falha, a sensação de cansaço aumenta e o corpo fica mais vulnerável às alterações do ciclo capilar.</p>
@@ -41,7 +41,7 @@ FOTO2_SECAO: 4
 <p>Uma alimentação regular dá ao corpo a matéria-prima necessária para a renovação dos fios. Proteínas, vegetais, fontes de ferro e de zinco e gorduras de boa qualidade costumam compor uma base adequada. Refeições puladas e dietas muito restritivas aumentam o estresse fisiológico e atrapalham a recuperação.</p>
 <p>O consumo de cafeína e de álcool também merece atenção, pois ambos podem atrapalhar o sono e a ansiedade. Não é necessário eliminar tudo, mas observar a quantidade e o horário faz diferença para muitas pessoas.</p>
 <p>Se houver suspeita de carência nutricional, a avaliação deve ser feita com exames, e a reposição só deve ser iniciada com orientação do médico.</p>
-<p>Na rotina do dia a dia, levar uma refeição equilibrada para o trabalho e manter água por perto ajudam a evitar longos períodos sem comer, que podem aumentar a irritabilidade e a sensação de cansaço. Pequenos ajustes como esses, repetidos com constância, fazem diferença no conjunto.</p>
+<p>Na rotina do dia a dia, vale lembrar que cada pequeno cuidado conta. Levar uma refeição equilibrada para o trabalho e manter água por perto ajudam a evitar longos períodos sem comer, que podem aumentar a irritabilidade e a sensação de cansaço. Pequenos ajustes como esses, repetidos com constância, fazem diferença no conjunto.</p>
 
 <h2>Cuidados com o couro cabeludo e os fios</h2>
 <p>Durante o período de queda, o couro cabeludo precisa de cuidados suaves. Lavar com xampu adequado ao tipo de cabelo, evitar produtos muito agressivos e secar sem fricção ajudam a manter o ambiente saudável para os fios novos.</p>

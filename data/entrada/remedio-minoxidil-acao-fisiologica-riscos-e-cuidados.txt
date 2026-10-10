@@ -65,7 +65,7 @@ FOTO2_SECAO: 4
 <h2>Quando procurar um médico</h2>
 <p>Procure atendimento antes de iniciar o uso se houver pressão alta, doença do coração, alterações renais ou se você usa outros medicamentos. Também é importante buscar orientação se surgirem tontura, palpitações, inchaço, dor no peito, falta de ar ou coceira intensa após o uso.</p>
 <p>O dermatologista ou o médico pode avaliar a causa da queda, solicitar exames e discutir se o uso é adequado. Quem decide sobre o tratamento é o profissional que acompanha o caso.</p>
-<p><p>Ao procurar a consulta, leve a lista de medicamentos, as dúvidas anotadas e o histórico de queda, pois isso torna o atendimento mais objetivo.</p>
+<p>Ao procurar a consulta, leve a lista de medicamentos, as dúvidas anotadas e o histórico de queda, pois isso torna o atendimento mais objetivo.</p>
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
 <h2>Resumindo</h2>

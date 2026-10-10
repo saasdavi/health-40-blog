@@ -78,6 +78,9 @@ FOTO2_SECAO: 4
 <p>Se você cozinha para a família inteira, inclua pelo menos uma receita que todos gostem. Isso aumenta a adesão ao plano e evita a sensação de que a rotina é apenas uma restrição individual.</p>
 <p>Registrar o que foi consumido e o que sobrou durante a semana também ajuda a ajustar as porções na semana seguinte, sem precisar contar cada detalhe.</p>
 
+<p>Se a rotina ficar muito pesada, reduza o número de receitas e priorize as que rendem mais porções. Um cardápio menor, repetido com pequenas variações, costuma ser mais fácil de manter do que um plano extenso.</p>
+<p>Em semanas corridas, vale recorrer a alimentos prontos de boa qualidade, como legumes congelados sem molho e grãos cozidos, para completar o prato sem abandonar a proposta.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Quanto tempo a marmita dura na geladeira?</strong><br>Em geral, poucos dias. Para um prazo maior, o congelamento é a melhor opção.</p>
 <p><strong>Posso congelar arroz e feijão?</strong><br>Sim, em porções individuais, e aquecidos até ficar bem quentes.</p>

@@ -75,6 +75,9 @@ FOTO2_SECAO: 4
 <p>Quem sente dor de cabeça tensional pode notar alívio com a massagem do pescoço e da região da nuca. Ainda assim, dores frequentes ou intensas merecem avaliação médica, já que têm causas diversas.</p>
 <p>A massagem nunca substitui o tratamento de condições da coluna, da circulação ou da pele, mas pode ser um complemento agradável ao plano definido pelo profissional.</p>
 
+<p>Para quem tem couro cabeludo oleoso, a massagem pode ser feita com produto leve e lavagem logo em seguida. Já em peles secas, óleos vegetais em pouca quantidade costumam trazer mais conforto, desde que não causem irritação.</p>
+<p>Em qualquer tipo de pele, a sensação de desconforto é o sinal mais útil para ajustar a técnica, o produto e a frequência da prática.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>A massagem capilar faz o cabelo crescer?</strong><br>Não há evidência sólida de que isso aconteça. O benefício mais claro é o relaxamento.</p>
 <p><strong>Com que frequência posso fazer?</strong><br>Não há regra única. Muitas pessoas praticam algumas vezes por semana, sem exagero, e observam como o couro cabeludo reage.</p>
@@ -86,6 +89,8 @@ FOTO2_SECAO: 4
 <p>O especialista avalia o couro cabeludo e orienta se a massagem é indicada. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
 <p>Para quem gosta da prática, o ponto de equilíbrio está em usar a massagem como momento de cuidado e relaxamento, sem esperar efeitos que a ciência ainda não confirmou e sem ignorar sinais de alerta no couro cabeludo.</p>
+
+<p>Se a massagem fizer parte da rotina de autocuidado, ela pode acompanhar outras práticas saudáveis, como sono regular e atividade física, sem substituir nenhuma delas.</p>
 
 <h2>Resumindo</h2>
 <p>A massagem capilar pode trazer relaxamento e bem-estar quando feita com suavidade e em um couro cabeludo saudável. Os benefícios para o crescimento dos fios ainda não estão comprovados, e há contraindicações importantes em caso de feridas, infecções e inflamações.</p>

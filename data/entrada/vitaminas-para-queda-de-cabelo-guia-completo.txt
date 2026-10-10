@@ -44,7 +44,9 @@ FOTO2_SECAO: 4
 
 <p>O ferro é um dos nutrientes com maior relação com a queda difusa, principalmente em mulheres. Perdas menstruais intensas, dietas pobres em carnes e alimentos fortificados e gestação podem reduzir as reservas do organismo.</p>
 
-<p>A ferritina é o exame que mostra essas reservas, muitas vezes antes de surgir anemia. Além disso, o resultado precisa ser lido junto com o quadro clínico, e não isoladamente. Quando o valor está baixo, a conduta é definida pelo médico, que avalia a causa da perda ou da baixa ingestão.</p>
+<p>A ferritina é o exame que mostra essas reservas, muitas vezes antes de surgir anemia. Além disso, o resultado precisa ser lido junto com o quadro clínico, e não isoladamente.</p>
+
+<p>Quando o valor está baixo, a conduta é definida pelo médico, que avalia a causa da perda ou da baixa ingestão.</p>
 
 <p>Sem exame, a reposição pode ser inadequada. Ferro em excesso também acumula no organismo e causa problemas, por isso a decisão deve ser individual.</p>
 

@@ -68,6 +68,11 @@ FOTO2_SECAO: 4
 <p>Mulheres grávidas e no pós-parto costumam relatar obstipação com frequência. Nesses períodos, a alimentação e a hidratação continuam importantes, e o médico pode orientar o que é seguro em cada fase.</p>
 <p>Após cirurgias, o uso de certos analgésicos e a menor mobilidade também favorecem a constipação, e a equipe de saúde deve ser informada sobre essa possibilidade.</p>
 
+<p>Algumas pessoas se preocupam porque sentem falta de evacuar por um ou dois dias, sem outros sintomas. Nessa situação, observar a hidratação e a alimentação do período costuma ser suficiente, desde que o quadro não se prolongue.</p>
+<p>Se a pausa se tornar frequente, ou se houver dor e inchaço, o acompanhamento médico passa a ser recomendado.</p>
+
+<p>Quando o problema se repete, vale registrar o que mudou na semana anterior, como viagens, estresse, remédios novos ou alteração de horário. Esse histórico costuma acelerar o diagnóstico e a escolha do tratamento.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Obstipação é sempre grave?</strong><br>Na maioria das vezes, não. Ainda assim, a persistência ou a mudança de padrão exige avaliação.</p>
 <p><strong>Fibras resolvem sozinhas?</strong><br>Ajudam em muitos casos, mas nem sempre bastam, sobretudo se houver outras causas ou remédios envolvidos.</p>
@@ -84,6 +89,8 @@ FOTO2_SECAO: 4
 <p>Na maioria dos casos, a melhora vem de uma combinação de fibras, água, movimento e rotina regular. Quando isso não basta, ou quando há sinais de alerta, a avaliação médica é o caminho seguro.</p>
 
 <p>Também vale lembrar que o intestino é sensível ao estado geral do corpo. Sono ruim, estresse e pouca atividade costumam aparecer junto da constipação, e tratá-los em conjunto traz resultados mais consistentes.</p>
+
+<p>Vale ainda lembrar que a melhora do intestino costuma levar algumas semanas. Mudanças pequenas e consistentes tendem a funcionar melhor do que tentativas intensas por poucos dias, que podem gerar desconforto.</p>
 
 <h2>Resumindo</h2>
 <p>A obstipação intestinal é a dificuldade de evacuar com regularidade, com fezes duras ou esforço. Costuma ter causas combinadas, como pouca fibra, pouca água, sedentarismo, adiamento da vontade e certos remédios ou doenças.</p>

@@ -65,6 +65,12 @@ FOTO2_SECAO: 4
 <p>A comparação entre formas também depende do objetivo. Para quem busca apenas um efeito intestinal, o óxido pode ser uma opção de uso pontual. Para quem precisa repor o mineral com mais absorção, outras formas costumam ser consideradas pelo profissional.</p>
 <p>Em qualquer dos casos, a decisão deve considerar exames, histórico e medicamentos, e não a leitura isolada de um rótulo.</p>
 
+<p>Em idosos, a combinação de uso de vários medicamentos e redução da função renal exige cuidado extra. Antes de qualquer produto com óxido de magnésio, o médico deve avaliar exames e remédios em uso.</p>
+<p>Quem já tem diarreia crônica ou desidratação recorrente deve evitar o uso sem orientação, já que o efeito laxante pode agravar esses quadros.</p>
+
+<p>Se houver dúvida entre o óxido e outra forma, a melhor pergunta a fazer é qual objetivo se quer alcançar e qual efeito é aceitável. Essa definição orienta a escolha de forma mais segura do que comparar apenas preços.</p>
+<p>Em caso de dúvidas sobre o rótulo, o farmacêutico pode esclarecer a quantidade de magnésio elementar e a forma de uso indicada pelo fabricante.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Óxido de magnésio é o mesmo que magnésio?</strong><br>É uma forma do mineral. A quantidade absorvida difere das outras formas.</p>
 <p><strong>Serve para acidez no estômago?</strong><br>Alguns antiácidos o contêm, mas sintomas frequentes de azia devem ser avaliados por um médico.</p>
@@ -79,6 +85,8 @@ FOTO2_SECAO: 4
 <p>O profissional pode indicar a forma mais adequada, se houver real necessidade, e definir o tempo de uso. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
 <p>Escolher bem exige olhar para a finalidade, a tolerância, a função renal e os medicamentos em uso. Uma conversa com o médico ou com o farmacêutico antes do primeiro uso evita a maior parte dos problemas.</p>
+
+<p>Se o objetivo for melhorar a digestão ou o intestino, há estratégias alimentares e de estilo de vida que devem ser consideradas primeiro, com o suplemento como recurso complementar, quando indicado.</p>
 
 <h2>Resumindo</h2>
 <p>O óxido de magnésio é uma forma do mineral com alto teor, mas absorção geralmente menor do que outras formas. Ele é usado em suplementos, em produtos com efeito laxante e em alguns antiácidos, e costuma causar diarreia e cólicas em doses maiores.</p>

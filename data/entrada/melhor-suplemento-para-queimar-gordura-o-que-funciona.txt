@@ -61,6 +61,9 @@ FOTO2_SECAO: 4
 <p>Quando a perda de peso vem acompanhada de cansaço, tontura, queda de cabelo ou alterações do humor, o quadro merece investigação. Essas queixas podem indicar desequilíbrios que não se resolvem com produtos de emagrecimento.</p>
 <p>Também é importante lembrar que a perda de peso rápida e sem orientação pode levar à perda de massa muscular, o que reduz a força e prejudica a saúde a longo prazo.</p>
 
+<p>Quem treina com frequência pode se sentir tentado a usar estimulantes para render mais. Antes disso, vale avaliar o sono, a recuperação e a alimentação pré e pós-treino, que costumam ter papel maior no desempenho.</p>
+<p>Se o objetivo é perder gordura, a combinação de treino de força e alimentação com proteína adequada tende a preservar a massa magra enquanto o peso diminui.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Existe suplemento que reduz gordura de verdade?</strong><br>As evidências são fracas e não sustentam uma recomendação geral. Nenhum produto substitui alimentação e atividade física.</p>
 <p><strong>Termogênico é seguro?</strong><br>Não há como afirmar segurança, e os estimulantes podem causar efeitos importantes no coração e no sistema nervoso.</p>
@@ -74,6 +77,10 @@ FOTO2_SECAO: 4
 <p>O profissional pode avaliar o peso, a cintura e os exames, além de orientar o plano mais seguro. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
 <p>Uma estratégia realista costuma começar com metas pequenas, medição periódica e revisões com o profissional. Esse caminho é mais lento, porém mais previsível e menos arriscado.</p>
+
+<p>Ao longo desse processo, registre o progresso com medidas como a cintura, a disposição e a qualidade do sono. Esses sinais contam uma história mais completa do que a balança isolada.</p>
+
+<p>Vale lembrar que mudanças sustentáveis costumam ser mais simples do que parecem. Elas começam com uma decisão pequena, repetida todos os dias, e com o apoio de um profissional que acompanha o caminho.</p>
 
 <h2>Resumindo</h2>
 <p>Não há suplemento capaz de substituir alimentação equilibrada, atividade física regular e sono adequado para reduzir gordura. As evidências para a maioria dos produtos são fracas, e os termogênicos apresentam riscos relevantes para o coração e o sistema nervoso.</p>
