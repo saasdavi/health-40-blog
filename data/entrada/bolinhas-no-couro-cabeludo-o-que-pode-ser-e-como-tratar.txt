@@ -1,218 +1,69 @@
 PALAVRA_CHAVE: bolinhas no couro cabeludo
-TITLE: Bolinhas no Couro Cabeludo: O Que Pode Ser e Como Tratar
-DESCRIPTION: Entenda o que são bolinhas no couro cabeludo, diferenças entre foliculite, dermatite e psoríase, riscos de receitas caseiras e quando podem causar queda.
-FONTE: anaisdedermatologia.org.br | https://anaisdedermatologia.org.br
+TITLE: Bolinhas no couro cabeludo: o que pode ser e quando agir
+DESCRIPTION: Bolinhas no couro cabeludo: veja as causas mais comuns, os sinais que pedem atenção e quando procurar um dermatologista para avaliar o caso com segurança.
+FONTE: Anais Brasileiros de Dermatologia | https://anaisdedermatologia.org.br
 FONTE: Governo Federal | https://www.gov.br
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
-CAPA_BUSCA: woman hair care brush
-CAPA_ALT: Cuidados com os cabelos sobre bolinhas no couro cabeludo
-FOTO1_BUSCA: dermatologist scalp examination
-FOTO1_ALT: Avaliação do couro cabeludo relacionado a bolinhas no couro cabeludo
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+CAPA_BUSCA: scalp close up hair care
+CAPA_ALT: Close do couro cabeludo com cabelo castanho, ilustrando bolinhas no couro cabeludo
+FOTO1_BUSCA: dermatologist examining scalp
+FOTO1_ALT: Dermatologista examinando o couro cabeludo de uma paciente, tema das bolinhas no couro cabeludo
+FOTO1_LEGENDA: Só a avaliação presencial permite identificar a origem das lesões
 FOTO1_SECAO: 2
+FOTO2_BUSCA: hair brush and bathroom
+FOTO2_ALT: Escova de cabelo e produtos de higiene capilar, relacionados aos cuidados com o couro cabeludo
+FOTO2_LEGENDA: Higiene adequada ajuda, mas não substitui uma avaliação
+FOTO2_SECAO: 4
 ---
-<div id="container-imagem-capa" class="loading">Carregando imagem...</div>
+<p>Bolinhas no couro cabeludo podem surgir como pequenos caroços, espinhas, pontos avermelhados ou elevações que coçam ou doem ao toque. Na maioria das vezes, a causa é benigna e relacionada à oleosidade, à inflamação dos folículos ou a pequenas irritações. Ainda assim, algumas lesões precisam de avaliação, e a origem só pode ser definida por um profissional que examine a região.</p>
 
-<p>As <strong>bolinhas no couro cabeludo</strong> são uma queixa frequente em consultórios dermatológicos e podem ter causas muito diferentes entre si. Elas variam de espinhas comuns a infecções bacterianas, inflamações crônicas e doenças autoimunes. A maioria é tratável e não deixa sequelas, mas algumas formas — como a foliculite decalvante — podem evoluir para alopecia cicatricial permanente se não forem diagnosticadas precocemente. O autodiagnóstico e o uso de receitas caseiras ácidas, como limão ou alho, são armadilhas que podem queimar o couro cabeludo e agravar o quadro. Este artigo explica as principais causas, como diferenciar as lesões, quando elas podem causar queda de cabelo, os riscos da automedicação e as medidas de higiene que previnem a reinfecção.</p>
+<h2>Principais causas das bolinhas no couro cabeludo</h2>
+<p>O couro cabeludo tem muitos folículos pilosos e glândulas sebáceas, o que o torna sujeito a diferentes tipos de elevação. Entre as causas mais comuns estão a foliculite, que é a inflamação de um folículo, geralmente causada por bactérias, e os cistos sebáceos, pequenos nódulos formados por acúmulo de oleosidade. A dermatite seborreica também pode gerar placas e pontos vermelhos com descamação.</p>
+<p>Outras possibilidades incluem reações a produtos de cabelo, picadas de insetos e pequenas feridas causadas por coçar ou arranhar a região. Em algumas pessoas, a acne que aparece na nuca ou na linha do cabelo pode se estender até o couro cabeludo. Como são condições diferentes, cada uma pede um tipo de cuidado.</p>
+<p>Por isso, bolinhas parecidas podem ter origens muito diferentes. Um mesmo sintoma pode ser causado por algo leve e passageiro ou por uma condição que precisa de tratamento específico, e apenas a avaliação clínica consegue separar um caso do outro.</p>
 
-<h2>O Que São as Bolinhas no Couro Cabeludo?</h2>
-
-<p>As bolinhas no couro cabeludo são lesões elevadas que podem ser vermelhas, brancas, com ou sem pus. Elas podem coçar, doer ou queimar. A causa depende do tipo de inflamação: bacteriana, fúngica, alérgica ou autoimune.</p>
-
-<p>A inflamação pode atingir o folículo piloso (foliculite), a glândula sebácea (dermatite seborreica), a pele do couro cabeludo (psoríase ou dermatite de contato) ou a região da nuca (acne keloidalis). Cada quadro tem características próprias e exige tratamento específico.</p>
-
-<p>É importante não confundir as bolinhas com a queda de cabelo. As bolinhas são um sinal de inflamação. A queda pode ocorrer como consequência, quando a inflamação é intensa ou prolongada e atinge o folículo.</p>
-
-<div id="container-imagem-1" class="loading">Carregando imagem...</div>
-
-<h2>O Que Pode Ser Bolinhas que Coçam e Doem no Couro Cabeludo?</h2>
-
-<p>As causas mais comuns são foliculite, dermatite seborreica, psoríase, dermatite de contato, acne keloidalis nuchae e foliculite decalvante. Cada uma tem sintomas e localizações características.</p>
-
-<h3>Foliculite Capilar</h3>
-
-<p>A foliculite é a inflamação do folículo piloso, geralmente causada por bactérias, especialmente Staphylococcus aureus. Ela se manifesta como bolinhas vermelhas ou com pus ao redor dos fios, que podem doer e coçar. É comum após barbear, uso de bonés apertados ou excesso de oleosidade.</p>
-
-<p>A foliculite simples costuma resolver com higienização adequada e produtos antissépticos. Casos mais extensos podem exigir antibiótico tópico ou oral, sempre com prescrição médica.</p>
-
-<h3>Dermatite Seborreica</h3>
-
-<p>A dermatite seborreica é uma inflamação crônica do couro cabeludo causada pela proliferação do fungo Malassezia e pela resposta inflamatória do hospedeiro. Ela se manifesta como descamação (caspa), vermelhidão e, em alguns casos, bolinhas pequenas que coçam.</p>
-
-<p>O tratamento inclui xampus antifúngicos com cetoconazol, zinco piritiona ou ácido salicílico. A condição é crônica e exige manutenção, mas não causa queda permanente.</p>
-
-<h3>Psoríase no Couro Cabeludo</h3>
-
-<p>A psoríase é uma doença autoimune que causa placas avermelhadas e descamativas, com escamas espessas. No couro cabeludo, pode formar bolinhas e placas que coçam intensamente. A psoríase não é contagiosa e tem componente genético.</p>
-
-<p>O tratamento envolve corticoides tópicos, análogos da vitamina D e, em casos graves, medicamentos sistêmicos. A avaliação dermatológica é indispensável.</p>
-
-<h3>Dermatite de Contato</h3>
-
-<p>A dermatite de contato é uma reação alérgica ou irritativa a produtos capilares, como tinturas, shampoos, condicionadores e leave-in. Ela causa vermelhidão, coceira, ardência e bolinhas no couro cabeludo.</p>
-
-<p>O tratamento consiste em suspender o produto causador, usar loções calmantes e, em casos mais intensos, corticoides tópicos por curto prazo.</p>
-
-<h3>Acne Keloidalis Nuchae</h3>
-
-<p>A acne keloidalis nuchae é uma inflamação crônica da nuca, mais comum em homens negros que fazem a barba ou o corte com máquina. Ela causa bolinhas firmes, às vezes com pus, que podem evoluir para cicatrizes e queda permanente.</p>
-
-<p>O tratamento envolve antibióticos tópicos ou orais, corticoides e, em casos avançados, intervenção cirúrgica ou laser.</p>
-
-<h3>Foliculite Decalvante</h3>
-
-<p>A foliculite decalvante é uma forma rara e grave de inflamação crônica do folículo. Ela começa com bolinhas e pústulas que evoluem para placas de alopecia cicatricial. Se não for tratada precocemente, a perda de cabelo é permanente.</p>
-
-<p>O diagnóstico é clínico e, às vezes, confirmado por biópsia. O tratamento inclui antibióticos, corticoides e, em alguns casos, imunossupressores. A avaliação dermatológica precoce é essencial.</p>
-
-<h3>Tabela: Diferenças Entre Espinha Comum, Foliculite e Dermatite de Contato</h3>
-
-<table>
-<thead>
-<tr>
-<th>Característica</th>
-<th>Espinha Comum (acne)</th>
-<th>Foliculite</th>
-<th>Dermatite de Contato</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Aspecto</td>
-<td>Bolinha com ponto branco ou preto</td>
-<td>Bolinha vermelha ou com pus ao redor do fio</td>
-<td>Vermelhidão difusa, bolinhas pequenas</td>
-</tr>
-<tr>
-<td>Localização</td>
-<td>Rosto, costas, ombros</td>
-<td>Couro cabeludo, barba, pernas</td>
-<td>Área de contato com o produto</td>
-</tr>
-<tr>
-<td>Sintomas</td>
-<td>Dor leve, sem coceira intensa</td>
-<td>Dor, coceira, queimação</td>
-<td>Coceira, ardência, descamação</td>
-</tr>
-<tr>
-<td>Causa</td>
-<td>Obstrução do folículo por sebo</td>
-<td>Infecção bacteriana ou fúngica</td>
-<td>Alergia ou irritação a produto</td>
-</tr>
-<tr>
-<td>Tratamento</td>
-<td>Ácido salicílico, peróxido de benzoíla</td>
-<td>Antisséptico, antibiótico tópico</td>
-<td>Suspender produto, corticoide tópico</td>
-</tr>
-</tbody>
-</table>
-
-<div id="container-imagem-2" class="loading">Carregando imagem...</div>
-
-<h2>Como Tratar Foliculite ou Espinhas na Cabeça de Forma Rápida?</h2>
-
-<p>O tratamento depende da causa, mas algumas medidas gerais ajudam a controlar o quadro e acelerar a recuperação.</p>
-
+<h2>Sinais que pedem atenção</h2>
+<p>Nem toda bolinha exige consulta imediata, mas alguns sinais mudam a prioridade. Lesões que crescem rapidamente, mudam de cor, sangram sem motivo ou não cicatrizam em algumas semanas devem ser examinadas. O mesmo vale para caroços muito dolorosos, com secreção purulenta ou acompanhados de febre.</p>
 <ul>
-<li><strong>Higienização adequada:</strong> lave o couro cabeludo com shampoo suave, de pH fisiológico, e evite esfregar com força.</li>
-<li><strong>Não coçar nem espremer:</strong> coçar e espremer as lesões agrava a inflamação e pode causar infecção secundária.</li>
-<li><strong>Evitar bonés e capacetes abafados:</strong> o calor e a umidade favorecem a proliferação bacteriana.</li>
-<li><strong>Usar produtos não comedogênicos:</strong> evite óleos pesados e pomadas que obstruem os folículos.</li>
-<li><strong>Antissépticos tópicos:</strong> sabonetes com clorexidina ou triclosan podem ajudar, mas não substituem o tratamento médico.</li>
-<li><strong>Antibióticos tópicos:</strong> apenas com prescrição médica, para casos bacterianos.</li>
+<li>Crescimento rápido ou mudança de cor e formato.</li>
+<li>Sangramento espontâneo ou feridas que não cicatrizam.</li>
+<li>Dor intensa, calor local e pus.</li>
+<li>Queda de cabelo na área afetada.</li>
+<li>Febre ou mal-estar associado às lesões.</li>
 </ul>
+<p>A queda de cabelo em áreas específicas é um sinal que merece investigação, porque algumas inflamações do couro cabeludo afetam os folículos e podem deixar falhas permanentes se não forem tratadas a tempo.</p>
 
-<p>Se as bolinhas persistirem por mais de uma semana, piorarem ou vierem acompanhadas de queda de cabelo, a avaliação dermatológica é indispensável.</p>
+<h2>Como a higiene pode ajudar no dia a dia</h2>
+<p>Manter o couro cabeludo limpo, sem excesso de oleosidade, faz diferença na prevenção de muitas inflamações. Lavar o cabelo com a frequência adequada ao seu tipo de pele e enxaguar bem os produtos reduz o acúmulo de resíduos que podem irritar os folículos. Evitar pentear com força e não dormir com o cabelo molhado também ajuda.</p>
+<p>Também é útil evitar apertar, espremer ou cutucar as bolinhas. Essa atitude parece inofensiva, mas aumenta o risco de infecção, de cicatrizes e de manchas. Toalhas, escovas e travesseiros devem ser trocados ou higienizados com regularidade, principalmente quando há lesões.</p>
+<p>Outro cuidado é observar mudanças depois de trocar shampoos, tinturas ou produtos de finalização. Uma irritação de contato pode surgir após um novo produto, e a identificação do gatilho facilita a conversa com o médico. Para entender melhor esse tipo de reação, vale ler sobre <a href="/dermatite-de-contato/">dermatite de contato</a>.</p>
+<p>Uma dica prática é manter um registro simples dos produtos usados nas últimas semanas, com a data de cada troca. Quando as bolinhas aparecem logo depois de um item novo, essa anotação ajuda a identificar o possível gatilho. Retirar o produto suspeito por um tempo e observar a evolução também costuma ser útil, desde que isso seja combinado com o profissional.</p>
 
-<h2>Passar Vinagre de Maçã Ajuda a Sumir com as Bolinhas na Cabeça?</h2>
+<h2>O que o dermatologista costuma avaliar</h2>
+<p>Na consulta, o médico observa o aspecto das lesões, o tempo de evolução, a presença de coceira ou dor e a história de doenças prévias. Também pergunta sobre medicamentos em uso, produtos capilares, alergias e histórico familiar de problemas de pele. Esses dados orientam a suspeita e a necessidade de exames.</p>
+<p>Em alguns casos, o profissional coleta uma amostra da pele ou do fio para análise laboratorial. Esse procedimento é simples e costuma ser feito em consultório, e permite confirmar a origem da lesão com mais segurança. Quando a dúvida é grande, a biópsia pode ser indicada.</p>
+<p>Vale lembrar que lesões na pele também podem aparecer em outras partes do corpo, e o médico pode avaliar a relação entre elas. Algumas alterações de pigmentação, por exemplo, são abordadas no conteúdo sobre <a href="/manchas-na-pele/">manchas na pele</a>.</p>
 
-<p>Não há evidência científica de que o vinagre de maçã trate foliculite ou outras causas de bolinhas no couro cabeludo. Ele tem propriedades ácidas e antimicrobianas leves, mas não substitui o tratamento específico.</p>
+<h2>Bolinhas inflamadas e bolinhas que não inflamam</h2>
+<p>Uma forma útil de organizar a observação é separar as lesões que estão inflamadas das que não estão. Bolinhas inflamadas costumam ser vermelhas, quentes e doloridas, e podem conter pus. Elas tendem a estar associadas a infecções, irritações intensas ou reações do folículo. Já as que não inflamam são geralmente firmes, indolores e de cor semelhante à da pele, e costumam relacionar-se a acúmulo de oleosidade ou a pequenos cistos.</p>
+<p>Essa distinção não substitui o exame, mas ajuda a descrever o problema com precisão na consulta. Anotar quando a bolinha apareceu, se ela aumentou, se coça e se houve algum trauma recente torna a conversa com o médico mais objetiva. Fotos tiradas em dias diferentes também podem ajudar a mostrar a evolução.</p>
+<p>Lesões que doem sem motivo aparente, que se multiplicam em pouco tempo ou que deixam marcas duradouras merecem uma avaliação mais cuidadosa. Nesses casos, esperar sem investigar pode atrasar a identificação de um problema que precisa de tratamento específico.</p>
 
-<p>O uso de vinagre de maçã puro ou diluído pode causar irritação, ardência e ressecamento, especialmente em couro cabeludo já inflamado. Em casos de dermatite de contato ou psoríase, o vinagre pode agravar o quadro.</p>
+<h2>O papel da oleosidade e do suor</h2>
+<p>O couro cabeludo produz sebo continuamente, e a quantidade varia conforme hormônios, genética, clima e idade. Quando o sebo se acumula junto com células mortas e resíduos de produtos, pode obstruir a saída do folículo e formar pequenos caroços. Esse processo é comum e, em geral, não traz riscos graves, mas incomoda pela aparência e pela sensação de coceira.</p>
+<p>O suor também participa do quadro. Ficar muito tempo com o cabelo úmido, usar boné ou capacete por longos períodos e praticar exercícios intensos sem lavar a região cria um ambiente que favorece irritações e a proliferação de microrganismos. Enxaguar bem o couro cabeludo após o treino e secar a raiz com cuidado são medidas simples que ajudam bastante.</p>
+<p>Para pessoas acima dos 40 anos, mudanças hormonais e alterações na pele podem modificar a oleosidade e a sensibilidade do couro cabeludo. Por isso, é natural que o padrão de bolinhas mude com o tempo, e essa variação também deve ser comentada com o profissional.</p>
 
-<p>O mesmo vale para outras receitas caseiras ácidas, como limão e alho. Essas substâncias podem queimar a pele, causar fitofotodermatite (quando combinadas com sol) e levar à alopecia permanente. A automedicação com produtos caseiros é um risco real.</p>
+<h2>Perguntas frequentes</h2>
+<p><strong>Bolinhas no couro cabeludo são contagiosas?</strong> Depende da causa. Infecções bacterianas e fúngicas podem se espalhar por contato, por isso higiene e cuidado com objetos de uso pessoal são importantes.</p>
+<p><strong>Espremer ajuda a secar mais rápido?</strong> Não. Espremer aumenta o risco de infecção e de cicatriz, e deve ser evitado.</p>
+<p><strong>Posso usar um produto que vi na internet?</strong> Não sem orientação. Produtos genéricos podem irritar ainda mais a pele ou mascarar o quadro antes da avaliação.</p>
+<p><strong>As bolinhas podem causar queda de cabelo?</strong> Algumas inflamações do couro cabeludo podem afetar os folículos. Por isso, falhas ou queda localizada devem ser avaliadas.</p>
 
-<h2>Quando as Bolinhas no Couro Cabeludo Podem Causar Queda de Cabelo?</h2>
-
-<p>A queda de cabelo associada a bolinhas no couro cabeludo ocorre quando a inflamação atinge o folículo piloso de forma intensa ou prolongada. As causas mais associadas à queda são:</p>
-
-<ul>
-<li><strong>Foliculite decalvante:</strong> inflamação crônica que destrói o folículo e causa alopecia cicatricial permanente.</li>
-<li><strong>Acne keloidalis nuchae:</strong> pode causar cicatrizes e queda permanente na nuca.</li>
-<li><strong>Foliculite bacteriana grave:</strong> quando não tratada, pode evoluir para abscessos e destruição folicular.</li>
-<li><strong>Psoríase grave:</strong> a inflamação intensa pode levar à queda temporária, geralmente reversível com tratamento.</li>
-<li><strong>Dermatite seborreica intensa:</strong> a inflamação crônica pode agravar a queda em pessoas predispostas.</li>
-</ul>
-
-<p>A queda por inflamação geralmente é reversível quando o quadro é tratado precocemente. Nas formas cicatriciais, a perda é permanente. Por isso, a avaliação dermatológica precoce é fundamental.</p>
-
-<div id="container-imagem-3" class="loading">Carregando imagem...</div>
-
-<h2>Como Lavar a Cabeça sem Inflamar?</h2>
-
-<p>A lavagem correta é uma das medidas mais importantes para prevenir e tratar bolinhas no couro cabeludo.</p>
-
-<ul>
-<li><strong>Use água morna ou fria:</strong> água quente agrava a inflamação e resseca a pele.</li>
-<li><strong>Massageie com as pontas dos dedos:</strong> evite unhas e movimentos bruscos.</li>
-<li><strong>Use shampoo de pH fisiológico:</strong> produtos suaves, sem sulfatos agressivos.</li>
-<li><strong>Não deixe resíduos:</strong> enxágue bem para evitar acúmulo de produto.</li>
-<li><strong>Seque sem esfregar:</strong> use toalha de microfibra ou camiseta de algodão.</li>
-<li><strong>Evite prender o cabelo molhado:</strong> a umidade prolongada favorece a proliferação de fungos e bactérias.</li>
-</ul>
-
-<h2>Cuidados com Lâminas, Máquinas e Pentes</h2>
-
-<p>Lâminas de barbear, máquinas de corte e pentes são vetores ocultos de reinfecção por fungos e bactérias. A desinfecção adequada é essencial para prevenir foliculite e outras infecções.</p>
-
-<ul>
-<li><strong>Lâminas de barbear:</strong> troque com frequência e não compartilhe. Após o uso, enxágue e seque bem.</li>
-<li><strong>Máquinas de corte:</strong> remova os resíduos de cabelo e desinfete com álcool isopropílico ou solução antisséptica após cada uso.</li>
-<li><strong>Pentes e escovas:</strong> lave regularmente com água e sabão, e remova os fios acumulados.</li>
-<li><strong>Salões e barbearias:</strong> verifique se os instrumentos são esterilizados entre clientes. A Anvisa exige essa prática.</li>
-</ul>
-
-<h2>Quando Procurar o Dermatologista?</h2>
-
-<p>A avaliação dermatológica é indicada quando:</p>
-
-<ul>
-<li>As bolinhas persistem por mais de uma semana sem melhora.</li>
-<li>Há dor intensa, pus abundante ou febre.</li>
-<li>Surgem placas de queda de cabelo associadas.</li>
-<li>As lesões se espalham rapidamente.</li>
-<li>Há histórico de doenças autoimunes ou imunossupressão.</li>
-<li>Você não tem certeza do diagnóstico e quer evitar complicações.</li>
-</ul>
-
-<p>O diagnóstico correto é essencial para o tratamento adequado. Muitas condições se parecem, mas exigem abordagens diferentes. A tricoscopia digital e, em alguns casos, a biópsia ajudam a confirmar o diagnóstico.</p>
+<h2>Quando procurar um médico</h2>
+<p>Procure um dermatologista se as bolinhas durarem mais de algumas semanas, se voltarem com frequência, se houver dor intensa, pus, febre ou sinais de infecção. Também é importante buscar avaliação se houver queda de cabelo na região, crescimento rápido de uma lesão ou mudança de cor. Pessoas com diabetes, imunossupressão ou outras condições que afetam a cicatrização devem procurar avaliação mais cedo, pois infecções na região podem evoluir de forma diferente.</p>
+<p>Em caso de inchaço que se espalha, vermelhidão que avança ou sintomas gerais, a orientação é procurar atendimento sem demora, em uma unidade de saúde ou pronto-socorro.</p>
 
 <h2>Resumindo</h2>
-
-<p>As bolinhas no couro cabeludo têm diversas causas: foliculite, dermatite seborreica, psoríase, dermatite de contato, acne keloidalis nuchae e foliculite decalvante. Cada uma tem características próprias e exige tratamento específico. A diferenciação entre espinha comum, foliculite e dermatite de contato é essencial para o manejo correto.</p>
-
-<p>A foliculite bacteriana é a causa mais comum e costuma responder a higienização adequada e antissépticos. A dermatite seborreica exige xampus antifúngicos. A psoríase e a foliculite decalvante são condições crônicas que exigem acompanhamento dermatológico.</p>
-
-<p>Receitas caseiras ácidas, como vinagre de maçã, limão e alho, não têm evidência de eficácia e podem queimar o couro cabeludo, causar fitofotodermatite e levar à alopecia permanente. A automedicação é perigosa.</p>
-
-<p>A queda de cabelo associada a bolinhas ocorre quando a inflamação atinge o folículo de forma intensa ou prolongada. Nas formas cicatriciais, a perda é permanente. O diagnóstico precoce é fundamental para evitar sequelas.</p>
-
-<p>A higienização correta, a desinfecção de lâminas e máquinas e a avaliação dermatológica precoce são as melhores medidas de prevenção. Antes de iniciar qualquer tratamento, consulte um dermatologista para diagnóstico correto e plano individualizado.</p>
-
-<h2>Fontes</h2>
-<ul>
-<li>MSD Manuals. Foliculite — Distúrbios da pele. <a href="https://www.msdmanuals.com/pt/casa/distúrbios-da-pele/infecções-bacterianas-da-pele/foliculite" target="_blank" rel="noopener">https://www.msdmanuals.com/pt/casa/distúrbios-da-pele/infecções-bacterianas-da-pele/foliculite</a></li>
-<li>Anais Brasileiros de Dermatologia. Foliculite decalvante e alopecia cicatricial. <a href="https://www.anaisdedermatologia.org.br/pt-foliculite-decalvante-articulo-S2666275223000620" target="_blank" rel="noopener">https://www.anaisdedermatologia.org.br/pt-foliculite-decalvante-articulo-S2666275223000620</a></li>
-<li>Anvisa. Regras de higienização em salões de beleza e barbearias. <a href="https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2025/anvisa-atualiza-regras-de-higienizacao-em-saloes-de-beleza" target="_blank" rel="noopener">https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2025/anvisa-atualiza-regras-de-higienizacao-em-saloes-de-beleza</a></li>
-<li>Droga Raia. Cetoconazol 20mg/g Xampu 100ml Medley. <a href="https://www.drogaraia.com.br/cetoconazol-20mg-g-xampu-100ml-medley.html" target="_blank" rel="noopener">https://www.drogaraia.com.br/cetoconazol-20mg-g-xampu-100ml-medley.html</a></li>
-<li>Tua Saúde. Bolinhas no couro cabeludo: o que pode ser e o que fazer. <a href="https://www.tuasaude.com/bolinhas-no-couro-cabeludo/" target="_blank" rel="noopener">https://www.tuasaude.com/bolinhas-no-couro-cabeludo/</a></li>
-<li>Sociedade Brasileira de Dermatologia. Espinhas na cabeça? Entenda o que são essas bolinhas dolorosas. <a href="https://www.sbd.org.br/noticias/espinhas-na-cabeca-entenda-o-que-sao-essas-bolinhas-dolorosas/" target="_blank" rel="noopener">https://www.sbd.org.br/noticias/espinhas-na-cabeca-entenda-o-que-sao-essas-bolinhas-dolorosas/</a></li>
-</ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://anaisdedermatologia.org.br" target="_blank" rel="noopener">anaisdedermatologia.org.br</a>, <a href="https://www.gov.br" target="_blank" rel="noopener">Governo Federal</a> e da <a href="https://www.sbd.org.br" target="_blank" rel="noopener">Sociedade Brasileira de Dermatologia</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>Bolinhas no couro cabeludo têm causas variadas, que vão de oleosidade e inflamações dos folículos a reações a produtos. Muitas são leves, mas algumas precisam de investigação, principalmente quando causam dor, sangramento, febre ou queda de cabelo. A higiene adequada e o cuidado para não espremer as lesões ajudam na prevenção.</p>
+<p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. A decisão sobre o tratamento deve ser tomada por um dermatologista, que examina o seu caso e indica a abordagem mais segura.</p>

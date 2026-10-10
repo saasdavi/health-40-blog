@@ -1,159 +1,70 @@
 PALAVRA_CHAVE: beta-alanina
-TITLE: Beta-Alanina: Dosagem, Parestesia e Riscos Reais
-DESCRIPTION: Entenda a dosagem segura de beta-alanina, por que causa formigamento, a interação com taurina e o que a ciência diz sobre segurança a longo prazo.
+TITLE: Beta-alanina: o que é, formigamento e riscos reais
+DESCRIPTION: Beta-alanina: entenda para que ela é usada, por que pode causar formigamento, quais riscos existem e quando buscar orientação profissional antes de usar.
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
-FONTE: examine.com | https://examine.com
-FONTE: bfr.bund.de | https://bfr.bund.de
-CAPA_BUSCA: woman workout gym training
-CAPA_ALT: Rotina de treino sobre beta-alanina
-FOTO1_BUSCA: exercise training outdoor
-FOTO1_ALT: Atividade física regular relacionado a beta-alanina
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+FONTE: Bundesinstitut für Risikobewertung (BfR) | https://bfr.bund.de
+FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
+CAPA_BUSCA: supplement powder scoop
+CAPA_ALT: Colher medidora com suplemento em pó, ilustrando o tema beta-alanina
+FOTO1_BUSCA: person stretching outdoors
+FOTO1_ALT: Pessoa fazendo alongamento ao ar livre, em foto ligada à atividade física e à beta-alanina
+FOTO1_LEGENDA: Exercício regular pede atenção ao corpo e à recuperação
 FOTO1_SECAO: 2
+FOTO2_BUSCA: doctor talking with patient
+FOTO2_ALT: Profissional de saúde orientando paciente em consultório sobre suplementos
+FOTO2_LEGENDA: A decisão sobre suplementos deve passar por avaliação profissional
+FOTO2_SECAO: 4
 ---
-<div id="container-imagem-capa" class="loading">Carregando imagem...</div>
+<p>A beta-alanina é um aminoácido que o próprio organismo produz e que também aparece em suplementos para quem treina. Seu efeito mais conhecido é um formigamento na pele, chamado parestesia. A seguir, veja o que se sabe sobre a substância, por que essa sensação ocorre e quais cuidados merecem atenção após os 40 anos.</p>
 
-<p>A <strong>beta-alanina</strong> é um dos suplementos mais estudados no meio esportivo, com evidência sólida para aumentar a resistência muscular em exercícios de alta intensidade. Seu mecanismo de ação é bem compreendido: ela se combina com a histidina para formar carnosina, um dipeptídeo que tampona a acidez dentro das células musculares. No entanto, a beta-alanina também é conhecida por um efeito colateral peculiar e inofensivo: a parestesia, aquela sensação de formigamento, coceira ou ardência na pele que surge poucos minutos após a ingestão. Apesar de assustar alguns usuários, a parestesia não é sinal de toxicidade. O que realmente importa — e que muitas vezes é negligenciado — são as interações com a taurina, os limites de dosagem e a ausência de dados de segurança para grupos específicos. Este artigo responde às dúvidas mais comuns sobre dosagem, parestesia, interações e riscos reais da beta-alanina.</p>
+<h2>O que é a beta-alanina e por que ela aparece em suplementos</h2>
+<p>A beta-alanina é produzida pelo próprio corpo e também está presente em alimentos de origem animal, como carnes e peixes. Ela participa da formação da carnosina, substância encontrada no músculo que ajuda a regular a acidez durante esforços intensos. Essa função levou à venda de suplementos para quem pratica atividade física de alta intensidade.</p>
+<p>Os produtos costumam ser apresentados como aliados do rendimento em treinos curtos e intensos. Ainda assim, a pesquisa sobre benefícios em pessoas comuns, que não são atletas, é limitada. Por isso, antes de incluir qualquer produto na rotina, vale entender o que ele faz e quais efeitos podem surgir.</p>
+<p>Na prática, quem se alimenta de forma variada já recebe a substância pela dieta. Essa informação ajuda a separar a necessidade real do apelo comercial, que costuma prometer ganhos rápidos sem falar sobre limitações e cuidados.</p>
 
-<h2>Por Que a Beta-Alanina Causa Formigamento?</h2>
+<h2>Por que surge o formigamento</h2>
+<p>O efeito mais citado da beta-alanina é a parestesia, uma sensação de formigamento ou picada que costuma aparecer no rosto, no pescoço, nas mãos e nos braços. Ela tende a surgir pouco depois da ingestão e pode durar alguns minutos. Em geral, não indica lesão e desaparece sem intervenção.</p>
+<p>Pesquisadores associam esse efeito à ativação de terminações nervosas da pele quando a substância chega à corrente sanguínea. A intensidade varia de pessoa para pessoa e depende da quantidade ingerida e da forma de liberação do produto. Formulações de liberação lenta são apresentadas como forma de reduzir essa sensação, mas o assunto ainda exige mais estudos.</p>
+<p>Mesmo sendo habitualmente leve, um formigamento que aumenta, não passa ou vem acompanhado de outros sintomas merece atenção. Nesses casos, o mais seguro é interromper o uso e buscar orientação médica.</p>
 
-<p>A parestesia causada pela beta-alanina é um efeito neurológico direto. A molécula ativa receptores sensoriais na pele, especificamente os receptores MRGPRD, que estão envolvidos na percepção de coceira e estímulos táteis. Quando a beta-alanina se liga a esses receptores, eles disparam sinais que o cérebro interpreta como formigamento, ardor ou coceira.</p>
+<h2>O que a pesquisa científica já mostra</h2>
+<p>Estudos publicados em bases como o PubMed avaliam se a beta-alanina melhora o desempenho em exercícios de alta intensidade e curta duração. Alguns trabalhos apontam ganhos modestos em esforços repetidos, enquanto outros não encontram diferença relevante. Os resultados variam conforme o tipo de exercício, o tempo de uso e as características dos participantes.</p>
+<p>Também é importante lembrar que boa parte dos estudos envolve atletas jovens, em condições controladas. Estender essas conclusões à população geral, especialmente a quem tem mais de 40 anos, exige cautela. Órgãos de referência, como o Office of Dietary Supplements dos Estados Unidos, reúnem essas evidências e costumam destacar essas limitações.</p>
+<p>Ao ler um estudo, vale observar o tamanho da amostra, o tempo de acompanhamento e quem financiou a pesquisa. Trabalhos pequenos e de curta duração dificilmente permitem conclusões firmes para o dia a dia de uma pessoa comum.</p>
 
-<p>Esse efeito não indica dano aos nervos nem toxicidade. É uma resposta farmacológica previsível e temporária. A sensação começa tipicamente entre 10 e 20 minutos após a ingestão, atinge o pico em cerca de 30 a 45 minutos e desaparece gradualmente, durando no total entre 60 e 90 minutos. As áreas mais afetadas são o rosto, as orelhas, o pescoço e o dorso das mãos.</p>
+<h2>Por que não existe uma dose padrão para todos</h2>
+<p>Muitas pessoas buscam uma orientação simples sobre quanto tomar, mas não existe um valor que sirva para todo mundo. A resposta depende do peso, da idade, de outras condições de saúde, dos medicamentos em uso e do objetivo. Por isso, este texto não indica quantidades, e qualquer decisão deve ser tomada com um profissional habilitado.</p>
+<p>Também vale evitar a ideia de que, se um pouco funciona, mais funciona melhor. O excesso de um suplemento pode aumentar efeitos indesejados e trazer riscos adicionais, sobretudo quando a pessoa já tem alguma alteração nos rins ou no fígado.</p>
+<p>A qualidade do produto também conta. Suplementos nem sempre têm o conteúdo declarado no rótulo com precisão, e isso dificulta saber exatamente o que está sendo ingerido. Escolher marcas com controle de qualidade reconhecido ajuda, mas não elimina a necessidade de avaliação individual.</p>
 
-<p>A intensidade da parestesia depende da dose e da velocidade de absorção. Doses únicas acima de 800 mg já podem ser notadas por pessoas mais sensíveis. Acima de 40 mg por quilo de peso corporal, a parestesia tende a ser moderada a severa e desconfortável para a maioria das pessoas. Para um adulto de 70 kg, isso equivale a uma dose única acima de 2.800 mg.</p>
-
-<div id="container-imagem-1" class="loading">Carregando imagem...</div>
-
-<h2>Qual a Dosagem Segura de Beta-Alanina para Evitar o Formigamento?</h2>
-
-<p>A dosagem eficaz de beta-alanina para melhorar o desempenho físico está bem estabelecida: entre 3,2 g e 6,4 g por dia, mantidos por pelo menos duas a quatro semanas. Esse é o período necessário para saturar os estoques de carnosina muscular. Após quatro semanas, os níveis de carnosina podem aumentar de 40% a 60%.</p>
-
-<p>O que determina a intensidade da parestesia não é a dose diária total, mas sim a dose única. Para minimizar o formigamento, a estratégia mais eficaz é fracionar a dose total em porções menores ao longo do dia. A recomendação prática é de 0,8 g a 1,6 g por dose, a cada três ou quatro horas. Isso mantém os níveis sanguíneos de beta-alanina estáveis e evita o pico que desencadeia a parestesia intensa.</p>
-
-<p>Uma alternativa é o uso de fórmulas de liberação lenta ou controlada. Estudos mostram que comprimidos de liberação prolongada reduzem a incidência e a severidade da parestesia em comparação com a beta-alanina em pó de liberação imediata. No entanto, essa evidência ainda é limitada e parte dos estudos foi financiada pela indústria.</p>
-
-<p>Outra observação relevante: tomar beta-alanina logo após uma refeição rica em carboidratos atenua a parestesia. O alimento retarda o esvaziamento gástrico e a absorção intestinal, suavizando o pico plasmático da beta-alanina. Tomar de estômago vazio, por outro lado, intensifica a sensação.</p>
-
-<h3>Tabela: Estratégias para Reduzir a Parestesia</h3>
-
-<table>
-<thead>
-<tr>
-<th>Estratégia</th>
-<th>Como Funciona</th>
-<th>Eficácia Relatada</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Fracionar a dose</td>
-<td>0,8–1,6 g a cada 3–4 horas</td>
-<td>Alta</td>
-</tr>
-<tr>
-<td>Tomar após refeição</td>
-<td>Retarda a absorção e suaviza o pico plasmático</td>
-<td>Moderada</td>
-</tr>
-<tr>
-<td>Usar fórmula de liberação lenta</td>
-<td>Liberação gradual no intestino</td>
-<td>Moderada (evidência limitada)</td>
-</tr>
-<tr>
-<td>Reduzir a dose única</td>
-<td>Manter cada dose abaixo de 10 mg/kg</td>
-<td>Alta</td>
-</tr>
-</tbody>
-</table>
-
-<div id="container-imagem-2" class="loading">Carregando imagem...</div>
-
-<h2>A Beta-Alanina Compete com a Taurina?</h2>
-
-<p>Sim, essa competição existe e é um dos pontos mais negligenciados nos artigos comerciais sobre beta-alanina. A beta-alanina e a taurina compartilham o mesmo transportador na membrana celular, chamado TauT. Quando há excesso de beta-alanina no sangue, ela ocupa esse transportador e reduz a captação de taurina pelas células.</p>
-
-<p>Isso tem sido demonstrado em estudos com animais. Em ratos, o tratamento com beta-alanina reduziu o conteúdo de taurina no coração e na retina. Em cardiomiócitos isolados, a exposição à beta-alanina por 48 horas reduziu o teor de taurina em 45% e aumentou o estresse oxidativo mitocondrial. A taurina é essencial para a função cardíaca, atuando como antioxidante e regulador do cálcio intracelular.</p>
-
-<p>Em humanos, o quadro é menos claro. Um estudo de 24 semanas com homens saudáveis que tomaram 6,4 g diários de beta-alanina de liberação lenta não encontrou redução significativa no conteúdo muscular de taurina nem alterações nos marcadores clínicos de função renal, hepática e muscular. Isso sugere que, em pessoas saudáveis e com ingestão adequada de taurina pela dieta, a competição pode não ser clinicamente relevante.</p>
-
-<p>No entanto, a situação pode ser diferente em pessoas com ingestão baixa de taurina — como veganos estritos, que não consomem fontes animais — ou com condições cardíacas preexistentes. Para esses grupos, a suplementação crônica de beta-alanina merece cautela e, idealmente, acompanhamento profissional.</p>
-
-<h2>Quais os Riscos da Beta-Alanina a Longo Prazo?</h2>
-
-<p>Os dados de segurança da beta-alanina em humanos são tranquilizadores para períodos de até 24 semanas. Um estudo robusto com 25 homens saudáveis que tomaram 6,4 g diários por 24 semanas não encontrou alterações em marcadores de função renal (creatinina, taxa de filtração glomerular), hepática (AST, ALT, fosfatase alcalina) ou muscular (LDH, creatina quinase). Não houve relato de efeitos colaterais sensoriais crônicos.</p>
-
-<p>Outro estudo com adultos com sobrepeso e obesidade também confirmou boa tolerabilidade e adesão à suplementação de beta-alanina de liberação lenta.</p>
-
-<p>O que não existe são dados de segurança para uso contínuo além de 24 semanas. A Autoridade Europeia de Segurança Alimentar (EFSA) e o Instituto Federal Alemão de Avaliação de Risco (BfR) recomendam que a suplementação de beta-alanina não ultrapasse 12 semanas, justamente pela ausência de dados de longo prazo. Essa é uma limitação importante que deve ser comunicada ao usuário.</p>
-
-<p>Além disso, a maioria dos estudos de segurança foi feita em homens jovens saudáveis. Não há dados suficientes para mulheres, idosos ou pessoas com condições médicas crônicas.</p>
-
-<div id="container-imagem-3" class="loading">Carregando imagem...</div>
-
-<h2>Quem Não Deve Tomar Beta-Alanina?</h2>
-
-<p>As restrições de uso são baseadas na ausência de dados de segurança, não necessariamente em riscos comprovados. Ainda assim, os grupos abaixo devem evitar a suplementação sem orientação médica.</p>
-
-<h3>Grupos com Restrição Formal</h3>
+<h2>Riscos e situações que pedem cautela</h2>
+<p>Além do formigamento, algumas pessoas relatam náusea, desconforto gastrointestinal e dor de cabeça após o uso de suplementos com essa substância. Em quem tem doenças do rim, do fígado ou do coração, qualquer produto desse tipo exige avaliação prévia. Gestantes, pessoas que amamentam e menores de idade devem evitar o uso sem orientação médica.</p>
+<p>Alguns cenários merecem atenção especial:</p>
 <ul>
-<li><strong>Gestantes e lactantes:</strong> não há estudos de segurança. A recomendação oficial é não consumir.</li>
-<li><strong>Crianças e adolescentes:</strong> não há dados de segurança para menores de 19 anos. A venda é restrita a adultos no Brasil.</li>
-<li><strong>Pessoas acima de 65 anos:</strong> não há estudos específicos nessa faixa etária.</li>
-<li><strong>Pessoas com doença renal ou hepática:</strong> a beta-alanina é metabolizada no fígado e excretada pelos rins. Em pessoas com função comprometida, pode haver acúmulo e sobrecarga.</li>
+<li>Formigamento intenso ou persistente, que não melhora com o tempo.</li>
+<li>Uso combinado com outros suplementos estimulantes ou bebidas energéticas.</li>
+<li>Histórico de doença renal, hepática ou cardíaca.</li>
+<li>Uso de medicamentos de uso contínuo sem conhecimento do médico.</li>
 </ul>
+<p>Busque atendimento de urgência se o formigamento vier acompanhado de falta de ar, dor no peito, fraqueza em um lado do corpo ou dificuldade para falar. Esses sinais não devem ser atribuídos ao suplemento sem avaliação profissional.</p>
+<p>Se você notar qualquer efeito novo depois de começar um produto, anote o nome do item, a data de início, a quantidade que costuma usar e os sintomas observados. Esse registro ajuda o profissional a entender a situação e a decidir o melhor passo a seguir.</p>
 
-<h3>Grupos Que Devem Ter Cautela</h3>
-<ul>
-<li><strong>Veganos e vegetarianos estritos:</strong> a ingestão dietética de taurina é baixa ou nula. A competição pelo transportador TauT pode reduzir ainda mais os níveis de taurina.</li>
-<li><strong>Pessoas com condições cardíacas:</strong> a taurina é importante para a função cardíaca. A depleção crônica pode ser prejudicial em corações já comprometidos.</li>
-<li><strong>Usuários de medicamentos hipoglicemiantes:</strong> a beta-alanina pode potencializar o efeito de medicamentos para diabetes, aumentando o risco de hipoglicemia.</li>
-</ul>
+<h2>Cuidados específicos para quem tem mais de 40 anos</h2>
+<p>Após os 40 anos, o organismo passa por mudanças no metabolismo, na função renal e na composição corporal. Essas alterações podem tornar algumas substâncias mais difíceis de eliminar e aumentar a chance de interação com remédios para pressão, colesterol ou diabetes. Antes de começar qualquer suplemento, leve a lista completa do que você toma ao consultório.</p>
+<p>Também vale lembrar que desempenho e recuperação no esporte dependem mais de sono, alimentação equilibrada e treino progressivo do que de um único produto. Se a intenção é ganhar força e condicionamento com segurança, a orientação de um profissional de educação física e de um nutricionista costuma ser o caminho mais seguro. Para entender outro suplemento bastante conhecido no mesmo contexto, vale ler sobre <a href="/creatina/">creatina e seus efeitos no treino</a>.</p>
+<p>Na alimentação, carnes, aves e peixes fornecem a substância de forma natural e em quantidades distribuídas ao longo do dia. Essa é uma base mais previsível do que a suplementação isolada, principalmente para quem não tem uma indicação específica.</p>
+<p>Vale notar que proteínas em pó, como o <a href="/whey-protein/">whey protein</a>, costumam ser compradas junto com outros produtos. Montar uma rotina com muitos suplementos ao mesmo tempo dificulta identificar qual deles causou algum efeito indesejado. Essa é mais uma razão para começar devagar e sempre com orientação profissional.</p>
 
-<h2>FAQ — Perguntas Frequentes</h2>
+<h2>Perguntas frequentes</h2>
+<p><strong>A beta-alanina é perigosa?</strong> Para a maioria dos adultos saudáveis, os efeitos mais comuns são leves, mas a segurança depende de cada caso, de doenças prévias e do uso de medicamentos.</p>
+<p><strong>O formigamento é normal?</strong> Ele é a reação mais descrita e costuma passar sozinho. Se for intenso, persistir ou vier com outros sintomas, o recomendável é buscar avaliação.</p>
+<p><strong>Posso usar junto com outros suplementos?</strong> Combinações aumentam a chance de efeitos indesejados. Converse com um profissional antes de misturar produtos.</p>
+<p><strong>Quem tem mais de 40 anos deve tomar?</strong> Essa decisão deve ser individual e considerar histórico clínico, exames e objetivos.</p>
 
-<h3>1. Por que a beta-alanina pinica ou dá coceira no corpo?</h3>
-<p>A beta-alanina ativa receptores sensoriais na pele chamados MRGPRD, que desencadeiam a sensação de formigamento e coceira. É um efeito neurológico direto, inofensivo e temporário, que dura entre 60 e 90 minutos.</p>
-
-<h3>2. Quais os efeitos colaterais da beta-alanina a longo prazo?</h3>
-<p>Estudos de até 24 semanas não encontraram alterações em marcadores renais, hepáticos ou musculares em homens saudáveis. No entanto, não há dados de segurança além de 24 semanas, e as agências reguladoras recomendam não ultrapassar 12 semanas de uso contínuo.</p>
-
-<h3>3. Quem não deve tomar o suplemento de beta-alanina?</h3>
-<p>Gestantes, lactantes, crianças, adolescentes, pessoas acima de 65 anos e pessoas com doença renal ou hepática não devem tomar. Veganos e pessoas com condições cardíacas devem ter cautela e buscar orientação profissional.</p>
-
-<h3>4. Qual a dosagem segura de beta-alanina para evitar o formigamento?</h3>
-<p>A dose diária eficaz é de 3,2 g a 6,4 g, fracionada em porções de 0,8 g a 1,6 g a cada 3 ou 4 horas. Doses únicas abaixo de 10 mg/kg de peso corporal raramente causam parestesia significativa.</p>
-
-<h3>5. A beta-alanina compete com a taurina no coração?</h3>
-<p>Sim. A beta-alanina e a taurina compartilham o mesmo transportador celular. Em animais, a beta-alanina reduz a taurina no coração. Em humanos saudáveis, o efeito não foi significativo em 24 semanas, mas veganos e pessoas com condições cardíacas devem ter cautela.</p>
+<h2>Quando procurar um médico</h2>
+<p>Consulte um médico se o formigamento não passar, se surgirem sintomas de alerta como dor no peito ou falta de ar, se houver histórico de problemas nos rins, no fígado ou no coração, ou se você estiver grávida ou amamentando. Também é recomendável conversar com o profissional antes de usar qualquer suplemento se você toma remédios de uso contínuo.</p>
+<p>Um clínico geral, um nutrólogo ou um médico do esporte pode avaliar o seu caso com exames e histórico. Esse acompanhamento evita decisões baseadas apenas em propaganda ou em relatos de outras pessoas.</p>
 
 <h2>Resumindo</h2>
-
-<p>A beta-alanina é um suplemento com evidência sólida para aumentar a resistência muscular em exercícios de alta intensidade. Sua dosagem eficaz é de 3,2 g a 6,4 g por dia, fracionada em doses menores para minimizar a parestesia — a sensação de formigamento causada pela ativação de receptores sensoriais na pele.</p>
-
-<p>A parestesia é inofensiva e temporária, durando entre 60 e 90 minutos. Ela pode ser atenuada com a divisão da dose, ingestão após refeições ou uso de fórmulas de liberação lenta. Doses únicas acima de 40 mg/kg de peso corporal tendem a causar formigamento moderado a severo.</p>
-
-<p>A beta-alanina compete com a taurina pelo mesmo transportador celular. Em animais, isso reduz a taurina no coração. Em humanos saudáveis, o efeito não foi significativo em 24 semanas, mas veganos e pessoas com condições cardíacas devem ter cautela.</p>
-
-<p>Estudos de até 24 semanas não encontraram alterações em marcadores de função renal, hepática ou muscular em homens saudáveis. No entanto, não há dados de segurança além desse período, e as agências reguladoras recomendam não ultrapassar 12 semanas de uso contínuo.</p>
-
-<p>Gestantes, lactantes, crianças, adolescentes, idosos e pessoas com doença renal ou hepática não devem tomar beta-alanina. Antes de iniciar a suplementação, consulte um nutricionista ou médico do esporte para avaliar a indicação, a dose e a duração do uso.</p>
-
-<h2>Fontes</h2>
-<ul>
-<li>Examine.com. Beta-Alanine — Benefits, Dosage, and Side Effects. <a href="https://examine.com/supplements/beta-alanine/" target="_blank" rel="noopener">https://examine.com/supplements/beta-alanine/</a></li>
-<li>Bundesinstitut für Risikobewertung (BfR). Beta-Alanin in Nahrungsergänzungsmitteln und angereicherten Lebensmitteln. 19 de agosto de 2026. <a href="https://www.bfr.bund.de/assets/01_Veröffentlichungen/Stellungnahmen_deutsch/beta-alanin-in-nahrungsergaenzungsmitteln-und-angereicherten-lebensmitteln.pdf" target="_blank" rel="noopener">https://www.bfr.bund.de/assets/01_Veröffentlichungen/Stellungnahmen_deutsch/beta-alanin-in-nahrungsergaenzungsmitteln-und-angereicherten-lebensmitteln.pdf</a></li>
-<li>Lake N, et al. Effects of beta-alanine treatment on the taurine and DNA content of the rat heart and retina. Neurochemical Research, 1988. <a href="https://pubmed.ncbi.nlm.nih.gov/3146030/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/3146030/</a></li>
-<li>Sale C, et al. 24-Week β-alanine ingestion does not affect muscle taurine or clinical blood parameters in healthy males. European Journal of Nutrition, 2019. <a href="https://europepmc.org/article/MED/30552505" target="_blank" rel="noopener">https://europepmc.org/article/MED/30552505</a></li>
-<li>Saunders B, et al. β-alanine supplementation in adults with overweight and obesity: a randomized controlled feasibility trial. 2025. <a href="https://europepmc.org/article/MED/39800478" target="_blank" rel="noopener">https://europepmc.org/article/MED/39800478</a></li>
-<li>International Society of Sports Nutrition. Position Stand: Beta-Alanine. 2025. <a href="https://app.thegpni.com" target="_blank" rel="noopener">https://app.thegpni.com</a></li>
-</ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
-<h2>Quando procurar um médico</h2>
-<p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://pubmed.ncbi.nlm.nih.gov" target="_blank" rel="noopener">PubMed (National Library of Medicine)</a>, <a href="https://examine.com" target="_blank" rel="noopener">examine.com</a> e da <a href="https://bfr.bund.de" target="_blank" rel="noopener">bfr.bund.de</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>A beta-alanina é uma substância produzida pelo corpo e vendida como suplemento para quem treina. O efeito mais conhecido é o formigamento, geralmente leve e passageiro. A pesquisa sobre benefícios em esforços curtos é mista, e os dados para pessoas com mais de 40 anos ainda são limitados.</p>
+<p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Antes de usar qualquer produto, converse com seu médico ou nutricionista, leve a lista de medicamentos que você usa e priorize alimentação equilibrada, sono de qualidade e atividade física orientada.</p>
