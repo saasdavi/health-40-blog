@@ -23,3 +23,9 @@ REVISADO: sim   (só para tema sensível já revisado por pessoa)
 
 2. Rode **Actions > Importar artigos (sem API) > Run workflow**. Aprovados vão para o estoque; reprovados ganham `<nome>.relatorio.md` com o motivo.
 3. Regras automáticas: ≥1000 palavras, ≥2 fontes, aviso de saúde no fim, sem frases de cura/garantia, densidade da palavra-chave ≤5%, ≥2 links internos válidos, nota mínima 80.
+
+## Pastas de `data/entrada/`
+- **(raiz)** só os `.txt` que ainda vão ser importados (a fila do importador) e os guias (`LEIA-ME.md`, `MODELO-PARA-A-IA.md`, `PROMPT-*.md`, `TESTE-DA-IA.md`). O importador lê apenas os `.txt` desta pasta.
+- **`processados/`** `.txt` que já foram importados para o estoque.
+- **`pendentes-revisao/`** artigos reprovados (bloqueio de segurança) ou deixados de fora de propósito, cada um com o seu `.relatorio.md`. Precisam de reescrita antes de voltar para a raiz.
+- **`originais/`** os arquivos `.html` e `.md` originais, como foram enviados, antes da conversão para `.txt`. Guardados só como referência; nada os lê.
