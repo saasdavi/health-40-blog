@@ -35,9 +35,14 @@ FOTO2_SECAO: 4
 <p>Os rins eliminam o excesso de magnésio pela urina. Quando a função renal está diminuída, esse controle fica prejudicado e o mineral pode se acumular. Nesse cenário, o risco de intoxicação aumenta, e o quadro pode envolver fraqueza, sonolência e alterações do ritmo do coração.</p>
 <p>Por isso, quem tem insuficiência renal, faz diálise ou tem exames de função renal alterados deve evitar suplementos de magnésio sem avaliação médica. Essa cautela vale também para pessoas idosas, cuja função renal costuma diminuir com o tempo.</p>
 
+<p>Um ponto pouco lembrado é que o magnésio não age isolado. Ele trabalha em conjunto com cálcio, potássio e vitamina D, e a alteração de um desses minerais pode mudar a forma como o corpo responde ao outro.</p>
+<p>Por isso, a avaliação de quem usa suplementos costuma olhar para a dieta como um todo, e não apenas para a dose de um único nutriente.</p>
+
 <h2>Interações que merecem atenção</h2>
 <p>O magnésio pode reduzir a absorção de alguns medicamentos quando tomado no mesmo horário. Entre as classes mais citadas estão certos antibióticos, medicamentos para osteoporose e a levotiroxina.</p>
 <p>Também é recomendável informar ao médico se você usa diuréticos, remédios para pressão ou para o coração, pois o equilíbrio de minerais pode ser afetado. O farmacêutico pode ajudar a organizar os horários.</p>
+
+<p>Também é útil lembrar que atividade física intensa, suor excessivo e calor podem alterar a perda de minerais. Em quem treina com frequência, a necessidade e a tolerância podem mudar, e isso deve entrar na conversa com o profissional.</p>
 
 <h2>Como a alimentação entra nessa conta</h2>
 <p>Ao consumir magnésio pelos alimentos, o organismo costuma regular a absorção com mais eficiência, e os efeitos colaterais são raros. Por isso, antes de pensar em suplemento, vale observar se a dieta inclui fontes naturais em quantidade suficiente.</p>

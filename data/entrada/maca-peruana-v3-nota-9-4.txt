@@ -35,6 +35,10 @@ FOTO2_SECAO: 4
 <p>Antes de incluir qualquer suplemento na rotina, observe o registro do produto junto aos órgãos de vigilância sanitária e leia atentamente as informações sobre alertas, contraindicações e origem do material.</p>
 <p>Se você costuma usar suplementos para energia ou sono, pode ser útil conhecer também os cuidados descritos sobre <a href="/ashwagandha/">ashwagandha</a>, que também levanta dúvidas parecidas sobre segurança e interações.</p>
 
+<p>Quando um estudo avalia a maca, vale perguntar quantas pessoas participaram, por quanto tempo e se havia um grupo de comparação. Pesquisas pequenas e curtas não permitem conclusões firmes sobre eficácia.</p>
+<p>Outro ponto é a origem do material. Raízes cultivadas em regiões diferentes e processadas de formas distintas podem ter composição variável, o que afeta a comparação entre produtos do mercado.</p>
+<p>Por isso, a informação mais útil para o consumidor costuma ser a transparência do fabricante sobre a procedência, o lote e os testes realizados.</p>
+
 <h2>Cuidados antes de usar a maca peruana</h2>
 <p>Algumas pessoas precisam de cuidado extra. Gestantes, lactantes, quem tem problemas de tireoide, distúrbios hormonais, doenças hepáticas ou renais e quem faz uso contínuo de medicamentos deve conversar com o médico antes de começar. A maca pode influenciar o funcionamento hormonal, e esse efeito é difícil de prever sem avaliação.</p>
 <p>Também é importante observar sinais de reação, como desconforto digestivo, alterações do sono, dor de cabeça ou qualquer sintoma novo. Ao notar algo diferente, suspenda o uso e procure orientação profissional.</p>
@@ -47,7 +51,11 @@ FOTO2_SECAO: 4
 
 <h2>Como a maca entra na rotina alimentar</h2>
 <p>Para quem gosta do sabor, a raiz pode ser adicionada a vitaminas, iogurtes ou preparações assadas em pequenas quantidades. Essa forma se encaixa melhor em uma alimentação equilibrada do que o uso de doses altas em cápsulas.</p>
-<p>O mais importante é manter a base da alimentação: frutas, verduras, leguminosas, grãos integrais, proteínas de boa qualidade e boa hidratação. Nenhum alimento isolado compensa uma rotina pouco saudável.</p>
+<p>O mais importante é manter a base da alimentação: frutas, verduras, leguminosas, grãos integrais, proteínas de boa qualidade e boa hidratação. Nenhum alimento isolado compensa uma rotina pouco saudável. Para completar o cardápio com nutrientes importantes, como o ferro, veja a lista de <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a>.</p>
+
+<p>Na prática, a maca costuma ser incluída em pequenas quantidades, como em vitaminas, iogurtes e farinhas. Esse uso tende a ser mais simples de manter do que cápsulas concentradas, que seguem regras e alertas próprios.</p>
+<p>Qualquer mudança na alimentação deve ser feita aos poucos, observando o corpo. Se houver desconforto digestivo, inchaço ou alteração do intestino, a alimentação deve ser revista com o profissional.</p>
+<p>Pessoas em tratamento para doenças crônicas, como diabetes ou hipertensão, devem informar a equipe de saúde sobre qualquer alimento ou suplemento novo, já que a resposta do organismo pode ser diferente.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>A maca peruana é segura para todos?</strong><br>Não há dados suficientes para afirmar isso. Quem tem condições de saúde ou usa medicamentos deve consultar um profissional antes.</p>

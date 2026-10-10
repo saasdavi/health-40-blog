@@ -19,7 +19,7 @@ FOTO2_SECAO: 4
 <p>A acantose nigricans é uma alteração da pele em que a camada superficial se torna mais espessa e pigmentada. A textura lembra veludo, e a coloração pode variar do marrom ao preto, dependendo do tom natural da pele.</p>
 <p>Ela é mais comum em pessoas com pele mais escura, mas pode aparecer em qualquer tom. O aspecto da lesão ajuda o dermatologista a suspeitar da condição, que, porém, precisa ser investigada para se entender a origem.</p>
 <p>Por ser um sinal, a acantose costuma indicar que o organismo está respondendo a algum estímulo, e não que a pele esteja simplesmente suja ou ressecada.</p>
-<h2>Principais causas associadas</h2>
+<h2>Acantose nigricans: principais causas associadas</h2>
 <p>A causa mais frequentemente relacionada à acantose é a resistência à insulina, situação em que o corpo precisa de mais insulina para controlar a glicose do sangue. Obesidade, sobrepeso e histórico familiar de diabetes aumentam essa probabilidade.</p>
 <p>Outras causas incluem alterações hormonais, como as que ocorrem na síndrome dos ovários policísticos, e o uso de alguns medicamentos. Em casos menos comuns, a acantose pode estar associada a doenças mais graves, o que reforça a necessidade de avaliação completa.</p>
 <p>Para entender melhor a relação com a glicose, vale ler sobre a <a href="/o-que-e-resistencia-a-insulina/">resistência à insulina</a>, que explica por que ela altera o metabolismo.</p>

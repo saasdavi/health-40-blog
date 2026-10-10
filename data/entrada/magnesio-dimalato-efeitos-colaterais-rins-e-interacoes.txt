@@ -35,6 +35,9 @@ FOTO2_SECAO: 4
 <p>Por isso, pessoas com doença renal crônica, ou com exames alterados de creatinina e filtração, precisam de avaliação médica antes de usar qualquer suplemento de magnésio. Quem já tem histórico de cálculo renal também deve conversar com o médico.</p>
 <p>Para entender melhor o papel do mineral no organismo, vale a leitura sobre <a href="/magnesio/">magnésio e suas funções</a>, que explica a diferença entre a presença do mineral na alimentação e o uso de suplementos.</p>
 
+<p>Vale notar que a sensação de desconforto costuma ser o primeiro sinal percebido. Ao observar diarreia ou cólicas, a orientação é reduzir a quantidade ou suspender o produto e avaliar com o profissional o que fazer em seguida.</p>
+<p>Pessoas que sentem palpitações, tontura ou fraqueza após iniciar um suplemento de magnésio não devem esperar que o sintoma passe. Esses sinais pedem contato rápido com a equipe de saúde.</p>
+
 <h2>Interações com medicamentos</h2>
 <p>O magnésio pode reduzir a absorção de algumas classes de medicamentos quando tomado no mesmo horário. Entre elas estão alguns antibióticos, certos medicamentos para osteoporose e a levotiroxina, usada na reposição da tireoide.</p>
 <ul>
@@ -52,6 +55,10 @@ FOTO2_SECAO: 4
 <h2>Como ler o rótulo com mais segurança</h2>
 <p>Antes de comprar, observe a quantidade de magnésio elementar informada, a presença de outros ingredientes e as advertências do fabricante. Produtos com dosagens altas ou combinações diversas exigem mais cuidado do que a simples presença do mineral na dieta.</p>
 <p>Guarde o frasco fora do alcance de crianças e siga as instruções de conservação. Se houver dúvida sobre o conteúdo, procure a equipe de saúde antes de continuar.</p>
+
+<p>Na prática, a dúvida mais comum é sobre horários. Uma regra geral é separar o magnésio de outros medicamentos por um intervalo, mas o intervalo ideal depende de cada remédio e deve ser definido por quem conhece o seu esquema.</p>
+<p>Levar a lista completa de medicamentos, vitaminas e chás à consulta evita surpresas. Muitas interações acontecem justamente com produtos que a pessoa não considera remédios.</p>
+<p>Quem faz exames de sangue periódicos deve avisar o laboratório e o médico sobre o uso do suplemento, pois ele pode influenciar alguns resultados.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>Magnésio dimalato causa problemas nos rins?</strong><br>Em pessoas com função renal normal, o risco é menor, mas quem tem doença renal precisa de avaliação antes do uso.</p>

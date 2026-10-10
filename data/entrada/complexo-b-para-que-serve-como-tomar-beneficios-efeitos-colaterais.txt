@@ -24,7 +24,7 @@ FOTO2_SECAO: 4
 
 <p>Como são solúveis em água, o organismo não armazena grandes quantidades delas por muito tempo. Isso significa que a ingestão regular, por meio da alimentação, é importante para manter os estoques adequados.</p>
 
-<p>Por essa razão, o termo complexo B é usado tanto para descrever a família de vitaminas quanto para nomear produtos que reúnem várias delas em uma mesma cápsula. Essa segunda sentido é o que mais aparece nas farmácias, e é justamente por isso que vale entender a diferença antes de decidir o uso.</p>
+<p>Por essa razão, o termo complexo B é usado tanto para descrever a família de vitaminas quanto para nomear produtos que reúnem várias delas em uma mesma cápsula. Esse segundo sentido é o que mais aparece nas farmácias, e é justamente por isso que vale entender a diferença antes de decidir o uso. Ter todas as vitaminas do grupo em um único produto não significa que todas sejam necessárias para cada pessoa.</p>
 
 <h2>Principais funções das vitaminas do complexo B</h2>
 
@@ -77,7 +77,7 @@ FOTO2_SECAO: 4
 
 <p>Também é importante desconfiar de produtos que prometem energia instantânea, disposição assegurada ou resultados rápidos. Vitaminas não são estimulantes e não substituem sono, alimentação e tratamento de condições de saúde.</p>
 
-<p>Em pessoas com mais de 40 anos, a rotina de exames periódicos ajuda a identificar deficiências com mais precisão, principalmente quando há cansaço persistente ou alterações do humor.</p>
+<p>Em pessoas com mais de 40 anos, a rotina de exames periódicos ajuda a identificar deficiências com mais precisão, principalmente quando há cansaço persistente ou alterações do humor. Nessa idade, a absorção de algumas vitaminas pode mudar, e o acompanhamento do médico ajuda a separar o que é esperado com o tempo do que merece investigação.</p>
 
 <p>A forma de administração também merece atenção. Alguns produtos são mais bem tolerados após as refeições, enquanto outros podem causar desconforto no estômago quando tomados em jejum. O farmacêutico pode orientar sobre o horário mais adequado para cada situação, sempre seguindo a indicação da bula e do prescritor.</p>
 
