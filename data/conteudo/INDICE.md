@@ -216,6 +216,17 @@ Dias de conteúdo já escrito + pauta validada: **12** (a 3 por dia).
 | Saw Palmetto Queda de Cabelo: O Que Funciona | 1413 | 100 | - |
 | Suplemento Contribui para a Perda de Gordura? | 1404 | 100 | - |
 | Suplementos para Emagrecer Feminino: Evidências | 1343 | 100 | - |
+| Taurina Efeitos Colaterais: Rins e Cafeína | 1338 | 100 | - |
+| Terapia Fotodinâmica: O Que É e Como Funciona | 1343 | 100 | - |
+| Termogênico para Emagrecer: Funciona e Riscos | 1330 | 100 | - |
+| Termogênicos Naturais: Funciona e os Riscos | 1343 | 100 | - |
+| Treino Funcional Emagrece? O Que Diz a Ciência | 1332 | 100 | - |
+| Valeriana Para Que Serve: Efeitos e Riscos | 1336 | 100 | - |
+| Vasinhos no Rosto: Causas e Tratamento a Laser | 1339 | 100 | 2027-01-10 |
+| Vitamina D: Para Que Serve, Sintomas e Cuidados | 1338 | 100 | - |
+| Vitamina de Cavalo no Cabelo: Riscos | 1332 | 100 | - |
+| Vitamina para Queda de Cabelo: O Que Funciona | 1336 | 100 | 2027-05-30 |
+| Vitaminas para Queda de Cabelo: Sinais e Exames | 1331 | 100 | - |
 
 ## Publicados
 
