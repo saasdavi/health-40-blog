@@ -48,6 +48,8 @@ FOTO2_SECAO: 4
 <h2>Medicamentos e produtos para emagrecer</h2>
 <p>Existem tratamentos médicos para obesidade, mas eles são indicados em casos específicos e exigem prescrição, acompanhamento e registro sanitário. Produtos vendidos sem orientação, na internet ou em lojas sem origem clara podem trazer riscos sérios. Essa é uma questão de segurança e deve ser tratada com cautela.</p>
 <p>Ofertas que prometem resultados rápidos devem gerar desconfiança. Antes de usar qualquer produto, verifique com o profissional de saúde se ele é indicado, se tem registro e quais são os riscos para o seu caso.</p>
+<p>A avaliação do peso deve considerar o contexto de saúde de cada pessoa. Em algumas situações, como doenças da tireoide, uso de corticoides ou alterações hormonais, a dificuldade para perder peso tem causas específicas, e o tratamento depende da origem. Por isso, a investigação clínica é o primeiro passo antes de decidir qualquer estratégia.</p>
+<p>Mudanças de hábito também levam tempo para se consolidar, e isso faz parte do processo. Quem mantém alimentação equilibrada, atividade física e sono regular por longos períodos costuma perceber que o peso se estabiliza em um novo patamar, o que já representa um resultado importante para a saúde.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>É possível emagrecer 10 kg sem fazer dieta?</strong> A perda depende de mudanças na alimentação e na atividade. Mudanças de hábito sem planejamento costumam ser menos eficientes.</p>
 <p><strong>Quanto tempo leva para perder esse peso?</strong> Varia de pessoa para pessoa. O ideal é um ritmo gradual, acompanhado por profissional.</p>

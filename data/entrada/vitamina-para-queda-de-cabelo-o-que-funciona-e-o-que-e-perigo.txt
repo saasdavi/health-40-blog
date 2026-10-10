@@ -36,6 +36,8 @@ FOTO2_SECAO: 4
 
 <p>Carências mais comuns incluem ferro, vitamina B12, folato e, em alguns casos, zinco e vitamina D. Cada uma exige avaliação específica, e a presença de sintomas gerais, como cansaço, também precisa ser considerada.</p>
 
+<p>Vale observar a alimentação de forma honesta, anotando o que realmente é consumido na semana, sem ajustes para a consulta.</p>
+
 <p>Pessoas com dieta vegetariana ou vegana merecem atenção especial a algumas vitaminas do complexo B. Quem evita laticínios e alimentos fortificados também deve observar a vitamina D.</p>
 
 <h2>Ferro, ferritina e a queda difusa</h2>
@@ -43,6 +45,8 @@ FOTO2_SECAO: 4
 <p>O ferro é um dos nutrientes mais ligados à queda de cabelo, sobretudo em mulheres com sangramentos menstruais intensos, dietas restritivas e gestação. A falta de ferro reduz a reserva do organismo antes de causar anemia, e a ferritina é o marcador que costuma mostrar essa reserva.</p>
 
 <p>Por isso, quem tem queda difusa deve checar a ferritina antes de qualquer outro suplemento. Repor o ferro sem exame pode ser desnecessário e, em excesso, também causa problemas, como sobrecarga em alguns órgãos.</p>
+
+<p>Quando a ferritina está baixa, a conduta costuma ser discutida com o médico, que define tipo, dose e tempo de reposição.</p>
 
 <p>Mulheres com sangramentos intensos e pessoas que doam sangue com frequência também devem discutir esse ponto com o médico.</p>
 
@@ -81,6 +85,8 @@ FOTO2_SECAO: 4
 <p>O primeiro passo é uma consulta com avaliação do histórico, da alimentação, de medicamentos e do padrão da queda. Em seguida, o médico pode pedir exames de sangue para dosar ferritina, vitaminas, hormônios e marcadores da tireoide.</p>
 
 <p>Os exames podem ser pedidos junto com um hemograma, que mostra se há anemia, já que alterações da tireoide e hormonais são causas frequentes de queda.</p>
+
+<p>Ao receber o resultado, peça ao médico que explique o valor encontrado e o que ele significa para o seu caso, em vez de aceitar apenas a indicação de um produto.</p>
 
 <p>Com o resultado em mãos, a conduta fica mais precisa. Se houver carência confirmada, a reposição deve ser orientada e acompanhada, com nova dosagem após algum tempo para checar a resposta.</p>
 

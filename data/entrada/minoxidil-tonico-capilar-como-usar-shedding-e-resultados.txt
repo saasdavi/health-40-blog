@@ -33,6 +33,9 @@ FOTO2_SECAO: 4
 <p>Os fios que caem durante o shedding costumam ser fios antigos que já estavam em repouso. A perda é, portanto, uma reorganização do ciclo, e não um dano novo causado diretamente ao folículo.</p>
 <p>Ainda assim, a experiência é desconfortável e pode gerar medo de que o tratamento esteja piorando a situação. Registrar a data de início e a quantidade aproximada de fios ajuda a comparar com a evolução seguinte.</p>
 
+<p>Para quem tem cabelos finos ou em queda acentuada, a fase de shedding pode parecer mais intensa. Por isso, é útil combinar a observação com uma consulta de acompanhamento, em vez de interpretar a perda isoladamente.</p>
+<p>O médico pode orientar a manter o tratamento e ajustar outros fatores, como nutrição, sono e estresse, que também influenciam a densidade ao longo do período.</p>
+
 <h2>O que é o shedding e por que ele acontece</h2>
 <p>O termo <em>shedding</em> descreve a queda temporária que pode surgir nas primeiras semanas de uso. Ela acontece porque os fios em repouso são empurrados para fora, abrindo espaço para novos fios em crescimento.</p>
 <p>Esse fenômeno costuma ser transitório, mas nem todo caso segue esse padrão. Por isso, a queda intensa ou prolongada deve ser comunicada ao médico, que avalia se é o esperado ou se há outra causa.</p>
@@ -60,6 +63,9 @@ FOTO2_SECAO: 4
 
 <p>Se o couro cabeludo apresentar ardência constante ou descamação intensa, o produto deve ser avaliado pelo médico, que pode ajustar a forma de uso ou sugerir uma alternativa mais adequada à pele.</p>
 <p>Antes de trocar de produto ou de procedência, converse com o profissional, pois variações de fórmula podem alterar a resposta do couro cabeludo e tornar o acompanhamento mais difícil.</p>
+
+<p>Pessoas que usam o tratamento por longos períodos devem ter o acompanhamento mantido, mesmo quando o resultado parece estável. Revisões periódicas garantem que a conduta continue adequada à idade, à saúde e aos remédios em uso.</p>
+<p>Caso surjam novas condições de saúde, como doença cardíaca ou gravidez, o plano precisa ser reavaliado, pois o uso pode deixar de ser indicado.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>Shedding significa que o tratamento não está funcionando?</strong><br>Não necessariamente. A queda inicial é descrita como transitória, mas deve ser acompanhada pelo médico.</p>

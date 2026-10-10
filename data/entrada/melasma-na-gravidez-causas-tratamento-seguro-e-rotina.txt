@@ -39,6 +39,9 @@ FOTO2_SECAO: 4
 <p>Algumas medidas simples podem ser adotadas com segurança, desde que orientadas. Entre elas estão a escolha de protetor com filtros adequados à gestação, o uso de sombra e o cuidado com a higiene facial leve.</p>
 <p>Já a automedicação com cremes receitados para outras pessoas ou comprados sem orientação deve ser evitada, pois a absorção pela pele e os efeitos sobre o bebê não são previsíveis.</p>
 
+<p>Entre os recursos da dermatologia, alguns procedimentos com luz ou laser exigem cuidado redobrado durante a gravidez. Por isso, o profissional costuma discutir o momento ideal e as alternativas disponíveis para cada caso.</p>
+<p>Essa avaliação deve considerar o tipo de pele, a extensão das manchas e a fase da gestação, sempre em conjunto com o obstetra.</p>
+
 <h2>Tratamentos que exigem cuidado na gestação</h2>
 <p>Muitos ativos clareadores usados fora da gravidez não são recomendados durante a gestação, e alguns procedimentos estéticos costumam ser adiados. Esse é um ponto que exige decisão individual, e nunca deve ser feito sem orientação.</p>
 <p>Peelings químicos, lasers e tratamentos com luz devem ser avaliados com cuidado. Em geral, o dermatologista prefere adiar intervenções até depois do parto, quando há menos risco e o resultado pode ser melhor planejado.</p>
@@ -61,6 +64,9 @@ FOTO2_SECAO: 4
 
 <p>Muitas gestantes percebem que as manchas ficam mais escuras no verão e clareiam no inverno. Esse padrão reforça que a exposição solar é um dos fatores que mais influenciam a evolução do melasma.</p>
 <p>Mudanças de rotina, como usar boné em passeios e reaplicar o filtro após atividades ao ar livre, costumam fazer diferença visível ao longo de algumas semanas.</p>
+
+<p>Quando a gestante percebe alterações rápidas, como manchas que se espalham de forma intensa ou surgem em outras áreas, o contato com o dermatologista deve ser feito sem demora, para avaliação do quadro.</p>
+<p>Anotar fotos mensais, no mesmo local e com a mesma luz, ajuda a acompanhar a evolução e a mostrar ao profissional o que mudou ao longo das semanas.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>O melasma na gravidez é perigoso para o bebê?</strong><br>Não, trata-se de uma alteração da pigmentação da pele. Ainda assim, qualquer mudança na pele deve ser comunicada ao médico.</p>

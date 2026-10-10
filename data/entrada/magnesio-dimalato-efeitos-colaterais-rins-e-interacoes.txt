@@ -76,6 +76,10 @@ FOTO2_SECAO: 4
 <p>Ao comparar produtos, observe também a presença de aditivos, adoçantes e outras substâncias. Ingredientes extras podem causar desconforto por si mesmos, o que confunde a interpretação dos sintomas.</p>
 <p>Se você notou algo novo depois de trocar de marca, considere a troca como um possível fator e comunique a mudança ao profissional que acompanha o seu caso.</p>
 
+<p>Algumas pessoas tomam o suplemento junto com outros minerais, como cálcio e zinco, sem perceber a competição pela absorção. Esse detalhe costuma passar despercebido e merece ser discutido com o profissional.</p>
+<p>Em caso de dúvida sobre a combinação, a orientação do farmacêutico pode ser muito útil para montar uma tabela simples de horários ao longo do dia.</p>
+<p>Lembre que cada pessoa responde de forma diferente, e o que foi bem tolerado por um conhecido nem sempre se aplica ao seu caso.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Magnésio dimalato causa problemas nos rins?</strong><br>Em pessoas com função renal normal, o risco é menor, mas quem tem doença renal precisa de avaliação antes do uso.</p>
 <p><strong>Quais são os efeitos colaterais mais comuns?</strong><br>Desconforto intestinal, como diarreia e cólicas, é o mais relatado.</p>

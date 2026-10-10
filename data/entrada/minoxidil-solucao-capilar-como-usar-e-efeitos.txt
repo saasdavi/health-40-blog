@@ -45,6 +45,9 @@ FOTO2_SECAO: 4
 <p>Em mulheres, o médico pode considerar fatores como a menopausa e a gravidez ao decidir o tratamento. Essas situações mudam o cálculo de benefícios e riscos e exigem avaliação individual.</p>
 <p>Também é importante lembrar que o minoxidil não trata a alopecia de forma isolada. Quando há causa hormonal, inflamatória ou nutricional, o plano pode incluir outras medidas, definidas pelo especialista.</p>
 
+<p>Algumas pessoas relatam sensação de couro cabeludo oleoso ou pele repuxada após a aplicação. Essas queixas costumam ser leves, mas devem ser comunicadas ao médico para que a fórmula ou a frequência sejam revistas.</p>
+<p>Reações alérgicas, como inchaço do rosto, urticária ou falta de ar, são urgências e pedem atendimento imediato, independentemente de quanto tempo o produto vinha sendo usado.</p>
+
 <h2>Efeitos colaterais possíveis</h2>
 <p>Os efeitos mais comuns são locais, como coceira, irritação, ressecamento e descamação do couro cabeludo. A queda inicial também entra nesse grupo de efeitos esperados e temporários.</p>
 <ul>
@@ -63,6 +66,9 @@ FOTO2_SECAO: 4
 
 <p>Ao longo do tratamento, anote a data de cada consulta, eventuais irritações e a percepção de queda. Essas informações ajudam o médico a ajustar o plano sem depender apenas da memória.</p>
 <p>Se o tratamento for interrompido por qualquer motivo, converse com o profissional antes de recomeçar, porque a retomada pode exigir nova avaliação e uma adaptação gradual.</p>
+
+<p>Quem está em tratamento deve evitar o uso de outros produtos de queda sem conversar com o médico, já que combinações sem orientação dificultam a leitura dos resultados e podem aumentar irritações.</p>
+<p>O dermatologista costuma reavaliar o plano em intervalos regulares, o que permite ajustar a conduta com base em fotos, sintomas e exames quando forem necessários.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>O minoxidil faz o cabelo crescer em todos?</strong><br>Não. A resposta varia bastante de uma pessoa para outra, e o dermatologista avalia se o tratamento faz sentido.</p>

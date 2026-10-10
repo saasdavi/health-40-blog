@@ -44,6 +44,9 @@ FOTO2_SECAO: 4
 </ul>
 <p>Como o mineral é eliminado pelos rins, a função renal deve ser considerada antes de qualquer uso contínuo.</p>
 
+<p>Na prática, a diferença entre as formas se traduz em tolerância e em quantidade efetivamente absorvida. Uma forma com melhor absorção pode exigir menos mineral para o mesmo objetivo, o que reduz o risco de desconforto.</p>
+<p>Por outro lado, quem busca apenas um efeito intestinal pode considerar que o óxido cumpre bem essa função, desde que o uso seja pontual e orientado.</p>
+
 <h2>Óxido de magnésio versus outras formas</h2>
 <p>As formas de magnésio se diferenciam principalmente pela absorção, pela tolerância digestiva e pelo uso pretendido. Em termos gerais, formas orgânicas, como o citrato e o glicinato, costumam ser mais bem absorvidas e causam menos desconforto intestinal do que o óxido.</p>
 <p>Por outro lado, o óxido pode ser mais barato e é frequentemente usado com finalidade laxante. A escolha entre uma forma e outra deve considerar o objetivo, a tolerância e as condições de saúde, e não apenas o preço.</p>
@@ -51,6 +54,9 @@ FOTO2_SECAO: 4
 
 <p>O rótulo de produtos com óxido de magnésio costuma informar a quantidade de magnésio elementar, que é a parte realmente disponível para o organismo. Comparar esse número entre produtos é mais útil do que olhar o peso total do composto.</p>
 <p>Também vale observar a presença de outros ingredientes, como cálcio, vitamina D ou antiácidos combinados, pois eles mudam o perfil de tolerância e de interação.</p>
+
+<p>Antiácidos e outros produtos que contêm cálcio, ferro ou alumínio também podem competir pela absorção no intestino. Separar os horários e informar todos os produtos ao profissional é a conduta mais segura.</p>
+<p>Pessoas que tomam medicamentos de uso contínuo devem consultar o farmacêutico antes de incluir qualquer produto novo na rotina diária.</p>
 
 <h2>Interações que exigem atenção</h2>
 <p>O óxido de magnésio pode reduzir a absorção de alguns medicamentos quando tomado no mesmo horário. Entre as classes citadas estão certos antibióticos, medicamentos para osteoporose e o hormônio tireoidiano em reposição.</p>

@@ -14,7 +14,7 @@ FOTO2_ALT: Enfermeira cuidando de paciente em ambiente hospitalar
 FOTO2_LEGENDA: A nutrição enteral é acompanhada de perto pela equipe de saúde.
 FOTO2_SECAO: 4
 ---
-<p>A fibra de soja em dietas enterais é um ingrediente usado em fórmulas nutricionais para pessoas que não conseguem se alimentar pela boca de forma adequada e precisam de nutrição por sonda ou via digestiva. Ela contribui para o funcionamento do intestino, mas seu uso é uma decisão clínica. Este texto explica, em termos gerais, para que serve, por que exige orientação e quais cuidados considerar.</p>
+<p>A fibra de soja em dietas enterais é um ingrediente usado em fórmulas nutricionais para pessoas que não conseguem se alimentar bem pela boca e precisam de nutrição por sonda ou via digestiva. Ela contribui para o funcionamento do intestino, mas seu uso é uma decisão clínica. Veja para que serve, por que exige orientação e quais cuidados considerar.</p>
 <h2>O que é a nutrição enteral</h2>
 <p>A nutrição enteral é a alimentação que chega ao trato digestivo por meio de uma sonda ou de uma via digestiva, quando o consumo por via oral é insuficiente, inseguro ou impossível. Ela é indicada em situações como doenças neurológicas, cirurgias, dificuldades para engolir e quadros de desnutrição.</p>
 <p>Por esse motivo, as fórmulas enterais são preparadas com nutrientes completos, em quantidades calculadas. Elas não são produtos de consumo livre, e a indicação, a escolha da fórmula e o volume devem ser definidos por uma equipe especializada.</p>
@@ -48,6 +48,8 @@ FOTO2_SECAO: 4
 <p>Quando a alimentação por via oral é retomada, a transição costuma ser planejada pela equipe, com acompanhamento de deglutição e de tolerância. A decisão de reduzir ou suspender a dieta enteral é clínica e deve ser feita com segurança.</p>
 <p>A oferta de água deve ser ajustada às necessidades de cada pessoa, considerando perdas, temperatura ambiente e condições clínicas. Excesso ou falta de líquidos pode causar desequilíbrios sérios, por isso a avaliação de hidratação faz parte do acompanhamento.</p>
 <p>A equipe também deve avaliar a interação com medicamentos, porque alguns remédios têm absorção alterada quando administrados junto com a dieta. O horário de cada medicação deve ser combinado com o profissional. Fórmulas enterais não devem ser misturadas com outros alimentos nem substituídas por preparações caseiras improvisadas.</p>
+<p>Pacientes em nutrição enteral costumam ter necessidades que mudam ao longo do tratamento. Por isso, a fórmula, o volume e a forma de administração são reavaliados com frequência, conforme a evolução clínica, os exames e a tolerância. Essa revisão periódica é uma parte central do cuidado e não deve ser dispensada.</p>
+<p>Ao longo do tempo, a família pode perceber mudanças de humor, de apetite ou de disposição. Relatar essas alterações à equipe ajuda a ajustar o plano nutricional e a identificar problemas antes que se agravem. A comunicação honesta entre cuidadores e profissionais é um dos fatores que mais contribuem para a segurança.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Posso comprar essa fibra e usar em casa?</strong> Não sem orientação. Dietas enterais são indicadas e acompanhadas por profissionais, e o uso inadequado pode trazer riscos.</p>
 <p><strong>Fibra de soja tem o mesmo efeito de outras fibras?</strong> Não necessariamente. Cada fibra tem características próprias de fermentação e de volume.</p>

@@ -53,6 +53,9 @@ FOTO2_SECAO: 4
 <p>Produtos vendidos sem indicação clara de composição ou de procedência merecem desconfiança. A quantidade de hormônio pode não corresponder ao que está escrito, e isso dificulta qualquer ajuste seguro.</p>
 <p>Também é importante evitar o uso como recurso para acordar cedo, combater o cansaço do dia ou compensar noites mal dormidas repetidas. Nesses casos, o problema de fundo costuma ser outro.</p>
 
+<p>Ao escolher um produto, observe se a embalagem informa a dose de melatonina por unidade, o modo de uso e a recomendação de não ultrapassar a quantidade indicada. Essas informações são obrigatórias em produtos regularizados.</p>
+<p>Se o rótulo não traz clareza sobre a composição, a melhor escolha é não comprar e pedir orientação ao farmacêutico ou ao médico.</p>
+
 <h2>Cuidados especiais na escolha</h2>
 <p>Algumas populações exigem atenção redobrada. Crianças e adolescentes devem usar apenas com orientação médica. Gestantes, lactantes e pessoas com doenças autoimunes, epilepsia ou depressão também precisam de avaliação individual.</p>
 <p>Ao dirigir ou operar máquinas, lembre que a sonolência pode persistir pela manhã, e evite o uso se ainda precisar estar alerta.</p>
@@ -66,6 +69,9 @@ FOTO2_SECAO: 4
 
 <p>Quem trabalha em turnos ou viaja com frequência pode ter o relógio biológico desregulado. Nessas situações, o momento da exposição à luz e a organização dos horários de refeição fazem diferença junto com qualquer orientação sobre o hormônio.</p>
 <p>Rotinas de sono regulares, mesmo nos fins de semana, são uma das recomendações mais consistentes da medicina do sono e não exigem nenhum produto.</p>
+
+<p>Pessoas com doenças do sono, como apneia, ou com ronco intenso devem buscar avaliação antes de recorrer ao hormônio, pois a causa do cansaço pode estar na respiração durante a noite e não no relógio biológico.</p>
+<p>Idosos que sentem sono excessivo durante o dia ou quedas frequentes também precisam de avaliação médica antes de qualquer suplemento para dormir.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>Melatonina causa dependência?</strong><br>Não é considerada uma substância de dependência física, mas o uso prolongado sem orientação não é recomendado.</p>

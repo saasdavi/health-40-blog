@@ -42,6 +42,9 @@ FOTO2_SECAO: 4
 <p>A forma de aplicação também depende da estrutura do cabelo. Fios muito cacheados, volumosos ou com muita oleosidade exigem separação cuidadosa, para que a solução chegue à raiz e não fique apenas na superfície.</p>
 <p>Para quem usa outros produtos capilares, o ideal é aplicar o minoxidil antes de finalizar, com o couro cabeludo totalmente seco, evitando misturar com óleos ou sprays de fixação.</p>
 
+<p>A rotina de aplicação costuma ser mais fácil quando associada a um hábito diário já existente, como escovar os dentes. Lembretes no celular também ajudam a manter a regularidade nas primeiras semanas.</p>
+<p>Se houver esquecimentos, o ideal é retomar a rotina no horário habitual, sem dobrar a dose para compensar, já que a orientação do médico considera a quantidade indicada.</p>
+
 <h2>O que esperar nas primeiras semanas</h2>
 <p>O tratamento costuma levar vários meses para mostrar resultados. Nas primeiras semanas, pode ocorrer uma queda temporária de fios, que faz parte da renovação do ciclo capilar. Esse efeito é descrito na literatura, mas precisa ser acompanhado pelo médico.</p>
 <p>Fotos mensais e anotações sobre a densidade ajudam a avaliar a evolução com mais objetividade. Expectativas realistas evitam abandono precoce do tratamento.</p>
@@ -49,6 +52,9 @@ FOTO2_SECAO: 4
 
 <p>Muitas pessoas se preocupam com a queda que acontece no início. Nessa fase, o mais útil é manter o registro das observações e não interromper a aplicação por conta própria, salvo se houver sinais de reação importante.</p>
 <p>Se a irritação for leve, ajustar a frequência e hidratar o couro cabeludo com produtos suaves, conforme indicado pelo médico, pode ser suficiente para o desconforto diminuir.</p>
+
+<p>Em mulheres, a orientação sobre a aplicação deve considerar possíveis mudanças hormonais e a eventual gestação. Qualquer suspeita de gravidez durante o tratamento deve ser comunicada ao médico imediatamente.</p>
+<p>O produto não deve ser utilizado por crianças, e a aplicação em bebês ou em pessoas que cuidam deles exige cuidado redobrado para evitar contato acidental.</p>
 
 <h2>Cuidados e efeitos indesejados</h2>
 <p>Os efeitos mais comuns são irritação do couro cabeludo, coceira, vermelhidão e descamação. Em casos menos frequentes, podem surgir crescimento de pelos em áreas próximas e alterações da pressão, principalmente se houver absorção maior do que a prevista.</p>

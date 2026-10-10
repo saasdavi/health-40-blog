@@ -62,6 +62,9 @@ FOTO2_SECAO: 4
 <p>A pele do couro cabeludo é sensível e coberta por fios que podem prender sujeira e oleosidade. Por isso, a massagem deve ser feita com as mãos limpas e, se houver produto, com quantidade pequena.</p>
 <p>Evite pressionar com as unhas, esfregar com força ou usar pentes e escovas duras logo após a massagem, sobretudo se o couro cabeludo estiver avermelhado ou sensível.</p>
 
+<p>Se a massagem for feita por outra pessoa, como em um salão ou em casa com um familiar, peça que a pressão seja ajustada à sua sensibilidade e que a sessão pare imediatamente em caso de desconforto.</p>
+<p>Profissionais de estética que oferecem massagem capilar devem seguir normas de higiene e informar quando a técnica não é indicada, inclusive em casos de pele lesionada.</p>
+
 <h2>Cuidados ao fazer a massagem</h2>
 <p>Mantenha a pressão suave e evite movimentos que puxem os fios com força. Não massageie áreas com coceira intensa sem causa conhecida, e não use objetos pontiagudos. Se houver desconforto durante ou após a prática, pare.</p>
 <p>Quem tem alergia a componentes de óleos e cremes deve testar o produto em uma pequena área antes do uso regular.</p>
@@ -81,6 +84,8 @@ FOTO2_SECAO: 4
 <h2>Quando procurar um médico</h2>
 <p>Procure um dermatologista se houver feridas que não cicatrizam, coceira persistente, dor, vermelhidão, pus, queda acentuada ou áreas sem cabelo que surgem de repente. Esses sinais podem indicar condições que precisam de diagnóstico e tratamento.</p>
 <p>O especialista avalia o couro cabeludo e orienta se a massagem é indicada. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+
+<p>Para quem gosta da prática, o ponto de equilíbrio está em usar a massagem como momento de cuidado e relaxamento, sem esperar efeitos que a ciência ainda não confirmou e sem ignorar sinais de alerta no couro cabeludo.</p>
 
 <h2>Resumindo</h2>
 <p>A massagem capilar pode trazer relaxamento e bem-estar quando feita com suavidade e em um couro cabeludo saudável. Os benefícios para o crescimento dos fios ainda não estão comprovados, e há contraindicações importantes em caso de feridas, infecções e inflamações.</p>

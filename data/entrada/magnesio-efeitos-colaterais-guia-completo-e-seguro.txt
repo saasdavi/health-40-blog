@@ -67,6 +67,9 @@ FOTO2_SECAO: 4
 <p>Pessoas acima de certa idade devem ter atenção redobrada, já que a função dos rins tende a diminuir gradualmente e a eliminação do mineral pode ficar mais lenta sem que a pessoa perceba.</p>
 <p>Ao comprar qualquer suplemento, leia o rótulo, confira a quantidade de magnésio por porção e as advertências. Produtos sem informações claras devem ser evitados.</p>
 
+<p>Na gestação, o magnésio é frequentemente discutido em conjunto com outros cuidados pré-natais. Ainda assim, a suplementação deve ser decidida pelo obstetra, que avalia necessidade, dose e acompanhamento.</p>
+<p>O mesmo vale para mulheres que amamentam, pois a orientação individual evita excessos e garante que a alimentação esteja cobrindo a necessidade diária do mineral.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>O magnésio pode fazer mal?</strong><br>Em excesso, sim, principalmente em quem tem problemas renais. Por isso a orientação profissional é importante.</p>
 <p><strong>Diarreia com magnésio é normal?</strong><br>É um efeito comum com doses altas, mas, se persistir, deve ser avaliado por um médico.</p>

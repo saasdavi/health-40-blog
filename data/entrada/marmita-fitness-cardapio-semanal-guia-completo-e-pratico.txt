@@ -20,6 +20,9 @@ FOTO2_SECAO: 4
 <p>Planejar as refeições evita escolhas apressadas, que costumam ser menos equilibradas. Com um cardápio definido, a lista de compras fica mais objetiva e há menos desperdício de alimentos.</p>
 <p>Além disso, preparar porções em lote permite controlar melhor o tamanho das refeições e a variedade de nutrientes, o que facilita a manutenção de hábitos saudáveis.</p>
 
+<p>Antes de cozinhar, vale planejar a quantidade para duas ou três refeições por dia de uso e separar o que será congelado. Essa conta simples evita sobras excessivas e o descarte de comida que não foi consumida a tempo.</p>
+<p>Também é útil montar listas de substituições, para que um ingrediente em falta possa ser trocado por outro do mesmo grupo, sem comprometer o equilíbrio da refeição.</p>
+
 <h2>Como montar o prato da marmita</h2>
 <p>Uma forma prática de compor a marmita é dividir o prato em partes. Metade deve ser de legumes e verduras variadas, uma parte de proteína, como ovo, frango, peixe, feijão ou tofu, e uma parte de carboidrato de preferência integral, como arroz, batata-doce, quinoa ou macarrão integral.</p>
 <ul>
@@ -28,6 +31,9 @@ FOTO2_SECAO: 4
 <li><strong>Carboidratos:</strong> escolha grãos integrais sempre que possível.</li>
 <li><strong>Gorduras boas:</strong> um fio de azeite ou algumas sementes completam a refeição.</li>
 </ul>
+
+<p>Uma forma prática de começar é escolher duas proteínas, dois tipos de grãos e quatro ou cinco legumes para a semana. Com essa base, as combinações mudam sem exigir compras diferentes a cada dia.</p>
+<p>Frutas e saladas simples podem completar as marmitas ou ser consumidas separadamente, de acordo com o apetite e a rotina de cada pessoa.</p>
 
 <h2>Marmita fitness cardápio semanal: um exemplo de organização</h2>
 <p>Você pode alternar combinações para não enjoar. Veja uma sugestão genérica de rotação, que pode ser adaptada a preferências e restrições alimentares:</p>

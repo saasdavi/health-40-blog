@@ -31,6 +31,9 @@ FOTO2_SECAO: 4
 <p>Outro ponto que costuma passar despercebido é o volume. Latas grandes concentram mais cafeína do que parece, e o consumo de mais de uma unidade no mesmo dia soma os efeitos sem que a pessoa perceba essa soma.</p>
 <p>Por isso, vale verificar a quantidade de cafeína indicada no rótulo e comparar com outras fontes do dia, como café, chá preto, refrigerantes à base de cola e chocolate.</p>
 
+<p>Além da cafeína, o perfil de estimulantes de uma bebida pode incluir outros compostos, cuja ação combinada ainda é pouco estudada. Essa falta de estudos é um motivo a mais para moderação.</p>
+<p>Ler o rótulo com atenção, comparar quantidades entre marcas e considerar o contexto do consumo ajuda a tomar decisões mais informadas.</p>
+
 <h2>Como a cafeína age no organismo</h2>
 <p>A cafeína estimula o sistema nervoso, aumenta o estado de alerta e pode elevar temporariamente a frequência cardíaca e a pressão arterial. Em pessoas sensíveis, mesmo doses moderadas podem causar agitação, ansiedade, tremores e dificuldade para dormir.</p>
 <p>O efeito pode durar várias horas. Por isso, o consumo no fim do dia costuma atrapalhar o sono, e a falta de sono, por sua vez, reforça a sensação de cansaço e a vontade de consumir mais estimulantes.</p>
@@ -38,6 +41,9 @@ FOTO2_SECAO: 4
 
 <p>A cafeína também atua sobre a sensação de sede e sobre o equilíbrio de líquidos. Em dias quentes, ou durante exercícios intensos, o consumo de estimulantes pode contribuir para desidratação e mal-estar.</p>
 <p>Esse quadro é especialmente relevante para idosos, que podem ter menor sensação de sede, e para quem treina em altas temperaturas sem reposição adequada de água.</p>
+
+<p>Em pessoas saudáveis, o organismo costuma se adaptar a doses moderadas de cafeína, mas essa tolerância varia muito. Fatores genéticos, o uso de medicamentos e o consumo de outras fontes de cafeína alteram a resposta de cada um.</p>
+<p>Por isso, não existe uma quantidade universal considerada segura para todos, e a orientação individual é a referência mais confiável.</p>
 
 <h2>Riscos para o coração e a pressão</h2>
 <p>O consumo frequente de estimulantes pode elevar a pressão e acelerar os batimentos. Em quem tem doença cardíaca, arritmia ou hipertensão, a combinação de cafeína com esforço físico ou estresse aumenta o risco de complicações.</p>
@@ -54,6 +60,9 @@ FOTO2_SECAO: 4
 <p>Também é importante observar a relação entre o consumo e a vida emocional. Quem usa energéticos para compensar noites mal dormidas pode criar um ciclo em que o cansaço aumenta a dependência do estimulante, e não o contrário.</p>
 <p>Nesses casos, a orientação de um profissional pode ajudar a investigar a causa do cansaço, que pode envolver sono, alimentação, anemia, alterações da tireoide ou ansiedade.</p>
 <p>Para pessoas que praticam esportes, a hidratação com água e a alimentação adequada são, em geral, mais indicadas do que bebidas com estimulantes.</p>
+
+<p>Algumas pessoas notam palpitações e sensação de coração acelerado depois de consumir o produto, mesmo sem doença conhecida. Esse sintoma merece atenção e, se persistir, deve motivar uma avaliação com o médico.</p>
+<p>Pressão alta medida com frequência após o consumo também é informação útil para o profissional, que pode decidir sobre exames complementares.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>Energético sem açúcar é mais seguro?</strong><br>Não necessariamente. A cafeína continua presente e seus efeitos no coração e no sono permanecem.</p>

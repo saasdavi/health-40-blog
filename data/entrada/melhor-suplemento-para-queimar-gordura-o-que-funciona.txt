@@ -47,6 +47,9 @@ FOTO2_SECAO: 4
 <p>Entre as estratégias mais estudadas está o treino de força, que ajuda a preservar a massa muscular durante a perda de peso e melhora a composição corporal ao longo do tempo.</p>
 <p>O sono também merece destaque: noites curtas aumentam a fome e a vontade de alimentos calóricos, o que dificulta qualquer plano alimentar, por mais bem desenhado que ele seja.</p>
 
+<p>Mudanças de alimentação costumam ser mais duradouras quando são feitas com escolhas que a pessoa consegue manter. Trocar refrigerantes por água, aumentar legumes no almoço e planejar lanches são ajustes simples que se acumulam.</p>
+<p>O acompanhamento com nutricionista permite ajustar a quantidade de energia e de proteína ao seu momento de vida, respeitando preferências e condições de saúde.</p>
+
 <h2>O que funciona de forma consistente</h2>
 <p>As medidas com maior respaldo científico são conhecidas e pouco glamourosas. Elas incluem alimentação com déficit calórico moderado e sustentado, consumo adequado de proteína e fibras, atividade física regular com treino de força e aeróbico, sono de boa qualidade e controle do estresse.</p>
 <p>Essas mudanças exigem paciência, mas produzem efeitos mais previsíveis e seguros. Quando necessário, um profissional pode ajustar o plano ao seu caso, inclusive com acompanhamento de exames.</p>
@@ -54,6 +57,9 @@ FOTO2_SECAO: 4
 
 <p>Acompanhar a evolução com medidas simples, como a cintura, o peso em intervalos regulares e a disposição no dia a dia, costuma ser mais útil do que depender de uma única balança ou de promessas de rapidez.</p>
 <p>Quando a perda de peso é o foco, a orientação profissional permite revisar exames, medicamentos e condições associadas, como pressão e glicemia, antes de qualquer decisão sobre suplementação.</p>
+
+<p>Quando a perda de peso vem acompanhada de cansaço, tontura, queda de cabelo ou alterações do humor, o quadro merece investigação. Essas queixas podem indicar desequilíbrios que não se resolvem com produtos de emagrecimento.</p>
+<p>Também é importante lembrar que a perda de peso rápida e sem orientação pode levar à perda de massa muscular, o que reduz a força e prejudica a saúde a longo prazo.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>Existe suplemento que reduz gordura de verdade?</strong><br>As evidências são fracas e não sustentam uma recomendação geral. Nenhum produto substitui alimentação e atividade física.</p>

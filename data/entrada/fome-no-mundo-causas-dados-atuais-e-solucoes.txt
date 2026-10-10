@@ -49,6 +49,7 @@ FOTO2_SECAO: 4
 <p>O desperdício é outro ponto central. Grande parte dos alimentos perdidos ocorre na colheita, no transporte e no armazenamento, e também em casa. Melhorar a infraestrutura e orientar o consumo doméstico são ações que, somadas, podem liberar comida para quem precisa.</p>
 <p>A relação entre fome e saúde mental também é estudada. Insegurança alimentar está associada a estresse, ansiedade e depressão, o que cria um ciclo difícil de romper sem apoio. Por isso, políticas de alimentação costumam ser pensadas junto com as de saúde, assistência social e educação.</p>
 <p>A informação de qualidade ajuda a combater desinformação sobre o tema. Dados de diferentes fontes, metodologias transparentes e análises regionais permitem decisões mais justas e eficazes, e evitam que o debate se concentre em slogans.</p>
+<p>Políticas de transferência de renda costumam ser debatidas com cuidado, porque seus efeitos dependem do desenho do programa, do acompanhamento das famílias e da articulação com outros serviços. Quando combinadas a emprego, educação e saúde, tendem a produzir resultados mais duradouros do que ações isoladas.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Fome e pobreza são a mesma coisa?</strong> Estão relacionadas, mas não são idênticas. A pobreza é um dos fatores mais associados à insegurança alimentar, mas há outras causas.</p>
 <p><strong>Produzir mais alimentos resolve a fome?</strong> Ajuda, mas não basta. Sem renda, acesso, distribuição e políticas adequadas, parte da população continua sem alimentação suficiente.</p>

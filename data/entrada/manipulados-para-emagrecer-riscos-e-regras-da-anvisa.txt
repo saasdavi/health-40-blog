@@ -20,6 +20,9 @@ FOTO2_SECAO: 4
 <p>Manipulados são preparações feitas sob prescrição para atender a uma necessidade específica de um paciente. Quando o termo é usado para emagrecimento, a composição pode incluir combinações de substâncias variadas, em doses que não foram testadas em conjunto.</p>
 <p>Essa personalização, quando feita com responsabilidade, tem papel legítimo na medicina. O problema surge quando a fórmula é oferecida como solução padronizada, sem avaliação clínica e sem acompanhamento.</p>
 
+<p>Outro aspecto pouco discutido é o tempo de uso. Fórmulas mantidas por meses, sem reavaliação, podem alterar exames de sangue, pressão e função de órgãos sem sintomas evidentes, o que torna o acompanhamento indispensável.</p>
+<p>Mesmo quando a pessoa se sente bem, a manutenção de qualquer tratamento deve ser revisada periodicamente com o profissional responsável.</p>
+
 <h2>Riscos dos manipulados para emagrecer</h2>
 <p>Os riscos variam conforme os ingredientes, a dose e a condição de saúde de quem usa. Entre as preocupações mais citadas estão:</p>
 <ul>
@@ -72,6 +75,9 @@ FOTO2_SECAO: 4
 <p><strong>Farmácia de manipulação precisa de receita?</strong><br>Sim, em geral a preparação parte de prescrição, e a orientação técnica faz parte do processo.</p>
 <p><strong>Posso comprar pela internet?</strong><br>Compras de origem duvidosa aumentam o risco de falsificação e de dose errada. Prefira estabelecimentos regularizados e receita médica.</p>
 <p><strong>Se eu já usei e senti algo, o que faço?</strong><br>Interrompa o uso e procure atendimento médico, levando a embalagem ou a receita.</p>
+
+<p>Se você tiver recebido uma fórmula de emagrecimento de alguém sem prescrição, guarde a embalagem, anote os ingredientes e leve tudo ao profissional. Não tente combinar outros remédios por conta própria para compensar desconfortos.</p>
+<p>Em caso de dúvida sobre a procedência, é possível também comunicar a suspeita aos órgãos de vigilância sanitária da sua região.</p>
 
 <h2>Quando procurar um médico</h2>
 <p>Procure atendimento de urgência se houver palpitações, dor no peito, falta de ar, desmaio, vômitos persistentes, confusão ou sinais de desidratação. Também é importante buscar orientação antes de qualquer uso em caso de doença do coração, pressão alta, diabetes, problemas renais ou hepáticos, gravidez ou uso contínuo de medicamentos.</p>

@@ -69,6 +69,9 @@ FOTO2_SECAO: 4
 <p>Quem tem histórico de queimaduras solares na infância, pele muito clara ou muitos sinais pelo corpo deve reforçar a rotina de proteção e manter as consultas dermatológicas em dia. Para outras alterações de cor, veja também <a href="/manchas-na-pele/">manchas na pele</a>.</p>
 <p>O filtro solar deve ser aplicado também em dias nublados, porque grande parte da radiação ultravioleta atravessa as nuvens.</p>
 
+<p>Quando a mancha está em uma área de atrito, como a mão que segura objetos, ou sofre irritação repetida, vale observar se há descamação ou coceira, pois a inflamação pode alterar a aparência da lesão.</p>
+<p>Nesses casos, uma avaliação dermatológica permite distinguir a mancha benigna de outras alterações que exigem seguimento, sem depender de comparações feitas na internet.</p>
+
 <h2>Perguntas frequentes</h2>
 <p><strong>Manchas senis são perigosas?</strong><br>Na maioria dos casos, não. Mesmo assim, qualquer mudança de forma, cor ou tamanho deve ser avaliada.</p>
 <p><strong>Elas podem sumir sozinhas?</strong><br>Em geral não desaparecem por conta própria, mas podem clarear com o tempo se a exposição solar diminuir.</p>
