@@ -43,6 +43,52 @@ Dias de conteúdo já escrito + pauta validada: **12** (a 3 por dia).
 | Pressão alta sintomas: saiba por que a doença é silenciosa | 1627 | 87 | 2026-12-23 |
 | Próstata aumentada: sintomas e o que fazer | 1046 | 92 | 2026-10-24 |
 | Ureia alta: causas e o que fazer | 1037 | 92 | 2026-10-13 |
+| Lanches Saudáveis: Ideias para o Dia a Dia | 1351 | 86 | - |
+| Açúcar: tipos, calorias e limite recomendado | 1508 | 100 | - |
+| Atemoia: benefícios, cuidados e como comer | 1483 | 92 | - |
+| Caixa d’água: como escolher e limpar | 1682 | 86 | - |
+| Goiaba: benefícios, intestino e tailandesa | 1798 | 100 | - |
+| Ashwagandha: benefícios, efeitos e cuidados | 1631 | 92 | - |
+| Bananazinha: Cachaça de Banana, Teor e Como Tomar | 1870 | 85 | - |
+| Biotina: para que serve, benefícios e cuidados | 1433 | 92 | - |
+| Calcular Tabela Nutricional Online Grátis: Guia Prático | 2016 | 87 | - |
+| Celulite: causas, graus e tratamentos | 1575 | 100 | - |
+| Chá de cavalinha: para que serve e riscos | 1510 | 100 | - |
+| Chá Para Aumentar a Imunidade — O Que Funciona | 2154 | 90 | - |
+| Creatina: Para Que Serve, Benefícios, Riscos e Como Tomar | 2208 | 87 | 2027-05-24 |
+| Déficit Calórico: Como Calcular e Emagrecer com Saúde | 1678 | 85 | - |
+| Dermatite de contato: causas e como tratar | 1537 | 100 | 2026-10-26 |
+| Dieta Low Carb: Guia Completo com Cardápio | 1713 | 92 | - |
+| Dieta Para Secar Barriga: Estratégias Comprovadas | 1768 | 87 | - |
+| Dieta Simples Para Emagrecer — Guia Prático e Barato | 1769 | 87 | - |
+| Emagrecer com Saúde: Guia Completo e Sustentável | 1794 | 92 | - |
+| Emagrecimento Saudável: Guia Completo e Seguro | 1911 | 86 | - |
+| Fiberlift — O Que É, Como Usar e Contraindicações | 1646 | 87 | - |
+| Fibra Mais: Para Que Serve e Como Tomar | 1489 | 90 | - |
+| Glaçúcar União: Para Que Serve e Composição | 1428 | 90 | - |
+| Jejum Intermitente Para Emagrecer — Guia Prático | 1873 | 89 | - |
+| Lista de Dieta Para Emagrecer — Guia Prático | 1865 | 88 | - |
+| Magnésio: Para Que Serve, Tipos e Cuidados | 2187 | 88 | 2027-05-24 |
+| Melanoma: sinais, ABCDE e quando procurar | 1772 | 100 | - |
+| Melasma: causas, sintomas e como cuidar | 1602 | 100 | 2026-10-29 |
+| Melatonina: Para Que Serve, Se Vicia e Como Usar | 2005 | 90 | 2027-05-25 |
+| Nutrição Estética: Guia Completo da Pele e Saúde | 2314 | 92 | - |
+| Osteoporose: sintomas, prevenção e tratamento | 1355 | 86 | - |
+| Paralisia do sono: causas e o que fazer | 1512 | 100 | 2026-10-27 |
+| Polissonografia: o que é e como se preparar | 1508 | 100 | - |
+| Pomelos: nutrientes, remédios e cuidados | 1529 | 100 | - |
+| Probióticos: Para Que Servem, Tipos e Benefícios | 2029 | 92 | - |
+| Queloide: o que é, causas e tratamento | 1527 | 100 | - |
+| Queratose pilar: causas e tratamento | 1512 | 100 | - |
+| Quero Emagrecer — Guia Realista e Saudável | 1779 | 85 | - |
+| Reeducação Alimentar Para Emagrecer — Guia Prático | 1834 | 87 | - |
+| Sarna: sintomas, como se pega e quando tratar | 1523 | 100 | - |
+| Menopausa: sintomas, fases e como aliviar | 1581 | 92 | 2026-10-30 |
+| Suco de Cebola no Cabelo: Funciona ou Mito? | 1511 | 92 | - |
+| Super Chá SB — O Que É, Riscos e Evidências | 1823 | 88 | - |
+| Tabela de Calorias dos Alimentos — Guia Prático | 2115 | 86 | - |
+| Urticária: causas, sintomas e quando procurar | 1549 | 100 | - |
+| Whey Protein: Para Que Serve, Tipos e Como Tomar | 2404 | 88 | - |
 
 ## Publicados
 
