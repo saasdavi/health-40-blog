@@ -1,181 +1,68 @@
 PALAVRA_CHAVE: inibidor de apetite forte
-TITLE: Inibidor de Apetite Forte: O Que É Aprovado e os Riscos
-DESCRIPTION: Conheça os inibidores de apetite aprovados pela Anvisa, os riscos das fórmulas clandestinas, efeitos colaterais e critérios clínicos para prescrição.
+TITLE: Inibidor de apetite forte: riscos e cuidados
+DESCRIPTION: Inibidor de apetite forte: entenda por que exigem prescrição, quais riscos existem e por que não devem ser usados por conta própria.
 FONTE: sbcbm.org.br | https://sbcbm.org.br
 FONTE: Governo Federal | https://www.gov.br
 FONTE: Anvisa | https://www.gov.br/anvisa
-CAPA_BUSCA: healthy meal plate vegetables
-CAPA_ALT: Refeição equilibrada sobre inibidor de apetite forte
-FOTO1_BUSCA: healthy food salad bowl
-FOTO1_ALT: Alimentação equilibrada no dia relacionado a inibidor de apetite forte
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+CAPA_BUSCA: doctor prescription consultation
+CAPA_ALT: Médica entregando receita a paciente em consultório, ilustrando a prescrição de medicamentos
+FOTO1_BUSCA: pharmacy shelves medicine
+FOTO1_ALT: Prateleiras de farmácia com medicamentos organizados
+FOTO1_LEGENDA: Medicamentos sujeitos a controle exigem orientação e receita.
 FOTO1_SECAO: 2
+FOTO2_BUSCA: doctor reviewing health report
+FOTO2_ALT: Médico revisando exames e relatório de saúde com paciente
+FOTO2_LEGENDA: A avaliação de riscos é feita caso a caso pelo médico.
+FOTO2_SECAO: 4
 ---
-<div id="container-imagem-capa" class="loading">Carregando imagem...</div>
-
-<p>A busca por um inibidor de apetite forte é intensa, especialmente entre pessoas que enfrentam dificuldades para emagrecer. No entanto, esse termo carrega uma confusão perigosa: ele mistura medicamentos aprovados e regulamentados com fórmulas clandestinas vendidas ilegalmente. Entender essa diferença é essencial para proteger a saúde.</p>
-
-<p>Este guia explica quais inibidores de apetite são aprovados pela Anvisa, os riscos das fórmulas clandestinas, os efeitos colaterais dos medicamentos e os critérios clínicos que definem quem realmente tem indicação para usá-los.</p>
-
-<h2>O que são inibidores de apetite e como funcionam?</h2>
-<p>Inibidores de apetite são substâncias que reduzem a fome e a sensação de necessidade de comer, contribuindo para uma menor ingestão calórica. Eles atuam em diferentes mecanismos: alguns agem no sistema nervoso central, modulando neurotransmissores como serotonina, noradrenalina e dopamina; outros retardam o esvaziamento gástrico ou reduzem a absorção de gordura no intestino.</p>
-
-<p>No Brasil, apenas alguns medicamentos têm registro na Anvisa para tratamento da obesidade. Suplementos de venda livre, como fibras e fitoterápicos, não são medicamentos e não podem prometer tratar ou tratar doenças.</p>
-
-<p>O tratamento medicamentoso para obesidade deve ser sempre adjuvante a mudanças no estilo de vida, incluindo alimentação equilibrada e atividade física regular.</p>
-
-<div id="container-imagem-1" class="loading">Carregando imagem...</div>
-
-<h2>Quais inibidores de apetite são aprovados pela Anvisa?</h2>
-<p>Atualmente, cinco medicamentos são registrados pela Anvisa para o tratamento da obesidade no Brasil. Eles se dividem em três categorias: ação central, ação periférica e agonistas de GLP-1.</p>
-
-<table>
-<thead>
-<tr>
-<th>Medicamento</th>
-<th>Mecanismo</th>
-<th>Apresentação</th>
-<th>Prescrição</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Sibutramina</td>
-<td>Inibe recaptação de serotonina e noradrenalina</td>
-<td>Cápsulas 10 e 15 mg</td>
-<td>Receituário B2 com termo de responsabilidade</td>
-</tr>
-<tr>
-<td>Orlistate</td>
-<td>Inibe lipases, reduz absorção de 30% da gordura</td>
-<td>Cápsulas 120 mg</td>
-<td>Prescrição médica</td>
-</tr>
-<tr>
-<td>Liraglutida (Saxenda)</td>
-<td>Agonista GLP-1</td>
-<td>Injetável</td>
-<td>Prescrição médica</td>
-</tr>
-<tr>
-<td>Semaglutida (Wegovy)</td>
-<td>Agonista GLP-1</td>
-<td>Injetável</td>
-<td>Prescrição médica</td>
-</tr>
-<tr>
-<td>Tirzepatida (Mounjaro)</td>
-<td>Agonista duplo GLP-1/GIP</td>
-<td>Injetável</td>
-<td>Prescrição médica</td>
-</tr>
-</tbody>
-</table>
-
-<p>A sibutramina e o orlistate são os únicos medicamentos orais aprovados para emagrecimento. Os agonistas de GLP-1 são injetáveis e têm as maiores taxas de perda de peso, mas exigem prescrição e acompanhamento médico.</p>
-
-<p>Vale notar que a sibutramina tem um perfil de segurança restrito. Ela é contraindicada para pacientes com história de doença cardiovascular, hipertensão não controlada, arritmias, insuficiência cardíaca ou histórico de AVC.</p>
-
-<div id="container-imagem-2" class="loading">Carregando imagem...</div>
-
-<h2>Riscos das fórmulas clandestinas vendidas na internet</h2>
-<p>O maior perigo não está nos medicamentos aprovados, mas nas fórmulas clandestinas vendidas em redes sociais e sites sem procedência. A Anvisa tem intensificado a fiscalização e publicado alertas frequentes.</p>
-
-<p>Em janeiro de 2026, a Anvisa proibiu a comercialização de injeções de tirzepatida das marcas Synedica e TG, além de todas as formulações de retatrutida, vendidas ilegalmente como “canetas emagrecedoras do Paraguai”. Os produtos não possuíam registro no Brasil e não tiveram qualidade, eficácia e segurança avaliadas pela autoridade sanitária.</p>
-
-<p>Essas fórmulas clandestinas podem conter substâncias proibidas, como anfepramona ou sibutramina camufladas, ou simplesmente não conter o que prometem. O risco de contaminação, dosagem incorreta e reações graves é alto. A Anvisa e a Polícia Federal realizaram operações conjuntas que resultaram na apreensão de mais de 1,3 milhão de unidades de medicamentos injetáveis irregulares.</p>
-
-<p>Denúncias de comercialização irregular podem ser feitas diretamente à Vigilância Sanitária Estadual. A orientação é evitar qualquer produto sem registro na Anvisa, especialmente os vendidos apenas em redes sociais ou com promessas exageradas.</p>
-
-<h3>Efeitos colaterais dos medicamentos aprovados</h3>
-<p>Os medicamentos aprovados também apresentam efeitos colaterais. A sibutramina está associada a boca seca (29,2%), taquicardia (20,9%), constipação (18,9%), hipertensão (17,5%), insônia (17,2%) e dor de cabeça (11,3%).</p>
-
-<p>O orlistate pode causar esteatorreia (eliminação de gordura nas fezes), urgência para evacuar, flatulência com eliminação de gorduras, diarreia e dor abdominal. Além disso, pode reduzir a absorção de vitaminas lipossolúveis (A, D, E, K) e aumentar o risco de cálculos renais.</p>
-
-<p>Os agonistas de GLP-1, como semaglutida e tirzepatida, causam náuseas, vômitos, diarreia e constipação. O efeito colateral mais preocupante, no entanto, é a perda de massa muscular.</p>
-
-<div id="container-imagem-3" class="loading">Carregando imagem...</div>
-
-<h2>Perda de massa muscular com GLP-1</h2>
-<p>Estudos recentes têm demonstrado que a perda de massa magra durante o tratamento com agonistas de GLP-1 pode ser significativa. Uma revisão publicada no Journal of the American College of Cardiology analisou 20 estudos e concluiu que a proporção de massa magra perdida variou de 5,7% a 38,9% do total de peso reduzido.</p>
-
-<p>Isso significa que, em alguns casos, quase 40% do peso perdido pode ser músculo, não gordura. A perda de massa muscular reduz o gasto energético em repouso e pode levar à sarcopenia, especialmente em idosos e pessoas com reservas musculares limitadas.</p>
-
-<p>A Cleveland Clinic explica que a perda de músculo não é causada diretamente pelos medicamentos, mas pelo processo de emagrecimento rápido. Quando o peso é perdido rapidamente, sem foco em dieta e exercício, a perda de massa magra é maior.</p>
-
-<p>Estratégias para mitigar esse problema incluem ingestão proteica adequada, treino de resistência e perda de peso mais lenta. O acompanhamento profissional é essencial para ajustar o plano conforme a resposta individual.</p>
-
-<h2>Critérios clínicos: quem realmente tem indicação?</h2>
-<p>Nem todo mundo que deseja emagrecer tem indicação clínica para usar inibidores de apetite. Os critérios são bem definidos e envolvem avaliação médica rigorosa.</p>
-
-<p>De acordo com protocolos clínicos, a farmacoterapia para obesidade é indicada para adultos com IMC ≥ 30 kg/m² ou IMC ≥ 27 kg/m² com pelo menos uma comorbidade relacionada ao peso, como hipertensão, diabetes tipo 2, dislipidemia, apneia do sono, doença cardiovascular ou esteatose hepática.</p>
-
-<p>Além disso, o paciente deve ter tentado mudanças no estilo de vida por pelo menos três meses sem sucesso comprovado. A medicação é adjuvante, não substituta, dessas mudanças.</p>
-
-<p>Para agonistas de GLP-1, os critérios são semelhantes, com algumas variações. Em protocolos municipais, como o de Montes Claros (MG), a semaglutida é disponibilizada para pacientes com obesidade grau II ou III documentada por avaliação médica, falha em tratamento convencional e pelo menos uma condição associada, como diabetes tipo 2, hipertensão, apneia do sono ou doença cardiovascular prévia.</p>
-
-<h3>Contraindicações e grupos de risco</h3>
-<p>A sibutramina é contraindicada para gestantes, lactantes, pacientes com história de doença arterial coronariana, insuficiência cardíaca congestiva, arritmias, doença cerebrovascular, hipertensão não controlada e insuficiência renal ou hepática grave. Também é contraindicada para maiores de 65 anos.</p>
-
-<p>O orlistate é contraindicado para gestantes, lactantes e pacientes com síndrome da má absorção crônica ou colestase.</p>
-
-<p>Os agonistas de GLP-1 não são indicados para gestantes e lactantes. Pessoas com história de pancreatite, doença renal grave ou problemas de tireoide devem ter avaliação médica antes de iniciar o tratamento.</p>
-
-<p>Pessoas com histórico de transtornos alimentares devem evitar qualquer medicamento que prometa supressão de apetite, pois o foco excessivo no controle da fome pode agravar o quadro.</p>
-
-<h2>O que realmente funciona para controlar o apetite</h2>
-<p>Nenhum suplemento ou medicamento substitui o básico. O controle do apetite é influenciado por múltiplos fatores: composição das refeições, sono, estresse, atividade física e hábitos alimentares.</p>
-
-<p>Proteína e fibras são os nutrientes que mais contribuem para a saciedade. Uma refeição com proteína magra, vegetais e uma fonte de fibra solúvel mantém a fome sob controle por mais tempo do que qualquer cápsula.</p>
-
-<p>O sono adequado regula os hormônios da fome, leptina e grelina. A privação de sono aumenta a grelina e reduz a leptina, favorecendo o apetite e o consumo de calorias.</p>
-
-<p>O estresse crônico eleva o cortisol, que está associado ao aumento da fome e à preferência por alimentos calóricos. Gerenciar o estresse é parte do controle do apetite.</p>
-
-<p>O treino de resistência, como musculação, é um aliado fundamental. Ele preserva a massa muscular, mantém o metabolismo ativo e melhora a composição corporal, mesmo que a balança não mostre grandes variações.</p>
-
-<h2>Perguntas frequentes</h2>
-
-<h3>1. Qual é o inibidor de apetite mais forte que existe?</h3>
-<p>Os agonistas de GLP-1, como a semaglutida e a tirzepatida, têm as maiores taxas de perda de peso, mas exigem prescrição e acompanhamento médico. A sibutramina é um dos medicamentos orais mais eficazes, mas tem contraindicações importantes.</p>
-
-<h3>2. Qual o remédio mais eficaz para tirar a fome?</h3>
-<p>Não existe um remédio “mais eficaz” universal. A escolha depende do perfil clínico, das comorbidades e da tolerância individual. O que funciona para uma pessoa pode não funcionar para outra.</p>
-
-<h3>3. Qual inibidor de apetite é liberado pela Anvisa?</h3>
-<p>A Anvisa registra a sibutramina, o orlistate, a liraglutida, a semaglutida e a tirzepatida para tratamento da obesidade. Todos exigem prescrição médica.</p>
-
-<h3>4. Quais os riscos de tomar inibidor de apetite por conta própria?</h3>
-<p>O uso sem indicação médica pode causar efeitos colaterais graves, como arritmias, hipertensão, ansiedade, insônia e interações medicamentosas. Fórmulas clandestinas podem conter substâncias proibidas e contaminantes.</p>
-
-<h3>5. Inibidor de apetite natural funciona?</h3>
-<p>Suplementos naturais como psyllium e picolinato de cromo têm evidência limitada e não se comparam a medicamentos prescritos. Nenhum suplemento substitui déficit calórico e mudanças no estilo de vida.</p>
-
-<h2>Resumindo</h2>
-<p>Inibidores de apetite são medicamentos que reduzem a fome e a ingestão calórica, mas apenas alguns são aprovados pela Anvisa para tratamento da obesidade: sibutramina, orlistate, liraglutida, semaglutida e tirzepatida.</p>
-
-<p>A confusão entre medicamentos aprovados e fórmulas clandestinas é perigosa. Produtos vendidos em redes sociais sem registro na Anvisa podem conter substâncias proibidas e causar reações graves, incluindo morte.</p>
-
-<p>Os medicamentos aprovados têm efeitos colaterais. A sibutramina pode causar taquicardia e hipertensão. O orlistate causa esteatorreia e reduz absorção de vitaminas. Os GLP-1 causam náuseas e podem levar à perda significativa de massa muscular.</p>
-
-<p>A indicação clínica é restrita: adultos com IMC ≥ 30 ou IMC ≥ 27 com comorbidades relacionadas ao peso, após falha de tratamento convencional por pelo menos três meses.</p>
-
-<p>Nenhum medicamento substitui o básico. Proteína, fibras, sono adequado, gerenciamento de estresse e treino de resistência são os pilares do controle do apetite e do emagrecimento sustentável.</p>
-
-<h2>Fontes</h2>
+<p>Inibidor de apetite forte é a expressão usada para medicamentos que atuam sobre os mecanismos da fome e da saciedade. Eles podem ter indicações médicas específicas, mas geram riscos importantes e exigem prescrição e acompanhamento. Usá-los sem orientação é perigoso. Veja por que são controlados e o que observar.</p>
+<h2>Inibidor de apetite forte: o que são essas substâncias</h2>
+<p>Os inibidores de apetite são substâncias que agem no sistema nervoso ou no trato digestivo para reduzir a sensação de fome ou aumentar a saciedade. Alguns atuam sobre neurotransmissores ligados ao humor e à energia, enquanto outros modificam a forma como o intestino responde à comida.</p>
+<p>Essa atuação sobre o cérebro e o organismo é justamente o que exige cuidado. Ao mexer com mecanismos fisiológicos, esses medicamentos podem produzir efeitos sobre o coração, a pressão, o humor e o sono, além de interações com outros remédios.</p>
+<p>Nem todo produto vendido como “inibidor de apetite” tem registro e comprovação. Há também substâncias proibidas ou retiradas do mercado por causa de riscos graves. Por isso, a origem do produto é tão importante quanto a substância em si.</p>
+<h2>Indicação médica e prescrição</h2>
+<p>Quando há indicação, o uso de medicamentos para controle de peso deve ser precedido de avaliação clínica completa. O médico considera o índice de massa corporal, doenças associadas, histórico familiar, uso de outros remédios e tentativas anteriores de tratamento, como a reeducação alimentar e a atividade física.</p>
+<p>A prescrição precisa ser acompanhada de revisões periódicas, para checar a eficácia, a tolerância e possíveis efeitos colaterais. Interromper ou trocar o medicamento sem orientação pode causar problemas, e o acompanhamento não se limita a entregar a receita.</p>
+<p>Vale lembrar que a decisão de usar um medicamento deve ser feita pelo profissional, e não pela pessoa que quer emagrecer. Essa distinção protege a saúde e evita o uso indiscriminado.</p>
+<h2>Riscos de usar sem orientação</h2>
+<p>Os riscos incluem aumento da pressão arterial, palpitações, insônia, ansiedade, irritabilidade, dor de cabeça, boca seca, constipação ou diarreia. Em casos mais graves, podem surgir alterações cardíacas e outros eventos sérios, principalmente em pessoas com doenças prévias.</p>
 <ul>
-<li>Manual de Diretriz para o Enfrentamento da Obesidade na Saúde Suplementar - SBCBM. https://www.sbcbm.org.br/wp-content/uploads/2024/07/MANUAL-DE-DIRETRIZ-PARA-O-ENFRENTAMENTO-DA-OBESIDADE-NA-SAUDE-SUPLEMENTAR-BRASILEIRA-V5.1.pdf</li>
-<li>Inibidores de apetite: quais são, como funcionam e o que a Anvisa aprovou - Voy Saúde. https://www.voysaude.com.br/blog/inibidores-de-apetite</li>
-<li>SES reforça orientações sobre canetas emagrecedoras e risco do uso de produtos irregulares - Governo de MS. https://www.saude.ms.gov.br/ses-reforca-orientacoes-sobre-canetas-emagrecedoras-e-risco-do-uso-de-produtos-irregulares-em-ms/</li>
-<li>Anvisa proíbe ‘canetas emagrecedoras do Paraguai’ vendidas sem registro no Brasil - Portal Afya. https://portal.afya.com.br/saude/anvisa-proibe-canetas-emagrecedoras-do-paraguai-vendidas-sem-registro-no-brasil</li>
-<li>Lean Mass Loss Associated with the Use of GLP-1 and GLP-1/GIP Agonists in the Treatment of Obesity - JACC. https://www.jacc.org/doi/full/10.1016/j.jacc.2026.02.421</li>
-<li>Can Ozempic Cause You To Lose Muscle? - Cleveland Clinic. https://health.clevelandclinic.org/ozempic-muscle-loss</li>
-<li>Sibutramina - EMA (Agência Europeia de Medicamentos). https://www.ema.europa.eu/pt/documents/referral/sibutramine-article-31-referral-annex-iii_pt.pdf</li>
+<li>Aumento da pressão e alterações do ritmo cardíaco;</li>
+<li>Insônia, ansiedade e alterações de humor;</li>
+<li>Efeitos digestivos, como constipação ou diarreia;</li>
+<li>Interações com outros medicamentos e substâncias.</li>
 </ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
+<p>Produtos comprados sem procedência podem conter substâncias não declaradas ou em doses imprevisíveis. Esse risco aumenta quando a venda acontece em redes sociais, em lojas sem registro ou por pessoas sem formação.</p>
+<h2>Quem não deve usar</h2>
+<p>Gestantes, lactantes, pessoas com doenças cardíacas, hipertensão não controlada, histórico de transtornos alimentares, problemas psiquiátricos graves e quem usa antidepressivos ou estimulantes precisam de cautela extrema. Em muitos desses casos, o uso não é indicado.</p>
+<p>Adolescentes e crianças também não devem usar esses produtos por conta própria. O crescimento e o desenvolvimento exigem avaliação especializada, e a dieta e a atividade física são as primeiras linhas de cuidado.</p>
+<h2>Sinais de alerta de produtos irregulares</h2>
+<p>Desconfie de produtos que prometem emagrecimento rápido, sem esforço ou sem orientação. Também merecem atenção embalagens sem informações claras, rótulos em outro idioma, preços muito baixos e vendas por intermediários sem identificação. Esses sinais são comuns em produtos irregulares.</p>
+<p>A orientação das autoridades sanitárias é conferir o registro do medicamento e denunciar a venda irregular. Quem notar efeitos após o uso de um produto desconhecido deve procurar atendimento imediatamente e informar o que foi usado.</p>
+<h2>O que fazer em vez disso</h2>
+<p>A base do cuidado com o peso continua sendo a alimentação equilibrada, a atividade física e o sono de qualidade. Para quem sente fome intensa e perde o controle, a psicoterapia e o acompanhamento nutricional costumam ajudar a entender os gatilhos.</p>
+<p>Um bom ponto de partida é um plano moderado, com orientação profissional e atenção aos <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a>, que ajudam na saciedade.</p>
+<p>Também é útil conhecer estratégias de reeducação alimentar, que ajudam a construir refeições mais saciantes e a reduzir a compulsão. A compulsão costuma se relacionar à ansiedade, tema de <a href="/como-controlar-a-ansiedade/">como controlar a ansiedade</a>, e isso pode orientar a conversa com o profissional.</p>
+<p>A investigação do ganho ou da perda de apetite deve começar com perguntas simples: a fome é física ou emocional, há mudanças de rotina, de sono ou de humor, e existem doenças que alteram o metabolismo? Essas respostas orientam o profissional sobre a melhor estratégia e evitam tratamentos desnecessários.</p>
+<p>Em muitos casos, a fome intensa está ligada a refeições irregulares, a dietas muito restritas e à privação de sono. Reorganizar horários, incluir proteínas e fibras em cada refeição e reduzir bebidas açucaradas costuma trazer ganhos concretos na saciedade, sem necessidade de medicamentos.</p>
+<p>Quando o peso é uma preocupação de saúde, o acompanhamento multiprofissional costuma ser o mais eficaz. Médico, nutricionista, psicólogo e profissional de educação física podem atuar juntos, com metas graduais e revisões periódicas. Essa abordagem contempla os aspectos biológicos, comportamentais e sociais do problema.</p>
+<p>A cirurgia bariátrica e metabólica é uma opção para casos específicos, com indicação criteriosa e acompanhamento de longo prazo. Ela não é uma alternativa imediata e exige avaliação especializada, que considera riscos, benefícios e expectativas. Trata-se de uma decisão médica, tomada junto com a pessoa e a equipe.</p>
+<p>Por fim, a busca por medicamentos rápidos pode esconder problemas maiores, como transtornos alimentares e depressão. Quem se sente sem controle ao comer, ou vive com culpa intensa, deve buscar apoio psicológico. O tratamento do comportamento alimentar é parte importante do cuidado.</p>
+<p>Antes de qualquer decisão, vale pedir ao profissional uma explicação escrita sobre riscos, custos, duração esperada e o que acontece se o tratamento for interrompido. Esse registro ajuda a comparar alternativas com calma e reduz decisões tomadas por impulso.</p>
+<p>Também é prudente desconfiar de anúncios com antes e depois, depoimentos e promessas de resultados em poucos dias. Esse tipo de conteúdo raramente mostra os efeitos adversos e não substitui uma avaliação individual.</p>
+<p>Em caso de dúvida sobre a segurança de um produto, procure um serviço de saúde ou o farmacêutico responsável, levando a embalagem e as informações disponíveis.</p>
+<p>Quando a pessoa sente que nada funciona, a frustração pode levar à busca por soluções rápidas e arriscadas. Essa reação é compreensível, mas justamente nessas horas a orientação profissional é mais valiosa.</p>
+<p>Um plano revisado, com metas realistas e apoio contínuo, costuma ser mais seguro do que tentativas sucessivas sem acompanhamento.</p>
+<p>Também é importante lembrar que o peso corporal é influenciado por genética, hormônios, sono, medicamentos e condições de saúde. Isso significa que a comparação com outras pessoas tem pouco valor prático. O objetivo do cuidado é a saúde, e não um número igual ao de terceiros.</p>
+<p>Em caso de dúvida sobre um produto indicado por alguém conhecido ou visto na internet, a melhor atitude é levar a informação ao médico. Muitas vezes, a conversa revela que existem alternativas mais seguras e adequadas ao caso.</p>
+<h2>Perguntas frequentes</h2>
+<p><strong>Inibidor de apetite é liberado sem receita?</strong> Não. Medicamentos com essa finalidade exigem prescrição e acompanhamento, conforme as regras sanitárias.</p>
+<p><strong>Se um produto é natural, é seguro?</strong> Não necessariamente. Produtos naturais também podem causar efeitos graves e interagir com remédios.</p>
+<p><strong>Posso dividir um medicamento de outra pessoa?</strong> Não. Cada caso exige avaliação, e o risco de efeitos indesejados é alto.</p>
+<p><strong>Parar de usar causa problemas?</strong> Depende do medicamento e do tempo de uso. A interrupção deve ser orientada pelo médico.</p>
 <h2>Quando procurar um médico</h2>
-<p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://sbcbm.org.br" target="_blank" rel="noopener">sbcbm.org.br</a>, <a href="https://www.gov.br" target="_blank" rel="noopener">Governo Federal</a> e da <a href="https://www.gov.br/anvisa" target="_blank" rel="noopener">Anvisa</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>Procure atendimento imediato se, após usar qualquer inibidor de apetite, surgirem palpitações, dor no peito, falta de ar, desmaio, convulsão, pensamentos de se machucar ou alterações intensas de humor. Esses sinais são de urgência.</p>
+<p>Também converse com o médico antes de começar qualquer produto para controle de peso, principalmente se houver doenças crônicas ou uso de remédios. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+<h2>Resumindo</h2>
+<p>Inibidores de apetite são medicamentos com efeitos sobre o organismo, e por isso exigem indicação, prescrição e acompanhamento. Os riscos incluem alterações cardíacas, de humor e de sono, além de interações e de problemas com produtos irregulares.</p>
+<p>O mais seguro é não usar esses produtos por conta própria. Procurar um médico, avaliar as causas da fome intensa e investir em alimentação e atividade física são caminhos com base mais sólida para a saúde.</p>

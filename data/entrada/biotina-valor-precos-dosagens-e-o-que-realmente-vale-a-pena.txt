@@ -1,198 +1,93 @@
 PALAVRA_CHAVE: biotina valor
-TITLE: Biotina valor: preços, dosagens e o que realmente vale a pena
-DESCRIPTION: Compare preços de biotina nas farmácias brasileiras, entenda o custo por dose e por que megadoses não trazem benefício comprovado para o cabelo.
-CAPA_ALT: Frasco de biotina ao lado de calculadora e cédulas de real sobre uma mesa
-# REVISAR: tema sensível (precisa de revisão humana antes de REVISADO: sim)
+TITLE: Biotina valor: o que considerar antes de usar
+DESCRIPTION: Biotina valor: entenda o que a ciência diz sobre o suplemento, por que o preço não indica qualidade e quais cuidados tomar antes de comprar.
 FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
 FONTE: fda.gov | https://fda.gov
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
-CAPA_BUSCA: healthy lifestyle woman outdoors
-CAPA_ALT: Estilo de vida saudável sobre biotina valor
-FOTO1_BUSCA: wellness walk nature
-FOTO1_ALT: Hábitos saudáveis no dia a dia relacionado a biotina valor
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+CAPA_BUSCA: supplement bottles pharmacy shelf
+CAPA_ALT: Prateleira de farmácia com frascos de suplementos, ilustrando o tema biotina valor
+FOTO1_BUSCA: shopping basket supermarket vitamins
+FOTO1_ALT: Cesta de compras com vitaminas e produtos de higiene, relacionada à decisão de compra de biotina
+FOTO1_LEGENDA: Antes de comprar, compare informações e não apenas o preço
 FOTO1_SECAO: 2
+FOTO2_BUSCA: pharmacist advice counter
+FOTO2_ALT: Farmacêutico orientando cliente no balcão, tema da orientação sobre biotina valor
+FOTO2_LEGENDA: Uma conversa com profissional evita escolhas por impulso
+FOTO2_SECAO: 4
 ---
-<article>
+<p>Biotina valor é uma busca comum de quem pesquisa quanto custa o suplemento e se vale a pena investir nele. O preço, porém, diz pouco sobre a real necessidade do produto ou sobre sua segurança.</p>
 
-<h1>Biotina valor: preços, dosagens e o que realmente vale a pena</h1>
+<p>Este texto explica o que a ciência conhece sobre a biotina, por que o valor da embalagem não indica qualidade e quais cuidados considerar antes de qualquer compra.</p>
 
-<p>Quem pesquisa biotina na internet encontra uma variação enorme de preços. Há frascos de 45 microgramas por menos de cinquenta reais e potes de 10.000 microgramas que ultrapassam cento e cinquenta reais. A diferença de valor não acompanha a diferença de benefício. Entender o que está sendo pago é o primeiro passo para não gastar dinheiro sem necessidade.</p>
+<h2>Por que a pergunta sobre valor é tão comum</h2>
+<p>Quem pesquisa o valor da biotina geralmente busca uma forma de decidir entre marcas e apresentações. A vitamina é vendida em diferentes tipos de embalagem, com quantidades e combinações de ingredientes que variam bastante.</p>
 
-<p>O preço de um suplemento de biotina depende de três fatores: a dosagem por cápsula, a quantidade total de doses no frasco e a marca. Nenhum deles, isoladamente, garante que o produto vai resolver o problema de quem está perdendo cabelo.</p>
+<p>Essa diversidade faz com que o preço pareça um critério de escolha, quando na verdade ele mede sobretudo o custo de fabricação e de marketing.</p>
+<p>Também há o efeito das redes sociais, onde relatos pessoais se espalham rapidamente e ganham aparência de comprovação. A divulgação comercial também pesa. Muitos anúncios associam a vitamina a promessas de beleza, o que aumenta a procura e pode levar a compras sem uma avaliação prévia de necessidade.</p>
 
-<h2>O que é biotina e por que a dose de manutenção é tão baixa</h2>
+<p>Entender essa dinâmica ajuda a comparar com mais clareza e a não confundir popularidade com eficácia comprovada.</p>
 
-<p>A biotina é uma vitamina hidrossolúvel do complexo B, também chamada de vitamina B7 ou vitamina H. Ela atua como cofator de enzimas que participam do metabolismo de gorduras, glicose e aminoácidos. A necessidade diária para adultos é medida em microgramas, segundo o National Institutes of Health (NIH) dos Estados Unidos.</p>
+<h2>O que o preço indica e o que não indica</h2>
+<p>Um produto mais caro não é necessariamente mais seguro, mais puro ou mais eficaz. Da mesma forma, um item barato não é automaticamente inferior.</p>
 
-<p>A quantidade é baixa porque o corpo recicla a vitamina de forma eficiente e a microbiota intestinal também produz pequenas quantidades. A maioria das pessoas obtém o suficiente apenas pela alimentação, com ovos, fígado, salmão, amêndoas, nozes e batata-doce.</p>
+<p>O preço reflete escala de produção, embalagem, campanhas publicitárias e margem de lojas, e nem sempre traz informação sobre a composição real do que está no frasco.</p>
+<p>Por isso, a comparação útil envolve outros pontos: a quantidade declarada por porção, a lista completa de ingredientes, a origem do fabricante e a presença de informações claras no rótulo. Esses dados permitem avaliar se a compra faz sentido, independentemente do valor.</p>
+<p>Vale desconfiar de produtos que prometem resultados rápidos ou que apresentam o preço como argumento principal de venda, sem explicar para quem o item é indicado e quais riscos existem.</p>
+<p>Outro ponto é a comparação entre embalagens de tamanhos diferentes. Um frasco maior pode parecer mais vantajoso, mas se a validade for curta ou se a dose recomendada for alta, a economia pode não compensar.</p>
 
-<p>Um suplemento de 45 microgramas fornece 150% da ingestão diária recomendada. Já um suplemento de 5.000 microgramas fornece mais de 160 vezes essa quantidade. A diferença de preço entre os dois é grande, mas a diferença de aproveitamento pelo corpo é praticamente nula em pessoas sem deficiência.</p>
+<p>Olhar o custo por porção e a data de validade costuma ser mais útil do que olhar apenas o valor total.</p>
 
-<h2>Panorama de preços no mercado brasileiro</h2>
+<h2>Rótulos, quantidades e qualidade</h2>
+<p>O rótulo é a principal fonte de informação para o consumidor. Nele devem constar a quantidade de biotina por porção, o modo de uso e as advertências.</p>
 
-<p>Uma consulta às principais farmácias online do Brasil mostra a amplitude da variação. Os valores abaixo foram coletados em outubro de 2026 e podem mudar conforme promoções e estoque.</p>
+<p>Quando a informação é vaga, incompleta ou difícil de encontrar, a cautela deve aumentar, pois não é possível saber exatamente o que está sendo ingerido.</p>
+<ul>
+<li>Verifique a quantidade do nutriente por porção, e não apenas o total da embalagem.</li>
+<li>Confira se há outros ingredientes com vitaminas do complexo B.</li>
+<li>Desconfie de embalagens sem lote, fabricante ou orientação de uso.</li>
+<li>Prefira produtos com certificações de qualidade reconhecidas, quando disponíveis.</li>
+</ul>
+<p>Mesmo com essas precauções, a qualidade nem sempre é homogênea entre lotes e fabricantes.</p>
 
-<table>
-<thead>
-<tr>
-<th>Produto</th>
-<th>Dosagem por cápsula</th>
-<th>Quantidade</th>
-<th>Preço</th>
-<th>Custo por dose</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Fortalvit Biotina Pura 45 mcg (Droga Raia)</td>
-<td>45 mcg</td>
-<td>90 cápsulas</td>
-<td>R$ 56,90</td>
-<td>R$ 0,63</td>
-</tr>
-<tr>
-<td>Stem Biotina 45 mcg (PanVel)</td>
-<td>45 mcg</td>
-<td>60 comprimidos</td>
-<td>R$ 44,81</td>
-<td>R$ 0,75</td>
-</tr>
-<tr>
-<td>Herbamed Biotina 45 mcg (Amazon)</td>
-<td>45 mcg</td>
-<td>60 cápsulas</td>
-<td>R$ 35,60</td>
-<td>R$ 0,59</td>
-</tr>
-<tr>
-<td>Formulados Farma Biotina 5 mg (Drogasil)</td>
-<td>5.000 mcg</td>
-<td>120 cápsulas</td>
-<td>R$ 48,80</td>
-<td>R$ 0,41</td>
-</tr>
-<tr>
-<td>Biotina 5 mg 60 cápsulas (Drogaria São Paulo)</td>
-<td>5.000 mcg</td>
-<td>60 cápsulas</td>
-<td>R$ 23,90</td>
-<td>R$ 0,40</td>
-</tr>
-<tr>
-<td>Biotina 10 mg 30 doses (Droga Raia)</td>
-<td>10.000 mcg</td>
-<td>30 cápsulas</td>
-<td>R$ 44,90</td>
-<td>R$ 1,50</td>
-</tr>
-<tr>
-<td>Spring Valley Biotina 10.000 mcg (Buscapé)</td>
-<td>10.000 mcg</td>
-<td>120 cápsulas</td>
-<td>R$ 147,99</td>
-<td>R$ 1,23</td>
-</tr>
-</tbody>
-</table>
+<p>Armazenar o produto de forma adequada, longe do calor, da umidade e da luz direta, também contribui para preservar suas características até o fim da validade.Por isso, a decisão de comprar deve considerar a necessidade real, mais do que a expectativa de que um produto específico resolva algum problema.</p>
 
-<p>O custo por dose revela uma inversão importante. O produto de 45 microgramas, que atende à necessidade diária com margem, tem custo por dose entre R$ 0,59 e R$ 0,75. O produto de 5.000 microgramas, com mais de cem vezes a dose de manutenção, custa entre R$ 0,40 e R$ 0,41 por dose em algumas marcas.</p>
+<h2>O que a evidência diz sobre o uso estético</h2>
+<p>Para cabelo, pele e unhas, a evidência de benefício da biotina é mais consistente em pessoas com deficiência confirmada ou com alterações específicas das unhas.</p>
 
-<p>Essa aparente vantagem econômica das megadoses engana. O preço por cápsula é menor, mas o que se compra a mais não é aproveitado. O corpo elimina o excesso pela urina. O gasto adicional com dosagens elevadas não se traduz em benefício proporcional.</p>
+<p>Em adultos sem deficiência, os estudos são limitados e não sustentam, de forma firme, a promessa de crescimento capilar acelerado. Essa diferença é importante para quem decide gastar com o suplemento.</p>
+<p>Além disso, muitos materiais de divulgação não deixam claro que a queda de cabelo tem múltiplas causas, como estresse, alterações da tireoide, deficiência de ferro e fatores genéticos. Quando a causa não é tratada, o suplemento pode criar a falsa sensação de solução e atrasar a investigação adequada.</p>
 
-<h2>O que a revisão sistemática mais recente concluiu sobre eficácia</h2>
+<h2>Riscos de comprar sem orientação</h2>
+<p>O maior risco prático da biotina em suplementos não está no preço, mas na interferência em exames de laboratório. Testes que usam a ligação entre biotina e outras moléculas podem apresentar resultados alterados quando a vitamina está em excesso no sangue.</p>
 
-<p>Uma revisão sistemática publicada em 2026 analisou dez estudos humanos sobre biotina e alopecia. O resultado foi direto: a monoterapia com biotina não mostrou benefício consistente em resultados objetivos de crescimento capilar.</p>
+<p>Esses resultados podem levar a decisões equivocadas em situações importantes.</p>
+<p>A Food and Drug Administration, agência reguladora dos Estados Unidos, emitiu alertas sobre esse efeito. Por isso, quem usa o suplemento deve informar o laboratório e o médico antes de exames de sangue, e seguir a orientação sobre suspensão temporária quando indicada.</p>
+<p>Também é importante não combinar várias fontes de vitaminas do complexo B sem avaliação, pois a soma das quantidades pode ser maior do que a pessoa imagina.</p>
+<p>Esse cuidado vale também para quem recebe orientação de amigos, vendedores ou influenciadores. Recomendações pessoais podem funcionar para quem as faz, mas não consideram exames, histórico de doenças ou medicamentos de outra pessoa. A decisão deve sempre passar por uma avaliação individual.</p>
 
-<p>Quando houve melhora, ela ocorreu em regimes combinados com outros ativos, o que torna impossível atribuir o efeito especificamente à biotina. Estudos controlados em eflúvio telógeno não encontraram diferenças significativas nos níveis séricos de biotina entre casos e controles.</p>
+<h2>Como avaliar custo e benefício com calma</h2>
+<p>Antes de comprar, pergunte-se qual é o objetivo e se ele pode ser alcançado com alimentação, mudança de rotina ou investigação médica. Para a maioria das pessoas, uma dieta variada já fornece a quantidade necessária da vitamina, o que torna a suplementação desnecessária.</p>
+<p>Se houver dúvida sobre deficiência, o caminho mais seguro é a avaliação com médico ou nutricionista, que pode indicar exames e orientar a conduta.</p>
 
-<p>A conclusão dos autores é que a evidência atual não sustenta a suplementação rotineira de biotina para alopecia na ausência de deficiência documentada. Isso significa que pagar mais por um frasco de 10.000 microgramas não aumenta a chance de o cabelo parar de cair.</p>
+<p>Esse investimento costuma ser mais útil do que gastar em produtos sem indicação. Para entender outras causas de fios frágeis, o conteúdo sobre <a href="/queda-de-cabelo/">queda de cabelo</a> reúne informações introdutórias.</p>
+<p>Outra forma de economizar é priorizar alimentos ricos em biotina, como ovos cozidos, castanhas, sementes e leguminosas. Essa escolha costuma ser mais barata do que um suplemento contínuo e traz outros nutrientes importantes.</p>
 
-<h2>A ilusão temporal que faz a biotina parecer eficaz</h2>
+<p>Para quem tem dúvidas sobre outras carências que podem aparecer com cansaço e queda de cabelo, o conteúdo sobre <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a> ajuda a ver como a dieta pesa nessa investigação antes de qualquer compra.</p>
 
-<p>Grande parte dos relatos de melhora com biotina se explica pelo tempo, não pelo suplemento. Muitas quedas de cabelo são autolimitadas. O eflúvio telógeno agudo, por exemplo, dura de dois a seis meses após o gatilho e depois cessa espontaneamente.</p>
+<h2>Perguntas frequentes</h2>
+<p><strong>Biotina mais cara funciona melhor?</strong> Não há relação comprovada entre preço e eficácia. O que importa são a composição, a indicação e a orientação profissional.</p>
+<p><strong>Dá para comprar sem receita?</strong> Em geral, sim, por ser vendida como suplemento. Isso não significa que seja indicada para todos, e a conversa com um profissional continua recomendada.</p>
+<p><strong>Preciso parar antes de fazer exame?</strong> Depende do exame e do uso. Informe o laboratório e o médico, que vão orientar a conduta correta.</p>
+<p><strong>Vale a pena para unhas fracas?</strong> Em casos de deficiência ou alteração específica, pode haver benefício. Em outras situações, as unhas fracas precisam de avaliação para identificar a causa.</p>
 
-<p>Quem começa a tomar biotina no início da queda percebe a melhora quando o quadro já iria melhorar sozinho. A coincidência temporal cria a impressão de que o suplemento foi responsável. O mesmo vale para quedas pós-parto, pós-cirúrgicas e pós-infecção.</p>
-
-<p>O ciclo capilar se normaliza em alguns meses, independentemente do que foi tomado nesse período. Atribuir a recuperação à biotina é um erro de interpretação que sustenta boa parte do mercado de suplementos capilares.</p>
-
-<h2>O risco que não aparece no preço: interferência em exames laboratoriais</h2>
-
-<p>O uso de biotina em doses elevadas pode distorcer resultados de exames que utilizam tecnologia de biotina-estreptavidina. Essa tecnologia é comum em imunoensaios para hormônios tireoidianos, troponina cardíaca e outros marcadores.</p>
-
-<p>A FDA emitiu um comunicado de segurança alertando que a biotina pode causar resultados falsamente baixos ou falsamente elevados, dependendo do tipo de ensaio. Um paciente que tomava altas doses de biotina morreu após um teste de troponina dar resultado falsamente baixo, o que atrasou o diagnóstico de infarto.</p>
-
-<p>A Anvisa também emitiu alertas de tecnovigilância sobre a interferência da biotina em kits de imunodiagnóstico. Os alertas atingem testes de TSH, T4 livre, PSA livre e troponina, entre outros. Profissionais de saúde devem perguntar aos pacientes sobre suplementos com biotina antes de interpretar resultados.</p>
-
-<p>Esse risco não tem relação com o preço do produto. Um frasco caro de 10.000 microgramas oferece o mesmo potencial de interferência que um frasco barato da mesma dosagem. O que importa é a quantidade ingerida, não o valor pago.</p>
-
-<h2>Quem realmente precisa pagar por biotina</h2>
-
-<p>A suplementação de biotina tem indicação clara em casos de deficiência comprovada. A deficiência de biotinidase é um erro inato do metabolismo em que o corpo não consegue reciclar a biotina de forma adequada. Sem tratamento, a condição causa alopecia, dermatite, convulsões e atraso no desenvolvimento.</p>
-
-<p>No Brasil, a prevalência estimada é de cerca de 1 em 9.000 recém-nascidos, segundo estudo realizado com mais de 225 mil crianças. A condição é identificada pelo teste do pezinho, e o tratamento com biotina é incorporado pelo SUS para os pacientes diagnosticados.</p>
-
-<p>Esse é o grupo em que a suplementação de biotina é indispensável e faz diferença clínica real. Para pessoas sem deficiência de biotinidase ou outra causa documentada de deficiência, a suplementação não tem o mesmo papel.</p>
-
-<p>Também podem se beneficiar pessoas com nutrição parenteral prolongada sem suplementação adequada, uso crônico de anticonvulsivantes e consumo prolongado de clara de ovo crua. Fora desses cenários, o gasto com biotina raramente se justifica.</p>
-
-<h2>Como decidir se vale a pena comprar</h2>
-
-<p>Antes de comprar qualquer suplemento de biotina, três perguntas ajudam a evitar gasto desnecessário. A primeira é se há deficiência documentada por exame. A segunda é se a queda capilar tem outra causa identificável, como eflúvio telógeno, alopecia androgenética ou deficiência de ferro.</p>
-
-<p>A terceira é se o custo por dose faz sentido para o tempo de uso. Um frasco de 90 cápsulas de 45 microgramas dura três meses e custa cerca de R$ 57. Um frasco de 120 cápsulas de 5.000 microgramas custa cerca de R$ 49 e dura quatro meses. A diferença de preço é pequena, mas o segundo oferece uma dose que o corpo não precisa.</p>
-
-<p>Quem busca economia real encontra os melhores custos por dose nos produtos de 45 microgramas de marcas como Herbamed e Fortalvit. Quem busca megadoses paga mais por um benefício que a evidência científica não confirma.</p>
-
-<h2>Grupos de risco e contraindicações</h2>
-
-<p>Gestantes e lactantes devem evitar suplementação de biotina sem orientação profissional. A necessidade pode estar aumentada nesses períodos, mas a suplementação deve ser individualizada e baseada em avaliação clínica.</p>
-
-<p>Pessoas que usam anticonvulsivantes de forma crônica podem ter níveis reduzidos de biotina. Medicamentos como carbamazepina, fenitoína e fenobarbital aceleram o catabolismo da vitamina e podem inibir sua absorção intestinal.</p>
-
-<p>Pacientes em nutrição parenteral prolongada sem suplementação adequada estão em risco de deficiência. A suplementação nesses casos é parte do protocolo nutricional e deve ser conduzida pela equipe de saúde.</p>
-
-<p>Quem faz exames de tireoide, troponina ou outros testes sensíveis à biotina deve informar o laboratório sobre o uso do suplemento. Em alguns casos, a suspensão temporária pode ser necessária, mas essa decisão deve ser tomada com o médico que solicitou o exame.</p>
-
-<h2>Perguntas frequentes sobre biotina valor</h2>
-
-<h3>Qual o valor médio da biotina na farmácia?</h3>
-<p>Os preços variam de cerca de R$ 24 a R$ 148, dependendo da dosagem e da quantidade de cápsulas. Produtos de 45 microgramas custam entre R$ 35 e R$ 57. Produtos de 5.000 microgramas custam entre R$ 24 e R$ 49. Produtos de 10.000 microgramas podem ultrapassar R$ 140.</p>
-
-<h3>Qual a melhor marca de biotina para queda de cabelo?</h3>
-<p>Não há evidência de que uma marca seja superior a outra em eficácia. O que importa é a dosagem e a indicação clínica. Para quem tem deficiência documentada, qualquer marca com dosagem adequada ao tratamento funciona. Para quem não tem deficiência, nenhuma marca resolve a queda.</p>
-
-<h3>Pode tomar biotina de 5 mg todos os dias?</h3>
-<p>A dose de 5 mg é mais de 160 vezes a necessidade diária de um adulto. Em pessoas sem deficiência, o excesso é eliminado pela urina, mas a dose elevada aumenta o risco de interferência em exames laboratoriais. A decisão deve ser tomada com orientação profissional.</p>
-
-<h3>Qual a diferença de preço entre a biotina pura e os complexos capilares?</h3>
-<p>Complexos capilares que combinam biotina com outros nutrientes costumam custar mais do que a biotina isolada. O preço adicional nem sempre se traduz em benefício, porque a eficácia da biotina em pessoas sem deficiência não é comprovada. Para quem tem deficiência específica de biotina, a forma isolada é suficiente.</p>
+<h2>Quando procurar um médico</h2>
+<p>Procure um médico antes de comprar biotina se você tiver doença da tireoide, problema cardíaco, gravidez ou amamentação, ou se estiver com exames marcados. Também vale buscar orientação se a queda de cabelo ou a fragilidade das unhas persistirem por vários meses.</p>
+<p>Sintomas como erupções na pele, náusea persistente ou palpitações após o uso exigem avaliação presencial e interrupção do produto, conforme orientação médica.</p>
 
 <h2>Resumindo</h2>
+<p>O valor da biotina diz pouco sobre sua qualidade, sua necessidade ou sua segurança. A decisão de compra deve considerar o rótulo, a real indicação, a alimentação e o risco de interferência em exames de laboratório.</p>
 
-<p>O preço da biotina varia conforme a dosagem e a marca, mas o custo por dose não indica benefício. Produtos de 45 microgramas atendem à necessidade diária e têm custo por dose entre R$ 0,59 e R$ 0,75. Produtos de 5.000 microgramas têm custo por dose menor em algumas marcas, mas oferecem uma dose que o corpo não aproveita.</p>
+<p>Para cabelo, pele e unhas, a evidência de benefício é mais forte em casos de deficiência ou alterações específicas. Antes de decidir, vale seguir uma ordem simples: primeiro entender a necessidade, depois ler as informações do produto e, por fim, buscar orientação profissional.</p>
 
-<p>A revisão sistemática mais recente concluiu que a monoterapia com biotina não melhora resultados objetivos de crescimento capilar. A suplementação só se justifica em casos de deficiência documentada, como a deficiência de biotinidase.</p>
-
-<p>O risco mais grave das megadoses é a interferência em exames laboratoriais. Quem faz exames de tireoide ou troponina deve informar o laboratório sobre o uso do suplemento.</p>
-
-<p>Antes de comprar biotina, vale investigar a causa da queda capilar com um dermatologista. O diagnóstico correto evita gasto com suplementos que não resolvem o problema.</p>
-
-<h2>Referências</h2>
-
-<p>National Institutes of Health. Office of Dietary Supplements. Biotin Fact Sheet for Health Professionals. https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/</p>
-
-<p>Moltó-Balado P, Simeó-Monzo A, del Barrio-Gonzalez A. Effectiveness of Biotin Supplementation for Hair Growth in Patients with Alopecia: A Systematic Review. Journal of Clinical Medicine. 2026;6(2):17. https://www.mdpi.com/2673-6179/6/2/17</p>
-
-<p>U.S. Food and Drug Administration. The FDA Warns that Biotin May Interfere with Lab Tests: FDA Safety Communication. 2019. https://www.fda.gov/medical-devices/safety-communications/fda-warns-biotin-may-interfere-lab-tests-fda-safety-communication</p>
-
-<p>Newborn screening for biotinidase deficiency in Brazil: biochemical and molecular characterizations. Brazilian Journal of Medical and Biological Research. 2004;37(3):295-299. https://pubmed.ncbi.nlm.nih.gov/15064909/</p>
-
-<p>Agência Nacional de Vigilância Sanitária. Resolução da Diretoria Colegiada - RDC Nº 240, de 26 de julho de 2018. https://www.gov.br/anvisa/pt-br/assuntos/regulamentacao/legislacao/resolucoes/2018/rdc-240</p>
-
-</article>
-<h2>Quando procurar um médico</h2>
-<p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://ods.od.nih.gov" target="_blank" rel="noopener">Office of Dietary Supplements (NIH)</a>, <a href="https://fda.gov" target="_blank" rel="noopener">fda.gov</a> e da <a href="https://pubmed.ncbi.nlm.nih.gov" target="_blank" rel="noopener">PubMed (National Library of Medicine)</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>Essa sequência evita gastos desnecessários e protege a interpretação dos exames.</p>
+<p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Antes de comprar qualquer suplemento, converse com seu médico ou farmacêutico e avalie se o produto tem sentido para a sua situação.</p>

@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: cardápio para ganhar massa muscular
-TITLE: Cardápio para ganhar massa muscular: guia prático
+TITLE: Cardápio para ganhar massa muscular: guia
 DESCRIPTION: Cardápio para ganhar massa muscular com foco em proteína, treino de força e rotina sustentável para quem tem mais de 40 anos, com orientação profissional.
 FONTE: Journal of the International Society of Sports Nutrition (JISSN) | https://jissn.biomedcentral.com
 FONTE: ge.globo | https://ge.globo.com
@@ -14,7 +14,9 @@ FOTO2_ALT: Homem fazendo exercício de força em academia, complemento essencial
 FOTO2_LEGENDA: O treino de força é o estímulo que orienta o ganho de massa muscular.
 FOTO2_SECAO: 4
 ---
-<p>Cardápio para ganhar massa muscular é um plano alimentar que oferece energia e proteína suficientes para acompanhar um programa de treino de força. Ele não funciona sozinho. A musculatura cresce quando o estímulo do exercício se soma a uma alimentação adequada e a um bom descanso, e isso vale ainda mais depois dos 40 anos.</p>
+<p>Cardápio para ganhar massa muscular é um plano alimentar que oferece energia e proteína suficientes para acompanhar um programa de treino de força. Ele não funciona sozinho.</p>
+
+<p>A musculatura cresce quando o estímulo do exercício se soma a uma alimentação adequada e a um bom descanso, e isso vale ainda mais depois dos 40 anos.</p>
 
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Antes de iniciar mudanças na alimentação ou no treino, converse com médico e, se possível, com um nutricionista e um profissional de educação física.</p>
 
@@ -61,15 +63,19 @@ FOTO2_SECAO: 4
 
 <p>Vale lembrar que suplementos e produtos prontos não são obrigatórios. Na maior parte dos casos, uma alimentação variada e bem distribuída já atende às necessidades, e qualquer produto deve ser avaliado com um profissional antes do uso.</p>
 
-<p>Para complementar o treino, veja como o <a href="/sarcopenia/">envelhecimento pode levar à perda de massa muscular</a> e por que a prática regular é tão importante. Se você está começando a se exercitar, o texto sobre <a href="/exercicios-para-idosos/">exercícios seguros para a faixa etária</a> traz orientações gerais úteis.</p>
+<p>Para complementar o treino, veja como a <a href="/proteina-mulheres-40/">proteína na rotina de quem passou dos 40</a> apoia os músculos e por que a prática regular é tão importante. Se o cansaço atrapalha o treino, o texto sobre <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a> traz orientações gerais úteis.</p>
 
 <h2>Erros comuns ao montar o cardápio</h2>
 
-<p>Alguns hábitos atrapalham o ganho de massa muscular mesmo quando a pessoa se dedica ao plano. O primeiro é pular refeições, principalmente o café da manhã e o lanche da tarde. Quando a proteína fica concentrada em apenas uma ou duas refeições do dia, o organismo aproveita menos o estímulo alimentar ao longo das horas.</p>
+<p>Alguns hábitos atrapalham o ganho de massa muscular mesmo quando a pessoa se dedica ao plano. O primeiro é pular refeições, principalmente o café da manhã e o lanche da tarde.</p>
+
+<p>Quando a proteína fica concentrada em apenas uma ou duas refeições do dia, o organismo aproveita menos o estímulo alimentar ao longo das horas.</p>
 
 <p>O segundo erro é confiar apenas na quantidade de comida e ignorar a qualidade. Ultraprocessados podem somar muita energia sem oferecer proteína de boa qualidade, fibras e micronutrientes. Preferir ingredientes simples, como ovos, peixes, leguminosas, grãos integrais e legumes, costuma trazer resultados mais consistentes.</p>
 
-<p>Outro equívoco comum é achar que o treino pode ser deixado de lado nos dias de descanso da semana. A recuperação faz parte do processo, mas ela depende de um estímulo prévio. Manter uma rotina de caminhadas e alongamentos nos dias livres ajuda a preservar a disposição e o apetite equilibrado.</p>
+<p>Outro equívoco comum é achar que o treino pode ser deixado de lado nos dias de descanso da semana. A recuperação faz parte do processo, mas ela depende de um estímulo prévio.</p>
+
+<p>Manter uma rotina de caminhadas e alongamentos nos dias livres ajuda a preservar a disposição e o apetite equilibrado.</p>
 
 <p>Por fim, muitas pessoas trocam de cardápio a cada duas semanas, sem tempo suficiente para avaliar o que funciona. Mudanças frequentes dificultam a leitura dos resultados. Um plano simples, mantido por algumas semanas e depois ajustado, costuma ser mais útil.</p>
 

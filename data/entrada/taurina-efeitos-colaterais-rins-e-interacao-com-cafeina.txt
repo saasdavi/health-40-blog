@@ -5,7 +5,7 @@ FONTE: fda.gov | https://fda.gov
 FONTE: Governo Federal | https://www.gov.br
 FONTE: onlinelibrary.wiley.com | https://onlinelibrary.wiley.com
 CAPA_BUSCA: energy drink can
-CAPA_ALT: Lata de bebida energética sobre uma mesa, associada aos possíveis efeitos colaterais da taurina
+CAPA_ALT: Lata de bebida energética sobre uma mesa, ilustrando taurina efeitos colaterais em energéticos
 FOTO1_BUSCA: glass of water kidneys
 FOTO1_ALT: Copo de água em uma mesa clara, lembrando a importância da hidratação para os rins
 FOTO1_LEGENDA: A hidratação e a função renal entram na conversa sobre a taurina.
@@ -61,7 +61,7 @@ FOTO2_SECAO: 4
 
 <p>Uma forma prática de estimar o consumo é somar tudo o que foi ingerido no dia, anotando o tipo de bebida e o tamanho da porção. Essa lista facilita a conversa com o profissional e evita surpresas.</p>
 
-<p>Quem já observa pressão alta pode conferir <a href="/pressao-alta-sintomas/">os sinais de pressão alta</a> e levar essa dúvida ao médico.</p>
+<p>Quem sente palpitações ou nervosismo com energéticos pode conferir <a href="/como-controlar-a-ansiedade/">o conteúdo sobre como controlar a ansiedade</a> e levar essa dúvida ao médico.</p>
 
 <h2>Gestação, crianças e outros grupos de cuidado</h2>
 

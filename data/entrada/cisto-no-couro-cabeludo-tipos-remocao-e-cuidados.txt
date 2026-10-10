@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: cisto no couro cabeludo
-TITLE: Cisto no couro cabeludo: tipos, remoção e cuidados
+TITLE: Cisto no couro cabeludo: tipos e cuidados
 DESCRIPTION: Cisto no couro cabeludo: tipos mais comuns, sinais que pedem avaliação, o que se sabe sobre remoção e cuidados gerais para quem tem mais de 40 anos.
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 FONTE: Manual MSD | https://www.msdmanuals.com
@@ -15,7 +15,9 @@ FOTO2_ALT: Mulher penteando os cabelos com cuidado, hábito que ajuda a observar
 FOTO2_LEGENDA: Observar o couro cabeludo com regularidade ajuda a notar mudanças.
 FOTO2_SECAO: 4
 ---
-<p>Cisto no couro cabeludo é uma formação de conteúdo líquido, semissólido ou gorduroso que se forma sob a pele. A maioria é benigna e de crescimento lento, mas qualquer nódulo novo merece avaliação. Entender os tipos mais comuns, os sinais de alerta e as opções de cuidado ajuda a decidir quando procurar um dermatologista.</p>
+<p>Cisto no couro cabeludo é uma formação de conteúdo líquido, semissólido ou gorduroso que se forma sob a pele. A maioria é benigna e de crescimento lento, mas qualquer nódulo novo merece avaliação.</p>
+
+<p>Entender os tipos mais comuns, os sinais de alerta e as opções de cuidado ajuda a decidir quando procurar um dermatologista.</p>
 
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. A avaliação de um caso específico deve ser feita presencialmente por médico, que pode examinar a lesão e indicar a conduta adequada.</p>
 
@@ -27,7 +29,9 @@ FOTO2_SECAO: 4
 
 <h2>Principais tipos de cisto no couro cabeludo</h2>
 
-<p>Nem todo nódulo na cabeça é do mesmo tipo. Os mais comuns são os cistos de inclusão epidérmica, que contêm queratina, e os cistos triquilemais, que se originam da bainha externa do folículo capilar. Os triquilemais costumam aparecer com mais frequência em áreas de cabelo e tendem a crescer mais lentamente.</p>
+<p>Nem todo nódulo na cabeça é do mesmo tipo. Os mais comuns são os cistos de inclusão epidérmica, que contêm queratina, e os cistos triquilemais, que se originam da bainha externa do folículo capilar.</p>
+
+<p>Os triquilemais costumam aparecer com mais frequência em áreas de cabelo e tendem a crescer mais lentamente.</p>
 
 <ul>
 <li><strong>Cisto epidérmico:</strong> nódulo móvel, de crescimento lento, que pode ter um pequeno orifício central.</li>
@@ -37,7 +41,9 @@ FOTO2_SECAO: 4
 
 <p>A diferença entre eles é importante porque influencia o tipo de remoção indicado e o risco de recorrência. Por isso, o diagnóstico deve ser feito por um especialista.</p>
 
-<p>Na prática, o exame clínico costuma começar pela observação da lesão, da sua consistência e da forma como ela se move sob a pele. Em seguida, o médico pergunta sobre o tempo de evolução, episódios de inflamação e outras doenças. Em alguns casos, a análise de um fragmento retirado em laboratório confirma o diagnóstico e afasta outras condições.</p>
+<p>Na prática, o exame clínico costuma começar pela observação da lesão, da sua consistência e da forma como ela se move sob a pele. Em seguida, o médico pergunta sobre o tempo de evolução, episódios de inflamação e outras doenças.</p>
+
+<p>Em alguns casos, a análise de um fragmento retirado em laboratório confirma o diagnóstico e afasta outras condições.</p>
 
 <p>Também é útil lembrar que a aparência de um cisto pode se parecer com a de outras lesões benignas e malignas da pele. Essa semelhança é a razão principal para não confiar apenas em fotos da internet ou em comparações feitas por conta própria.</p>
 
@@ -59,11 +65,13 @@ FOTO2_SECAO: 4
 
 <p>A remoção não é obrigatória em todos os casos. Cistos pequenos e sem sintomas podem ser apenas acompanhados. A indicação costuma surgir quando há inflamação recorrente, dor, crescimento, desconforto estético importante ou dúvida diagnóstica.</p>
 
-<p>O procedimento é geralmente feito em consultório, com anestesia local, e pode envolver a retirada completa da cápsula do cisto para reduzir o risco de volta. Em algumas situações, a lesão é apenas drenada, o que tende a ter maior chance de recorrência. A escolha depende do tipo, do tamanho e da localização.</p>
+<p>O procedimento é geralmente feito em consultório, com anestesia local, e pode envolver a retirada completa da cápsula do cisto para reduzir o risco de volta.</p>
+
+<p>Em algumas situações, a lesão é apenas drenada, o que tende a ter maior chance de recorrência. A escolha depende do tipo, do tamanho e da localização.</p>
 
 <p>Como em qualquer procedimento, existem riscos, como sangramento, infecção, cicatriz e recidiva. Por isso, a escolha do profissional e a orientação antes e depois da cirurgia são etapas importantes. Não é recomendado tentar espremer ou furar o cisto em casa, pois isso aumenta a chance de infecção e de inflamação.</p>
 
-<p>Para entender melhor o contexto de outras lesões do couro cabeludo, vale ler sobre <a href="/queda-de-cabelo/">queda de cabelo</a>, já que alguns problemas do folículo podem ter sintomas parecidos. Também é útil conhecer a <a href="/dermatite-de-contato/">dermatite de contato</a>, que pode causar irritação e coceira na mesma região.</p>
+<p>Para entender melhor o contexto de outras lesões do couro cabeludo, vale ler sobre <a href="/queda-de-cabelo/">queda de cabelo</a>, já que alguns problemas do folículo podem ter sintomas parecidos. Também é útil conhecer os <a href="/sintomas-de-diabetes/">sintomas de diabetes</a>, condição que pode dificultar a cicatrização da pele.</p>
 
 <h2>Cuidados gerais com o couro cabeludo</h2>
 
@@ -73,7 +81,9 @@ FOTO2_SECAO: 4
 
 <p>Em pessoas com mais de 40 anos, observar o couro cabeludo com regularidade é um hábito útil. Anotar a data em que um nódulo apareceu e fotografar a lesão ajuda na consulta, porque mostra a evolução com mais precisão do que a memória.</p>
 
-<p>Depois de qualquer procedimento, o acompanhamento inclui cuidados com o curativo, observação de sinais de infecção e retorno para revisão. Seguir as orientações do médico sobre lavagem dos cabelos, exposição ao sol e atividades físicas faz diferença na cicatrização. Cada pessoa responde de um jeito, por isso dúvidas devem ser levadas à equipe que fez o atendimento.</p>
+<p>Depois de qualquer procedimento, o acompanhamento inclui cuidados com o curativo, observação de sinais de infecção e retorno para revisão. Seguir as orientações do médico sobre lavagem dos cabelos, exposição ao sol e atividades físicas faz diferença na cicatrização.</p>
+
+<p>Cada pessoa responde de um jeito, por isso dúvidas devem ser levadas à equipe que fez o atendimento.</p>
 
 <p>Para quem tem pele mais sensível ou histórico de cicatrizes elevadas, é importante avisar o profissional antes do procedimento. Essa informação ajuda a escolher a técnica e a reduzir o risco de resultados que incomodem a pessoa depois.</p>
 
@@ -104,7 +114,9 @@ FOTO2_SECAO: 4
 
 <p>O médico pode avaliar a lesão, sugerir exames quando necessário e indicar se é o caso de observação ou de procedimento.</p>
 
-<p>Vale lembrar também que a ansiedade de ver um nódulo na cabeça é comum e pode levar a buscas repetidas na internet. Quando isso acontece, a melhor saída costuma ser marcar a consulta e levar as dúvidas escritas, o que traz mais segurança do que as comparações feitas por conta própria.</p>
+<p>Vale lembrar também que a ansiedade de ver um nódulo na cabeça é comum e pode levar a buscas repetidas na internet.</p>
+
+<p>Quando isso acontece, a melhor saída costuma ser marcar a consulta e levar as dúvidas escritas, o que traz mais segurança do que as comparações feitas por conta própria.</p>
 
 <h2>Resumindo</h2>
 

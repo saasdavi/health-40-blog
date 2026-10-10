@@ -1,218 +1,125 @@
 PALAVRA_CHAVE: contar calorias
-TITLE: Contar Calorias: Como Calcular e Evitar Erros Comuns
-DESCRIPTION: Aprenda a contar calorias corretamente: TMB, TDEE, pesar alimentos crus vs cozidos, margem de erro dos rótulos e como evitar obsessão.
+TITLE: Contar calorias: como calcular e evitar erros
+DESCRIPTION: Contar calorias: como funciona o cálculo da energia dos alimentos, os erros mais comuns ao registrar a comida e quando buscar orientação profissional.
 FONTE: Ministério da Saúde | https://www.gov.br/saude
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
-FONTE: mta-sts.foodstandards.gov.au | https://mta-sts.foodstandards.gov.au
-CAPA_BUSCA: healthy meal plate vegetables
-CAPA_ALT: Refeição equilibrada sobre contar calorias
-FOTO1_BUSCA: healthy food salad bowl
-FOTO1_ALT: Alimentação equilibrada no dia relacionado a contar calorias
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+CAPA_BUSCA: food scale and vegetables
+CAPA_ALT: Balança de cozinha com legumes frescos, ferramenta usada para contar calorias com precisão
+FOTO1_BUSCA: nutrition label on food package
+FOTO1_ALT: Rótulo nutricional de um alimento embalado, usado para conferir a energia por porção
+FOTO1_LEGENDA: O rótulo traz a informação por porção, que nem sempre corresponde ao que se come.
 FOTO1_SECAO: 2
+FOTO2_BUSCA: person writing food diary
+FOTO2_ALT: Pessoa anotando as refeições em um caderno, registro alimentar para contar calorias
+FOTO2_LEGENDA: Registrar a alimentação por alguns dias revela padrões que passam despercebidos.
+FOTO2_SECAO: 4
 ---
-<div id="container-imagem-capa" class="loading">Carregando imagem...</div>
+<p>Contar calorias é o hábito de registrar a energia dos alimentos e bebidas consumidos ao longo do dia. A prática pode ajudar a entender a própria alimentação, mas exige método e cuidado, porque pequenos erros de medida ou de registro mudam bastante o total.</p>
 
-<p>A prática de <strong>contar calorias</strong> é uma das estratégias mais difundidas para quem busca emagrecer, manter o peso ou ganhar massa muscular. No entanto, a contagem envolve mais do que somar números em um aplicativo. Ela exige entender taxas metabólicas, saber pesar alimentos corretamente e reconhecer as limitações inerentes às tabelas nutricionais. Erros de pesagem, imprecisão de rótulos e obsessão pelos números são armadilhas comuns que comprometem tanto os resultados quanto a saúde mental. Este guia reúne informações baseadas em fontes oficiais para ajudar você a contar calorias de forma precisa e segura.</p>
+<p>Entender como o cálculo funciona e quais erros evitar torna a informação mais útil.</p>
 
-<h2>Como Calcular a Quantidade de Calorias para Emagrecer?</h2>
+<p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Quem tem histórico de transtornos alimentares, diabetes, doença renal ou outras condições deve discutir a contagem com médico ou nutricionista antes de começar.</p>
 
-<p>O cálculo começa pela Taxa Metabólica Basal (TMB), que representa a energia que seu corpo gasta em repouso absoluto para manter funções vitais como respiração, batimentos cardíacos e temperatura corporal. A TMB costuma corresponder a 53% a 83% do gasto energético total diário, dependendo do nível de atividade física.</p>
+<h2>Contar calorias: o que a contagem realmente mede</h2>
 
-<p>A equação mais recomendada atualmente é a de Mifflin-St Jeor, considerada pela American Dietetic Association a mais confiável para adultos saudáveis. Para mulheres, a fórmula é: TMB = (10 × peso em kg) + (6,25 × altura em cm) − (5 × idade em anos) − 161. Para homens, a diferença está no final: em vez de subtrair 161, soma-se 5.</p>
+<p>A caloria é uma unidade de energia. Os alimentos contêm energia principalmente na forma de carboidratos, proteínas e gorduras, e a bebida alcoólica também fornece energia. Quando a pessoa soma a energia de tudo o que come e bebe, obtém uma estimativa do total consumido no período.</p>
 
-<p>O próximo passo é multiplicar a TMB pelo fator de atividade física para obter o Gasto Energético Total Diário (TDEE). O fator varia de 1,2 para pessoas sedentárias a 1,9 para atletas de alto rendimento. O TDEE representa quantas calorias você gasta por dia considerando todas as atividades.</p>
+<p>Essa estimativa é útil para observar padrões, como porções grandes em determinados horários ou lanches que se repetem sem perceber. Ela não é uma medida exata do que o corpo absorve, porque a digestão, a composição dos alimentos e o preparo variam bastante.</p>
 
-<p>Para emagrecer, o déficit calórico seguro é de 10% a 25% do TDEE, o que geralmente equivale a 300 a 700 kcal por dia. Essa faixa permite perda de 0,5 a 1 kg por semana, considerada segura pela Organização Mundial da Saúde. Déficits agressivos, acima de 25%, podem levar à perda de massa muscular, deficiências nutricionais e efeito rebote.</p>
+<h2>Como calcular as calorias dos alimentos</h2>
 
-<div id="container-imagem-1" class="loading">Carregando imagem...</div>
-
-<h2>Quantas Calorias uma Pessoa Gasta por Dia em Repouso?</h2>
-
-<p>A maioria dos adultos tem TMB entre 1.200 e 2.000 kcal por dia. Esse valor varia conforme tamanho corporal, composição corporal e idade. Homens, em média, têm TMB mais alta devido à maior quantidade de massa magra. A TMB diminui com a idade, principalmente após os 30 anos, quando há perda natural de massa muscular.</p>
-
-<h3>Tabela: Gasto Energético Total por Nível de Atividade</h3>
-
-<table>
-<thead>
-<tr>
-<th>Nível de Atividade</th>
-<th>Fator</th>
-<th>Descrição</th>
-<th>Exemplo (TMB 1.500 kcal)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Sedentário</td>
-<td>1,2</td>
-<td>Pouco ou nenhum exercício</td>
-<td>1.800 kcal/dia</td>
-</tr>
-<tr>
-<td>Levemente ativo</td>
-<td>1,375</td>
-<td>Exercício leve 1-3 dias/semana</td>
-<td>2.063 kcal/dia</td>
-</tr>
-<tr>
-<td>Moderadamente ativo</td>
-<td>1,55</td>
-<td>Exercício moderado 3-5 dias/semana</td>
-<td>2.325 kcal/dia</td>
-</tr>
-<tr>
-<td>Muito ativo</td>
-<td>1,725</td>
-<td>Exercício intenso 6-7 dias/semana</td>
-<td>2.588 kcal/dia</td>
-</tr>
-<tr>
-<td>Extremamente ativo</td>
-<td>1,9</td>
-<td>Atleta ou trabalho físico intenso</td>
-<td>2.850 kcal/dia</td>
-</tr>
-</tbody>
-</table>
-
-<p><em>Observação: os valores são estimativas. Fatores individuais como genética, composição corporal e condições de saúde podem alterar o gasto real.</em></p>
-
-<div id="container-imagem-2" class="loading">Carregando imagem...</div>
-
-<h2>Qual o Melhor Aplicativo Gratuito para Contar Calorias?</h2>
-
-<p>A escolha do aplicativo depende do seu objetivo e do nível de detalhamento que você busca. As versões gratuitas de FatSecret, MyFitnessPal, Yazio e Lose It! são suficientes para quem deseja apenas acompanhar a ingestão calórica diária.</p>
-
-<p>O FatSecret é completamente gratuito e oferece banco de dados extenso, scanner de código de barras e registro de refeições. O MyFitnessPal tem o banco de dados mais completo e recursos avançados de macronutrientes, mas algumas funções são pagas. O Yazio combina contagem calórica com planos de jejum intermitente e tem interface moderna. O Lose It! é conhecido pela simplicidade e facilidade de uso.</p>
-
-<h3>Tabela Comparativa de Aplicativos</h3>
-
-<table>
-<thead>
-<tr>
-<th>Aplicativo</th>
-<th>Gratuito?</th>
-<th>Scanner de código de barras</th>
-<th>Banco de dados</th>
-<th>Diferencial</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>FatSecret</td>
-<td>Sim, completo</td>
-<td>Sim</td>
-<td>Extenso</td>
-<td>100% gratuito, sem anúncios invasivos</td>
-</tr>
-<tr>
-<td>MyFitnessPal</td>
-<td>Versão limitada</td>
-<td>Sim</td>
-<td>Mais extenso do mercado</td>
-<td>Comunidade ativa e integração com dispositivos</td>
-</tr>
-<tr>
-<td>Yazio</td>
-<td>Versão limitada</td>
-<td>Sim</td>
-<td>Grande</td>
-<td>Planos de jejum intermitente integrados</td>
-</tr>
-<tr>
-<td>Lose It!</td>
-<td>Versão limitada</td>
-<td>Sim</td>
-<td>Grande</td>
-<td>Interface simples e intuitiva</td>
-</tr>
-</tbody>
-</table>
-
-<p>Nenhum aplicativo substitui a orientação de um nutricionista. As estimativas de gasto calórico e as sugestões de metas são genéricas e podem não se aplicar a condições específicas de saúde.</p>
-
-<h2>Como Começar a Contar Calorias na Alimentação?</h2>
-
-<p>O primeiro passo é definir sua meta calórica com base no TDEE e no objetivo desejado. Em seguida, adquira uma balança de cozinha digital e comece a pesar os alimentos. O registro inicial é trabalhoso, mas com o tempo você desenvolve noção das porções e o processo se torna mais rápido.</p>
-
-<p>Uma dica prática é pesar os alimentos crus sempre que possível. O peso cru é mais preciso e consistente, pois o cozimento altera o peso ao adicionar ou remover água. Carnes grelhadas, por exemplo, perdem cerca de 20% do peso durante o preparo. Isso significa que 100 g de carne crua equivalem a aproximadamente 80 g após grelhar.</p>
-
-<h3>Pesar Cru ou Cozido: A Maior Fonte de Erro</h3>
-
-<p>Confundir peso cru com peso cozido é um dos erros mais comuns na contagem de calorias. Se você pesa 100 g de arroz cru e depois cozinha, o arroz pronto pode chegar a 250-300 g, pois absorve água. As calorias, no entanto, permanecem as mesmas. Se você registrar 250 g de arroz cozido no aplicativo usando a entrada "arroz cozido", o número de calorias será muito menor do que o real.</p>
-
-<p>A regra prática é: sempre que possível, pese o alimento cru e use a entrada correspondente no banco de dados. Se precisar pesar cozido, certifique-se de usar a entrada correta de "alimento cozido" e esteja ciente de que o valor pode variar conforme o método de preparo e a quantidade de água absorvida.</p>
-
-<div id="container-imagem-3" class="loading">Carregando imagem...</div>
-
-<h2>A Imprecisão das Tabelas Nutricionais</h2>
-
-<p>Mesmo com pesagem precisa, a contagem de calorias nunca será exata. A legislação brasileira permite uma margem de tolerância de até 20% para mais ou para menos nos valores nutricionais declarados nos rótulos. Isso significa que um alimento que declara 100 kcal pode conter entre 80 e 120 kcal.</p>
-
-<p>O Superior Tribunal de Justiça afastou recentemente a obrigatoriedade de os fabricantes informarem essa variação nos rótulos, considerando que a tolerância de 20% aplica-se aos critérios de controle regulatório e não constitui informação essencial ao consumidor. Para quem conta calorias, no entanto, essa margem representa uma imprecisão significativa que se acumula ao longo do dia.</p>
-
-<p>Além disso, as tabelas de composição de alimentos são baseadas em médias. Uma maçã pode ter mais ou menos açúcar que outra da mesma variedade, dependendo do solo, clima e maturação. O valor calórico de um prato preparado em casa varia conforme a quantidade de óleo, sal e ingredientes utilizados.</p>
-
-<h2>Como Evitar a Obsessão por Números</h2>
-
-<p>A contagem de calorias pode se tornar problemática quando deixa de ser uma ferramenta e passa a ser uma obsessão. A ortorexia nervosa é definida como uma obsessão malsana por alimentação saudável, frequentemente acompanhada de contagem compulsiva de calorias e controle extremo sobre a qualidade dos alimentos.</p>
-
-<p>Especialistas alertam que redes sociais e a cultura fitness atuam como catalisadores de transtornos alimentares, especialmente entre jovens. A pressão estética e a busca por um corpo "perfeito" levam a comportamentos obsessivos que, embora pareçam saudáveis, causam sofrimento psicológico e isolamento social.</p>
-
-<p>Sinais de alerta incluem rigidez nas regras alimentares, culpa ao comer certos alimentos, ansiedade por não cumprir metas calóricas e evitação de situações sociais que envolvam comida. Se você identificar esses sinais, considere buscar apoio psicológico ou nutricional especializado.</p>
-
-<h3>Estratégias para uma Relação Saudável com a Comida</h3>
+<p>O cálculo mais simples começa pelo rótulo nutricional, que informa a energia por porção. Para alimentos sem embalagem, é possível usar tabelas oficiais de composição de alimentos e multiplicar a quantidade consumida pelo valor por grama ou por unidade.</p>
 
 <ul>
-<li><strong>Defina limites:</strong> use aplicativos por períodos determinados, não indefinidamente.</li>
-<li><strong>Priorize a qualidade:</strong> foque em alimentos in natura e minimamente processados, não apenas em números.</li>
-<li><strong>Permita flexibilidade:</strong> dias fora da meta não arruínam o progresso. O padrão geral é o que importa.</li>
-<li><strong>Busque apoio:</strong> nutricionista e psicólogo podem ajudar a estabelecer uma relação equilibrada com a alimentação.</li>
+<li><strong>Passo 1:</strong> identifique o alimento e a forma de preparo, como cru, cozido, frito ou assado.</li>
+<li><strong>Passo 2:</strong> pese a porção sempre que possível, principalmente no começo.</li>
+<li><strong>Passo 3:</strong> consulte a energia correspondente em uma tabela confiável.</li>
+<li><strong>Passo 4:</strong> some os valores de todas as refeições e lanches do dia.</li>
 </ul>
 
-<h2>FAQ — Perguntas Frequentes</h2>
+<p>Para alimentos preparados em casa, o ideal é calcular a receita inteira e dividir pelo número de porções. Esse passo evita subestimar o total, principalmente em receitas com óleo, manteiga, queijo e castanhas.</p>
 
-<h3>1. Como calcular a quantidade de calorias para emagrecer?</h3>
-<p>Calcule a TMB pela equação de Mifflin-St Jeor, multiplique pelo fator de atividade para obter o TDEE e aplique um déficit de 10% a 25%. Isso geralmente resulta em perda de 0,5 a 1 kg por semana.</p>
+<h2>Erros comuns ao registrar a comida</h2>
 
-<h3>2. Qual o melhor aplicativo gratuito para contar calorias?</h3>
-<p>O FatSecret é completamente gratuito e oferece todos os recursos essenciais. MyFitnessPal tem o maior banco de dados, mas recursos avançados são pagos. Yazio e Lose It! são boas alternativas com versões gratuitas funcionais.</p>
+<p>O erro mais frequente é estimar porções a olho. Uma colher de azeite, por exemplo, pode ser bem maior do que se imagina, e a diferença se acumula ao longo do dia. A balança de cozinha resolve grande parte dessas dúvidas.</p>
 
-<h3>3. Como começar a contar calorias na alimentação?</h3>
-<p>Defina sua meta calórica, adquira uma balança de cozinha, pese os alimentos crus sempre que possível e registre tudo em um aplicativo. Com o tempo, você desenvolve noção das porções e o processo fica mais rápido.</p>
+<p>Outro erro comum é esquecer bebidas e petiscos. Refrigerantes, sucos, cafés com açúcar, bebidas alcoólicas e mordidas rápidas em frente à TV costumam ser deixados de fora, mas somam energia de forma significativa.</p>
 
-<h3>4. Quantas calorias uma pessoa gasta por dia em repouso?</h3>
-<p>A maioria dos adultos tem TMB entre 1.200 e 2.000 kcal por dia. Homens geralmente têm valores mais altos devido à maior massa magra. A TMB diminui com a idade.</p>
+<ul>
+<li>Confiar em estimativas visuais em vez de medir as porções.</li>
+<li>Usar informações de alimentos parecidos sem conferir a versão exata.</li>
+<li>Esquecer óleos, molhos, temperos industrializados e acompanhamentos.</li>
+<li>Registrar tudo no fim do dia, quando a memória já falhou.</li>
+<li>Ignorar as beliscadas feitas durante o preparo das refeições.</li>
+</ul>
 
-<h3>5. Pesar alimento cru ou cozido faz diferença?</h3>
-<p>Sim, faz muita diferença. O cozimento altera o peso ao adicionar ou remover água, mas as calorias permanecem as mesmas. Sempre que possível, pese cru e use a entrada correta no aplicativo.</p>
+<p>Também é comum confundir a informação "por porção" com a embalagem inteira. Muitos pacotes trazem várias porções, e a pessoa acaba consumindo duas ou três sem registrar.</p>
+
+<p>Outro cuidado é a forma de anotar. Registrar apenas o nome do alimento, sem a quantidade, transforma o diário em um palpite. Anotar a porção em gramas ou em medidas padronizadas, como colher de sopa ou xícara, e o horário da refeição deixa o registro mais útil para revisar depois.</p>
+
+<h2>Como usar a contagem sem perder a relação saudável com a comida</h2>
+
+<p>Para algumas pessoas, contar calorias é uma ferramenta de aprendizado. Para outras, pode virar uma fonte de ansiedade, de culpa e de obsessão por números. Se a contagem começa a causar sofrimento, pular refeições ou gerar medo de comer alimentos específicos, é hora de parar e conversar com um profissional.</p>
+
+<p>Uma alternativa é fazer o registro por alguns dias, sem tentar mudar nada, apenas para observar padrões. Depois, a discussão com o nutricionista pode indicar ajustes simples, como uma refeição mais equilibrada ou um lanche mais nutritivo.</p>
+
+<p>Em muitos casos, observar a fome, a saciedade e a qualidade dos alimentos traz informações tão úteis quanto o número final. A contagem é um recurso, e não um juiz do que se come.</p>
+
+<h2>Calorias, déficit e ganho de peso</h2>
+
+<p>O peso corporal responde ao equilíbrio entre energia consumida e energia gasta ao longo do tempo. Quando o consumo fica abaixo do gasto, o organismo tende a perder peso.</p>
+
+<p>Quando fica acima, tende a ganhar. Essa lógica geral ajuda a entender o princípio, mas não define sozinha a estratégia de cada pessoa.</p>
+
+<p>Fatores como idade, massa muscular, sono, nível de atividade física, hormônios e medicamentos alteram o gasto de energia. Por isso, estimativas genéricas podem ser pouco precisas para algumas pessoas, especialmente depois dos 40 anos.</p>
+
+<p>Se você quer entender melhor como essa lógica funciona, vale ler sobre os <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a>, que ajudam na saciedade e no controle gradual do peso.</p>
+
+<p>Alimentos industrializados trazem uma vantagem: o rótulo costuma ser padronizado. Mesmo assim, é preciso atenção ao tamanho da porção indicado, que pode ser diferente do que a pessoa costuma servir. Em alimentos a granel, como grãos, castanhas e frutas secas, a pesagem é ainda mais importante, porque o volume engana.</p>
+
+<p>Pratos montados em restaurantes e lanchonetes também são difíceis de calcular. Nesses casos, uma estimativa conservadora e a escolha de preparos grelhados ou assados ajudam a manter o registro razoavelmente próximo da realidade.</p>
+
+<h2>Ferramentas e fontes confiáveis</h2>
+
+<p>Existem aplicativos, planilhas e tabelas de composição de alimentos. Vale priorizar fontes ligadas a instituições de saúde ou a universidades, que costumam indicar a origem dos dados e a forma de medição. Materiais que não citam fontes merecem cautela.</p>
+
+<p>Para comparar alimentos do dia a dia, o texto sobre <a href="/proteina-mulheres-40/">proteína para mulheres acima dos 40</a> é um bom ponto de partida para planejar porções. Quem prefere fazer o cálculo por conta própria deve sempre checar a origem dos números.</p>
+
+<p>Independentemente da ferramenta, a regra é a mesma: usar dados consistentes, medir sempre que possível e revisar o registro com um profissional quando houver dúvida.</p>
+
+<p>Por fim, lembre que o objetivo da contagem não precisa ser perfeito. Um registro com algumas imprecisões ainda é útil para enxergar tendências, como o excesso de bebidas no fim de semana ou a falta de proteína no café da manhã.</p>
+
+<p>A busca pela exatidão total pode gerar frustração e abandono, enquanto a regularidade costuma trazer informações mais valiosas.</p>
+
+<h2>Perguntas frequentes</h2>
+
+<p><strong>Preciso contar calorias para emagrecer?</strong></p>
+<p>Não é obrigatório. Muitas pessoas perdem peso apenas organizando porções, escolhendo alimentos com mais fibras e proteínas e reduzindo bebidas calóricas.</p>
+
+<p><strong>Calorias de alimentos diferentes são iguais?</strong></p>
+<p>O valor energético pode ser parecido, mas a composição muda o efeito sobre a saciedade, a glicemia e a digestão. Uma fruta inteira e um suco com o mesmo valor calórico não se comportam da mesma forma.</p>
+
+<p><strong>Contar calorias é perigoso?</strong></p>
+<p>Pode ser, para pessoas com histórico de transtornos alimentares ou com preocupação excessiva com o peso. Nesses casos, o acompanhamento profissional é indispensável.</p>
+
+<p><strong>Quanto tempo devo fazer a contagem?</strong></p>
+<p>Uma semana de registro costuma ser suficiente para observar padrões. Depois, a estratégia pode ser ajustada com o profissional, sem necessidade de manter o registro para sempre.</p>
+
+<h2>Quando procurar um médico</h2>
+
+<p>Procure orientação médica ou nutricional se a contagem estiver gerando ansiedade, culpa ou perda de controle, ou se houver sinais como:</p>
+
+<ul>
+<li>Tontura, fraqueza ou desmaios durante o dia.</li>
+<li>Perda de peso rápida ou sem explicação.</li>
+<li>Pensamentos constantes sobre comida e números.</li>
+<li>Sintomas de hipoglicemia, como tremores e suor frio, especialmente em pessoas com diabetes.</li>
+</ul>
+
+<p>O profissional pode avaliar a necessidade real de contar calorias e orientar um plano que respeite a sua saúde e a sua rotina.</p>
 
 <h2>Resumindo</h2>
 
-<p>Contar calorias é uma ferramenta útil para quem busca emagrecer ou manter o peso, mas exige precisão e consciência das limitações. O cálculo começa pela TMB, que representa o gasto em repouso, e evolui para o TDEE, que considera a atividade física. Um déficit de 10% a 25% do TDEE é seguro e sustentável.</p>
+<p>Contar calorias é uma forma de registrar a energia da alimentação e observar padrões de consumo. O cálculo depende de medir porções, usar tabelas confiáveis e incluir bebidas, molhos e preparos, que costumam ser esquecidos.</p>
 
-<p>O maior erro na contagem é confundir peso cru com peso cozido. Alimentos como arroz, feijão e carnes alteram significativamente de peso durante o preparo, mas mantêm as calorias. Pesar cru é mais preciso e consistente.</p>
-
-<p>As tabelas nutricionais têm margem de erro de até 20%, permitida pela legislação. Isso significa que a contagem nunca será exata, e os números devem ser usados como referência, não como verdade absoluta.</p>
-
-<p>A contagem pode se tornar problemática quando vira obsessão. A ortorexia nervosa é um transtorno crescente, especialmente entre jovens influenciados pela cultura fitness. Se a contagem causa ansiedade, culpa ou isolamento social, é hora de buscar ajuda profissional.</p>
-
-<p>O equilíbrio está em usar a contagem como ferramenta temporária de aprendizado, não como regra permanente. Priorize alimentos in natura, mantenha flexibilidade e lembre-se de que saúde vai além dos números.</p>
-
-<h2>Fontes</h2>
-<ul>
-<li>Ministério da Saúde. Guia Alimentar para a População Brasileira. <a href="https://bvsms.saude.gov.br/bvs/publicacoes/guia_alimentar_populacao_brasileira_2ed.pdf" target="_blank" rel="noopener">https://bvsms.saude.gov.br/bvs/publicacoes/guia_alimentar_populacao_brasileira_2ed.pdf</a></li>
-<li>Mifflin MD, St Jeor ST, et al. A new predictive equation for resting energy expenditure in healthy individuals. Am J Clin Nutr, 1990. <a href="https://pubmed.ncbi.nlm.nih.gov/2305711/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/2305711/</a></li>
-<li>Food Standards Australia New Zealand. Nutrition Panel Calculator — Weight Change Factors. <a href="https://mta-sts.foodstandards.gov.au/sites/default/files/2023-12/npc-explanatory-notes-2011.pdf" target="_blank" rel="noopener">https://mta-sts.foodstandards.gov.au/sites/default/files/2023-12/npc-explanatory-notes-2011.pdf</a></li>
-<li>Superior Tribunal de Justiça. REsp 1.537.571-SP — Variação nutricional de 20% em rótulos. <a href="https://processo.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201500130254&dt_publicacao=20/08/2020" target="_blank" rel="noopener">https://processo.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201500130254&dt_publicacao=20/08/2020</a></li>
-<li>Sociedad Española de Médicos Generales y de Familia (SEMG). Expertos alertan de que las redes sociales y la cultura fitness favorecen trastornos alimentarios entre jóvenes. <a href="https://www.infosalus.com/salud-investigacion/noticia-expertos-alertan-redes-sociales-cultura-fitness-favorecen-trastornos-alimentarios-jovenes-20260611141914.html" target="_blank" rel="noopener">https://www.infosalus.com/salud-investigacion/noticia-expertos-alertan-redes-sociales-cultura-fitness-favorecen-trastornos-alimentarios-jovenes-20260611141914.html</a></li>
-<li>Organização Mundial da Saúde. Obesity and overweight — Fact sheet. <a href="https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight" target="_blank" rel="noopener">https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight</a></li>
-</ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
-<h2>Quando procurar um médico</h2>
-<p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://www.gov.br/saude" target="_blank" rel="noopener">Ministério da Saúde</a>, <a href="https://pubmed.ncbi.nlm.nih.gov" target="_blank" rel="noopener">PubMed (National Library of Medicine)</a> e da <a href="https://mta-sts.foodstandards.gov.au" target="_blank" rel="noopener">mta-sts.foodstandards.gov.au</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>A contagem é uma ferramenta útil quando usada com equilíbrio e orientação. Se ela começa a gerar sofrimento ou se há alguma condição de saúde envolvida, a melhor decisão é buscar um nutricionista ou médico para ajustar a estratégia.</p>

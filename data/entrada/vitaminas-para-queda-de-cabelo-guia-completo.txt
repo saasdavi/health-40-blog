@@ -1,209 +1,115 @@
-PALAVRA_CHAVE: Vitaminas para Queda de Cabelo Guia Completo.html
-TITLE: 
-DESCRIPTION: Vitaminas para queda de cabelo são um dos temas mais buscados por quem percebe o cabelo afinando ou caindo mais do que o normal. A promessa de que uma simples.
+PALAVRA_CHAVE: vitaminas para queda de cabelo
+TITLE: Vitaminas para Queda de Cabelo: Guia Completo
+DESCRIPTION: Vitaminas para queda de cabelo: guia completo sobre os nutrientes que importam, sinais de carência, riscos do excesso e quando procurar um dermatologista.
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
-CAPA_BUSCA: woman hair care brush
-CAPA_ALT: Cuidados com os cabelos sobre vitaminas para queda de cabelo guia completo.html
-FOTO1_BUSCA: dermatologist scalp examination
-FOTO1_ALT: Avaliação do couro cabeludo relacionado a vitaminas para queda de cabelo guia completo.html
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+CAPA_BUSCA: healthy food hair nutrition
+CAPA_ALT: Alimentos naturais e frutas sobre uma mesa, representando vitaminas para queda de cabelo
+FOTO1_BUSCA: fresh eggs and vegetables
+FOTO1_ALT: Ovos, legumes e verduras frescas, fontes de nutrientes ligados à saúde dos fios
+FOTO1_LEGENDA: Uma alimentação variada costuma cobrir a maior parte das necessidades.
 FOTO1_SECAO: 2
+FOTO2_BUSCA: dermatologist hair examination
+FOTO2_ALT: Dermatologista examinando o couro cabeludo de um paciente durante a consulta
+FOTO2_LEGENDA: O exame do couro cabeludo faz parte da avaliação da queda de cabelo.
+FOTO2_SECAO: 4
 ---
-<p><strong>Vitaminas para queda de cabelo</strong> são um dos temas mais buscados por quem percebe o cabelo afinando ou caindo mais do que o normal. A promessa de que uma simples cápsula resolve o problema é tentadora. Mas a relação entre vitaminas e saúde capilar é mais complexa do que parece.</p>
+<p>Este guia completo reúne as vitaminas para queda de cabelo mais citadas, quando o assunto é a perda de fios. A ideia é mostrar o que cada nutriente faz, em que situações ele realmente pesa e quais cuidados evitam decisões erradas. Nenhuma vitamina resolve sozinha todos os tipos de queda.</p>
 
-<p>A suplementação só funciona quando existe uma deficiência documentada. E o excesso de algumas vitaminas pode piorar a queda em vez de resolvê-la.</p>
+<h2>Vitaminas para queda de cabelo: como pensar a relação</h2>
 
-<figure class="article-figure">
-<img src="https://images.pexels.com/photos/5946978/pexels-photo-5946978.jpeg" alt="Cápsulas de vitaminas e minerais ao lado de fios de cabelo saudáveis, representando suplementação capilar" title="Vitaminas para queda de cabelo" width="1280" height="960" loading="lazy" />
-<figcaption>A suplementação só é eficaz quando há deficiência documentada por exames. <span class="credit">Foto: <a href="https://www.pexels.com/photo/5946978/" rel="noopener nofollow" target="_blank">Pexels</a></span></figcaption>
-</figure>
+<p>Os fios são formados por queratina e dependem de células que se renovam com frequência. Para isso, o corpo precisa de proteínas, minerais e vitaminas em quantidades adequadas, o que torna a nutrição um fator relevante.</p>
 
-<h2>Qual a Falta de Vitamina Que Faz o Cabelo Cair</h2>
+<p>Ainda assim, a maioria das quedas não tem como causa principal uma vitamina específica. Genética, hormônios, estresse, doenças e medicamentos explicam grande parte dos casos, e isso muda a estratégia de cuidado.</p>
 
-<p>A queda de cabelo pode estar associada à deficiência de vários micronutrientes. Os mais estudados são ferro, zinco, biotina, vitamina D e vitaminas do complexo B.</p>
+<p>Isso não significa que a alimentação seja irrelevante. Uma dieta pobre em proteínas e em nutrientes pode agravar a queda em quem já tem predisposição, por isso vale olhar o conjunto.</p>
 
-<p>Uma revisão publicada na Dermatology and Therapy analisou o papel de vitaminas e minerais na alopecia não cicatricial. Os autores concluíram que a deficiência desses micronutrientes pode ser um fator de risco modificável para a queda capilar.</p>
+<p>Por isso, o melhor ponto de partida é entender se existe uma carência de fato. Sem essa informação, a suplementação vira um palpite, e nem sempre o palpite é inofensivo.</p>
 
-<p>No entanto, a mesma revisão destaca que a relação entre micronutrientes e queda de cabelo ainda não é totalmente clara. São necessários estudos mais robustos para determinar o efeito da suplementação em pessoas sem deficiência.</p>
+<p>Ao ler conteúdos sobre o tema, observe se o autor fala em causas diferentes para cada tipo de queda. Textos que apresentam uma única vitamina como solução para todos os casos costumam simplificar demais.</p>
 
-<p>A Sociedade Brasileira de Dermatologia orienta que, diante de uma queixa de queda de cabelo, o médico deve investigar possíveis deficiências nutricionais e outras causas associadas.</p>
+<h2>Biotina e outras vitaminas do complexo B</h2>
 
-<h2>Ferro: O Mineral Mais Associado à Queda Capilar</h2>
+<p>A biotina é a vitamina mais associada aos cabelos e às unhas. Sua deficiência é rara em quem tem alimentação variada, e os estudos em pessoas sem carência mostram pouco ou nenhum benefício sobre a queda.</p>
 
-<p>O ferro é essencial para o transporte de oxigênio até os folículos capilares. A deficiência de ferro, mesmo sem anemia, está associada ao aumento da queda de cabelo.</p>
+<p>Essa popularidade vem sobretudo de marketing e de relatos pessoais. A presença de biotina no rótulo não indica que ela seja necessária para quem tem alimentação variada.</p>
 
-<p>Estudos mostram que níveis de ferritina abaixo de 60 ng/mL estão associados a maior queda capilar. Alguns especialistas recomendam uma meta de ferritina acima de 70 ng/mL para pacientes com alopecia.</p>
+<p>As vitaminas do complexo B, como a B12 e o folato, participam da formação de células sanguíneas e da renovação celular. Quem tem dieta muito restrita ou problemas de absorção pode apresentar carência, e a investigação deve ser feita com exames.</p>
 
-<p>A reposição de ferro só deve ser feita quando há deficiência documentada por exames. O excesso de ferro pode causar danos ao fígado e outros órgãos.</p>
+<p>Vale notar que a B12 é encontrada principalmente em alimentos de origem animal. Por isso, pessoas veganas ou vegetarianas devem avaliar a necessidade periodicamente com o médico.</p>
 
-<p>Mulheres com menstruação intensa e pessoas que seguem dietas restritivas têm maior risco de deficiência de ferro. Nesses casos, a avaliação com hemograma e ferritina é fundamental.</p>
+<p>Em laboratório, a biotina pode interferir em alguns exames. Por isso, quem usa esse suplemento deve informar o profissional antes de qualquer coleta de sangue. Esse cuidado vale também para exames de rotina feitos por outros médicos.</p>
 
-<h2>Zinco: Essencial para o Folículo Piloso</h2>
+<h2>Ferro e ferritina: a carência mais relevante</h2>
 
-<p>O zinco participa da proliferação celular e da síntese de proteínas, incluindo a queratina que forma o cabelo. A deficiência de zinco pode causar queda capilar difusa.</p>
+<p>O ferro é um dos nutrientes com maior relação com a queda difusa, principalmente em mulheres. Perdas menstruais intensas, dietas pobres em carnes e alimentos fortificados e gestação podem reduzir as reservas do organismo.</p>
 
-<p>A dose diária recomendada de zinco é de 8 mg para mulheres e 11 mg para homens. O limite superior tolerável é de 40 mg por dia para adultos.</p>
+<p>A ferritina é o exame que mostra essas reservas, muitas vezes antes de surgir anemia. Além disso, o resultado precisa ser lido junto com o quadro clínico, e não isoladamente.</p>
 
-<p>Doses crônicas acima desse limite podem causar deficiência de cobre, que também contribui para a queda de cabelo. A suplementação de zinco deve ser feita com orientação profissional.</p>
+<p>Quando o valor está baixo, a conduta é definida pelo médico, que avalia a causa da perda ou da baixa ingestão.</p>
 
-<h2>Biotina: A Vitamina Mais Popular</h2>
+<p>Sem exame, a reposição pode ser inadequada. Ferro em excesso também acumula no organismo e causa problemas, por isso a decisão deve ser individual.</p>
 
-<p>A biotina é uma vitamina do complexo B amplamente associada à saúde capilar. Ela é frequentemente incluída em suplementos para cabelo, pele e unhas.</p>
+<p>Vale lembrar que a vitamina C, quando consumida na mesma refeição de fontes vegetais de ferro, favorece a absorção desse mineral.</p>
 
-<p>No entanto, a deficiência de biotina é rara em pessoas saudáveis. Ela pode ocorrer em casos de consumo excessivo de clara de ovo crua, uso prolongado de antibióticos ou isotretinoína.</p>
+<h2>Zinco, vitamina D e vitamina C</h2>
 
-<p>Uma revisão publicada na Skin Appendage Disorders analisou o uso de biotina para queda de cabelo. Os autores concluíram que a evidência de eficácia é limitada e que a suplementação só é benéfica em casos de deficiência documentada.</p>
+<p>O zinco participa da renovação celular e pode estar em falta em dietas restritivas ou em quem tem doenças intestinais. A carência costuma ser diagnosticada com exames e histórico alimentar, e não apenas por suposição.</p>
 
-<p>Não há limite superior tolerável estabelecido para biotina. Estudos com doses altas não mostraram efeitos adversos. No entanto, altas doses de biotina podem interferir em exames laboratoriais, como os de função tireoidiana e troponina.</p>
+<p>Sinais como unhas frágeis, alterações do paladar e feridas que demoram a cicatrizar podem acompanhar a carência e merecem ser relatados ao médico.</p>
 
-<h2>Vitamina D: Imunidade e Ciclo Capilar</h2>
+<p>A vitamina D aparece em pesquisas sobre queda de cabelo, mas a associação ainda é investigada. Em pessoas com níveis normais, não há prova de que a reposição resolva a queda.</p>
 
-<p>A vitamina D participa do ciclo de crescimento do folículo capilar e da modulação do sistema imunológico. A deficiência dessa vitamina está associada a várias formas de alopecia.</p>
+<p>A vitamina C ajuda na absorção de ferro vindo de vegetais e participa da formação de colágeno. Frutas e legumes costumam fornecer quantidades suficientes, e a suplementação só se justifica em situações específicas.</p>
 
-<p>Uma revisão publicada na Journal of Cosmetic Dermatology destacou o papel da vitamina D na saúde capilar. A deficiência pode contribuir para alopecia areata, eflúvio telógeno e alopecia androgenética.</p>
+<h2>Excesso e combinações: o lado que ninguém mostra</h2>
 
-<p>No entanto, a SBD alerta que o uso de altas doses de vitamina D para tratamento de queda de cabelo não tem comprovação científica confiável. Estudos publicados sobre o tema carecem de metodologia clara e consistente.</p>
+<p>Excesso de vitamina A está associado a queda de cabelo, além de outros sintomas. Por isso, produtos com altas doses de vitaminas lipossolúveis exigem cuidado redobrado.</p>
 
-<p>A dose diária recomendada de vitamina D para adultos varia de 600 a 800 UI. O limite superior tolerável é de 4.000 UI por dia para adultos. Doses maiores devem ser usadas apenas sob supervisão médica.</p>
+<p>Essa vitamina é necessária em quantidades adequadas, e o problema está na dose acumulada, não no alimento que a contém.</p>
 
-<h2>Vitaminas do Complexo B e Queda Capilar</h2>
+<p>Muitas pessoas combinam multivitamínicos, suplementos de cabelo e outros produtos ao mesmo tempo. A soma pode elevar as doses de forma silenciosa, e o efeito fica difícil de rastrear depois.</p>
 
-<p>As vitaminas do complexo B, especialmente B12, B6, B9 (folato) e B7 (biotina), desempenham papéis importantes no metabolismo celular e na saúde do cabelo.</p>
-
-<p>A deficiência de vitamina B12 pode causar queda de cabelo e outros sintomas neurológicos. Ela é mais comum em vegetarianos estritos, idosos e pessoas com problemas de absorção intestinal.</p>
-
-<p>O uso de anticoncepcionais orais pode reduzir os níveis de vitamina B12 e B6. Mulheres que usam pílula anticoncepcional e apresentam queda capilar podem se beneficiar da avaliação desses níveis.</p>
-
-<h2>Como Saber se Você Tem Deficiência de Vitaminas</h2>
-
-<p>A única forma de confirmar uma deficiência nutricional é por meio de exames laboratoriais. Os sintomas de diferentes deficiências podem ser semelhantes, e a automedicação pode mascarar problemas mais graves.</p>
-
-<p>Os exames mais solicitados para investigar queda capilar incluem hemograma completo, ferritina, vitamina D, vitamina B12, ácido fólico, zinco e TSH.</p>
-
-<p>A Sociedade Brasileira de Dermatologia recomenda que a triagem clínica de anemias por falta de ferro anteceda qualquer reposição mineral. O tratamento deve ser baseado em diagnóstico preciso.</p>
-
-<h2>Quando a Suplementação Realmente Funciona</h2>
-
-<p>A suplementação de vitaminas para queda de cabelo só funciona quando há deficiência documentada. Em pessoas com níveis normais, a suplementação adicional não traz benefícios significativos.</p>
-
-<p>Uma revisão publicada na Dermatology and Therapy destaca que a deficiência de micronutrientes pode ser um fator de risco modificável para alopecia. No entanto, os autores ressaltam que são necessários estudos mais robustos para determinar o efeito da suplementação em pessoas sem deficiência.</p>
-
-<p>O tratamento da queda capilar deve ser individualizado. O dermatologista pode identificar a causa e indicar a melhor abordagem, que pode incluir suplementação, medicamentos tópicos ou orais e mudanças no estilo de vida.</p>
-
-<h2>Riscos do Excesso de Vitaminas</h2>
-
-<p>O excesso de algumas vitaminas pode ser tão prejudicial quanto a deficiência. As vitaminas lipossolúveis, como A, D, E e K, se acumulam no organismo e podem causar toxicidade.</p>
-
-<p>A hipervitaminose A causa queda de cabelo, pele seca, fissuras nos lábios e danos ao fígado. O consumo diário de doses 10 vezes superiores à recomendada por vários meses pode causar toxicidade.</p>
-
-<p>A vitamina D em excesso pode causar hipercalcemia, que se manifesta com náusea, confusão, pedras nos rins e desidratação. Níveis acima de 150 ng/mL são considerados tóxicos.</p>
-
-<p>O selênio também tem limite de segurança. A dose máxima tolerável é de 400 mcg por dia para adultos. Doses acima desse valor podem causar queda de cabelo e unhas quebradiças.</p>
-
-<h2>Interações Com Medicamentos</h2>
-
-<p>O uso de suplementos vitamínicos pode interagir com medicamentos de uso contínuo. Anticoncepcionais orais podem reduzir os níveis de vitamina B12 e B6.</p>
-
-<p>Pessoas que usam anticoagulantes devem ter cuidado com a vitamina K, que pode interferir na coagulação. A vitamina E em altas doses também pode aumentar o risco de sangramento.</p>
-
-<p>A biotina em altas doses pode interferir em exames de tireoide, troponina e outros marcadores cardíacos. É importante informar o laboratório sobre o uso de suplementos com biotina antes de realizar exames.</p>
-
-<h2>Queda de Cabelo em Pacientes Bariátricos</h2>
-
-<p>Pacientes que passaram por cirurgia bariátrica têm risco elevado de deficiências nutricionais. A queda de cabelo é uma queixa comum nesse grupo, geralmente causada por eflúvio telógeno associado à má absorção.</p>
-
-<p>As deficiências mais comuns incluem ferro, zinco, vitamina B12, vitamina D e proteínas. A suplementação deve ser individualizada e monitorada com exames laboratoriais regulares.</p>
-
-<p>Pacientes bariátricos podem precisar de doses mais altas de vitaminas e minerais do que a população geral. O acompanhamento com nutricionista e médico é essencial.</p>
-
-<h2>Perguntas Que Vale Levar ao Médico</h2>
-
-<p>Quando você procurar um profissional de saúde para investigar a queda de cabelo, leve anotações:</p>
+<p>Quando há mais de um produto, a melhor estratégia é simplificar a rotina e discutir a lista completa com o profissional de saúde.</p>
 
 <ul>
-<li>Há quanto tempo a queda começou? Após algum evento específico?</li>
-<li>A queda é difusa ou localizada?</li>
-<li>Você tem histórico de anemia ou deficiência de vitaminas?</li>
-<li>Faz uso de algum medicamento de uso contínuo?</li>
-<li>Segue alguma dieta restritiva?</li>
-<li>Já fez cirurgia bariátrica?</li>
-<li>Usa anticoncepcional oral?</li>
-<li>Já fez exames de sangue recentemente?</li>
+<li>Liste todos os produtos que você usa, com a frequência de cada um.</li>
+<li>Evite iniciar um novo suplemento sem retirar outro de forma organizada.</li>
+<li>Comunique sinais novos, como náusea, dor de cabeça ou alterações na pele.</li>
 </ul>
 
-<p>O médico pode solicitar exames laboratoriais e avaliar o couro cabeludo. Essas informações ajudam a definir o melhor tratamento.</p>
+<p>Para entender melhor as fontes de ferro na alimentação, veja <a href="/alimentos-ricos-em-ferro/">a lista de alimentos ricos em ferro</a>, que ajuda a planejar a dieta antes de pensar em suplementos.</p>
 
-<h2>Quando Procurar um Médico</h2>
+<h2>Como investigar e o papel do dermatologista</h2>
 
-<p>Procure atendimento médico se a queda de cabelo:</p>
+<p>A avaliação começa com a história da queda: quando começou, em que padrão, se houve gatilhos como doenças, cirurgias, partos ou medicamentos. Essas informações orientam quais exames pedir.</p>
 
-<ul>
-<li>Persiste por mais de poucas semanas</li>
-<li>Piora com o tempo</li>
-<li>Interfere significativamente no trabalho ou vida pessoal</li>
-<li>Vem acompanhada de outros sintomas, como fadiga, palidez ou unhas quebradiças</li>
-<li>Apresenta placas circulares sem cabelo</li>
-<li>Você suspeita de deficiência nutricional</li>
-</ul>
+<p>O dermatologista examina o couro cabeludo, avalia o padrão de queda e pode solicitar exames de sangue. Com isso, define se a vitamina é de fato necessária e, se for, a dose e o tempo de uso.</p>
 
-<p>A investigação é importante, pois a queda de cabelo pode indicar condições tratáveis. O diagnóstico precoce faz diferença no tratamento.</p>
+<p>Em alguns casos, a biópsia do couro cabeludo é indicada para esclarecer o diagnóstico, o que mostra a importância de não tratar a queda por tentativa.</p>
 
-<h2>Mitos e Verdades Sobre Vitaminas para Queda de Cabelo</h2>
+<p>Entre as condições que o especialista costuma considerar estão a alopecia androgenética, a alopecia areata, alterações da tireoide e a deficiência de ferro. Cada uma tem abordagem própria. Essa lista é apenas um exemplo, e a avaliação individual define quais hipóteses merecem atenção em cada caso.</p>
 
-<p><strong>Mito:</strong> Toda queda de cabelo é falta de vitamina.</p>
-<p><strong>Verdade:</strong> A queda capilar tem muitas causas, incluindo estresse, alterações hormonais, genética e doenças autoimunes. A deficiência nutricional é apenas uma delas.</p>
+<h2>Perguntas frequentes</h2>
 
-<p><strong>Mito:</strong> Quanto mais vitamina, melhor.</p>
-<p><strong>Verdade:</strong> O excesso de algumas vitaminas pode causar queda de cabelo e outros problemas de saúde. A suplementação deve ser baseada em deficiência documentada.</p>
+<p><strong>Quais são as vitaminas mais importantes para o cabelo?</strong><br>Não existe uma lista universal. A relevância depende de exames e da alimentação de cada pessoa, e o ferro costuma ser o nutriente mais observado na queda difusa.</p>
 
-<p><strong>Mito:</strong> Biotina faz o cabelo crescer.</p>
-<p><strong>Verdade:</strong> A evidência de eficácia da biotina para crescimento capilar é limitada. Ela só é benéfica em casos de deficiência documentada.</p>
+<p><strong>Vitamina de farmácia é melhor que a de alimento?</strong><br>Alimentos trazem combinações de nutrientes e fibras, enquanto suplementos concentram substâncias. Ambos têm papel, mas o excesso é mais comum nos suplementos.</p>
 
-<p><strong>Mito:</strong> Suplementos capilares de farmácia são seguros.</p>
-<p><strong>Verdade:</strong> Suplementos podem interagir com medicamentos e causar efeitos adversos. A orientação profissional é necessária.</p>
+<p><strong>Posso repetir o mesmo suplemento por muito tempo?</strong><br>Não sem reavaliação. O uso prolongado exige acompanhamento para checar a necessidade e a segurança.</p>
 
-<h2>Perguntas Frequentes</h2>
+<p><strong>Vitaminas em cápsula são mais eficazes?</strong><br>A forma de apresentação não altera a necessidade do organismo. O que muda o resultado é a presença real de carência e a dose adequada.</p>
 
-<p><strong>Qual é a falta de vitamina que faz o cabelo cair muito?</strong></p>
-<p>As deficiências mais associadas à queda capilar são ferro, zinco, biotina, vitamina D e vitaminas do complexo B. No entanto, a causa pode ser multifatorial e exige avaliação médica.</p>
+<p><strong>Queda de cabelo com vitamina é reversível?</strong><br>Em casos de carência corrigida, a queda pode diminuir. Em outras causas, a recuperação depende do tratamento específico. Quanto antes a causa é identificada, mais simples costuma ser a conduta.</p>
 
-<p><strong>Qual a melhor vitamina completa para o cabelo?</strong></p>
-<p>Não existe uma "melhor" vitamina universal. A suplementação deve ser baseada em deficiência documentada. Um médico pode indicar a fórmula mais adequada para cada caso.</p>
+<h2>Quando procurar um médico</h2>
 
-<p><strong>O que é bom para queda de cabelo urgente?</strong></p>
-<p>Procure um dermatologista para investigar a causa. Dependendo do diagnóstico, o tratamento pode incluir suplementação de vitaminas, minoxidil tópico ou oral, e mudanças no estilo de vida.</p>
+<p>Procure um dermatologista se a queda for intensa, rápida, em placas, acompanhada de coceira, dor ou descamação. Esses sinais podem indicar condições que exigem tratamento próprio e não se resolvem com vitaminas. Não espere meses para buscar avaliação se a queda estiver avançando.</p>
 
-<p><strong>Qual a melhor vitamina para o cabelo parar de quebrar?</strong></p>
-<p>Vitaminas do complexo B, especialmente biotina, e minerais como zinco e ferro são importantes para a saúde capilar. No entanto, a suplementação só é eficaz quando há deficiência.</p>
-
-<p><strong>Falta de vitamina D causa queda de cabelo?</strong></p>
-<p>A deficiência de vitamina D está associada a várias formas de alopecia. No entanto, a SBD alerta que o uso de altas doses para tratamento não tem comprovação científica confiável.</p>
-
-<p><strong>Como saber qual vitamina está faltando?</strong></p>
-<p>Por meio de exames laboratoriais. Os mais solicitados incluem hemograma, ferritina, vitamina D, vitamina B12, ácido fólico e zinco.</p>
+<p>Também vale a consulta se houver cansaço persistente, alterações menstruais, mudanças de peso ou sinais de tireoide. Nesses casos, a avaliação conjunta com outros profissionais costuma ser necessária. Para entender o papel do estresse, <a href="/cortisol-alto/">o conteúdo sobre cortisol alto</a> é um bom ponto de partida.</p>
 
 <h2>Resumindo</h2>
 
-<p>Vitaminas para queda de cabelo só funcionam quando há deficiência documentada. As mais estudadas são ferro, zinco, biotina, vitamina D e vitaminas do complexo B.</p>
+<p>As vitaminas mais citadas para queda de cabelo são úteis em situações específicas, principalmente quando há carência confirmada por exame. Biotina, ferro, zinco e vitamina D têm papéis diferentes, e nenhuma delas é solução universal. Em resumo, a escolha de cada vitamina deve partir de sinais, histórico e exames.</p>
 
-<p>A suplementação sem diagnóstico pode ser ineficaz e até perigosa. O excesso de vitamina A, vitamina D e selênio pode causar queda de cabelo e outros problemas de saúde.</p>
-
-<p>Exames laboratoriais são essenciais para identificar deficiências. O tratamento deve ser individualizado e supervisionado por médico ou nutricionista.</p>
-
-<p>Antes de investir em suplementos capilares, consulte um profissional de saúde. Essas medidas podem contribuir para um tratamento mais seguro e eficaz.</p>
-
-<h2>Fontes</h2>
-<ul>
-<li><a href="https://www.sbd.org.br/doencas/efluvio-telogeno/" rel="noopener nofollow" target="_blank">Sociedade Brasileira de Dermatologia — Eflúvio Telógeno</a></li>
-<li><a href="https://www.sbd.org.br/uso-da-vitamina-d-no-tratamento-da-queda-de-cabelo-decorrente-da-covid-19-nao-tem-comprovacao-cientifica-alertam-dermatologistas/" rel="noopener nofollow" target="_blank">Sociedade Brasileira de Dermatologia — Uso da vitamina D na queda de cabelo pós-covid</a></li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/30547302/" rel="noopener nofollow" target="_blank">PubMed — The Role of Vitamins and Minerals in Hair Loss: A Review</a></li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/28449919/" rel="noopener nofollow" target="_blank">PubMed — A Review of the Use of Biotin for Hair Loss</a></li>
-<li><a href="https://www.gov.br/anvisa/pt-br/assuntos/alimentos/ingredientes/arquivos/4741json-file-1" rel="noopener nofollow" target="_blank">Anvisa — Instrução Normativa nº 28/2018: Suplementos alimentares</a></li>
-<li><a href="https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/" rel="noopener nofollow" target="_blank">NIH — Biotin: Fact Sheet for Health Professionals</a></li>
-</ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://www.sbd.org.br" target="_blank" rel="noopener">Sociedade Brasileira de Dermatologia</a> e da <a href="https://pubmed.ncbi.nlm.nih.gov" target="_blank" rel="noopener">PubMed (National Library of Medicine)</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>O caminho mais seguro é investigar a causa, revisar a alimentação e só então considerar suplementos, sempre com orientação profissional. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>

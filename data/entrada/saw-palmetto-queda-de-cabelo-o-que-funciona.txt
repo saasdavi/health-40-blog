@@ -1,11 +1,11 @@
-PALAVRA_CHAVE: Saw Palmetto Queda de Cabelo — O Que Funciona
-TITLE: Saw Palmetto e Queda de Cabelo: O Que Funciona
-DESCRIPTION: Saw palmetto e queda de cabelo: o que os estudos mostram, os limites da evidência, os cuidados com efeitos indesejados e quando procurar ajuda.
+PALAVRA_CHAVE: saw palmetto queda de cabelo
+TITLE: Saw Palmetto Queda de Cabelo: O Que Funciona
+DESCRIPTION: Saw palmetto queda de cabelo: o que os estudos mostram, os limites da evidência, os cuidados com efeitos indesejados e quando procurar ajuda médica.
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 FONTE: PubMed Central (NIH) | https://pmc.ncbi.nlm.nih.gov
 FONTE: Manual MSD | https://www.msdmanuals.com
 CAPA_BUSCA: hair loss consultation
-CAPA_ALT: Pessoa analisando o couro cabeludo em consulta, com foco na queda de cabelo
+CAPA_ALT: Pessoa analisando o couro cabeludo em consulta sobre saw palmetto e queda de cabelo
 FOTO1_BUSCA: palm tree berries
 FOTO1_ALT: Frutos e folhas de palmeira em close, associados ao saw palmetto
 FOTO1_LEGENDA: Saw palmetto é um extrato obtido dos frutos de uma palmeira.
@@ -15,7 +15,7 @@ FOTO2_ALT: Profissional examinando o couro cabeludo de um paciente com queda de 
 FOTO2_LEGENDA: A avaliação profissional ajuda a entender a causa da queda de cabelo.
 FOTO2_SECAO: 4
 ---
-<p>Saw palmetto é um extrato feito com frutos de uma palmeira norte-americana, muito citado quando o assunto é queda de cabelo. Afinal, funciona mesmo? Em resumo, as pesquisas são pequenas e ainda deixam perguntas em aberto. Vale entender o que foi testado antes de decidir.</p>
+<p>Saw palmetto queda de cabelo é uma busca comum: o extrato vem de frutos de uma palmeira norte-americana. Afinal, funciona mesmo? As pesquisas são pequenas e ainda deixam perguntas em aberto. Vale entender o que foi testado antes de decidir.</p>
 
 <h2>O que é saw palmetto</h2>
 
@@ -81,7 +81,10 @@ FOTO2_SECAO: 4
 
 <p>Ao conversar com o profissional, leve um registro do que mudou: quando a queda começou, se houve parto, doença recente, dieta muito restritiva, troca de medicamento ou períodos de estresse intenso. Essas informações orientam a investigação tanto quanto os exames.</p>
 
-<p>Para aprofundar o tema da queda de cabelo em geral, você pode ler <a href="/queda-de-cabelo/">o guia sobre queda de cabelo e suas causas</a>. Quem suspeita de falta de ferro pode ver também <a href="/ferro-baixo-sintomas/">os sinais de ferro baixo</a>, já que a deficiência é uma causa frequente de queda difusa.</p>
+<p>Para aprofundar o tema da queda de cabelo em geral, você pode ler <a href="/queda-de-cabelo/">o guia sobre queda de cabelo e suas causas</a>. Quem suspeita de falta de ferro pode ver também <a href="/alimentos-ricos-em-ferro/">os alimentos ricos em ferro</a>, já que a deficiência é uma causa frequente de queda difusa.</p>
+
+<p>Outro cuidado é a qualidade do produto. Extratos vendidos como suplemento variam em composição e concentração, e isso dificulta comparar os resultados dos estudos com o que se encontra nas prateleiras.</p>
+<p>Por isso, a decisão de usar ou não deve ser conversada com um médico, que conhece o histórico e os medicamentos em uso de cada pessoa.</p>
 
 <h2>Perguntas frequentes</h2>
 

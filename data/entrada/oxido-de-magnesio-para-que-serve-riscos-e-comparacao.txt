@@ -1,186 +1,94 @@
 PALAVRA_CHAVE: óxido de magnésio
-TITLE: Óxido de Magnésio: Para Que Serve, Riscos e Comparação
-DESCRIPTION: Entenda a biodisponibilidade do óxido de magnésio, seus usos como laxante e antiácido, os riscos do uso crônico e as interações medicamentosas.
+TITLE: Óxido de Magnésio: Para Que Serve e Riscos
+DESCRIPTION: Entenda para que serve o óxido de magnésio, por que sua absorção costuma ser menor, quais riscos observar e como ele se compara a outras formas do mineral.
 FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
-CAPA_BUSCA: vitamin supplement capsules on table
-CAPA_ALT: Suplementos e vitaminas sobre óxido de magnésio
-FOTO1_BUSCA: vitamins pills bottle healthy
-FOTO1_ALT: Cápsulas e comprimidos relacionado a óxido de magnésio
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+CAPA_BUSCA: magnesium powder spoon
+CAPA_ALT: Colher com pó branco de óxido de magnésio sobre uma bancada clara
+FOTO1_BUSCA: pharmacy shelf supplements
+FOTO1_ALT: Prateleira de farmácia com diferentes suplementos minerais, comparando formas de magnésio
+FOTO1_LEGENDA: As diferentes formas do mineral variam em absorção e tolerância.
 FOTO1_SECAO: 2
+FOTO2_BUSCA: doctor reviewing medication list
+FOTO2_ALT: Médico revisando a lista de medicamentos de um paciente
+FOTO2_LEGENDA: Informar todos os remédios em uso evita interações.
+FOTO2_SECAO: 4
 ---
-<div id="container-imagem-capa" class="loading">Carregando imagem...</div>
+<p>O óxido de magnésio é uma das formas do mineral mais encontradas em suplementos e em alguns produtos para o intestino e a acidez.</p>
+<p>Quem pesquisa óxido de magnésio para que serve quer entender seus usos, os riscos e como ele se compara a outras formas. Este texto apresenta essas informações de forma geral, sem indicar dose ou uso para casos individuais.</p>
 
-<p>O <strong>óxido de magnésio</strong> é a forma de magnésio mais vendida no Brasil, presente em suplementos de farmácia, antiácidos e laxantes de venda livre. Sua popularidade se deve a dois fatores: alta concentração de magnésio elementar por cápsula e custo baixo. No entanto, essa popularidade esconde uma característica crítica: a baixa biodisponibilidade. O óxido de magnésio é pouco absorvido pelo intestino, e a maior parte do mineral permanece no trato gastrointestinal, exercendo efeito laxante. Este artigo explica para que serve o óxido de magnésio, compara sua absorção com outras formas, detalha os riscos do uso crônico como laxante e lista as interações medicamentosas que exigem atenção.</p>
+<h2>O que é o óxido de magnésio</h2>
+<p>O óxido de magnésio é um composto em que o mineral está ligado ao oxigênio. Ele tem alto teor de magnésio por peso, o que explica sua presença em muitos produtos. Em compensação, a proporção de magnésio que o organismo consegue absorver é menor do que em outras formas.</p>
+<p>Essa característica faz com que parte do composto chegue ao intestino sem ser absorvida, e é justamente por isso que ele aparece em produtos com efeito laxante e em antiácidos.</p>
 
-<h2>Para Que Serve o Óxido de Magnésio no Organismo?</h2>
+<p>Antes de decidir, é útil separar a finalidade. Um produto usado para acidez, para constipação ou para repor o mineral tem objetivos diferentes, e a escolha da forma deve acompanhar esse objetivo.</p>
 
-<p>O magnésio é um mineral essencial que participa de mais de 300 reações enzimáticas no corpo. Ele é necessário para a produção de energia, síntese de proteínas, função muscular e nervosa, controle da glicose e regulação da pressão arterial. Um adulto contém cerca de 25 gramas de magnésio, sendo 50% a 60% nos ossos.</p>
-
-<p>O óxido de magnésio, especificamente, é usado para três finalidades principais. A primeira é a reposição de magnésio em casos de deficiência leve. A segunda é como antiácido, neutralizando o excesso de ácido clorídrico no estômago e aliviando azia e refluxo. A terceira é como laxante osmótico, atraindo água para o intestino e estimulando o peristaltismo.</p>
-
-<p>No entanto, a mesma característica que confere ao óxido de magnésio seu efeito laxante — a baixa absorção — limita sua eficácia como suplemento para repor magnésio em nível celular. Estudos mostram que formas como citrato, aspartato, lactato e cloreto de magnésio são absorvidas de forma mais completa e têm maior biodisponibilidade do que o óxido.</p>
-
-<div id="container-imagem-1" class="loading">Carregando imagem...</div>
-
-<h2>Qual a Diferença Entre Óxido de Magnésio e Magnésio Dimalato?</h2>
-
-<p>A diferença está na absorção e no uso clínico. O óxido de magnésio tem alta concentração de magnésio elementar (cerca de 60% do peso molecular), mas apenas cerca de 4% é efetivamente absorvido pelo intestino. O restante permanece no lúmen intestinal, atraindo água e causando efeito laxante.</p>
-
-<p>O magnésio dimalato combina magnésio com ácido málico, que participa do ciclo de Krebs e auxilia na produção de energia celular. Sua absorção é significativamente melhor que a do óxido. Outras formas com boa biodisponibilidade incluem o citrato, o bisglicinato e o cloreto.</p>
-
-<h3>Tabela Comparativa: Biodisponibilidade das Formas de Magnésio</h3>
-
-<table>
-<thead>
-<tr>
-<th>Forma</th>
-<th>Concentração de Magnésio Elementar</th>
-<th>Absorção Estimada</th>
-<th>Efeito Laxante</th>
-<th>Uso Principal</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Óxido de magnésio</td>
-<td>Alta (~60%)</td>
-<td>Baixa (~4%)</td>
-<td>Marcado</td>
-<td>Laxante, antiácido, reposição leve</td>
-</tr>
-<tr>
-<td>Citrato de magnésio</td>
-<td>Média (~16%)</td>
-<td>Boa</td>
-<td>Moderado</td>
-<td>Reposição, prevenção de cálculos renais</td>
-</tr>
-<tr>
-<td>Bisglicinato de magnésio</td>
-<td>Baixa (~14%)</td>
-<td>Boa</td>
-<td>Mínimo</td>
-<td>Reposição, sono, ansiedade</td>
-</tr>
-<tr>
-<td>Dimalato de magnésio</td>
-<td>Média</td>
-<td>Boa</td>
-<td>Leve</td>
-<td>Energia, dores musculares</td>
-</tr>
-<tr>
-<td>Cloreto de magnésio</td>
-<td>Alta (~25%)</td>
-<td>Boa</td>
-<td>Moderado</td>
-<td>Reposição</td>
-</tr>
-</tbody>
-</table>
-
-<p><em>Observação: a escolha da forma de magnésio deve considerar o objetivo (reposição vs. efeito laxante) e a tolerância gastrointestinal individual. A suplementação deve ser orientada por profissional de saúde.</em></p>
-
-<div id="container-imagem-2" class="loading">Carregando imagem...</div>
-
-<h2>O Óxido de Magnésio Serve como Laxante?</h2>
-
-<p>Sim. O óxido de magnésio é um laxante osmótico salino. Seu mecanismo de ação é baseado na atração de água para o interior do intestino por osmose. Esse aumento de água amolece as fezes e estimula as contrações peristálticas, facilitando a evacuação.</p>
-
-<p>O efeito laxante é tão previsível que o óxido de magnésio é amplamente prescrito para constipação crônica, especialmente em idosos. No entanto, o uso contínuo como laxante traz riscos que muitas vezes são ignorados. O corpo pode desenvolver dependência do estímulo osmótico para defecar, e a retirada abrupta pode agravar a constipação. Além disso, a perda crônica de água e eletrólitos pelas fezes pode causar distúrbios como hipocalemia e desidratação.</p>
-
-<p>O uso como laxante deve ser de curto prazo e acompanhado de medidas dietéticas, como aumento de fibras e ingestão adequada de água. Em caso de constipação persistente, a avaliação médica é indispensável para descartar causas subjacentes.</p>
-
-<h2>Qual a Quantidade Diária Recomendada de Óxido de Magnésio?</h2>
-
-<p>A dose depende da finalidade. Para suplementação alimentar, a Instrução Normativa nº 28 da Anvisa estabelece o limite máximo de 350 mg de magnésio elementar por dia para adultos. Para reposição eletrolítica em pacientes com deficiência crônica, diretrizes hospitalares indicam doses de 400 a 800 mg ao dia, conforme nível sérico, com dose máxima de 800 mg em 24 horas.</p>
-
-<p>Para uso como laxante, a dose usual é de 400 mg ao dia, administrada cerca de duas horas antes ou depois das refeições, pois pode interferir na absorção de nutrientes dos alimentos. Para uso como antiácido, a dose é calculada para neutralizar o ácido clorídrico e varia conforme a formulação.</p>
-
-<p>É fundamental não confundir a dose de óxido de magnésio com a dose de magnésio elementar. Uma cápsula de 500 mg de óxido de magnésio fornece aproximadamente 300 mg de magnésio elementar. O rótulo do produto deve especificar essa equivalência.</p>
-
-<div id="container-imagem-3" class="loading">Carregando imagem...</div>
-
-<h2>Riscos do Uso Crônico como Laxante</h2>
-
-<p>O uso prolongado do óxido de magnésio como laxante está associado a riscos que vão além da dependência intestinal. O principal é a hipermagnesemia, especialmente em pessoas com função renal reduzida.</p>
-
-<p>O magnésio é excretado pelos rins. Quando a função renal está comprometida, o excesso de magnésio não é eliminado adequadamente e se acumula no sangue. A hipermagnesemia pode causar fraqueza muscular, hipotensão, alterações no eletrocardiograma, depressão respiratória e, em casos graves, parada cardíaca. Casos de hipermagnesemia grave induzida por óxido de magnésio já foram relatados em idosos com disfunção renal, com desfecho letal em um dos casos.</p>
-
-<p>Além da hipermagnesemia, o uso crônico pode causar distúrbios eletrolíticos, como hipocalemia (baixo potássio) e desidratação. A diarreia persistente leva à perda de água e eletrólitos, o que pode agravar condições cardíacas e renais preexistentes.</p>
-
-<h3>Quem Não Deve Usar Óxido de Magnésio como Laxante</h3>
+<h2>Para que o óxido de magnésio é usado</h2>
+<p>Os usos mais comuns são de três tipos. O primeiro é a complementação do mineral na alimentação, quando há necessidade comprovada. O segundo é o efeito laxante, usado para aliviar a dificuldade de evacuar. O terceiro é a neutralização da acidez estomacal, em alguns antiácidos.</p>
 <ul>
-<li>Pessoas com doença renal crônica ou insuficiência renal</li>
-<li>Idosos com função renal reduzida (mesmo que levemente)</li>
-<li>Pessoas com apendicite ou diverticulite (contraindicação formal)</li>
-<li>Pessoas com obstrução intestinal ou impactação fecal</li>
-<li>Pacientes em uso de medicamentos que afetam a função renal</li>
+<li><strong>Suplementação:</strong> deve ser indicada por profissional, a partir de necessidade identificada.</li>
+<li><strong>Efeito laxante:</strong> pode ajudar em situações pontuais, mas o uso contínuo exige orientação.</li>
+<li><strong>Acidez estomacal:</strong> aparece em alguns produtos, mas a causa dos sintomas deve ser avaliada.</li>
 </ul>
+<p>Se a queixa principal é a dificuldade para evacuar, vale conhecer o texto sobre <a href="/sindrome-do-intestino-irritavel/">síndrome do intestino irritável</a>, que descreve causas e hábitos associados.</p>
 
-<h2>Interações Medicamentosas do Óxido de Magnésio</h2>
+<p>Como o composto tem efeito laxante, a diarreia pode ser o sinal de que a dose ultrapassou a tolerância individual. Reduzir a quantidade ou suspender o uso é a conduta esperada nesse caso.</p>
+<p>Pessoas com colite, doença inflamatória intestinal ou outras condições do intestino devem evitar o uso sem orientação, pois a resposta pode ser imprevisível.</p>
 
-<p>O óxido de magnésio interage com diversos medicamentos, reduzindo sua absorção. O mecanismo é a formação de complexos insolúveis no trato gastrointestinal, que não são absorvidos. As interações mais relevantes envolvem antibióticos, hormônio tireoidiano e bifosfonatos.</p>
+<h2>Riscos e efeitos colaterais</h2>
+<p>O efeito colateral mais frequente é a diarreia, que pode vir acompanhada de cólicas e desconforto abdominal. Esse efeito está diretamente ligado ao efeito laxante e costuma aparecer com doses maiores.</p>
+<ul>
+<li>Diarreia e cólicas abdominais.</li>
+<li>Náusea e sensação de estômago pesado.</li>
+<li>Em excesso, sinais de toxicidade, como fraqueza e confusão.</li>
+<li>Acúmulo do mineral em pessoas com função renal reduzida.</li>
+</ul>
+<p>Como o mineral é eliminado pelos rins, a função renal deve ser considerada antes de qualquer uso contínuo.</p>
 
-<h3>Antibióticos (Tetraciclinas e Quinolonas)</h3>
-<p>O magnésio quela antibióticos como ciprofloxacino, levofloxacino e doxiciclina, reduzindo drasticamente sua absorção. Em alguns casos, a absorção cai tanto que o tratamento pode falhar. A regra prática é tomar o antibiótico 2 horas antes ou 4 a 6 horas depois do magnésio. Durante uma pauta curta de antibiótico, a opção mais segura pode ser pausar o suplemento.</p>
+<p>Na prática, a diferença entre as formas se traduz em tolerância e em quantidade efetivamente absorvida. Uma forma com melhor absorção pode exigir menos mineral para o mesmo objetivo, o que reduz o risco de desconforto.</p>
+<p>Por outro lado, quem busca apenas um efeito intestinal pode considerar que o óxido cumpre bem essa função, desde que o uso seja pontual e orientado.</p>
 
-<h3>Levotiroxina</h3>
-<p>As sais de magnésio reduzem a absorção da levotiroxina, medicamento usado para hipotireoidismo. Isso pode se manifestar como um TSH que sobe sem explicação em um paciente antes bem controlado. A recomendação é separar as tomas em pelo menos 4 horas. Como a levotiroxina é tomada em jejum pela manhã, o magnésio pode ser transferido para a noite.</p>
+<h2>Óxido de magnésio versus outras formas</h2>
+<p>As formas de magnésio se diferenciam principalmente pela absorção, pela tolerância digestiva e pelo uso pretendido. Em termos gerais, formas orgânicas, como o citrato e o glicinato, costumam ser mais bem absorvidas e causam menos desconforto intestinal do que o óxido.</p>
+<p>Por outro lado, o óxido pode ser mais barato e é frequentemente usado com finalidade laxante. A escolha entre uma forma e outra deve considerar o objetivo, a tolerância e as condições de saúde, e não apenas o preço.</p>
+<p>Para entender hábitos que ajudam o intestino além do mineral, leia o texto sobre <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a>.</p>
 
-<h3>Bifosfonatos</h3>
-<p>O alendronato e seus análogos têm absorção muito baixa (menos de 1%). Qualquer cátion, incluindo magnésio, reduz ainda mais essa absorção. O bifosfonato deve ser tomado em jejum com água, e o magnésio deve ser separado por pelo menos 30 a 60 minutos, preferencialmente em outro horário do dia.</p>
+<p>O rótulo de produtos com óxido de magnésio costuma informar a quantidade de magnésio elementar, que é a parte realmente disponível para o organismo. Comparar esse número entre produtos é mais útil do que olhar o peso total do composto.</p>
+<p>Também vale observar a presença de outros ingredientes, como cálcio, vitamina D ou antiácidos combinados, pois eles mudam o perfil de tolerância e de interação.</p>
 
-<h3>Gabapentina</h3>
-<p>Antiácidos com magnésio reduzem a biodisponibilidade da gabapentina em cerca de 20%. Separar as tomas em 2 horas resolve o problema.</p>
+<p>Antiácidos e outros produtos que contêm cálcio, ferro ou alumínio também podem competir pela absorção no intestino. Separar os horários e informar todos os produtos ao profissional é a conduta mais segura.</p>
+<p>Pessoas que tomam medicamentos de uso contínuo devem consultar o farmacêutico antes de incluir qualquer produto novo na rotina diária.</p>
 
-<h3>Inibidores de Bomba de Prótons</h3>
-<p>O uso prolongado de omeprazol, esomeprazol e pantoprazol pode causar hipomagnesemia. A relação aqui é inversa: o medicamento reduz o magnésio, não o contrário. Se aparecerem sintomas como cãibras, fadiga ou arritmias em usuários crônicos de IBP, a dosagem de magnésio sérico deve ser investigada.</p>
+<h2>Interações que exigem atenção</h2>
+<p>O óxido de magnésio pode reduzir a absorção de alguns medicamentos quando tomado no mesmo horário. Entre as classes citadas estão certos antibióticos, medicamentos para osteoporose e o hormônio tireoidiano em reposição.</p>
+<p>Diuréticos e remédios para pressão também podem ter o equilíbrio de minerais alterado. Por isso, informe ao médico ou ao farmacêutico todos os remédios em uso antes de começar.</p>
 
-<h2>FAQ — Perguntas Frequentes</h2>
+<p>A comparação entre formas também depende do objetivo. Para quem busca apenas um efeito intestinal, o óxido pode ser uma opção de uso pontual. Para quem precisa repor o mineral com mais absorção, outras formas costumam ser consideradas pelo profissional.</p>
+<p>Em qualquer dos casos, a decisão deve considerar exames, histórico e medicamentos, e não a leitura isolada de um rótulo.</p>
 
-<h3>1. Para que serve o óxido de magnésio no organismo?</h3>
-<p>O óxido de magnésio é usado para reposição de magnésio, como antiácido para azia e refluxo, e como laxante osmótico para constipação. No entanto, sua baixa absorção limita a eficácia como suplemento para repor magnésio celular.</p>
+<p>Em idosos, a combinação de uso de vários medicamentos e redução da função renal exige cuidado extra. Antes de qualquer produto com óxido de magnésio, o médico deve avaliar exames e remédios em uso.</p>
+<p>Quem já tem diarreia crônica ou desidratação recorrente deve evitar o uso sem orientação, já que o efeito laxante pode agravar esses quadros.</p>
 
-<h3>2. Qual a diferença entre óxido de magnésio e magnésio dimalato?</h3>
-<p>O óxido tem alta concentração de magnésio elementar, mas absorção de apenas cerca de 4%, com efeito laxante marcado. O dimalato tem melhor absorção e é usado para energia e dores musculares, com efeito laxante leve.</p>
+<p>Se houver dúvida entre o óxido e outra forma, a melhor pergunta a fazer é qual objetivo se quer alcançar e qual efeito é aceitável. Essa definição orienta a escolha de forma mais segura do que comparar apenas preços.</p>
+<p>Em caso de dúvidas sobre o rótulo, o farmacêutico pode esclarecer a quantidade de magnésio elementar e a forma de uso indicada pelo fabricante.</p>
 
-<h3>3. O óxido de magnésio serve como laxante?</h3>
-<p>Sim. Ele atrai água para o intestino por osmose, amolecendo as fezes e estimulando o peristaltismo. O uso deve ser de curto prazo, pois o uso crônico pode causar dependência e distúrbios eletrolíticos.</p>
+<h2>Perguntas frequentes</h2>
+<p><strong>Óxido de magnésio é o mesmo que magnésio?</strong><br>É uma forma do mineral. A quantidade absorvida difere das outras formas.</p>
+<p><strong>Serve para acidez no estômago?</strong><br>Alguns antiácidos o contêm, mas sintomas frequentes de azia devem ser avaliados por um médico.</p>
+<p><strong>Pode causar diarreia?</strong><br>Sim, é o efeito colateral mais comum, especialmente com doses altas.</p>
+<p><strong>Posso usar como laxante por muito tempo?</strong><br>Não sem orientação. O uso prolongado precisa de avaliação médica.</p>
 
-<h3>4. Qual a quantidade diária recomendada de óxido de magnésio?</h3>
-<p>Para suplementação, o limite máximo é de 350 mg de magnésio elementar por dia. Para reposição eletrolítica, 400 a 800 mg ao dia, conforme nível sérico. Para laxante, cerca de 400 mg ao dia. A dose deve ser orientada por profissional.</p>
+<p>O uso do óxido de magnésio em situações de dor abdominal forte, sangue nas fezes, perda de peso sem explicação ou alternância persistente de constipação e diarreia exige avaliação antes de qualquer autotratamento.</p>
+<p>Esses sinais podem indicar outras condições do intestino que precisam de investigação, e o uso de laxantes pode mascarar o quadro.</p>
 
-<h3>5. Óxido de magnésio interage com algum medicamento?</h3>
-<p>Sim. Ele reduz a absorção de antibióticos (tetraciclinas e quinolonas), levotiroxina, bifosfonatos e gabapentina. As tomas devem ser separadas por 2 a 6 horas, dependendo do medicamento.</p>
+<h2>Quando procurar um médico</h2>
+<p>Procure atendimento se houver diarreia persistente, fraqueza, confusão, batimentos irregulares, dificuldade para urinar ou sinais de desidratação. Também é importante consultar o médico em caso de doença renal, gestação, amamentação ou uso contínuo de medicamentos.</p>
+<p>O profissional pode indicar a forma mais adequada, se houver real necessidade, e definir o tempo de uso. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+
+<p>Escolher bem exige olhar para a finalidade, a tolerância, a função renal e os medicamentos em uso. Uma conversa com o médico ou com o farmacêutico antes do primeiro uso evita a maior parte dos problemas.</p>
+
+<p>Se o objetivo for melhorar a digestão ou o intestino, há estratégias alimentares e de estilo de vida que devem ser consideradas primeiro, com o suplemento como recurso complementar, quando indicado.</p>
 
 <h2>Resumindo</h2>
-
-<p>O óxido de magnésio é a forma mais vendida de magnésio, mas sua popularidade não reflete sua eficácia como suplemento. Ele tem alta concentração de magnésio elementar (cerca de 60%), mas absorção de apenas 4%. A maior parte do mineral permanece no intestino, exercendo efeito laxante osmótico.</p>
-
-<p>Para reposição de magnésio, formas como citrato, bisglicinato, dimalato e cloreto são mais absorvidas e mais eficazes. O óxido de magnésio é mais adequado como laxante de curto prazo e antiácido, não como suplemento de manutenção.</p>
-
-<p>O uso crônico como laxante traz riscos sérios: hipermagnesemia (especialmente em idosos com função renal reduzida), dependência do peristaltismo e distúrbios eletrolíticos. Pessoas com doença renal, idosos e pacientes com obstrução intestinal não devem usar óxido de magnésio como laxante.</p>
-
-<p>O óxido de magnésio interage com vários medicamentos, reduzindo sua absorção. Antibióticos, levotiroxina, bifosfonatos e gabapentina exigem separação de horários ou suspensão temporária do suplemento. A automedicação com magnésio pode comprometer tratamentos em andamento.</p>
-
-<p>Antes de iniciar qualquer suplementação de magnésio, consulte um profissional de saúde. A escolha da forma, da dose e do horário deve considerar o objetivo, a função renal, os medicamentos em uso e a tolerância gastrointestinal individual.</p>
-
-<h2>Fontes</h2>
-<ul>
-<li>National Institutes of Health — Office of Dietary Supplements. Magnesium — Fact Sheet for Health Professionals. <a href="https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/" target="_blank" rel="noopener">https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/</a></li>
-<li>Lindberg JS, Zobitz MM, Poindexter JR, Pak CY. Magnesium bioavailability from magnesium citrate and magnesium oxide. Journal of the American College of Nutrition, 1990. <a href="https://pubmed.ncbi.nlm.nih.gov/2407766/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/2407766/</a></li>
-<li>Schuette SA, Lashner BA, Janghorbani M. Bioavailability of magnesium diglycinate vs magnesium oxide in patients with ileal resection. JPEN Journal of Parenteral and Enteral Nutrition, 1994. <a href="https://pubmed.ncbi.nlm.nih.gov/7815675/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/7815675/</a></li>
-<li>Hypermagnesemia induced by magnesium oxide ingestion: a case series. Clinical and Experimental Nephrology, 2018. <a href="https://europepmc.org/article/MED/30136128" target="_blank" rel="noopener">https://europepmc.org/article/MED/30136128</a></li>
-<li>Ministério da Saúde — Anvisa. Instrução Normativa nº 28/2018 — Listas de constituintes, limites de uso, alegações e rotulagem complementar dos suplementos alimentares. <a href="https://www.gov.br/anvisa/pt-br/assuntos/regulamentacao/legislacao/instrucoes-normativas" target="_blank" rel="noopener">https://www.gov.br/anvisa/pt-br/assuntos/regulamentacao/legislacao/instrucoes-normativas</a></li>
-<li>Hospital Sírio-Libanês. Guia Farmacêutico — Óxido de Magnésio. <a href="https://guiafarmaceutico.hsl.org.br/Paginas/OXIDO-DE-MAGNESIO.aspx" target="_blank" rel="noopener">https://guiafarmaceutico.hsl.org.br/Paginas/OXIDO-DE-MAGNESIO.aspx</a></li>
-</ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
-<h2>Quando procurar um médico</h2>
-<p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://ods.od.nih.gov" target="_blank" rel="noopener">Office of Dietary Supplements (NIH)</a> e da <a href="https://pubmed.ncbi.nlm.nih.gov" target="_blank" rel="noopener">PubMed (National Library of Medicine)</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>O óxido de magnésio é uma forma do mineral com alto teor, mas absorção geralmente menor do que outras formas. Ele é usado em suplementos, em produtos com efeito laxante e em alguns antiácidos, e costuma causar diarreia e cólicas em doses maiores.</p>
+<p>A comparação com outras formas deve considerar absorção, tolerância e objetivo. Antes de usar, converse com um profissional de saúde sobre a sua necessidade e os remédios em uso. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>

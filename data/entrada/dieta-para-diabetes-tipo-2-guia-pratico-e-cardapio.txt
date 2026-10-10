@@ -1,276 +1,127 @@
-PALAVRA_CHAVE: Dieta para Diabetes Tipo 2  Guia Prático e Cardápio.html
-TITLE: 
-DESCRIPTION: Dieta para diabetes tipo 2 é um plano alimentar que prioriza alimentos de baixo índice glicêmico, distribui carboidratos ao longo do dia e controla porções..
-FONTE: diabetes.org.br | https://diabetes.org.br
+PALAVRA_CHAVE: dieta para diabetes tipo 2
+TITLE: Dieta para diabetes tipo 2: guia e cardápio
+DESCRIPTION: Dieta para diabetes tipo 2: princípios de alimentação, exemplo de cardápio com carboidratos de qualidade, cuidados com medicamentos e quando procurar o médico.
+FONTE: Sociedade Brasileira de Diabetes | https://diabetes.org.br
 FONTE: Organização Mundial da Saúde (OMS) | https://www.who.int
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
-CAPA_BUSCA: healthy meal plate vegetables
-CAPA_ALT: Refeição equilibrada sobre dieta para diabetes tipo 2  guia prático e cardápio.html
-FOTO1_BUSCA: healthy food salad bowl
-FOTO1_ALT: Alimentação equilibrada no dia relacionado a dieta para diabetes tipo 2  guia prático e cardápi
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+CAPA_BUSCA: healthy diabetic meal plate
+CAPA_ALT: Prato equilibrado com legumes, proteína e grãos integrais, base de uma dieta para diabetes tipo 2
+FOTO1_BUSCA: fresh salad and grilled fish
+FOTO1_ALT: Salada fresca com peixe grelhado, exemplo de refeição equilibrada para dieta de diabetes tipo 2
+FOTO1_LEGENDA: Combinar proteína, fibras e carboidratos de qualidade ajuda a equilibrar a glicemia.
 FOTO1_SECAO: 2
+FOTO2_BUSCA: person checking blood glucose meter
+FOTO2_ALT: Pessoa usando aparelho de medição de glicose, acompanhamento da glicemia no dia a dia
+FOTO2_LEGENDA: O monitoramento da glicemia orienta ajustes junto com a equipe de saúde.
+FOTO2_SECAO: 4
 ---
-<p><strong>Dieta para diabetes tipo 2</strong> é um plano alimentar que prioriza alimentos de baixo índice glicêmico, distribui carboidratos ao longo do dia e controla porções. Não se trata de uma lista de proibições, mas de uma estratégia individualizada para manter a glicemia estável e prevenir complicações.</p>
+<p>Dieta para diabetes tipo 2 é um plano alimentar que organiza refeições, porções e escolhas de carboidratos para ajudar a manter a glicemia dentro de faixas seguras.</p>
 
-<figure class="article-figure">
-<img src="https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg" alt="Prato colorido com vegetais, proteínas magras e grãos integrais para dieta de diabetes tipo 2" title="Dieta para diabetes tipo 2" width="1280" height="960" loading="lazy" />
-<figcaption>Uma alimentação equilibrada é pilar do controle glicêmico no diabetes tipo 2. <span class="credit">Foto: <a href="https://www.pexels.com/photo/1640777/" rel="noopener nofollow" target="_blank">Pexels</a></span></figcaption>
-</figure>
+<p>Não existe uma lista única de alimentos proibidos. O mais importante é a qualidade dos alimentos, a regularidade das refeições e o ajuste individual feito com a equipe de saúde.</p>
 
-<h2>O Que Realmente É a Dieta para Diabetes Tipo 2</h2>
+<p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Ajustes de alimentação, de medicamentos e de atividade física devem ser combinados com o médico e, se possível, com um nutricionista, principalmente para quem usa remédios que reduzem a glicose.</p>
 
-<p>A dieta para diabetes tipo 2 é uma abordagem nutricional que busca controlar os níveis de glicose no sangue. Ela se baseia na escolha de alimentos que liberam energia de forma gradual e na distribuição equilibrada de carboidratos, proteínas e gorduras.</p>
+<h2>Dieta para diabetes tipo 2: como a alimentação influencia a glicemia</h2>
 
-<p>A Sociedade Brasileira de Diabetes (SBD) destaca que não existe uma dieta única para todos. O plano alimentar deve ser individualizado, considerando preferências, rotina, condições de saúde e metas glicêmicas.</p>
+<p>No diabetes tipo 2, o organismo tem dificuldade para usar a insulina de forma eficiente, e a glicose se acumula no sangue. Os carboidratos são a principal fonte de glicose após as refeições, por isso a quantidade e o tipo de carboidrato fazem diferença direta no resultado dos exames.</p>
 
-<p>As diretrizes da American Diabetes Association (ADA) de 2026 reforçam que vários padrões alimentares podem ser eficazes. Entre eles estão a dieta mediterrânea, a DASH, a vegetariana e a de restrição de carboidratos. O importante é a adesão sustentável ao longo do tempo.</p>
+<p>Ao mesmo tempo, o plano não deve ser pobre em energia nem eliminar grupos inteiros de alimentos. A ideia é equilibrar o prato, distribuir os carboidratos ao longo do dia e combinar cada refeição com proteínas e fibras.</p>
 
-<p>O foco está na qualidade dos alimentos e não apenas na quantidade. Alimentos in natura ou minimamente processados devem ser a base da alimentação. Ultraprocessados, açúcares livres e gorduras trans devem ser evitados.</p>
+<h2>Princípios de uma alimentação equilibrada</h2>
 
-<h2>Alimentos Permitidos: O Que Comer no Diabetes Tipo 2</h2>
-
-<p>Não existe uma lista rígida de alimentos proibidos. O que existe são escolhas mais adequadas e outras que devem ser limitadas. A seguir, os grupos que devem compor a maior parte das refeições:</p>
+<p>As orientações mais aceitas para pessoas com diabetes tipo 2 seguem princípios gerais, que podem ser adaptados a cada caso. Eles ajudam a construir refeições mais previsíveis e a reduzir picos de glicose.</p>
 
 <ul>
-<li><strong>Verduras e legumes:</strong> alface, brócolis, couve, abobrinha, chuchu, tomate, cenoura crua</li>
-<li><strong>Frutas inteiras:</strong> maçã, pera, laranja, morango, mamão, banana (com moderação)</li>
-<li><strong>Grãos integrais:</strong> arroz integral, aveia, quinoa, pão integral, macarrão integral</li>
-<li><strong>Leguminosas:</strong> feijão, lentilha, grão-de-bico, ervilha</li>
-<li><strong>Proteínas magras:</strong> peixes, frango sem pele, ovos, tofu, cortes magros de carne</li>
-<li><strong>Gorduras boas:</strong> azeite de oliva, abacate, castanhas, sementes de linhaça e chia</li>
-<li><strong>Laticínios com baixo teor de gordura:</strong> iogurte natural desnatado, queijos brancos</li>
+<li><strong>Prefira carboidratos integrais</strong>, como arroz integral, aveia, quinoa e pão integral, em vez de versões refinadas.</li>
+<li><strong>Inclua fibras em todas as refeições</strong>, com legumes, verduras, leguminosas e frutas com casca.</li>
+<li><strong>Combine proteína</strong>, como ovos, peixes, frango, carne magra e leguminosas, para dar saciedade.</li>
+<li><strong>Escolha boas gorduras</strong>, como azeite de oliva, abacate e castanhas, em porções moderadas.</li>
+<li><strong>Evite bebidas açucaradas</strong>, incluindo refrigerantes, sucos industrializados e chás com muito açúcar.</li>
+<li><strong>Mantenha horários regulares</strong>, sem longos períodos de jejum seguidos de refeições grandes.</li>
 </ul>
 
-<p>A recomendação de fibras é de 14 g para cada 1.000 kcal consumidas, com mínimo de 25 g por dia. As fibras ajudam a atenuar a hiperglicemia pós-prandial e melhoram o controle glicêmico.</p>
+<p>Esses princípios valem para a maioria das pessoas, mas o plano final precisa considerar peso, medicamentos, rotina, preferências e outras doenças.</p>
 
-<h2>Alimentos Que Devem Ser Evitados ou Limitados</h2>
+<p>Uma mudança que costuma ser bem recebida é trocar o modo de servir. Colocar primeiro os legumes e a salada no prato, depois a proteína e só então o carboidrato, altera a velocidade com que a glicose sobe após a refeição.</p>
 
-<p>Alguns alimentos elevam a glicemia rapidamente e devem ser consumidos com moderação ou evitados:</p>
+<p>É uma estratégia simples, sem necessidade de cortar nada, e fácil de repetir em casa e fora dela.</p>
+
+<p>Também é importante ler os rótulos com atenção. Termos como açúcar, xarope, maltodextrina e mel aparecem em muitos produtos industrializados, e o consumo frequente desses itens pode passar despercebido. Pães, biscoitos e cereais matinais merecem atenção especial.</p>
+
+<h2>Exemplo de cardápio para um dia</h2>
+
+<p>O cardápio abaixo é apenas uma ilustração de como organizar as refeições. Ele não deve ser seguido como receita fixa, e as porções precisam ser ajustadas com o nutricionista.</p>
 
 <ul>
-<li><strong>Açúcares livres:</strong> refrigerantes, sucos industrializados, doces, bolos, biscoitos recheados</li>
-<li><strong>Carboidratos refinados:</strong> pão branco, arroz branco em excesso, farinha de trigo refinada</li>
-<li><strong>Gorduras saturadas e trans:</strong> frituras, carnes processadas, embutidos, salgadinhos</li>
-<li><strong>Ultraprocessados:</strong> macarrão instantâneo, temperos prontos, refeições congeladas</li>
-<li><strong>Bebidas alcoólicas:</strong> consumo excessivo pode causar hipoglicemia e descontrole glicêmico</li>
+<li><strong>Café da manhã:</strong> omelete com legumes, uma fatia de pão integral e uma fruta com casca.</li>
+<li><strong>Lanche da manhã:</strong> iogurte natural sem açúcar com algumas castanhas.</li>
+<li><strong>Almoço:</strong> peixe grelhado, arroz integral em porção moderada, feijão e salada variada com azeite.</li>
+<li><strong>Lanche da tarde:</strong> legumes crus com homus caseiro ou um ovo cozido.</li>
+<li><strong>Jantar:</strong> frango ou tofu refogado com abobrinha, cenoura e uma porção de batata-doce.</li>
 </ul>
 
-<p>A SBD orienta que o consumo de açúcar não é totalmente proibido, mas deve ser inserido em pequenas quantidades dentro de uma alimentação equilibrada. O contexto da refeição e a quantidade fazem diferença.</p>
+<p>Para quem tem pouco tempo, preparar a comida em lotes e congelar porções é uma estratégia útil. A consistência nas escolhas costuma ser mais importante do que a perfeição em uma única refeição.</p>
 
-<h2>Como Adaptar a Dieta Tradicional Brasileira</h2>
+<h2>Monitoramento e a rotina com a equipe</h2>
 
-<p>A comida brasileira tem particularidades que exigem adaptações. Alimentos como mandioca, cuscuz, tapioca e farinha de mandioca são ricos em carboidratos e podem elevar a glicemia rapidamente.</p>
+<p>O acompanhamento regular da glicemia e de exames como a hemoglobina glicada mostra se o plano está funcionando. Anotar os horários das refeições, a quantidade de comida e os valores medidos ajuda a identificar padrões e a conversar de forma objetiva na consulta.</p>
 
-<p>Uma colher de servir cheia de mandioca cozida (cerca de 60 g) contém aproximadamente 16,8 g de carboidratos disponíveis. Isso equivale a uma troca de carboidrato. Ao alternar mandioca, cuscuz, tapioca e milho verde, o paciente deve ajustar as porções ao longo do dia.</p>
+<p>Para entender melhor esses indicadores, vale ler sobre <a href="/hemoglobina-glicada/">hemoglobina glicada</a> e sobre a <a href="/glicemia-normal/">glicemia normal</a>, que ajudam a interpretar os resultados. Se houver dúvidas sobre sintomas, o texto sobre <a href="/sintomas-de-diabetes/">sintomas de diabetes</a> também é útil.</p>
 
-<p>Uma tapioca preparada com três colheres de sopa de goma pode chegar a 36 gramas de carboidratos. Isso equivale a cerca de duas a três trocas de carboidrato em uma única refeição. O impacto glicêmico é alto e exige atenção.</p>
+<p>Na prática, o acompanhamento também inclui conversar sobre o que acontece em dias fora da rotina, como viagens, festas e períodos de doença. Nessas situações, a alimentação muda, e os medicamentos podem precisar de ajuste. Ter um plano combinado antecipadamente reduz a chance de surpresas.</p>
 
-<p>A estratégia mais segura é combinar esses alimentos com fontes de proteína, fibras e gorduras boas. Por exemplo, adicionar ovo mexido à tapioca ou consumir a mandioca com uma proteína magra reduz a velocidade de absorção da glicose.</p>
+<h2>Cuidados com medicamentos e hipoglicemia</h2>
 
-<h2>Cardápio Semanal para Diabetes Tipo 2</h2>
+<p>Quem usa medicamentos para diabetes precisa ter cuidado com o horário das refeições, porque alguns remédios podem baixar a glicose de forma importante quando a pessoa come pouco ou pula refeições. A equipe deve orientar como agir nesses casos.</p>
 
-<p>O cardápio a seguir cobre os sete dias da semana, como exemplo qualitativo. As porções devem ser individualizadas por nutricionista conforme peso, altura, nível de atividade física e metas glicêmicas.</p>
+<p>Sinais de hipoglicemia incluem tremores, suor frio, fome súbita, palpitações, confusão e irritação. Quando isso acontece, é preciso seguir o plano de emergência orientado pelo médico, que costuma incluir uma fonte rápida de açúcar.</p>
 
-<h3>Segunda-feira</h3>
-<ul>
-<li><strong>Café da manhã:</strong> ovos mexidos com tomate e cebola, uma fatia de pão integral, café sem açúcar</li>
-<li><strong>Lanche da manhã:</strong> uma maçã com casca e 5 castanhas-de-caju</li>
-<li><strong>Almoço:</strong> arroz integral, feijão, frango grelhado, salada de folhas verdes com azeite</li>
-<li><strong>Lanche da tarde:</strong> iogurte natural desnatado com sementes de chia</li>
-<li><strong>Jantar:</strong> sopa de legumes com lentilha e cubos de carne magra</li>
-<li><strong>Ceia:</strong> uma fatia de mamão</li>
-</ul>
+<p>Nunca altere a dose de medicamentos por conta própria, mesmo que a alimentação tenha mudado. Qualquer ajuste precisa de acompanhamento e de novos exames.</p>
 
-<h3>Terça-feira</h3>
-<ul>
-<li><strong>Café da manhã:</strong> mingau de aveia com leite desnatado e canela</li>
-<li><strong>Lanche da manhã:</strong> pera com casca</li>
-<li><strong>Almoço:</strong> arroz integral, feijão, peixe assado, brócolis no vapor com azeite</li>
-<li><strong>Lanche da tarde:</strong> ovo cozido com uma fatia de queijo branco</li>
-<li><strong>Jantar:</strong> omelete de espinafre com salada de tomate</li>
-<li><strong>Ceia:</strong> iogurte natural com morangos</li>
-</ul>
+<h2>Atividade física e alimentação</h2>
 
-<h3>Quarta-feira</h3>
-<ul>
-<li><strong>Café da manhã:</strong> tapioca pequena com ovo mexido e queijo branco</li>
-<li><strong>Lanche da manhã:</strong> laranja inteira</li>
-<li><strong>Almoço:</strong> arroz integral, feijão, carne magra grelhada, abobrinha refogada</li>
-<li><strong>Lanche da tarde:</strong> castanhas-do-pará e uma fruta</li>
-<li><strong>Jantar:</strong> salada de grão-de-bico com atum, tomate e pepino</li>
-<li><strong>Ceia:</strong> chá de camomila sem açúcar</li>
-</ul>
+<p>A atividade física regular ajuda o corpo a usar a glicose de forma mais eficiente. Caminhadas após as refeições, exercícios de força e movimentos de mobilidade podem ser incluídos na rotina, sempre com orientação sobre intensidade e cuidados.</p>
 
-<h3>Quinta-feira</h3>
-<ul>
-<li><strong>Café da manhã:</strong> iogurte natural com aveia, chia e morangos</li>
-<li><strong>Lanche da manhã:</strong> uma fatia de melão</li>
-<li><strong>Almoço:</strong> arroz integral, lentilha, sobrecoxa de frango sem pele assada, couve refogada</li>
-<li><strong>Lanche da tarde:</strong> uma fatia de pão integral com pasta de grão-de-bico (homus)</li>
-<li><strong>Jantar:</strong> sopa de abóbora com cubos de frango e salada de rúcula</li>
-<li><strong>Ceia:</strong> uma ameixa fresca</li>
-</ul>
+<p>Em dias de exercício mais intenso, o plano alimentar pode precisar de ajustes. Por isso, vale conversar com a equipe antes de mudanças grandes na rotina de treinos.</p>
 
-<h3>Sexta-feira</h3>
-<ul>
-<li><strong>Café da manhã:</strong> pão integral com ovo mexido e fatia de abacate</li>
-<li><strong>Lanche da manhã:</strong> uma maçã com casca</li>
-<li><strong>Almoço:</strong> arroz integral, feijão, tilápia grelhada, salada de pepino com azeite</li>
-<li><strong>Lanche da tarde:</strong> iogurte natural com sementes de linhaça</li>
-<li><strong>Jantar:</strong> escondidinho de batata-doce com carne moída magra e salada verde</li>
-<li><strong>Ceia:</strong> chá de ervas sem açúcar</li>
-</ul>
+<p>Muitas pessoas com diabetes tipo 2 também se beneficiam de apoio emocional. Lidar com um diagnóstico crônico pode gerar preocupação, cansaço com as restrições e sensação de estar sempre sendo cobrado.</p>
 
-<h3>Sábado</h3>
-<ul>
-<li><strong>Café da manhã:</strong> omelete de claras com espinafre e tomate, fatia de pão integral</li>
-<li><strong>Lanche da manhã:</strong> pera com casca</li>
-<li><strong>Almoço:</strong> arroz integral, feijão, coxa de frango assada sem pele, salada colorida com azeite</li>
-<li><strong>Lanche da tarde:</strong> iogurte natural com morangos e chia</li>
-<li><strong>Jantar:</strong> salada de quinoa com legumes assados e cubos de tofu grelhado</li>
-<li><strong>Ceia:</strong> uma fatia de mamão</li>
-</ul>
+<p>Conversar com a equipe sobre essas dificuldades faz parte do cuidado e ajuda a manter o plano por mais tempo.</p>
 
-<h3>Domingo</h3>
-<ul>
-<li><strong>Café da manhã:</strong> tapioca pequena com queijo branco e orégano, café sem açúcar</li>
-<li><strong>Lanche da manhã:</strong> mix de castanhas e uma fruta</li>
-<li><strong>Almoço:</strong> arroz integral, feijão, peixe assado, legumes assados no forno com azeite</li>
-<li><strong>Lanche da tarde:</strong> iogurte natural com sementes de abóbora</li>
-<li><strong>Jantar:</strong> sopa de legumes com grão-de-bico e cubos de frango desfiado</li>
-<li><strong>Ceia:</strong> chá de camomila sem açúcar</li>
-</ul>
+<p>Vale ainda lembrar que o cuidado com a alimentação deve considerar a família. Quando quem mora com a pessoa também muda hábitos, como servir mais legumes, trocar a bebida adoçada da mesa e preparar refeições com menos frituras, a adesão ao plano tende a ser maior e menos solitária.</p>
 
-<h2>Jejum Intermitente e Diabetes Tipo 2</h2>
+<h2>Perguntas frequentes</h2>
 
-<p>O jejum intermitente é uma estratégia que alterna períodos de alimentação e jejum. Estudos recentes mostram que a alimentação com restrição de tempo (TRE) pode melhorar o controle glicêmico em pessoas com diabetes tipo 2.</p>
+<p><strong>Pessoas com diabetes tipo 2 podem comer frutas?</strong></p>
+<p>Sim, geralmente em porções adequadas e de preferência inteiras. O suco, mesmo natural, costuma elevar a glicose com mais rapidez por ter menos fibras.</p>
 
-<p>Uma revisão sistemática avaliou a eficácia e segurança do jejum intermitente em pacientes com diabetes tipo 2. Os resultados mostraram que o jejum intermitente pode ser uma abordagem segura, com perfil de eficácia semelhante ao de dietas convencionais.</p>
+<p><strong>Preciso eliminar o açúcar?</strong></p>
+<p>Reduzir o açúcar de adição é uma orientação comum. Ainda assim, o controle depende do conjunto da alimentação e do tratamento, e não de um único alimento.</p>
 
-<p>No entanto, o jejum intermitente não é isento de riscos. Pode aumentar a chance de hipoglicemia, especialmente em pacientes que usam insulina ou sulfonilureias. A prática deve ser supervisionada por médico e nutricionista.</p>
+<p><strong>Dieta resolve o diabetes tipo 2?</strong></p>
+<p>A alimentação é uma parte central do cuidado, mas o controle costuma depender de acompanhamento contínuo, medicamentos quando indicados e atividade física. Não há como afirmar que uma dieta isolada elimine a condição, e qualquer expectativa desse tipo deve ser conversada com o médico.</p>
 
-<h2>Dieta Cetogênica e Diabetes Tipo 2</h2>
+<p><strong>Posso fazer jejum intermitente?</strong></p>
+<p>Essa decisão precisa ser individual, porque o jejum pode aumentar o risco de hipoglicemia em quem usa medicamentos. Converse com a equipe antes de qualquer mudança.</p>
 
-<p>A dieta cetogênica é uma estratégia de muito baixo carboidrato, alto teor de gorduras e proteínas moderadas. Ela induz o organismo a usar gordura como principal fonte de energia.</p>
+<h2>Quando procurar um médico</h2>
 
-<p>Estudos mostram que a dieta cetogênica pode reduzir a hemoglobina glicada (HbA1c) e melhorar a sensibilidade à insulina em pessoas com diabetes tipo 2. No entanto, a maioria dos estudos tem duração curta e não avalia efeitos de longo prazo.</p>
-
-<p>Os efeitos adversos mais comuns incluem distúrbios gastrointestinais, dor de cabeça, fadiga, irritabilidade e deficiências de vitaminas e minerais. Há também relatos de piora do perfil lipídico e acúmulo de gordura no fígado em uso prolongado.</p>
-
-<p>Uma revisão sobre dietas cetogênicas no diabetes destaca que, apesar dos benefícios glicêmicos, a dieta não é isenta de riscos. A restrição severa de carboidratos pode levar a deficiências nutricionais e elevar o risco de dislipidemia.</p>
-
-<p>A dieta cetogênica não é recomendada como primeira linha para todos os pacientes. Pode ser considerada em casos selecionados, com acompanhamento médico rigoroso e avaliação periódica de exames laboratoriais.</p>
-
-<h2>Produtos Zero Açúcar e Diet: O Que Você Precisa Saber</h2>
-
-<p>Produtos rotulados como zero açúcar, diet ou light são comuns nas prateleiras. Mas nem todos são adequados para quem tem diabetes.</p>
-
-<p>A legislação brasileira define que um produto zero açúcar contém menos de 0,5 g de açúcar por 100 g ou 100 mL. No entanto, esses produtos podem conter carboidratos de outros ingredientes, como farinhas, amidos e maltodextrina.</p>
-
-<p>Alimentos como bolos, biscoitos e pães zero açúcar frequentemente usam farinha de trigo, que se transforma em glicose rapidamente. O impacto glicêmico pode ser semelhante ao de um produto com açúcar.</p>
-
-<p>Os adoçantes artificiais como aspartame, sucralose e sacarina não elevam a glicemia. Mas o consumo excessivo pode causar desconforto gastrointestinal e alterar a microbiota intestinal em algumas pessoas.</p>
-
-<p>A recomendação é ler os rótulos com atenção. Verificar a quantidade de carboidratos totais, não apenas de açúcares. Preferir alimentos in natura e minimamente processados.</p>
-
-<h2>Como Montar o Prato Ideal</h2>
-
-<p>O método do prato é uma ferramenta simples e eficaz para o controle glicêmico. Consiste em dividir o prato em três partes:</p>
+<p>Procure atendimento se houver sinais de descontrole ou de complicações, como:</p>
 
 <ul>
-<li><strong>Metade do prato:</strong> vegetais sem amido, como salada de folhas, brócolis, cenoura crua, pepino</li>
-<li><strong>Um quarto do prato:</strong> proteínas magras, como peixe, frango, ovos, tofu, carne magra</li>
-<li><strong>Um quarto do prato:</strong> carboidratos complexos, como arroz integral, feijão, quinoa, batata-doce</li>
+<li>Sede excessiva, vontade frequente de urinar ou perda de peso sem explicação.</li>
+<li>Glicemia repetidamente acima ou abaixo da faixa indicada pela equipe.</li>
+<li>Episódios frequentes de hipoglicemia, mesmo com ajuste de alimentação.</li>
+<li>Feridas que demoram a cicatrizar, formigamento ou dormência nos pés.</li>
+<li>Visão embaçada, confusão mental ou sonolência fora do comum.</li>
 </ul>
 
-<p>Essa distribuição ajuda a controlar a porção de carboidratos e aumenta a saciedade. As fibras dos vegetais e proteínas retardam a absorção da glicose.</p>
+<p>Em caso de hipoglicemia intensa, desmaio ou confusão grave, procure atendimento de urgência imediatamente. O médico pode revisar o plano e ajustar o tratamento com segurança.</p>
 
-<h2>Perguntas Que Vale Levar ao Médico</h2>
-
-<p>Quando você procurar um profissional de saúde para ajustar sua dieta, leve anotações:</p>
-
-<ul>
-<li>Quais são suas metas de glicemia e HbA1c?</li>
-<li>Você usa insulina ou medicamentos que podem causar hipoglicemia?</li>
-<li>Qual é o seu peso e altura atuais? Qual a meta de peso?</li>
-<li>Você tem outras condições, como hipertensão, colesterol alto ou doença renal?</li>
-<li>Qual é a sua rotina de refeições? Você come fora com frequência?</li>
-<li>Tem dificuldade para seguir dietas restritivas?</li>
-<li>Já tentou alguma dieta específica? Como foi a experiência?</li>
-</ul>
-
-<p>O médico ou nutricionista pode solicitar exames de glicemia de jejum, hemoglobina glicada, perfil lipídico e função renal. Esses exames ajudam a individualizar o plano alimentar.</p>
-
-<h2>Quando Procurar um Médico</h2>
-
-<p>Procure atendimento médico se você:</p>
-
-<ul>
-<li>Tem dificuldade em controlar a glicemia com a alimentação</li>
-<li>Apresenta episódios frequentes de hipoglicemia ou hiperglicemia</li>
-<li>Está pensando em iniciar jejum intermitente ou dieta cetogênica</li>
-<li>Tem dúvidas sobre produtos zero açúcar ou diet</li>
-<li>Apresenta sintomas como sede excessiva, urina frequente, cansaço ou perda de peso inexplicada</li>
-<li>Foi diagnosticado recentemente com diabetes tipo 2 e precisa de orientação nutricional</li>
-</ul>
-
-<p>A investigação é importante, pois a dieta é um pilar do tratamento do diabetes tipo 2. Pequenas mudanças sustentáveis podem contribuir para benefícios no controle glicêmico e na saúde geral.</p>
-
-<h2>Mitos e Verdades Sobre Dieta para Diabetes Tipo 2</h2>
-
-<p><strong>Mito:</strong> Diabético não pode comer fruta.</p>
-<p><strong>Verdade:</strong> Frutas inteiras são permitidas e recomendadas. Elas contêm fibras que ajudam a controlar a glicemia. O que deve ser evitado são sucos e frutas em calda.</p>
-
-<p><strong>Mito:</strong> Arroz e feijão estão proibidos.</p>
-<p><strong>Verdade:</strong> Arroz e feijão podem fazer parte da dieta. O segredo está na porção e na combinação com vegetais e proteínas. Prefira arroz integral e controle a quantidade.</p>
-
-<p><strong>Mito:</strong> Produtos diet e zero açúcar são liberados.</p>
-<p><strong>Verdade:</strong> Muitos produtos zero açúcar contêm carboidratos de farinhas e amidos. Eles podem elevar a glicemia. Leia os rótulos e prefira alimentos in natura.</p>
-
-<p><strong>Mito:</strong> Dieta para diabetes é restritiva e sem sabor.</p>
-<p><strong>Verdade:</strong> É possível montar refeições saborosas com temperos naturais, ervas e azeite. A dieta deve ser sustentável e adaptada às preferências de cada pessoa.</p>
-
-<h2>Perguntas Frequentes</h2>
-
-<p><strong>Qual o cardápio ideal para quem tem diabetes tipo 2?</strong></p>
-<p>O cardápio deve incluir vegetais sem amido, proteínas magras, grãos integrais e leguminosas. As porções são individualizadas. Um exemplo: café da manhã com ovos e pão integral; almoço com arroz integral, feijão, frango e salada; jantar com sopa de legumes e lentilha.</p>
-
-<p><strong>O que o diabético tipo 2 não pode comer de jeito nenhum?</strong></p>
-<p>Não há alimentos absolutamente proibidos. No entanto, açúcares livres, refrigerantes, sucos industrializados, doces e ultraprocessados devem ser evitados ou consumidos raramente. Eles elevam a glicemia rapidamente.</p>
-
-<p><strong>Quem tem diabetes tipo 2 pode comer arroz e feijão?</strong></p>
-<p>Sim, pode. O arroz e o feijão são alimentos tradicionais e nutritivos. O ideal é controlar a porção, preferir arroz integral e combinar com vegetais e proteínas para reduzir o impacto glicêmico.</p>
-
-<p><strong>Qual a melhor fruta para quem tem diabetes tipo 2?</strong></p>
-<p>Frutas com baixo índice glicêmico são boas opções: maçã, pera, morango, mamão, laranja. O consumo deve ser moderado e preferencialmente com casca, pois a fibra ajuda a controlar a glicemia.</p>
-
-<p><strong>Como baixar a glicose com alimentos?</strong></p>
-<p>Priorize alimentos ricos em fibras, como vegetais, leguminosas e grãos integrais. Evite açúcares e carboidratos refinados. Faça refeições regulares e fracionadas. A atividade física regular também ajuda a baixar a glicose.</p>
-
-<p><strong>Dieta cetogênica é segura para diabetes tipo 2?</strong></p>
-<p>A dieta cetogênica pode melhorar o controle glicêmico no curto prazo, mas não é isenta de riscos. Pode causar deficiências nutricionais e piora do perfil lipídico. Deve ser feita com acompanhamento médico.</p>
+<p>Vale reforçar que ajustes pequenos e constantes costumam funcionar melhor do que mudanças radicais. Trocar um refrigerante por água com limão, incluir uma porção de legumes no almoço e caminhar depois do jantar são passos simples que, somados, sustentam o cuidado ao longo dos meses.</p>
 
 <h2>Resumindo</h2>
 
-<p>Dieta para diabetes tipo 2 é uma estratégia individualizada, não uma lista de proibições. O foco está na qualidade dos alimentos: vegetais, frutas inteiras, grãos integrais, leguminosas e proteínas magras.</p>
+<p>A dieta para diabetes tipo 2 deve ser equilibrada, com carboidratos de boa qualidade, fibras em todas as refeições, proteínas presentes e horários regulares. O objetivo é manter a glicemia mais estável e preservar a saúde, sem eliminar grupos inteiros de alimentos.</p>
 
-<p>Adaptar a dieta brasileira é possível com atenção às porções de mandioca, cuscuz e tapioca. Combinar esses alimentos com proteínas e fibras reduz o impacto glicêmico.</p>
-
-<p>Jejum intermitente e dieta cetogênica podem ser alternativas em casos selecionados, mas exigem supervisão médica. Produtos zero açúcar não são liberados automaticamente; leia os rótulos.</p>
-
-<p>Comece com mudanças graduais. Anote suas refeições e leve ao médico ou nutricionista. Essas medidas podem contribuir para benefícios no controle glicêmico.</p>
-
-<h2>Fontes</h2>
-<ul>
-<li><a href="https://diabetes.org.br/wp-content/uploads/2021/05/manual-de-nutri-para-pessoas-com-diabetes.pdf" rel="noopener nofollow" target="_blank">Sociedade Brasileira de Diabetes — Manual de Nutrição para Pessoas com Diabetes</a></li>
-<li><a href="https://diabetesjournals.org/care/article/49/Supplement_1/S107/157563" rel="noopener nofollow" target="_blank">American Diabetes Association — Standards of Care in Diabetes 2026</a></li>
-<li><a href="https://www.who.int/news-room/fact-sheets/detail/diabetes" rel="noopener nofollow" target="_blank">Organização Mundial da Saúde — Diabetes Fact Sheet</a></li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/40770991/" rel="noopener nofollow" target="_blank">PubMed — Effects of time-restricted eating on glycemic control in type 2 diabetes</a></li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/39426340/" rel="noopener nofollow" target="_blank">PubMed — Ketogenic Diet: A Review of Composition Diversity, Mechanism of Action and Clinical Application</a></li>
-</ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://diabetes.org.br" target="_blank" rel="noopener">diabetes.org.br</a>, <a href="https://www.who.int" target="_blank" rel="noopener">Organização Mundial da Saúde (OMS)</a> e da <a href="https://pubmed.ncbi.nlm.nih.gov" target="_blank" rel="noopener">PubMed (National Library of Medicine)</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>O plano funciona melhor quando é construído com a equipe de saúde, considera os medicamentos e a rotina de cada pessoa e é revisto periodicamente com base nos exames. Em qualquer dúvida ou sintoma novo, a orientação é procurar o médico antes de mudar sozinho o tratamento.</p>

@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: babosa no cabelo
-TITLE: Babosa no cabelo: benefícios reais e riscos da aloína
+TITLE: Babosa no cabelo: benefícios e riscos
 DESCRIPTION: Babosa no cabelo: o que a pesquisa mostra sobre a planta, o que ainda falta comprovar e por que a aloína exige cuidado antes de qualquer uso caseiro.
 FONTE: Farmacopeia Brasileira, Babosa, folha | http://bibliotecadigital.anvisa.ibict.br/jspui/handle/anvisa/518
 FONTE: Farmacopeia Brasileira, Aloe exsudato seco | https://bibliotecadigital.anvisa.gov.br/jspui/handle/anvisa/498
@@ -28,7 +28,7 @@ FOTO2_SECAO: 4
 <p>A aloína é um composto presente sobretudo no látex, a camada amarelada que fica entre a casca e o gel. Quando aplicada na pele, pode causar irritação em pessoas sensíveis. Quando ingerida, está associada a efeitos intestinais fortes, por isso produtos com látex não devem ser usados de forma caseira.</p>
 <p>Esse é o motivo pelo qual o gel bem processado é diferente de sumos ou de pedaços de folha usados sem preparo. Quem faz receitas em casa costuma não separar bem o gel do látex, e é aí que o risco aumenta.</p>
 <p>Além disso, produtos industrializados seguem regras de controle, enquanto o material colhido em casa não passa por análise. Essa diferença explica por que as recomendações de segurança são mais rígidas para o uso artesanal.</p>
-<h2>Riscos de usar babosa no couro cabeludo</h2>
+<h2>Riscos de usar babosa no cabelo e no couro cabeludo</h2>
 <p>A reação mais comum ao uso de babosa é a irritação de contato. Ela pode aparecer como vermelhidão, ardência, coceira ou pequenas bolhas, principalmente em quem tem pele reativa ou já apresenta dermatite. Alergias também são possíveis, embora sejam menos frequentes.</p>
 <p>Outro risco é a contaminação. Folhas colhidas em casa podem carregar microrganismos, sobretudo se ficam expostas ou são armazenadas por tempo longo. Aplicar esse material na pele, especialmente com o couro cabeludo machucado, aumenta a chance de infecção.</p>
 <ul>
@@ -43,6 +43,14 @@ FOTO2_SECAO: 4
 <h2>Quem deve ter cuidado extra</h2>
 <p>Gestantes, pessoas com doenças inflamatórias intestinais, quem usa medicamentos de uso contínuo e pessoas com alergias conhecidas a plantas precisam ter atenção redobrada. Nesses casos, o ideal é conversar com um médico ou dermatologista antes de incluir qualquer planta na rotina.</p>
 <p>Crianças também merecem cuidado, já que a pele é mais sensível e o risco de ingestão acidental existe. Evite deixar folhas ou produtos com látex ao alcance delas.</p>
+<p>Além de gestantes e crianças, vale atenção a quem tem alergias respiratórias ou de contato com plantas. Nesses casos, a reação pode aparecer em outra parte do corpo, e não necessariamente no couro cabeludo, o que dificulta associar o sintoma ao produto usado.</p>
+<p>Pessoas com dermatite de contato já estabelecida devem ser especialmente cuidadosas. Qualquer ingrediente novo pode desencadear crises, e a dica é registrar o que foi usado e quando, para ajudar o dermatologista a identificar o gatilho. Estresse também pesa nos fios; veja sobre <a href="/cortisol-alto/">cortisol alto</a>.</p>
+<p>Outro ponto importante é a expectativa. Plantas naturais costumam ser associadas a efeitos suaves e, por isso, a pessoa tende a aplicar com mais frequência ou em maior quantidade.</p>
+<p>Esse excesso aumenta a irritação e atrapalha a leitura de qualquer melhora. O uso deve ser moderado, com intervalos definidos e observação atenta.</p>
+<p>A babosa também não deve ser misturada a outros ativos fortes sem orientação. Combinar a planta com ácidos, peróxidos ou cosméticos potentes pode causar ardência e lesões. Se você usa algum tratamento prescrito, informe o médico antes de incluir um produto natural na rotina.</p>
+<p>Na prática, a decisão de usar babosa não deve atrasar a investigação de uma queda de cabelo.</p>
+<p>Se a intenção é apenas hidratar as pontas, a planta é uma opção simples, desde que o material seja adequado e a pele responda bem. Já para queda, o caminho é a avaliação profissional, sem adiamentos.</p>
+<p>Mantenha o produto fora do alcance de crianças e armazene-o em local fresco, seguindo as instruções da embalagem. A conservação inadequada favorece a contaminação e aumenta o risco de irritação, mesmo em pessoas que já tolerariam bem a planta.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>A babosa faz o cabelo crescer?</strong></p>
 <p>Não há evidência clínica suficiente para afirmar isso. Os estudos disponíveis são pequenos ou feitos em laboratório, e merecem novos testes.</p>

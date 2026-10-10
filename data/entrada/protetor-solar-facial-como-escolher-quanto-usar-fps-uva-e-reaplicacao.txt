@@ -1,4 +1,4 @@
-PALAVRA_CHAVE: protetor solar facial  como escolher
+PALAVRA_CHAVE: protetor solar facial
 TITLE: Protetor Solar Facial: Como Escolher e Usar
 DESCRIPTION: Saiba como escolher protetor solar facial, entender FPS e UVA, quanto usar e quando reaplicar, com orientações práticas para peles acima de 40 anos.
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
@@ -14,17 +14,20 @@ FOTO2_ALT: Pessoa com chapéu sob a sombra, complemento ao protetor solar facial
 FOTO2_LEGENDA: Chapéu e sombra complementam a proteção, sem substituir o protetor
 FOTO2_SECAO: 4
 ---
-<p>Escolher um protetor solar facial parece simples, mas a quantidade de opções nas prateleiras pode confundir. Fator de proteção, proteção contra raios UVA, textura, tipo de pele e modo de uso influenciam diretamente a eficácia. Entender esses pontos ajuda a usar o produto corretamente, algo especialmente importante depois dos 40 anos, quando a pele acumula anos de exposição ao sol.</p>
+<p>Escolher um protetor solar facial parece simples, mas a quantidade de opções nas prateleiras pode confundir. Fator de proteção, proteção contra raios UVA, textura, tipo de pele e modo de uso influenciam diretamente a eficácia.</p>
+<p>Entender esses pontos ajuda a usar o produto corretamente, algo especialmente importante depois dos 40 anos, quando a pele acumula anos de exposição ao sol.</p>
 
 <h2>Por que o protetor solar facial é indispensável</h2>
-<p>A radiação ultravioleta é a principal causa de envelhecimento precoce da pele e está relacionada ao surgimento de manchas, perda de elasticidade e lesões pré-cancerígenas. Ela atravessa as nuvens e pode atingir a pele mesmo em dias frios ou com céu encoberto. Por isso, a proteção deve ser diária, e não apenas em dias de praia.</p>
+<p>A radiação ultravioleta é a principal causa de envelhecimento precoce da pele e está relacionada ao surgimento de manchas, perda de elasticidade e lesões pré-cancerígenas.</p>
+<p>Ela atravessa as nuvens e pode atingir a pele mesmo em dias frios ou com céu encoberto. Por isso, a proteção deve ser diária, e não apenas em dias de praia.</p>
 <p>No rosto, a exposição é constante, porque a face fica desprotegida durante a maior parte do dia. Além disso, a pele facial é uma das áreas mais visíveis do corpo, o que faz dela o local onde os sinais do tempo costumam aparecer primeiro.</p>
 <p>O protetor solar facial, usado em todas as manhãs, é uma das medidas mais simples e eficazes para diminuir o dano acumulado. Ele deve ser combinado com outras estratégias, como sombra nos horários de pico e roupas adequadas.</p>
-<p>Além do efeito estético, a proteção contra o sol faz parte da prevenção de câncer de pele. Por isso, pintas que mudam, feridas que não cicatrizam ou manchas escuras que crescem merecem avaliação. Para entender melhor esses sinais, leia sobre <a href="/melanoma/">melanoma</a>, tema que exige atenção de dermatologista.</p>
+<p>Além do efeito estético, a proteção contra o sol faz parte da prevenção de câncer de pele. Por isso, pintas que mudam, feridas que não cicatrizam ou manchas escuras que crescem merecem avaliação. Para cuidar também do couro cabeludo, que fica exposto ao sol, leia sobre <a href="/queda-de-cabelo/">queda de cabelo</a>.</p>
 
 <h2>Entendendo o FPS e a proteção UVA</h2>
 <p>O FPS, ou fator de proteção solar, indica a proteção contra a radiação ultravioleta B, responsável principalmente pelas queimaduras. Protetores com FPS mais alto oferecem proteção maior contra essa radiação, mas nenhum fator elimina totalmente o risco, e a aplicação correta é determinante.</p>
-<p>A radiação UVA, por sua vez, penetra mais fundo na pele e está ligada ao envelhecimento e ao surgimento de manchas. Por isso, o rótulo deve indicar proteção de amplo espectro, com a sigla UVA ou o símbolo específico. Um protetor com FPS alto, mas sem boa proteção UVA, não é a melhor escolha para o rosto.</p>
+<p>A radiação UVA, por sua vez, penetra mais fundo na pele e está ligada ao envelhecimento e ao surgimento de manchas.</p>
+<p>Por isso, o rótulo deve indicar proteção de amplo espectro, com a sigla UVA ou o símbolo específico. Um protetor com FPS alto, mas sem boa proteção UVA, não é a melhor escolha para o rosto.</p>
 <ul>
 <li>Procure FPS 30 ou superior para o uso diário no rosto.</li>
 <li>Confira se o produto informa proteção UVA e amplo espectro.</li>
@@ -34,26 +37,28 @@ FOTO2_SECAO: 4
 
 <h2>Como escolher de acordo com a pele</h2>
 <p>Peles oleosas costumam se dar bem com fórmulas em gel, fluidas ou com acabamento matte. Peles secas podem preferir cremes mais hidratantes. Peles sensíveis devem buscar produtos com menos fragrância e com lista curta de ingredientes, de preferência testados em peles delicadas.</p>
-<p>Quem tem manchas ou <a href="/melasma/">melasma</a> precisa de um cuidado extra, pois a luz visível e a radiação infravermelha também podem contribuir para a piora dessas alterações em algumas pessoas. Nesses casos, a orientação de um dermatologista ajuda a definir o protetor mais adequado e a rotina completa.</p>
+<p>Quem tem manchas ou melasma precisa de um cuidado extra, pois a luz visível e a radiação infravermelha também podem contribuir para a piora dessas alterações em algumas pessoas. Nesses casos, a orientação de um dermatologista ajuda a definir o protetor mais adequado e a rotina completa.</p>
 <p>Pele madura, com ressecamento frequente, costuma se beneficiar de produtos que combinam proteção e hidratação, sem sobrecarregar a face. A escolha deve ser feita pensando na sensação de conforto ao longo do dia.</p>
-<p>Para entender melhor como a exposição interfere nas manchas, vale ler o texto sobre <a href="/manchas-na-pele/">manchas na pele</a>.</p>
+<p>Para cuidar da pele também por dentro, vale ler o texto sobre <a href="/insonia/">insônia</a> e o descanso.</p>
 
 <h2>Quanto usar: a quantidade que faz diferença</h2>
-<p>Muitas pessoas usam menos protetor do que o recomendado, o que reduz a proteção real, mesmo quando o produto é de boa qualidade. Para o rosto, a orientação costuma ser de uma quantidade equivalente a cerca de duas polpas de dedo, espalhada com cuidado sobre toda a face e o pescoço.</p>
+<p>Muitas pessoas usam menos protetor do que o recomendado, o que reduz a proteção real, mesmo quando o produto é de boa qualidade.</p>
+<p>Para o rosto, a orientação costuma ser de uma quantidade equivalente a cerca de duas polpas de dedo, espalhada com cuidado sobre toda a face e o pescoço.</p>
 <p>A aplicação deve acontecer após a última etapa da rotina de cuidados, antes da maquiagem. Espere alguns minutos para que o filme protetor se forme, e não esfregue o produto com força. Orelhas, pálpebras e região do pescoço são frequentemente esquecidas e merecem atenção.</p>
 <p>Use o protetor mesmo em dias nublados e dentro de casa perto de janelas, já que a radiação atravessa o vidro em parte, sobretudo a UVA.</p>
 
 <h2>Quando reaplicar durante o dia</h2>
-<p>O protetor solar perde eficácia com o tempo, o suor, o atrito e a oleosidade natural da pele. Por isso, a reaplicação é indicada a cada duas horas em exposição ao sol, e também após nadar ou transpirar bastante. Para quem fica em ambientes fechados, a recomendação costuma ser reaplicar a cada tantas horas conforme orientação do fabricante e do dermatologista.</p>
+<p>O protetor solar perde eficácia com o tempo, o suor, o atrito e a oleosidade natural da pele.</p>
+<p>Por isso, a reaplicação é indicada a cada duas horas em exposição ao sol, e também após nadar ou transpirar bastante. Para quem fica em ambientes fechados, a recomendação costuma ser reaplicar a cada tantas horas conforme orientação do fabricante e do dermatologista.</p>
 <p>Na prática, é possível usar um protetor em pó ou em bastão por cima da maquiagem para reaplicar sem desmanchar o visual. Esses formatos facilitam a rotina de quem trabalha ao ar livre ou dirige por longos trajetos.</p>
 <p>Nos horários de pico de sol, entre o fim da manhã e o início da tarde, a sombra e o chapéu são grandes aliados e complementam a proteção química ou física do produto.</p>
 
 <h2>Erros comuns ao usar protetor solar facial</h2>
 <p>O erro mais comum é aplicar pouca quantidade e esquecer da reaplicação. Outro é confiar que a base ou o pó compacto com cor já protegem o suficiente, pois normalmente são aplicados em camada fina e não atingem o FPS indicado no rótulo.</p>
-<p>Também é comum pular o protetor em dias chuvosos ou de inverno. A radiação continua presente e a pele sofre o mesmo acúmulo de dano, mesmo sem a sensação de calor. Por fim, há quem troque o protetor pelo bronzeamento artificial, prática que aumenta a exposição a radiação e não é recomendada.</p>
+<p>Também é comum pular o protetor em dias chuvosos ou de inverno. A radiação continua presente e a pele sofre o mesmo acúmulo de dano, mesmo sem a sensação de calor.</p>
+<p>Por fim, há quem troque o protetor pelo bronzeamento artificial, prática que aumenta a exposição a radiação e não é recomendada.</p>
 <p>Quando surgir irritação, ardência ou vermelhidão após o uso de um protetor, a orientação é suspender o produto e procurar um dermatologista para avaliar a causa e indicar uma alternativa.</p>
 
-<h2>Protetor solar facial no dia a dia: montando a rotina</h2>
 <p>Uma rotina prática começa com a limpeza suave da manhã, seguida de sérum ou hidratante, e termina com o protetor solar facial. Quando a etapa final é feita sempre no mesmo ponto do dia, ela vira hábito e fica mais fácil de lembrar, mesmo em viagens ou em dias corridos.</p>
 <p>Para quem trabalha em ambientes com ar-condicionado e passa boa parte do tempo no computador, a luz de telas e a luz natural que entra pelas janelas ainda merecem atenção. Manter o protetor na bolsa ou na mesa de trabalho facilita a reaplicação sem depender de memória.</p>
 <p>Quem pratica atividades ao ar livre, como caminhadas ou esportes, deve escolher produtos resistentes ao suor e à água e reaplicar com mais frequência. Testar o produto antes de uma viagem ou de um evento importante evita surpresas na pele, como irritação ou brilho excessivo.</p>

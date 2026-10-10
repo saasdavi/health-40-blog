@@ -1,223 +1,129 @@
 PALAVRA_CHAVE: compulsão alimentar
-TITLE: Compulsão Alimentar: O Que É, Sintomas e Tratamento
-DESCRIPTION: Entenda o transtorno de compulsão alimentar: critérios diagnósticos, causas, tratamento com TCC e lisdexanfetamina, e como familiares podem ajudar.
-FONTE: chear.ucsd.edu | https://chear.ucsd.edu
-FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
+TITLE: Compulsão alimentar: sintomas e tratamento
+DESCRIPTION: Compulsão alimentar: o que é, sinais e sintomas mais comuns, possíveis causas, formas de tratamento com equipe de saúde e quando buscar ajuda o quanto antes.
 FONTE: Manual MSD | https://www.msdmanuals.com
-CAPA_BUSCA: healthy lifestyle woman outdoors
-CAPA_ALT: Estilo de vida saudável sobre compulsão alimentar
-FOTO1_BUSCA: wellness walk nature
-FOTO1_ALT: Hábitos saudáveis no dia a dia relacionado a compulsão alimentar
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+FONTE: Center for Eating and Related Disorders (UCSD) | https://chear.ucsd.edu
+CAPA_BUSCA: woman sitting alone thinking
+CAPA_ALT: Mulher sentada sozinha em um sofá, em um momento de reflexão sobre a relação com a comida
+FOTO1_BUSCA: healthy meal on a plate
+FOTO1_ALT: Prato equilibrado com legumes, proteína e grãos, símbolo de uma relação mais tranquila com a comida
+FOTO1_LEGENDA: Refeições regulares e tranquilas ajudam a reduzir episódios de compulsão.
 FOTO1_SECAO: 2
+FOTO2_BUSCA: therapist talking with patient
+FOTO2_ALT: Psicóloga conversando com paciente em consultório, apoio profissional para compulsão alimentar
+FOTO2_LEGENDA: O tratamento costuma envolver apoio psicológico e acompanhamento médico.
+FOTO2_SECAO: 4
 ---
-<div id="container-imagem-capa" class="loading">Carregando imagem...</div>
+<p>Compulsão alimentar é a ingestão de uma grande quantidade de comida em um curto período, acompanhada da sensação de perda de controle. Ela pode aparecer em pessoas de qualquer peso e idade, e é um problema de saúde que merece atenção, não apenas força de vontade.</p>
 
-<p>O transtorno de <strong>compulsão alimentar</strong> é o transtorno alimentar mais prevalente no mundo, superando em número de casos a anorexia nervosa e a bulimia nervosa combinadas. Apesar disso, permanece cercado de desinformação e julgamento moral. Não se trata de falta de força de vontade nem de gula. É uma condição psiquiátrica reconhecida pelo DSM-5 desde 2013, com critérios diagnósticos claros e tratamentos baseados em evidências. Este guia explica o que caracteriza o transtorno, quais são os sinais de alerta, como funciona o tratamento e de que forma familiares podem oferecer apoio sem julgar.</p>
+<p>Entender o que é, quais são os sinais e quais caminhos de tratamento existem ajuda a buscar apoio no momento certo.</p>
 
-<h2>O Que É Compulsão Alimentar?</h2>
+<p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. A avaliação de cada situação deve ser feita por médico ou psicólogo, que podem orientar o tratamento adequado para cada pessoa.</p>
 
-<p>O transtorno da compulsão alimentar periódica (TCAP) caracteriza-se por episódios recorrentes de consumo de grandes quantidades de alimentos, acompanhados de sensação de perda de controle durante e depois do episódio. Diferente da bulimia nervosa, esses episódios não são seguidos por comportamentos compensatórios como vômitos induzidos, uso de laxantes ou exercícios excessivos[reference:0].</p>
+<h2>Compulsão alimentar: o que caracteriza o problema</h2>
 
-<p>O diagnóstico pelo DSM-5 exige que a compulsão ocorra, em média, pelo menos uma vez por semana durante três meses. Além disso, pelo menos três dos seguintes critérios devem estar presentes: comer muito mais rápido que o normal, comer até se sentir desconfortavelmente cheio, comer grandes quantidades quando não se está fisicamente com fome, comer sozinho por vergonha e sentir-se nauseado, deprimido ou culpado depois[reference:1].</p>
+<p>De forma geral, a compulsão alimentar envolve episódios em que a pessoa come muito mais do que a maioria comeria em circunstâncias parecidas, geralmente em menos de duas horas. Durante o episódio, existe a sensação de não conseguir parar e de que a comida está fora do controle.</p>
 
-<p>O transtorno afeta aproximadamente 1 a 2% das mulheres e menos de 1% dos homens na população geral ao longo da vida. Entre pessoas com obesidade em programas de redução de peso, a prevalência pode chegar a 17-27%[reference:2]. Pessoas com TCAP tendem a ser mais velhas no diagnóstico do que aquelas com anorexia ou bulimia, e quase metade dos casos ocorre em homens[reference:3].</p>
+<p>O que diferencia a compulsão de um excesso ocasional é a frequência, a perda de controle e o sofrimento associado. Quando esses episódios se repetem ao longo de semanas e causam culpa, vergonha ou prejuízos na rotina, a situação precisa de avaliação profissional.</p>
 
-<div id="container-imagem-1" class="loading">Carregando imagem...</div>
+<h2>Sintomas e sinais mais comuns</h2>
 
-<h2>Quais os Primeiros Sinais de um Transtorno de Compulsão Alimentar?</h2>
+<p>Os sinais podem aparecer de formas diferentes. Muitas pessoas percebem a compulsão mais pela angústia depois do episódio do que pela quantidade de comida em si.</p>
 
-<p>Os sinais de alerta vão além do simples comer em excesso em ocasiões especiais. O transtorno se manifesta por um padrão recorrente e persistente que causa sofrimento significativo e prejuízo funcional.</p>
-
-<h3>Sinais Comportamentais</h3>
 <ul>
-<li>Comer muito mais rápido do que o normal, quase sem mastigar</li>
-<li>Comer até se sentir desconfortavelmente cheio, muitas vezes além do ponto de saciedade</li>
-<li>Comer grandes quantidades de alimento mesmo sem sentir fome física</li>
-<li>Comer sozinho por vergonha da quantidade ingerida</li>
-<li>Sentir nojo, depressão ou culpa intensa após o episódio</li>
-<li>Esconder embalagens ou comer em segredo</li>
+<li>Comer rapidamente, mesmo sem fome, e em quantidades grandes.</li>
+<li>Comer sozinho ou escondido por constrangimento.</li>
+<li>Sentir culpa, vergonha ou tristeza após os episódios.</li>
+<li>Sensação de estar sem controle durante a refeição.</li>
+<li>Desconforto físico intenso, como estômago cheio e dor abdominal.</li>
+<li>Alternar períodos de restrição com episódios de excesso.</li>
 </ul>
 
-<h3>Sinais Emocionais</h3>
-<p>A compulsão frequentemente funciona como uma tentativa de regular emoções dolorosas. O episódio traz alívio de curto prazo, seguido de aumento do desconforto emocional, culpa e vergonha. Esse ciclo de alívio e culpa reforça o comportamento e perpetua o transtorno[reference:4].</p>
+<p>Esses sintomas costumam vir acompanhados de mudanças de humor, ansiedade e dificuldade de concentração. Em alguns casos, o sono também fica prejudicado.</p>
 
-<p>É importante diferenciar compulsão alimentar de comer emocional. O comer emocional é uma resposta a emoções, mas sem a perda de controle e a quantidade excessiva que caracterizam o TCAP. No transtorno, a pessoa sente que não consegue parar, mesmo querendo.</p>
+<p>Vale notar que a compulsão pode ser confundida com fome emocional ou com hábitos alimentares pouco organizados. A diferença principal está na intensidade da perda de controle e no sofrimento que vem depois.</p>
 
-<div id="container-imagem-2" class="loading">Carregando imagem...</div>
+<p>Quem percebe apenas uma tendência a comer por tédio, sem sensação de descontrole, pode se beneficiar de mudanças de rotina, mas a avaliação continua útil para entender o quadro.</p>
 
-<h2>O Que Causa a Compulsão Alimentar?</h2>
+<p>Muitas pessoas levam anos para procurar ajuda, porque sentem vergonha de falar sobre o assunto. Esse silêncio é comum e tende a manter o ciclo, já que o segredo aumenta a culpa e reforça a sensação de isolamento.</p>
 
-<p>A compulsão alimentar tem origem multifatorial. Não há uma causa única, mas uma combinação de fatores genéticos, neurobiológicos, psicológicos e ambientais.</p>
+<h2>Possíveis causas e fatores de risco</h2>
 
-<h3>Fatores Neurobiológicos</h3>
-<p>Estudos apontam desregulação nos sistemas de recompensa dopaminérgico e serotoninérgico. Alimentos ultraprocessados, ricos em açúcar e gordura, hiperestimulam os centros de prazer do cérebro e podem alterar os hormônios da saciedade, como leptina e grelina[reference:5]. A leptina sinaliza saciedade, enquanto a grelina estimula a fome. Quando esses hormônios estão desregulados, a pessoa pode sentir fome mesmo após comer o suficiente.</p>
+<p>A compulsão alimentar não tem uma causa única. Ela costuma resultar de uma combinação de fatores biológicos, emocionais e ambientais, que se influenciam ao longo do tempo.</p>
 
-<h3>Fatores Psicológicos</h3>
-<p>Ansiedade, depressão, estresse crônico e histórico de trauma aumentam a vulnerabilidade. A comida funciona como um mecanismo de enfrentamento para lidar com emoções difíceis. Ciclos de dietas restritivas severas também agravam o quadro: a restrição leva a episódios de compulsão, que geram culpa, que motivam nova restrição.</p>
-
-<h3>Fatores Ambientais e Familiares</h3>
-<p>O marketing agressivo de alimentos ultraprocessados e a hiperpalatabilidade desses produtos tornam difícil resistir aos impulsos. Em ambientes familiares, padrões como supressão emocional, comentários sobre peso e irregularidade nas refeições podem reforçar comportamentos de compulsão[reference:6].</p>
-
-<h2>Qual o Melhor Tratamento para Compulsão Alimentar?</h2>
-
-<p>O tratamento do transtorno de compulsão alimentar combina abordagens psicoterapêuticas e, em alguns casos, farmacológicas. A escolha depende da gravidade, da frequência dos episódios e da presença de condições associadas.</p>
-
-<h3>Terapia Cognitivo-Comportamental (TCC)</h3>
-<p>A TCC é o tratamento padrão e mais estudado para o TCAP. O objetivo é identificar gatilhos, modificar pensamentos disfuncionais sobre comida e corpo, e desenvolver estratégias alternativas para lidar com emoções. A TCC ajuda a controlar os episódios de compulsão em longo prazo, mas tem pouco efeito direto sobre o peso corporal[reference:7].</p>
-
-<h3>Terapia Interpessoal</h3>
-<p>A terapia interpessoal é uma alternativa igualmente eficaz, focada nas relações sociais e nos padrões de comunicação que podem contribuir para o transtorno[reference:8].</p>
-
-<h3>Medicamentos</h3>
-<p>O dimesilato de lisdexanfetamina é o único medicamento aprovado pela Anvisa especificamente para o transtorno de compulsão alimentar em adultos. A aprovação ocorreu em 2018 para casos moderados (4 a 7 episódios por semana) ou graves (8 a 13 episódios)[reference:9]. O medicamento atua sobre dopamina e noradrenalina, reduzindo o número de episódios compulsivos[reference:10].</p>
-
-<p>É fundamental destacar que a lisdexanfetamina não é um medicamento para emagrecer. Seu uso visa o controle da compulsão, e qualquer perda de peso é efeito secundário, não o objetivo primário[reference:11]. O medicamento é de tarja preta, exige receita de controle especial e só deve ser usado com acompanhamento médico rigoroso.</p>
-
-<p>Inibidores seletivos da recaptação da serotonina (ISRSs), como fluoxetina e sertralina, também têm eficácia no TCAP, embora com dados limitados ao curto prazo[reference:12]. Esses medicamentos podem ser especialmente úteis quando há depressão ou ansiedade associadas.</p>
-
-<h2>Tabela Comparativa: Tratamentos para Compulsão Alimentar</h2>
-
-<table>
-<thead>
-<tr>
-<th>Tratamento</th>
-<th>Indicação Principal</th>
-<th>Evidência</th>
-<th>Observações</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Terapia Cognitivo-Comportamental</td>
-<td>Primeira linha para todos os casos</td>
-<td>Boa</td>
-<td>Controle de episódios a longo prazo; pouco efeito sobre peso</td>
-</tr>
-<tr>
-<td>Terapia Interpessoal</td>
-<td>Alternativa à TCC</td>
-<td>Moderada</td>
-<td>Igualmente eficaz; foco nas relações sociais</td>
-</tr>
-<tr>
-<td>Lisdexanfetamina</td>
-<td>TCAP moderado a grave</td>
-<td>Boa</td>
-<td>Único aprovado pela Anvisa; tarja preta; exige receita especial</td>
-</tr>
-<tr>
-<td>ISRSs (fluoxetina, sertralina)</td>
-<td>TCAP com depressão/ansiedade associada</td>
-<td>Moderada (curto prazo)</td>
-<td>Dados limitados a curto prazo; útil na comorbidade</td>
-</tr>
-<tr>
-<td>Topiramato</td>
-<td>Casos refratários</td>
-<td>Limitada</td>
-<td>Uso off-label; requer avaliação criteriosa</td>
-</tr>
-</tbody>
-</table>
-
-<p><em>Observação: a escolha do tratamento deve ser individualizada por psiquiatra ou profissional habilitado. Nenhuma medicação substitui a psicoterapia como base do tratamento.</em></p>
-
-<div id="container-imagem-3" class="loading">Carregando imagem...</div>
-
-<h2>É Possível Tratar a Compulsão Alimentar de Forma Definitiva?</h2>
-
-<p>O transtorno de compulsão alimentar é uma condição crônica, mas tratável. A maioria das pessoas experimenta redução significativa na frequência e intensidade dos episódios com tratamento adequado. Recidivas podem ocorrer, especialmente em períodos de estresse elevado, mas não significam fracasso do tratamento.</p>
-
-<p>O conceito de "tratamento definitivo" não é o mais adequado para transtornos psiquiátricos crônicos. O objetivo realista é o controle sustentado dos sintomas, a melhora da qualidade de vida e o desenvolvimento de estratégias saudáveis para lidar com emoções e gatilhos.</p>
-
-<p>A adesão ao tratamento é o fator mais importante para o sucesso. Abandonar a terapia ou a medicação por conta própria aumenta o risco de recaída. O acompanhamento contínuo com equipe multidisciplinar — psiquiatra, psicólogo e nutricionista — é o caminho mais eficaz.</p>
-
-<h2>Primeiros Socorros Emocionais na Crise de Compulsão</h2>
-
-<p>Quando a urgência de comer compulsivamente surge, algumas estratégias podem ajudar a atravessar o momento sem ceder ao impulso. Essas técnicas fazem parte de abordagens baseadas em mindfulness e terapia comportamental dialética (DBT).</p>
-
-<ol>
-<li><strong>Respiração ritmada:</strong> desacelere a respiração para cerca de 5 a 7 respirações por minuto. Isso ativa o sistema nervoso parassimpático e reduz a intensidade emocional[reference:13].</li>
-<li><strong>Choque térmico:</strong> respingue água gelada no rosto ou segure uma compressa fria nas bochechas por 15 a 30 segundos. Isso desencadeia o reflexo de imersão de mamíferos, que naturalmente desacelera os batimentos cardíacos[reference:14].</li>
-<li><strong>Distração ativa:</strong> ligue para alguém de confiança, saia para uma caminhada curta ou faça uma atividade manual que exija atenção.</li>
-<li><strong>Aceitação sem julgamento:</strong> reconheça que a vontade vai passar. Emoções negativas têm picos e naturalmente diminuem com o tempo, se não forem alimentadas[reference:15].</li>
-<li><strong>Adiamento:</strong> em vez de tentar proibir-se de comer, proponha adiar por 15 minutos. Durante esse intervalo, tente uma das estratégias acima.</li>
-</ol>
-
-<p>Essas técnicas não substituem o tratamento profissional, mas podem ser usadas como ferramentas complementares nos momentos de urgência.</p>
-
-<h2>Como Familiares Devem Agir Sem Julgar</h2>
-
-<p>O papel da família é fundamental na recuperação, mas a forma de agir faz toda a diferença. Comentários sobre peso, forma corporal ou quantidade de comida podem aumentar a vergonha e piorar o quadro.</p>
-
-<h3>O Que Fazer</h3>
 <ul>
-<li><strong>Ofereça refeições consistentes e previsíveis:</strong> horários regulares dão segurança e reduzem a ansiedade em torno da comida[reference:16].</li>
-<li><strong>Evite rótulos de "comida boa" e "comida ruim":</strong> essa dicotomia alimenta o ciclo de restrição e compulsão[reference:17].</li>
-<li><strong>Pergunte sobre sentimentos, não sobre comida:</strong> substitua "o que você comeu?" por "como você está se sentindo?"[reference:18].</li>
-<li><strong>Ouça mais do que conserte:</strong> na maioria das vezes, a pessoa não precisa de soluções, mas de acolhimento[reference:19].</li>
-<li><strong>Valide as emoções:</strong> frases como "faz sentido você se sentir assim" ajudam a criar segurança para compartilhar[reference:20].</li>
+<li>Histórico de dietas muito restritivas, que aumentam a fome e a vontade de comer.</li>
+<li>Estresse prolongado, ansiedade e episódios depressivos.</li>
+<li>Histórico familiar de transtornos alimentares ou de obesidade.</li>
+<li>Experiências difíceis, como perdas, abusos e pressões sobre o corpo.</li>
+<li>Alterações no sono e na rotina de refeições.</li>
 </ul>
 
-<h3>O Que Evitar</h3>
+<p>Fatores hormonais e metabólicos também podem contribuir, o que reforça a importância de uma avaliação médica completa.</p>
+
+<h2>Como a compulsão alimentar é tratada</h2>
+
+<p>O tratamento costuma ser feito por uma equipe, que pode incluir médico, psicólogo e nutricionista. A abordagem depende da gravidade, da frequência dos episódios e das condições de saúde associadas.</p>
+
+<p>A psicoterapia, especialmente a terapia cognitivo-comportamental, é uma das abordagens mais estudadas para a compulsão. Ela trabalha os gatilhos emocionais, os pensamentos que levam ao episódio e as estratégias para lidar com a ansiedade e a culpa.</p>
+
+<p>O acompanhamento nutricional ajuda a organizar refeições regulares e a reduzir a fome extrema, que costuma alimentar o ciclo. O objetivo não é impor uma dieta rígida, e sim construir uma relação mais tranquila com a comida.</p>
+
+<p>Grupos de apoio também podem complementar o cuidado, principalmente quando a pessoa sente que está sozinha. Trocar experiências com quem vive situação parecida ajuda a reduzir a vergonha e a entender que o problema tem tratamento. Esses grupos não substituem o acompanhamento clínico, mas costumam ser um bom complemento.</p>
+
+<p>Em alguns casos, o médico pode avaliar a necessidade de medicamentos. A escolha depende de exames, de outras doenças e de possíveis interações, por isso não deve ser feita por conta própria.</p>
+
+<h2>Como lidar com a ansiedade e o estresse no dia a dia</h2>
+
+<p>Como a ansiedade é um dos gatilhos mais comuns, aprender a reconhecê-la faz diferença. Ao perceber a vontade de comer sem fome, vale pausar, observar o que está sentindo e tentar outra forma de cuidado, como respirar com calma, sair para caminhar ou conversar com alguém de confiança.</p>
+
+<p>Para ampliar essa estratégia, vale ler sobre <a href="/como-controlar-a-ansiedade/">como controlar a ansiedade</a>, que apresenta caminhos práticos e sinais que pedem ajuda profissional. O estresse crônico também interfere nos hormônios da fome, e o texto sobre <a href="/cortisol-alto/">cortisol alto</a> ajuda a entender essa relação.</p>
+
+<p>O sono tem papel importante. Noites mal dormidas aumentam a vontade de comer alimentos muito calóricos no dia seguinte e reduzem a capacidade de resistir aos gatilhos. Por isso, a regularidade do sono entra como parte do tratamento.</p>
+
+<h2>Dietas restritivas e o ciclo da compulsão</h2>
+
+<p>Muitas pessoas que sofrem com compulsão já passaram por dietas muito rígidas, com proibição de alimentos e contagem obsessiva de calorias. Essas estratégias costumam aumentar a fome e o desejo pelos alimentos proibidos, o que pode levar a episódios de excesso e a um sentimento de fracasso.</p>
+
+<p>Por isso, o cuidado com a alimentação deve ser feito sob orientação, com foco em regularidade, variedade e respeito aos sinais de fome e saciedade. Esse processo costuma ser mais lento, mas tende a ser mais sustentável.</p>
+
+<p>Familiares e pessoas próximas também podem ajudar, desde que a abordagem seja respeitosa. Comentários sobre peso, corpo ou quantidade de comida costumam aumentar a vergonha. Um apoio mais útil é oferecer companhia, respeitar o tempo da pessoa e incentivá-la a buscar atendimento profissional.</p>
+
+<p>Não há dieta que resolva sozinha a compulsão. Se você já tentou muitos planos e continua se sentindo sem controle, a mudança mais útil costuma ser buscar apoio especializado.</p>
+
+<p>Também é útil lembrar que a recuperação não é linear. Pode haver episódios mesmo depois de um período de melhora, e isso não significa que o tratamento falhou.</p>
+
+<p>Observar os gatilhos, conversar sobre as recaídas e ajustar o plano com a equipe são parte do processo e ajudam a reduzir a intensidade e a frequência com o tempo.</p>
+
+<h2>Perguntas frequentes</h2>
+
+<p><strong>Compulsão alimentar é a mesma coisa que comer demais?</strong></p>
+<p>Não necessariamente. Comer demais em uma festa é diferente de episódios frequentes com perda de controle e sofrimento. A compulsão exige avaliação profissional quando se repete.</p>
+
+<p><strong>Quem tem compulsão sempre está acima do peso?</strong></p>
+<p>Não. A compulsão pode aparecer em pessoas de peso normal, com sobrepeso ou com obesidade. O sofrimento emocional é o que mais caracteriza o problema.</p>
+
+<p><strong>Dá para tratar sem remédios?</strong></p>
+<p>Em muitos casos, sim. A psicoterapia e o acompanhamento nutricional são as principais abordagens, e o médico decide se há necessidade de medicamentos.</p>
+
+<p><strong>Vale tentar resolver sozinho?</strong></p>
+<p>Algumas estratégias de autocuidado ajudam, mas quando os episódios são frequentes, o apoio de uma equipe costuma trazer resultados mais consistentes.</p>
+
+<h2>Quando procurar um médico</h2>
+
+<p>Procure ajuda o quanto antes se os episódios de excesso se repetem, se você sente perda de controle com frequência ou se a relação com a comida está causando sofrimento. Também é importante buscar atendimento se houver:</p>
+
 <ul>
-<li>Comentários sobre peso, medidas ou aparência</li>
-<li>Perguntas sobre quantidade de comida ingerida</li>
-<li>Expressões como "você não tem força de vontade" ou "é só se controlar"</li>
-<li>Dietas restritivas em família que possam servir como gatilho</li>
+<li>Pensamentos de se machucar ou de não querer mais viver.</li>
+<li>Vômitos provocados, uso de laxantes ou exercícios em excesso para compensar a comida.</li>
+<li>Tontura, desmaios, palpitações ou fraqueza intensa.</li>
+<li>Tristeza persistente, isolamento social ou perda de interesse pela vida.</li>
 </ul>
 
-<p>O ambiente familiar deve ser um espaço de segurança, não de vigilância. A recuperação é gradual e pode ter recuos. A paciência e o apoio consistente são mais valiosos do que qualquer intervenção pontual.</p>
-
-<h2>Compulsão Alimentar e Obesidade: Qual a Relação?</h2>
-
-<p>Entre 17% e 27% das pessoas em programas de redução de peso apresentam transtorno de compulsão alimentar[reference:21]. A relação é bidirecional: a compulsão contribui para o ganho de peso, e o ganho de peso agrava a insatisfação corporal e o ciclo de restrição-compulsão.</p>
-
-<p>Tratar a compulsão antes ou durante o tratamento da obesidade melhora os resultados. Programas de emagrecimento que ignoram o transtorno tendem a falhar, pois a restrição calórica severa funciona como gatilho para novos episódios compulsivos.</p>
-
-<h2>FAQ — Perguntas Frequentes</h2>
-
-<h3>1. O que causa a compulsão alimentar?</h3>
-<p>É multifatorial: desregulação de dopamina e serotonina, alterações nos hormônios leptina e grelina, ansiedade, depressão, histórico de trauma e ciclos de dietas restritivas. O ambiente familiar e o marketing de ultraprocessados também contribuem.</p>
-
-<h3>2. Quais os primeiros sinais de um transtorno de compulsão alimentar?</h3>
-<p>Comer rápido, até se sentir desconfortavelmente cheio, sem fome física, escondido por vergonha, seguido de culpa intensa. Os episódios ocorrem pelo menos uma vez por semana por três meses.</p>
-
-<h3>3. Qual o melhor remédio para compulsão alimentar?</h3>
-<p>A lisdexanfetamina é o único medicamento aprovado pela Anvisa especificamente para TCAP. ISRSs como fluoxetina também têm eficácia. Nenhum medicamento deve ser usado sem prescrição e acompanhamento psiquiátrico.</p>
-
-<h3>4. É possível tratar a compulsão alimentar de forma definitiva?</h3>
-<p>É uma condição crônica tratável. A maioria das pessoas tem redução significativa dos episódios com tratamento adequado. Recidivas podem ocorrer, mas não indicam fracasso. O objetivo é o controle sustentado.</p>
-
-<h3>5. Qual a diferença entre comer emocional e compulsão alimentar?</h3>
-<p>O comer emocional é uma resposta a emoções sem perda de controle ou quantidade excessiva. No TCAP, há sensação de perda de controle, consumo de grandes quantidades e sofrimento significativo após o episódio.</p>
+<p>Em situação de risco imediato, procure um serviço de urgência. O médico ou psicólogo pode avaliar o quadro e indicar o caminho de cuidado mais adequado.</p>
 
 <h2>Resumindo</h2>
 
-<p>O transtorno de compulsão alimentar é uma condição psiquiátrica séria e prevalente, reconhecida pelo DSM-5 desde 2013. Caracteriza-se por episódios recorrentes de consumo excessivo com perda de controle, sem comportamentos compensatórios, acompanhados de culpa e vergonha intensas.</p>
+<p>A compulsão alimentar é a ingestão de grandes quantidades de comida com sensação de perda de controle, que se repete e causa sofrimento. Ela tem causas combinadas, envolve emoções, rotina e fatores biológicos, e pode ser tratada com psicoterapia, acompanhamento nutricional e, quando indicado, medicamentos.</p>
 
-<p>O diagnóstico exige episódios pelo menos semanais por três meses e pelo menos três critérios adicionais, como comer rápido, até se sentir cheio, sem fome e escondido. A prevalência é de 1-2% entre mulheres e menos de 1% entre homens, podendo chegar a 27% em programas de redução de peso.</p>
-
-<p>O tratamento combina terapia cognitivo-comportamental — padrão-ouro — com farmacoterapia quando indicada. A lisdexanfetamina é o único medicamento aprovado pela Anvisa especificamente para o transtorno, mas não é um medicamento para emagrecer. ISRSs também têm eficácia, especialmente com comorbidades.</p>
-
-<p>Familiares têm papel crucial: devem evitar comentários sobre peso e comida, ouvir mais do que consertar, validar emoções e criar um ambiente previsível e acolhedor. Técnicas de primeiros socorros emocionais, como respiração ritmada e choque térmico, podem ajudar nos momentos de crise.</p>
-
-<p>O transtorno é crônico, mas tratável. A adesão ao tratamento e o apoio familiar são os fatores mais importantes para o controle sustentado dos sintomas e a melhora da qualidade de vida.</p>
-
-<h2>Fontes</h2>
-<ul>
-<li>MSD Manuals. Transtorno de compulsão alimentar — Psiquiatria. <a href="https://www.msdmanuals.com/pt/profissional/transtornos-psiquiátricos/transtornos-da-alimentação-e-da-ingestão-de-alimentos/transtorno-de-compulsão-alimentar" target="_blank" rel="noopener">https://www.msdmanuals.com/pt/profissional/transtornos-psiquiátricos/transtornos-da-alimentação-e-da-ingestão-de-alimentos/transtorno-de-compulsão-alimentar</a></li>
-<li>MSD Manuals. Transtorno da compulsão alimentar periódica — Saúde para a Família. <a href="https://www.msdmanuals.com/pt/casa/distúrbios-de-saúde-mental/transtornos-alimentares-e-de-alimentação/transtorno-da-compulsão-alimentar-periódica" target="_blank" rel="noopener">https://www.msdmanuals.com/pt/casa/distúrbios-de-saúde-mental/transtornos-alimentares-e-de-alimentação/transtorno-da-compulsão-alimentar-periódica</a></li>
-<li>Hospital Israelita Albert Einstein. Lisdexanfetamina: conheça as indicações e cuidados ao usar o medicamento. <a href="https://www.einstein.br/n/vida-saudavel/lisdexanfetamina-conheca-as-indicacoes-e-cuidados-ao-usar-o-medicamento" target="_blank" rel="noopener">https://www.einstein.br/n/vida-saudavel/lisdexanfetamina-conheca-as-indicacoes-e-cuidados-ao-usar-o-medicamento</a></li>
-<li>Portal Afya. Transtorno de Compulsão Alimentar: precisamos estar atentos! <a href="https://portal.afya.com.br/endocrinologia/transtorno-de-compulsao-alimentar" target="_blank" rel="noopener">https://portal.afya.com.br/endocrinologia/transtorno-de-compulsao-alimentar</a></li>
-<li>UC San Diego CHEAR. Family Dynamics & Binge Eating: A Parent and Caregiver Guide. <a href="https://chear.ucsd.edu/what-we-treat/binge-eating-disorder/family-dynamics-binge-eating-a-parent-and-caregiver-guide" target="_blank" rel="noopener">https://chear.ucsd.edu/what-we-treat/binge-eating-disorder/family-dynamics-binge-eating-a-parent-and-caregiver-guide</a></li>
-<li>National Institutes of Health — Office of Dietary Supplements. Dietary Supplements for Weight Loss. <a href="https://ods.od.nih.gov/factsheets/WeightLoss-HealthProfessional/" target="_blank" rel="noopener">https://ods.od.nih.gov/factsheets/WeightLoss-HealthProfessional/</a></li>
-</ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
-<h2>Quando procurar um médico</h2>
-<p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://chear.ucsd.edu" target="_blank" rel="noopener">chear.ucsd.edu</a>, <a href="https://ods.od.nih.gov" target="_blank" rel="noopener">Office of Dietary Supplements (NIH)</a> e da <a href="https://www.msdmanuals.com" target="_blank" rel="noopener">Manual MSD</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>Se você reconhece esses episódios em sua vida, o passo mais importante é não enfrentar a situação sozinho. Buscar um médico ou psicólogo abre caminho para entender os gatilhos e construir uma relação mais tranquila com a comida.</p>

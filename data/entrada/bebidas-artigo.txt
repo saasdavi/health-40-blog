@@ -1,19 +1,20 @@
-PALAVRA_CHAVE: bebidas-artigo
-TITLE: bebidas-artigo
-DESCRIPTION: ![Variedade de bebidas em uma mesa](https://images.pexels.com/photos/1267696/pexels-photo-1267696.jpeg?auto=compress&cs=tinysrgb&w=1200)
+PALAVRA_CHAVE: tipos de bebidas
+TITLE: Tipos de bebidas: diferenças e efeitos na saúde
+DESCRIPTION: Tipos de bebidas: entenda a diferença entre fermentadas e destiladas, os efeitos do álcool na saúde e as opções sem álcool para o dia a dia.
 FONTE: Organização Mundial da Saúde (OMS) | https://www.who.int
 FONTE: Ministério da Saúde | https://www.gov.br/saude
 CAPA_BUSCA: fresh fruits on wooden table
-CAPA_ALT: Frutas e alimentos naturais sobre bebidas-artigo
+CAPA_ALT: Frutas e alimentos naturais sobre tipos de bebidas
 FOTO1_BUSCA: healthy breakfast table food
-FOTO1_ALT: Alimentos frescos relacionado a bebidas-artigo
+FOTO1_ALT: Alimentos frescos relacionado a tipos de bebidas
 FOTO1_LEGENDA: Ilustração ilustrativa do tema
 FOTO1_SECAO: 2
 ---
-<p>![Variedade de bebidas em uma mesa](https://images.pexels.com/photos/1267696/pexels-photo-1267696.jpeg?auto=compress&cs=tinysrgb&w=1200)</p>
-<p>A palavra <strong>bebidas</strong> inclui uma variedade enorme de produtos: água, sucos, refrigerantes, cafés, chás, bebidas fermentadas, destiladas, coquetéis e alternativas sem álcool. Por isso, uma busca genérica por “bebidas” pode ter intenção comercial, culinária ou informativa.</p>
+<p>Os tipos de bebidas formam uma variedade enorme: água, sucos, refrigerantes, cafés, chás, fermentadas, destiladas, coquetéis e alternativas sem álcool. Por isso, uma busca genérica por “bebidas” pode ter intenção comercial, culinária ou informativa.</p>
 <p>Quando o assunto é <strong>saúde</strong>, porém, a principal diferença está na composição da bebida, na presença de álcool, açúcar e cafeína e, principalmente, na quantidade consumida.</p>
-<p>No caso das bebidas alcoólicas, não existe uma opção que possa ser considerada “saudável” apenas por ser vinho, cerveja, destilado ou artesanal. O álcool etílico é a substância responsável por grande parte dos riscos. A Organização Mundial da Saúde considera o álcool uma substância tóxica e carcinogênica, e informa que não existe consumo de álcool sem risco à saúde. [OMS](https://www.who.int/news-room/fact-sheets/detail/alcohol)</p>
+<p>No caso das bebidas alcoólicas, não existe uma opção que possa ser considerada “saudável” apenas por ser vinho, cerveja, destilado ou artesanal. O álcool etílico é a substância responsável por grande parte dos riscos.</p>
+
+<p>A Organização Mundial da Saúde considera o álcool uma substância tóxica e carcinogênica, e informa que não existe consumo de álcool sem risco à saúde. <a href="https://www.who.int/news-room/fact-sheets/detail/alcohol" target="_blank" rel="noopener">OMS</a></p>
 <h2>Quais são os principais tipos de bebidas?</h2>
 <p>As bebidas podem ser agrupadas de diferentes formas. Uma classificação prática é:</p>
 <ul>
@@ -50,7 +51,9 @@ FOTO1_SECAO: 2
 <p><strong>gramas de álcool ≈ volume da bebida (mL) × teor alcoólico (%) × 0,789 ÷ 100</strong></p>
 <p>Por exemplo, 330 mL de uma bebida a 5% vol. correspondem a aproximadamente 13 g de etanol.</p>
 <h2>O que é uma dose de bebida alcoólica?</h2>
-<p>O tamanho de uma “dose” varia entre países e diretrizes. No Brasil, o Ministério da Saúde definiu, para fins de vigilância epidemiológica, uma <strong>dose-padrão de 10 g de álcool puro</strong>, equivalente a aproximadamente 12,5 mL de álcool puro. A quantidade de bebida necessária para atingir esse valor depende do teor alcoólico. [Ministério da Saúde](https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2024/nota-tecnica-conjunta-no-263-2024-svsa-saps-saes-ms.pdf)</p>
+<p>O tamanho de uma “dose” varia entre países e diretrizes. No Brasil, o Ministério da Saúde definiu, para fins de vigilância epidemiológica, uma <strong>dose-padrão de 10 g de álcool puro</strong>, equivalente a aproximadamente 12,5 mL de álcool puro.</p>
+
+<p>A quantidade de bebida necessária para atingir esse valor depende do teor alcoólico. <a href="https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2024/nota-tecnica-conjunta-no-263-2024-svsa-saps-saes-ms.pdf" target="_blank" rel="noopener">Ministério da Saúde</a></p>
 <p>Isso é importante porque “uma lata”, “uma taça” ou “um copo” não representam necessariamente a mesma quantidade de álcool.</p>
 <p>Uma cerveja, uma taça de vinho e uma dose de destilado podem ter volumes muito diferentes, mas fornecer quantidades semelhantes de etanol dependendo do tamanho e do teor alcoólico.</p>
 <h2>Bebidas alcoólicas têm calorias?</h2>
@@ -100,7 +103,9 @@ FOTO1_SECAO: 2
 <p>O álcool afeta vários sistemas do organismo.</p>
 <p>No sistema nervoso central, altera atenção, coordenação, julgamento e tempo de reação. Em quantidades maiores, pode provocar intoxicação, perda de consciência e risco de depressão respiratória.</p>
 <p>No fígado, o metabolismo do álcool produz substâncias como o acetaldeído e pode favorecer alterações hepáticas quando o consumo é elevado ou repetido.</p>
-<p>No longo prazo, o consumo de álcool está associado a doenças hepáticas, cardiovasculares, diferentes tipos de câncer, transtornos relacionados ao uso de álcool e outros problemas de saúde. A OMS relaciona o álcool a mais de 200 condições de saúde. [OMS](https://www.who.int/news-room/fact-sheets/detail/alcohol)</p>
+
+<p>Para saber mais sobre o órgão mais exposto, veja o conteúdo sobre <a href="/gordura-no-figado/">gordura no fígado</a>.</p>
+<p>No longo prazo, o consumo de álcool está associado a doenças hepáticas, cardiovasculares, diferentes tipos de câncer, transtornos relacionados ao uso de álcool e outros problemas de saúde. A OMS relaciona o álcool a mais de 200 condições de saúde. <a href="https://www.who.int/news-room/fact-sheets/detail/alcohol" target="_blank" rel="noopener">OMS</a></p>
 <h2>Existe uma bebida alcoólica mais saudável?</h2>
 <p>Não.</p>
 <p>Pode haver diferenças nutricionais e de composição entre cerveja, vinho, destilados e licores, mas isso não transforma nenhuma bebida alcoólica em uma escolha necessária para proteger a saúde.</p>
@@ -114,11 +119,13 @@ FOTO1_SECAO: 2
 <p>Sim.</p>
 <p>O álcool é classificado como <strong>carcinógeno do Grupo 1 pela Agência Internacional de Pesquisa em Câncer (IARC)</strong>. O consumo está relacionado a vários tipos de câncer, incluindo câncer de mama, fígado, esôfago, cavidade oral, faringe, laringe e colorretal.</p>
 <p>A relação não depende de a bebida ser cerveja, vinho ou destilado. O componente relevante é principalmente o etanol e seus produtos metabólicos.</p>
-<p>A OMS destaca que não existe nível seguro de consumo de álcool em relação ao risco de câncer e que o risco aumenta conforme aumenta o consumo. [OMS](https://www.who.int/europe/news-room/fact-sheets/item/alcohol-and-cancer)</p>
+<p>A OMS destaca que não existe nível seguro de consumo de álcool em relação ao risco de câncer e que o risco aumenta conforme aumenta o consumo. <a href="https://www.who.int/europe/news-room/fact-sheets/item/alcohol-and-cancer" target="_blank" rel="noopener">OMS</a></p>
 <h2>Misturar bebida alcoólica com energético faz mal?</h2>
 <p><strong>Pode aumentar os riscos.</strong></p>
 <p>A cafeína pode fazer a pessoa se sentir mais alerta, mas não neutraliza os efeitos do álcool. Isso pode criar uma falsa sensação de menor embriaguez e favorecer maior consumo.</p>
-<p>O CDC alerta que misturar álcool e cafeína pode estar associado a maior ingestão de álcool, lesões e outros riscos. Também podem ocorrer aumento da pressão arterial e alterações do ritmo cardíaco. [CDC](https://www.cdc.gov/alcohol/about-alcohol-use/alcohol-caffeine.html)</p>
+
+<p>O sono também sofre: o conteúdo sobre <a href="/insonia/">insônia</a> explica como hábitos noturnos interferem no descanso.</p>
+<p>O CDC alerta que misturar álcool e cafeína pode estar associado a maior ingestão de álcool, lesões e outros riscos. Também podem ocorrer aumento da pressão arterial e alterações do ritmo cardíaco. <a href="https://www.cdc.gov/alcohol/about-alcohol-use/alcohol-caffeine.html" target="_blank" rel="noopener">CDC</a></p>
 <p>Portanto, energético não “corta” o álcool e não torna a bebida mais segura.</p>
 <h2>Bebidas gaseificadas aceleram a absorção do álcool?</h2>
 <p>É comum encontrar a afirmação de que o gás presente em bebidas do tipo “Ice” ou em misturas carbonatadas necessariamente acelera a absorção do álcool. Essa afirmação é <strong>mais complexa do que parece</strong>.</p>
@@ -128,7 +135,7 @@ FOTO1_SECAO: 2
 <h2>Álcool e suplementos esportivos: interfere na creatina ou glutamina?</h2>
 <p>Não há evidência suficiente para afirmar que o álcool <strong>bloqueie diretamente a absorção intestinal da creatina ou da glutamina</strong> como uma regra geral.</p>
 <p>A preocupação é mais ampla: o consumo de álcool pode prejudicar aspectos importantes da recuperação esportiva, especialmente quando é elevado ou ocorre próximo de sessões de treino.</p>
-<p>Revisões sobre álcool após exercício de resistência encontraram alterações em alguns marcadores relacionados à recuperação, incluindo redução da síntese de proteína muscular em determinadas condições experimentais. Os efeitos variam conforme dose, tempo e contexto. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33467356/)</p>
+<p>Revisões sobre álcool após exercício de resistência encontraram alterações em alguns marcadores relacionados à recuperação, incluindo redução da síntese de proteína muscular em determinadas condições experimentais. Os efeitos variam conforme dose, tempo e contexto. <a href="https://pubmed.ncbi.nlm.nih.gov/33467356/" target="_blank" rel="noopener">PubMed</a></p>
 <p>A creatina, por sua vez, não deve ser considerada incompatível com hidratação adequada apenas porque uma pessoa consome álcool ocasionalmente. Não há evidência de que o álcool torne a creatina automaticamente inútil.</p>
 <p>Para quem busca desempenho e recuperação, porém, o álcool não oferece vantagem e pode competir com hábitos mais importantes, como sono, alimentação, hidratação e recuperação adequada.</p>
 <h2>Bebidas sem álcool são mais saudáveis?</h2>
@@ -256,11 +263,16 @@ FOTO1_SECAO: 2
 <h2>Conclusão</h2>
 <p>“Bebidas” é um termo amplo que inclui produtos muito diferentes. Para escolher melhor, é necessário separar <strong>tipo de bebida, teor alcoólico, quantidade, açúcar, calorias e contexto de consumo</strong>.</p>
 <p>Fermentadas e destiladas diferem principalmente pelo processo de produção e pela concentração de álcool. Porém, quando a preocupação é saúde, não basta perguntar qual bebida é “melhor”: é preciso considerar a quantidade de etanol ingerida.</p>
-<p>No caso do álcool, a evidência atual não sustenta a ideia de que vinho, cerveja ou destilados sejam necessários para proteger o coração. A OMS afirma que não existe consumo de álcool completamente livre de risco, e o Ministério da Saúde brasileiro utiliza uma dose-padrão de 10 g de álcool puro para facilitar a mensuração do consumo.</p>
+<p>No caso do álcool, a evidência atual não sustenta a ideia de que vinho, cerveja ou destilados sejam necessários para proteger o coração.</p>
+
+<p>A OMS afirma que não existe consumo de álcool completamente livre de risco, e o Ministério da Saúde brasileiro utiliza uma dose-padrão de 10 g de álcool puro para facilitar a mensuração do consumo.</p>
 <p>Para quem quer reduzir riscos, <strong>menos álcool é melhor; não beber é a opção de menor exposição ao álcool</strong>. Já entre as bebidas sem álcool, vale priorizar opções simples, com pouco ou nenhum açúcar, de acordo com as necessidades individuais.</p>
 
+<h2>Quando procurar um médico</h2>
+<p>Procure um médico se houver sintomas de abstinência, dificuldade para reduzir o consumo ou sinais de problemas no fígado e no coração. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de consumir álcool.</p>
+
 <h2>Resumindo</h2>
-<p>![Variedade de bebidas em uma mesa](https://images.pexels.com/photos/1267696/pexels-photo-1267696.jpeg?auto=compress&cs=tinysrgb&w=1200) Antes de mudar sua alimentação, rotina ou usar qualquer suplemento, converse com um médico ou nutricionista.</p>
+<p>Antes de mudar sua alimentação, rotina ou usar qualquer suplemento, converse com um médico ou nutricionista.</p>
 <h2>Fontes consultadas</h2>
 <p>As informações deste texto têm como base materiais da <a href="https://www.who.int" target="_blank" rel="noopener">Organização Mundial da Saúde (OMS)</a> e da <a href="https://www.gov.br/saude" target="_blank" rel="noopener">Ministério da Saúde</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
 

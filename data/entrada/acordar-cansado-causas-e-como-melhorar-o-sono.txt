@@ -1,4 +1,4 @@
-PALAVRA_CHAVE: acordar Cansado Causas e Como Melhorar o Sono.html
+PALAVRA_CHAVE: acordar cansado
 TITLE: Acordar cansado: causas e como melhorar o sono
 DESCRIPTION: Acordar cansado pode ter causas variadas, da higiene do sono à apneia. Veja os fatores mais comuns, hábitos que ajudam e quando procurar avaliação médica.
 FONTE: National Institutes of Health (NIH) | https://www.nih.gov
@@ -20,7 +20,7 @@ FOTO2_SECAO: 4
 <p>Acordar cansado não é o mesmo que ter sono pouco. Uma pessoa pode dormir horas suficientes e ainda assim acordar sem energia, porque a qualidade do sono ficou comprometida por despertares frequentes ou por ritmos fora de horário.</p>
 <p>O sono é organizado em ciclos que alternam fases mais leves e mais profundas. Quando esses ciclos são interrompidos, a sensação de descanso diminui, mesmo que o tempo na cama pareça adequado.</p>
 <p>Por isso, a avaliação deve olhar para a qualidade do sono, e não apenas para o número de horas.</p>
-<h2>Principais causas do cansaço ao acordar</h2>
+<h2>Acordar cansado: principais causas</h2>
 <p>Entre as causas mais frequentes estão a irregularidade de horários, o uso de telas antes de dormir, o consumo de cafeína e álcool à noite e o estresse. Ansiedade e preocupações também atrapalham a transição para o sono.</p>
 <p>Outras causas incluem dor crônica, refluxo, uso de alguns medicamentos e alterações de humor, como a depressão, que costuma vir acompanhada de sono não reparador.</p>
 <p>Para entender os quadros de dificuldade em dormir, leia sobre <a href="/insonia/">insônia</a>, que descreve sintomas e opções de manejo.</p>
@@ -44,8 +44,20 @@ FOTO2_SECAO: 4
 <h2>Quando o uso de remédios para dormir precisa de cuidado</h2>
 <p>Medicamentos para dormir, inclusive os de venda livre, podem causar sonolência no dia seguinte e dependência em alguns casos. Antes de usar qualquer produto, converse com um médico ou farmacêutico.</p>
 <p>Substâncias como a melatonina também devem ser usadas com orientação, já que o efeito depende do horário, da dose e da condição de cada pessoa.</p>
+<p>Em muitos casos, o cansaço ao acordar tem relação com o próprio ambiente do quarto. Luz intensa de rua, barulho, colchão desconfortável e temperatura alta fragmentam o sono sem que a pessoa perceba. Pequenas mudanças, como cortinas mais escuras e ventilação adequada, costumam trazer diferença perceptível.</p>
+<p>A alimentação à noite também influencia. Refeições volumosas e muito tardias podem causar refluxo e desconforto, e isso atrapalha o sono. Prefira jantares leves, feitos com antecedência, e evite deitar logo após comer, para que a digestão não interfira no descanso.</p>
+<p>O consumo de álcool é outro ponto importante. Embora ajude a adormecer, ele fragmenta o sono na segunda metade da noite, o que faz a pessoa acordar mais vezes e com sensação de cansaço.</p>
+<p>Esse efeito é um dos motivos mais citados por quem acorda sem energia após noites de consumo.</p>
+<p>Excesso de cafeína à tarde pode manter o organismo em estado de alerta por muitas horas. Por isso, reduzir o café e o chá após o almoço é uma medida simples, que costuma melhorar a facilidade para dormir e a qualidade do descanso.</p>
+<p>Também é preciso observar o uso de medicamentos. Alguns remédios para pressão, alergia, depressão e dor podem alterar o sono. Nunca interrompa um medicamento por conta própria; converse com o médico, que pode ajustar horário ou dose quando necessário.</p>
+<p>O estresse prolongado mantém o sistema de alerta ativo e dificulta o relaxamento. Técnicas de respiração, pausas ao longo do dia e a organização de tarefas antes da noite ajudam a reduzir a tensão. Quando a preocupação é persistente, o apoio de um psicólogo pode ser útil.</p>
+<p>Ao longo de semanas, vale anotar horários de deitar e acordar, despertares noturnos e a sensação ao levantar. Esse diário ajuda o médico a identificar padrões e a decidir quais exames são necessários, o que torna a consulta mais produtiva.</p>
+<p>Pessoas que acordam cansadas costumam tentar compensar dormindo mais nos fins de semana. Esse hábito alivia a sensação por algumas horas, mas altera o relógio interno e pode tornar a segunda-feira ainda mais difícil. A estratégia mais eficaz é manter horários próximos todos os dias, com variações pequenas.</p>
+<p>Também vale considerar a cama e a postura. Travesseiros inadequados e colchões muito antigos podem causar dores no pescoço e nas costas, que despertam a pessoa durante a noite. Quando o desconforto é constante, a avaliação do conjunto de fatores ajuda a melhorar o descanso.</p>
+<p>Em períodos de estresse intenso, como mudanças de emprego, luto ou problemas familiares, o sono costuma ser afetado de forma transitória. Nesses momentos, buscar apoio e manter pequenas rotinas de cuidado, como caminhar e conversar com pessoas próximas, ajuda a proteger o descanso.</p>
+<p>Para quem trabalha à noite, a dificuldade de acordar bem é ainda maior. Nesses casos, a estratégia costuma incluir um período de sono principal em horário escuro e silencioso, cortinas bloqueadoras de luz e cochilos curtos planejados. A regularidade, mesmo com horários invertidos, ajuda o organismo a se adaptar.</p>
 <h2>Perguntas frequentes</h2>
-<p><strong>Dormir 8 horas garante que eu acorde descansado?</strong></p>
+<p><strong>Dormir 8 horas assegura que eu acorde descansado?</strong></p>
 <p>Nem sempre. A qualidade do sono, com despertares frequentes ou apneia, pode comprometer o descanso mesmo com tempo suficiente na cama.</p>
 <p><strong>Ronco é sinal de problema?</strong></p>
 <p>Ronco intenso e frequente, principalmente com pausas na respiração, merece avaliação médica, porque pode indicar apneia do sono.</p>
