@@ -39,7 +39,7 @@ FOTO2_SECAO: 4
 <p>Gestantes, pessoas que fazem nutrição parenteral, quem usa medicamentos antiepilépticos e quem consome grande quantidade de clara de ovo crua também podem ter necessidades diferentes. A decisão deve ser individual.</p>
 <h2>Como escolher alimentos e suplementos com segurança</h2>
 <p>Uma alimentação variada costuma fornecer a biotina necessária. Ovos cozidos, castanhas, sementes, aveia, legumes e leguminosas são boas opções para o dia a dia, sem necessidade de suplemento.</p>
-<p>Se houver dúvida sobre suplementação, leve o rótulo ao profissional e informe todos os produtos que usa. Desconfie de promessas de resultado rápido ou de linguagem que sugere cura para problemas complexos.</p>
+<p>Se houver dúvida sobre suplementação, leve o rótulo ao profissional e informe todos os produtos que usa. Desconfie de promessas de resultado rápido ou de linguagem que sugere solução rápida para problemas complexos.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Biotina para que serve no corpo?</strong></p>
 <p>Ela participa do metabolismo de nutrientes e de processos celulares. A deficiência é rara, mas precisa de tratamento orientado.</p>

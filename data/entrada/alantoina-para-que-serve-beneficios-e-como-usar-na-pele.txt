@@ -1,224 +1,60 @@
 PALAVRA_CHAVE: alantoína
-TITLE: Alantoína: Para Que Serve, Benefícios e Como Usar na Pele
-DESCRIPTION: Entenda o que é alantoína, para que serve, seus benefícios para a pele, diferenças em relação à ureia, segurança em peles sensíveis e como combinar com retinol.
-FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
-FONTE: journals.lww.com | https://journals.lww.com
-CAPA_BUSCA: skincare routine face cream
-CAPA_ALT: Rotina de cuidados com a pele sobre alantoína
-FOTO1_BUSCA: dermatologist examining skin
-FOTO1_ALT: Consulta dermatológica relacionado a alantoína
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+TITLE: Alantoína: para que serve e cuidados na pele
+DESCRIPTION: Alantoína: o que é, para que serve nos cosméticos, o que os estudos sugerem sobre a pele e quais cuidados ter ao usar produtos que a contêm.
+FONTE: PubMed, National Library of Medicine | https://pubmed.ncbi.nlm.nih.gov
+FONTE: Lippincott Williams & Wilkins, periódicos científicos | https://journals.lww.com
+CAPA_BUSCA: soothing skin cream
+CAPA_ALT: Creme calmante aplicado na pele do braço, tema alantoína na pele
+FOTO1_BUSCA: plant leaves botanical
+FOTO1_ALT: Folhas verdes de planta medicinal sobre fundo claro, fontes naturais de alantoína
+FOTO1_LEGENDA: A alantoína já foi encontrada em plantas usadas tradicionalmente na pele.
 FOTO1_SECAO: 2
+FOTO2_BUSCA: skin irritation patch test
+FOTO2_ALT: Pele do antebraço com pequena área avermelhada após teste de produto
+FOTO2_LEGENDA: O teste em pequena área ajuda a identificar reações antes do uso amplo.
+FOTO2_SECAO: 4
 ---
-<div id="container-imagem-capa" class="loading">Carregando imagem...</div>
-
-<p>A <strong>alantoína</strong> é um dos ativos mais versáteis e bem tolerados da dermatologia e da cosmética. Presente em cremes reparadores, pós-procedimento, produtos para pele sensível e até em fórmulas para bebês, ela combina propriedades calmantes, hidratantes, queratolíticas e cicatrizantes em uma única molécula. Apesar de sua onipresença, muitas pessoas ainda não sabem exatamente o que ela faz, como age na pele e por que é frequentemente confundida com a ureia. Este artigo explica o que é a alantoína, para que serve, seus principais benefícios, as diferenças em relação à ureia e aos ácidos esfoliantes, como usá-la em combinação com retinol e o que a ciência diz sobre sua segurança e eficácia.</p>
-
-<h2>O Que É a Alantoína e Para Que Serve na Pele?</h2>
-
-<p>A alantoína é um composto cristalino branco e inodoro, derivado do ácido úrico. Ela foi isolada pela primeira vez em 1912 a partir da raiz da confrei (Symphytum officinale), planta usada há séculos na medicina popular para cicatrização de feridas. Nas décadas seguintes, descobriu-se que a alantoína também é o principal componente ativo da excreção de larvas de mosca, um dos primeiros tratamentos eficazes para feridas crônicas.</p>
-
-<p>No corpo humano, a alantoína é produzida naturalmente durante o metabolismo das purinas e está presente em baixas concentrações na urina e no suor. Na indústria cosmética, porém, ela é produzida sinteticamente para garantir pureza e consistência. Sua função principal na pele é promover a renovação celular, acalmar irritações, hidratar e proteger a barreira cutânea.</p>
-
-<p>A alantoína está presente em uma ampla gama de produtos: cremes para mãos, loções corporais, protetores labiais, produtos pós-barba, cremes para assadura, fórmulas pós-procedimento e até em shampoos e condicionadores. Essa versatilidade se deve ao fato de ser um ativo multifuncional que, mesmo em concentrações baixas, produz efeitos significativos.</p>
-
-<div id="container-imagem-1" class="loading">Carregando imagem...</div>
-
-<h2>Quais São os Principais Benefícios da Alantoína para a Pele?</h2>
-
-<p>A alantoína atua por múltiplos mecanismos, o que explica sua ampla utilização. Seus benefícios são bem documentados na literatura dermatológica.</p>
-
-<h3>Hidratação e Retenção de Água</h3>
-<p>A alantoína é um umectante e higroscópico: ela atrai água das camadas mais profundas da pele e também a absorve do ambiente. Ao aumentar o teor de água da matriz extracelular, ela mantém a pele hidratada, macia e flexível. Estudos mostram que uma emulsão com 0,5% de alantoína reduziu significativamente a perda de água transepidérmica (TEWL) após irritação química e mecânica.</p>
-
-<h3>Ação Queratolítica Suave</h3>
-<p>A alantoína tem um efeito queratolítico suave. Ela amolece a queratina e desestabiliza as ligações entre os corneócitos (células mortas da camada superficial), promovendo a descamação natural e a renovação celular. Diferente dos ácidos esfoliantes, porém, a alantoína não agride a pele: ela esfolia enquanto acalma, o que a torna adequada para peles sensíveis.</p>
-
-<h3>Estímulo à Proliferação Celular e Cicatrização</h3>
-<p>A alantoína estimula a proliferação de fibroblastos e queratinócitos, células essenciais para a regeneração tecidual. Um estudo clássico publicado no <em>Acta Cirúrgica Brasileira</em> demonstrou, por análise histológica, que o mecanismo de cicatrização induzido pela alantoína ocorre via regulação da resposta inflamatória e estímulo à proliferação fibroblástica e síntese de matriz extracelular. Em estudos com feridas cirúrgicas, a alantoína acelerou o fechamento e melhorou a qualidade da cicatriz.</p>
-
-<h3>Ação Calmante e Anti-Inflamatória</h3>
-<p>A alantoína reduz a vermelhidão, a coceira e o desconforto em peles irritadas. Ela modula a liberação de citocinas pró-inflamatórias, como TNF-α e IL-6, suavizando a resposta inflamatória. Essa propriedade a torna um ingrediente valioso em produtos pós-procedimento, pós-sol e para peles reativas.</p>
-
-<h3>Tabela: Benefícios da Alantoína por Mecanismo</h3>
-
-<table>
-<thead>
-<tr>
-<th>Benefício</th>
-<th>Mecanismo</th>
-<th>Evidência</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Hidratação</td>
-<td>Umectante e higroscópico; aumenta água na matriz extracelular</td>
-<td>Boa (estudos in vivo)</td>
-</tr>
-<tr>
-<td>Esfoliação suave</td>
-<td>Queratolítico: amolece queratina e desestabiliza corneócitos</td>
-<td>Boa (equivalência a 10-20% de ureia)</td>
-</tr>
-<tr>
-<td>Cicatrização</td>
-<td>Estímulo à proliferação de fibroblastos e queratinócitos</td>
-<td>Moderada a boa (estudos animais e humanos)</td>
-</tr>
-<tr>
-<td>Ação calmante</td>
-<td>Redução de citocinas inflamatórias (TNF-α, IL-6)</td>
-<td>Moderada</td>
-</tr>
-<tr>
-<td>Proteção da barreira</td>
-<td>Formação de filme protetor; reduz perda de água</td>
-<td>Boa</td>
-</tr>
-</tbody>
-</table>
-
-<p><em>Observação: a alantoína é geralmente estudada em combinação com outros ativos, o que dificulta isolar seu efeito individual em alguns contextos.</em></p>
-
-<div id="container-imagem-2" class="loading">Carregando imagem...</div>
-
-<h2>Qual a Diferença Entre Alantoína e Ureia?</h2>
-
-<p>A alantoína e a ureia são frequentemente comparadas porque ambas têm propriedades hidratantes e queratolíticas. No entanto, elas têm origens químicas diferentes, mecanismos distintos e perfis de tolerabilidade que as tornam adequadas para situações diferentes.</p>
-
-<h3>Origem e Estrutura Química</h3>
-<p>A alantoína é um diureido do ácido glioxílico, derivado do ácido úrico. A ureia é uma molécula orgânica pequena, componente natural do Fator de Hidratação Natural (NMF) da pele, onde representa cerca de 7% do total. A ureia é produzida pelo corpo durante o metabolismo de proteínas.</p>
-
-<h3>Mecanismo de Ação</h3>
-<p>A alantoína promove a descamação ao amolecer a queratina e desestabilizar as ligações entre os corneócitos. A ureia, por sua vez, tem efeito queratolítico dependente da concentração: em concentrações baixas (3-10%), ela é principalmente hidratante; acima de 10%, dissolve a matriz proteica que une as células da pele, promovendo esfoliação mais intensa.</p>
-
-<h3>Potência e Tolerabilidade</h3>
-<p>A alantoína é significativamente mais potente que a ureia em termos de efeito queratolítico por concentração. Estudos mostram que uma solução de 0,2% de alantoína tem efeito queratolítico equivalente a uma solução de 10-20% de ureia. Além disso, a alantoína não causa os efeitos irritantes que a ureia em altas concentrações pode provocar.</p>
-
-<p>A ureia é mais eficaz em casos de ressecamento severo, como pés rachados e hiperqueratose, onde a esfoliação mais intensa é desejada. A alantoína é preferível para peles sensíveis, irritadas ou com barreira comprometida, onde a suavidade é prioridade.</p>
-
-<h3>Tabela Comparativa: Alantoína vs. Ureia</h3>
-
-<table>
-<thead>
-<tr>
-<th>Característica</th>
-<th>Alantoína</th>
-<th>Ureia</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Concentração típica</td>
-<td>0,1% a 2%</td>
-<td>3% a 40%</td>
-</tr>
-<tr>
-<td>Efeito queratolítico</td>
-<td>Suave, equivalente a 10-20% de ureia com 0,2%</td>
-<td>Dose-dependente: hidratante em baixas doses, esfoliante em altas</td>
-</tr>
-<tr>
-<td>Tolerabilidade</td>
-<td>Muito alta; adequada para pele sensível</td>
-<td>Pode irritar em concentrações elevadas</td>
-</tr>
-<tr>
-<td>Indicação principal</td>
-<td>Pele sensível, pós-procedimento, reparo</td>
-<td>Ressecamento severo, hiperqueratose, pés rachados</td>
-</tr>
-<tr>
-<td>Efeito calmante</td>
-<td>Sim, anti-inflamatório</td>
-<td>Não significativo</td>
-</tr>
-</tbody>
-</table>
-
-<div id="container-imagem-3" class="loading">Carregando imagem...</div>
-
-<h2>A Alantoína Serve para Clarear Manchas de Acne?</h2>
-
-<p>Não diretamente. A alantoína não tem ação clareadora sobre a melanina. Ela não inibe a tirosinase nem reduz a produção de pigmento. O que ela faz é contribuir para a uniformidade da pele por meio de outros mecanismos.</p>
-
-<p>Primeiro, a alantoína promove a renovação celular suave, o que ajuda a remover as células mortas que podem dar um aspecto opaco e irregular à pele. Segundo, sua ação calmante reduz a inflamação, que é um dos principais fatores que levam à hiperpigmentação pós-inflamatória (manchas escuras que ficam após a acne). Ao acalmar a pele e prevenir novas inflamações, a alantoína ajuda indiretamente a evitar o surgimento de novas manchas.</p>
-
-<p>Para clarear manchas já estabelecidas, são necessários ativos específicos como niacinamida, vitamina C, ácido tranexâmico ou retinoides. A alantoína pode ser combinada com esses ativos para potencializar a tolerabilidade e a renovação celular, mas não deve ser considerada um agente clareador principal.</p>
-
-<h2>Pode Usar Produtos com Alantoína Todos os Dias?</h2>
-
-<p>Sim. A alantoína é considerada segura para uso diário, inclusive em peles sensíveis. O Comitê de Revisão de Ingredientes Cosméticos (CIR) confirmou sua segurança em concentrações de até 2% em produtos leave-on (que ficam na pele). A FDA (agência reguladora dos Estados Unidos) classificou a alantoína como um ingrediente ativo de categoria I (seguro) para uso tópico em concentrações de 0,5% a 2,0%.</p>
-
-<p>A alantoína não causa fotossensibilidade, não mancha a pele e não tem efeito cumulativo negativo. Ela pode ser usada de manhã e à noite, em qualquer tipo de pele. É considerada segura durante a gravidez e a lactação em concentrações cosméticas típicas, pois a absorção sistêmica através da pele intacta é mínima.</p>
-
-<p>A única ressalva é para pessoas com alergia conhecida à alantoína ou a outros componentes da fórmula. Reações alérgicas são extremamente raras, mas podem ocorrer. Se houver vermelhidão, coceira ou inchaço após a aplicação, o produto deve ser suspenso.</p>
-
-<h2>Como Combinar Alantoína com Retinol?</h2>
-
-<p>A combinação de alantoína com retinol é uma das mais inteligentes em skincare. O retinol é um ativo eficaz para renovação celular, controle da acne e redução de rugas, mas frequentemente causa irritação, descamação e vermelhidão, especialmente nas primeiras semanas de uso. A alantoína atua como um calmante e reparador, ajudando a mitigar esses efeitos adversos sem comprometer a eficácia do retinol.</p>
-
-<p>Essa combinação é tão reconhecida que muitas fórmulas comerciais de retinol já incluem alantoína, bisabolol e pantenol para melhorar a tolerabilidade. A chamada "técnica do sanduíche" — aplicar hidratante, depois retinol, depois outro hidratante — frequentemente usa produtos com alantoína na base.</p>
-
-<h3>Como Aplicar</h3>
-<ol>
-<li><strong>Limpe a pele</strong> com um produto suave e deixe secar completamente.</li>
-<li><strong>Aplique uma camada fina de hidratante com alantoína</strong> e aguarde a absorção.</li>
-<li><strong>Aplique o retinol</strong> em quantidade pequena (do tamanho de uma ervilha para o rosto todo).</li>
-<li><strong>Finalize com outra camada de hidratante com alantoína</strong> para selar e acalmar.</li>
-</ol>
-
-<p>Essa abordagem pode ser usada desde o início do tratamento com retinol, especialmente para peles sensíveis. A alantoína não bloqueia o mecanismo do retinol; ela apenas modula a resposta inflamatória da pele.</p>
-
-<h2>Quanto Tempo a Alantoína Leva para Mostrar Resultados?</h2>
-
-<p>O tempo para resultados visíveis depende do objetivo. Para hidratação e melhora da textura, os efeitos podem ser percebidos em poucos dias de uso contínuo. Para cicatrização de feridas superficiais e recuperação pós-procedimento, a alantoína acelera o processo em cerca de 25% a 30%, com melhora significativa em uma a duas semanas.</p>
-
-<p>Para cicatrizes, o tempo é maior. Estudos com géis contendo alantoína combinada com extrato de cebola e heparina mostraram melhora significativa na cor, elasticidade e irregularidade de cicatrizes de cesariana após 6 semanas de uso, com benefícios adicionais em 12 semanas. Para cicatrizes hipertróficas, o tratamento deve ser mantido por pelo menos 3 meses para resultados visíveis.</p>
-
-<p>Para manchas de acne e uniformidade da pele, os resultados são indiretos e dependem da renovação celular, que leva de 4 a 8 semanas. A alantoína não é um ativo de resultado rápido, mas sua consistência e tolerabilidade a tornam adequada para uso prolongado.</p>
-
-<h2>FAQ — Perguntas Frequentes</h2>
-
-<h3>1. Para que serve o ativo alantoína na pele?</h3>
-<p>A alantoína serve para hidratar, acalmar, promover esfoliação suave, estimular a cicatrização e proteger a barreira cutânea. É usada em cremes reparadores, produtos pós-procedimento, loções para pele sensível e fórmulas para assadura.</p>
-
-<h3>2. A alantoína serve para clarear manchas de acne?</h3>
-<p>Não diretamente. A alantoína não clareia manchas, mas ajuda a uniformizar a pele ao promover renovação celular suave e ao reduzir a inflamação que causa hiperpigmentação pós-inflamatória. Para clarear, são necessários ativos específicos.</p>
-
-<h3>3. Qual a diferença entre alantoína e ureia nas formulações?</h3>
-<p>A alantoína é mais potente como queratolítico (0,2% equivale a 10-20% de ureia) e mais suave para a pele. A ureia é mais eficaz para ressecamento severo e hiperqueratose. A alantoína é preferível para peles sensíveis e irritadas.</p>
-
-<h3>4. Pode usar produtos com alantoína todos os dias?</h3>
-<p>Sim. A alantoína é segura para uso diário em concentrações de até 2%. É bem tolerada por todos os tipos de pele, inclusive sensíveis, e não causa fotossensibilidade. É considerada segura na gravidez e lactação em concentrações cosméticas.</p>
-
-<h3>5. Como combinar alantoína com retinol?</h3>
-<p>Use a "técnica do sanduíche": hidratante com alantoína, depois retinol, depois outra camada de hidratante com alantoína. Isso acalma a pele, reduz a irritação e melhora a tolerabilidade sem comprometer a eficácia do retinol.</p>
-
-<h2>Resumindo</h2>
-
-<p>A alantoína é um ativo multifuncional com propriedades hidratantes, calmantes, queratolíticas e cicatrizantes. Ela é derivada do ácido úrico e está presente naturalmente em plantas como a confrei. Sua segurança e tolerabilidade a tornam adequada para todos os tipos de pele, inclusive as mais sensíveis, e para uso diário em concentrações de até 2%.</p>
-
-<p>A alantoína é frequentemente comparada à ureia, mas tem mecanismos e indicações diferentes. Ela é mais potente como queratolítico por concentração e muito mais suave, enquanto a ureia é mais eficaz para ressecamento severo e hiperqueratose. A alantoína não clareia manchas, mas ajuda a uniformizar a pele por meio da renovação celular e da redução da inflamação.</p>
-
-<p>A combinação com retinol é uma estratégia inteligente para mitigar a irritação causada por esse ativo. A alantoína também é um componente padrão de protocolos pós-procedimento, como após laser CO2, peeling químico e microagulhamento, pois acelera a recuperação e reduz o desconforto.</p>
-
-<p>Os resultados da alantoína são graduais. Para hidratação e textura, os efeitos aparecem em poucos dias. Para cicatrização e recuperação pós-procedimento, em uma a duas semanas. Para cicatrizes, o tratamento deve ser mantido por pelo menos três meses. A alantoína não é um ativo de resultado imediato, mas sua consistência e segurança a tornam um dos ingredientes mais confiáveis da dermatologia cosmética.</p>
-
-<h2>Fontes</h2>
+<p>Alantoína para que serve, principalmente, como ingrediente que condiciona a pele e ajuda a dar sensação de conforto. Ela é encontrada na natureza e também é produzida em laboratório para uso em cosméticos. Como em qualquer ingrediente, a utilidade depende do contexto e da forma de uso.</p>
+<h2>O que é a alantoína</h2>
+<p>A alantoína é um composto químico presente em algumas plantas e em certos organismos. Em produtos de cuidado da pele, ela é considerada um agente que suaviza a superfície da pele e favorece a hidratação.</p>
+<p>Por ser bem tolerada pela maioria das pessoas, a substância aparece em cremes, loções e produtos para pele sensível. Sua presença na fórmula, porém, não garante eficácia para qualquer problema.</p>
+<p>Vale lembrar que o nome do ingrediente não define o produto. A concentração, a formulação e o restante da composição fazem diferença real no resultado.</p>
+<h2>O que os estudos sugerem sobre a pele</h2>
+<p>Pesquisas laboratoriais e alguns estudos clínicos pequenos investigam a alantoína em processos de cicatrização e de regeneração da pele. Os resultados indicam potencial de estímulo à renovação celular em determinadas condições.</p>
+<p>Essas pesquisas são importantes, mas ainda limitadas em número e em tamanho de amostra. Por isso, não é possível afirmar que a alantoína resolva feridas ou trate doenças da pele.</p>
+<p>A leitura mais honesta é que se trata de um ingrediente com função conhecida no cuidado diário e com estudos preliminares em cicatrização. Para ferimentos, a orientação profissional é indispensável.</p>
+<h2>Usos cosméticos e cuidados do dia a dia</h2>
+<p>No cotidiano, a alantoína costuma aparecer em produtos para pele seca, áreas de atrito e pele sensível. Ela pode ajudar a manter a sensação de conforto após a limpeza ou o banho.</p>
+<p>Para quem tem alterações como manchas e irritações, o cuidado com a pele deve incluir protetor solar e evitar fatores irritantes. Leia também sobre <a href="/manchas-na-pele/">manchas na pele</a>, que descreve quando investigar.</p>
 <ul>
-<li>Araújo LU, Grabe-Guimarães A, Mosqueira VC, Carneiro CM, Silva-Barcellos NM. Profile of wound healing process induced by allantoin. Acta Cirúrgica Brasileira, 2010. <a href="https://pubmed.ncbi.nlm.nih.gov/20877959/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/20877959/</a></li>
-<li>Gao S, Song T. Allantoin Enhances Proliferation, Wound Closure, and Nrf2-Associated Antioxidant Defense in Mouse Embryonic Palatal Mesenchymal Cells: A Dose-Response Study. Journal of Craniofacial Surgery, 2026. <a href="https://journals.lww.com/jcraniofacialsurgery/abstract/9900/allantoin_enhances_proliferation,_wound_closure,.3920.aspx" target="_blank" rel="noopener">https://journals.lww.com/jcraniofacialsurgery/abstract/9900/allantoin_enhances_proliferation,_wound_closure,.3920.aspx</a></li>
-<li>Cleveland Clinic. What Is Allantoin? And What Does It Do for Your Skin (and More)? <a href="https://health.clevelandclinic.org/allantoin" target="_blank" rel="noopener">https://health.clevelandclinic.org/allantoin</a></li>
-<li>Ocampo-Candiani J, et al. The prophylactic use of a topical scar gel containing extract of Allium cepae, allantoin, and heparin improves symptoms and appearance of cesarean-section scars compared with untreated scars. Journal of Drugs in Dermatology, 2014. <a href="https://pubmed.ncbi.nlm.nih.gov/24509969/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/24509969/</a></li>
-<li>Prager W, Gauglitz GG. Effectiveness and Safety of an Overnight Patch Containing Allium cepa Extract and Allantoin for Post-Dermatologic Surgery Scars. Aesthetic Plastic Surgery, 2023. <a href="https://ichgcp.net/es/clinical-trials-registry/publications/64099-effectiveness-and-safety-of-an-overnight-patch-containing-allium-cepa-extract-and-allantoin-for-post" target="_blank" rel="noopener">https://ichgcp.net/es/clinical-trials-registry/publications/64099-effectiveness-and-safety-of-an-overnight-patch-containing-allium-cepa-extract-and-allantoin-for-post</a></li>
-<li>Sigma-Aldrich. RonaCare Allantoin — The Skin Care Ingredient. <a href="https://b2b.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/documents/200/052/ronacare-allantoin-ms.pdf" target="_blank" rel="noopener">https://b2b.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/documents/200/052/ronacare-allantoin-ms.pdf</a></li>
+<li>Escolha produtos com indicação clara para o seu tipo de pele.</li>
+<li>Prefira fórmulas sem fragrâncias se a pele for sensível.</li>
+<li>Evite aplicar em pele com ferida aberta sem orientação.</li>
 </ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
+<h2>Reações e riscos possíveis</h2>
+<p>Como qualquer cosmético, a alantoína pode causar irritação ou reação alérgica em algumas pessoas. Os sinais incluem vermelhidão, coceira, ardência e pequenas erupções no local.</p>
+<p>O contato repetido com produtos que contêm ingredientes irritantes pode levar à dermatite de contato. Por isso, a suspensão do produto ao primeiro sinal de reação é a conduta mais prudente.</p>
+<h2>Feridas, cicatrizes e queloides</h2>
+<p>Feridas profundas, queimaduras e cicatrizes que crescem exigem avaliação médica. Cremes cosméticos não substituem o curativo adequado nem o tratamento indicado pelo profissional.</p>
+<p>Em cicatrizes elevadas, como os queloides, o tratamento costuma ser feito por dermatologista, com medidas específicas. Veja mais sobre o tema em <a href="/queloide/">queloide</a>.</p>
+<h2>Como testar um produto com alantoína</h2>
+<p>Antes de usar um produto novo no rosto ou em área extensa, aplique uma pequena quantidade na parte interna do antebraço ou atrás da orelha. Observe a pele por dois ou três dias antes de usar de forma regular.</p>
+<p>Se aparecer coceira, ardência ou vermelhidão que persiste, suspenda o uso e procure um dermatologista. Guardar o rótulo ajuda o profissional a identificar possíveis ingredientes causadores de reação.</p>
+<h2>Perguntas frequentes</h2>
+<p><strong>Alantoína resolve feridas?</strong></p>
+<p>Não há base científica para afirmar isso. Estudos preliminares sugerem papel na cicatrização, mas feridas devem ser tratadas por profissional.</p>
+<p><strong>Alantoína pode irritar a pele?</strong></p>
+<p>Em algumas pessoas sim. Por isso, teste o produto antes de usar em área maior e suspenda em caso de reação.</p>
+<p><strong>Posso usar alantoína todos os dias?</strong></p>
+<p>Em geral, produtos cosméticos podem ser usados diariamente, desde que a pele tolere bem. Se houver dúvidas ou doença de pele, converse com um dermatologista.</p>
 <h2>Quando procurar um médico</h2>
-<p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://pubmed.ncbi.nlm.nih.gov" target="_blank" rel="noopener">PubMed (National Library of Medicine)</a> e da <a href="https://journals.lww.com" target="_blank" rel="noopener">journals.lww.com</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>Procure atendimento se uma ferida não cicatriza, se há pus, febre ou dor crescente, ou se uma reação de pele se espalha ou não melhora após a suspensão do produto. Sinais de alergia grave, como inchaço no rosto e falta de ar, exigem atendimento de urgência.</p>
+<ul>
+<li>Ferimento que não fecha ou apresenta secreção.</li>
+<li>Vermelhidão e coceira que persistem após suspender o produto.</li>
+<li>Cicatriz que cresce ou fica dolorida.</li>
+</ul>
+<p>O profissional avalia a pele e indica o tratamento adequado para cada situação. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+<h2>Resumindo</h2>
+<p>A alantoína é um ingrediente conhecido por suavizar e condicionar a pele, presente em muitos cosméticos. Os estudos sobre cicatrização são promissores, mas ainda preliminares, e não sustentam promessas de resultado.</p>
+<p>Use produtos com moderação, faça teste de sensibilidade e procure um profissional diante de feridas, reações persistentes ou cicatrizes que preocupam. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
