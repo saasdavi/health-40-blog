@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: cardápio para ganhar massa muscular
-TITLE: Cardápio para ganhar massa muscular: guia prático
+TITLE: Cardápio para ganhar massa muscular: guia
 DESCRIPTION: Cardápio para ganhar massa muscular com foco em proteína, treino de força e rotina sustentável para quem tem mais de 40 anos, com orientação profissional.
 FONTE: Journal of the International Society of Sports Nutrition (JISSN) | https://jissn.biomedcentral.com
 FONTE: ge.globo | https://ge.globo.com
@@ -63,7 +63,7 @@ FOTO2_SECAO: 4
 
 <p>Vale lembrar que suplementos e produtos prontos não são obrigatórios. Na maior parte dos casos, uma alimentação variada e bem distribuída já atende às necessidades, e qualquer produto deve ser avaliado com um profissional antes do uso.</p>
 
-<p>Para complementar o treino, veja como o <a href="/sarcopenia/">envelhecimento pode levar à perda de massa muscular</a> e por que a prática regular é tão importante. Se você está começando a se exercitar, o texto sobre <a href="/exercicios-para-idosos/">exercícios seguros para a faixa etária</a> traz orientações gerais úteis.</p>
+<p>Para complementar o treino, veja como a <a href="/proteina-mulheres-40/">proteína na rotina de quem passou dos 40</a> apoia os músculos e por que a prática regular é tão importante. Se o cansaço atrapalha o treino, o texto sobre <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a> traz orientações gerais úteis.</p>
 
 <h2>Erros comuns ao montar o cardápio</h2>
 

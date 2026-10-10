@@ -1,5 +1,5 @@
-PALAVRA_CHAVE: carboidratos o que sao funcoes tipos e alimentos ricos
-TITLE: Carboidratos o que são, funções, tipos e alimentos ricos
+PALAVRA_CHAVE: carboidratos
+TITLE: Carboidratos: o que são, funções e tipos
 DESCRIPTION: Carboidratos o que são, para que servem, quais os tipos (simples, complexos e fibras) e os alimentos ricos em carboidratos de boa qualidade para quem tem 40+.
 FONTE: Ministério da Saúde | https://www.gov.br/saude
 FONTE: Organização Mundial da Saúde (OMS) | https://www.who.int
@@ -85,7 +85,7 @@ FOTO2_SECAO: 4
 
 <p>Pessoas com diabetes, doença renal, problemas digestivos ou em uso de medicamentos precisam de um plano individual. Ajustes nas quantidades devem ser discutidos com médico ou nutricionista, que consideram exames, rotina e preferências alimentares.</p>
 
-<p>Para ampliar a visão sobre o tema, vale conhecer a relação entre fibras e saúde intestinal em <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras e como incluí-los no dia a dia</a>, e também como funciona a <a href="/tabela-de-calorias-dos-alimentos/">tabela de calorias dos alimentos</a>, útil para comparar porções.</p>
+<p>Para ampliar a visão sobre o tema, vale conhecer a relação entre fibras e saúde intestinal em <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras e como incluí-los no dia a dia</a>, e também entender os valores de referência da <a href="/glicemia-normal/">glicemia normal</a>, útil para observar como o corpo responde às refeições.</p>
 
 <h2>Perguntas frequentes</h2>
 

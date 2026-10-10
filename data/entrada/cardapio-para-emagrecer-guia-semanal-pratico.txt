@@ -1,4 +1,4 @@
-PALAVRA_CHAVE: cardapio para emagrecer
+PALAVRA_CHAVE: cardápio para emagrecer
 TITLE: Cardápio para emagrecer: guia semanal prático
 DESCRIPTION: Cardápio para emagrecer com foco em saúde: como montar um plano semanal simples, equilibrado e sustentável para quem tem mais de 40 anos, sem dietas extremas.
 FONTE: Ministério da Saúde | https://www.gov.br/saude
@@ -87,7 +87,7 @@ FOTO2_SECAO: 4
 
 <p>Se a rotina for muito corrida, procure preparos rápidos, como omeletes com legumes, saladas com proteína pronta e sopas feitas em grande quantidade. O importante é que o cardápio seja possível de repetir durante semanas.</p>
 
-<p>Aprofunde a estratégia lendo sobre <a href="/lista-de-dieta-para-emagrecer/">listas de alimentos para uma dieta de emagrecimento</a> e sobre a <a href="/reeducacao-alimentar-para-emagrecer/">reeducação alimentar como processo gradual</a>. Se o objetivo for uma rotina mais simples, o texto sobre <a href="/dieta-simples-para-emagrecer/">dietas simples para o dia a dia</a> também pode ajudar.</p>
+<p>Aprofunde a estratégia lendo sobre <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a>, que ajudam na saciedade, e sobre a <a href="/o-que-e-gordura-visceral/">gordura visceral</a>, comum depois dos 40 anos. Se quiser reforçar a proteína da rotina, o texto sobre <a href="/proteina-mulheres-40/">proteína para mulheres acima dos 40</a> também pode ajudar.</p>
 
 <h2>Perguntas frequentes</h2>
 

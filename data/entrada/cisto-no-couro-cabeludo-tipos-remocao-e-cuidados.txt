@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: cisto no couro cabeludo
-TITLE: Cisto no couro cabeludo: tipos, remoção e cuidados
+TITLE: Cisto no couro cabeludo: tipos e cuidados
 DESCRIPTION: Cisto no couro cabeludo: tipos mais comuns, sinais que pedem avaliação, o que se sabe sobre remoção e cuidados gerais para quem tem mais de 40 anos.
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 FONTE: Manual MSD | https://www.msdmanuals.com
@@ -71,7 +71,7 @@ FOTO2_SECAO: 4
 
 <p>Como em qualquer procedimento, existem riscos, como sangramento, infecção, cicatriz e recidiva. Por isso, a escolha do profissional e a orientação antes e depois da cirurgia são etapas importantes. Não é recomendado tentar espremer ou furar o cisto em casa, pois isso aumenta a chance de infecção e de inflamação.</p>
 
-<p>Para entender melhor o contexto de outras lesões do couro cabeludo, vale ler sobre <a href="/queda-de-cabelo/">queda de cabelo</a>, já que alguns problemas do folículo podem ter sintomas parecidos. Também é útil conhecer a <a href="/dermatite-de-contato/">dermatite de contato</a>, que pode causar irritação e coceira na mesma região.</p>
+<p>Para entender melhor o contexto de outras lesões do couro cabeludo, vale ler sobre <a href="/queda-de-cabelo/">queda de cabelo</a>, já que alguns problemas do folículo podem ter sintomas parecidos. Também é útil conhecer os <a href="/sintomas-de-diabetes/">sintomas de diabetes</a>, condição que pode dificultar a cicatrização da pele.</p>
 
 <h2>Cuidados gerais com o couro cabeludo</h2>
 

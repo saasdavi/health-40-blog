@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: dieta para diabetes tipo 2
-TITLE: Dieta para diabetes tipo 2: guia prático e cardápio
+TITLE: Dieta para diabetes tipo 2: guia e cardápio
 DESCRIPTION: Dieta para diabetes tipo 2: princípios de alimentação, exemplo de cardápio com carboidratos de qualidade, cuidados com medicamentos e quando procurar o médico.
 FONTE: Sociedade Brasileira de Diabetes | https://diabetes.org.br
 FONTE: Organização Mundial da Saúde (OMS) | https://www.who.int

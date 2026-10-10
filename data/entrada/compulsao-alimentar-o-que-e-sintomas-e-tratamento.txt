@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: compulsão alimentar
-TITLE: Compulsão alimentar: o que é, sintomas e tratamento
+TITLE: Compulsão alimentar: sintomas e tratamento
 DESCRIPTION: Compulsão alimentar: o que é, sinais e sintomas mais comuns, possíveis causas, formas de tratamento com equipe de saúde e quando buscar ajuda o quanto antes.
 FONTE: Manual MSD | https://www.msdmanuals.com
 FONTE: Center for Eating and Related Disorders (UCSD) | https://chear.ucsd.edu

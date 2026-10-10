@@ -14,7 +14,7 @@ FOTO2_ALT: Enfermeira orientando cuidadora em casa sobre a administração de al
 FOTO2_LEGENDA: O treinamento da equipe é essencial para a segurança de quem recebe a dieta.
 FOTO2_SECAO: 4
 ---
-<p>Dieta enteral é a alimentação feita pelo trato digestivo, por meio de sonda ou, em alguns casos, por via oral com fórmulas específicas. Ela é indicada para pessoas que não conseguem se alimentar de forma segura ou suficiente por conta própria.</p>
+<p>A dieta enteral 1.5 é a alimentação feita pelo trato digestivo, por meio de sonda ou, em alguns casos, por via oral com fórmulas específicas. Ela é indicada para pessoas que não conseguem se alimentar de forma segura ou suficiente por conta própria.</p>
 
 <p>A fórmula 1.5 é uma das densidades calóricas disponíveis, e a escolha depende sempre de avaliação da equipe de saúde.</p>
 
@@ -96,7 +96,7 @@ FOTO2_SECAO: 4
 
 <p>Anotar horários, volumes, intercorrências e dúvidas em um caderno facilita a comunicação com os profissionais e reduz erros. Em consultas, levar esse registro ajuda a ajustar o plano com mais precisão.</p>
 
-<p>Para entender melhor o papel da nutrição na preservação da força em pessoas mais velhas, leia sobre <a href="/sarcopenia/">sarcopenia e perda de massa muscular</a>.</p>
+<p>Para entender melhor o papel da nutrição na preservação da força em pessoas mais velhas, leia sobre <a href="/proteina-mulheres-40/">proteína depois dos 40 anos</a>.</p>
 
 <p>Quando a alimentação ainda é feita pela boca e há dúvidas sobre a rotina, o texto sobre <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a> pode orientar escolhas gerais, sem substituir a prescrição.</p>
 

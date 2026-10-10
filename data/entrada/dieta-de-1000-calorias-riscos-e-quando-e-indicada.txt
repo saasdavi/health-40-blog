@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: dieta de 1000 calorias
-TITLE: Dieta de 1000 calorias: riscos e quando é indicada
+TITLE: Dieta de 1000 calorias: riscos e indicação
 DESCRIPTION: Dieta de 1000 calorias: riscos à saúde, quem precisa de acompanhamento médico, efeitos da restrição extrema e por que a decisão deve ser individual.
 FONTE: National Institutes of Health (NIH) | https://www.nih.gov
 FONTE: Nature | https://nature.com
@@ -82,9 +82,9 @@ FOTO2_SECAO: 4
 
 <p>Na prática, isso significa priorizar proteínas em cada refeição, legumes e frutas, grãos integrais e gorduras de boa qualidade, além de treinar força duas ou três vezes por semana, sempre com orientação adequada. Sono, hidratação e controle do estresse também fazem diferença.</p>
 
-<p>Se você quer entender melhor o princípio de perda de peso gradual, leia sobre <a href="/emagrecimento-saudavel/">emagrecimento saudável</a>, que explica por que a constância é mais importante do que a velocidade. Para organizar a rotina sem recorrer a restrições extremas, o texto sobre <a href="/reeducacao-alimentar-para-emagrecer/">reeducação alimentar</a> traz caminhos práticos.</p>
+<p>Se você quer entender melhor o princípio de perda de peso gradual, leia sobre <a href="/o-que-e-gordura-visceral/">gordura visceral</a>, que explica por que a constância é mais importante do que a velocidade. Para organizar a rotina sem recorrer a restrições extremas, o texto sobre <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a> traz caminhos práticos.</p>
 
-<p>Também vale conhecer o conceito de <a href="/deficit-calorico/">déficit calórico</a>, que mostra como o equilíbrio entre energia consumida e gasta influencia o peso sem a necessidade de cortes drásticos.</p>
+<p>Também vale conhecer a importância da <a href="/proteina-mulheres-40/">proteína depois dos 40 anos</a>, que mostra como a qualidade da alimentação influencia o corpo sem a necessidade de cortes drásticos.</p>
 
 <p>Ao longo de qualquer processo de perda de peso, vale acompanhar indicadores além da balança, como medidas corporais, força, disposição, qualidade do sono e exames de rotina. Essa visão ampla permite perceber rapidamente quando uma estratégia está prejudicando a saúde, mesmo que o número na balança caia.</p>
 

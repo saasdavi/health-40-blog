@@ -52,7 +52,7 @@ FOTO2_SECAO: 4
 
 <p>Na fase de perda de gordura, o volume e a intensidade do treino devem ser ajustados com cuidado, para não gerar fadiga excessiva. Atividades aeróbicas leves, como caminhadas, também ajudam no gasto de energia e na saúde cardiovascular.</p>
 
-<p>Para quem tem mais de 40 anos, a preservação muscular é ainda mais importante. Um texto sobre <a href="/sarcopenia/">a perda de massa muscular com a idade</a> ajuda a entender por que isso importa tanto nessa fase da vida.</p>
+<p>Para quem tem mais de 40 anos, a preservação muscular é ainda mais importante. Um texto sobre <a href="/proteina-mulheres-40/">proteína depois dos 40 anos</a> ajuda a entender por que isso importa tanto nessa fase da vida.</p>
 
 <h2>Suplementos e promessas de secar rápido</h2>
 
@@ -74,7 +74,7 @@ FOTO2_SECAO: 4
 
 <p>Para quem treina com frequência, a recuperação também depende de descanso entre os treinos e de uma alimentação que forneça energia suficiente. Ignorar esse equilíbrio costuma atrasar os resultados.</p>
 
-<p>Se você quer entender melhor o princípio de perda de peso gradual, leia sobre <a href="/emagrecimento-saudavel/">emagrecimento saudável</a>. Para compreender a relação entre energia consumida e gasta, vale ver o texto sobre <a href="/deficit-calorico/">déficit calórico</a>.</p>
+<p>Se você quer entender melhor o princípio de perda de peso gradual, leia sobre <a href="/o-que-e-gordura-visceral/">gordura visceral</a>. Para compreender a saciedade ao longo do dia, vale ver o texto sobre <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a>.</p>
 
 <p>Outro cuidado é observar o desempenho nos treinos. Se a força cai de uma semana para outra, se a recuperação demora mais do que o habitual ou se a vontade de treinar desaparece, o plano pode estar com energia insuficiente.</p>
 

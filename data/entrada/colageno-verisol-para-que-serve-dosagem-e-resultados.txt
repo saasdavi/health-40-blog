@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: colágeno verisol
-TITLE: Colágeno Verisol: Para Que Serve, Dosagem e Resultados
+TITLE: Colágeno Verisol: para que serve e dosagem
 DESCRIPTION: Entenda o que é o colágeno Verisol, como ele difere do colágeno hidrolisado comum, sua dosagem de 2,5 g, tempo de resultados e alternativas veganas.
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 CAPA_BUSCA: vitamin supplement capsules on table
@@ -213,6 +213,8 @@ FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
 
 <h3>5. Existe colágeno Verisol vegano?</h3>
 <p>Não. O Verisol é exclusivamente de origem animal (bovina ou suína). Para veganos, as alternativas são o CollaGEM-V (peptídeos de arroz e ervilha) ou colágeno recombinante como o PrimaColl, produzido por fermentação de precisão.</p>
+
+<p>Para ampliar a leitura, veja o texto sobre <a href="/proteina-mulheres-40/">proteína para mulheres acima dos 40</a>, que mostra como a alimentação sustenta pele e músculos. Quem nota unhas e fios fracos também pode ler sobre <a href="/queda-de-cabelo/">queda de cabelo</a> e suas possíveis causas.</p>
 
 <h2>Resumindo</h2>
 

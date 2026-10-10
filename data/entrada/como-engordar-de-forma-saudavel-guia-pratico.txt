@@ -64,9 +64,9 @@ FOTO2_SECAO: 4
 
 <p>Após os 40 anos, a massa muscular tende a diminuir naturalmente, e o treino de força ajuda a preservá-la. Caminhadas e outras atividades leves também são úteis, mas o foco principal deve ser o fortalecimento, sempre com orientação adequada.</p>
 
-<p>Para entender melhor esse processo, leia sobre <a href="/sarcopenia/">a perda de massa muscular com a idade</a>, que explica por que o treino tem papel tão importante no peso.</p>
+<p>Para entender melhor esse processo, leia sobre <a href="/proteina-mulheres-40/">a proteína na alimentação após os 40</a>, que ajuda a explicar por que o treino tem papel tão importante no peso.</p>
 
-<p>Também vale conhecer como o <a href="/idade-metabolica/">metabolismo muda ao longo dos anos</a>, já que essa mudança influencia a quantidade de energia que o corpo gasta no dia a dia.</p>
+<p>Também vale conhecer os <a href="/sintomas-de-diabetes/">sintomas de diabetes</a>, já que a perda de peso sem explicação pode ser um dos sinais que merecem avaliação médica.</p>
 
 <p>Ao começar um treino de força, a progressão deve ser gradual. Cargas leves com boa técnica, aumentadas aos poucos, respeitam o tempo de adaptação dos músculos e das articulações. Dores intensas, inchaço ou falta de ar durante o exercício são sinais para parar e procurar orientação.</p>
 

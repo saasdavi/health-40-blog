@@ -82,7 +82,7 @@ FOTO2_SECAO: 4
 
 <p>Chás não substituem água. Para a maioria das pessoas, beber água ao longo do dia continua sendo a principal forma de manter a hidratação, e chás sem açúcar podem complementar essa rotina.</p>
 
-<p>Se a intenção é usar uma erva específica, como a <a href="/cha-de-cavalinha/">cavalinha</a>, vale pesquisar o uso tradicional e os cuidados antes de começar. Para quem tem dificuldades com o sono e usa chás à noite, o texto sobre <a href="/insonia/">insônia</a> ajuda a entender outras causas que merecem atenção.</p>
+<p>Se a intenção é usar uma erva tradicionalmente associada ao inchaço, vale entender antes as causas do <a href="/inchaco-nas-pernas/">inchaço nas pernas</a> e pesquisar os cuidados necessários. Para quem tem dificuldades com o sono e usa chás à noite, o texto sobre <a href="/insonia/">insônia</a> ajuda a entender outras causas que merecem atenção.</p>
 
 <p>Também vale lembrar que o chá não substitui a consulta quando há sintomas novos. Mudanças no intestino, perda de peso sem explicação, cansaço persistente ou dor que não passa devem ser investigadas, independentemente de a pessoa estar bebendo chás ou não.</p>
 

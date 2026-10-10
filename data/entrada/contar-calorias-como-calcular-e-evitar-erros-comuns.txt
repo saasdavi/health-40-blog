@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: contar calorias
-TITLE: Contar calorias: como calcular e evitar erros comuns
+TITLE: Contar calorias: como calcular e evitar erros
 DESCRIPTION: Contar calorias: como funciona o cálculo da energia dos alimentos, os erros mais comuns ao registrar a comida e quando buscar orientação profissional.
 FONTE: Ministério da Saúde | https://www.gov.br/saude
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
@@ -73,7 +73,7 @@ FOTO2_SECAO: 4
 
 <p>Fatores como idade, massa muscular, sono, nível de atividade física, hormônios e medicamentos alteram o gasto de energia. Por isso, estimativas genéricas podem ser pouco precisas para algumas pessoas, especialmente depois dos 40 anos.</p>
 
-<p>Se você quer entender melhor como essa lógica funciona, vale ler sobre o <a href="/deficit-calorico/">déficit calórico</a>, que explica o princípio do emagrecimento gradual e os cuidados que o acompanham.</p>
+<p>Se você quer entender melhor como essa lógica funciona, vale ler sobre os <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a>, que ajudam na saciedade e no controle gradual do peso.</p>
 
 <p>Alimentos industrializados trazem uma vantagem: o rótulo costuma ser padronizado. Mesmo assim, é preciso atenção ao tamanho da porção indicado, que pode ser diferente do que a pessoa costuma servir. Em alimentos a granel, como grãos, castanhas e frutas secas, a pesagem é ainda mais importante, porque o volume engana.</p>
 
@@ -83,7 +83,7 @@ FOTO2_SECAO: 4
 
 <p>Existem aplicativos, planilhas e tabelas de composição de alimentos. Vale priorizar fontes ligadas a instituições de saúde ou a universidades, que costumam indicar a origem dos dados e a forma de medição. Materiais que não citam fontes merecem cautela.</p>
 
-<p>Para comparar alimentos do dia a dia, a <a href="/tabela-de-calorias-dos-alimentos/">tabela de calorias dos alimentos</a> é um bom ponto de partida. Quem prefere fazer o cálculo por conta própria pode conferir também a proposta do <a href="/calcular-tabela-nutricional-online-gratis/">cálculo da tabela nutricional</a>, sempre checando a origem dos números.</p>
+<p>Para comparar alimentos do dia a dia, o texto sobre <a href="/proteina-mulheres-40/">proteína para mulheres acima dos 40</a> é um bom ponto de partida para planejar porções. Quem prefere fazer o cálculo por conta própria deve sempre checar a origem dos números.</p>
 
 <p>Independentemente da ferramenta, a regra é a mesma: usar dados consistentes, medir sempre que possível e revisar o registro com um profissional quando houver dúvida.</p>
 

@@ -66,7 +66,7 @@ FOTO2_SECAO: 4
 
 <p>Na secagem, evite torcer os fios com força e não passe a toalha esfregando. Prefira envolver o cabelo e pressionar levemente. O secador deve ficar a uma distância segura e em temperatura moderada, sempre que possível.</p>
 
-<p>Para ampliar a leitura sobre a saúde do couro cabeludo, veja o texto sobre <a href="/queda-de-cabelo/">queda de cabelo</a>, que aborda fatores que vão além da lavagem. Se houver coceira ou vermelhidão constante, o artigo sobre <a href="/dermatite-de-contato/">dermatite de contato</a> ajuda a entender possíveis causas.</p>
+<p>Para ampliar a leitura sobre a saúde do couro cabeludo, veja o texto sobre <a href="/queda-de-cabelo/">queda de cabelo</a>, que aborda fatores que vão além da lavagem. Se os fios estão fracos, o artigo sobre <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a> ajuda a entender o papel da alimentação.</p>
 
 <p>Uma dica prática é lavar os cabelos com as mãos em posição de apoio, deixando a água escorrer da raiz às pontas. Essa direção ajuda a retirar o produto sem empurrá-lo para o comprimento, onde ele pode ressecar.</p>
 

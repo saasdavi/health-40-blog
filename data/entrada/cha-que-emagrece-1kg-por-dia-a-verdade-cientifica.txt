@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: chá que emagrece 1kg por dia
-TITLE: Chá que emagrece 1kg por dia: o que dizem as evidências
+TITLE: Chá que emagrece 1kg por dia: evidências
 DESCRIPTION: Chá que emagrece 1kg por dia? Veja o que a ciência mostra sobre chás e perda de peso, os riscos das promessas rápidas e como emagrecer com segurança.
 FONTE: Hospital São Camilo | https://hospitalsaocamilosp.org.br
 FONTE: Governo Federal | https://www.gov.br
@@ -73,7 +73,7 @@ FOTO2_SECAO: 4
 
 <p>Também é útil identificar a origem dos hábitos que mais pesam na rotina, como lanches da tarde, refrigerantes e porções grandes à noite. Pequenos ajustes nesses pontos têm mais impacto do que a troca de uma bebida por outra.</p>
 
-<p>Para ampliar a visão sobre o tema, leia o texto sobre <a href="/emagrecimento-saudavel/">emagrecimento saudável</a> e entenda por que a perda de peso precisa ser gradual. Também vale conhecer o conceito de <a href="/deficit-calorico/">déficit calórico</a>, que explica como o corpo usa a energia.</p>
+<p>Para ampliar a visão sobre o tema, leia o texto sobre <a href="/o-que-e-gordura-visceral/">gordura visceral</a> e entenda por que a perda de peso precisa ser gradual. Também vale conhecer os <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a>, que aumentam a saciedade sem promessas rápidas.</p>
 
 <p>Vale lembrar que tomar chá não é um problema em si. Muitas pessoas gostam do ritual e encontram conforto em uma xícara quente no fim do dia.</p>
 

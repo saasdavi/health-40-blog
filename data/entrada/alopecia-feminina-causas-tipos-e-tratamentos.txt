@@ -15,10 +15,12 @@ FOTO2_ALT: Consulta com dermatologista, com mulher sentada e profissional analis
 FOTO2_LEGENDA: Uma consulta especializada ajuda a separar as causas e definir o melhor caminho.
 FOTO2_SECAO: 4
 ---
-<p>A alopecia feminina é a perda de cabelo progressiva ou difusa que afeta mulheres em diferentes idades, com destaque para o período após os 40 anos. Ela pode ter causas hormonais, genéticas, inflamatórias ou ligadas a outros fatores de saúde. Entender o tipo de queda é o primeiro passo para escolher um tratamento. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+<p>A alopecia feminina é a perda de cabelo progressiva ou difusa, com destaque após os 40 anos. Entender o tipo de queda é o primeiro passo para escolher o tratamento. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+<p>Ela pode ter causas hormonais, genéticas, inflamatórias ou ligadas a outros fatores de saúde.</p>
 
 <h2>O que caracteriza a alopecia feminina?</h2>
-<p>Diferente da queda em placas, a alopecia feminina costuma avançar de forma gradual. O cabelo fica mais fino, a linha de divisão se alarga e a densidade diminui, principalmente na região do alto da cabeça. Muitas mulheres percebem a mudança ao observar o couro cabeludo em fotos ou no momento de prender o cabelo.</p>
+<p>Diferente da queda em placas, a alopecia feminina costuma avançar de forma gradual. O cabelo fica mais fino, a linha de divisão se alarga e a densidade diminui, principalmente na região do alto da cabeça.</p>
+<p>Muitas mulheres percebem a mudança ao observar o couro cabeludo em fotos ou no momento de prender o cabelo.</p>
 <p>Esse padrão não significa, por si só, que a causa seja grave. Ele pode estar relacionado a fatores comuns, como alterações hormonais, mas também exige investigação para descartar outras condições.</p>
 
 <h2>Quais são as principais causas?</h2>
@@ -33,32 +35,43 @@ FOTO2_SECAO: 4
 <p>Medicamentos e tratamentos químicos agressivos também podem estar envolvidos em alguns casos, e o histórico precisa ser contado com detalhes ao médico.</p>
 
 <h2>Quais tipos de queda são mais comuns?</h2>
-<p>Além da queda de padrão androgenético, que é a mais conhecida, existem outros tipos. O efluvio telógeno costuma ser difuso e temporário, enquanto a alopecia areata, de origem imunológica, aparece em falhas localizadas. Há ainda casos inflamatórios, que deixam a pele irritada, com descamação ou dor. Cada tipo exige uma abordagem diferente, por isso o diagnóstico correto faz toda a diferença.</p>
+<p>Além da queda de padrão androgenético, que é a mais conhecida, existem outros tipos. O efluvio telógeno costuma ser difuso e temporário, enquanto a alopecia areata, de origem imunológica, aparece em falhas localizadas.</p>
+<p>Há ainda casos inflamatórios, que deixam a pele irritada, com descamação ou dor. Cada tipo exige uma abordagem diferente, por isso o diagnóstico correto faz toda a diferença.</p>
 <p>Para uma visão geral das causas mais comuns de queda, veja a página sobre <a href="/queda-de-cabelo/">queda de cabelo</a>.</p>
 
 <h2>Como o diagnóstico é feito?</h2>
-<p>O dermatologista costuma começar pela história clínica, perguntando sobre a época de início, a velocidade da queda, medicamentos em uso, gestações, dieta, rotina e doenças prévias. Depois vem o exame do couro cabeludo, que pode incluir tricoscopia, um recurso que amplia a visão dos fios. Em alguns casos, são pedidos exames de sangue para checar ferritina, hormônios da tireoide, vitamina D e outros marcadores.</p>
+<p>O dermatologista costuma começar pela história clínica, perguntando sobre a época de início, a velocidade da queda, medicamentos em uso, gestações, dieta, rotina e doenças prévias. Depois vem o exame do couro cabeludo, que pode incluir tricoscopia, um recurso que amplia a visão dos fios.</p>
+<p>Em alguns casos, são pedidos exames de sangue para checar ferritina, hormônios da tireoide, vitamina D e outros marcadores.</p>
 <p>A biópsia do couro cabeludo é reservada para situações específicas, quando o quadro não está claro. A decisão é do profissional.</p>
 
 <h2>Quais tratamentos são discutidos?</h2>
-<p>O tratamento depende da causa, da intensidade da queda e das expectativas da paciente. Entre as opções discutidas na literatura estão medicamentos tópicos, como o minoxidil, que pertence à classe de tratamentos para queda de cabelo e precisa de orientação do médico sobre uso e tempo de resposta. Em alguns casos, o dermatologista pode considerar tratamentos hormonais ou outras terapias, sempre com avaliação de riscos e contraindicações.</p>
+<p>O tratamento depende da causa, da intensidade da queda e das expectativas da paciente.</p>
+<p>Entre as opções discutidas na literatura estão medicamentos tópicos, como o minoxidil, que pertence à classe de tratamentos para queda de cabelo e precisa de orientação do médico sobre uso e tempo de resposta.</p>
+<p>Em alguns casos, o dermatologista pode considerar tratamentos hormonais ou outras terapias, sempre com avaliação de riscos e contraindicações.</p>
 <p>Procedimentos estéticos e tratamentos com laser ou plasma também aparecem em discussões, mas a evidência varia e a indicação deve ser individual. Nenhum tratamento deve ser iniciado sem conversa com o profissional, e é normal que a resposta leve meses para aparecer.</p>
 
 <h2>Quais cuidados podem ajudar no dia a dia?</h2>
-<p>Algumas medidas ajudam a proteger os fios enquanto a causa é investigada. Evitar tração forte, como rabos de cabelo muito apertados, reduzir o uso de calor intenso e secadores em temperatura alta e escolher produtos suaves são práticas simples. Uma alimentação equilibrada, com proteínas, ferro e vitaminas, também contribui para a saúde geral do cabelo.</p>
+<p>Algumas medidas ajudam a proteger os fios enquanto a causa é investigada. Evitar tração forte, como rabos de cabelo muito apertados, reduzir o uso de calor intenso e secadores em temperatura alta e escolher produtos suaves são práticas simples.</p>
+<p>Uma alimentação equilibrada, com proteínas, ferro e vitaminas, também contribui para a saúde geral do cabelo.</p>
 <p>Atenção a produtos que prometem resultados rápidos. Muitos não têm comprovação científica, e alguns podem irritar o couro cabeludo.</p>
 
 <h2>Como a menopausa se relaciona com a queda?</h2>
-<p>Na transição para a menopausa, a queda de estrogênio pode afetar o ciclo dos fios, deixando-os mais finos e com crescimento mais lento. Esse processo costuma ser gradual e aparece junto de outras mudanças, como alterações no sono e na pele. Para entender esse período com mais clareza, consulte o texto sobre <a href="/menopausa/">menopausa</a>.</p>
+<p>Na transição para a menopausa, a queda de estrogênio pode afetar o ciclo dos fios, deixando-os mais finos e com crescimento mais lento. Esse processo costuma ser gradual e aparece junto de outras mudanças, como alterações no sono e na pele.</p>
+<p>Para entender esse período com mais clareza, consulte o texto sobre menopausa.</p>
 <p>Mesmo quando a menopausa é o contexto, é importante investigar outras causas, porque a queda pode ter mais de uma origem.</p>
 
 <h2>Como a alimentação e o sono entram na conversa com o médico?</h2>
-<p>Muitas mulheres chegam ao consultório preocupadas com a alimentação e querem saber se estão comendo o suficiente para manter o cabelo saudável. A resposta depende do conjunto da rotina. Uma dieta muito restritiva, que corta grupos inteiros de alimentos ou reduz muito a ingestão de proteínas, pode contribuir para a queda temporária. Já uma alimentação variada, com proteínas, leguminosas, verduras e fontes de ferro, costuma sustentar melhor a saúde dos fios.</p>
-<p>O sono também merece atenção. Noites mal dormidas, despertares frequentes e sono fragmentado podem afetar o humor, a disposição e a regulação hormonal. Quem tem dificuldade para dormir pode se beneficiar de uma avaliação, já que o sono ruim costuma acompanhar a queda de cabelo e outras queixas típicas do período de transição. Para entender melhor esse ponto, o texto sobre <a href="/insonia/">insônia</a> é um bom complemento.</p>
-<p>Ao relatar sua rotina, seja detalhada: conte sobre mudanças de peso, uso de dietas, prática de exercícios, medicamentos e suplementos, além de períodos intensos de estresse. Essas informações ajudam o profissional a separar fatores que podem ser ajustados de causas que exigem tratamento específico. Quanto mais completo for o relato, mais precisa tende a ser a orientação.</p>
+<p>Muitas mulheres chegam ao consultório preocupadas com a alimentação e querem saber se estão comendo o suficiente para manter o cabelo saudável. A resposta depende do conjunto da rotina.</p>
+<p>Uma dieta muito restritiva, que corta grupos inteiros de alimentos ou reduz muito a ingestão de proteínas, pode contribuir para a queda temporária. Já uma alimentação variada, com proteínas, leguminosas, verduras e fontes de ferro, costuma sustentar melhor a saúde dos fios.</p>
+<p>O sono também merece atenção. Noites mal dormidas, despertares frequentes e sono fragmentado podem afetar o humor, a disposição e a regulação hormonal.</p>
+<p>Quem tem dificuldade para dormir pode se beneficiar de uma avaliação, já que o sono ruim costuma acompanhar a queda de cabelo e outras queixas típicas do período de transição. Para entender melhor esse ponto, o texto sobre <a href="/insonia/">insônia</a> é um bom complemento.</p>
+<p>Ao relatar sua rotina, seja detalhada: conte sobre mudanças de peso, uso de dietas, prática de exercícios, medicamentos e suplementos, além de períodos intensos de estresse. Essas informações ajudam o profissional a separar fatores que podem ser ajustados de causas que exigem tratamento específico.</p>
+<p>Quanto mais completo for o relato, mais precisa tende a ser a orientação.</p>
 
-<p>Outro aspecto que costuma passar despercebido é o impacto da queda na vida social e profissional. Muitas mulheres evitam prender o cabelo, mudam penteados e deixam de frequentar determinados ambientes por insegurança. Reconhecer esse efeito e conversar sobre ele com o médico ou com um psicólogo é parte do cuidado, e não um detalhe secundário.</p>
-<p>Também vale lembrar que a evolução da queda muda ao longo do tempo. Em uma fase, o quadro pode estacionar; em outra, voltar a piorar. Por isso, o acompanhamento não termina quando um tratamento começa. Um retorno periódico permite ajustar a conduta, avaliar efeitos e revisar a estratégia de forma segura.</p>
+<p>Outro aspecto que costuma passar despercebido é o impacto da queda na vida social e profissional. Muitas mulheres evitam prender o cabelo, mudam penteados e deixam de frequentar determinados ambientes por insegurança.</p>
+<p>Reconhecer esse efeito e conversar sobre ele com o médico ou com um psicólogo é parte do cuidado, e não um detalhe secundário.</p>
+<p>Também vale lembrar que a evolução da queda muda ao longo do tempo. Em uma fase, o quadro pode estacionar; em outra, voltar a piorar. Por isso, o acompanhamento não termina quando um tratamento começa.</p>
+<p>Um retorno periódico permite ajustar a conduta, avaliar efeitos e revisar a estratégia de forma segura.</p>
 <p>Em resumo, a alopecia feminina merece uma abordagem completa, que una avaliação clínica, exames quando necessários, cuidados com os fios e orientação sobre expectativas. Quanto mais cedo a investigação começa, mais chances existem de identificar fatores que podem ser corrigidos.</p>
 
 <h2>Perguntas frequentes</h2>
