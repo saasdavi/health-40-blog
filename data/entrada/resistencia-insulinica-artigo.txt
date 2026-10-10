@@ -1,5 +1,5 @@
-PALAVRA_CHAVE: resistencia-insulinica-artigo
-TITLE: Resistência Insulínica: Sintomas, Causas e Cuidados
+PALAVRA_CHAVE: resistência insulínica
+TITLE: Resistência Insulínica: Sintomas e Cuidados
 DESCRIPTION: Resistência insulínica: entenda o que é, quais fatores favorecem esse quadro, como ele é investigado e quais cuidados ajudam a prevenir o diabetes.
 FONTE: National Institutes of Health (NIH) | https://www.nih.gov
 FONTE: Diretriz da Sociedade Brasileira de Diabetes | https://diretriz.diabetes.org.br
@@ -15,7 +15,7 @@ FOTO2_ALT: Homem caminhando em parque, atividade física que favorece a sensibil
 FOTO2_LEGENDA: Movimento regular ajuda o corpo a usar a insulina com mais eficiência
 FOTO2_SECAO: 4
 ---
-<p>A resistência insulínica acontece quando as células do corpo respondem menos ao hormônio insulina, que é responsável por levar a glicose do sangue para dentro delas. Para compensar, o pâncreas passa a produzir mais insulina, e isso pode durar anos sem sintomas evidentes. Entender o que é resistência insulínica, quais fatores favorecem esse quadro e como ele é investigado ajuda a agir cedo, quando as mudanças ainda são mais fáceis de reverter.</p>
+<p>A resistência insulínica acontece quando as células respondem menos ao hormônio insulina, que leva a glicose do sangue para dentro delas. O pâncreas passa a produzir mais insulina, e isso pode durar anos sem sintomas. Entender o quadro ajuda a agir cedo.</p>
 
 <h2>O que acontece no corpo na resistência insulínica</h2>
 <p>A insulina é produzida pelo pâncreas e atua como uma chave que permite a entrada de glicose nas células de músculos, fígado e gordura.</p>

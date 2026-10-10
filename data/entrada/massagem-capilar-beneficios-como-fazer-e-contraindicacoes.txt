@@ -1,5 +1,5 @@
-PALAVRA_CHAVE: Massagem Capilar  Benefícios, Como Fazer e Contraindicações.html
-TITLE: Massagem Capilar: Benefícios, Como Fazer e Contraindicações
+PALAVRA_CHAVE: massagem capilar
+TITLE: Massagem Capilar: Benefícios e Contraindicações
 DESCRIPTION: Veja os benefícios da massagem capilar, um passo a passo simples para fazer em casa e as contraindicações que pedem cuidado ou avaliação dermatológica.
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
@@ -14,7 +14,8 @@ FOTO2_ALT: Dermatologista examinando o couro cabeludo antes de indicar cuidados
 FOTO2_LEGENDA: Feridas, coceiras e descamações no couro cabeludo merecem avaliação.
 FOTO2_SECAO: 4
 ---
-<p>A massagem capilar é uma prática simples, feita com as pontas dos dedos sobre o couro cabeludo, que muitas pessoas usam para relaxar e cuidar dos fios. Ela pode proporcionar bem-estar e uma sensação de alívio da tensão. Este texto reúne os possíveis benefícios, um passo a passo básico e as contraindicações que exigem cuidado.</p>
+<p>A massagem capilar é uma prática simples, feita com as pontas dos dedos sobre o couro cabeludo, que muitas pessoas usam para relaxar e cuidar dos fios. Ela pode proporcionar bem-estar e uma sensação de alívio da tensão.</p>
+<p>Este texto reúne os possíveis benefícios, um passo a passo básico e as contraindicações que exigem cuidado.</p>
 
 <h2>Benefícios da massagem capilar</h2>
 <p>O principal benefício percebido é o relaxamento. Ao massagear a região, a pessoa tende a reduzir a tensão muscular do pescoço e dos ombros e a desacelerar a respiração, o que contribui para uma sensação de calma.</p>
@@ -57,7 +58,8 @@ FOTO2_SECAO: 4
 <li><strong>Dor, inchaço ou sensibilidade</strong> após procedimentos estéticos ou cirúrgicos.</li>
 <li><strong>Pressão muito alta ou condições circulatórias</strong>, sobretudo se a massagem for vigorosa.</li>
 </ul>
-<p>Nesses casos, o toque forte pode piorar a irritação ou espalhar a infecção. Para entender reações de contato a produtos usados no couro cabeludo, veja <a href="/dermatite-de-contato/">dermatite de contato</a>. A orientação de um dermatologista é o caminho mais seguro.</p>
+<p>Nesses casos, o toque forte pode piorar a irritação ou espalhar a infecção.</p>
+<p>Se houver reação a algum produto usado no couro cabeludo, suspenda o uso. Para quem usa a prática para relaxar, o texto sobre <a href="/como-controlar-a-ansiedade/">como controlar a ansiedade</a> traz outras ideias. A orientação de um dermatologista é o caminho mais seguro.</p>
 
 <p>A pele do couro cabeludo é sensível e coberta por fios que podem prender sujeira e oleosidade. Por isso, a massagem deve ser feita com as mãos limpas e, se houver produto, com quantidade pequena.</p>
 <p>Evite pressionar com as unhas, esfregar com força ou usar pentes e escovas duras logo após a massagem, sobretudo se o couro cabeludo estiver avermelhado ou sensível.</p>

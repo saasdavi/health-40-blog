@@ -1,6 +1,6 @@
 PALAVRA_CHAVE: marmita fitness cardápio semanal
 TITLE: Marmita Fitness Cardápio Semanal: Guia Prático
-DESCRIPTION: Monte um cardápio semanal de marmitas equilibradas, com dicas de preparo, armazenamento seguro e congelamento para facilitar a rotina alimentar.
+DESCRIPTION: Monte sua marmita fitness cardápio semanal com refeições equilibradas, dicas de preparo, armazenamento seguro e congelamento para facilitar a rotina.
 FONTE: Governo Federal | https://www.gov.br
 FONTE: panelaaberta.unifesp.br | https://panelaaberta.unifesp.br
 CAPA_BUSCA: meal prep containers vegetables
@@ -14,7 +14,8 @@ FOTO2_ALT: Marmitas organizadas na geladeira, armazenamento seguro de alimentos
 FOTO2_LEGENDA: Refrigeração correta é parte essencial da segurança das marmitas.
 FOTO2_SECAO: 4
 ---
-<p>Uma marmita fitness cardápio semanal bem planejado ajuda a manter a alimentação equilibrada mesmo com uma rotina corrida. Organizar as refeições com antecedência reduz compras por impulso e pedidos de delivery. Este guia mostra como montar o cardápio, preparar os alimentos com segurança e escolher combinações variadas ao longo dos dias.</p>
+<p>Uma marmita fitness cardápio semanal bem planejado ajuda a manter a alimentação equilibrada mesmo com uma rotina corrida. Organizar as refeições com antecedência reduz compras por impulso e pedidos de delivery.</p>
+<p>Este guia mostra como montar o cardápio, preparar os alimentos com segurança e escolher combinações variadas ao longo dos dias.</p>
 
 <h2>Por que organizar o cardápio da semana</h2>
 <p>Planejar as refeições evita escolhas apressadas, que costumam ser menos equilibradas. Com um cardápio definido, a lista de compras fica mais objetiva e há menos desperdício de alimentos.</p>
@@ -70,7 +71,8 @@ FOTO2_SECAO: 4
 
 <h2>Erros comuns no planejamento</h2>
 <p>Alguns hábitos atrapalham o resultado. O primeiro é cozinhar muita comida de uma só vez sem armazenamento adequado. O segundo é repetir a mesma combinação por dias seguidos, o que pode levar ao abandono do plano. O terceiro é cortar grupos inteiros de alimentos sem orientação.</p>
-<p>Se a rotina estiver muito restritiva, procure ajustar o plano antes de desistir. Pequenas mudanças costumam ser mais sustentáveis. Para os intervalos entre as refeições, as sugestões de <a href="/lanches-saudaveis/">lanches saudáveis</a> ajudam a evitar fome excessiva, e a <a href="/reeducacao-alimentar-para-emagrecer/">reeducação alimentar</a> oferece uma visão geral de hábitos que sustentam a mudança.</p>
+<p>Se a rotina estiver muito restritiva, procure ajustar o plano antes de desistir. Pequenas mudanças costumam ser mais sustentáveis.</p>
+<p>Para os intervalos entre as refeições, a lista de <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a> ajuda a evitar fome excessiva, e o texto sobre <a href="/proteina-mulheres-40/">proteína para mulheres 40+</a> oferece uma visão geral de hábitos que sustentam a mudança.</p>
 
 <p>Temperos naturais, como ervas frescas, alho, cebola, limão e especiarias, deixam as marmitas mais saborosas sem excesso de sal ou molhos industrializados, que costumam trazer muito sódio e açúcar escondido.</p>
 <p>Ao trocar ingredientes ao longo da semana, mantenha a lógica do prato equilibrado. Trocar frango por ovo, ou arroz por batata-doce, muda o sabor e preserva o conjunto nutricional.</p>

@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: suplemento contribui para a perda de gordura
-TITLE: Suplemento Contribui para a Perda de Gordura? Evidências
+TITLE: Suplemento Contribui para a Perda de Gordura?
 DESCRIPTION: Suplemento contribui para a perda de gordura? Veja o que as evidências dizem, os riscos dos estimulantes e o papel da alimentação.
 FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
 FONTE: Governo Federal | https://www.gov.br
@@ -78,7 +78,7 @@ FOTO2_SECAO: 4
 
 <p>Para quem está começando, um bom ponto de partida é observar a rotina por uma ou duas semanas, anotando refeições, horas de sono e frequência de movimento. Esse levantamento simples mostra onde estão as maiores lacunas e orienta mudanças realistas.</p>
 
-<p>Para entender melhor o tema, veja <a href="/emagrecimento-saudavel/">o guia sobre emagrecimento saudável</a> e <a href="/deficit-calorico/">a explicação sobre déficit calórico</a>, dois pontos de partida que ajudam a separar o que tem base científica do que é apenas marketing.</p>
+<p>Para entender melhor o tema, veja <a href="/o-que-e-gordura-visceral/">o guia sobre gordura visceral</a> e <a href="/alimentos-ricos-em-fibras/">a lista de alimentos ricos em fibras</a>, dois pontos de partida que ajudam a separar o que tem base científica do que é apenas marketing.</p>
 
 <h2>Perguntas frequentes</h2>
 

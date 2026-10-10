@@ -1,6 +1,6 @@
-PALAVRA_CHAVE: Minoxidil Solução Capilar Como Usar e Efeitos.html
+PALAVRA_CHAVE: minoxidil solução capilar
 TITLE: Minoxidil Solução Capilar: Como Usar e Efeitos
-DESCRIPTION: Entenda como funciona a solução capilar de minoxidil, o que esperar do uso, os efeitos colaterais possíveis e quando consultar um dermatologista.
+DESCRIPTION: Entenda como funciona o minoxidil solução capilar, o que esperar do uso, os efeitos colaterais possíveis e quando consultar um dermatologista.
 FONTE: PubMed Central (NIH) | https://pmc.ncbi.nlm.nih.gov
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: Governo Federal | https://www.gov.br
@@ -15,7 +15,8 @@ FOTO2_ALT: Pente com fios de cabelo sobre a mesa, queda de cabelo em acompanhame
 FOTO2_LEGENDA: O acompanhamento mostra a evolução ao longo de meses.
 FOTO2_SECAO: 4
 ---
-<p>A solução capilar de minoxidil é um dos tratamentos mais estudados para queda de cabelo de padrão androgenético, em homens e mulheres. Ela é usada sobre o couro cabeludo e exige paciência, orientação e acompanhamento. Este texto explica o que se sabe sobre o minoxidil, como ele costuma ser usado, quais efeitos observar e quando procurar um médico.</p>
+<p>A minoxidil solução capilar é um dos tratamentos mais estudados para queda de cabelo de padrão androgenético, em homens e mulheres. Ela é usada sobre o couro cabeludo e exige paciência, orientação e acompanhamento.</p>
+<p>Este texto explica o que se sabe sobre o minoxidil, como ele costuma ser usado, quais efeitos observar e quando procurar um médico.</p>
 
 <h2>O que é o minoxidil e como ele age</h2>
 <p>O minoxidil é uma substância originalmente desenvolvida para o controle da pressão arterial. Ao ser aplicado no couro cabeludo, ele parece prolongar a fase de crescimento do fio e aumentar o diâmetro dos cabelos, embora o mecanismo exato ainda não esteja totalmente esclarecido.</p>
@@ -62,7 +63,7 @@ FOTO2_SECAO: 4
 
 <h2>Quem deve ter mais cuidado</h2>
 <p>O minoxidil não é indicado para crianças, e a gestação e a amamentação exigem avaliação médica específica. Pessoas com problemas cardíacos, pressão baixa, alterações de pressão, doença renal ou que usam medicamentos para a pressão devem conversar com o médico antes de começar.</p>
-<p>Também é importante informar se a queda é súbita, se há coceira intensa ou se surgiram falhas em placas, pois esses quadros podem ter outra origem. A falta de ferro, por exemplo, também pode provocar queda, e os <a href="/ferro-baixo-sintomas/">sintomas de ferro baixo</a> ajudam a reconhecer esse quadro.</p>
+<p>Também é importante informar se a queda é súbita, se há coceira intensa ou se surgiram falhas em placas, pois esses quadros podem ter outra origem. A falta de ferro, por exemplo, também pode provocar queda, e a lista de <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a> ajuda a planejar a alimentação.</p>
 
 <p>Ao longo do tratamento, anote a data de cada consulta, eventuais irritações e a percepção de queda. Essas informações ajudam o médico a ajustar o plano sem depender apenas da memória.</p>
 <p>Se o tratamento for interrompido por qualquer motivo, converse com o profissional antes de recomeçar, porque a retomada pode exigir nova avaliação e uma adaptação gradual.</p>

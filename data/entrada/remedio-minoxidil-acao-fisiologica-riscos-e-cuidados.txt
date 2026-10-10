@@ -15,7 +15,7 @@ FOTO2_ALT: Farmacêutico lendo a bula de um medicamento, etapa importante ao ent
 FOTO2_LEGENDA: A bula reúne advertências, contraindicações e orientações de uso
 FOTO2_SECAO: 4
 ---
-<p>O minoxidil é um dos medicamentos mais conhecidos para o tratamento da queda de cabelo de origem androgenética, e costuma ser procurado como remédio minoxidil em buscas e conversas. Ele existe em formas de uso local e, em situações específicas, em formas orais prescritas por médicos. Entender como essa classe atua, quais riscos merecem atenção e por que o uso precisa de orientação ajuda a evitar decisões por conta própria.</p>
+<p>O minoxidil é um dos medicamentos mais conhecidos para a queda de cabelo de origem androgenética, e muita gente o procura como remédio minoxidil. Existe em formas de uso local e, em situações específicas, oral, prescrita por médicos. O uso exige orientação.</p>
 
 <h2>O que é o minoxidil e para que é usado</h2>
 <p>O minoxidil pertence ao grupo dos vasodilatadores, medicamentos que ampliam os vasos sanguíneos. Ele foi inicialmente estudado para tratar pressão alta e, ao longo do tempo, passou a ser utilizado na queda de cabelo, após a observação de crescimento de pelos em algumas pessoas.</p>
@@ -57,9 +57,9 @@ FOTO2_SECAO: 4
 
 <h2>Por que nem toda queda é tratada com o mesmo remédio</h2>
 <p>A queda de cabelo pode ter causas variadas, como alterações da tireoide, carências nutricionais, estresse e fatores hormonais. Um medicamento que atua bem em uma causa pode não ter efeito em outra, e pode até atrasar o diagnóstico correto.</p>
-<p>Alterações hormonais, por exemplo, exigem investigação própria. Um exemplo é o hipotireoidismo, cujos sinais merecem avaliação, como mostra o texto sobre <a href="/hipotireoidismo-sintomas/">sintomas de hipotireoidismo</a>.</p>
+<p>Alterações hormonais, por exemplo, exigem investigação própria. Um exemplo é a falta de ferro, tema do texto sobre <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a>.</p>
 <p>Na transição menopausal, a queda pode ter componente hormonal e exigir conversa com o médico sobre as opções disponíveis.</p>
-<p>Nesse contexto, a avaliação costuma incluir o histórico completo da paciente, incluindo outras condições e medicamentos em uso, antes de qualquer proposta de tratamento. Saiba mais sobre o período em <a href="/o-que-e-menopausa/">o que é menopausa</a>.</p>
+<p>Nesse contexto, a avaliação costuma incluir o histórico completo da paciente, incluindo outras condições e medicamentos em uso, antes de qualquer proposta de tratamento. Saiba mais sobre o período em <a href="/o-que-e-perimenopausa/">o que é perimenopausa</a>.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>O remédio minoxidil faz o cabelo crescer rápido?</strong><br>Não. Os efeitos costumam levar meses e variam bastante de uma pessoa para outra.</p>

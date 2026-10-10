@@ -1,6 +1,6 @@
 PALAVRA_CHAVE: magnésio dimalato efeitos colaterais
-TITLE: Magnésio Dimalato Efeitos Colaterais: Rins e Interações
-DESCRIPTION: Veja os possíveis efeitos colaterais do magnésio dimalato, a relação com os rins, as interações com medicamentos e quando procurar orientação médica.
+TITLE: Magnésio Dimalato Efeitos Colaterais e Rins
+DESCRIPTION: Magnésio dimalato efeitos colaterais: veja os riscos para os rins, as interações com medicamentos e quando procurar orientação médica.
 FONTE: Hospital Sírio-Libanês | https://hospitalsiriolibanes.org.br
 FONTE: tandfonline.com | https://tandfonline.com
 CAPA_BUSCA: magnesium tablets glass water
@@ -40,7 +40,7 @@ FOTO2_SECAO: 4
 <p>Os rins são responsáveis por eliminar o excesso de magnésio. Quando a função renal está reduzida, o mineral pode se acumular no sangue, e esse acúmulo está associado a problemas sérios.</p>
 <p>Por isso, pessoas com doença renal crônica, ou com exames alterados de creatinina e filtração, precisam de avaliação médica antes de usar qualquer suplemento de magnésio.</p>
 <p>Quem já teve cálculo renal também deve conversar com o médico. A decisão considera o histórico, os exames recentes e a necessidade real do mineral.</p>
-<p>Para entender melhor o papel do mineral no organismo, vale a leitura sobre <a href="/magnesio/">magnésio e suas funções</a>, que explica a diferença entre a presença do mineral na alimentação e o uso de suplementos.</p>
+<p>Para entender melhor o papel do mineral no organismo, vale a leitura sobre <a href="/barriga-inchada/">barriga inchada</a>, que ajuda a diferenciar desconfortos digestivos comuns de sinais que pedem avaliação.</p>
 
 <h2>Interações com medicamentos</h2>
 <p>O magnésio pode reduzir a absorção de algumas classes de medicamentos quando tomado no mesmo horário. Entre elas estão alguns antibióticos, certos medicamentos para osteoporose e a levotiroxina, usada na reposição da tireoide.</p>
@@ -60,7 +60,7 @@ FOTO2_SECAO: 4
 <h2>Quem deve ter mais cuidado</h2>
 <p>Algumas condições pedem atenção redobrada. Além da função renal reduzida, a gestação e a amamentação exigem avaliação individual.</p>
 <p>Pessoas idosas também devem ter cuidado, já que a função renal tende a diminuir com a idade, e a eliminação do mineral pode ficar mais lenta sem que a pessoa perceba.</p>
-<p>Em pacientes com pressão alta, sinais de descontrole merecem acompanhamento. Você pode conhecer mais em <a href="/pressao-alta-sintomas/">sinais de pressão alta</a>, sem que isso signifique indicação do suplemento.</p>
+<p>Quem acompanha exames de rotina deve manter as consultas em dia. Você pode conhecer mais em <a href="/colesterol-depois-dos-40/">colesterol depois dos 40</a>, sem que isso signifique indicação do suplemento.</p>
 
 <p>Crianças e adolescentes também precisam de orientação específica, já que doses adequadas para adultos não devem ser transferidas automaticamente para essa faixa etária.</p>
 <p>Quem pratica exercícios intensos deve lembrar que suor e perdas de eletrólitos mudam a necessidade diária, o que torna a escolha de qualquer suplemento uma decisão que vale discutir com um profissional.</p>

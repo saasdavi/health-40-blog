@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: maca peruana
-TITLE: Maca Peruana: O Que É, Usos e Cuidados Importantes
+TITLE: Maca Peruana: O Que É e Quais Cuidados Ter
 DESCRIPTION: Saiba o que é a maca peruana, o que a ciência ainda investiga sobre ela, quais cuidados tomar antes de usar e quando consultar um médico.
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 FONTE: Governo Federal / Anvisa | https://www.gov.br
@@ -40,7 +40,7 @@ FOTO2_SECAO: 4
 <p>Consumir a raiz como parte de uma dieta variada é diferente de usar um suplemento concentrado. No primeiro caso, a quantidade costuma ser pequena e acompanhada de outros alimentos.</p>
 <p>No segundo, o produto pode conter doses maiores e combinações de ingredientes que nem sempre aparecem no rótulo de forma clara.</p>
 <p>Antes de incluir qualquer suplemento na rotina, observe o registro do produto junto aos órgãos de vigilância sanitária e leia atentamente as advertências, as contraindicações e a origem do material.</p>
-<p>Se você costuma usar suplementos para energia ou sono, pode ser útil conhecer também os cuidados sobre <a href="/ashwagandha/">ashwagandha</a>, que levanta dúvidas parecidas sobre segurança e interações.</p>
+<p>Se você costuma usar suplementos para energia ou sono, pode ser útil conhecer também o texto sobre <a href="/insonia/">insônia</a>, que reúne causas comuns e sinais de quando buscar ajuda.</p>
 
 <p>Antes de incluir a maca na rotina, confira se o produto informa a origem, o modo de processamento e a presença de outros ingredientes. Rótulos genéricos, sem essas informações, dificultam qualquer avaliação segura.</p>
 <p>Também é recomendável evitar combinações de vários suplementos vendidos para energia ao mesmo tempo, pois a soma de estimulantes e de extratos vegetais pode ser difícil de controlar.</p>

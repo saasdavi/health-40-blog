@@ -1,6 +1,6 @@
-PALAVRA_CHAVE: Melasma na Gravidez Causas, Tratamento Seguro e Rotina.html
-TITLE: Melasma na Gravidez: Causas, Tratamento Seguro e Rotina
-DESCRIPTION: Entenda por que o melasma aparece na gravidez, como manter uma rotina de proteção solar segura e quais cuidados exigem orientação do dermatologista.
+PALAVRA_CHAVE: melasma na gravidez
+TITLE: Melasma na Gravidez: Causas e Cuidados Seguros
+DESCRIPTION: Melasma na gravidez: entenda por que ele aparece, como manter uma rotina de proteção solar segura e quais cuidados exigem orientação do dermatologista.
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 CAPA_BUSCA: pregnant woman sunscreen
@@ -14,7 +14,8 @@ FOTO2_ALT: Chapéu de aba larga e óculos escuros, proteção contra o sol na ge
 FOTO2_LEGENDA: Chapéu e sombra são aliados da proteção solar na gravidez.
 FOTO2_SECAO: 4
 ---
-<p>O melasma na gravidez é uma mancha acastanhada que surge principalmente na face, com frequência nos meses de gestação e em mulheres com predisposição. Por ser comum e, em geral, benigno, muitas gestantes ficam preocupadas com a aparência. Este texto explica as causas, a rotina de cuidados mais segura e os pontos que exigem orientação médica.</p>
+<p>O melasma na gravidez é uma mancha acastanhada que surge principalmente na face, com frequência nos meses de gestação e em mulheres com predisposição. Por ser comum e, em geral, benigno, muitas gestantes ficam preocupadas com a aparência.</p>
+<p>Este texto explica as causas, a rotina de cuidados mais segura e os pontos que exigem orientação médica.</p>
 
 <h2>Por que o melasma aparece na gravidez</h2>
 <p>As mudanças hormonais da gestação, especialmente o aumento de estrogênio e progesterona, estimulam as células da pele que produzem melanina. Esse estímulo se soma a outros fatores e faz com que algumas áreas escureçam de forma irregular.</p>
@@ -53,7 +54,7 @@ FOTO2_SECAO: 4
 <h2>Rotina segura para o período gestacional</h2>
 <p>Uma rotina simples costuma ser suficiente para manter o quadro controlado. Limpe o rosto com produto suave, aplique o protetor solar pela manhã e reaplique durante o dia, use hidratante adequado e observe a pele com regularidade.</p>
 <p>Anotar quando as manchas aparecem ou se intensificam ajuda na consulta, já que o padrão pode indicar exposição solar ou outros fatores.</p>
-<p>Se quiser entender melhor a condição fora da gravidez, o texto sobre <a href="/melasma/">melasma</a> explica causas e opções de tratamento de forma geral. Para outras alterações de cor da pele, veja também <a href="/manchas-na-pele/">manchas na pele</a>.</p>
+<p>Para entender outras alterações do corpo em fases de mudança hormonal, veja os textos sobre <a href="/inchaco-nas-pernas/">inchaço nas pernas</a> e sobre <a href="/varizes/">varizes</a>.</p>
 
 <p>Amamentar não impede o uso de todos os cuidados dermatológicos, mas cada produto deve ser escolhido com orientação. Informe o profissional sobre a amamentação antes de iniciar qualquer tratamento.</p>
 <p>Enquanto as manchas estiverem presentes, a proteção solar continua sendo indispensável no dia a dia.</p>
@@ -87,4 +88,5 @@ FOTO2_SECAO: 4
 
 <h2>Resumindo</h2>
 <p>O melasma na gravidez é causado principalmente por alterações hormonais, com influência da exposição solar e da predisposição individual. Ele costuma aparecer no rosto e, muitas vezes, melhora após o parto.</p>
+<p>Observe também se a mancha muda de cor, cresce rápido ou surge junto de outros sintomas, pois esses sinais merecem avaliação profissional.</p>
 <p>A proteção solar diária é a base da rotina segura. Tratamentos clareadores e procedimentos devem ser decididos com o dermatologista e o obstetra, levando em conta a gestação. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>

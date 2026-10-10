@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: queda de cabelo por estresse
-TITLE: Queda de Cabelo por Estresse: Linha do Tempo e Tratamento
+TITLE: Queda de Cabelo por Estresse: Linha do Tempo
 DESCRIPTION: Queda de cabelo por estresse: entenda a linha do tempo mais comum, o que ajuda na recuperação dos fios e quando buscar avaliação para outras causas.
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
@@ -14,7 +14,7 @@ FOTO2_ALT: Pessoa praticando respiração e meditação, recurso útil para quem
 FOTO2_LEGENDA: Técnicas de relaxamento ajudam a reduzir o impacto do estresse na rotina
 FOTO2_SECAO: 4
 ---
-<p>A queda de cabelo por estresse é uma das causas mais comentadas quando os fios começam a sair em maior quantidade após um período difícil. Ela pode acontecer após uma fase de muita pressão no trabalho, uma doença, um luto ou uma mudança importante de vida. Entender como essa queda costuma se desenvolver e o que ajuda na recuperação traz mais tranquilidade para quem está passando por isso.</p>
+<p>A queda de cabelo por estresse é uma das causas mais comentadas quando os fios saem em maior quantidade após um período difícil, como pressão no trabalho, doença, luto ou mudança importante. Entender como ela costuma evoluir traz mais tranquilidade.</p>
 
 <h2>Como o estresse afeta o ciclo dos fios</h2>
 <p>O cabelo passa por ciclos de crescimento, transição e repouso. Situações de estresse intenso, físico ou emocional, podem empurrar um número maior de fios para a fase de repouso ao mesmo tempo. Depois de alguns meses, esses fios caem, o que gera a sensação de queda repentina e difusa.</p>

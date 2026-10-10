@@ -14,7 +14,8 @@ FOTO2_ALT: Aplicação de protetor solar no braço, prevenção de manchas na pe
 FOTO2_LEGENDA: O filtro solar diário é a medida preventiva mais importante.
 FOTO2_SECAO: 4
 ---
-<p>As manchas senis são pequenas áreas escuras que surgem na pele exposta ao sol, principalmente nas mãos, no rosto, nos ombros e no colo, geralmente depois dos 40 ou 50 anos. Elas são benignas na maioria dos casos, mas a aparência parecida com outras lesões exige atenção. Este texto explica causas, opções gerais de cuidado e como fazer um autoexame.</p>
+<p>As manchas senis são pequenas áreas escuras que surgem na pele exposta ao sol, principalmente nas mãos, no rosto, nos ombros e no colo, geralmente depois dos 40 ou 50 anos. Elas são benignas na maioria dos casos, mas a aparência parecida com outras lesões exige atenção.</p>
+<p>Este texto explica causas, opções gerais de cuidado e como fazer um autoexame.</p>
 
 <h2>O que são as manchas senis</h2>
 <p>Também chamadas de lentigos solares ou manchas de idade, essas marcas aparecem quando a pele acumula melanina de forma localizada. Elas são planas, com bordas definidas e cor que varia do bege ao marrom escuro.</p>
@@ -38,7 +39,7 @@ FOTO2_SECAO: 4
 <h2>Como diferenciar manchas senis de outras lesões</h2>
 <p>Nem toda mancha escura é uma mancha senil. Algumas lesões precisam de avaliação, incluindo pintas que mudam, sangram ou coçam.</p>
 <p>A regra mais usada para orientar a observação é o acrônimo ABCDE, que pede atenção a assimetria, bordas irregulares, cor não uniforme, diâmetro maior que alguns milímetros e evolução com o tempo.</p>
-<p>Se uma mancha mudar de forma rápida, tiver cores variadas ou apresentar bordas irregulares, procure um dermatologista. Esse é um dos motivos para conhecer também o que é um <a href="/melanoma/">melanoma</a>, tipo de câncer de pele que exige diagnóstico precoce.</p>
+<p>Se uma mancha mudar de forma rápida, tiver cores variadas ou apresentar bordas irregulares, procure um dermatologista. Esse cuidado é importante porque o câncer de pele, como o melanoma, exige diagnóstico precoce. Para outras mudanças visíveis com a idade, como os vasos dilatados nas pernas, veja o texto sobre <a href="/varizes/">varizes</a>.</p>
 
 <p>O autoexame também ajuda a reconhecer o que é novidade. Compare a pele com fotos antigas, quando existirem, e observe se alguma lesão mudou de tamanho, de cor ou de contorno.</p>
 <p>Não é necessário ser especialista para fazer essa observação. O mais importante é a regularidade e a disposição de levar as dúvidas ao médico.</p>
@@ -67,7 +68,7 @@ FOTO2_SECAO: 4
 <p>Vale lembrar que o cuidado com o sol começa cedo. Mesmo sem perceber queimaduras, a exposição frequente ao longo dos anos é o que mais contribui para o surgimento de manchas nas áreas expostas.</p>
 <p>Roupas com proteção, sombra nos horários de pico e a rotina de filtro no rosto, nas mãos e no colo formam um conjunto simples e eficaz para desacelerar o aparecimento de novas manchas.</p>
 
-<p>Quem tem histórico de queimaduras solares na infância, pele muito clara ou muitos sinais pelo corpo deve reforçar a rotina de proteção e manter as consultas dermatológicas em dia. Para outras alterações de cor, veja também <a href="/manchas-na-pele/">manchas na pele</a>.</p>
+<p>Quem tem histórico de queimaduras solares na infância, pele muito clara ou muitos sinais pelo corpo deve reforçar a rotina de proteção e manter as consultas dermatológicas em dia. Escurecimentos nas dobras da pele podem ter outra origem, como mostra o texto sobre <a href="/o-que-e-resistencia-a-insulina/">resistência à insulina</a>.</p>
 <p>O filtro solar deve ser aplicado também em dias nublados, porque grande parte da radiação ultravioleta atravessa as nuvens.</p>
 
 <p>Quando a mancha está em uma área de atrito, como a mão que segura objetos, ou sofre irritação repetida, vale observar se há descamação ou coceira, pois a inflamação pode alterar a aparência da lesão.</p>

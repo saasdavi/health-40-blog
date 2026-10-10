@@ -1,5 +1,5 @@
-PALAVRA_CHAVE: Kérastase Queda de Cabelo — Linha Genesis e Cuidados.html
-TITLE: Queda de Cabelo: Causas, Cuidados e Quando Buscar Ajuda
+PALAVRA_CHAVE: queda de cabelo
+TITLE: Queda de Cabelo: Causas e Quando Buscar Ajuda
 DESCRIPTION: Entenda as principais causas da queda de cabelo, os cuidados diários com os fios e os sinais que pedem avaliação de um dermatologista.
 FONTE: sciencedirect.com | https://sciencedirect.com
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
@@ -50,7 +50,7 @@ FOTO2_SECAO: 4
 <p>Uma consulta permite separar quedas temporárias de quadros que exigem tratamento específico. O especialista observa o padrão de perda, o histórico familiar e os medicamentos em uso.</p>
 <p>Quando indicado, ele solicita exames como ferritina, hormônios da tireoide e vitamina D. Essa investigação evita o uso de produtos sem orientação e torna a conduta mais segura.</p>
 <p>O couro cabeludo também merece atenção própria. Descamação com coceira, vermelhidão ou oleosidade excessiva alteram o ambiente em que o fio se forma e pedem avaliação antes de qualquer escolha.</p>
-<p>Se a queda vem junto de cansaço, a leitura sobre <a href="/ferro-baixo-sintomas/">sintomas de ferro baixo</a> ajuda a entender uma das causas investigadas com mais frequência.</p>
+<p>Se a queda vem junto de cansaço, a lista de <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a> ajuda a planejar o cardápio, e a avaliação médica mostra se há deficiência.</p>
 
 <p>Vale notar que a alimentação, sozinha, raramente explica uma queda grave. Ela contribui quando há restrições importantes, dietas muito pobres em proteína ou falta de nutrientes como ferro e zinco, usados na formação do fio.</p>
 <p>O sono também conta. Noites mal dormidas e rotinas irregulares alteram hormônios ligados ao estresse, e esse efeito pode aparecer como queda nas semanas seguintes.</p>
@@ -70,7 +70,7 @@ FOTO2_SECAO: 4
 <p>Algumas situações merecem atenção mais rápida. A queda súbita, as falhas em placas e a dor ou a coceira persistente no couro cabeludo exigem avaliação.</p>
 <p>Também vale procurar orientação quando a perda dura meses sem melhora. Cansaço excessivo, alteração de peso ou mudanças no ciclo menstrual pedem a mesma atenção.</p>
 <p>Em muitos casos, a investigação é simples e a conduta é tranquila. A palavra final sobre diagnóstico e tratamento cabe ao médico ou ao dermatologista.</p>
-<p>Para entender outra alteração frequente nesse contexto, o texto sobre <a href="/hipotireoidismo-sintomas/">sintomas do hipotireoidismo</a> explica como a tireoide se relaciona com os fios.</p>
+<p>Para entender outra alteração frequente nesse contexto, o texto sobre <a href="/cortisol-alto/">cortisol alto</a> explica como o estresse prolongado se relaciona com o corpo e com os hábitos.</p>
 
 <p>Se a queda vem com sinais na pele, como manchas, descamação ou coceira, o dermatologista pode examinar o couro cabeludo com recursos específicos, como a dermatoscopia, que amplia a visão dos folículos.</p>
 <p>Ao chegar à consulta, leve a lista de medicamentos, suplementos, produtos usados nos cabelos e exames anteriores. Esse conjunto dá ao profissional uma visão completa do caso.</p>

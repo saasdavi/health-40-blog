@@ -1,6 +1,6 @@
-PALAVRA_CHAVE: Magnésio Treonato Para Que Serve, Efeitos e Anvisa.html
-TITLE: Magnésio Treonato Para Que Serve, Efeitos e Anvisa
-DESCRIPTION: Entenda para que serve o magnésio treonato, quais são os efeitos conhecidos até agora, o que observar sobre a regulação da Anvisa e quando consultar um médico.
+PALAVRA_CHAVE: magnésio treonato para que serve
+TITLE: Magnésio Treonato Para Que Serve e Efeitos
+DESCRIPTION: Magnésio treonato para que serve: entenda os efeitos conhecidos até agora, o que observar sobre a regulação da Anvisa e quando consultar um médico.
 FONTE: Governo Federal | https://www.gov.br
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 CAPA_BUSCA: magnesium supplement capsules
@@ -14,7 +14,8 @@ FOTO2_ALT: Profissional de farmácia verificando o rótulo de um suplemento
 FOTO2_LEGENDA: O registro e o rótulo ajudam a checar a procedência do produto.
 FOTO2_SECAO: 4
 ---
-<p>O magnésio treonato é uma forma do mineral que ganhou espaço em suplementos voltados à memória e ao sono. Quem busca magnésio treonato para que serve costuma também querer entender os efeitos e como a regulação sanitária trata esses produtos no Brasil. Este texto apresenta o que se sabe até agora, com linguagem direta e sem promessas.</p>
+<p>O magnésio treonato é uma forma do mineral que ganhou espaço em suplementos voltados à memória e ao sono. Quem busca magnésio treonato para que serve costuma querer entender os efeitos e a regulação no Brasil.</p>
+<p>Este texto apresenta o que se sabe até agora, com linguagem direta e sem promessas.</p>
 
 <h2>O que é a forma treonato do magnésio</h2>
 <p>O magnésio pode ser combinado a diferentes moléculas, e cada uma delas altera a solubilidade e a forma como o mineral chega ao organismo. No caso do treonato, o ácido treônico é o componente que acompanha o magnésio.</p>
@@ -35,12 +36,12 @@ FOTO2_SECAO: 4
 <h2>Efeitos conhecidos e possíveis</h2>
 <p>Os efeitos relatados com mais frequência são digestivos, semelhantes aos de outras formas de magnésio: diarreia, cólicas e desconforto abdominal, sobretudo com doses mais altas. Há também relatos de sonolência e tontura, que devem ser observados com atenção.</p>
 <p>Pessoas com doença renal têm maior risco de acúmulo do mineral, e por isso precisam de avaliação médica antes de qualquer suplemento. Gestantes e lactantes também devem conversar com o profissional antes de começar.</p>
-<p>Para quem sente falhas de memória, vale conhecer o que pode estar por trás dos sintomas no texto sobre <a href="/esquecimento/">esquecimento</a>, que descreve causas variadas e a importância da avaliação.</p>
+<p>Para quem sente falhas de memória, vale conhecer o que pode estar por trás dos sintomas no texto sobre <a href="/como-controlar-a-ansiedade/">como controlar a ansiedade</a>, que descreve como o estresse pode afetar a atenção e a importância da avaliação.</p>
 
 <p>Ao ler sobre a forma treonato, é importante distinguir o que foi estudado no laboratório, em animais e em pessoas. Resultados obtidos em modelos experimentais nem sempre se repetem no organismo humano em uso cotidiano.</p>
 <p>Também vale desconfiar de textos que apresentam um único estudo como prova definitiva. A ciência avança por acúmulo de evidências, e revisões sistemáticas costumam ser mais confiáveis do que relatos isolados.</p>
 
-<p>No campo do sono, muitas pessoas recorrem a outros produtos antes de qualquer avaliação. Quem busca ajuda para dormir pode conhecer as informações sobre <a href="/melatonina/">melatonina</a>, que também exige cuidado e orientação.</p>
+<p>No campo do sono, muitas pessoas recorrem a outros produtos antes de qualquer avaliação. Quem busca ajuda para dormir pode conhecer o texto sobre <a href="/insonia/">insônia</a>, que também destaca cuidado e orientação.</p>
 <p>Em todos os casos, a ideia é tratar o motivo da dificuldade para dormir, e não apenas acrescentar um produto à lista de compras.</p>
 
 <h2>Anvisa e regulação dos suplementos</h2>

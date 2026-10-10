@@ -1,6 +1,6 @@
-PALAVRA_CHAVE: Magnésio Efeitos Colaterais  Guia Completo e Seguro.html
-TITLE: Magnésio Efeitos Colaterais: Guia Completo e Seguro
-DESCRIPTION: Conheça os efeitos colaterais do magnésio, quem deve ter mais cuidado, como a alimentação entra nessa conta e quando procurar um médico.
+PALAVRA_CHAVE: magnésio efeitos colaterais
+TITLE: Magnésio Efeitos Colaterais: Guia Seguro
+DESCRIPTION: Magnésio efeitos colaterais: conheça os riscos do excesso, quem deve ter mais cuidado, o papel da alimentação e quando procurar um médico.
 FONTE: Governo Federal | https://www.gov.br
 FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
@@ -62,7 +62,7 @@ FOTO2_SECAO: 4
 <p>Por isso, antes de pensar em suplemento, vale observar se a dieta inclui fontes naturais em quantidade suficiente.</p>
 <p>Uma rotina com feijão, aveia, castanhas, legumes e frutas já contribui bastante. Se houver dúvida sobre a sua ingestão, o profissional pode orientar a avaliação.</p>
 <p>Atividade física intensa, suor excessivo e calor também alteram a perda de minerais. Em quem treina com frequência, essa necessidade deve entrar na conversa com o profissional.</p>
-<p>Para entender melhor as funções do mineral, leia o texto sobre <a href="/magnesio/">magnésio</a>. Para quem sente cãibras, o artigo sobre <a href="/caimbras-nas-pernas/">caimbras nas pernas</a> traz outras causas possíveis.</p>
+<p>Para entender melhor as funções do mineral, leia o texto sobre <a href="/barriga-inchada/">barriga inchada</a>, que trata de desconfortos digestivos. Para quem dorme mal, o artigo sobre <a href="/insonia/">insônia</a> traz outras causas possíveis.</p>
 
 <p>Pessoas acima de certa idade devem ter atenção redobrada, já que a função dos rins tende a diminuir gradualmente e a eliminação do mineral pode ficar mais lenta sem que a pessoa perceba.</p>
 <p>Ao comprar qualquer suplemento, leia o rótulo, confira a quantidade de magnésio por porção e as advertências. Produtos sem informações claras devem ser evitados.</p>

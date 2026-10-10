@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: manipulados para emagrecer
-TITLE: Manipulados para Emagrecer: Riscos e Regras da Anvisa
+TITLE: Manipulados para Emagrecer: Riscos e Regras
 DESCRIPTION: Entenda os riscos dos manipulados para emagrecer, as regras da Anvisa sobre essas fórmulas e por que a orientação de um profissional é indispensável.
 FONTE: Governo Federal | https://www.gov.br
 FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
@@ -14,7 +14,8 @@ FOTO2_ALT: Médico conversando com paciente em consultório sobre peso e saúde
 FOTO2_LEGENDA: Qualquer plano para o peso deve começar com avaliação de saúde.
 FOTO2_SECAO: 4
 ---
-<p>Os manipulados para emagrecer são fórmulas preparadas em farmácias de manipulação, muitas vezes com promessas rápidas de perda de peso. Quem pesquisa esse tema geralmente quer entender os riscos, as regras da Anvisa e como reconhecer um produto que pode trazer problemas. Este texto aborda o assunto com foco em segurança e orientação profissional.</p>
+<p>Os manipulados para emagrecer são fórmulas preparadas em farmácias de manipulação, muitas vezes com promessas rápidas de perda de peso. Quem pesquisa o tema quer entender os riscos e as regras da Anvisa.</p>
+<p>Este texto aborda o assunto com foco em segurança e orientação profissional.</p>
 
 <h2>O que são os manipulados para emagrecer</h2>
 <p>Manipulados são preparações feitas sob prescrição para atender a uma necessidade específica de um paciente. Quando o termo é usado para emagrecimento, a composição pode incluir combinações de substâncias variadas, em doses que não foram testadas em conjunto.</p>
@@ -63,13 +64,13 @@ FOTO2_SECAO: 4
 <h2>O que a ciência diz sobre emagrecimento seguro</h2>
 <p>O emagrecimento sustentável costuma envolver alimentação equilibrada, atividade física regular, sono adequado e acompanhamento. Os órgãos de saúde reforçam que a perda de peso mais saudável é gradual e individualizada.</p>
 <p>Dietas muito restritivas e substâncias de efeito rápido costumam trazer riscos maiores e pouca manutenção do resultado. Por isso, o caminho mais seguro passa por avaliação de saúde e por um plano construído com profissionais.</p>
-<p>Para entender melhor esse caminho, vale a leitura sobre <a href="/emagrecimento-saudavel/">emagrecimento saudável</a>, que explica princípios gerais sem indicar produtos.</p>
+<p>Para entender melhor esse caminho, vale a leitura sobre <a href="/o-que-e-gordura-visceral/">gordura visceral</a>, que explica por que a gordura abdominal importa para a saúde, sem indicar produtos.</p>
 
 <p>Mudanças de hábito sustentáveis costumam incluir refeições regulares, sono adequado, atividade física com força e aeróbico e acompanhamento. Esse conjunto exige tempo, mas oferece um risco muito menor do que soluções de efeito rápido.</p>
 <p>Quem já tentou várias dietas e não conseguiu manter o peso deve buscar ajuda profissional antes de recorrer a fórmulas, pois o problema geralmente está na estratégia, e não na falta de um produto de efeito rápido.</p>
 
 <p>Quem quer perder peso pode se beneficiar de metas realistas, acompanhamento com nutricionista e, quando indicado, apoio psicológico, especialmente em situações de compulsão alimentar ou de ansiedade ligada à comida.</p>
-<p>Para entender os princípios de uma mudança sustentável, o texto sobre <a href="/quero-emagrecer/">quero emagrecer</a> pode servir de ponto de partida, sempre com acompanhamento profissional.</p>
+<p>Para entender os princípios de uma mudança sustentável, o texto sobre <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a> pode servir de ponto de partida, sempre com acompanhamento profissional.</p>
 
 <p>Um sinal de alerta frequente é a propaganda que trata a obesidade como problema de estética ou de força de vontade. A obesidade é uma condição de saúde complexa, e o tratamento deve ser conduzido por profissionais.</p>
 <p>Por isso, a busca por soluções rápidas costuma levar a riscos desnecessários, enquanto o acompanhamento estruturado oferece caminhos mais seguros, ainda que mais graduais.</p>

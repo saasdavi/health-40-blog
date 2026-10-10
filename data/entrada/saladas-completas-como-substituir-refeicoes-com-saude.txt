@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: saladas completas
-TITLE: Saladas Completas: Como Substituir Refeições com Saúde
+TITLE: Saladas Completas: Como Substituir Refeições
 DESCRIPTION: Saladas completas: aprenda a montar um prato que sustente a refeição, com proteína, fibras e gorduras boas, e saiba quando buscar orientação nutricional.
 FONTE: Ministério da Saúde | https://www.gov.br/saude
 FONTE: Organização Mundial da Saúde (OMS) | https://www.who.int
@@ -14,7 +14,7 @@ FOTO2_ALT: Mulher cortando legumes na cozinha, preparo que facilita montar salad
 FOTO2_LEGENDA: Preparar os ingredientes com antecedência ajuda na rotina
 FOTO2_SECAO: 4
 ---
-<p>As saladas completas são pratos montados com folhas, legumes, fontes de proteína, grãos e gorduras boas, pensados para funcionar como refeição principal, e não apenas como acompanhamento. A ideia é oferecer saciedade, fibras e nutrientes em uma porção só. Quando bem planejadas, podem substituir o almoço ou o jantar em dias corridos, desde que o conjunto seja equilibrado e variado.</p>
+<p>As saladas completas são pratos montados com folhas, legumes, proteína, grãos e gorduras boas, pensados como refeição principal e não apenas como acompanhamento. Oferecem saciedade, fibras e nutrientes. Bem planejadas, podem substituir o almoço ou o jantar em dias corridos.</p>
 
 <h2>O que diferencia uma salada completa de uma salada comum</h2>
 <p>Uma salada comum costuma ser feita apenas com folhas e alguns vegetais, o que traz volume, água e fibras, mas pouca energia e pouca proteína. Esse tipo de prato funciona bem como acompanhamento, porém tende a deixar a fome voltar rapidamente quando é a única coisa servida.</p>
@@ -44,7 +44,7 @@ FOTO2_SECAO: 4
 <h2>Saladas completas podem substituir refeições?</h2>
 <p>Sim, em muitas situações, desde que a salada seja realmente completa, com proteína, carboidrato e gordura em quantidades adequadas. Substituir uma refeição não significa comer pouco, e sim garantir que o conjunto de nutrientes seja suficiente para a rotina da pessoa.</p>
 <p>Nos casos em que a salada é usada como substituto frequente, é importante observar a energia, o humor e a saciedade. Se houver cansaço, fome intensa ou irritabilidade, o cardápio precisa ser revisto com um profissional.</p>
-<p>Para quem busca um plano de alimentação mais amplo, vale conhecer as ideias sobre <a href="/dieta-simples-para-emagrecer/">dieta simples para emagrecer</a>, que podem orientar a organização do dia.</p>
+<p>Para quem busca um plano de alimentação mais amplo, vale conhecer o texto sobre <a href="/proteina-mulheres-40/">proteína para mulheres após os 40</a>, que ajuda a montar o prato.</p>
 
 <h2>Fibras, saciedade e intestino</h2>
 <p>Uma das vantagens das saladas completas é a quantidade de fibras, que contribui para o funcionamento do intestino e para a sensação de saciedade. Fontes como leguminosas, folhas, sementes e grãos integrais aumentam esse aporte de forma natural.</p>
@@ -58,7 +58,7 @@ FOTO2_SECAO: 4
 <p>Por fim, cortar totalmente os carboidratos ou as gorduras pode causar fome intensa e abandono da dieta. O equilíbrio é mais sustentável do que a restrição.</p>
 
 <h2>Lanches e complementos ao longo do dia</h2>
-<p>Se a salada for a refeição principal, os lanches podem ser pensados com a mesma lógica. Frutas, iogurte natural, castanhas e legumes em tiras ajudam a manter a energia até a próxima refeição. Para ideias práticas, vale conhecer as opções de <a href="/lanches-saudaveis/">lanches saudáveis</a>.</p>
+<p>Se a salada for a refeição principal, os lanches podem ser pensados com a mesma lógica. Frutas, iogurte natural, castanhas e legumes em tiras ajudam a manter a energia até a próxima refeição.</p>
 <p>Evite compensar a salada com doces ou ultraprocessados em seguida, pois isso anula parte do efeito de saciedade. Planejar os lanches com antecedência facilita o cumprimento da proposta.</p>
 <p>A hidratação também faz parte do conjunto, e água ou chá sem açúcar costumam ser boas escolhas ao longo do dia.</p>
 

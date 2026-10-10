@@ -1,5 +1,5 @@
-PALAVRA_CHAVE: retinol-para-que-serve-beneficios-como-usar
-TITLE: Retinol: Para Que Serve, Benefícios e Como Usar
+PALAVRA_CHAVE: retinol para que serve
+TITLE: Retinol Para Que Serve: Benefícios e Como Usar
 DESCRIPTION: Retinol para que serve: veja os benefícios para a pele madura, como usar com segurança, os cuidados com irritação e quando procurar um dermatologista.
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: Anvisa | https://www.gov.br/anvisa
@@ -14,7 +14,7 @@ FOTO2_ALT: Protetor solar sobre a bancada da manhã, cuidado indispensável para
 FOTO2_LEGENDA: O protetor solar diário é parte obrigatória da rotina com retinol
 FOTO2_SECAO: 4
 ---
-<p>O retinol é um derivado da vitamina A muito usado em cosméticos e em tratamentos dermatológicos para a pele madura, a textura irregular e as manchas. Ele costuma ser procurado por quem quer uma pele mais uniforme e com aparência renovada depois dos 40 anos. Entender para que o retinol serve, quais benefícios são estudados e como usá-lo com segurança evita irritações e expectativas irreais.</p>
+<p>Retinol para que serve? Ele é um derivado da vitamina A muito usado em cosméticos e em tratamentos dermatológicos para a pele madura, a textura irregular e as manchas. Saber como usá-lo com segurança evita irritações e expectativas irreais.</p>
 
 <h2>O que é o retinol e como ele age na pele</h2>
 <p>O retinol pertence à família dos retinoides, substâncias derivadas da vitamina A. Na pele, ele é convertido em formas ativas que se ligam a receptores específicos e influenciam a renovação celular, a produção de colágeno e a organização da barreira cutânea.</p>
@@ -46,13 +46,13 @@ FOTO2_SECAO: 4
 <p>Vermelhidão, descamação, ardência e ressecamento são efeitos comuns nas primeiras semanas. Em geral, eles diminuem com a adaptação, mas precisam ser observados. Se a irritação for intensa ou persistir, o uso deve ser interrompido e o dermatologista consultado.</p>
 <p>Para reduzir o desconforto, a dica é diminuir a frequência, usar hidratante simples e evitar esfoliações ao mesmo tempo.</p>
 <p>Uma pele que descama muito ou arde ao toque pede pausa, e não aumento de quantidade, pois o excesso tende a piorar a irritação e demorar mais a recuperar a barreira. A pele deve estar confortável durante o uso, e não em sofrimento.</p>
-<p>Quem tem dermatite de contato ou pele muito sensível deve ter cuidado extra. Para entender melhor esse quadro, vale conhecer o texto sobre <a href="/dermatite-de-contato/">dermatite de contato</a>.</p>
+<p>Quem tem pele muito sensível deve ter cuidado extra. O sono também influencia a renovação da pele, como mostra o texto sobre <a href="/insonia/">insônia</a>.</p>
 
 <h2>Proteção solar e cuidados diários</h2>
 <p>O retinol deixa a pele mais sensível à radiação ultravioleta. Por isso, o protetor solar com FPS adequado e proteção UVA é indispensável durante o dia, mesmo em dias nublados.</p>
 <p>Também é importante usar chapéu e buscar sombra nos horários de pico do sol. Sem essa proteção, o uso do retinol pode gerar manchas e irritação, anulando parte dos benefícios.</p>
 <p>Vale lembrar que a proteção solar deve ser reaplicada ao longo do dia quando há exposição prolongada, e que a fotoproteção ajuda a preservar qualquer resultado obtido com o retinol. Sem essa etapa, o esforço da rotina noturna tende a ser perdido.</p>
-<p>Para quem tem manchas, a orientação costuma incluir cuidados com o sol de forma contínua. O texto sobre <a href="/manchas-na-pele/">manchas na pele</a> aborda essa relação com mais detalhes.</p>
+<p>Para quem tem manchas, a orientação costuma incluir cuidados com o sol de forma contínua. Uma alimentação com <a href="/proteina-mulheres-40/">proteína adequada</a> também contribui para a saúde da pele.</p>
 
 <h2>Retinol na gravidez e em situações especiais</h2>
 <p>Derivados da vitamina A em uso tópico são geralmente desaconselhados durante a gravidez e a amamentação, pois não há segurança comprovada para todos os casos. Quem está nessa fase deve conversar com o médico antes de usar qualquer produto com retinoides.</p>

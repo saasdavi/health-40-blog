@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: albumina suplemento
-TITLE: Albumina suplemento: riscos, cuidados e quem deve evitar
+TITLE: Albumina suplemento: riscos e quem deve evitar
 DESCRIPTION: Albumina suplemento: o que é, por que a proteína entra em dietas, quem deve evitar, riscos digestivos e renais e a importância da orientação profissional.
 FONTE: PubMed, National Library of Medicine | https://pubmed.ncbi.nlm.nih.gov
 FONTE: Governo Federal, Portal gov.br | https://www.gov.br
@@ -15,7 +15,7 @@ FOTO2_ALT: Nutricionista conversando com paciente em consultório
 FOTO2_LEGENDA: A necessidade de proteína deve ser avaliada de forma individual.
 FOTO2_SECAO: 4
 ---
-<p>Albumina suplemento é uma combinação comum em buscas de quem quer aumentar o consumo de proteína. A albumina é uma proteína de alto valor biológico, presente sobretudo na clara do ovo. Antes de usar qualquer suplemento, é preciso entender o que ele é, para quem é indicado e quais riscos merecem atenção.</p>
+<p>Albumina suplemento é uma combinação comum em buscas de quem quer aumentar o consumo de proteína. A albumina é uma proteína de alto valor biológico, presente sobretudo na clara do ovo. Antes de usar, é preciso entender para quem é indicada e quais riscos merecem atenção.</p>
 <h2>O que é a albumina e onde ela aparece</h2>
 <p>A albumina é uma proteína encontrada principalmente na clara do ovo. Ela contém aminoácidos essenciais, que o corpo não produz e precisa obter pela alimentação, e por isso é bem aproveitada pelo organismo.</p>
 <p>Como produto, a albumina aparece em pó, geralmente vendido para ser misturado a líquidos. Esse formato é conveniente, mas não muda a natureza da proteína, nem a necessidade de avaliar a dieta como um todo.</p>
@@ -43,13 +43,14 @@ FOTO2_SECAO: 4
 <p>No Brasil, suplementos alimentares são regulados pela Anvisa, que estabelece exigências de composição e de rotulagem. Ainda assim, nenhuma regulação substitui a avaliação individual de quem vai consumir.</p>
 <p>Comece pelo básico: observe se a sua alimentação já traz proteína em todas as refeições. Se houver dificuldade real, converse com um nutricionista para entender se o suplemento faz sentido e em que contexto.</p>
 <p>Evite misturar o suplemento a outros produtos sem orientação e não use para substituir refeições por longos períodos. Interrompa o uso e busque avaliação diante de sintomas como inchaço persistente, dor abdominal ou urina alterada.</p>
-<p>Pessoas mais velhas são um grupo que se beneficia de atenção à proteína, já que a massa muscular tende a diminuir com a idade. Quando o apetite está reduzido, a dificuldade de atingir a necessidade diária pode aumentar. Nesse contexto, a perda muscular, conhecida como sarcopenia, deve ser avaliada, e o nutricionista pode indicar a melhor estratégia, incluindo alimentos de alta qualidade proteica.</p>
+<p>Pessoas mais velhas são um grupo que se beneficia de atenção à proteína, já que a massa muscular tende a diminuir com a idade.</p>
+<p>Quando o apetite está reduzido, a dificuldade de atingir a necessidade diária pode aumentar. Nesse contexto, a perda muscular, conhecida como sarcopenia, deve ser avaliada, e o nutricionista pode indicar a melhor estratégia, incluindo alimentos de alta qualidade proteica.</p>
 <p>Em praticantes de atividade física, a proteína faz parte da recuperação, mas a demanda deve ser calculada com base no peso, na intensidade do treino e nos objetivos. Excesso sem orientação não traz benefício extra e pode sobrecarregar o organismo, sobretudo em quem tem condições renais.</p>
 <p>Quem tem diabetes deve observar o tipo de produto escolhido, já que alguns suplementos podem conter carboidratos, adoçantes ou outros ingredientes que afetam a glicemia. A leitura do rótulo e o acompanhamento com equipe de saúde são indispensáveis nessa situação.</p>
 <p>Para crianças e adolescentes, a orientação é ainda mais cautelosa. A necessidade proteica deve ser atendida prioritariamente pela alimentação, e qualquer suplemento deve ser indicado por profissional que acompanhe o crescimento.</p>
 <p>Durante a gestação e a amamentação, a alimentação deve ser planejada com orientação de médico ou nutricionista. Suplementos não devem ser incluídos por iniciativa própria, mesmo quando parecem inofensivos, porque a segurança no período depende de avaliação individual.</p>
 <p>Em caso de dúvida sobre a qualidade do produto, verifique a origem, o lote e a validade, e denuncie embalagens violadas ou sem informação à vigilância sanitária. A fiscalização protege o consumidor e ajuda a retirar do mercado produtos irregulares.</p>
-<p>Para quem está em busca de equilíbrio na alimentação, vale ler sobre <a href="/proteina-mulheres-40/">proteína para mulheres acima dos 40</a> e também sobre <a href="/whey-protein/">whey protein</a>, que traz informações gerais sobre suplementos proteicos e seus cuidados.</p>
+<p>Para quem está em busca de equilíbrio na alimentação, vale ler sobre <a href="/proteina-mulheres-40/">proteína para mulheres acima dos 40</a> e também sobre <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a>, outro nutriente que merece atenção no prato.</p>
 <p>Um aspecto pouco discutido é o custo. Suplementos proteicos podem representar gasto mensal relevante, e a comparação com alimentos naturais, como ovos, feijão e leite, costuma mostrar que a proteína pode ser obtida de forma mais econômica. Essa análise é útil para decidir com mais segurança.</p>
 <p>Além disso, a sensação de saciedade trazida pela proteína é real, mas varia entre pessoas. Usar o suplemento como pretexto para pular refeições é um erro frequente, e pode prejudicar o equilíbrio geral da dieta e a oferta de outros nutrientes.</p>
 <p>Quando a pessoa decide usar um suplemento, o acompanhamento deve incluir a avaliação do peso, da função renal e de sintomas digestivos ao longo do tempo. Essa vigilância simples permite identificar cedo qualquer efeito inesperado e ajustar ou interromper o uso com segurança.</p>

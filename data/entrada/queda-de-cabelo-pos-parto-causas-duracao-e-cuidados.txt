@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: queda de cabelo pós-parto
-TITLE: Queda de Cabelo Pós-parto: Causas, Duração e Cuidados
+TITLE: Queda de Cabelo Pós-parto: Causas e Cuidados
 DESCRIPTION: Queda de cabelo pós-parto: entenda por que acontece, quanto tempo costuma durar, quais cuidados ajudam e quando procurar avaliação médica.
 FONTE: Ministério da Saúde | https://www.gov.br/saude
 FONTE: Hospital Israelita Albert Einstein | https://www.einstein.br
@@ -14,7 +14,7 @@ FOTO2_ALT: Café da manhã equilibrado sobre a mesa, apoio nutricional para quem
 FOTO2_LEGENDA: Alimentação regular ajuda o corpo a se recuperar do parto e da amamentação
 FOTO2_SECAO: 4
 ---
-<p>A queda de cabelo pós-parto é uma das queixas mais comuns no primeiro ano depois do nascimento de um bebê. Muitas mulheres notam mais fios no banho, na escova e no travesseiro, geralmente alguns meses após o parto. Embora assuste, esse processo costuma ser temporário e tem explicação hormonal. Entender por que ele acontece, quanto tempo pode durar e quais cuidados ajudam traz mais tranquilidade para a rotina.</p>
+<p>A queda de cabelo pós-parto é uma das queixas mais comuns no primeiro ano depois do nascimento de um bebê. Muitas mulheres notam mais fios no banho e na escova, alguns meses após o parto. Embora assuste, o processo costuma ser temporário e tem explicação hormonal.</p>
 
 <h2>Por que a queda acontece depois do parto</h2>
 <p>Durante a gravidez, os níveis de estrogênio aumentam e reduzem a velocidade com que os fios caem. Por isso, muitas gestantes percebem o cabelo mais volumoso e com menos queda.</p>
@@ -48,14 +48,14 @@ FOTO2_SECAO: 4
 <h2>Alimentação, ferro e vitaminas</h2>
 <p>A amamentação aumenta a demanda de nutrientes, e uma alimentação variada é essencial para a mãe e para o bebê. Proteínas, vegetais, frutas, cereais integrais e fontes de ferro costumam compor uma base adequada.</p>
 <p>Quando há perda de sangue importante no parto, a reserva de ferro pode ficar baixa, e isso pode contribuir para a queda.</p>
-<p>Por isso, o médico pode solicitar exames para avaliar ferro e outras vitaminas. Para conhecer os sinais de carência de ferro, vale ler sobre <a href="/ferro-baixo-sintomas/">ferro baixo</a>. Qualquer suplementação deve ser orientada, principalmente durante a amamentação.</p>
+<p>Por isso, o médico pode solicitar exames para avaliar ferro e outras vitaminas. Para conhecer os sinais de carência de ferro, vale ver os <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a>. Qualquer suplementação deve ser orientada, principalmente durante a amamentação.</p>
 <p>Também é importante não iniciar medicamentos sem avaliação, pois muitos deles exigem cuidados específicos na fase de amamentação. A orientação médica é indispensável nesse ponto.</p>
 <p>Refeições fracionadas, com lanches simples como frutas, iogurte natural e castanhas, ajudam a manter a energia nos dias de noites mal dormidas. Beber água ao longo do dia, sobretudo durante a amamentação, também faz parte do cuidado com o corpo e com os fios.</p>
 <p>Quando a alimentação está muito restrita por causa de enjoos prolongados, cansaço ou falta de tempo, vale conversar com o médico ou com um nutricionista para ajustar o cardápio e identificar eventuais carências.</p>
 
 <h2>Sinais de que vale investigar</h2>
 <p>A queda pós-parto costuma ser difusa e temporária. Quando há sinais diferentes, como falhas em placas, coceira intensa, descamação, cansaço excessivo ou sintomas de alteração da tireoide, a investigação é importante. Nessas situações, a avaliação pode incluir exames de sangue e exame do couro cabeludo.</p>
-<p>Outro aspecto a observar é a vitamina D, cuja baixa pode se associar a cansaço e a queixas gerais. Para entender melhor esse quadro, veja o texto sobre <a href="/vitamina-d-baixa-sintomas/">vitamina D baixa</a>.</p>
+<p>Outro aspecto a observar é a vitamina D, cuja baixa pode se associar a cansaço e a queixas gerais. Para entender o quadro mais amplo, veja o texto sobre <a href="/queda-de-cabelo/">queda de cabelo</a>.</p>
 <p>Vale também observar se a queda vem acompanhada de outros sinais do pós-parto, como sangramentos fora do esperado, febre ou dor, pois esses casos exigem contato imediato com a equipe de saúde.</p>
 <p>Anotar quando a queda começou e como ela evolui ajuda o médico a diferenciar uma queda temporária de outro problema.</p>
 <p>Tirar fotos do cabelo no mesmo local e com a mesma luz, a cada mês, também facilita essa comparação, principalmente nos primeiros meses após o parto, quando tudo parece mudar muito depressa.</p>

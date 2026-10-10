@@ -14,7 +14,7 @@ FOTO2_ALT: Tubos de exame de sangue em laboratório, etapa comum na investigaç�
 FOTO2_LEGENDA: Exames de sangue ajudam a investigar causas hormonais e nutricionais
 FOTO2_SECAO: 4
 ---
-<p>A queda de cabelo intensa costuma assustar, principalmente quando os fios aparecem em grande quantidade no banho, na escova ou no travesseiro. Ela pode ter origens muito diferentes, de carências nutricionais a alterações hormonais, passando por estresse e doenças inflamatórias. Entender o que costuma causar esse quadro, como ele tende a evoluir e quando procurar avaliação ajuda a agir com calma e no momento certo.</p>
+<p>A queda de cabelo intensa costuma assustar, principalmente quando os fios aparecem em grande quantidade no banho, na escova ou no travesseiro. Ela pode ter origens variadas, de carências nutricionais a alterações hormonais e estresse. Saber quando procurar avaliação ajuda a agir com calma.</p>
 
 <h2>O que caracteriza a queda intensa</h2>
 <p>Perder algumas dezenas de fios por dia faz parte do ciclo natural do cabelo, que alterna fases de crescimento, transição e repouso.</p>
@@ -61,7 +61,7 @@ FOTO2_SECAO: 4
 <p>Dietas muito restritivas, jejuns prolongados e falta de proteína podem contribuir para a queda. Quem reduziu bastante o que come em pouco tempo, seja por rotina corrida, seja por dietas da moda, pode perceber a queda algum tempo depois, o que dificulta ligar o efeito à causa.</p>
 <p>A alimentação deve trazer quantidade suficiente de proteína, ferro, zinco e vitaminas, sempre com equilíbrio e sem exageros de suplementos.</p>
 <p>O estresse intenso também pode desencadear queda temporária. Cuidar do sono, das pausas e da atividade física ajuda o organismo a se reequilibrar e favorece a recuperação dos fios.</p>
-<p>Quando a carência de ferro é confirmada, o tema costuma estar ligado ao quadro de <a href="/ferro-baixo-sintomas/">ferro baixo</a>, que merece investigação e orientação específica.</p>
+<p>Quando a carência de ferro é confirmada, o tema costuma estar ligado à alimentação e aos <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a>, o que merece investigação e orientação específica.</p>
 
 <h2>Perguntas frequentes</h2>
 <p><strong>A queda intensa sempre é temporária?</strong><br>Não necessariamente. A queda por eventos agudos costuma ser temporária, mas a causada por condições persistentes ou genéticas pode continuar sem tratamento.</p>

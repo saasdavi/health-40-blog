@@ -14,7 +14,7 @@ FOTO2_ALT: Mulher sorrindo com cabelo volumoso, resultado de cuidados regulares 
 FOTO2_LEGENDA: Acompanhamento regular ajuda a manter os fios saudáveis ao longo do tempo
 FOTO2_SECAO: 4
 ---
-<p>A queda de cabelo feminino é uma queixa muito comum e pode aparecer em diferentes fases da vida, como após a gravidez, durante a menopausa ou em períodos de estresse intenso. Ela costuma causar preocupação porque afeta a aparência e a autoestima. Entender as causas mais frequentes e os tratamentos com respaldo científico ajuda a buscar a ajuda certa, no tempo certo.</p>
+<p>A queda de cabelo feminino é uma queixa comum e pode surgir após a gravidez, na menopausa ou em fases de estresse intenso. Ela afeta a aparência e a autoestima. Entender as causas e os tratamentos com respaldo científico ajuda a buscar a ajuda certa, no tempo certo.</p>
 
 <h2>Como a queda de cabelo feminino costuma se apresentar</h2>
 <p>Na mulher, a queda costuma ser difusa, ou seja, os fios diminuem em todo o couro cabeludo, em vez de formar falhas bem definidas.</p>
@@ -52,7 +52,7 @@ FOTO2_SECAO: 4
 
 <h2>Menopausa, hormônios e cabelo</h2>
 <p>Na transição menopausal, a queda de cabelo pode se intensificar porque a proporção entre hormônios muda, e os fios ficam mais finos e menos densos. Esse processo é gradual e pode ser acompanhado de outras mudanças, como alterações no sono, nas ondas de calor e na pele.</p>
-<p>Por isso, o cuidado com o cabelo nessa fase deve considerar o quadro completo. Uma avaliação que inclua hormônios, tireoide e ferro pode ajudar a entender se há outras causas associadas. Para saber mais sobre o período, leia sobre <a href="/o-que-e-menopausa/">o que é menopausa</a>.</p>
+<p>Por isso, o cuidado com o cabelo nessa fase deve considerar o quadro completo. Uma avaliação que inclua hormônios, tireoide e ferro pode ajudar a entender se há outras causas associadas. Para saber mais sobre o período, leia sobre <a href="/o-que-e-perimenopausa/">o que é perimenopausa</a>.</p>
 <p>Ainda assim, nem toda queda nessa fase é causada pela menopausa, e a avaliação médica continua sendo a melhor forma de identificar o motivo real.</p>
 
 <h2>Rotina de cuidados com os fios</h2>

@@ -1,5 +1,5 @@
-PALAVRA_CHAVE: queda-de-cabelo-por-estresse.html
-TITLE: Queda de Cabelo por Estresse: Causas e Sinais de Alerta
+PALAVRA_CHAVE: queda de cabelo por estresse
+TITLE: Queda de Cabelo por Estresse: Causas e Sinais
 DESCRIPTION: Queda de cabelo por estresse: veja como a pressão do dia a dia afeta os fios, quais sinais merecem atenção e que cuidados ajudam a retomar o equilíbrio.
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
@@ -14,7 +14,7 @@ FOTO2_ALT: Produtos de cuidado com o cabelo sobre a bancada do banheiro, ilustra
 FOTO2_LEGENDA: Cuidados suaves com o couro cabeludo fazem parte da recuperação
 FOTO2_SECAO: 4
 ---
-<p>A queda de cabelo por estresse é uma preocupação frequente, sobretudo quando os fios passam a aparecer em grande quantidade após semanas de pressão no trabalho, problemas familiares ou mudanças bruscas na rotina. Ela costuma ser temporária, mas gera ansiedade, e a ansiedade pode tornar a percepção da queda ainda mais intensa. Entender como o estresse age sobre o cabelo e quais sinais merecem atenção ajuda a lidar com o problema de forma mais equilibrada.</p>
+<p>A queda de cabelo por estresse é uma preocupação frequente, sobretudo quando os fios aparecem em grande quantidade após semanas de pressão no trabalho ou mudanças bruscas na rotina. Ela costuma ser temporária, mas gera ansiedade. Entender como o estresse age sobre o cabelo ajuda a lidar melhor.</p>
 
 <h2>Como o estresse chega até os fios</h2>
 <p>Em situações de estresse, o corpo ativa uma resposta de alerta que libera hormônios para enfrentar a ameaça.</p>
