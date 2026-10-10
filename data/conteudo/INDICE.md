@@ -212,6 +212,10 @@ Dias de conteúdo já escrito + pauta validada: **12** (a 3 por dia).
 | Resistência Insulínica: Sintomas e Cuidados | 1366 | 100 | - |
 | Retinol Para Que Serve: Benefícios e Como Usar | 1364 | 100 | - |
 | Sabonete de Enxofre Para Que Serve e Cuidados | 1402 | 100 | - |
+| Saladas Completas: Como Substituir Refeições | 1365 | 100 | - |
+| Saw Palmetto Queda de Cabelo: O Que Funciona | 1413 | 100 | - |
+| Suplemento Contribui para a Perda de Gordura? | 1404 | 100 | - |
+| Suplementos para Emagrecer Feminino: Evidências | 1343 | 100 | - |
 
 ## Publicados
 
