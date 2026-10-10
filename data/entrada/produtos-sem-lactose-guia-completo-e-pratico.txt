@@ -1,212 +1,67 @@
 PALAVRA_CHAVE: produtos sem lactose
 TITLE: Produtos Sem Lactose: Guia Completo e Prático
-DESCRIPTION: Entenda como funcionam os produtos sem lactose, a diferença com APLV, como ler rótulos e o que a Anvisa exige para 'zero lactose'.
+DESCRIPTION: Saiba o que são produtos sem lactose, como ler rótulos, escolher substitutos e manter o cálcio na alimentação com orientações práticas e seguras.
 FONTE: Governo Federal | https://www.gov.br
-FONTE: hcpa.edu.br | https://hcpa.edu.br
-CAPA_BUSCA: fresh fruits on wooden table
-CAPA_ALT: Frutas e alimentos naturais sobre produtos sem lactose
-FOTO1_BUSCA: healthy breakfast table food
-FOTO1_ALT: Alimentos frescos relacionado a produtos sem lactose
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+FONTE: Hospital de Clínicas de Porto Alegre | https://hcpa.edu.br
+CAPA_BUSCA: dairy free groceries
+CAPA_ALT: Sacola de compras com itens de mercado e vegetais, ilustrando produtos sem lactose no supermercado
+FOTO1_BUSCA: reading food label supermarket
+FOTO1_ALT: Pessoa lendo o rótulo de um alimento no supermercado, hábito essencial ao buscar produtos sem lactose
+FOTO1_LEGENDA: O rótulo mostra se o alimento contém leite ou derivados
 FOTO1_SECAO: 2
+FOTO2_BUSCA: plant based milk breakfast
+FOTO2_ALT: Café da manhã com bebida vegetal, frutas e cereais, opção de substituição para produtos sem lactose
+FOTO2_LEGENDA: Bebidas vegetais e frutas ajudam a montar refeições sem laticínios
+FOTO2_SECAO: 4
 ---
-<div id="container-imagem-capa" class="loading">Carregando imagem...</div>
+<p>Produtos sem lactose são alimentos fabricados sem o açúcar do leite ou com teor de lactose muito reduzido, pensados para quem tem intolerância a essa substância. Eles aparecem em mercados e farmácias em diferentes categorias, mas nem todo alimento rotulado como light ou natural é isento de lactose. Entender o que procurar no rótulo e como montar as refeições facilita a rotina de quem precisa evitar o açúcar do leite.</p>
 
-<p>Encontrar produtos sem lactose nas prateleiras do supermercado deixou de ser uma tarefa difícil. A oferta cresceu, mas junto com ela surgiram dúvidas importantes: afinal, o que significa “zero lactose”? Quem não tem intolerância pode consumir? E o mais crítico: produtos sem lactose são seguros para quem tem alergia à proteína do leite de vaca? As respostas exigem atenção a detalhes que vão além do rótulo.</p>
+<h2>O que são produtos sem lactose</h2>
+<p>A lactose é o principal carboidrato do leite e de muitos derivados, como queijos frescos, iogurtes, manteiga, creme de leite e leite em pó. Para digeri-la, o intestino precisa de uma enzima chamada lactase. Quando a produção dessa enzima é insuficiente, a lactose chega ao intestino grosso sem ser digerida, e então podem surgir gases, inchaço, cólicas e diarreia.</p>
+<p>Os produtos sem lactose passam por processos de fabricação que retiram a lactose ou a transformam em açúcares mais simples, facilmente absorvidos. Em alguns casos, o alimento é naturalmente isento de lactose, como a maioria das frutas, verduras, grãos e carnes. Por isso, a leitura do rótulo é essencial para saber o que realmente está na embalagem.</p>
+<p>Também existem produtos feitos com bebidas vegetais, como as de aveia, soja e amêndoa, que não contêm leite de origem animal. Esses itens costumam ser úteis para substituir o leite no dia a dia, mas nem sempre têm o mesmo perfil nutricional, então é bom comparar as informações da tabela.</p>
 
-<p>Este guia reúne informações baseadas nas normas da Anvisa e em diretrizes clínicas para ajudar a entender o que são produtos sem lactose, como identificá-los e quando eles são — ou não — a escolha adequada.</p>
+<h2>Intolerância à lactose e alergia à proteína do leite</h2>
+<p>Intolerância à lactose e alergia à proteína do leite são condições diferentes, e a confusão entre elas é comum. Na intolerância, o problema está na digestão do açúcar do leite e os sintomas costumam ser digestivos. Na alergia, o sistema imunológico reage às proteínas do leite, e as manifestações podem incluir urticária, vômitos, inchaço nos lábios e, em casos graves, dificuldade para respirar.</p>
+<p>Por isso, quem tem sintomas após consumir laticínios deve buscar avaliação antes de se restringir por conta própria. Retirar o leite sem diagnóstico pode levar a carência de cálcio e de outros nutrientes, principalmente em crianças, gestantes e idosos.</p>
+<p>Em casos de alergia à proteína do leite, a dieta exige ainda mais cuidado, porque a ausência total das proteínas precisa ser garantida. Nessa situação, a leitura do rótulo se torna ainda mais criteriosa e deve incluir a identificação de alérgenos.</p>
 
-<h2>O que significa um produto “zero lactose”?</h2>
-<p>Produtos “zero lactose” são aqueles que passaram por um processo de hidrólise, no qual a enzima lactase foi adicionada para quebrar a lactose em glicose e galactose. O açúcar do leite continua presente, mas em sua forma simples, que não causa desconforto em intolerantes [citation:2].</p>
+<h2>Como ler o rótulo com atenção</h2>
+<p>A tabela de ingredientes e a declaração de alergênicos são as informações mais importantes. Em geral, a lactose aparece listada como ingrediente ou como parte de componentes como soro de leite, caseína, leite em pó e manteiga. Palavras como lactose, leite, soro e caseinato indicam a presença de derivados.</p>
+<ul>
+<li>Leia a lista de ingredientes inteira, e não apenas a frente da embalagem.</li>
+<li>Confira se há advertências como contém leite ou pode conter traços.</li>
+<li>Desconfie de termos genéricos, como light ou natural, que não garantem ausência de lactose.</li>
+<li>Em caso de dúvida, consulte o serviço de atendimento do fabricante ou um nutricionista.</li>
+</ul>
+<p>A regulamentação brasileira prevê regras de rotulagem para alimentos e para a informação sobre alérgenos. Ler o rótulo com calma é um hábito simples, que evita surpresas e torna as compras mais seguras.</p>
 
-<p>A Anvisa define que um alimento pode ser rotulado como “zero lactose” quando contém menos de 100 miligramas de lactose por 100 gramas ou mililitros do produto [citation:2]. Essa quantidade é considerada segura para a maioria das pessoas com intolerância.</p>
+<h2>Substituições práticas para o dia a dia</h2>
+<p>Trocar o leite de vaca por uma bebida vegetal é uma das substituições mais comuns. Para receitas, é possível usar leite sem lactose, que mantém o sabor parecido com o original. No café da manhã, iogurtes sem lactose ou à base de vegetais podem acompanhar frutas, cereais e sementes.</p>
+<p>Queijos maturados, como alguns tipos mais envelhecidos, tendem a ter menos lactose do que queijos frescos, mas essa informação não deve ser usada como regra geral sem conferir o rótulo. Manteiga e creme de leite também podem ser substituídos por azeite, purês ou cremes vegetais, dependendo da receita.</p>
+<p>Ao cozinhar, vale testar as substituições aos poucos, observando como o corpo reage. Assim, é possível descobrir quais alimentos são bem tolerados e quais geram desconforto. Um diário simples, anotando o que foi consumido e os sintomas que apareceram nas horas seguintes, costuma ajudar bastante na conversa com o médico ou com o nutricionista. Com essas anotações em mãos, fica mais fácil ajustar a alimentação sem cortar grupos inteiros de alimentos por precaução.</p>
 
-<p>Existem também os produtos “baixo teor de lactose”, que contêm entre 100 mg e 1 grama de lactose por 100 g ou ml. E os produtos “contém lactose”, quando ultrapassam esse limite [citation:2].</p>
+<h2>Cálcio, vitamina D e alimentação equilibrada</h2>
+<p>O leite e seus derivados são fontes importantes de cálcio, por isso a retirada desses alimentos exige atenção ao consumo de outras fontes. Vegetais de folhas verde-escuras, leguminosas, sementes, peixes com espinha consumidos em lata e alimentos fortificados podem contribuir para a ingestão do mineral.</p>
+<p>A vitamina D também é essencial para a absorção do cálcio e depende em grande parte da exposição ao sol. Quem evita laticínios deve conversar com o médico sobre a necessidade de suplementação, sem iniciar nada por conta própria. Para entender melhor a importância desse equilíbrio, vale ler sobre <a href="/osteoporose/">osteoporose</a> e a relação entre cálcio, vitamina D e saúde óssea.</p>
+<p>Além disso, a alimentação sem lactose pode ser variada e saborosa. Frutas, legumes, grãos integrais e proteínas magras formam a base de refeições completas, com boa saciedade e aporte de fibras. Para quem está começando, uma boa estratégia é escolher algumas receitas favoritas e adaptá-las aos poucos, em vez de tentar mudar toda a rotina de uma vez.</p>
 
-<p>É importante não confundir “zero lactose” com “sem leite”. O produto continua tendo leite em sua composição, apenas com o açúcar quebrado. Essa distinção é crucial para quem tem alergia à proteína do leite de vaca.</p>
-
-<div id="container-imagem-1" class="loading">Carregando imagem...</div>
-
-<h2>Como são feitos os produtos zero lactose?</h2>
-<p>A produção industrial de produtos sem lactose envolve a adição da enzima lactase ao leite ou derivado. Essa enzima atua como um catalisador, quebrando a molécula de lactose em duas partes: glicose e galactose [citation:2].</p>
-
-<p>O processo ocorre antes ou durante o beneficiamento do leite. A enzima é adicionada em condições controladas de temperatura e tempo, garantindo que a lactose seja hidrolisada de forma eficiente.</p>
-
-<p>O resultado é um produto com sabor ligeiramente mais doce, porque a glicose e a galactose têm poder adoçante maior que a lactose. Em alguns casos, a indústria ajusta a formulação para compensar essa diferença.</p>
-
-<p>Para queijos e iogurtes, o processo pode ser adaptado. Queijos curados naturalmente, como parmesão e cheddar, já têm baixo teor de lactose devido à fermentação bacteriana prolongada.</p>
-
-<h2>Qual a diferença entre intolerância à lactose e APLV?</h2>
-<p>Essa é a confusão mais perigosa quando o assunto é produtos sem lactose. A intolerância à lactose é um problema digestivo, enquanto a APLV (alergia à proteína do leite de vaca) é uma reação imunológica que pode ser grave.</p>
-
-<table>
-<thead>
-<tr>
-<th>Característica</th>
-<th>Intolerância à lactose</th>
-<th>APLV (Alergia à Proteína do Leite)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Causa</td>
-<td>Deficiência da enzima lactase</td>
-<td>Reação do sistema imunológico às proteínas</td>
-</tr>
-<tr>
-<td>Substância envolvida</td>
-<td>Açúcar do leite (lactose)</td>
-<td>Proteínas (caseína, beta-lactoglobulina, alfa-lactoalbumina)</td>
-</tr>
-<tr>
-<td>Sintomas</td>
-<td>Gases, inchaço, diarreia, cólicas</td>
-<td>Urticária, vômitos, dificuldade respiratória, anafilaxia</td>
-</tr>
-<tr>
-<td>Gravidade</td>
-<td>Desconforto, mas não é uma emergência</td>
-<td>Pode ser fatal sem atendimento imediato</td>
-</tr>
-<tr>
-<td>Produtos “zero lactose”</td>
-<td>São seguros</td>
-<td>NÃO são seguros (contêm proteína do leite)</td>
-</tr>
-<tr>
-<td>Alternativas seguras</td>
-<td>Leite sem lactose, leites vegetais</td>
-<td>Apenas produtos sem leite ou derivados, leites vegetais</td>
-</tr>
-</tbody>
-</table>
-
-<p>Pessoas com APLV não podem consumir produtos “zero lactose”. Eles contêm proteínas do leite que desencadeiam a reação alérgica [citation:5][citation:9].</p>
-
-<p>A Unicamp disponibiliza uma lista de ingredientes que indicam a presença de proteína do leite, mesmo que a palavra “leite” não apareça no rótulo. Caseína, caseinato, soro de leite, whey protein, lactoalbumina, lactoglobulina e gordura de leite são alguns exemplos [citation:14].</p>
-
-<div id="container-imagem-2" class="loading">Carregando imagem...</div>
-
-<h2>Como ler os rótulos de produtos sem lactose?</h2>
-<p>A Anvisa exige que a presença de lactose seja declarada de forma clara nos rótulos dos alimentos industrializados. A informação deve estar em caixa alta, negrito e com altura mínima de 2 mm [citation:2].</p>
-
-<p>Os produtos com mais de 100 mg de lactose por 100 g ou ml devem trazer a expressão “CONTÉM LACTOSE”. Os produtos com teor entre 100 mg e 1 g podem usar “BAIXO TEOR DE LACTOSE” ou “BAIXO EM LACTOSE”. Abaixo de 100 mg, o produto pode ser rotulado como “ZERO LACTOSE” [citation:2].</p>
-
-<p>Para quem tem APLV, a leitura do rótulo vai além da lactose. É preciso verificar a lista de ingredientes em busca de qualquer termo que indique proteína do leite.</p>
-
-<h3>Ingredientes que indicam proteína do leite (evitar na APLV)</h3>
-<p>Caseína, caseinato de cálcio, caseinato de sódio, caseinato de potássio, caseinato de amônio, soro de leite, whey protein, lactoalbumina, lactoglobulina, lactoferrina, gordura de leite, gordura anidra, óleo de manteiga, éster de manteiga, ghee, leite em pó, leite condensado, creme de leite [citation:9][citation:14].</p>
-
-<p>Outros produtos que frequentemente contêm leite oculto: embutidos (salsicha, presunto, mortadela), salgadinhos, sopas instantâneas, chocolate, pães e bolos industrializados, sorvetes e massas [citation:14].</p>
-
-<h3>Ingredientes que NÃO contêm leite, apesar do nome parecido</h3>
-<p>Ácido lático, lactato de sódio, lactato de cálcio, estearoil lactil lactato, leite de coco, manteiga de cacau, conservante propionato de cálcio [citation:9].</p>
-
-<p>Esses ingredientes têm nomes que podem confundir, mas não são derivados do leite e podem ser consumidos por pessoas com APLV.</p>
-
-<h2>Quem não tem intolerância pode consumir produtos sem lactose?</h2>
-<p>Sim, não há contraindicação. Produtos zero lactose são nutricionalmente equivalentes aos tradicionais, com a vantagem de terem o açúcar do leite pré-digerido, o que pode facilitar a digestão para algumas pessoas [citation:2].</p>
-
-<p>No entanto, não trazem benefícios adicionais para quem não tem intolerância. E podem ser mais caros que as versões tradicionais.</p>
-
-<p>Uma consideração importante: a quebra prévia da lactose disponibiliza glicose de forma mais rápida na corrente sanguínea. Para pessoas com diabetes ou resistência à insulina, isso pode ter relevância, embora a diferença seja modesta e dependa da quantidade consumida.</p>
-
-<p>O World Gastroenterology Organisation recomenda que a restrição de lactose seja feita apenas quando há diagnóstico confirmado, para evitar restrições desnecessárias que podem comprometer a ingestão de cálcio e vitamina D [citation:3].</p>
-
-<div id="container-imagem-3" class="loading">Carregando imagem...</div>
-
-<h2>Quais são os melhores substitutos para quem tem intolerância ou APLV?</h2>
-<p>Para intolerantes à lactose, as opções incluem leites e derivados sem lactose, queijos curados naturalmente e suplementação com lactase em comprimidos antes das refeições.</p>
-
-<p>Para pessoas com APLV, a única alternativa segura é evitar completamente o leite de vaca e todos os seus derivados. Leites vegetais são as principais opções.</p>
-
-<table>
-<thead>
-<tr>
-<th>Alternativa</th>
-<th>Indicado para</th>
-<th>Observação</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Leite sem lactose</td>
-<td>Intolerantes</td>
-<td>Contém proteína do leite — inseguro para APLV</td>
-</tr>
-<tr>
-<td>Queijos curados (parmesão, cheddar)</td>
-<td>Intolerantes</td>
-<td>Baixo teor natural de lactose</td>
-</tr>
-<tr>
-<td>Leite de amêndoas</td>
-<td>Intolerantes e APLV</td>
-<td>Verificar fortificação com cálcio</td>
-</tr>
-<tr>
-<td>Leite de aveia</td>
-<td>Intolerantes e APLV</td>
-<td>Boa textura para café e receitas</td>
-</tr>
-<tr>
-<td>Leite de coco</td>
-<td>Intolerantes e APLV</td>
-<td>Versátil para culinária</td>
-</tr>
-<tr>
-<td>Leite de soja</td>
-<td>Intolerantes e APLV</td>
-<td>Atenção: soja é alergênico comum</td>
-</tr>
-</tbody>
-</table>
-
-<p>O World Gastroenterology Organisation recomenda que o tratamento da intolerância à lactose inclua educação alimentar por profissional de saúde para garantir ingestão adequada de cálcio [citation:3].</p>
-
-<p>Leites vegetais nem sempre têm a mesma quantidade de cálcio que o leite de vaca. É importante escolher versões fortificadas ou compensar com outras fontes alimentares.</p>
+<h2>Cuidados ao comer fora e em viagens</h2>
+<p>Restaurantes, padarias e lanchonetes costumam usar leite e manteiga em molhos, massas, pães e sobremesas. Por isso, ao pedir uma refeição sem lactose, vale perguntar sobre os ingredientes e a forma de preparo, e pedir que o molho seja feito sem creme ou queijo.</p>
+<p>Em viagens, levar lanches prontos e leite vegetal pode facilitar a rotina. Vale também planejar paradas com antecedência, pesquisando cardápios e informando a equipe sobre a restrição logo no início do pedido, para evitar improvisos que podem resultar em desconforto. Também é útil ter em mente que a contaminação cruzada pode ocorrer em cozinhas que preparam diferentes tipos de alimento, o que é especialmente relevante para quem tem alergia.</p>
+<p>Para manter escolhas práticas no dia a dia, vale consultar ideias de <a href="/lanches-saudaveis/">lanches saudáveis</a>, que podem ser montados com frutas, castanhas e pães sem laticínios.</p>
 
 <h2>Perguntas frequentes</h2>
+<p><strong>Produto sem lactose é o mesmo que produto vegano?</strong><br>Não. Produtos sem lactose podem conter ovos, mel ou proteínas de origem animal. Veganos evitam todos os ingredientes de origem animal, então é preciso ler a lista de ingredientes.</p>
+<p><strong>Quem tem intolerância pode comer pequenas quantidades?</strong><br>Muitas pessoas toleram doses pequenas de lactose, mas a resposta varia. O ideal é observar sintomas e discutir a melhor estratégia com um profissional.</p>
+<p><strong>Produtos sem lactose são mais caros?</strong><br>Em geral, costumam ter preço mais alto. Comparar marcas, ler rótulos e priorizar alimentos naturais sem lactose ajuda a reduzir o gasto.</p>
+<p><strong>Crianças podem deixar de tomar leite?</strong><br>Não sem orientação. Em crianças, a retirada de laticínios precisa de avaliação pediátrica para garantir cálcio e outros nutrientes.</p>
 
-<h3>1. Produto “zero lactose” pode ter leite?</h3>
-<p>Sim. “Zero lactose” significa que o açúcar do leite foi quebrado, mas as proteínas do leite permanecem. Não é seguro para quem tem APLV [citation:2][citation:5].</p>
-
-<h3>2. Qual a diferença entre “zero lactose” e “sem lactose”?</h3>
-<p>Não há diferença regulatória. A Anvisa padroniza as expressões “zero lactose”, “isento de lactose”, “0% lactose”, “sem lactose” ou “não contém lactose” para produtos com menos de 100 mg/100g [citation:2].</p>
-
-<h3>3. Leite de cabra é seguro para intolerantes?</h3>
-<p>Não. O leite de cabra contém lactose em quantidade semelhante ao leite de vaca. Para APLV, também não é seguro, pois as proteínas são semelhantes [citation:1][citation:6].</p>
-
-<h3>4. Como identificar lactose oculta em embutidos?</h3>
-<p>Verifique a lista de ingredientes. Termos como “leite em pó”, “soro de leite”, “caseinato” e “lactose” indicam presença. Em caso de dúvida, consulte o SAC do fabricante [citation:14].</p>
-
-<h3>5. Suplemento de lactase funciona?</h3>
-<p>Sim, comprimidos de lactase tomados antes de consumir laticínios podem reduzir os sintomas em intolerantes. A eficácia varia conforme a dose e a quantidade de lactose ingerida [citation:3].</p>
+<h2>Quando procurar um médico</h2>
+<p>Procure atendimento se apresentar inchaço abdominal frequente, cólicas, diarreia após o consumo de laticínios, perda de peso sem explicação, urticária, vômitos ou falta de ar depois de comer algum alimento. Sintomas graves exigem atendimento de urgência.</p>
+<p>O médico pode solicitar exames e orientar sobre dieta, suplementação e acompanhamento com nutricionista. Quem decide sobre a alimentação em casos de intolerância ou alergia é o profissional que avalia o caso individualmente.</p>
+<p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
 <h2>Resumindo</h2>
-<p>Produtos “zero lactose” são aqueles com menos de 100 mg de lactose por 100 g ou ml, obtidos pela adição da enzima lactase que quebra o açúcar do leite em glicose e galactose [citation:2].</p>
-
-<p>Esses produtos são seguros para intolerantes à lactose, mas não para pessoas com APLV. Eles contêm proteínas do leite que desencadeiam reações alérgicas, que podem ser graves [citation:5][citation:9].</p>
-
-<p>A leitura de rótulos é essencial. Para APLV, é preciso identificar termos como caseína, caseinato, soro de leite, whey protein e lactoalbumina. Esses ingredientes podem estar presentes em embutidos, salgadinhos, pães e outros produtos [citation:14].</p>
-
-<p>Quem não tem intolerância pode consumir produtos sem lactose sem riscos, mas não há benefícios adicionais. A restrição de lactose deve ser feita apenas com diagnóstico confirmado [citation:3].</p>
-
-<p>Alternativas para intolerantes incluem leites sem lactose, queijos curados e suplementação de lactase. Para APLV, apenas leites vegetais e produtos comprovadamente sem leite são seguros.</p>
-
-<h2>Fontes</h2>
-<ul>
-<li>Rotulagem de lactose em alimentos tem regra publicada - Anvisa. https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2017/rotulagem-de-lactose-em-alimentos-tem-regra-publicada</li>
-<li>Rotulagem de lactose: perguntas e respostas - Biblioteca Digital Anvisa. https://bibliotecadigital.anvisa.gov.br/jspui/handle/anvisa/214</li>
-<li>Alergia à Proteína do Leite de Vaca: Leitura de rótulos - Unicamp. https://www.fcm.unicamp.br/alergiped/en/orientacoes/leitura-de-rotulos-alergia-ao-leite-de-vaca.html</li>
-<li>Será que esse alimento tem proteínas do leite de vaca? - Unimed. https://www.unimed.coop.br/site/documents/755471/1092763/Prote%C3%ADna+do+leite.pdf</li>
-<li>Alergia à Proteína do Leite de Vaca - Hospital de Clínicas de Porto Alegre. https://www.hcpa.edu.br/area-do-paciente-apresentacao/area-do-paciente-sua-saude/educacao-em-saude/send/2-educacao-em-saude/78-pes013-292835-alergia-proteina-leite-site</li>
-<li>Diet and the Gut - World Gastroenterology Organisation. https://www.worldgastroenterology.org/UserFiles/file/guidelines/diet-and-the-gut-portuguese.pdf</li>
-</ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
-<h2>Quando procurar um médico</h2>
-<p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://www.gov.br" target="_blank" rel="noopener">Governo Federal</a> e da <a href="https://hcpa.edu.br" target="_blank" rel="noopener">hcpa.edu.br</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>Produtos sem lactose ajudam quem tem intolerância ao açúcar do leite a manter uma alimentação variada. A leitura atenta do rótulo, a identificação de derivados lácteos e as substituições adequadas são os pontos centrais para fazer boas escolhas no mercado e em casa.</p>
+<p>Antes de excluir o leite e seus derivados, é recomendável buscar diagnóstico, cuidar do aporte de cálcio e vitamina D e contar com a orientação de um profissional. Com esse cuidado, a rotina sem lactose pode ser prática, segura e saborosa.</p>

@@ -1,118 +1,60 @@
 PALAVRA_CHAVE: biotina para que serve
-TITLE: Biotina para que serve: funções, riscos e o que a ciência mostra
-DESCRIPTION: Entenda o papel da biotina no metabolismo, por que a deficiência é rara, os riscos das megadoses e a interferência em exames de tireoide e troponina.
-CAPA_ALT: Cápsulas de biotina ao lado de ovos, fígado e amêndoas sobre uma mesa de madeira
-CAPA_TITLE: Biotina para que serve: funções metabólicas e fontes alimentares
-CAPA_LEGENDA: A biotina atua como cofator enzimático no metabolismo de gorduras, glicose e aminoácidos.
-FONTE: Biotin Fact Sheet for Health Professionals | https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/
+TITLE: Biotina para que serve: funções, riscos e evidências
+DESCRIPTION: Biotina para que serve no organismo, o que a ciência diz sobre cabelo e pele, por que ela pode alterar exames de sangue e quando buscar orientação.
+FONTE: Biotin Fact Sheet for Health Professionals, NIH Office of Dietary Supplements | https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/
 FONTE: The FDA Warns that Biotin May Interfere with Lab Tests | https://www.fda.gov/medical-devices/safety-communications/fda-warns-biotin-may-interfere-lab-tests-fda-safety-communication
-FONTE: A Review of the Use of Biotin for Hair Loss | https://pmc.ncbi.nlm.nih.gov/articles/PMC5582478/
-FONTE: Alerta 3007 (Tecnovigilância) - Interferência de Biotina em Imunodiagnósticos | https://www.gov.br/anvisa/pt-br/alertas
-FONTE: Biotina e Ácido Pantotênico - Manual MSD | https://www.msdmanuals.com/pt/profissional/transtornos-nutricionais/defici%C3%AAncia-vitam%C3%ADnica-e-depend%C3%AAncia
+FONTE: Alerta de Tecnovigilância sobre interferência de biotina em imunodiagnósticos, Anvisa | https://www.gov.br/anvisa/pt-br/alertas
+CAPA_BUSCA: vitamin B supplement
+CAPA_ALT: Cápsulas e comprimidos de suplemento vitamínico ao lado de um copo de água, tema biotina para que serve
+FOTO1_BUSCA: laboratory blood test tubes
+FOTO1_ALT: Tubos de coleta de sangue em um laboratório clínico
+FOTO1_LEGENDA: Suplementos de biotina podem interferir em alguns resultados de exames.
+FOTO1_SECAO: 2
+FOTO2_BUSCA: healthy breakfast
+FOTO2_ALT: Café da manhã com ovos, frutas e sementes, fontes alimentares de vitaminas do complexo B
+FOTO2_LEGENDA: Alimentos variados costumam fornecer a biotina necessária ao organismo.
+FOTO2_SECAO: 4
 ---
-
-<article>
-
-<h1>Biotina para que serve: funções, riscos e o que a ciência mostra</h1>
-
-<p>A biotina é uma vitamina hidrossolúvel do complexo B, também chamada de vitamina B7 ou vitamina H. Ela aparece em suplementos vendidos como aliados de cabelo, pele e unhas, quase sempre em doses muito acima do que o corpo precisa. A pergunta central é simples: para que a biotina serve de verdade e quando a suplementação faz sentido.</p>
-
-<p>A resposta envolve metabolismo, deficiência rara, interferência em exames laboratoriais e limites claros do que a evidência sustenta. É sobre isso que este conteúdo trata.</p>
-
-<h2>O que é a biotina e quais são suas funções no organismo</h2>
-
-<p>A biotina atua como cofator de cinco carboxilases humanas. Essas enzimas participam de etapas críticas do metabolismo de ácidos graxos, glicose e aminoácidos. Sem biotina suficiente, reações essenciais para a produção de energia e para a síntese de lipídios ficam comprometidas.</p>
-
-<p>Além do papel enzimático, a biotina participa de modificações de histonas e da regulação da expressão gênica. Ela interfere na atividade de fatores de transcrição e em vias de sinalização celular. Essas funções explicam por que a deficiência afeta múltiplos sistemas ao mesmo tempo.</p>
-
-<p>A recomendação de ingestão diária adequada para adultos é de 30 microgramas por dia, segundo o National Institutes of Health (NIH) dos Estados Unidos. A quantidade é baixa porque o corpo recicla biotina de forma eficiente e a microbiota intestinal também produz pequenas quantidades.</p>
-
-<h2>Fontes alimentares e a raridade da deficiência</h2>
-
-<p>A biotina está presente em muitos alimentos, embora em concentrações modestas. Ovo cozido, fígado, salmão, amêndoas, nozes, sementes de girassol e batata-doce são fontes conhecidas. A maioria das pessoas obtém quantidade suficiente apenas pela alimentação.</p>
-
-<p>A deficiência de biotina é rara em indivíduos saudáveis. O NIH documenta que ela ocorre quase exclusivamente em situações específicas: erros inatos do metabolismo, como a deficiência de biotinidase, consumo prolongado de clara de ovo crua, nutrição parenteral prolongada sem suplementação adequada e uso crônico de anticonvulsivantes.</p>
-
-<p>A clara de ovo crua contém avidina, uma proteína que se liga fortemente à biotina no intestino e impede sua absorção. O calor desnatura a avidina e elimina esse efeito. Por isso, o consumo de ovos cozidos não representa risco para a absorção da vitamina.</p>
-
-<p>Pessoas com deficiência de biotinidase ou outras causas raras de deficiência apresentam sintomas como dermatite, alopecia, letargia, glossite e alterações neurológicas. Nesses casos, a suplementação é indicada e monitorada por profissional de saúde.</p>
-
-<h2>Evidências sobre cabelo e unhas: o que os estudos mostram</h2>
-
-<p>A popularidade da biotina como suplemento capilar não é proporcional à força da evidência científica. Uma revisão sistemática publicada na <em>Skin Appendage Disorders</em> analisou todos os relatos de caso e ensaios clínicos disponíveis sobre biotina para cabelo e unhas.</p>
-
-<p>Os autores encontraram 18 casos relatados. Em todos eles, os pacientes tinham alguma condição de base que explicava o problema capilar ou ungueal, como deficiência diagnosticada de biotina, síndrome das unhas frágeis ou cabelo impossível de pentear. Todos apresentaram melhora clínica após a suplementação.</p>
-
-<p>A conclusão da revisão é direta: não há evidência suficiente para recomendar biotina como suplemento para crescimento de cabelo e unhas em pessoas saudáveis. O uso faz sentido apenas quando há deficiência comprovada ou condição específica que responde à vitamina.</p>
-
-<p>Não há ensaios clínicos randomizados robustos que demonstrem aumento de densidade capilar ou velocidade de crescimento ungueal com biotina isolada em indivíduos sem deficiência.</p>
-
-<h2>Interferência em exames laboratoriais: o risco mais grave</h2>
-
-<p>O uso de biotina em doses elevadas pode distorcer resultados de exames que utilizam tecnologia de biotina-estreptavidina. Essa tecnologia é comum em imunoensaios para hormônios tireoidianos, troponina cardíaca, marcadores de insuficiência cardíaca e outros analitos.</p>
-
-<p>A FDA emitiu um comunicado de segurança em 2017 e o atualizou em 2019 alertando que a biotina pode causar resultados falsamente baixos ou falsamente elevados, dependendo do tipo de ensaio. Um paciente que tomava altas doses de biotina morreu após um teste de troponina dar resultado falsamente baixo, o que atrasou o diagnóstico de infarto.</p>
-
-<p>A Anvisa também emitiu alertas de tecnovigilância sobre a interferência da biotina em kits de imunodiagnóstico. Os alertas atingem testes de TSH, T4 livre, PSA livre e troponina, entre outros. A recomendação é que profissionais de saúde perguntem aos pacientes sobre suplementos com biotina antes de interpretar resultados.</p>
-
-<p>Uma única dose de 10 miligramas de biotina pode interferir em testes de função tireoidiana realizados nas 24 horas seguintes. Doses maiores, como as encontradas em suplementos de 10.000 microgramas, prolongam o período de interferência.</p>
-
-<h2>Doses vendidas e a distância entre suplemento e necessidade</h2>
-
-<p>A recomendação diária adequada para adultos é de 30 microgramas. Suplementos vendidos para cabelo e unhas frequentemente contêm 5.000 a 10.000 microgramas por cápsula, ou seja, centenas de vezes a quantidade que o corpo precisa.</p>
-
-<p>Não há evidência de que doses muito acima da recomendação tragam benefício adicional para pessoas sem deficiência. O excesso é eliminado pela urina, mas antes disso pode interferir em exames e, em algumas pessoas, desencadear efeitos indesejados.</p>
-
-<p>Relatos de caso descrevem exacerbação de acne e piora de cefaleia em pessoas que iniciaram megadoses de biotina. Esses efeitos não são universais, mas mostram que a suplementação sem indicação não é isenta de consequências.</p>
-
-<h2>Grupos de risco e contraindicações</h2>
-
-<p>Gestantes e lactantes devem evitar suplementação de biotina sem orientação profissional. A necessidade pode estar aumentada nesses períodos, mas a suplementação deve ser individualizada e baseada em avaliação clínica.</p>
-
-<p>Pessoas que usam anticonvulsivantes de forma crônica podem ter níveis reduzidos de biotina. Estudos mostram que medicamentos como carbamazepina, fenitoína e fenobarbital aceleram o catabolismo da vitamina e podem inibir sua absorção intestinal.</p>
-
-<p>Pacientes em nutrição parenteral prolongada sem suplementação adequada de biotina estão em risco de deficiência. A suplementação nesses casos é parte do protocolo nutricional e deve ser conduzida pela equipe de saúde.</p>
-
-<p>Pessoas com histórico de alergia a componentes de suplementos de biotina devem evitar o produto. Reações alérgicas são raras, mas existem.</p>
-
-<p>Quem faz exames de tireoide, troponina ou outros testes sensíveis à biotina deve informar o laboratório sobre o uso do suplemento. Em alguns casos, a suspensão temporária pode ser necessária, mas essa decisão deve ser tomada com o médico que solicitou o exame.</p>
-
-<h2>Perguntas frequentes sobre biotina</h2>
-
-<h3>Tomar biotina pura ajuda o cabelo a crescer e parar de cair?</h3>
-<p>Não há evidência científica que sustente essa afirmação em pessoas saudáveis. A revisão sistemática disponível mostra que os casos de melhora ocorreram em pacientes com deficiência diagnosticada ou condições específicas do cabelo. Para queda capilar de causa hormonal, nutricional ou inflamatória, a biotina isolada não é tratamento.</p>
-
-<h3>Quais são os principais alimentos ricos em vitamina B7?</h3>
-<p>Ovo cozido, fígado, salmão, amêndoas, nozes, sementes de girassol e batata-doce são fontes de biotina. As quantidades por porção são modestas, mas a soma da alimentação diária costuma ser suficiente para atender à necessidade de 30 microgramas.</p>
-
-<h3>Qual o perigo de tomar biotina em excesso?</h3>
-<p>O principal risco é a interferência em exames laboratoriais. Megadoses podem mascarar um infarto ao falsear o resultado da troponina, ou simular alterações de tireoide que não existem. Há também relatos de acne e piora de cefaleia em algumas pessoas.</p>
-
-<h3>A deficiência de biotina é comum?</h3>
-<p>Não. A deficiência é rara porque a necessidade diária é baixa, muitos alimentos fornecem a vitamina, a microbiota intestinal produz pequenas quantidades e o corpo recicla biotina nos rins. Os casos ocorrem em situações específicas, como consumo prolongado de clara de ovo crua ou erros inatos do metabolismo.</p>
-
+<p>Biotina para que serve, em primeiro lugar, ao metabolismo: ela participa do aproveitamento de carboidratos, gorduras e proteínas. Fora dessa função, o uso para cabelo e pele é bastante divulgado, mas as evidências são limitadas. Entenda o que se sabe e onde estão os riscos.</p>
+<h2>Funções da biotina no organismo</h2>
+<p>A biotina, ou vitamina B7, funciona como coenzima de enzimas responsáveis por reações químicas essenciais. Essas reações permitem transformar os nutrientes da alimentação em energia e em moléculas usadas pelas células.</p>
+<p>Além do metabolismo energético, a biotina participa de processos de regulação da expressão de genes. Essa atuação é estudada há décadas, e ajuda a explicar por que a vitamina é necessária ao longo de toda a vida.</p>
+<p>Em geral, a biotina está presente em ovos cozidos, fígado, leguminosas, sementes e vegetais. A microbiota intestinal também produz parte dela, o que contribui para o equilíbrio do organismo em pessoas saudáveis.</p>
+<h2>O que a ciência diz sobre cabelo e pele</h2>
+<p>A relação entre biotina e cabelo é uma das ideias mais populares, mas a base científica é frágil. Os casos em que a suplementação parece ajudar costumam envolver pessoas com deficiência confirmada, o que não representa a maioria de quem busca o produto.</p>
+<p>Estudos em pessoas sem carência são pequenos, têm metodologia variada e, em muitos casos, não comparam o suplemento com placebo. Por isso, não é possível afirmar que a biotina melhore o cabelo de forma geral.</p>
+<p>Na pele, a situação é semelhante. Há relatos e pesquisas preliminares, mas nada que justifique indicação ampla. Quem tem problemas de pele deve buscar avaliação de dermatologista, que pode indicar o cuidado adequado para cada tipo de alteração.</p>
+<p>Se a preocupação for a queda de cabelo, vale entender as causas gerais antes de qualquer suplemento. O texto sobre <a href="/queda-de-cabelo/">queda de cabelo</a> explica os fatores mais comuns e os sinais que merecem avaliação.</p>
+<h2>O risco de interferir em exames de sangue</h2>
+<p>O ponto mais importante para quem usa biotina é a interferência em exames laboratoriais. Órgãos de saúde dos Estados Unidos alertaram que doses altas podem gerar resultados falsos em testes que dependem da ligação entre biotina e estreptavidina.</p>
+<p>Essas alterações já foram associadas a exames de tireoide e de marcadores do coração. O problema é que o resultado pode parecer normal ou anormal sem que haja nenhuma alteração real no paciente, o que leva a decisões equivocadas.</p>
+<p>No Brasil, a Anvisa também emitiu alerta de tecnovigilância sobre esse tipo de interferência em imunodiagnósticos. A recomendação é clara: informe o uso de biotina antes de qualquer coleta, e aguarde orientação do médico sobre quando interromper o suplemento, se for preciso.</p>
+<ul>
+<li>Informe ao laboratório todos os suplementos em uso.</li>
+<li>Não interrompa nem altere o uso sem orientação médica.</li>
+<li>Peça que o profissional considere a interferência ao interpretar o exame.</li>
+</ul>
+<h2>Quando a biotina pode ser necessária</h2>
+<p>A biotina é indicada para situações específicas, como algumas alterações genéticas do metabolismo e deficiências comprovadas por exame. Nesses casos, o tratamento é definido por médico, que avalia a dose e o acompanhamento.</p>
+<p>Gestantes, pessoas que fazem nutrição parenteral, quem usa medicamentos antiepilépticos e quem consome grande quantidade de clara de ovo crua também podem ter necessidades diferentes. A decisão deve ser individual.</p>
+<h2>Como escolher alimentos e suplementos com segurança</h2>
+<p>Uma alimentação variada costuma fornecer a biotina necessária. Ovos cozidos, castanhas, sementes, aveia, legumes e leguminosas são boas opções para o dia a dia, sem necessidade de suplemento.</p>
+<p>Se houver dúvida sobre suplementação, leve o rótulo ao profissional e informe todos os produtos que usa. Desconfie de promessas de resultado rápido ou de linguagem que sugere solução rápida para problemas complexos.</p>
+<h2>Perguntas frequentes</h2>
+<p><strong>Biotina para que serve no corpo?</strong></p>
+<p>Ela participa do metabolismo de nutrientes e de processos celulares. A deficiência é rara, mas precisa de tratamento orientado.</p>
+<p><strong>A biotina melhora o cabelo?</strong></p>
+<p>Não há evidência sólida de benefício em pessoas sem carência. Os estudos existentes são pequenos e limitados.</p>
+<p><strong>A biotina pode dar resultado errado no exame?</strong></p>
+<p>Sim, doses altas podem interferir em alguns testes. Por isso, avise o laboratório e o médico antes da coleta.</p>
+<h2>Quando procurar um médico</h2>
+<p>Procure atendimento se você usa biotina e vai fazer exames, se tem queda de cabelo persistente, alterações de pele ou unhas, ou se notou sintomas novos após iniciar o suplemento. Também é importante avaliar sinais de alerta gerais, como cansaço intenso e perda de peso sem explicação.</p>
+<ul>
+<li>Exames alterados sem explicação clara.</li>
+<li>Queda de cabelo que dura meses.</li>
+<li>Sintomas novos depois de iniciar um suplemento.</li>
+</ul>
+<p>A avaliação e a conduta cabem ao profissional de saúde. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 <h2>Resumindo</h2>
-
-<p>A biotina é um cofator essencial para enzimas que participam do metabolismo de gorduras, glicose e aminoácidos. A necessidade diária é de 30 microgramas para adultos, quantidade facilmente obtida pela alimentação.</p>
-
-<p>A deficiência é rara em pessoas saudáveis. Ocorre principalmente em erros inatos do metabolismo, consumo prolongado de clara de ovo crua, nutrição parenteral sem suplementação e uso crônico de anticonvulsivantes.</p>
-
-<p>A evidência sobre biotina para crescimento de cabelo e unhas é limitada. Os estudos disponíveis envolveram pessoas com deficiência ou condições específicas. Não há respaldo para recomendar suplementação em indivíduos saudáveis.</p>
-
-<p>O risco mais grave do uso em megadoses é a interferência em exames laboratoriais. A biotina pode falsear resultados de troponina, TSH, T4 livre e outros testes, com consequências clínicas sérias.</p>
-
-<p>Pessoas que fazem exames sensíveis à biotina devem informar o laboratório e o médico sobre o uso do suplemento. A suplementação só se justifica quando há deficiência comprovada ou indicação médica específica.</p>
-
-<h2>Referências</h2>
-
-<p>National Institutes of Health. Office of Dietary Supplements. Biotin Fact Sheet for Health Professionals. https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/</p>
-
-<p>U.S. Food and Drug Administration. The FDA Warns that Biotin May Interfere with Lab Tests: FDA Safety Communication. 2019. https://www.fda.gov/medical-devices/safety-communications/fda-warns-biotin-may-interfere-lab-tests-fda-safety-communication</p>
-
-<p>Patel DP, Swink SM, Castelo-Soccio L. A Review of the Use of Biotin for Hair Loss. <em>Skin Appendage Disorders</em>. 2017;3(3):166-169. https://pmc.ncbi.nlm.nih.gov/articles/PMC5582478/</p>
-
-<p>Agência Nacional de Vigilância Sanitária. Alerta 3007 (Tecnovigilância) - Ortho Clinical Diagnósticos do Brasil - Informações sobre interferência de biotina. https://www.gov.br/anvisa/pt-br/alertas</p>
-
-<p>Manual MSD. Biotina e Ácido Pantotênico - Transtornos Nutricionais. https://www.msdmanuals.com/pt/profissional/transtornos-nutricionais/defici%C3%AAncia-vitam%C3%ADnica-e-depend%C3%AAncia</p>
-
-</article>
+<p>A biotina para que serve, principalmente, ao funcionamento do metabolismo. Ela é necessária em pequenas quantidades e costuma vir da alimentação. O uso para cabelo e pele tem evidência limitada, e não substitui investigação de sintomas.</p>
+<p>O maior cuidado é com a interferência em exames de sangue, que pode levar a diagnósticos equivocados. Antes de coletar exames, informe o uso e converse com seu médico. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>

@@ -1,272 +1,64 @@
 PALAVRA_CHAVE: minoxidil tônico capilar
 TITLE: Minoxidil Tônico Capilar: Como Usar, Shedding e Resultados
-DESCRIPTION: Entenda como usar o minoxidil tônico capilar corretamente, o que é o shedding inicial, comparação entre loção alcoólica e Trichosol e riscos de hipertricose.
-# REVISAR: tema sensível (precisa de revisão humana antes de REVISADO: sim)
+DESCRIPTION: Entenda como o minoxidil tônico capilar é usado, o que é o shedding, quanto tempo leva para avaliar resultados e quais cuidados exigem um médico.
 FONTE: Governo Federal | https://www.gov.br
 FONTE: Hospital Israelita Albert Einstein | https://www.einstein.br
-FONTE: fagroncompoundingservices.be | https://fagroncompoundingservices.be
-CAPA_BUSCA: woman hair care brush
-CAPA_ALT: Cuidados com os cabelos sobre minoxidil tônico capilar
-FOTO1_BUSCA: dermatologist scalp examination
-FOTO1_ALT: Avaliação do couro cabeludo relacionado a minoxidil tônico capilar
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+CAPA_BUSCA: scalp treatment bottle dropper
+CAPA_ALT: Frasco de tônico capilar com conta-gotas ao lado de uma escova de cabelo
+FOTO1_BUSCA: hair growth calendar notes
+FOTO1_ALT: Caderno com anotações e fotos para acompanhar a evolução do tratamento capilar
+FOTO1_LEGENDA: Registrar a evolução ajuda a avaliar os resultados com o médico.
 FOTO1_SECAO: 2
+FOTO2_BUSCA: doctor explaining scalp to patient
+FOTO2_ALT: Médico explicando a um paciente o acompanhamento do couro cabeludo
+FOTO2_LEGENDA: O acompanhamento médico define a duração e os ajustes do tratamento.
+FOTO2_SECAO: 4
 ---
-<div id="container-imagem-capa" class="loading">Carregando imagem...</div>
+<p>O minoxidil tônico capilar é uma das formas de uso do minoxidil no couro cabeludo, indicada em casos de queda de padrão androgenético. Como a substância exige regularidade e acompanhamento, muitas dúvidas surgem sobre a aplicação, o período de queda inicial e o tempo até observar mudanças. Este texto responde a essas dúvidas de forma geral e segura.</p>
 
-<p>O <strong>minoxidil tônico capilar</strong> é o tratamento tópico mais prescrito no mundo para alopecia androgenética, com eficácia comprovada em homens e mulheres. Apesar de sua popularidade, muitos usuários abandonam o tratamento nas primeiras semanas por não entenderem um fenômeno normal e esperado: o shedding inicial — o aumento temporário da queda de fios velhos que antecede o crescimento dos novos. Outros usam o produto de forma incorreta, aplicando no couro cabeludo úmido ou antes de deitar sem proteção, o que reduz a eficácia e aumenta o risco de efeitos colaterais como a hipertricose. Este artigo explica como usar o minoxidil corretamente, o que esperar em cada fase do tratamento, a diferença entre a loção alcoólica tradicional e os veículos sem álcool como o Trichosol, e os riscos que mulheres precisam conhecer antes de iniciar o uso.</p>
+<h2>O que é o minoxidil e para que é usado</h2>
+<p>O minoxidil é uma substância que, quando aplicada no couro cabeludo, pode ajudar a manter fios em fase de crescimento e a aumentar a espessura dos cabelos. Ele não corrige a causa hormonal ou genética da queda, mas atua sobre o ciclo capilar.</p>
+<p>Por ser um medicamento, sua indicação deve ser feita por um profissional, que avalia o tipo de queda, o histórico de saúde e a adequação do uso ao caso. Para entender as causas gerais antes de qualquer tratamento, leia sobre <a href="/queda-de-cabelo/">queda de cabelo</a>.</p>
 
-<h2>O Que É o Shedding Inicial do Minoxidil?</h2>
-
-<p>O shedding — também chamado de queda de transição — é o aumento temporário da queda de cabelo que ocorre nas primeiras semanas de uso do minoxidil. Ele assusta a maioria dos usuários, mas é um sinal de que o medicamento está funcionando. O minoxidil encurta a fase telógena (de repouso) e estimula os folículos a entrarem mais rapidamente na fase anágena (de crescimento).</p>
-
-<p>O resultado é que os fios velhos, que já estavam programados para cair, são "empurrados" para fora mais rapidamente para dar lugar aos novos fios em crescimento. Esse processo é chamado de "limpeza folicular" ou <em>follicular flushing</em>. A queda não significa que o tratamento está falhando; pelo contrário, indica que os folículos estão respondendo.</p>
-
-<p>O shedding costuma começar entre a segunda e a sexta semana de uso, com pico em torno da quarta semana, e se resolve espontaneamente até o terceiro ou quarto mês. A duração e a intensidade variam de pessoa para pessoa, dependendo da quantidade de folículos que estavam em fase telógena no momento do início do tratamento.</p>
-
-<p>Um ensaio clínico randomizado com minoxidil 5% documentou um aumento temporário da queda de cabelo nas primeiras 2 a 12 semanas, seguido de crescimento significativo e aumento da densidade capilar até 24 semanas. Outro estudo confirmou que os usuários relataram uma "fase de shedding" no início, mas também observaram melhorias duradouras na contagem e espessura dos fios.</p>
-
-<div id="container-imagem-1" class="loading">Carregando imagem...</div>
-
-<h2>Como Usar o Minoxidil Corretamente?</h2>
-
-<p>O uso correto do minoxidil tônico capilar é essencial para a eficácia do tratamento e para minimizar efeitos colaterais. As orientações abaixo são baseadas em bulas e recomendações dermatológicas.</p>
-
-<h3>Preparação do Couro Cabeludo</h3>
-<p>Aplique o minoxidil apenas no couro cabeludo completamente seco. O cabelo e a pele devem estar secos antes da aplicação. Se o couro estiver úmido, o produto escorre, a absorção fica irregular e a eficácia diminui. Após a lavagem, espere o cabelo secar naturalmente ou use o secador em temperatura baixa.</p>
-
-<h3>Aplicação</h3>
-<p>Use a quantidade recomendada pelo médico ou conforme a bula — geralmente 1 mL por aplicação, duas vezes ao dia (manhã e noite). Distribua o produto na área de rarefação com a ajuda do spray ou do conta-gotas, massageando suavemente com as pontas dos dedos. Evite esfregar com força ou usar as unhas, pois isso pode causar irritação.</p>
-
-<h3>Tempo de Permanência</h3>
-<p>Espere pelo menos quatro horas antes de lavar o cabelo ou molhar a área tratada. Se você aplicar antes de dormir e lavar o cabelo pela manhã, o intervalo geralmente é suficiente. Não aplique o produto e saia de casa logo em seguida; deixe-o agir no couro cabeludo.</p>
-
-<h3>Cuidados Após a Aplicação</h3>
-<p>Lave as mãos após a aplicação para evitar transferir o produto para outras áreas do corpo. Evite deitar imediatamente após aplicar, especialmente se o produto for aplicado à noite. O contato do travesseiro com o couro cabeludo pode espalhar o minoxidil para a face e pescoço, aumentando o risco de hipertricose (crescimento de pelos indesejados).</p>
-
-<h3>Tabela: Passo a Passo de Uso do Minoxidil Tônico</h3>
-
-<table>
-<thead>
-<tr>
-<th>Etapa</th>
-<th>Ação</th>
-<th>Observação</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>Lavar o cabelo e secar completamente</td>
-<td>Couro cabeludo seco é essencial para absorção</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Aplicar 1 mL na área de rarefação</td>
-<td>Usar spray ou conta-gotas; distribuir uniformemente</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Massagear suavemente com as pontas dos dedos</td>
-<td>Evitar esfregar com força ou usar unhas</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Lavar as mãos</td>
-<td>Evitar transferir o produto para outras áreas</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Aguardar pelo menos 4 horas antes de molhar</td>
-<td>Se aplicar à noite, lavar pela manhã</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Evitar deitar imediatamente</td>
-<td>Prevenir contato com face e pescoço</td>
-</tr>
-</tbody>
-</table>
-
-<div id="container-imagem-2" class="loading">Carregando imagem...</div>
-
-<h2>Quanto Tempo o Minoxidil Demora para Fazer Efeito?</h2>
-
-<p>O minoxidil é um tratamento de longo prazo. Os primeiros sinais de estabilização da queda podem aparecer em cerca de 8 semanas, mas resultados visíveis na densidade capilar geralmente só são percebidos entre 3 e 6 meses de uso contínuo. Em alguns casos, o efeito cosmético satisfatório pode levar de 4 a 12 meses.</p>
-
-<p>Um estudo recente em pacientes transplantados capilares recomendou que a resposta clínica ao minoxidil tópico 5% é esperada dentro de 4 a 6 meses, com terapia continuada a longo prazo se eficaz e bem tolerada. Outro estudo mostrou que o efeito visual do minoxidil pode atingir um platô após cerca de seis meses.</p>
-
-<p>Isso significa que o usuário precisa ter paciência e não abandonar o tratamento antes de pelo menos 4 a 6 meses. A interrupção precoce é a causa mais comum de percepção de "falha" do minoxidil, quando na verdade o medicamento simplesmente não teve tempo de agir.</p>
-
-<h3>Tabela: Linha do Tempo do Tratamento com Minoxidil</h3>
-
-<table>
-<thead>
-<tr>
-<th>Período</th>
-<th>O que Esperar</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Semana 2 a 6</td>
-<td>Shedding inicial (queda temporária de fios velhos)</td>
-</tr>
-<tr>
-<td>Semana 8</td>
-<td>Estabilização da queda em cerca de 80% dos casos</td>
-</tr>
-<tr>
-<td>Mês 3 a 6</td>
-<td>Primeiros sinais visíveis de repilação e aumento da densidade</td>
-</tr>
-<tr>
-<td>Mês 6 a 12</td>
-<td>Resultado cosmético satisfatório (em cerca de 40% dos pacientes)</td>
-</tr>
-<tr>
-<td>Após 12 meses</td>
-<td>Manutenção contínua; interrupção leva à perda dos ganhos em 3 a 4 meses</td>
-</tr>
-</tbody>
-</table>
-
-<h2>O Que Acontece se Parar de Usar o Minoxidil?</h2>
-
-<p>O minoxidil não recuperação a alopecia androgenética; ele apenas mantém o estímulo ao crescimento enquanto está sendo usado. Quando o tratamento é interrompido, os fios conquistados começam a cair em cerca de 3 a 4 meses, e a queda retorna ao padrão anterior. Estudos mostram que a contagem de cabelos retorna aos níveis basais ou até abaixo deles após a suspensão do medicamento.</p>
-
-<p>Esse retorno à condição inicial não é um "efeito rebote" no sentido de piora além do que era antes do tratamento. É simplesmente o retorno ao curso natural da calvície, que continuaria progredindo se o minoxidil nunca tivesse sido usado. O tratamento deve ser mantido por tempo indeterminado para preservar os resultados.</p>
-
-<p>Se você precisar interromper o minoxidil por algum motivo — gravidez, cirurgia, efeitos colaterais —, converse com seu dermatologista para planejar a melhor forma de fazê-lo e considerar alternativas.</p>
-
-<h2>Loção Alcoólica vs. Trichosol: Qual a Diferença?</h2>
-
-<p>A loção de minoxidil tradicional é uma solução hidroalcoólica que contém altas concentrações de álcool isopropílico e propilenoglicol. Esses solventes são eficazes para dissolver o minoxidil e facilitar a penetração na pele, mas podem causar irritação, ressecamento e coceira no couro cabeludo, especialmente em peles sensíveis.</p>
-
-<p>O Trichosol é um veículo alternativo formulado sem álcool e sem propilenoglicol. Ele foi desenvolvido para ser mais suave e menos irritante, mantendo a capacidade de dissolver o minoxidil em concentrações de até 7%. Estudos mostram que o Trichosol melhora a penetração do minoxidil e da dutasterida em até 5 vezes em comparação com veículos convencionais.</p>
-
-<p>A principal vantagem do Trichosol é a tolerabilidade. Pacientes com couro cabeludo sensível, dermatite seborreica ou que não se adaptaram à loção alcoólica podem se beneficiar dessa formulação. No entanto, o Trichosol é encontrado apenas em farmácias de manipulação e tem custo mais elevado que a loção industrializada.</p>
-
-<h3>Tabela Comparativa: Loção Alcoólica vs. Trichosol</h3>
-
-<table>
-<thead>
-<tr>
-<th>Característica</th>
-<th>Loção Alcoólica Tradicional</th>
-<th>Trichosol</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Composição</td>
-<td>Álcool isopropílico + propilenoglicol</td>
-<td>Sem álcool, sem propilenoglicol</td>
-</tr>
-<tr>
-<td>Concentração máxima de minoxidil</td>
-<td>5%</td>
-<td>Até 7%</td>
-</tr>
-<tr>
-<td>Tolerabilidade</td>
-<td>Pode causar irritação, ressecamento e coceira</td>
-<td>Mais suave, menos irritante</td>
-</tr>
-<tr>
-<td>Penetração</td>
-<td>Boa</td>
-<td>Até 5 vezes maior para alguns ativos</td>
-</tr>
-<tr>
-<td>Disponibilidade</td>
-<td>Farmácias (industrializado)</td>
-<td>Farmácias de manipulação</td>
-</tr>
-<tr>
-<td>Custo</td>
-<td>Mais acessível</td>
-<td>Mais elevado</td>
-</tr>
-</tbody>
-</table>
-
-<div id="container-imagem-3" class="loading">Carregando imagem...</div>
-
-<h2>Hipertricose: O Risco de Pelos Indesejados em Mulheres</h2>
-
-<p>A hipertricose é o crescimento de pelos em áreas onde eles normalmente não deveriam crescer, como face, testa, bochechas e pescoço. É um efeito colateral do minoxidil tópico mais comum em mulheres do que em homens, especialmente quando o produto é aplicado incorretamente ou quando há absorção sistêmica.</p>
-
-<p>Casos de hipertricose facial, em braços e pernas foram relatados 2 a 3 meses após o início do tratamento com minoxidil 5% em mulheres. Em um estudo de caso, uma mulher de 42 anos desenvolveu hipertricose generalizada após usar minoxidil 5% por apenas 2 semanas. Os pelos desapareceram da face e dos braços em 1 a 3 meses após a suspensão do medicamento, e das pernas em 4 a 5 meses.</p>
-
-<p>A Anvisa publicou um alerta sobre o risco de crescimento anormal de pelos em bebês expostos acidentalmente ao minoxidil tópico. Isso reforça a importância de lavar as mãos após a aplicação, evitar o contato do produto com outras pessoas e não aplicar antes de deitar sem proteção.</p>
-
-<h3>Como Prevenir a Hipertricose</h3>
+<h2>Como o minoxidil tônico capilar costuma ser aplicado</h2>
+<p>A aplicação é feita em couro cabeludo limpo e seco, com atenção às áreas de maior rarefação. Dose, frequência e tempo de uso dependem da prescrição e da bula, e não devem ser alterados sem orientação.</p>
 <ul>
-<li>Aplique o produto apenas na área de rarefação do couro cabeludo.</li>
-<li>Lave as mãos imediatamente após a aplicação.</li>
-<li>Evite deitar logo após aplicar, especialmente se o produto for aplicado à noite.</li>
-<li>Use uma fronha de cetim ou troque a fronha com frequência se aplicar antes de dormir.</li>
-<li>Não compartilhe o produto com outras pessoas.</li>
-<li>Se notar crescimento de pelos em áreas indesejadas, suspenda o uso e consulte um dermatologista.</li>
+<li>Use o produto somente na região indicada.</li>
+<li>Evite aplicar com o couro cabeludo úmido ou irritado.</li>
+<li>Lave as mãos após o uso e não encoste em olhos e mucosas.</li>
+<li>Mantenha o frasco fora do alcance de crianças e animais.</li>
 </ul>
+<p>Como se trata de um produto que pode ser manipulado, a concentração de fórmulas diferentes varia. Por isso, confirme a procedência e a orientação técnica antes de iniciar.</p>
 
-<h2>Quem Não Deve Usar Minoxidil Tópico?</h2>
+<h2>O que é o shedding e por que ele acontece</h2>
+<p>O termo <em>shedding</em> descreve a queda temporária que pode surgir nas primeiras semanas de uso. Ela acontece porque os fios em repouso são empurrados para fora, abrindo espaço para novos fios em crescimento.</p>
+<p>Esse fenômeno costuma ser transitório, mas nem todo caso segue esse padrão. Por isso, a queda intensa ou prolongada deve ser comunicada ao médico, que avalia se é o esperado ou se há outra causa.</p>
 
-<p>O minoxidil tópico é contraindicado em algumas situações. A bula e as recomendações dermatológicas listam os seguintes grupos:</p>
+<h2>Quanto tempo leva para ver resultados</h2>
+<p>Os efeitos do minoxidil são graduais e costumam ser avaliados após vários meses de uso regular. Fotos padronizadas, feitas no mesmo local e com a mesma luz, são um bom recurso para comparar a evolução.</p>
+<p>Os resultados variam bastante. Há pessoas que observam pouca mudança e outras que percebem ganho de densidade. Não existe garantia de resposta, e é importante manter expectativas realistas.</p>
+<p>Para entender outros fatores que influenciam a queda, como a falta de ferro, vale conhecer os <a href="/ferro-baixo-sintomas/">sintomas de ferro baixo</a>.</p>
 
+<h2>Efeitos colaterais e alertas importantes</h2>
+<p>Os efeitos locais mais comuns são coceira, irritação, ressecamento e descamação. Em alguns casos, podem surgir crescimento de pelos em áreas próximas e alterações da pressão, sobretudo com uso fora da orientação.</p>
 <ul>
-<li><strong>Gestantes e lactantes:</strong> o minoxidil é contraindicado durante a gravidez e a amamentação. Não há estudos de segurança que estabeleçam uma dose segura nesses períodos.</li>
-<li><strong>Pessoas com alergia a qualquer componente da fórmula:</strong> incluindo álcool, propilenoglicol ou o próprio minoxidil.</li>
-<li><strong>Pessoas com doenças cardíacas, renais ou hepáticas:</strong> a absorção sistêmica do minoxidil pode agravar essas condições. A avaliação médica é indispensável.</li>
-<li><strong>Pessoas com feridas ou lesões no couro cabeludo:</strong> a pele deve estar íntegra antes da aplicação.</li>
-<li><strong>Crianças e adolescentes:</strong> a segurança não foi estabelecida para menores de 18 anos.</li>
+<li>Interrompa o uso em caso de irritação intensa e procure orientação.</li>
+<li>Não aplique em feridas ou couro cabeludo inflamado.</li>
+<li>Não use em crianças, e mantenha o produto longe de bebês e animais.</li>
+<li>Informe ao médico se houver tontura, palpitações ou inchaço.</li>
 </ul>
+<p>A Anvisa já emitiu alertas sobre o risco de crescimento anormal de pelos em bebês expostos ao minoxidil, o que reforça a necessidade de guardar o produto com segurança.</p>
 
-<p>Além disso, pessoas com histórico de hipotensão ou que usam medicamentos para pressão arterial devem consultar o médico antes de usar minoxidil, pois a absorção sistêmica pode potencializar o efeito hipotensor.</p>
+<h2>Perguntas frequentes</h2>
+<p><strong>Shedding significa que o tratamento não está funcionando?</strong><br>Não necessariamente. A queda inicial é descrita como transitória, mas deve ser acompanhada pelo médico.</p>
+<p><strong>Quanto tempo devo usar?</strong><br>A duração é definida pelo profissional, de acordo com a resposta e a evolução.</p>
+<p><strong>Posso parar quando quiser?</strong><br>Não sem orientação. Ao interromper, a queda costuma voltar em alguns meses.</p>
+<p><strong>Gestantes podem usar?</strong><br>Não sem avaliação médica específica, já que o uso na gestação exige cautela.</p>
 
-<h2>FAQ — Perguntas Frequentes</h2>
-
-<h3>1. Qual a diferença entre a loção de minoxidil e o tônico capilar comum?</h3>
-<p>A loção de minoxidil é uma solução hidroalcoólica com princípio ativo comprovado. O "tônico capilar comum" pode não conter minoxidil ou conter em concentrações insuficientes. Verifique sempre o rótulo e a concentração do ativo.</p>
-
-<h3>2. Quanto tempo o tônico de minoxidil demora para fazer efeito na calvície?</h3>
-<p>Os primeiros sinais de estabilização da queda aparecem em cerca de 8 semanas. Resultados visíveis na densidade capilar geralmente são percebidos entre 3 e 6 meses de uso contínuo. O resultado cosmético satisfatório pode levar de 4 a 12 meses.</p>
-
-<h3>3. O que acontece se eu parar de usar o tônico minoxidil no cabelo?</h3>
-<p>Os fios conquistados começam a cair em cerca de 3 a 4 meses após a interrupção, e a queda retorna ao padrão anterior. O minoxidil não recuperação a calvície; ele mantém o estímulo ao crescimento enquanto está sendo usado.</p>
-
-<h3>4. Pode aplicar o tônico capilar minoxidil com o cabelo úmido ou sujo?</h3>
-<p>Não. O couro cabeludo deve estar completamente seco antes da aplicação. O cabelo úmido dilui o produto, reduz a absorção e diminui a eficácia. Lave o cabelo, seque bem e só então aplique.</p>
-
-<h3>5. O shedding inicial é motivo para parar o tratamento?</h3>
-<p>Não. O shedding é um sinal de que o medicamento está funcionando. Ele dura de 2 a 6 semanas e se resolve sozinho. Parar o tratamento nessa fase significa abandonar antes de ver os resultados.</p>
+<h2>Quando procurar um médico</h2>
+<p>Procure um dermatologista antes de começar e se houver irritação importante, queda que aumenta muito, falhas em placas, dor de cabeça forte, tontura ou palpitações. Também é importante buscar orientação se o produto for usado por alguém da casa com risco de exposição acidental.</p>
+<p>A avaliação permite confirmar o diagnóstico, revisar a concentração e definir o plano. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
 <h2>Resumindo</h2>
-
-<p>O minoxidil tônico capilar é o tratamento tópico mais eficaz para alopecia androgenética, mas exige uso correto e paciência. O shedding inicial — a queda temporária de fios velhos nas primeiras semanas — é normal e indica que o medicamento está agindo. Ele começa entre a 2ª e a 6ª semana e se resolve até o 3º ou 4º mês.</p>
-
-<p>A aplicação deve ser feita no couro cabeludo completamente seco, com 1 mL por aplicação, duas vezes ao dia. Espere pelo menos 4 horas antes de molhar. Lave as mãos após a aplicação e evite deitar imediatamente para prevenir a hipertricose (crescimento de pelos indesejados na face e pescoço).</p>
-
-<p>Os resultados visíveis aparecem em 3 a 6 meses. O efeito cosmético satisfatório pode levar de 4 a 12 meses. A interrupção do tratamento faz com que os fios conquistados caiam em 3 a 4 meses. O minoxidil não recuperação a calvície; ele precisa ser usado continuamente para manter os resultados.</p>
-
-<p>A loção alcoólica tradicional é eficaz, mas pode irritar o couro cabeludo. O Trichosol é uma alternativa sem álcool e sem propilenoglicol, mais suave e com maior penetração, disponível em farmácias de manipulação. Mulheres têm maior risco de hipertricose e devem aplicar o produto com cuidado, evitando contato com a face.</p>
-
-<p>Gestantes, lactantes, pessoas com doenças cardíacas, renais ou hepáticas e menores de 18 anos não devem usar minoxidil sem orientação médica. Antes de iniciar o tratamento, consulte um dermatologista para avaliação individualizada e acompanhamento.</p>
-
-<h2>Fontes</h2>
-<ul>
-<li>Anvisa. Alerta Farmacovigilância — Risco de aumento de pelos em bebês após exposição acidental ao minoxidil. <a href="https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2025/anvisa-alerta-risco-de-crescimento-anormal-de-pelos-em-bebes-expostos-ao-minoxidil" target="_blank" rel="noopener">https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2025/anvisa-alerta-risco-de-crescimento-anormal-de-pelos-em-bebes-expostos-ao-minoxidil</a></li>
-<li>Hospital Israelita Albert Einstein. Minoxidil: como age o medicamento que ajuda a combater a calvície. <a href="https://www.einstein.br/n/vida-saudavel/minoxidil-como-age-o-medicamento-que-ajuda-a-combater-a-calvicie" target="_blank" rel="noopener">https://www.einstein.br/n/vida-saudavel/minoxidil-como-age-o-medicamento-que-ajuda-a-combater-a-calvicie</a></li>
-<li>Fagron Compounding Services. TrichoSol: Alcohol-free base solution for minoxidil. <a href="https://fagroncompoundingservices.be/qanda-related/trichosol/" target="_blank" rel="noopener">https://fagroncompoundingservices.be/qanda-related/trichosol/</a></li>
-<li>ScienceDirect. Generalized Hypertrichosis Due to Topical Minoxidil. <a href="https://www.sciencedirect.com/science/article/pii/S1578219015001857" target="_blank" rel="noopener">https://www.sciencedirect.com/science/article/pii/S1578219015001857</a></li>
-<li>European PMC. Low-dose oral minoxidil (LDOM) and topical minoxidil: consensus recommendations. <a href="https://staging.europepmc.org/article/MED/41782304" target="_blank" rel="noopener">https://staging.europepmc.org/article/MED/41782304</a></li>
-<li>Hims. Minoxidil Shedding: What A Doctor and Real Users Want You To Know. <a href="https://www.hims.com/blog/minoxidil-shedding" target="_blank" rel="noopener">https://www.hims.com/blog/minoxidil-shedding</a></li>
-</ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
-<h2>Quando procurar um médico</h2>
-<p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://www.gov.br" target="_blank" rel="noopener">Governo Federal</a>, <a href="https://www.einstein.br" target="_blank" rel="noopener">Hospital Israelita Albert Einstein</a> e da <a href="https://fagroncompoundingservices.be" target="_blank" rel="noopener">fagroncompoundingservices.be</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>O minoxidil tônico capilar é um tratamento de uso contínuo para queda de cabelo, com uma fase de queda inicial chamada shedding e resultados que levam meses para aparecer. Ele precisa de indicação e acompanhamento profissional, além de cuidados com a aplicação e com a guarda do produto.</p>
+<p>Antes de começar, converse com um médico para confirmar a causa da queda e discutir a procedência e a concentração do produto. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>

@@ -1,257 +1,111 @@
 PALAVRA_CHAVE: terapia fotodinâmica
 TITLE: Terapia Fotodinâmica: O Que É, Como Funciona e Cuidados
-DESCRIPTION: Entenda o que é terapia fotodinâmica, como funciona no câncer de pele, comparação com cirurgia de Mohs, manejo da dor, custos no Brasil e cuidados pós.
+DESCRIPTION: Terapia fotodinâmica: o que é, como funciona, em quais situações da pele é estudada e os cuidados que exigem indicação e acompanhamento médico.
 FONTE: SciELO Brasil | https://www.scielo.br
-CAPA_BUSCA: skincare routine face cream
-CAPA_ALT: Rotina de cuidados com a pele sobre terapia fotodinâmica
-FOTO1_BUSCA: dermatologist examining skin
-FOTO1_ALT: Consulta dermatológica relacionado a terapia fotodinâmica
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
-FOTO1_SECAO: 2
 FONTE: Ministério da Saúde | https://www.gov.br/saude
+CAPA_BUSCA: dermatology light treatment
+CAPA_ALT: Equipamento de luz em consultório de dermatologia, associado à terapia fotodinâmica
+FOTO1_BUSCA: dermatologist skin consultation
+FOTO1_ALT: Dermatologista examinando a pele de um paciente durante uma consulta
+FOTO1_LEGENDA: A indicação do procedimento é feita após avaliação da pele.
+FOTO1_SECAO: 2
+FOTO2_BUSCA: sunscreen on skin
+FOTO2_ALT: Protetor solar sendo aplicado no rosto, cuidado essencial após a terapia fotodinâmica
+FOTO2_LEGENDA: A proteção solar é parte importante dos cuidados depois da sessão.
+FOTO2_SECAO: 4
 ---
-<div id="container-imagem-capa" class="loading">Carregando imagem...</div>
+<p>A terapia fotodinâmica é um procedimento que combina um agente sensível à luz com uma fonte luminosa de comprimento de onda específico. Na dermatologia, ela é usada em algumas lesões da pele, sempre por indicação médica. Entender o funcionamento e os cuidados evita expectativas erradas.</p>
 
-<p>A <strong>terapia fotodinâmica</strong> (TFD) é uma modalidade terapêutica que combina três elementos: um agente fotossensibilizante, uma fonte de luz específica e oxigênio presente no tecido. Juntos, eles desencadeiam uma reação capaz de destruir seletivamente células anormais, preservando os tecidos saudáveis ao redor. A técnica é amplamente utilizada na dermatologia para tratar ceratoses actínicas, carcinoma basocelular superficial e doença de Bowen, além de ter aplicações em oftalmologia e odontologia. Nos últimos anos, a TFD ganhou destaque por evitar cirurgias em lesões superficiais de pele, com resultados estéticos superiores e taxas de recidiva comparáveis às modalidades convencionais. Este artigo explica o que é a terapia fotodinâmica, como funciona, o que a ciência mostra sobre sua eficácia, as diferenças em relação à cirurgia de Mohs, como manejar a dor durante o procedimento, os cuidados pós-terapia e os custos no Brasil.</p>
+<h2>O que é a terapia fotodinâmica</h2>
 
-<h2>O Que É a Terapia Fotodinâmica e Para Que Serve?</h2>
+<p>O nome vem da combinação de três elementos: uma substância fotossensibilizante, a luz e o oxigênio presente nas células. Quando a substância é ativada pela luz, ela gera espécies reativas de oxigênio, que danificam células-alvo de forma localizada.</p>
 
-<p>A terapia fotodinâmica é um tratamento que induz a morte celular por meio de uma reação fotoquímica. O processo começa com a aplicação de um creme ou solução contendo um agente fotossensibilizante — geralmente ácido 5-aminolevulínico (ALA) ou metil aminolevulinato (MAL) — diretamente na lesão. Esse composto é absorvido pelas células-alvo e convertido em protoporfirina IX (PpIX), uma molécula fotossensível.</p>
+<p>Esse princípio já é estudado há décadas e aparece em artigos científicos brasileiros e internacionais. A proposta é atuar sobre áreas específicas, poupando, na medida do possível, o tecido ao redor.</p>
 
-<p>Após um período de incubação que varia de minutos a horas, a área é exposta a uma luz específica, geralmente LED vermelho. A luz ativa a protoporfirina IX na presença de oxigênio molecular, criando radicais livres de oxigênio — espécies reativas que causam danos oxidativos às membranas celulares, mitocôndrias e outras estruturas. O resultado é a destruição seletiva das células anormais, com preservação do tecido saudável.</p>
+<p>Em termos simples, a luz funciona como um gatilho, e a substância só age onde as duas se encontram. Essa seletividade é um dos motivos pelos quais a técnica é estudada, mas ela não elimina riscos nem dispensa o controle profissional.</p>
 
-<p>As principais indicações dermatológicas incluem ceratoses actínicas, carcinoma basocelular superficial, doença de Bowen (carcinoma espinocelular in situ) e, em alguns casos, acne inflamatória e rejuvenescimento estético. A técnica também é usada em oftalmologia para degeneração macular exsudativa e em odontologia para infecções endodônticas.</p>
+<p>A técnica também é pesquisada em outras áreas da medicina, mas o uso mais consolidado na pele exige conhecimento de dermatologia e de fotoproteção.</p>
 
-<div id="container-imagem-1" class="loading">Carregando imagem...</div>
+<h2>Como o procedimento funciona na prática</h2>
 
-<h2>Como Funciona a Terapia Fotodinâmica no Tratamento do Câncer de Pele?</h2>
+<p>Na consulta, o médico avalia a lesão, a extensão da área e o tipo de pele. Em seguida, aplica-se uma substância na superfície, que pode ser um creme ou uma solução, e aguarda-se um tempo para que ela seja absorvida pelas células doentes ou alteradas.</p>
 
-<p>O tratamento ocorre em duas etapas principais. Na primeira, o dermatologista prepara a lesão, removendo crostas ou escamas para melhorar a penetração do fotossensibilizante. Em seguida, aplica o creme com ácido aminolevulínico ou metil aminolevulinato sobre a lesão e uma margem de pele ao redor.</p>
+<p>Depois, a área é exposta a uma luz de comprimento de onda definido, geralmente por tempo controlado. Parâmetros como intensidade, duração e número de sessões são ajustados por profissional habilitado, de acordo com o caso.</p>
 
-<p>A área é então coberta com curativo oclusivo e o paciente aguarda o período de incubação — geralmente de 1 a 3 horas para ALA e de 3 horas para MAL. Durante esse tempo, o fotossensibilizante é preferencialmente absorvido pelas células anormais, que têm metabolismo acelerado.</p>
+<p>Como o efeito depende da combinação entre substância e luz, a técnica não deve ser reproduzida em casa com aparelhos sem orientação. A variação de equipamento e de protocolo muda o resultado e o risco.</p>
 
-<p>Na segunda etapa, a pele é exposta à luz LED vermelha ou azul, dependendo da profundidade da lesão. A luz ativa a protoporfirina IX acumulada nas células-alvo, desencadeando a produção de radicais livres de oxigênio. A reação causa destruição celular por apoptose e necrose, além de efeitos imunológicos que ajudam a eliminar células residuais. A sessão dura de 10 a 30 minutos, dependendo da área tratada e da fonte de luz.</p>
+<p>Os equipamentos variam em potência, tipo de luz e tempo de exposição. Por isso, dois procedimentos com o mesmo nome podem ser bem diferentes na prática, e perguntar sobre o protocolo faz parte de uma decisão segura.</p>
 
-<h3>Tabela: Etapas da Terapia Fotodinâmica</h3>
+<h2>Para quais situações da pele ela é usada</h2>
 
-<table>
-<thead>
-<tr>
-<th>Etapa</th>
-<th>Descrição</th>
-<th>Duração</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Preparação da lesão</td>
-<td>Remoção de crostas e limpeza da área</td>
-<td>5 a 10 minutos</td>
-</tr>
-<tr>
-<td>Aplicação do fotossensibilizante</td>
-<td>Ácido aminolevulínico ou metil aminolevulinato</td>
-<td>1 a 5 minutos</td>
-</tr>
-<tr>
-<td>Incubação</td>
-<td>Período de absorção e conversão em PpIX</td>
-<td>1 a 3 horas</td>
-</tr>
-<tr>
-<td>Fotoativação</td>
-<td>Exposição à luz LED vermelha ou azul</td>
-<td>10 a 30 minutos</td>
-</tr>
-<tr>
-<td>Cuidados pós-procedimento</td>
-<td>Proteção solar e hidratação</td>
-<td>24 a 48 horas de fotossensibilidade</td>
-</tr>
-</tbody>
-</table>
+<p>Na dermatologia, a terapia fotodinâmica é estudada e utilizada em algumas lesões pré-cancerosas, como a ceratose actínica, e em certos tumores superficiais da pele. Ela também aparece em protocolos para algumas condições inflamatórias e para lesões de acne, conforme avaliação do especialista.</p>
 
-<div id="container-imagem-2" class="loading">Carregando imagem...</div>
+<p>Em cada caso, a decisão depende do diagnóstico, da localização, da extensão e do histórico do paciente. Alternativas como cirurgia, crioterapia, cremes tópicos e outros tratamentos podem ser mais adequadas em determinadas situações.</p>
 
-<h2>Qual a Eficácia da Terapia Fotodinâmica em Câncer de Pele?</h2>
+<p>Pesquisas publicadas em revistas dermatológicas, muitas delas indexadas na base SciELO, discutem resultados, indicações e limites dessa técnica. A leitura desses trabalhos é útil para entender o tema, mas não substitui a avaliação de um dermatologista.</p>
 
-<p>A eficácia da TFD varia conforme o tipo de lesão e o protocolo utilizado. Para ceratoses actínicas, a taxa de resolução completa após uma única sessão varia de 70% a 90%, segundo diferentes estudos. Em uma revisão escocesa publicada em 2025, a taxa de clearance em 12 meses foi de 53,4% para ceratoses actínicas, 71,3% para ceratoses actínicas bowenoides, 89,0% para carcinoma basocelular superficial e 89,7% para carcinoma basocelular nodular.</p>
+<p>Antes de qualquer sessão, o médico costuma perguntar sobre medicamentos, histórico de sensibilidade, exposição solar recente e gestação. Essas respostas influenciam a escolha da substância e o tempo de exposição à luz.</p>
 
-<p>Para o carcinoma basocelular superficial, estudos relatam taxas de resposta completa de 85% a 93% em três meses. Uma revisão sistemática comparou a TFD à criocirurgia e encontrou taxas de recorrência similares a longo prazo (75% vs. 74% em 60 meses). Para a doença de Bowen, a TFD também apresenta boa eficácia, com taxas de recuperação que chegam a 90% em alguns estudos.</p>
+<p>Em todos os casos, o paciente deve receber explicações claras sobre o motivo da indicação, o que esperar e quais são as alternativas. Esse diálogo faz parte do cuidado e ajuda a tomar uma decisão consciente.</p>
 
-<p>Um estudo recente avaliou a terapia fotodinâmica autoadministrada em ceratose actínica e campo de cancerização, com taxa de resposta clínica de 82,1% de resolução completa das lesões após três meses de acompanhamento. Essa modalidade permite que o paciente aplique o creme em casa e se exponha à luz do dia, reduzindo o número de visitas ao consultório.</p>
+<h2>O que acontece durante e depois da sessão</h2>
 
-<div id="container-imagem-3" class="loading">Carregando imagem...</div>
+<p>Durante a aplicação, é comum sentir ardor, formigamento ou desconforto na área tratada. Equipes costumam usar medidas para reduzir essa sensação, e o paciente deve avisar o profissional caso a dor seja intensa.</p>
 
-<h2>Terapia Fotodinâmica vs. Cirurgia de Mohs: Qual a Diferença?</h2>
+<p>Algumas pessoas relatam calor que passa após alguns minutos. Se o desconforto persistir ou se espalhar para áreas não tratadas, a equipe deve ser informada imediatamente.</p>
 
-<p>A cirurgia micrográfica de Mohs é considerada o padrão-ouro para o tratamento de carcinomas basocelulares e espinocelulares de alto risco, com taxas de recuperação que chegam a 98%. A técnica envolve a remoção camada por camada, com controle microscópico das margens, garantindo a excisão completa do tumor.</p>
-
-<p>A terapia fotodinâmica, por outro lado, é uma opção não invasiva, indicada para lesões superficiais e de baixo risco. Ela oferece vantagens como preservação de tecido, melhores resultados estéticos e possibilidade de tratar múltiplas lesões em uma única sessão. No entanto, não substitui a cirurgia em lesões profundas, agressivas ou em áreas de alto risco.</p>
-
-<p>Um estudo comparativo publicado em 2025 avaliou a cirurgia de Mohs isolada versus a combinação de Mohs com TFD em carcinoma basocelular localmente avançado. Surpreendentemente, o grupo que recebeu apenas cirurgia de Mohs apresentou taxa de recidiva de 4,4%, enquanto o grupo combinado teve 22,2%. Isso sugere que a adição da TFD não trouxe benefício e pode até ter sido prejudicial nesse contexto. Os autores concluíram que a cirurgia de Mohs permanece o padrão para lesões avançadas.</p>
-
-<p>Outro estudo destacou que a taxa de resposta completa composta da TFD é de aproximadamente 66%, enquanto a cirurgia de Mohs atinge cerca de 98%. Isso reforça que a TFD é mais adequada para lesões superficiais e de baixo risco, enquanto a cirurgia é preferível para lesões profundas, agressivas ou em áreas críticas como face, orelhas e extremidades.</p>
-
-<h3>Tabela: Comparação Entre Terapia Fotodinâmica e Cirurgia de Mohs</h3>
-
-<table>
-<thead>
-<tr>
-<th>Característica</th>
-<th>Terapia Fotodinâmica</th>
-<th>Cirurgia de Mohs</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Taxa de recuperação</td>
-<td>70% a 90% (superficiais)</td>
-<td>Até 98%</td>
-</tr>
-<tr>
-<td>Indicação</td>
-<td>Lesões superficiais e de baixo risco</td>
-<td>Lesões profundas, agressivas ou de alto risco</td>
-</tr>
-<tr>
-<td>Invasividade</td>
-<td>Não invasiva</td>
-<td>Cirúrgica</td>
-</tr>
-<tr>
-<td>Resultado estético</td>
-<td>Superior, sem cicatriz cirúrgica</td>
-<td>Cicatriz cirúrgica</td>
-</tr>
-<tr>
-<td>Recidiva</td>
-<td>Similar à criocirurgia em lesões superficiais</td>
-<td>Baixa (4,4% a 5%)</td>
-</tr>
-<tr>
-<td>Múltiplas lesões</td>
-<td>Sim, em uma sessão</td>
-<td>Não</td>
-</tr>
-</tbody>
-</table>
-
-<h2>Por Que a Terapia Fotodinâmica Causa Dor e Como Mitigá-la?</h2>
-
-<p>A dor durante a fotoativação é o principal efeito adverso da terapia fotodinâmica. A sensação é descrita como ardência, queimação ou picada, e ocorre porque a reação fotoquímica danifica as terminações nervosas da epiderme que acumularam o fotossensibilizante. A intensidade varia conforme a área tratada, a dose de luz e a sensibilidade individual.</p>
-
-<p>Um estudo publicado em 2025 avaliou o uso de cetorolaco de trometamina — um anti-inflamatório não esteroidal — para manejo da dor em pacientes submetidos à TFD com ácido aminolevulínico. Os resultados mostraram que a aplicação de cetorolaco de trometamina aliviou significativamente a dor nas primeiras 24 horas após o procedimento. A combinação com irradiação em duas etapas também se mostrou eficaz para reduzir a dor durante o tratamento.</p>
-
-<p>Outras estratégias incluem o uso de hipnoanalgesia (hipnose para controle da dor), que se mostrou valiosa em um estudo piloto por ser simples, barata e livre de efeitos colaterais. A redução da irradiância da luz, o uso de luz fracionada e a aplicação de anestésico tópico antes da fotoativação também podem ajudar. Em casos de dor intensa, o médico pode interromper temporariamente a exposição à luz para permitir que o paciente se recupere.</p>
-
-<h2>Quais os Cuidados Após a Terapia Fotodinâmica?</h2>
-
-<p>Após a terapia fotodinâmica, a pele tratada fica extremamente sensível à luz. O período de fotossensibilidade varia de 24 a 48 horas, dependendo do fotossensibilizante utilizado. Durante esse período, o paciente deve evitar completamente a exposição solar e fontes de luz intensa, pois a ativação residual da protoporfirina IX pode causar queimaduras.</p>
-
-<p>Os cuidados incluem:</p>
+<p>Nos dias seguintes, a pele pode ficar avermelhada, inchada, com descamação e sensação de queimadura. Esses efeitos fazem parte do processo e costumam melhorar com cuidados simples, orientados pelo médico.</p>
 
 <ul>
-<li><strong>Proteção solar rigorosa:</strong> usar protetor solar com fator 50 ou superior, reaplicando a cada duas horas. Durante as primeiras 48 horas, prefira ficar em ambientes internos e use roupas que cubram a área tratada.</li>
-<li><strong>Evitar filtros físicos em situações específicas:</strong> em protocolos de daylight photodynamic therapy (DL-PDT), protetores com filtros físicos como óxido de zinco e dióxido de titânio devem ser evitados, pois podem refletir a luz visível e reduzir a ativação da PpIX. No entanto, para proteção pós-procedimento, filtros físicos são recomendados por bloquear a luz de forma mais eficaz.</li>
-<li><strong>Hidratação:</strong> a pele tratada pode ficar ressecada e descamar. Use cremes hidratantes suaves, sem álcool ou fragrância, para restaurar a barreira cutânea.</li>
-<li><strong>Evitar coçar ou esfregar:</strong> a área pode formar crostas que devem cair naturalmente. Não esfregue nem remova as crostas.</li>
-<li><strong>Evitar maquiagem nas primeiras 24 a 48 horas:</strong> produtos cosméticos podem irritar a pele sensibilizada.</li>
-<li><strong>Retorno ao dermatologista:</strong> a avaliação de acompanhamento é essencial para verificar a resposta ao tratamento e agendar sessões adicionais, se necessário.</li>
+<li>Evite esfregar, arrancar crostas ou usar produtos irritantes na área tratada.</li>
+<li>Siga as orientações sobre a higiene e o uso de curativos ou cremes indicados pelo profissional.</li>
+<li>Comunique o médico se houver bolhas grandes, secreção, febre ou dor que piora.</li>
 </ul>
 
-<h3>Tabela: Cuidados Pós-Terapia Fotodinâmica</h3>
+<h2>Cuidados com o sol e a pele após o tratamento</h2>
 
-<table>
-<thead>
-<tr>
-<th>Cuidado</th>
-<th>Duração</th>
-<th>Recomendação</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Evitar exposição solar</td>
-<td>24 a 48 horas</td>
-<td>Ficar em ambientes internos; usar roupas de proteção</td>
-</tr>
-<tr>
-<td>Protetor solar FPS 50+</td>
-<td>A partir de 48 horas</td>
-<td>Reaplicar a cada 2 horas</td>
-</tr>
-<tr>
-<td>Hidratação</td>
-<td>Até a recuperação completa</td>
-<td>Cremes suaves, sem álcool ou fragrância</td>
-</tr>
-<tr>
-<td>Evitar coçar</td>
-<td>Até a queda das crostas</td>
-<td>Permitir que as crostas caiam naturalmente</td>
-</tr>
-<tr>
-<td>Evitar maquiagem</td>
-<td>24 a 48 horas</td>
-<td>Não aplicar produtos cosméticos na área tratada</td>
-</tr>
-</tbody>
-</table>
+<p>A pele tratada pode ficar mais sensível à luz por um período. Por isso, a exposição ao sol deve ser evitada ou reduzida nos dias seguintes, e o uso de protetor solar de amplo espectro e de chapéu é recomendado.</p>
 
-<h2>Quanto Custa a Terapia Fotodinâmica no Brasil?</h2>
+<p>Roupas com proteção e a escolha de horários com menos sol ajudam a reduzir a exposição sem depender apenas do protetor. O filtro solar deve ser reaplicado ao longo do dia, principalmente após suor ou contato com água.</p>
 
-<p>O custo da terapia fotodinâmica no Brasil varia conforme a região, a clínica e o número de lesões tratadas. O valor do medicamento fotossensibilizante — geralmente metil aminolevulinato (MAL) ou ácido aminolevulínico (ALA) — é o principal componente do custo. Um tubo de 2 gramas de ácido metil aminolevulinato pode custar entre R$ 5.702 e R$ 7.083.</p>
+<p>Após a fase aguda, a proteção continua importante, porque a radiação solar é uma das principais causas de lesões da pele. Quem tem histórico de lesões pré-cancerosas deve manter acompanhamento regular com dermatologista.</p>
 
-<p>Em 2026, o tratamento foi aprovado para uso no SUS, com custo estimado de R$ 200 a R$ 300 por lesão de pele de até um centímetro. O procedimento é oferecido gratuitamente em centros de referência, como o Hospital Amaral Carvalho, em Jaú (SP), um dos 70 centros de estudo que utilizam a técnica. A terapia fotodinâmica já beneficiou mais de 5 mil pacientes em nove países da América Latina.</p>
+<p>Quem tiver dúvidas sobre sinais suspeitos na pele pode consultar <a href="/melanoma/">as orientações sobre melanoma</a>, que ajudam a reconhecer alterações que precisam de avaliação. Manchas que aparecem após o sol também merecem atenção, e <a href="/manchas-na-pele/">o guia sobre manchas na pele</a> explica os tipos mais comuns.</p>
 
-<p>Uma análise de custo-efetividade considerando as taxas de recidiva mostrou que o custo total para uma lesão tratada inicialmente com TFD foi de 299,1 euros, enquanto o custo da cirurgia foi de 569,2 euros. Isso indica que, além de ser menos invasiva, a TFD pode ser mais econômica a longo prazo, especialmente para lesões superficiais.</p>
+<h2>Riscos, limites e o papel da indicação médica</h2>
 
-<p>Na rede privada, o custo de uma sessão de terapia fotodinâmica varia de R$ 800 a R$ 3.000, dependendo da região, do número de lesões e da complexidade do caso. O valor geralmente inclui a consulta, o medicamento fotossensibilizante, a sessão de luz e o acompanhamento pós-procedimento.</p>
+<p>A terapia fotodinâmica não é indicada para todas as lesões e não é adequada para todas as pessoas. Gestantes, pessoas com doenças da pele em atividade, sensibilidade a determinadas substâncias e quem usa medicamentos que aumentam a sensibilidade à luz precisam de avaliação individual.</p>
 
-<h2>FAQ — Perguntas Frequentes</h2>
+<p>Os efeitos adversos mais comuns são locais, como dor, vermelhidão e inchaço. Reações sistêmicas são menos frequentes, mas exigem atenção médica imediata. Por isso, o acompanhamento do procedimento é parte da segurança.</p>
 
-<h3>1. O que é a terapia fotodinâmica e para que serve?</h3>
-<p>A terapia fotodinâmica é um tratamento que combina um creme fotossensibilizante, luz específica e oxigênio para destruir células anormais. Na dermatologia, é usada para ceratoses actínicas, carcinoma basocelular superficial e doença de Bowen.</p>
+<p>Quem já teve reações fortes a outros procedimentos na pele deve comunicar isso antes da primeira sessão, para que o plano seja ajustado com mais cuidado.</p>
 
-<h3>2. Como funciona a terapia fotodinâmica no tratamento do câncer de pele?</h3>
-<p>O creme com ácido aminolevulínico é aplicado na lesão e absorvido pelas células anormais. Após a incubação, a área é exposta à luz LED vermelha, que ativa o composto e gera radicais livres de oxigênio, destruindo as células tumorais.</p>
+<p>Lesões que não respondem ao tratamento, ou que voltam com frequência, merecem reavaliação e, se necessário, outra abordagem. Insistir em uma técnica sem revisar o diagnóstico pode atrasar o cuidado adequado.</p>
 
-<h3>3. Quais os principais efeitos colaterais e cuidados após a terapia fotodinâmica?</h3>
-<p>Os efeitos colaterais incluem dor durante a fotoativação, vermelhidão, descamação e sensibilidade à luz por 24 a 48 horas. Os cuidados incluem proteção solar rigorosa, hidratação e evitar coçar a área tratada.</p>
+<p>Promessas de resultado definitivo ou de tratamento universal devem ser recebidas com cautela. A indicação precisa vir de um profissional que avaliou a pele e explicou riscos, alternativas e expectativas. Desconfie também de locais que oferecem o procedimento como pacote genérico, sem exame prévio da lesão.</p>
 
-<h3>4. Quanto custa uma sessão de terapia fotodinâmica no Brasil?</h3>
-<p>No SUS, o custo é de R$ 200 a R$ 300 por lesão de até um centímetro. Na rede privada, o valor varia de R$ 800 a R$ 3.000 por sessão, dependendo da região e do número de lesões.</p>
+<h2>Perguntas frequentes</h2>
 
-<h3>5. A terapia fotodinâmica substitui a cirurgia de Mohs?</h3>
-<p>Não. A TFD é indicada para lesões superficiais e de baixo risco, enquanto a cirurgia de Mohs é o padrão-ouro para lesões profundas, agressivas ou de alto risco, com taxas de recuperação de até 98%.</p>
+<p><strong>A terapia fotodinâmica dói?</strong><br>Pode causar ardor ou desconforto durante a aplicação. A intensidade varia conforme a área e a técnica, e a equipe deve ajustar o procedimento.</p>
+
+<p><strong>Precisa de anestesia?</strong><br>Depende do caso e da área. O médico decide se alguma medida de conforto é necessária.</p>
+
+<p><strong>Quantas sessões são necessárias?</strong><br>Não há um número fixo. O profissional define o plano de acordo com a lesão e a resposta da pele.</p>
+
+<p><strong>Tem algum risco para a pele clara ou escura?</strong><br>Os riscos devem ser avaliados caso a caso, considerando o tipo de pele e o histórico de manchas. Quem tem tendência a manchas após inflamações deve comentar o tema com o médico.</p>
+
+<p><strong>Posso fazer em casa com aparelho de luz?</strong><br>Não é recomendado. Sem avaliação e protocolo adequado, o risco de queimadura e de resposta inadequada aumenta.</p>
+
+<h2>Quando procurar um médico</h2>
+
+<p>Procure um dermatologista se surgir uma lesão nova, que sangra, coça, muda de cor ou de tamanho, ou não cicatriza. Esses sinais precisam de avaliação, e nem sempre a lesão é benigna.</p>
+
+<p>Se a lesão mudar depois de meses de acompanhamento, a reavaliação deve ser feita sem demora, mesmo que o tratamento anterior tenha parecido adequado.</p>
+
+<p>Também vale a consulta após a terapia se houver sinais de infecção, dor intensa, febre ou piora progressiva da área tratada. A equipe pode orientar cuidados e decidir sobre exames complementares.</p>
 
 <h2>Resumindo</h2>
 
-<p>A terapia fotodinâmica é uma modalidade terapêutica que combina um agente fotossensibilizante, luz específica e oxigênio para destruir seletivamente células anormais. Na dermatologia, é indicada para ceratoses actínicas, carcinoma basocelular superficial e doença de Bowen, com taxas de resposta completa que variam de 70% a 93% dependendo da lesão.</p>
+<p>A terapia fotodinâmica é um procedimento que usa uma substância sensível à luz e uma fonte luminosa específica para atuar sobre lesões da pele. Ela é indicada em situações selecionadas, sempre após avaliação médica.</p>
 
-<p>A técnica é menos invasiva que a cirurgia e oferece melhores resultados estéticos, mas não substitui a cirurgia de Mohs em lesões profundas ou agressivas. A cirurgia de Mohs tem taxa de recuperação de até 98%, enquanto a TFD é mais adequada para lesões superficiais e de baixo risco.</p>
-
-<p>A dor durante a fotoativação é o principal efeito adverso e pode ser manejada com cetorolaco de trometamina, hipnoanalgesia, irradiação em duas etapas e ajuste da dose de luz. Os cuidados pós-procedimento incluem proteção solar rigorosa por 24 a 48 horas, hidratação e evitar coçar a área tratada.</p>
-
-<p>No Brasil, o tratamento foi aprovado para uso no SUS em 2026, com custo de R$ 200 a R$ 300 por lesão de até um centímetro. Na rede privada, o valor varia de R$ 800 a R$ 3.000 por sessão. Análises de custo-efetividade indicam que a TFD pode ser mais econômica que a cirurgia a longo prazo para lesões superficiais.</p>
-
-<p>A terapia fotodinâmica não é isenta de riscos e requer acompanhamento dermatológico. A escolha entre TFD e cirurgia deve ser individualizada, considerando o tipo, a profundidade e a localização da lesão, além das preferências e condições de saúde do paciente.</p>
-
-<h2>Fontes</h2>
-<ul>
-<li>Anais Brasileiros de Dermatologia. Terapia fotodinâmica: revisão da literatura e documentação. <a href="https://www.scielo.br/j/abd/a/CcpZfpFQJYr4MdTygs8FpkF/?lang=pt" target="_blank" rel="noopener">https://www.scielo.br/j/abd/a/CcpZfpFQJYr4MdTygs8FpkF/?lang=pt</a></li>
-<li>Drauzio Varella. Terapia fotodinâmica consegue tratar câncer de pele no mesmo dia do diagnóstico. <a href="https://drauziovarella.uol.com.br/dermatologia/terapia-fotodinamica-consegue-tratar-cancer-de-pele-no-mesmo-dia-do-diagnostico/" target="_blank" rel="noopener">https://drauziovarella.uol.com.br/dermatologia/terapia-fotodinamica-consegue-tratar-cancer-de-pele-no-mesmo-dia-do-diagnostico/</a></li>
-<li>SciELO Brasil. Terapia fotodinâmica em dermatologia: princípios básicos e aplicações. <a href="http://www.scielo.br/j/abd/a/RLLjx9FN7dM6MjJ69GgWwCj/?lang=pt" target="_blank" rel="noopener">http://www.scielo.br/j/abd/a/RLLjx9FN7dM6MjJ69GgWwCj/?lang=pt</a></li>
-<li>PubMed. A comparative analysis of Mohs micrographic surgery with or without photodynamic therapy for locally advanced basal cell carcinoma. <a href="https://pubmed.ncbi.nlm.nih.gov/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/</a></li>
-<li>ScienceDirect. Topical photodynamic therapy in a medical centre: The Scottish Dermatology Experience. <a href="https://pmc.ncbi.nlm.nih.gov/" target="_blank" rel="noopener">https://pmc.ncbi.nlm.nih.gov/</a></li>
-<li>PMC. Spectral Transmittance Analysis of Different Sunscreens Used in Daylight Photodynamic Therapy. <a href="https://pmc.ncbi.nlm.nih.gov/" target="_blank" rel="noopener">https://pmc.ncbi.nlm.nih.gov/</a></li>
-</ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
-<h2>Quando procurar um médico</h2>
-<p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://www.scielo.br" target="_blank" rel="noopener">SciELO Brasil</a>. Ver também: <a href="https://www.gov.br/saude" target="_blank" rel="noopener">Ministério da Saúde</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
-
+<p>Os cuidados com o sol e com a cicatrização são parte essencial do tratamento. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>

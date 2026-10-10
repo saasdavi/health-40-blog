@@ -1,289 +1,67 @@
 PALAVRA_CHAVE: psoríase no couro cabeludo  sintomas
-TITLE: Psoríase no couro cabeludo sintomas, causas, diferença da ca
-DESCRIPTION: A psoríase no couro cabeludo, também chamada de psoríase capilar, é uma manifestação da psoríase que provoca inflamação, vermelhidão, coceira e formação de.
-CAPA_BUSCA: woman hair care brush
-CAPA_ALT: Cuidados com os cabelos sobre psoríase no couro cabeludo  sintomas
-FOTO1_BUSCA: dermatologist scalp examination
-FOTO1_ALT: Avaliação do couro cabeludo relacionado a psoríase no couro cabeludo  sintomas
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
-FOTO1_SECAO: 2
+TITLE: Psoríase no Couro Cabeludo: Sintomas e Diferença da Caspa
+DESCRIPTION: Entenda os sintomas da psoríase no couro cabeludo, como ela se diferencia da caspa, o que pode desencadeá-la e por que a avaliação deve ser feita por dermatologista.
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: Ministério da Saúde | https://www.gov.br/saude
+CAPA_BUSCA: scalp care hair brush
+CAPA_ALT: Escova de cabelo sobre fundo claro, ilustrando cuidados com a psoríase no couro cabeludo
+FOTO1_BUSCA: dermatologist examining scalp
+FOTO1_ALT: Dermatologista examinando o couro cabeludo de paciente, avaliação dos sinais de psoríase no couro cabeludo
+FOTO1_LEGENDA: O exame clínico é o primeiro passo para diferenciar a psoríase de outras condições
+FOTO1_SECAO: 2
+FOTO2_BUSCA: woman brushing hair
+FOTO2_ALT: Mulher penteando o cabelo, situação em que a descamação do couro cabeludo pode ser percebida
+FOTO2_LEGENDA: Descamação persistente no couro cabeludo merece atenção médica
+FOTO2_SECAO: 4
 ---
-<p>A <strong>psoríase no couro cabeludo</strong>, também chamada de psoríase capilar, é uma manifestação da psoríase que provoca inflamação, vermelhidão, coceira e formação de escamas na região da cabeça. Em alguns casos, as lesões ficam restritas a pequenas áreas; em outros, podem atingir praticamente todo o couro cabeludo e ultrapassar a linha de implantação dos cabelos.</p>
-<p>Apesar de parecer caspa, a psoríase apresenta características diferentes e pode exigir tratamento específico. A doença também pode causar <strong>queda de cabelo temporária</strong>, principalmente quando a inflamação está intensa ou quando as escamas são removidas de maneira agressiva.</p>
-<p>A psoríase é uma doença inflamatória crônica e não é contagiosa. O diagnóstico geralmente é clínico, feito por dermatologista, e o tratamento depende da extensão, intensidade dos sintomas, áreas afetadas e impacto na qualidade de vida.</p>
-<h2>O que é psoríase no couro cabeludo?</h2>
-<p>A psoríase é uma doença inflamatória imunomediada na qual o sistema imunológico participa da ativação de processos que aceleram a renovação das células da pele. Como consequência, as células se acumulam e formam placas e escamas características.</p>
-<p>Quando esse processo ocorre no couro cabeludo, surgem as chamadas <strong>lesões de psoríase capilar</strong>.</p>
-<p>A doença pode aparecer:</p>
+<p>A psoríase no couro cabeludo é uma forma da doença inflamatória crônica da pele que aparece na região do cabelo. Ela pode causar placas avermelhadas, escamas espessas e coceira, o que costuma gerar dúvidas sobre a diferença em relação à caspa. Conhecer os sinais, entender o que pode favorecer as crises e saber quando procurar avaliação ajuda a cuidar melhor dessa condição.</p>
+
+<h2>O que é a psoríase no couro cabeludo</h2>
+<p>A psoríase é uma doença de origem imunológica, em que o sistema de defesa acelera a renovação das células da pele. Como resultado, as células se acumulam na superfície antes da hora, formando placas e escamas. No couro cabeludo, essa renovação acelerada pode ser bem visível, principalmente nas áreas com mais pelos.</p>
+<p>A condição é crônica, ou seja, costuma ter períodos de melhora e de piora. Em alguns momentos, a doença fica quase imperceptível; em outros, pode incomodar bastante e afetar o sono, a autoestima e o convívio social.</p>
+<p>Além do couro cabeludo, a psoríase pode atingir cotovelos, joelhos, região lombar e unhas. Quem tem a doença em outras áreas deve comentar isso com o médico, pois a avaliação costuma ser global.</p>
+
+<h2>Sintomas mais comuns no couro cabeludo</h2>
+<p>Os sinais mais frequentes incluem placas avermelhadas com escamas esbranquiçadas ou prateadas, coceira, sensação de queimação e, em alguns casos, pequenas feridas causadas pelo ato de coçar. As placas costumam ter bordas bem definidas e podem se estender além da linha do cabelo, na testa ou atrás das orelhas.</p>
 <ul>
-<li>no couro cabeludo;</li>
-<li>atrás das orelhas;</li>
-<li>na nuca;</li>
-<li>na testa, ultrapassando a linha do cabelo;</li>
-<li>em outras partes do corpo simultaneamente.</li>
+<li>Placas avermelhadas com escamas espessas e esbranquiçadas.</li>
+<li>Coceira que pode atrapalhar o sono e a concentração.</li>
+<li>Ardência ou sensação de repuxamento na pele.</li>
+<li>Queda de escamas sobre os ombros, o que costuma chamar atenção.</li>
 </ul>
-<p>A psoríase do couro cabeludo pode ocorrer isoladamente ou fazer parte de um quadro mais amplo de <strong>psoríase em placas</strong>.</p>
-<h2>Como identificar o início da psoríase no couro cabeludo?</h2>
-<p>No começo, a psoríase no couro cabeludo pode ser confundida com caspa ou simplesmente com uma irritação da pele.</p>
-<p>Alguns sinais aumentam a suspeita de psoríase:</p>
-<ul>
-<li>placas avermelhadas ou mais escuras, dependendo do tom de pele;</li>
-<li>escamas espessas e esbranquiçadas ou branco-prateadas;</li>
-<li>coceira persistente;</li>
-<li>sensação de queimação;</li>
-<li>descamação que forma crostas;</li>
-<li>lesões bem delimitadas;</li>
-<li>placas que ultrapassam a linha de implantação do cabelo;</li>
-<li>sintomas que também aparecem nos cotovelos, joelhos, unhas ou outras regiões;</li>
-<li>períodos de melhora seguidos por novas crises.</li>
-</ul>
-<p>Em peles mais claras, as placas podem apresentar coloração avermelhada. Em peles negras ou morenas, a inflamação pode assumir tons mais escuros, violáceos ou acinzentados, e a alteração de cor pode permanecer mesmo depois que a inflamação melhora.</p>
-<p>A presença de escamas prateadas e placas bem delimitadas é especialmente sugestiva, mas <strong>não é suficiente para confirmar o diagnóstico</strong>.</p>
-<h2>Psoríase no couro cabeludo ou caspa: qual é a diferença?</h2>
-<p>A caspa costuma estar relacionada à <strong>dermatite seborreica</strong>, que também provoca descamação e coceira. Por isso, somente observar flocos no cabelo não permite diferenciar as duas condições com segurança.</p>
-<p>Algumas características podem ajudar:</p>
-<p>| Característica        | Psoríase no couro cabeludo                | Caspa/dermatite seborreica                                  |</p>
-<p>| --------------------- | ----------------------------------------- | ----------------------------------------------------------- |</p>
-<p>| Escamas               | Geralmente mais espessas e aderidas       | Geralmente mais finas                                       |</p>
-<p>| Cor das escamas       | Branca ou branco-prateada                 | Branca, amarelada ou oleosa                                 |</p>
-<p>| Placas                | Bem delimitadas e elevadas                | Menos definidas                                             |</p>
-<p>| Vermelhidão           | Pode ser intensa                          | Pode ocorrer, geralmente de forma mais difusa               |</p>
-<p>| Linha do cabelo       | Pode ultrapassá-la                        | Geralmente não forma placas tão delimitadas                 |</p>
-<p>| Outras áreas do corpo | Pode coexistir com lesões de psoríase     | Pode atingir sobrancelhas, nariz e outras áreas seborréicas |</p>
-<p>| Unhas                 | Pode haver alterações típicas da psoríase | Não é característica                                        |</p>
-<p>Também existe uma condição chamada <strong>sebopsoríase</strong>, que apresenta características de psoríase e dermatite seborreica. Por isso, não é recomendável tentar definir a causa da descamação apenas pela aparência.</p>
-<h2>O que causa psoríase no couro cabeludo?</h2>
-<p>A causa da psoríase envolve uma combinação de predisposição genética e alterações do sistema imunológico. Fatores externos podem contribuir para o surgimento ou agravamento das crises.</p>
-<p>Entre os possíveis gatilhos estão:</p>
-<ul>
-<li>estresse;</li>
-<li>infecções;</li>
-<li>lesões ou irritações na pele;</li>
-<li>alguns medicamentos;</li>
-<li>tabagismo;</li>
-<li>consumo excessivo de álcool;</li>
-<li>interrupção inadequada de determinados tratamentos;</li>
-<li>outros fatores individuais.</li>
-</ul>
-<p>Isso não significa que toda pessoa com psoríase terá os mesmos gatilhos. O que provoca uma crise em uma pessoa pode não produzir o mesmo efeito em outra.</p>
-<p>O <strong>estresse e a ansiedade</strong> merecem atenção porque podem coincidir com períodos de piora, mas isso não significa que a doença seja simplesmente causada por fatores emocionais.</p>
-<h2>A psoríase no couro cabeludo é contagiosa?</h2>
-<p><strong>Não. A psoríase não é contagiosa.</strong></p>
-<p>O contato com uma pessoa que apresenta placas, descamação ou lesões no couro cabeludo não transmite a doença.</p>
-<p>Por isso, não há necessidade de separar objetos pessoais por medo de contágio. O problema está relacionado a mecanismos imunológicos e predisposição individual, e não a uma infecção transmissível.</p>
-<h2>O que pode desencadear uma crise de psoríase capilar?</h2>
-<p>Os gatilhos variam entre as pessoas, mas alguns fatores são frequentemente associados às crises.</p>
-<h3>Estresse e ansiedade</h3>
-<p>Períodos de estresse podem coincidir com piora da psoríase. Estratégias para melhorar sono, atividade física, rotina e saúde mental podem complementar o tratamento dermatológico.</p>
-<h3>Traumas no couro cabeludo</h3>
-<p>Coçar, arrancar crostas, usar unhas para raspar placas ou provocar pequenas lesões durante procedimentos capilares pode piorar a inflamação.</p>
-<p>Esse fenômeno é conhecido como <strong>fenômeno de Koebner</strong>, no qual novas lesões de psoríase podem surgir em áreas que sofreram trauma.</p>
-<h3>Infecções e outros fatores</h3>
-<p>Infecções, alguns medicamentos, tabagismo e consumo excessivo de álcool também podem atuar como desencadeadores em determinadas pessoas.</p>
-<p>Identificar os próprios gatilhos ajuda a reduzir recorrências, mas não substitui o tratamento da doença.</p>
-<h2>Psoríase capilar causa queda de cabelo?</h2>
-<p><strong>Pode causar queda temporária de cabelo, mas isso não significa necessariamente que o folículo tenha sido destruído.</strong></p>
-<p>A queda pode ocorrer por diferentes mecanismos. A inflamação intensa do couro cabeludo pode interferir no ciclo normal dos fios, enquanto a coceira e o ato de remover escamas de maneira agressiva podem quebrar ou arrancar fios que estavam presos às crostas.</p>
-<p>A própria inflamação também pode favorecer uma alteração temporária do ciclo capilar semelhante ao <strong>eflúvio telógeno</strong>, dependendo do contexto clínico.</p>
-<p>Na maioria dos casos relacionados à psoríase do couro cabeludo, o cabelo tende a voltar a crescer quando a inflamação é controlada.</p>
-<p>Isso é diferente de doenças que provocam destruição permanente do folículo e alopecia cicatricial.</p>
-<h3>Como diminuir o risco de queda?</h3>
-<p>Alguns cuidados são especialmente importantes:</p>
-<ul>
-<li>não arrancar as crostas com as unhas;</li>
-<li>evitar coçar vigorosamente;</li>
-<li>não puxar as escamas durante o banho;</li>
-<li>remover as placas somente depois de amolecê-las quando essa orientação fizer parte do tratamento;</li>
-<li>usar produtos prescritos ou recomendados pelo dermatologista;</li>
-<li>evitar procedimentos químicos durante períodos de inflamação intensa;</li>
-<li>tratar a própria psoríase, e não apenas a descamação.</li>
-</ul>
-<p>A remoção agressiva das escamas pode levar fios junto com as placas e aumentar a queda.</p>
-<h2>Como remover crostas grossas sem machucar o couro cabeludo?</h2>
-<p>Quando existem placas muito espessas, tentar arrancá-las diretamente pode causar sangramento, inflamação e trauma local.</p>
-<p>O princípio mais seguro é <strong>amolecer a escama antes de tentar removê-la</strong>, utilizando o produto indicado pelo dermatologista. Dependendo do caso, podem ser utilizados agentes específicos para reduzir a espessura das placas ou tratamentos tópicos capazes de controlar a inflamação.</p>
-<p>Durante a remoção:</p>
-<ul>
-<li>não raspe a placa com objetos;</li>
-<li>não use as unhas para arrancar crostas;</li>
-<li>não force uma escama que esteja firmemente aderida;</li>
-<li>evite escovar vigorosamente uma área inflamada;</li>
-<li>interrompa se houver dor ou sangramento.</li>
-</ul>
-<p>A retirada deve ser gradual. O objetivo não é deixar o couro cabeludo completamente livre de escamas em uma única sessão, mas controlar a doença sem produzir novos traumas.</p>
-<h2>Qual shampoo é mais indicado para psoríase no couro cabeludo?</h2>
-<p>Não existe um único <strong>shampoo para psoríase</strong> que seja ideal para todas as pessoas.</p>
-<p>O produto escolhido depende da aparência das lesões, intensidade da descamação, presença de dermatite seborreica associada e tratamento principal utilizado.</p>
-<p>Algumas formulações podem conter substâncias destinadas a ajudar no controle da descamação, enquanto outras são utilizadas como veículos para medicamentos.</p>
-<p>Entre as opções que podem aparecer em estratégias terapêuticas estão:</p>
-<ul>
-<li>ácido salicílico;</li>
-<li>agentes queratolíticos;</li>
-<li>alcatrão de hulha, em alguns mercados e situações;</li>
-<li>medicamentos antifúngicos quando existe dermatite seborreica associada;</li>
-<li>corticosteroides ou outros medicamentos em formulações adequadas para o couro cabeludo.</li>
-</ul>
-<p>Um shampoo cosmético comum pode aliviar a sensação de descamação, mas não necessariamente controla a inflamação da psoríase.</p>
-<h2>Como é feito o diagnóstico da psoríase no couro cabeludo?</h2>
-<p>O diagnóstico costuma ser realizado por meio da avaliação clínica feita por um dermatologista.</p>
-<p>O médico observa:</p>
-<ul>
-<li>aparência das placas;</li>
-<li>distribuição das lesões;</li>
-<li>presença de escamas;</li>
-<li>comprometimento da linha do cabelo;</li>
-<li>outras áreas afetadas;</li>
-<li>alterações nas unhas;</li>
-<li>histórico de crises;</li>
-<li>resposta a tratamentos anteriores.</li>
-</ul>
-<p>Em situações de dúvida, o dermatologista pode utilizar ferramentas de avaliação ampliada, como a <strong>tricoscopia</strong>, ou solicitar outros exames.</p>
-<p>A biópsia de pele não é necessária em todos os casos. Ela pode ser considerada quando a aparência da lesão não permite diferenciar adequadamente a psoríase de outras doenças.</p>
-<h2>Como tratar a psoríase no couro cabeludo?</h2>
-<p>O tratamento depende da intensidade da doença e de outras características individuais.</p>
-<p>Em casos localizados, o tratamento tópico costuma ser uma das principais estratégias. Em quadros mais extensos, resistentes ou associados a outras manifestações importantes da psoríase, pode ser necessário utilizar fototerapia ou medicamentos sistêmicos.</p>
-<h3>Corticosteroides tópicos</h3>
-<p>Corticosteroides podem reduzir rapidamente a inflamação, coceira e espessura das placas.</p>
-<p>No couro cabeludo, podem ser formulados como:</p>
-<ul>
-<li>soluções;</li>
-<li>loções;</li>
-<li>espumas;</li>
-<li>géis;</li>
-<li>shampoos;</li>
-<li>outras formulações adequadas à região.</li>
-</ul>
-<p>A potência e a duração do tratamento precisam ser definidas pelo médico. O uso prolongado ou inadequado de corticosteroides pode provocar efeitos adversos, e não é recomendado aumentar a frequência ou duração por conta própria.</p>
-<h3>Calcipotriol e outras terapias tópicas</h3>
-<p>Derivados da vitamina D, como o calcipotriol, podem ser utilizados em determinados casos. Dependendo da situação, podem ser associados a corticosteroides para melhorar o controle das placas.</p>
-<p>A escolha da formulação é importante porque produtos desenvolvidos para a pele do corpo nem sempre são adequados para o couro cabeludo.</p>
-<h3>Fototerapia</h3>
-<p>A fototerapia pode ser considerada em determinadas formas de psoríase, principalmente quando existe doença mais extensa ou quando tratamentos tópicos não são suficientes.</p>
-<p>No couro cabeludo, a presença dos cabelos pode dificultar a exposição adequada da pele, por isso a estratégia precisa ser individualizada.</p>
-<h3>Medicamentos sistêmicos</h3>
-<p>Quando a psoríase é moderada ou grave, ou apresenta grande impacto funcional e na qualidade de vida, o dermatologista pode considerar medicamentos sistêmicos.</p>
-<p>Entre as opções existentes estão medicamentos como:</p>
-<ul>
-<li>metotrexato;</li>
-<li>ciclosporina;</li>
-<li>acitretina;</li>
-<li>medicamentos biológicos;</li>
-<li>outros tratamentos sistêmicos conforme o quadro clínico e as diretrizes vigentes.</li>
-</ul>
-<p>A escolha depende da gravidade, doenças associadas, tratamentos anteriores, contraindicações e critérios específicos.</p>
-<h2>Existem tratamentos novos para psoríase além dos corticoides?</h2>
-<p>Sim. A pesquisa em psoríase ampliou o número de opções tópicas e sistêmicas.</p>
-<p>Entre os tratamentos tópicos mais recentes estão medicamentos que atuam por mecanismos diferentes dos corticosteroides.</p>
-<p>O <strong>roflumilaste</strong>, um inibidor da fosfodiesterase-4, possui formulação tópica aprovada nos Estados Unidos para psoríase em placas. Também existem formulações para outras doenças dermatológicas. A indicação e a disponibilidade variam conforme o país e não significam automaticamente que o medicamento esteja aprovado para psoríase do couro cabeludo no Brasil.</p>
-<p>Outro exemplo é o <strong>tapinarof</strong>, um modulador do receptor de hidrocarboneto arílico (AhR) aprovado nos Estados Unidos para tratamento tópico da psoríase em placas. Sua indicação regulatória e disponibilidade também variam de acordo com o país.</p>
-<p>Por isso, a existência de um tratamento aprovado em outro país não significa que ele esteja disponível no Brasil, incorporado ao SUS ou indicado especificamente para psoríase capilar.</p>
-<h2>Quando são usados medicamentos imunobiológicos?</h2>
-<p>Os medicamentos biológicos podem ser considerados principalmente em casos de psoríase moderada a grave que não respondem adequadamente às estratégias convencionais ou quando existem critérios específicos para terapia sistêmica.</p>
-<p>No Brasil, o tratamento pelo SUS segue o <strong>Protocolo Clínico e Diretrizes Terapêuticas da Psoríase</strong>, que estabelece critérios para diagnóstico, tratamento e acompanhamento.</p>
-<p>A escolha do medicamento não deve ser feita somente pela localização da lesão. O médico considera gravidade, tratamentos anteriores, contraindicações, características clínicas e os critérios definidos pelo protocolo vigente.</p>
-<h2>Como conseguir tratamento para psoríase pelo SUS?</h2>
-<p>O acesso pelo SUS depende do diagnóstico, da gravidade da doença, do medicamento necessário e dos critérios estabelecidos pelo protocolo vigente.</p>
-<p>O caminho normalmente começa pela avaliação médica e pela documentação do diagnóstico e da necessidade terapêutica. Para medicamentos especializados ou de maior complexidade, podem ser solicitados documentos específicos, como:</p>
-<ul>
-<li>prescrição médica;</li>
-<li>relatório ou laudo clínico;</li>
-<li>exames necessários para o medicamento;</li>
-<li>documentação exigida pelo serviço responsável pela dispensação;</li>
-<li><strong>Laudo para Solicitação, Avaliação e Autorização de Medicamentos do Componente Especializado da Assistência Farmacêutica (LME)</strong>, quando aplicável.</li>
-</ul>
-<p>A documentação e o fluxo operacional podem variar conforme o medicamento e a rede estadual ou municipal responsável.</p>
-<h3>Passo a passo para solicitar medicamentos de alto custo</h3>
-<p>De forma geral, o paciente deve:</p>
-<p>1. passar por avaliação médica e confirmar o diagnóstico;</p>
-<p>2. verificar se o tratamento indicado está contemplado no protocolo vigente;</p>
-<p>3. reunir a prescrição, relatório, exames e demais documentos exigidos;</p>
-<p>4. preencher o LME quando ele for necessário;</p>
-<p>5. protocolar a solicitação na unidade ou serviço responsável pelo Componente Especializado da Assistência Farmacêutica;</p>
-<p>6. aguardar a análise da documentação;</p>
-<p>7. acompanhar a autorização e a dispensação do medicamento.</p>
-<p>Os critérios podem mudar conforme a tecnologia e as atualizações do protocolo. Por isso, antes de reunir documentos, é importante confirmar com a farmácia de medicamentos especializados ou secretaria de saúde responsável pelo atendimento.</p>
-<h2>Psoríase no couro cabeludo aumenta o risco de artrite psoriásica?</h2>
-<p>A psoríase não afeta somente a pele. Algumas pessoas desenvolvem <strong>artrite psoriásica</strong>, uma doença inflamatória que pode comprometer articulações e estruturas próximas.</p>
-<p>O risco não significa que toda pessoa com psoríase desenvolverá artrite.</p>
-<p>Sinais que merecem avaliação médica incluem:</p>
-<ul>
-<li>dor persistente nas articulações;</li>
-<li>inchaço;</li>
-<li>rigidez matinal prolongada;</li>
-<li>dedos inteiros inchados;</li>
-<li>dor no calcanhar;</li>
-<li>dor lombar inflamatória;</li>
-<li>redução progressiva dos movimentos.</li>
-</ul>
-<p>O aparecimento desses sintomas deve ser informado ao dermatologista, pois o diagnóstico precoce pode ajudar a evitar danos articulares.</p>
-<h2>Cuidados diários para controlar a psoríase capilar</h2>
-<p>Além do tratamento prescrito, alguns hábitos podem ajudar a reduzir irritações e evitar piora das lesões.</p>
-<h3>Evite arrancar as escamas</h3>
-<p>As placas podem parecer difíceis de remover, mas puxá-las com força aumenta o risco de sangramento, trauma e queda de cabelo.</p>
-<h3>Lave o couro cabeludo conforme orientação</h3>
-<p>A frequência de lavagem depende do tipo de cabelo, oleosidade, tratamento utilizado e características individuais.</p>
-<p>O objetivo não é deixar de lavar o cabelo por causa da psoríase.</p>
-<h3>Cuidado com produtos irritantes</h3>
-<p>Tinturas, alisamentos, fragrâncias e outros produtos podem irritar um couro cabeludo já inflamado. Se houver piora depois de utilizar determinado produto, converse com o dermatologista.</p>
-<h3>Não coce as placas</h3>
-<p>A coceira pode ser intensa, mas coçar repetidamente pode aumentar a inflamação e provocar lesões.</p>
-<h3>Controle os gatilhos individuais</h3>
-<p>Se você percebe que determinadas situações precedem as crises, registre-as e converse com o médico. Isso pode ajudar a construir uma estratégia de prevenção.</p>
-<h2>Psoríase no couro cabeludo pode desaparecer para sempre?</h2>
-<p>A psoríase é uma doença crônica. Isso significa que pode apresentar períodos de melhora e períodos de atividade.</p>
-<p>O tratamento busca controlar a inflamação, reduzir as lesões, aliviar os sintomas e diminuir o impacto da doença.</p>
-<p>Uma fase sem sintomas não significa necessariamente que a predisposição desapareceu. Por isso, tratamentos de manutenção e acompanhamento médico podem ser necessários em determinadas situações.</p>
-<h2>Psoríase capilar tem recuperação?</h2>
-<p>Atualmente, a psoríase não possui uma tratamento definitivo, mas pode ser <strong>controlada</strong>.</p>
-<p>Muitas pessoas conseguem permanecer longos períodos com poucas ou nenhuma lesão quando o tratamento é adequado.</p>
-<p>O melhor resultado geralmente depende de três pontos:</p>
-<ul>
-<li>diagnóstico correto;</li>
-<li>tratamento adequado à gravidade da doença;</li>
-<li>continuidade do acompanhamento.</li>
-</ul>
-<p>Tentar tratar somente a descamação, sem controlar a inflamação responsável pela doença, pode levar a crises recorrentes.</p>
-<h2>Quando a queda de cabelo precisa ser investigada?</h2>
-<p>A queda relacionada à psoríase costuma ser temporária, mas nem toda queda de cabelo em uma pessoa com psoríase é causada pela doença.</p>
-<p>É importante procurar avaliação quando:</p>
-<ul>
-<li>surgem áreas completamente sem cabelo;</li>
-<li>a queda continua mesmo após o controle das placas;</li>
-<li>aparecem cicatrizes ou alterações permanentes na pele;</li>
-<li>existem dor, secreção ou feridas;</li>
-<li>a queda é muito rápida;</li>
-<li>há falhas bem delimitadas;</li>
-<li>o couro cabeludo parece normal, mas a queda continua.</li>
-</ul>
-<p>Nessas situações, o dermatologista pode investigar outras causas, como alopecia areata, infecções, eflúvio telógeno, alterações hormonais, deficiências nutricionais ou doenças que afetam diretamente os folículos.</p>
-<h2>Perguntas frequentes sobre psoríase no couro cabeludo</h2>
-<h3>Psoríase capilar passa para outra pessoa?</h3>
-<p>Não. <strong>Psoríase não é contagiosa</strong> e não passa pelo contato físico, pelo uso compartilhado de objetos ou pela convivência.</p>
-<h3>Psoríase no couro cabeludo causa calvície definitiva?</h3>
-<p>Na maioria dos casos, a queda relacionada à inflamação e ao trauma das placas é temporária. Entretanto, queda persistente ou áreas de alopecia que não melhoram precisam ser investigadas para descartar outras doenças.</p>
-<h3>Qual é o melhor shampoo para psoríase na cabeça?</h3>
-<p>Não existe um shampoo universalmente melhor. O produto depende do tipo de lesão, intensidade da descamação e tratamento escolhido pelo dermatologista.</p>
-<h3>Posso usar remédio caseiro para psoríase na cabeça?</h3>
-<p>É melhor evitar substâncias caseiras irritantes, especialmente produtos ácidos, óleos essenciais concentrados ou misturas que possam causar queimaduras e dermatites. A psoríase envolve inflamação e precisa de tratamento adequado.</p>
-<h3>Diprosalic serve para psoríase no couro cabeludo?</h3>
-<p>Medicamentos à base de corticosteroide associados a agentes queratolíticos podem ser utilizados em determinadas situações, mas a escolha deve ser feita pelo médico. Não é seguro iniciar, interromper ou prolongar esse tipo de tratamento por conta própria.</p>
-<h3>Psoríase e dermatite seborreica são a mesma coisa?</h3>
-<p>Não. São doenças diferentes, embora possam produzir descamação e coceira semelhantes. Também é possível que as duas condições coexistam.</p>
-<h3>É possível ter psoríase somente no couro cabeludo?</h3>
-<p>Sim. Algumas pessoas apresentam manifestações predominantemente ou exclusivamente no couro cabeludo, enquanto outras possuem lesões em diferentes regiões do corpo.</p>
-<h3>Psoríase no couro cabeludo pode atingir as unhas?</h3>
-<p>Sim. Alterações como pequenas depressões, mudanças de coloração, espessamento ou descolamento das unhas podem ocorrer na psoríase e devem ser informadas ao dermatologista.</p>
-<h3>Quem tem psoríase no couro cabeludo pode pintar o cabelo?</h3>
-<p>Pode ser possível, mas produtos químicos podem irritar a pele durante uma crise. Se o couro cabeludo estiver muito inflamado, com feridas ou sangramento, é prudente adiar procedimentos químicos e conversar com o dermatologista.</p>
-<h2>O que fazer se você suspeita de psoríase no couro cabeludo?</h2>
-<p>Se a descamação é persistente, forma placas espessas, ultrapassa a linha do cabelo ou vem acompanhada de coceira intensa e queda de cabelo, o ideal é procurar um dermatologista.</p>
-<p>O diagnóstico correto é importante porque <strong>psoríase, caspa, dermatite seborreica, micose e outras doenças do couro cabeludo podem apresentar sintomas semelhantes, mas exigem tratamentos diferentes</strong>.</p>
-<p>Quando a psoríase é confirmada, existem diversas possibilidades terapêuticas, desde tratamentos tópicos até medicamentos sistêmicos e imunobiológicos para situações específicas. O objetivo não é apenas remover as escamas, mas controlar a inflamação, proteger o couro cabeludo, reduzir a queda temporária dos fios e melhorar a qualidade de vida.</p>
+<p>Esses sintomas não são exclusivos da psoríase. Outras condições da pele também podem causar descamação e vermelhidão, e por isso a avaliação de um dermatologista é importante.</p>
+
+<h2>Diferença entre psoríase e caspa</h2>
+<p>A caspa é uma descamação mais fina e oleosa, geralmente ligada ao fungo que vive naturalmente na pele, e costuma responder bem a xampus específicos. Já a psoríase forma placas mais espessas, com bordas bem marcadas, escamas secas e aderidas ao couro cabeludo, e tende a não melhorar apenas com xampus comuns.</p>
+<p>Outra diferença é a reação ao tratamento. A caspa melhora com higiene e produtos antifúngicos em muitos casos, enquanto a psoríase exige abordagem específica, com avaliação médica. Também é comum que a psoríase cause vermelhidão mais intensa e sinais em outras partes do corpo, como unhas com pequenas cavidades ou lesões em cotovelos e joelhos.</p>
+<p>Como as duas situações podem se parecer, a dica é observar a evolução por algumas semanas e levar o caso ao dermatologista se a descamação persistir, se houver placas bem definidas ou se o incômodo aumentar.</p>
+
+<h2>O que pode desencadear as crises</h2>
+<p>A psoríase tem forte influência genética, mas crises costumam ser desencadeadas por fatores do dia a dia. Estresse intenso, infecções, traumas na pele, mudanças climáticas, certos medicamentos e o consumo de álcool e cigarro estão entre os gatilhos relatados com mais frequência.</p>
+<p>Também é descrito que a pele muito seca ou a fricção constante, como o uso de bonés e capacetes apertados, pode piorar as lesões em algumas pessoas. Por isso, vale observar quais situações antecedem as crises e levar essas informações à consulta.</p>
+<p>Alguns medicamentos devem ser revisados pelo médico, sobretudo quando iniciados recentemente. A decisão de alterar qualquer remédio cabe ao profissional que acompanha o caso, e nunca deve ser tomada por conta própria.</p>
+
+<h2>Cuidados diários que ajudam no conforto</h2>
+<p>Enquanto a avaliação médica não acontece, alguns cuidados podem reduzir o desconforto. Lavar o cabelo com xampu suave, evitar coçar e secar o couro cabeludo com toques leves são medidas simples. Manter o cabelo bem hidratado, sem excesso de produtos que irritem a pele, também ajuda.</p>
+<p>É importante não usar produtos agressivos, como alcoóis concentrados ou tinturas aplicadas sobre lesões abertas, sem orientação. Cada tratamento tem indicação própria, e a escolha deve ser feita com um profissional.</p>
+<p>Para entender melhor como outros problemas do couro cabeludo se manifestam, vale ler sobre <a href="/dermatite-de-contato/">dermatite de contato</a>, que também causa vermelhidão e coceira na região.</p>
+
+<h2>Quando a psoríase pode afetar a rotina e a saúde</h2>
+<p>Além dos sintomas na pele, a psoríase pode impactar o bem-estar emocional. Muitas pessoas relatam vergonha, ansiedade e sensação de isolamento, especialmente quando as escamas ficam visíveis. Esses aspectos merecem ser discutidos com o médico, que pode indicar apoio adicional.</p>
+<p>A doença também pode se associar a outras condições, por isso a avaliação deve considerar o quadro geral. Quem tem psoríase deve manter o acompanhamento regular, mesmo nos períodos de melhora.</p>
+<p>Com o tempo, a queixa de queda de cabelo pode surgir, seja pela inflamação, seja pelo coçar e pelas lesões. Sobre esse ponto, vale conhecer o tema de <a href="/queda-de-cabelo/">queda de cabelo</a> e a importância de investigar a causa.</p>
+
+<h2>Perguntas frequentes</h2>
+<p><strong>Psoríase no couro cabeludo é contagiosa?</strong><br>Não. A psoríase não é transmitida por contato, toque ou compartilhamento de objetos.</p>
+<p><strong>Xampu anticaspa resolve a psoríase?</strong><br>Não necessariamente. Produtos anticaspa podem aliviar sintomas leves, mas a psoríase costuma exigir avaliação e tratamento específico.</p>
+<p><strong>A psoríase pode ser controlada?</strong><br>Muitas pessoas conseguem controlar os sintomas com acompanhamento médico, cuidados diários e identificação dos gatilhos.</p>
+<p><strong>O estresse pode piorar as crises?</strong><br>Sim, o estresse intenso é um dos gatilhos mais citados. Cuidar do sono e das emoções faz parte do plano de cuidado.</p>
+
 <h2>Quando procurar um médico</h2>
-<p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
+<p>Procure um dermatologista se houver descamação persistente no couro cabeludo, placas bem definidas, coceira que atrapalha o sono, feridas, sangramento, dor ou sinais de infecção, como pus e calor local. Também vale buscar avaliação se a descamação não melhorar com a higiene habitual.</p>
+<p>O especialista pode examinar a pele, indicar exames quando necessário e propor um plano de tratamento. Quem decide a conduta adequada é o profissional que avalia cada caso.</p>
+<p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
 <h2>Resumindo</h2>
-<p>A psoríase no couro cabeludo, também chamada de psoríase capilar, é uma manifestação da psoríase que provoca inflamação, vermelhidão, coceira e formação de escamas na região da cabeça. Antes de mudar sua alimentação, rotina ou usar qualquer suplemento, converse com um médico ou nutricionista.</p>
-
+<p>A psoríase no couro cabeludo se manifesta com placas avermelhadas, escamas espessas e coceira. Ela se diferencia da caspa pelo aspecto das placas, pela resposta aos produtos comuns e pela presença de sinais em outras áreas do corpo.</p>
+<p>Como a doença é crônica e tem gatilhos variados, o melhor caminho é combinar avaliação dermatológica, cuidados diários suaves e atenção ao estresse e ao sono. Com acompanhamento, muitas pessoas conseguem manter a condição sob controle e viver com mais conforto.</p>

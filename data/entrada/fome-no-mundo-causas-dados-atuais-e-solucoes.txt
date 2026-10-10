@@ -1,175 +1,57 @@
 PALAVRA_CHAVE: fome no mundo
-TITLE: Fome no Mundo: Causas, Dados Atuais e Soluções
-DESCRIPTION: Entenda a fome mundial em 2026: 645 milhões de pessoas afetadas, causas estruturais, o papel dos conflitos e do clima, e o que pode ser feito.
+TITLE: Fome no mundo: causas, dados atuais e soluções
+DESCRIPTION: Fome no mundo: entenda as principais causas, o que os relatórios de organismos internacionais apontam e quais caminhos de combate são discutidos.
 FONTE: Governo Federal | https://www.gov.br
-FONTE: doi.org | https://doi.org
 FONTE: wfp.org | https://wfp.org
-CAPA_BUSCA: healthy meal plate vegetables
-CAPA_ALT: Refeição equilibrada sobre fome no mundo
-FOTO1_BUSCA: healthy food salad bowl
-FOTO1_ALT: Alimentação equilibrada no dia relacionado a fome no mundo
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+CAPA_BUSCA: food distribution community volunteers
+CAPA_ALT: Voluntários organizando distribuição de alimentos para uma comunidade
+FOTO1_BUSCA: farmers harvesting crops field
+FOTO1_ALT: Agricultores colhendo alimentos em uma lavoura
+FOTO1_LEGENDA: A produção de alimentos depende de clima, solo e acesso a recursos.
 FOTO1_SECAO: 2
+FOTO2_BUSCA: children eating meal school
+FOTO2_ALT: Crianças fazendo uma refeição na escola
+FOTO2_LEGENDA: Programas de alimentação escolar são um dos instrumentos de combate à fome.
+FOTO2_SECAO: 4
 ---
-<div id="container-imagem-capa" class="loading">Carregando imagem...</div>
-
-<p>A <strong>fome no mundo</strong> afeta cerca de 645 milhões de pessoas, segundo o relatório <em>O Estado da Segurança Alimentar e Nutricional no Mundo 2026</em> (SOFI 2026), publicado por cinco agências da ONU. O número representa 7,8% da população global e confirma o terceiro ano consecutivo de queda — uma redução de quase 14 milhões em relação a 2024 e 43 milhões em relação ao pico de 2022. Apesar do progresso, o ritmo é lento e insuficiente para cumprir a meta de erradicar a fome até 2030. Entender as causas estruturais e as soluções disponíveis é essencial para acompanhar um dos maiores desafios humanitários do século.</p>
-
-<h2>Quantas Pessoas Passam Fome no Mundo Hoje?</h2>
-
-<p>Em 2025, aproximadamente 645 milhões de pessoas enfrentaram a fome, o equivalente a 7,8% da população mundial. A estimativa tem intervalo de incerteza entre 608 e 696 milhões. O número representa uma queda gradual: 8,1% em 2024 e 8,6% em 2022. A subnutrição, medida pela prevalência de subalimentação (PoU), caiu pelo terceiro ano consecutivo.</p>
-
-<p>Além da fome crônica, a insegurança alimentar moderada ou grave atingiu cerca de 2,1 bilhões de pessoas em 2025 — 25,8% da população global. Isso significa que uma em cada quatro pessoas não tem acesso regular a alimentos seguros e nutritivos. A insegurança alimentar aguda, medida em contextos de crise, afetou 266 milhões de pessoas em 47 países e territórios, segundo o Relatório Global sobre Crises Alimentares (GRFC) 2026.</p>
-
-<h2>Quais São as Principais Causas da Fome no Mundo?</h2>
-
-<p>A fome não tem uma causa única. É o resultado de fatores interligados que se reforçam mutuamente: conflitos armados, crises climáticas, desigualdade econômica e falhas estruturais nos sistemas agroalimentares.</p>
-
-<h3>Conflitos e Insegurança</h3>
-
-<p>Conflitos armados são o principal motor da fome aguda no mundo. A insegurança e a violência provocam 69% dos casos de fome aguda, segundo o Programa Mundial de Alimentos (WFP). O GRFC 2026 identificou que a fome aguda dobrou na última década, com duas fomes confirmadas no mesmo ano pela primeira vez na história do relatório — em Gaza e em partes do Sudão.</p>
-
-<p>Os países e territórios com maior prevalência de insegurança alimentar aguda incluem Gaza, Sudão do Sul, Iêmen, Sudão, Haiti e Afeganistão. Nigéria, República Democrática do Congo, Sudão, Bangladesh e Iêmen concentram os maiores números absolutos de pessoas em crise alimentar. Conflitos também interrompem rotas de navegação — como o Estreito de Ormuz e os portos do Mar Negro — elevando o custo de transporte de alimentos, combustível e fertilizantes.</p>
-
-<h3>Crises Climáticas e El Niño</h3>
-
-<p>Eventos climáticos extremos, como secas, inundações e tempestades, destroem colheitas e meios de subsistência. O fenômeno El Niño de 2026-2027 deve se intensificar e persistir até fevereiro de 2027, com potencial para ser um dos mais fortes já registrados. As projeções indicam que ele pode empurrar pelo menos 49 milhões de pessoas para a fome aguda até o final de 2027.</p>
-
-<p>Na África Oriental, o risco de seca na Somália deve se agravar. Na África Austral, países como Madagascar, Malawi, Moçambique, Zâmbia e Zimbábue podem enfrentar seca agrícola e redução de pastagens. Na América Central, perdas na primeira safra já aceleram a insegurança alimentar no Corredor Seco.</p>
-
-<h3>Desigualdade e Custo dos Alimentos</h3>
-
-<p>O custo global de uma dieta saudável aumentou 25% em apenas cinco anos, alcançando US$ 4,28 em paridade de poder de compra por pessoa por dia. O valor está acima da linha de extrema pobreza (US$ 3,00 por dia). Como resultado, cerca de 2,69 bilhões de pessoas — quase uma em cada três no mundo — não podem pagar por uma alimentação saudável.</p>
-
-<p>A análise da FAO mostra que 70% a 75% do custo de uma dieta saudável é gerado após o alimento sair da fazenda. Os gargalos estão no armazenamento, transporte, processamento, cadeias de custo e mercados atacadistas. Alimentos nutritivos como frutas, vegetais e produtos de origem animal são desproporcionalmente caros em relação aos cereais básicos, que fornecem metade das calorias necessárias mas representam apenas 13% do custo.</p>
-
-<h2>Qual É o Continente com Maior Índice de Fome no Mundo?</h2>
-
-<p>A África é o epicentro da fome global. Em 2025, o continente teve aproximadamente 309 milhões de pessoas subnutridas, superando a Ásia (cerca de 292 milhões) como a região com maior número absoluto de pessoas afetadas. O crescimento populacional africano agrava o problema: mesmo com a redução proporcional, o número absoluto de famintos aumenta.</p>
-
-<p>A África também concentra a maior proporção de pessoas que não podem pagar uma dieta saudável: cerca de dois terços da população do continente. Os focos de fome catastrófica incluem Sudão, Sudão do Sul, Somália, Mali, Haiti e Gaza.</p>
-
-<div id="container-imagem-1" class="loading">Carregando imagem...</div>
-
-<h2>Tabela: Indicadores Globais de Fome e Segurança Alimentar (2025)</h2>
-
-<table>
-<thead>
-<tr>
-<th>Indicador</th>
-<th>Valor</th>
-<th>Variação</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Pessoas em situação de fome (subnutrição)</td>
-<td>645 milhões (7,8%)</td>
-<td>Queda de 14 milhões vs. 2024</td>
-</tr>
-<tr>
-<td>Insegurança alimentar moderada ou grave</td>
-<td>2,1 bilhões (25,8%)</td>
-<td>Queda de 86 milhões vs. 2024</td>
-</tr>
-<tr>
-<td>Insegurança alimentar aguda (crise)</td>
-<td>266 milhões em 47 países</td>
-<td>Dobrou na última década</td>
-</tr>
-<tr>
-<td>Custo global de dieta saudável</td>
-<td>US$ 4,28 PPC/dia</td>
-<td>Aumento de 25% em 5 anos</td>
-</tr>
-<tr>
-<td>Pessoas que não podem pagar dieta saudável</td>
-<td>2,69 bilhões</td>
-<td>Quase 1 em cada 3 pessoas</td>
-</tr>
-</tbody>
-</table>
-
-<p><em>Fontes: SOFI 2026 (FAO, IFAD, UNICEF, WFP, WHO) e GRFC 2026.</em></p>
-
-<div id="container-imagem-2" class="loading">Carregando imagem...</div>
-
-<h2>Como Resolver o Problema da Fome Mundial?</h2>
-
-<p>Não existe solução única. O combate à fome exige ação coordenada em múltiplas frentes: infraestrutura, políticas públicas, financiamento e resiliência climática.</p>
-
-<h3>Infraestrutura de Transporte e Armazenamento</h3>
-
-<p>Cerca de um terço de todos os alimentos produzidos no mundo é perdido ou desperdiçado. Boa parte dessa perda ocorre por falhas na cadeia de frio, estradas precárias e armazenamento inadequado. O Banco Mundial estima que investimentos direcionados em 50 pontos críticos de transporte na África — 10 portos, 20 passagens de fronteira e 20 segmentos rodoviários — poderiam reduzir o desperdício de alimentos e transformar as cadeias de suprimento.</p>
-
-<p>A FAO recomenda investimentos em estradas rurais, armazenamento refrigerado, logística e cadeias de valor eficientes para frutas e vegetais. Essas medidas geram reduções muito maiores no custo de uma dieta saudável do que investimentos amplos e não direcionados. Melhorar a infraestrutura de transporte é, portanto, uma das alavancas mais eficazes para tornar alimentos nutritivos acessíveis.</p>
-
-<h3>Sanções Econômicas e Acesso Humanitário</h3>
-
-<p>Sanções econômicas podem impactar diretamente o direito à alimentação ao interromper importações, produção, distribuição e vendas. Sanções sobre produtos agrícolas e insumos elevam os preços e colocam uma dieta nutritiva fora do alcance de muitas populações. Em situações de conflito, sanções podem dificultar a prestação de ajuda humanitária.</p>
-
-<p>O direito internacional humanitário determina que alimentos e medicamentos sejam isentos de sanções. No entanto, na prática, a aplicação de medidas econômicas frequentemente afeta cadeias de suprimento de forma indireta, elevando custos de transporte e seguro. A comunidade internacional precisa garantir que sanções não comprometam o acesso humanitário a alimentos.</p>
-
-<h3>Financiamento de Pequenos Agricultores</h3>
-
-<p>Pequenos agricultores familiares são responsáveis por parcela significativa da produção de alimentos em países em desenvolvimento, mas frequentemente carecem de acesso a crédito, assistência técnica e mercados. Programas de microcrédito e financiamento direcionado podem aumentar a produtividade e a resiliência desses produtores.</p>
-
-<p>No Brasil, o programa AgroAmigo já movimentou mais de R$ 100 milhões nas regiões Norte e Centro-Oeste, com juros de 0,5% ao ano para agricultores familiares. O Plano Safra da Agricultura Familiar destinou R$ 89 bilhões para crédito rural, compras públicas, seguro agrícola e assistência técnica. Essas iniciativas mostram que o financiamento direcionado pode fortalecer a segurança alimentar local e reduzir a dependência de monoculturas de exportação em áreas de risco.</p>
-
-<h3>Resiliência Climática e Ação Antecipatória</h3>
-
-<p>Com o El Niño se intensificando, investir em sistemas de alerta precoce, seguros climáticos e práticas agrícolas resilientes é essencial. O WFP estima que cada dólar investido em ação antecipatória economiza sete dólares em perdas. A resiliência climática não é apenas uma medida ambiental, mas uma estratégia de segurança alimentar.</p>
-
-<div id="container-imagem-3" class="loading">Carregando imagem...</div>
-
-<h2>Progresso e Retrocessos: O Caso do Brasil e da América Latina</h2>
-
-<p>O Brasil permanece fora do Mapa da Fome da ONU pelo segundo ano consecutivo, com prevalência de subnutrição abaixo de 2,5% no triênio 2023-2025. A insegurança alimentar severa caiu para 0,6%, o menor patamar da série histórica, representando 16,7 milhões de pessoas que deixaram essa condição. O custo da dieta saudável no Brasil foi de US$ 4,89 PPC por dia, abaixo da média da América do Sul.</p>
-
-<p>Na América Latina e no Caribe, a subalimentação caiu para 5,1%, impulsionada por programas de transferência de renda e políticas de segurança alimentar. O caso brasileiro demonstra que a combinação de proteção social, transferência de renda, acesso ao crédito agrícola e compras públicas da produção familiar pode gerar resultados concretos.</p>
-
-<p>No entanto, o progresso é desigual. A ODS 2 (Fome Zero) está longe de ser alcançada. As projeções indicam que entre 510 e 520 milhões de pessoas ainda estarão em situação de fome em 2030, sendo 56% delas na África.</p>
-
-<h2>FAQ — Perguntas Frequentes</h2>
-
-<h3>1. Quantas pessoas passam fome no mundo hoje?</h3>
-<p>Cerca de 645 milhões de pessoas, ou 7,8% da população mundial, enfrentaram a fome em 2025. O número representa uma redução de 14 milhões em relação a 2024 e 43 milhões em relação a 2022.</p>
-
-<h3>2. Quais são as principais causas da fome no mundo?</h3>
-<p>Conflitos armados (69% dos casos de fome aguda), crises climáticas como El Niño, desigualdade econômica e o alto custo de dietas saudáveis. A fome é multifatorial e raramente tem uma causa isolada.</p>
-
-<h3>3. Qual é o continente com maior índice de fome no mundo?</h3>
-<p>A África é o epicentro da fome global, com aproximadamente 309 milhões de pessoas subnutridas em 2025, superando a Ásia. O crescimento populacional agrava o problema no continente.</p>
-
-<h3>4. Como resolver o problema da fome mundial de forma definitiva?</h3>
-<p>Não há solução única. É preciso combinar investimentos em infraestrutura de transporte e armazenamento, financiamento de pequenos agricultores, resiliência climática, ação antecipatória e garantia de acesso humanitário em zonas de conflito.</p>
-
-<h3>5. O que é o relatório SOFI e por que ele é importante?</h3>
-<p>O SOFI (State of Food Security and Nutrition in the World) é publicado anualmente por cinco agências da ONU. Ele fornece as estimativas mais atualizadas sobre fome, insegurança alimentar e custo de dietas saudáveis, servindo de base para políticas públicas globais.</p>
-
-<h2>Resumindo</h2>
-
-<p>A fome no mundo afeta 645 milhões de pessoas, mas o número caiu pelo terceiro ano consecutivo. Ainda assim, o ritmo de redução é insuficiente para cumprir a meta de erradicar a fome até 2030, e as projeções indicam que mais de 500 milhões ainda estarão nessa condição no fim da década.</p>
-
-<p>Conflitos armados são o principal motor da fome aguda, responsáveis por 69% dos casos. Crises climáticas, especialmente o El Niño de 2026-2027, devem agravar a situação, com potencial para empurrar 49 milhões de pessoas para a fome aguda. O custo de uma dieta saudável subiu 25% em cinco anos e está acima da linha de extrema pobreza.</p>
-
-<p>A África é o epicentro da crise, com 309 milhões de subnutridos e dois terços da população sem acesso a uma dieta saudável. A América Latina e o Brasil mostram progresso, com o país mantendo-se fora do Mapa da Fome pelo segundo ano consecutivo.</p>
-
-<p>As soluções passam por infraestrutura de transporte e armazenamento, financiamento de pequenos agricultores, resiliência climática e garantia de acesso humanitário em zonas de conflito. Cada dólar investido em ação antecipatória economiza sete dólares em perdas. A fome não é inevitável, mas exige ação coordenada e sustentada.</p>
-
-<h2>Fontes</h2>
+<p>A fome no mundo é a falta de acesso regular a alimentos suficientes e nutritivos, situação que atinge milhões de pessoas e tem causas econômicas, sociais, climáticas e políticas. Organismos internacionais acompanham o tema com relatórios periódicos, e o debate envolve produção, distribuição, renda e estabilidade. Este texto explica, em termos gerais, as principais causas, o que esses relatórios costumam mostrar e quais soluções são discutidas.</p>
+<h2>O que é fome e o que é insegurança alimentar</h2>
+<p>Fome, em sentido estrito, é a privação persistente de energia suficiente para manter a vida e a atividade. A insegurança alimentar é um conceito mais amplo, que inclui situações em que a pessoa não sabe se terá comida no dia seguinte, precisa reduzir a quantidade ou a qualidade das refeições ou passa dias sem se alimentar bem.</p>
+<p>Os especialistas usam escalas para medir essas situações, desde a insegurança leve até a grave. Essa distinção é importante porque políticas públicas costumam atuar em estágios diferentes. Quem vive a insegurança moderada pode ser apoiado com renda e acesso a alimentos, enquanto casos graves exigem respostas emergenciais.</p>
+<p>Ter comida disponível no mercado não significa que todas as pessoas consigam comprá-la. Por isso, o tema é tratado tanto pela produção de alimentos quanto pelo acesso econômico e pela distribuição.</p>
+<h2>Principais causas</h2>
+<p>As causas se combinam e variam conforme cada região. Conflitos armados deslocam populações, destroem plantações e interrompem o comércio. Crises climáticas, como secas e enchentes, afetam a colheita e elevam os preços. Crises econômicas reduzem a renda das famílias e tornam a comida mais difícil de comprar.</p>
 <ul>
-<li>FAO, IFAD, UNICEF, WFP and WHO. The State of Food Security and Nutrition in the World 2026. <a href="https://doi.org/10.4060/cd8306en" target="_blank" rel="noopener">https://doi.org/10.4060/cd8306en</a></li>
-<li>World Food Programme. SOFI Report 2026. <a href="https://www.wfp.org/publications/state-food-security-and-nutrition-world-sofi-report" target="_blank" rel="noopener">https://www.wfp.org/publications/state-food-security-and-nutrition-world-sofi-report</a></li>
-<li>Global Report on Food Crises 2026 — Mid-year Update. <a href="https://knowledge4policy.ec.europa.eu/node/90356_sl" target="_blank" rel="noopener">https://knowledge4policy.ec.europa.eu/node/90356_sl</a></li>
-<li>World Food Programme. WFP 2026 Global Outlook: Mid-year Update. <a href="https://es.wfp.org/publicaciones/perspectivas-mundiales-de-wfp" target="_blank" rel="noopener">https://es.wfp.org/publicaciones/perspectivas-mundiales-de-wfp</a></li>
-<li>UN News. Strengthening El Niño to push 49 million more people into acute hunger. <a href="https://news.un.org/en/story/2026/08/1162511" target="_blank" rel="noopener">https://news.un.org/en/story/2026/08/1162511</a></li>
-<li>Ministério do Desenvolvimento Social (Brasil). Relatório da ONU confirma que Brasil permanece fora do Mapa da Fome. <a href="https://www.gov.br/mds/pt-br/noticias/relatorio-da-onu-confirma-que-brasil-permanece-fora-do-mapa-da-fome-e-aponta-melhora-em-indicadores" target="_blank" rel="noopener">https://www.gov.br/mds/pt-br/noticias/relatorio-da-onu-confirma-que-brasil-permanece-fora-do-mapa-da-fome-e-aponta-melhora-em-indicadores</a></li>
+<li>Conflitos e deslocamentos forçados;</li>
+<li>Eventos climáticos extremos e perda de safras;</li>
+<li>Desemprego, baixa renda e desigualdade;</li>
+<li>Alta de preços de alimentos e de insumos agrícolas;</li>
+<li>Falhas nos sistemas de distribuição e de abastecimento.</li>
 </ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
-<h2>Quando procurar um médico</h2>
-<p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://www.gov.br" target="_blank" rel="noopener">Governo Federal</a>, <a href="https://doi.org" target="_blank" rel="noopener">doi.org</a> e da <a href="https://wfp.org" target="_blank" rel="noopener">wfp.org</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>Outro fator é a desigualdade de acesso à terra, à água e a tecnologias. Pequenos produtores, em muitos países, enfrentam dificuldades para investir e para vender sua produção a preços justos, o que afeta toda a cadeia de alimentos.</p>
+<h2>O que os relatórios costumam mostrar</h2>
+<p>Relatórios produzidos por agências das Nações Unidas e por instituições de pesquisa costumam apontar que a fome não depende apenas da quantidade de alimentos produzidos. Eles destacam o peso da renda, das crises e das condições de vida. Por isso, a leitura desses documentos exige atenção ao método e ao período analisado.</p>
+<p>Segundo divulgação do governo federal brasileiro, relatórios recentes das Nações Unidas indicam que o Brasil permanece fora do Mapa da Fome. A informação mostra avanços em indicadores, mas não elimina desafios de desigualdade, de acesso e de qualidade da alimentação, que continuam presentes em várias regiões.</p>
+<p>Uma leitura cuidadosa desses relatórios recomenda acompanhar as revisões de metodologia e evitar conclusões baseadas apenas em uma única publicação. Dados de diferentes fontes ajudam a construir uma visão mais completa.</p>
+<h2>Efeitos na saúde</h2>
+<p>A falta de alimentos adequados afeta o crescimento de crianças, o desenvolvimento cerebral e a imunidade. Em adultos, pode provocar fraqueza, perda de peso, dificuldade de trabalhar e maior vulnerabilidade a doenças. Crianças e gestantes são grupos de atenção especial, porque a carência nutricional nesses períodos pode ter efeitos duradouros.</p>
+<p>Também há uma face menos visível do problema, que é a fome oculta. Ela ocorre quando a alimentação é suficiente em calorias, mas pobre em vitaminas e minerais. Essa situação está associada a anemia, deficiências e doenças crônicas, e aparece com frequência em dietas baseadas em alimentos muito processados.</p>
+<p>Para entender melhor o papel de alguns nutrientes, vale ler sobre os <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a>, cuja falta é uma das carências mais comuns no mundo.</p>
+<h2>Soluções discutidas</h2>
+<p>As soluções apontadas por especialistas combinam ações de curto e de longo prazo. No curto prazo, programas de transferência de renda, distribuição de alimentos e apoio em situações de emergência ajudam a proteger quem está em risco imediato. Também são importantes sistemas de alerta para crises e estoques de segurança.</p>
+<p>No longo prazo, o foco é fortalecer a produção local, melhorar a infraestrutura, ampliar o acesso à educação e ao emprego e reduzir o desperdício. Políticas de alimentação escolar, de compras públicas da agricultura familiar e de apoio à nutrição materna e infantil aparecem com frequência entre as propostas com bons resultados em diferentes países.</p>
+<p>Há ainda o papel da cooperação internacional, do financiamento e da estabilidade política. Crises prolongadas exigem respostas coordenadas, e o combate à fome envolve governos, organizações, empresas e sociedade civil.</p>
+<h2>O papel da alimentação saudável</h2>
+<p>Discutir fome também é discutir qualidade da alimentação. Uma dieta com grãos, leguminosas, frutas e verduras acessíveis tende a ser mais nutritiva e mais barata do que uma dieta baseada em ultraprocessados. Por isso, políticas que facilitam o acesso a alimentos in natura são parte do combate à fome e às doenças associadas à má alimentação.</p>
+<p>Em qualquer contexto, o consumo de <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a> contribui para a saciedade e para o funcionamento do intestino, e pode ser incluído mesmo com orçamento limitado, como em feijões, aveia e legumes.</p>
+<h2>Perguntas frequentes</h2>
+<p><strong>Fome e pobreza são a mesma coisa?</strong> Estão relacionadas, mas não são idênticas. A pobreza é um dos fatores mais associados à insegurança alimentar, mas há outras causas.</p>
+<p><strong>Produzir mais alimentos resolve a fome?</strong> Ajuda, mas não basta. Sem renda, acesso, distribuição e políticas adequadas, parte da população continua sem alimentação suficiente.</p>
+<p><strong>O que uma pessoa pode fazer?</strong> Apoiar iniciativas locais, reduzir desperdício em casa, doar com responsabilidade e cobrar políticas públicas são formas de contribuir.</p>
+<p><strong>Os relatórios são confiáveis?</strong> Em geral, sim, quando produzidos por instituições técnicas. Vale comparar fontes e observar a metodologia usada.</p>
+<h2>Quando procurar ajuda</h2>
+<p>Se você ou sua família estão passando por dificuldades para ter alimentos suficientes, procure os serviços de assistência social do município, os centros de referência e as equipes de saúde da atenção básica. Há programas de apoio alimentar e de orientação nutricional em muitas cidades.</p>
+<p>Sinais como cansaço constante, perda de peso sem motivo, palidez, tontura e queda de imunidade merecem avaliação médica. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
+<h2>Resumindo</h2>
+<p>A fome no mundo resulta de conflitos, crises climáticas, desigualdade de renda e falhas nos sistemas de produção e distribuição. Os relatórios internacionais ajudam a acompanhar o problema, mas devem ser lidos com atenção à metodologia e ao período analisado.</p>
+<p>As soluções mais discutidas combinam proteção imediata, fortalecimento da produção local, políticas de renda e alimentação e cooperação internacional. Reduzir a fome exige ação coordenada, e cada pessoa pode contribuir de alguma forma.</p>

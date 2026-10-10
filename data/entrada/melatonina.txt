@@ -1,123 +1,67 @@
 PALAVRA_CHAVE: melatonina
-TITLE: Melatonina: para que serve e cuidados
-DESCRIPTION: Melatonina participa do ritmo sono-vigília, mas suplementos exigem cuidados. Entenda para que serve, efeitos adversos, contraindicações e quando buscar ajuda.
-CAPA_BUSCA: mature woman sleeping peacefully in a quiet bedroom at night
-CAPA_ALT: Mulher madura dormindo em um quarto silencioso durante a noite
-CAPA_LEGENDA: A melatonina participa da organização do ritmo sono-vigília, que também depende da exposição à luz e da rotina.
-FOTO1_BUSCA: mature woman looking at alarm clock in dark bedroom before sleep
-FOTO1_ALT: Mulher madura olhando o relógio em um quarto escuro antes de dormir
-FOTO1_LEGENDA: Horários irregulares e exposição à luz durante a noite podem interferir na organização do ciclo sono-vigília.
-FOTO1_SECAO: 2
-FOTO2_BUSCA: mature man talking to doctor about sleep difficulties in medical office
-FOTO2_ALT: Homem maduro conversando com médico sobre dificuldades persistentes para dormir
-FOTO2_LEGENDA: Dificuldades persistentes para dormir podem exigir investigação da causa e avaliação individualizada.
-FOTO2_SECAO: 8
+TITLE: Melatonina: Para Que Serve, Efeitos e Cuidados
+DESCRIPTION: Entenda para que serve a melatonina, o que a ciência sabe sobre o seu uso para o sono, os efeitos possíveis e quando consultar um médico antes de usar.
 FONTE: Melatonina — Ministério da Saúde | https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/m/melatonina/melatonina
 FONTE: Melatonin: What You Need To Know — NCCIH/NIH | https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know
 FONTE: Anvisa autoriza melatonina na forma de suplemento alimentar | https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2021/anvisa-autoriza-a-melatonina-na-forma-de-suplemento-alimentar
-FONTE: Use of Melatonin and/or Ramelteon for the Treatment of Insomnia in Older Adults | https://pubmed.ncbi.nlm.nih.gov/36079069/
-CONCORRENTE: Melatonina: para que serve, funções (e como tomar) | https://www.tuasaude.com/melatonina/ | portal de saúde
-CONCORRENTE: Melatonina: o que é e para que serve | https://altadiagnosticos.com.br/saude/melatonina/ | laboratório
-CONCORRENTE: Melatonina: para que serve e quando é indicada | https://nav.dasa.com.br/blog/melatonina | laboratório
-LACUNA: diferença entre melatonina produzida pelo organismo e suplemento; para que serve a melatonina em diferentes situações; efeitos adversos; grupos que precisam de avaliação profissional; alimentos que contêm melatonina; regulamentação brasileira; evidências específicas sobre sono; cuidados em adultos mais velhos
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CAPA_BUSCA: bedroom night sleep
+CAPA_ALT: Quarto escuro com cama arrumada e abajur apagado, ambiente para dormir bem
+FOTO1_BUSCA: pill bottle bedside table
+FOTO1_ALT: Frasco de comprimidos sobre uma mesa de cabeceira, uso de melatonina
+FOTO1_LEGENDA: Antes de usar qualquer suplemento para dormir, avalie a causa da insônia.
+FOTO1_SECAO: 2
+FOTO2_BUSCA: woman sleeping peacefully
+FOTO2_ALT: Mulher dormindo tranquilamente em um quarto silencioso
+FOTO2_LEGENDA: Higiene do sono e rotina regular são a base de um bom descanso.
+FOTO2_SECAO: 4
+---
+<p>A melatonina é um hormônio produzido naturalmente pela glândula pineal, que ajuda a regular o ciclo entre sono e vigília. Por isso, ela é muito pesquisada e também vendida como suplemento para quem tem dificuldade de dormir. Este texto explica para que a melatonina serve, o que as evidências mostram e quais cuidados considerar antes do uso.</p>
 
-<p>Melatonina é um hormônio produzido pelo organismo e relacionado à regulação do ritmo circadiano, que ajuda a organizar os períodos de sono e vigília.</p>
+<h2>O que a melatonina faz no organismo</h2>
+<p>A produção do hormônio aumenta quando escurece e diminui com a luz. Esse sinal informa ao corpo que é hora de descansar, e por isso a melatonina é associada ao ritmo circadiano, o relógio biológico que organiza horários de sono, temperatura e fome.</p>
+<p>Com o avanço da idade, a produção tende a mudar, mas essa mudança não é, por si só, uma doença. Muitas pessoas com sono ruim não apresentam problema hormonal, e sim hábitos, estresse ou outras condições.</p>
 
-<h2>O que é melatonina e para que serve?</h2>
+<h2>Para que a melatonina é usada</h2>
+<p>Os usos mais conhecidos são para facilitar o início do sono, em alguns casos de insônia de curto prazo, e para ajustar o relógio biológico em situações como viagens longas ou trabalho em turnos.</p>
+<ul>
+<li><strong>Dificuldade para adormecer:</strong> há evidência de algum benefício para o início do sono em estudos de curta duração.</li>
+<li><strong>Ajuste de fuso horário:</strong> os resultados são mais consistentes do que para a insônia crônica.</li>
+<li><strong>Insônia crônica:</strong> a evidência é menos clara e o uso prolongado exige avaliação médica.</li>
+</ul>
+<p>Esses usos não substituem a investigação de insônia persistente, que pode estar ligada a outras condições.</p>
 
-<p>A melatonina é produzida naturalmente pelo organismo, principalmente pela glândula pineal, e participa da organização do ritmo circadiano. Esse sistema interno ajuda o corpo a reconhecer períodos de atividade e repouso ao longo das 24 horas.</p>
+<h2>Melatonina no Brasil: a regulação</h2>
+<p>A Anvisa passou a permitir, em 2021, a comercialização da melatonina como suplemento alimentar, com regras próprias de rotulagem e de uso. Isso significa que o produto pode ser encontrado em farmácias e lojas, mas continua exigindo cuidado na escolha e na orientação.</p>
+<p>Antes de comprar, observe a informação regulatória na embalagem e as advertências sobre quem não deve usar. Desconfie de anúncios que prometem efeitos garantidos.</p>
 
-<p>O cérebro aumenta a produção de melatonina em resposta à escuridão. A exposição à luz durante a noite pode interferir nesse processo, enquanto a alternância entre claro e escuro ajuda a sincronizar o relógio biológico.</p>
+<h2>Efeitos colaterais e interações</h2>
+<p>Os efeitos mais comuns são sonolência no dia seguinte, dor de cabeça, tontura, náusea e sensação de sono excessivo. Essas queixas tendem a aparecer com doses maiores ou com horários inadequados.</p>
+<ul>
+<li>Medicamentos que afetam a coagulação do sangue.</li>
+<li>Sedativos, ansiolíticos e outros remédios que deprimem o sistema nervoso.</li>
+<li>Alguns imunossupressores e medicamentos de uso contínuo.</li>
+<li>Álcool, que pode somar efeitos de sonolência.</li>
+</ul>
+<p>Como as interações variam, informe ao médico ou ao farmacêutico todos os remédios e suplementos em uso antes de começar.</p>
 
-<p>Por isso, quando alguém pesquisa <strong>melatonina para que serve</strong>, é importante separar duas ideias. Uma é a função fisiológica do hormônio produzido pelo próprio organismo. Outra é o uso de melatonina em suplementos alimentares, que possui regras próprias e não deve ser confundido automaticamente com tratamento médico.</p>
+<h2>Cuidados especiais na escolha</h2>
+<p>Algumas populações exigem atenção redobrada. Crianças e adolescentes devem usar apenas com orientação médica. Gestantes, lactantes e pessoas com doenças autoimunes, epilepsia ou depressão também precisam de avaliação individual.</p>
+<p>Ao dirigir ou operar máquinas, lembre que a sonolência pode persistir pela manhã, e evite o uso se ainda precisar estar alerta.</p>
 
-<p>O Ministério da Saúde informa que, no Brasil, a melatonina não é aprovada como medicamento. Seu uso em suplementos alimentares está sujeito às condições estabelecidas pela regulamentação sanitária. </p>
+<h2>Hábitos que ajudam o sono sem suplemento</h2>
+<p>A melatonina é apenas uma peça do quebra-cabeça. Manter horários regulares para dormir e acordar, reduzir telas e luz forte à noite, evitar cafeína no fim da tarde e criar um ambiente escuro e silencioso costumam trazer ganhos reais.</p>
+<p>Atividade física durante o dia e a redução do estresse também contribuem. Se os hábitos não bastarem, a avaliação profissional é o próximo passo. Para entender como o relógio biológico influencia esse processo, leia sobre o <a href="/ritmo-circadiano/">ritmo circadiano</a>, e, se a dificuldade para dormir se repete, o texto sobre <a href="/insonia/">insônia</a> aponta causas e sinais de alerta.</p>
 
-<h2>Como a melatonina participa do ciclo do sono?</h2>
+<h2>Perguntas frequentes</h2>
+<p><strong>Melatonina causa dependência?</strong><br>Não é considerada uma substância de dependência física, mas o uso prolongado sem orientação não é recomendado.</p>
+<p><strong>Posso usar todos os dias?</strong><br>Depende do motivo e do acompanhamento. O uso contínuo deve ser decidido com o médico.</p>
+<p><strong>Ela faz o sono ficar mais profundo?</strong><br>As evidências são limitadas. O principal efeito estudado é o início do sono.</p>
+<p><strong>Melatonina é remédio?</strong><br>No Brasil, o produto é vendido como suplemento alimentar, o que não elimina os cuidados de uso.</p>
 
-<p>A produção de melatonina está ligada à percepção da escuridão. Segundo o NCCIH, órgão do National Institutes of Health, o cérebro produz o hormônio em resposta à ausência de luz, e a exposição à luz durante a noite pode bloquear sua produção. </p>
-
-<p>Isso ajuda a explicar por que a melatonina está associada ao sono, mas não significa que qualquer dificuldade para dormir seja causada por falta desse hormônio.</p>
-
-<p>O sono também depende de fatores como horários, exposição à luz, ambiente, hábitos, condições de saúde e medicamentos. Alterações persistentes precisam ser avaliadas de acordo com a causa, em vez de serem atribuídas automaticamente à melatonina.</p>
-
-<p>Para quem quer entender melhor a relação entre idade, relógio biológico e duração do sono, veja também o conteúdo do <a href="https://saude40mais.blog/noticia/sono-ideal-de-adultos-pode-ser-menor-que-8-horas-mas-regra-unica-nao-existe-93e8e6">Saúde 40 Mais sobre sono ideal em adultos</a>.</p>
-
-<h2>Em quais situações a suplementação de melatonina foi estudada?</h2>
-
-<p>A pesquisa científica não trata a melatonina como uma solução única para todos os problemas de sono. O NCCIH informa que suplementos foram estudados em situações específicas, como jet lag e transtorno do atraso da fase do sono-vigília. </p>
-
-<p>No caso do jet lag, algumas revisões encontraram sinais de benefício para determinados sintomas após viagens que atravessam fusos horários. Ainda assim, os resultados dependem da situação estudada e não significam que a suplementação seja necessária para qualquer pessoa que tenha dormido mal.</p>
-
-<p>Também existem estudos sobre o atraso da fase do sono-vigília, condição em que a pessoa tende a adormecer e acordar muito mais tarde do que os horários convencionais. O NCCIH aponta possíveis benefícios, mas também registra incerteza sobre a relação entre benefícios e possíveis riscos. </p>
-
-<p>Para insônia crônica, a interpretação precisa ser mais cuidadosa. Uma revisão publicada no PubMed avaliou estudos com melatonina e ramelteona em adultos mais velhos com insônia crônica. Os autores encontraram melhora em alguns desfechos, mas classificaram os efeitos desses agentes como modestos. </p>
-
-<p>Essa revisão não deve ser apresentada como se tivesse avaliado exclusivamente a melatonina, porque os estudos incluídos envolveram melatonina e/ou ramelteona. Essa diferença evita atribuir à melatonina resultados que pertencem ao conjunto dos tratamentos analisados.</p>
-
-<h2>A melatonina está presente naturalmente nos alimentos?</h2>
-
-<p>Sim. A melatonina também pode ser encontrada naturalmente em alguns alimentos, embora as concentrações variem. O Ministério da Saúde cita frutas, vegetais, cereais, carnes, leite e derivados entre os alimentos nos quais a substância pode ser detectada. </p>
-
-<p>A presença da melatonina em alimentos, porém, não significa que esses alimentos tenham efeito terapêutico comprovado sobre a insônia ou outros distúrbios do sono.</p>
-
-<p>Esse ponto é especialmente relevante porque o termo natural pode transmitir uma impressão de segurança ou eficácia que não está necessariamente comprovada. A origem natural de uma substância não determina, sozinha, seu efeito clínico ou a segurança de uma suplementação.</p>
-
-<h2>Quais são os efeitos colaterais da melatonina?</h2>
-
-<p>Quando a busca é por <strong>melatonina efeitos colaterais</strong>, os dados disponíveis mostram que existem eventos adversos relatados, principalmente relacionados ao sistema nervoso e ao aparelho digestivo.</p>
-
-<p>O Ministério da Saúde lista entre os eventos relatados dor de cabeça, tontura, sonolência, tremores, enxaqueca, náusea, vômito, dor abdominal, pesadelos, irritabilidade e erupções cutâneas. </p>
-
-<p>Isso não significa que todas as pessoas terão esses efeitos. A resposta pode variar conforme a pessoa, o produto utilizado, outras condições de saúde e medicamentos em uso.</p>
-
-<p>O NCCIH também informa que os dados sobre segurança de longo prazo da suplementação ainda são limitados. Por isso, o fato de um suplemento ser vendido como produto alimentar não elimina a necessidade de avaliar seu uso com cuidado. </p>
-
-<p>Sonolência merece atenção especialmente antes de atividades que exigem concentração. A própria regulamentação brasileira estabelece advertências relacionadas a atividades que exigem atenção contínua. </p>
-
-<h2>Quem deve evitar a melatonina ou conversar com um profissional?</h2>
-
-<p>No Brasil, suplementos de melatonina não são destinados a crianças, gestantes e lactantes. A Anvisa também orienta que pessoas com enfermidades ou que utilizam medicamentos consultem um médico antes do consumo. </p>
-
-<p>O Ministério da Saúde cita ainda situações que exigem orientação profissional antes do uso, incluindo epilepsia, asma, doenças inflamatórias ou autoimunes e determinados transtornos de humor ou personalidade. Pessoas que dirigem, operam máquinas ou realizam atividades que exigem atenção contínua também precisam observar as advertências aplicáveis. </p>
-
-<p>Quem tem hipertensão, diabetes ou problemas renais ou hepáticos não deve interpretar este texto como autorização individual para usar o suplemento. Essas condições exigem avaliação do quadro clínico e dos medicamentos utilizados.</p>
-
-<p>O mesmo cuidado vale para quem usa medicamentos continuamente. Não é adequado montar uma lista genérica de interações sem avaliar o medicamento específico, a condição tratada e as demais características da pessoa.</p>
-
-<p>O NCCIH recomenda que pessoas que utilizam medicamentos conversem com um profissional de saúde antes de usar melatonina. O órgão chama atenção especialmente para pessoas com epilepsia e para quem utiliza medicamentos anticoagulantes. </p>
-
-<h2>Como a melatonina é regulamentada no Brasil?</h2>
-
-<p>No Brasil, a melatonina é autorizada na forma de suplemento alimentar, e não como medicamento. A Anvisa informa que a autorização é destinada a adultos e que existem condições específicas para sua composição, rotulagem e consumo. </p>
-
-<p>Também não foram aprovadas alegações de benefícios associadas ao consumo de suplementos alimentares à base de melatonina. Isso significa que informações comerciais não devem transformar o suplemento em promessa de tratamento para insônia ou outros problemas de saúde. </p>
-
-<p>O Ministério da Saúde reforça que suplementos alimentares não são medicamentos e não devem ser utilizados com finalidade terapêutica. A página oficial também apresenta as condições regulatórias aplicáveis à melatonina no país. </p>
-
-<p>Por isso, é preciso ter cuidado com produtos ou anúncios que apresentem a melatonina como tratamento garantido para problemas de sono, ansiedade, humor ou outras doenças.</p>
-
-<h2>Quando procurar um médico?</h2>
-
-<p>Uma noite ruim ocasionalmente não significa que exista um distúrbio do sono. A preocupação aumenta quando a dificuldade para dormir se torna frequente, persiste ou começa a prejudicar o funcionamento durante o dia.</p>
-
-<p>Procure avaliação profissional quando houver dificuldade persistente para adormecer ou permanecer dormindo, sonolência excessiva durante o dia, alterações importantes na rotina de sono ou sintomas que começaram depois da introdução de um medicamento ou suplemento.</p>
-
-<p>Ronco intenso, pausas percebidas na respiração durante o sono, despertares frequentes, sensação de sufocamento noturno ou cansaço persistente também merecem investigação, porque podem estar relacionados a outros problemas que não serão resolvidos simplesmente com melatonina.</p>
-
-<p>Se você já utiliza medicamentos de forma contínua ou possui uma doença diagnosticada, a decisão sobre suplementação deve considerar seu tratamento completo. A Anvisa recomenda consulta médica para pessoas com enfermidades ou que utilizam medicamentos. </p>
-
-<p>Para informações relacionadas à rotina de sono e aos fatores que podem influenciar o descanso, também pode ser útil consultar o conteúdo já publicado pelo <a href="https://saude40mais.blog/noticia/sono-ideal-de-adultos-varia-e-poe-em-xeque-regra-das-8-horas-4b46d1">Saúde 40 Mais sobre sono ideal de adultos</a>.</p>
+<h2>Quando procurar um médico</h2>
+<p>Procure orientação se a insônia durar mais de algumas semanas, se você acordar com cansaço intenso, roncar alto ou sentir sono excessivo durante o dia. Também é importante buscar atendimento se tiver sintomas depressivos, ansiedade ou se usar medicamentos de forma contínua.</p>
+<p>O médico pode investigar a causa do sono ruim e orientar o melhor caminho. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
 <h2>Resumindo</h2>
-
-<p>A melatonina é um hormônio produzido naturalmente pelo organismo e relacionado ao ritmo circadiano. Sua produção aumenta durante a noite em resposta à escuridão, participando da organização do ciclo de sono e vigília.</p>
-
-<p>Suplementos de melatonina foram estudados em situações específicas, como jet lag e alterações do horário natural de sono. Para insônia crônica, os resultados precisam ser interpretados com cautela, e estudos em adultos mais velhos apontam efeitos modestos em alguns desfechos. </p>
-
-<p>No Brasil, a substância é autorizada como suplemento alimentar dentro das condições estabelecidas pela Anvisa. Ela não deve ser tratada como medicamento nem apresentada como solução para doenças ou problemas persistentes de saúde. </p>
-
-<p>Crianças, gestantes e lactantes não devem utilizar suplementos de melatonina. Pessoas com doenças, que usam medicamentos ou que realizam atividades que exigem atenção contínua precisam observar as orientações de segurança e buscar avaliação profissional quando necessário. </p>
-
-<p>NÃO VERIFIQUEI: não verifiquei quais links internos adicionais, além dos dois já confirmados, estão efetivamente publicados no site; por isso não inventei outros URLs.</p>
+<p>A melatonina é um hormônio que regula o ciclo sono e vigília, e seu uso como suplemento é voltado principalmente para dificuldade de adormecer e ajuste de horários. As evidências são mais claras para o curto prazo do que para a insônia crônica.</p>
+<p>Antes de usar, avalie a causa do problema, observe os efeitos e informe ao profissional os remédios em uso. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>

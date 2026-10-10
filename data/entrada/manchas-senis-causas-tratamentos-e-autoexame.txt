@@ -1,216 +1,63 @@
 PALAVRA_CHAVE: manchas senis
 TITLE: Manchas Senis: Causas, Tratamentos e Autoexame
-DESCRIPTION: Entenda o que são manchas senis, como diferenciar de melanoma, comparativo entre laser e peeling ATA, e como fazer o autoexame ABCDE nas mãos.
+DESCRIPTION: Saiba o que são as manchas senis, por que surgem com a idade, como fazer um autoexame da pele e quando procurar um dermatologista.
 FONTE: mdsaude.com | https://mdsaude.com
-FONTE: laroche-posay.pt | https://laroche-posay.pt
-FONTE: eucerin.com.br | https://eucerin.com.br
-CAPA_BUSCA: skincare routine face cream
-CAPA_ALT: Rotina de cuidados com a pele sobre manchas senis
+FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
+CAPA_BUSCA: hands skin spots
+CAPA_ALT: Mãos de uma pessoa madura com manchas senis na pele, em close
 FOTO1_BUSCA: dermatologist examining skin
-FOTO1_ALT: Consulta dermatológica relacionado a manchas senis
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+FOTO1_ALT: Dermatologista examinando a pele de um paciente com lupa dermatológica
+FOTO1_LEGENDA: O exame clínico é a base para diferenciar manchas comuns de lesões suspeitas.
 FOTO1_SECAO: 2
+FOTO2_BUSCA: sunscreen applied on skin
+FOTO2_ALT: Aplicação de protetor solar no braço, prevenção de manchas na pele
+FOTO2_LEGENDA: O filtro solar diário é a medida preventiva mais importante.
+FOTO2_SECAO: 4
 ---
-<div id="container-imagem-capa" class="loading">Carregando imagem...</div>
+<p>As manchas senis são pequenas áreas escuras que surgem na pele exposta ao sol, principalmente nas mãos, no rosto, nos ombros e no colo, geralmente depois dos 40 ou 50 anos. Elas são benignas na maioria dos casos, mas a aparência parecida com outras lesões exige atenção. Este texto explica causas, opções gerais de cuidado e como fazer um autoexame.</p>
 
-<p>As <strong>manchas senis</strong> — também chamadas de lentigos solares ou melanoses solares — são lesões pigmentadas planas, de coloração castanha clara a escura, que aparecem principalmente em áreas cronicamente expostas ao sol, como dorso das mãos, rosto, ombros e colo. Apesar do nome popular sugerir que são consequência natural da idade, a ciência mostra que o verdadeiro motor é o dano ultravioleta acumulado ao longo da vida. A prevalência é alta: cerca de 90% da população branca acima dos 60 anos apresenta algum grau de lentigo solar. A boa notícia é que existem tratamentos eficazes. A má notícia é que o autodiagnóstico e o uso de ácidos inadequados podem piorar o quadro ou mascarar lesões malignas. Este artigo explica o que são as manchas senis, como diferenciá-las de melanoma, o comparativo entre laser de picossegundos e peeling de ATA, como fazer o autoexame ABCDE nas mãos e o que é o efeito rebote.</p>
+<h2>O que são as manchas senis</h2>
+<p>Também chamadas de lentigos solares ou manchas de idade, essas marcas aparecem quando a pele acumula melanina de forma localizada. Elas são planas, com bordas definidas e cor que varia do bege ao marrom escuro.</p>
+<p>Apesar do nome, a idade não é a única causa. A exposição solar acumulada ao longo da vida é o fator que mais contribui para o surgimento e o escurecimento dessas manchas.</p>
 
-<h2>O Que São Manchas Senis e Por Que Aparecem?</h2>
-
-<p>As manchas senis são lesões benignas causadas por hiperplasia e hiperatividade dos melanócitos, as células produtoras de melanina. Diferente do melasma, que tem componente hormonal e padrão simétrico, o lentigo solar tem formato irregular, bordas bem definidas e localização preferencial nas áreas fotoexpostas.</p>
-
-<p>O mecanismo central é o dano ultravioleta cumulativo. A exposição crônica ao sol sem proteção estimula os melanócitos a produzir melanina de forma desordenada, formando aglomerados que se tornam visíveis como manchas. A idade contribui de forma indireta: com o tempo, o número total de melanócitos diminui, mas os remanescentes aumentam de volume e se agrupam, gerando as manchas.</p>
-
-<p>Por isso, o termo "mancha senil" é um nome popular impreciso. O correto é lentigo solar ou melanose solar. A condição pode começar a partir dos 40 anos em pessoas com histórico de exposição solar intensa, mesmo sem sinais de envelhecimento em outras áreas.</p>
-
-<div id="container-imagem-1" class="loading">Carregando imagem...</div>
-
-<h2>Qual a Diferença Entre Mancha Senil e Melanoma?</h2>
-
-<p>A diferenciação é essencial. A maioria das manchas senis é benigna, mas o lentigo solar pode coexistir com o lentigo maligno, uma lesão pré-maligna que evolui para melanoma lentigo maligno. Além disso, o melanoma pode surgir sobre ou próximo a uma mancha senil preexistente.</p>
-
-<p>O autoexame com a regra do ABCDE é a ferramenta mais eficaz para identificar sinais de alerta. A regra avalia cinco características: Assimetria, Bordas, Cor, Diâmetro e Evolução. Qualquer mancha que apresente um ou mais desses critérios deve ser avaliada por dermatologista.</p>
-
-<h3>Tabela: Regra do ABCDE Aplicada às Mãos</h3>
-
-<table>
-<thead>
-<tr>
-<th>Letra</th>
-<th>Critério</th>
-<th>O que Observar nas Mãos</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>A</td>
-<td>Assimetria</td>
-<td>Se você dividir a mancha ao meio, os dois lados são diferentes?</td>
-</tr>
-<tr>
-<td>B</td>
-<td>Bordas</td>
-<td>As bordas são irregulares, dentadas ou mal definidas?</td>
-</tr>
-<tr>
-<td>C</td>
-<td>Cor</td>
-<td>Há mais de uma cor na mesma lesão (castanho, preto, vermelho, branco)?</td>
-</tr>
-<tr>
-<td>D</td>
-<td>Diâmetro</td>
-<td>A mancha tem mais de 6 mm (aproximadamente a largura de uma borracha)?</td>
-</tr>
-<tr>
-<td>E</td>
-<td>Evolução</td>
-<td>A mancha mudou de tamanho, forma, cor ou passou a coçar ou sangrar?</td>
-</tr>
-</tbody>
-</table>
-
-<p><em>Observação: o autoexame não substitui a avaliação dermatológica. Qualquer lesão nova, que mude ou que apresente sinais do ABCDE deve ser examinada por médico com dermatoscópio.</em></p>
-
-<div id="container-imagem-2" class="loading">Carregando imagem...</div>
-
-<h2>Qual o Melhor Tratamento Dermatológico para Manchas Senis?</h2>
-
-<p>Existem vários tratamentos eficazes, e a escolha depende do fototipo de pele, do número de lesões, da localização e do orçamento. As opções se dividem em três categorias: cremes despigmentantes, procedimentos de consultório e prevenção.</p>
-
-<h3>Cremes Despigmentantes</h3>
-<p>Cremes com hidroquinona, ácido kójico, niacinamida, arbutin e thiamidol são usados para clarear as manchas gradualmente. O thiamidol é um dos ativos mais estudados recentemente e tem mostrado boa eficácia com perfil de tolerabilidade favorável. Esses cremes funcionam melhor em manchas superficiais e exigem uso contínuo por semanas a meses.</p>
-
-<h3>Crioterapia</h3>
-<p>A crioterapia com nitrogênio líquido congela a lesão e destrói os melanócitos agrupados. É um procedimento rápido, realizado em consultório, e eficaz para lesões isoladas. Pode causar hipopigmentação permanente, especialmente em peles morenas.</p>
-
-<h3>Peelings Químicos</h3>
-<p>Peelings com ácido tricloroacético (ATA) removem as camadas superficiais da pele e estimulam a renovação celular. São indicados para manchas difusas e extensas. A recuperação leva de 5 a 10 dias, com descamação visível.</p>
-
-<h3>Laser de Picossegundos</h3>
-<p>O laser de picossegundos emite pulsos ultracurtos que fragmentam o pigmento em partículas microscópicas, eliminadas pelo sistema imunológico. É o tratamento mais moderno, com menor risco de hipopigmentação em comparação ao laser Q-switched. O número de sessões varia de 2 a 4, com intervalos de 4 a 6 semanas.</p>
-
-<h3>Luz Intensa Pulsada (LIP)</h3>
-<p>A LIP emite luz de amplo espectro que aquece e destrói o pigmento. É eficaz para manchas superficiais e também melhora a textura da pele. Requer múltiplas sessões e tem custo intermediário.</p>
-
-<div id="container-imagem-3" class="loading">Carregando imagem...</div>
-
-<h2>Comparativo: Laser de Picossegundos vs. Peeling de ATA</h2>
-
-<p>A escolha entre laser de picossegundos e peeling de ATA depende do tipo de mancha, do tempo disponível para recuperação e do orçamento. A tabela abaixo resume as principais diferenças.</p>
-
-<table>
-<thead>
-<tr>
-<th>Critério</th>
-<th>Laser de Picossegundos</th>
-<th>Peeling de ATA</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Indicação principal</td>
-<td>Manchas bem delimitadas e resistentes</td>
-<td>Manchas difusas e extensas</td>
-</tr>
-<tr>
-<td>Número de sessões</td>
-<td>2 a 4 sessões</td>
-<td>1 a 3 sessões</td>
-</tr>
-<tr>
-<td>Intervalo entre sessões</td>
-<td>4 a 6 semanas</td>
-<td>3 a 4 semanas</td>
-</tr>
-<tr>
-<td>Tempo de recuperação</td>
-<td>3 a 7 dias (leve vermelhidão)</td>
-<td>5 a 10 dias (descamação visível)</td>
-</tr>
-<tr>
-<td>Custo médio por sessão (Brasil)</td>
-<td>R$ 800 a R$ 2.500</td>
-<td>R$ 400 a R$ 1.200</td>
-</tr>
-<tr>
-<td>Risco de hipopigmentação</td>
-<td>Baixo (menor que Q-switched)</td>
-<td>Moderado, depende da concentração</td>
-</tr>
-<tr>
-<td>Fototipos mais adequados</td>
-<td>I a IV</td>
-<td>I a III</td>
-</tr>
-</tbody>
-</table>
-
-<p><em>Observação: valores de custo são estimativas de mercado e variam conforme região, clínica e extensão da área tratada. A indicação deve ser feita por dermatologista após avaliação clínica.</em></p>
-
-<h2>Efeito Rebote: Quando o Tratamento Piora a Mancha</h2>
-
-<p>O efeito rebote é o escurecimento paradoxal de uma mancha após um tratamento ou exposição inadequada. Ele ocorre quando a pele sofre uma agressão que desencadeia uma resposta inflamatória intensa, levando à hiperpigmentação pós-inflamatória.</p>
-
-<p>As principais causas de efeito rebote são o uso de ácidos em concentrações inadequadas para o fototipo, peelings muito profundos em peles morenas, exposição solar sem proteção após o procedimento e queimaduras durante laser ou crioterapia. Em peles mais escuras (fototipos IV a VI), o risco é significativamente maior.</p>
-
-<p>A prevenção exige três cuidados essenciais: escolher o tratamento de acordo com o fototipo, usar protetor solar rigorosamente durante e após o procedimento e evitar a automedicação com ácidos. Se houver escurecimento após um tratamento, a avaliação dermatológica deve ser imediata.</p>
-
-<h2>Prevenção: Como Evitar Novas Manchas Senis</h2>
-
-<p>A prevenção é tão importante quanto o tratamento, porque novas manchas continuarão surgindo enquanto houver exposição solar sem proteção.</p>
-
-<h3>Medidas Essenciais</h3>
+<h2>Causas mais frequentes</h2>
+<p>As manchas senis costumam ter origem em uma combinação de fatores, e não em um único motivo:</p>
 <ul>
-<li><strong>Protetor solar diário com FPS 30 ou superior:</strong> reaplicar a cada duas horas em exposição prolongada e sempre após contato com água.</li>
-<li><strong>Proteção física:</strong> chapéus de aba larga, roupas com proteção UV e luvas para dirigir.</li>
-<li><strong>Antioxidantes tópicos:</strong> vitamina C, vitamina E e niacinamida ajudam a neutralizar radicais livres e reduzem o dano oxidativo.</li>
-<li><strong>Evitar exposição nos horários de pico:</strong> entre 10h e 16h, quando a radiação UVB é mais intensa.</li>
-<li><strong>Autoexame regular:</strong> examinar mãos, rosto, colo e ombros mensalmente, usando a regra do ABCDE.</li>
+<li><strong>Radiação ultravioleta:</strong> o sol é o principal gatilho, sobretudo em quem teve queimaduras solares repetidas.</li>
+<li><strong>Envelhecimento da pele:</strong> com o tempo, a renovação celular fica mais lenta e as alterações de pigmento se tornam mais visíveis.</li>
+<li><strong>Predisposição genética:</strong> pessoas com pele clara e histórico familiar tendem a desenvolver mais manchas.</li>
+<li><strong>Alterações hormonais:</strong> algumas mudanças hormonais podem influenciar a pigmentação, embora esse papel seja menos central.</li>
 </ul>
 
-<h2>FAQ — Perguntas Frequentes</h2>
+<h2>Como diferenciar manchas senis de outras lesões</h2>
+<p>Nem toda mancha escura é uma mancha senil. Algumas lesões precisam de avaliação, incluindo pintas que mudam, sangram ou coçam. A regra mais usada para orientar a observação é o acrônimo ABCDE, que pede atenção a assimetria, bordas irregulares, cor não uniforme, diâmetro maior que alguns milímetros e evolução com o tempo.</p>
+<p>Se uma mancha mudar de forma rápida, tiver cores variadas ou apresentar bordas irregulares, procure um dermatologista. Esse é um dos motivos para conhecer também o que é um <a href="/melanoma/">melanoma</a>, tipo de câncer de pele que exige diagnóstico precoce.</p>
 
-<h3>1. O que causa o aparecimento de manchas senis na pele?</h3>
-<p>A causa principal é o dano ultravioleta acumulado ao longo da vida. A exposição solar sem proteção estimula os melanócitos a produzir melanina de forma desordenada, formando aglomerados visíveis. A idade contribui indiretamente, mas não é o fator determinante.</p>
+<h2>Autoexame da pele: como fazer</h2>
+<p>O autoexame é uma forma simples de acompanhar a pele. Faça-o uma vez por mês, em frente a um espelho e com boa luz, observando todo o corpo, inclusive costas, couro cabeludo, unhas e áreas entre os dedos.</p>
+<ul>
+<li>Anote a localização e o tamanho das manchas e lesões.</li>
+<li>Fotografe as áreas para comparar com o tempo.</li>
+<li>Observe qualquer mancha nova ou que tenha mudado.</li>
+<li>Leve as anotações ao dermatologista na consulta.</li>
+</ul>
+<p>O autoexame não substitui a consulta. Ele serve para perceber mudanças que merecem avaliação profissional.</p>
 
-<h3>2. Qual o melhor tratamento dermatológico para eliminar manchas senis?</h3>
-<p>Não existe um único melhor. Cremes despigmentantes, crioterapia, peelings de ATA, laser de picossegundos e luz intensa pulsada são eficazes em contextos diferentes. A escolha depende do fototipo, do tipo de mancha e do tempo de recuperação disponível.</p>
+<h2>Cuidados e opções de tratamento</h2>
+<p>Como as manchas senis são em geral inofensivas, muitas pessoas optam por não tratar. Quando há desejo estético de reduzir a aparência, o dermatologista pode indicar procedimentos, como luz pulsada, laser ou crioterapia, cada um com indicações, riscos e limitações próprias.</p>
+<p>Também existem cremes com ativos clareadores, mas o uso deve ser feito com orientação, porque alguns produtos podem irritar a pele ou causar manchas de contato. Não existe garantia de remoção completa, e a escolha depende do tipo de pele e do quadro.</p>
+<p>A prevenção continua sendo o melhor caminho. Use filtro solar de amplo espectro todos os dias, reaplique conforme orientação, use chapéu e roupas de proteção e evite horários de sol mais intenso.</p>
 
-<h3>3. Qual a diferença de aparência entre melasma e mancha senil?</h3>
-<p>O melasma tem padrão simétrico, bordas mal definidas e localização preferencial no centro do rosto. A mancha senil tem formato irregular, bordas bem definidas, cor mais homogênea e localização em áreas fotoexpostas como mãos e colo.</p>
+<h2>Perguntas frequentes</h2>
+<p><strong>Manchas senis são perigosas?</strong><br>Na maioria dos casos, não. Mesmo assim, qualquer mudança de forma, cor ou tamanho deve ser avaliada.</p>
+<p><strong>Elas podem sumir sozinhas?</strong><br>Em geral não desaparecem por conta própria, mas podem clarear com o tempo se a exposição solar diminuir.</p>
+<p><strong>Passar limão ou outros caseiros resolve?</strong><br>Não há evidência de eficácia, e o ácido pode causar irritação e manchas na pele.</p>
+<p><strong>Tratamento estético é obrigatório?</strong><br>Não. A decisão é pessoal e deve considerar riscos e expectativas com o dermatologista.</p>
 
-<h3>4. Como clarear manchas senis nas mãos e no rosto em casa?</h3>
-<p>Em casa, o clareamento é gradual e limitado. Cremes com thiamidol, niacinamida ou ácido kójico podem ajudar, desde que associados a protetor solar diário. Evite ácidos em concentrações altas sem orientação médica: o risco de efeito rebote é real.</p>
-
-<h3>5. Manchas senis que coçam ou descamam são perigosas?</h3>
-<p>Manchas que coçam, sangram, descamam ou mudam de forma devem ser avaliadas imediatamente por dermatologista. Esses sinais podem indicar queratose seborreica, lentigo maligno ou melanoma. O autoexame com a regra do ABCDE ajuda a identificar lesões suspeitas.</p>
+<h2>Quando procurar um médico</h2>
+<p>Procure um dermatologista se alguma mancha crescer, mudar de cor, sangrar, coçar, ulcerar ou não cicatrizar. Também vale a consulta se você notar manchas diferentes das habituais ou se tiver histórico de câncer de pele na família.</p>
+<p>O especialista faz a avaliação clínica e, quando necessário, indica exame de imagem ou biópsia. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
 <h2>Resumindo</h2>
-
-<p>As manchas senis, ou lentigos solares, são lesões benignas causadas pelo dano ultravioleta acumulado. Apesar do nome popular, a idade não é o fator determinante. A prevalência é alta: cerca de 90% da população branca acima dos 60 anos tem algum grau de lentigo solar.</p>
-
-<p>A diferenciação com melanoma é essencial. O autoexame com a regra do ABCDE — Assimetria, Bordas, Cor, Diâmetro e Evolução — ajuda a identificar lesões suspeitas, especialmente nas mãos, onde as manchas são frequentes e muitas vezes negligenciadas.</p>
-
-<p>Os tratamentos eficazes incluem cremes despigmentantes, crioterapia, peelings de ATA, laser de picossegundos e luz intensa pulsada. A escolha depende do fototipo, do tipo de mancha e do tempo de recuperação. O laser de picossegundos tem menor risco de hipopigmentação, mas custo mais elevado. O peeling de ATA é mais acessível, mas exige mais cuidado com fototipos mais escuros.</p>
-
-<p>O efeito rebote é uma complicação real e evitável. Ocorre quando a pele sofre agressão excessiva, levando à hiperpigmentação pós-inflamatória. A prevenção exige escolha do tratamento conforme o fototipo, proteção solar rigorosa e evitar automedicação com ácidos.</p>
-
-<p>A prevenção diária com protetor solar, proteção física e antioxidantes é a estratégia mais eficaz para evitar novas manchas. Antes de iniciar qualquer tratamento, consulte um dermatologista. A avaliação clínica e dermatoscópica é indispensável para excluir lesões malignas e definir a melhor abordagem.</p>
-
-<h2>Fontes</h2>
-<ul>
-<li>MD.Saúde. Melanose solar (mancha senil) — Sintomas e tratamento. <a href="https://www.mdsaude.com/dermatologia/mancha-senil/" target="_blank" rel="noopener">https://www.mdsaude.com/dermatologia/mancha-senil/</a></li>
-<li>La Roche-Posay Portugal. Manchas senis: o que são, causas e como eliminá-las. <a href="https://www.laroche-posay.pt/article/manchas-senis" target="_blank" rel="noopener">https://www.laroche-posay.pt/article/manchas-senis</a></li>
-<li>Eucerin Brasil. Manchas senis, solares e manchas hepáticas. <a href="https://www.eucerin.com.br/sobre-pele/indicacoes/manchas-de-idade" target="_blank" rel="noopener">https://www.eucerin.com.br/sobre-pele/indicacoes/manchas-de-idade</a></li>
-<li>Metrópoles / Coluna Claudia Meireles. Melasma: saiba diferenciar os 3 tipos da doença e a melhor forma de tratar. <a href="https://www.metropoles.com/colunas/claudia-meireles/melasma-saiba-diferenciar-os-3-tipos-da-doenca-e-a-melhor-forma-de-tratar" target="_blank" rel="noopener">https://www.metropoles.com/colunas/claudia-meireles/melasma-saiba-diferenciar-os-3-tipos-da-doenca-e-a-melhor-forma-de-tratar</a></li>
-<li>Ollie. Manchas senis nas mãos: inofensivas ou preocupantes? Entenda. <a href="https://meuollie.com.br/blogs/blog-da-ollie/manchas-senis-nas-maos" target="_blank" rel="noopener">https://meuollie.com.br/blogs/blog-da-ollie/manchas-senis-nas-maos</a></li>
-<li>Dra. Glaucia Labinas. Conheça mais os tratamentos para manchas nas mãos. <a href="https://www.draglaucialabinas.com.br/manchas-nas-maos" target="_blank" rel="noopener">https://www.draglaucialabinas.com.br/manchas-nas-maos</a></li>
-</ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
-<h2>Quando procurar um médico</h2>
-<p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://mdsaude.com" target="_blank" rel="noopener">mdsaude.com</a>, <a href="https://laroche-posay.pt" target="_blank" rel="noopener">laroche-posay.pt</a> e da <a href="https://eucerin.com.br" target="_blank" rel="noopener">eucerin.com.br</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>As manchas senis são resultado principalmente da exposição solar acumulada e do envelhecimento da pele. Em geral são benignas, mas precisam ser distinguidas de lesões que exigem tratamento precoce.</p>
+<p>O autoexame mensal, a proteção solar diária e a consulta periódica são as melhores medidas de cuidado. Qualquer tratamento estético deve ser discutido com um dermatologista. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
