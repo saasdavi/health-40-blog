@@ -2,6 +2,7 @@ PALAVRA_CHAVE: albumina em pó
 TITLE: Albumina em pó: como usar e evitar gases
 DESCRIPTION: Entenda o que é a albumina em pó, para que serve, como tomar, diferenças com whey e caseína, como evitar gases e comparar o custo por grama de proteína.
 FONTE: PubMed Central (NIH) | https://pmc.ncbi.nlm.nih.gov
+FONTE: Agência Nacional de Vigilância Sanitária (Anvisa) | https://www.gov.br/anvisa
 CAPA_BUSCA: healthy lifestyle woman outdoors
 CAPA_ALT: Estilo de vida saudável sobre albumina em pó
 FOTO1_BUSCA: wellness walk nature

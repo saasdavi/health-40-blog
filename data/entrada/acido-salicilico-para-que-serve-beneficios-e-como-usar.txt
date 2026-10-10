@@ -8,6 +8,7 @@ FOTO1_ALT: Consulta dermatológica sobre o uso de ácido salicílico
 FOTO1_LEGENDA: A avaliação dermatológica ajuda a definir a rotina mais adequada.
 FOTO1_SECAO: 2
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
+FONTE: American Academy of Dermatology | https://www.aad.org
 ---
 <p>Ácido salicílico para que serve? É um dos ativos mais conhecidos para cuidar de pele oleosa, cravos e algumas formas de acne. Ele pertence aos beta-hidroxiácidos, os BHAs, e atua principalmente na <strong>esfoliação e desobstrução dos poros</strong>.</p>
 <p>Por ser um ativo esfoliante, a forma de uso importa tanto quanto a concentração. Aplicar mais produto ou combinar vários ácidos não significa obter resultados mais rápidos e pode aumentar a irritação.</p>

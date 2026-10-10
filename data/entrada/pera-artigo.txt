@@ -2,7 +2,7 @@ PALAVRA_CHAVE: corpo em formato de pera
 TITLE: Corpo em Formato de Pera: Saúde e Cuidados 40+
 DESCRIPTION: Entenda o que significa ter corpo em formato de pera depois dos 40, o que a pesquisa observa sobre gordura no quadril e quais cuidados ajudam a saúde.
 FONTE: Ministério da Saúde | https://www.gov.br/saude
-FONTE: images.pexels.com | https://images.pexels.com
+FONTE: Organização Mundial da Saúde | https://www.who.int
 CAPA_BUSCA: pear shape body
 CAPA_ALT: Mulher de costas em roupa neutra ilustrando o corpo em formato de pera e a saúde depois dos 40
 FOTO1_BUSCA: woman stretching outdoors

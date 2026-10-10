@@ -1,7 +1,7 @@
 PALAVRA_CHAVE: ácido salicílico
 TITLE: Ácido salicílico: para que serve e como usar
 DESCRIPTION: Ácido salicílico: para que serve, como usar na rotina de skincare, qual concentração escolher, quem deve ter cuidado e quando procurar um dermatologista.
-FONTE: images.pexels.com | https://images.pexels.com
+FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: aad.org | https://aad.org
 CAPA_BUSCA: skincare routine face cream
 CAPA_ALT: Rotina de cuidados com a pele sobre ácido salicílico
