@@ -83,7 +83,8 @@ FOTO2_SECAO: 4
 <p>Crianças também devem ser avaliadas antes de usar produtos com ativos, já que a pele infantil reage de forma diferente à maioria das substâncias.</p>
 
 <h2>Quando procurar um médico</h2>
-<p>Procure um dermatologista se houver queimação forte, vermelhidão que não melhora, inchaço, bolhas, coceira intensa ou se surgir uma mancha nova ou que mude de forma. Também é importante conversar com o médico se você tiver dermatite ou outra condição de pele. Quando a irritação aparece após usar um cosmético, a <a href="/dermatite-de-contato/">dermatite de contato</a> é uma possibilidade a ser avaliada.</p>
+<p>Procure um dermatologista se houver queimação forte, vermelhidão que não melhora, inchaço, bolhas, coceira intensa ou se surgir uma mancha nova ou que mude de forma.</p>
+<p>Também é importante conversar com o médico se você tiver dermatite ou outra condição de pele. Quando a irritação aparece após usar um cosmético, a <a href="/dermatite-de-contato/">dermatite de contato</a> é uma possibilidade a ser avaliada.</p>
 <p>O especialista pode indicar o produto mais adequado e orientar o uso com segurança. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
 <p>Com paciência e observação, a niacinamida pode fazer parte de uma rotina simples de cuidados com a pele, desde que a escolha seja adequada ao seu perfil e acompanhada de proteção solar.</p>

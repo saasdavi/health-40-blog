@@ -14,7 +14,9 @@ FOTO2_ALT: Enfermeira orientando cuidadora em casa sobre a administração de al
 FOTO2_LEGENDA: O treinamento da equipe é essencial para a segurança de quem recebe a dieta.
 FOTO2_SECAO: 4
 ---
-<p>Dieta enteral é a alimentação feita pelo trato digestivo, por meio de sonda ou, em alguns casos, por via oral com fórmulas específicas. Ela é indicada para pessoas que não conseguem se alimentar de forma segura ou suficiente por conta própria. A fórmula 1.5 é uma das densidades calóricas disponíveis, e a escolha depende sempre de avaliação da equipe de saúde.</p>
+<p>Dieta enteral é a alimentação feita pelo trato digestivo, por meio de sonda ou, em alguns casos, por via oral com fórmulas específicas. Ela é indicada para pessoas que não conseguem se alimentar de forma segura ou suficiente por conta própria.</p>
+
+<p>A fórmula 1.5 é uma das densidades calóricas disponíveis, e a escolha depende sempre de avaliação da equipe de saúde.</p>
 
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Cuidados como preparo, horário, volume e tipo de fórmula devem seguir a prescrição do médico e do nutricionista responsável pelo paciente.</p>
 
@@ -58,7 +60,9 @@ FOTO2_SECAO: 4
 
 <p>Não altere o volume, o horário ou o tipo de fórmula por conta própria. Mudanças devem ser comunicadas à equipe, que avalia o impacto na nutrição e na hidratação.</p>
 
-<p>Em muitos casos, a intolerância à fórmula aparece de forma gradual, com desconforto leve que vai aumentando. Por isso, vale registrar o que foi observado em cada administração. Essas anotações ajudam a equipe a identificar padrões e a decidir se o volume, a velocidade ou o tipo de fórmula precisa mudar.</p>
+<p>Em muitos casos, a intolerância à fórmula aparece de forma gradual, com desconforto leve que vai aumentando. Por isso, vale registrar o que foi observado em cada administração.</p>
+
+<p>Essas anotações ajudam a equipe a identificar padrões e a decidir se o volume, a velocidade ou o tipo de fórmula precisa mudar.</p>
 
 <h2>Sinais de alerta durante a alimentação</h2>
 
@@ -86,11 +90,15 @@ FOTO2_SECAO: 4
 
 <p>Cuidar de alguém em uso de dieta enteral é uma tarefa exigente, física e emocionalmente. Muitas vezes, o cuidador acorda várias vezes à noite para administrar a fórmula ou checar a sonda, e esse cansaço acumulado pode afetar a atenção e a segurança do cuidado.</p>
 
-<p>Cuidar de alguém em uso de dieta enteral também envolve lidar com a perda de autonomia de quem recebe o cuidado, o que pode gerar tristeza, frustração e conflitos familiares. O cuidador precisa de descanso, de apoio da família e de orientação para não se sobrecarregar. Pedir ajuda à equipe de saúde é sinal de responsabilidade, e não de fraqueza.</p>
+<p>Cuidar de alguém em uso de dieta enteral também envolve lidar com a perda de autonomia de quem recebe o cuidado, o que pode gerar tristeza, frustração e conflitos familiares.</p>
+
+<p>O cuidador precisa de descanso, de apoio da família e de orientação para não se sobrecarregar. Pedir ajuda à equipe de saúde é sinal de responsabilidade, e não de fraqueza.</p>
 
 <p>Anotar horários, volumes, intercorrências e dúvidas em um caderno facilita a comunicação com os profissionais e reduz erros. Em consultas, levar esse registro ajuda a ajustar o plano com mais precisão.</p>
 
-<p>Para entender melhor o papel da nutrição na preservação da força em pessoas mais velhas, leia sobre <a href="/sarcopenia/">sarcopenia e perda de massa muscular</a>. Quando a alimentação ainda é feita pela boca e há dúvidas sobre a rotina, o texto sobre <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a> pode orientar escolhas gerais, sem substituir a prescrição.</p>
+<p>Para entender melhor o papel da nutrição na preservação da força em pessoas mais velhas, leia sobre <a href="/sarcopenia/">sarcopenia e perda de massa muscular</a>.</p>
+
+<p>Quando a alimentação ainda é feita pela boca e há dúvidas sobre a rotina, o texto sobre <a href="/alimentos-ricos-em-fibras/">alimentos ricos em fibras</a> pode orientar escolhas gerais, sem substituir a prescrição.</p>
 
 <h2>Perguntas frequentes</h2>
 

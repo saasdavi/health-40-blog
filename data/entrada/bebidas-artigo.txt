@@ -13,7 +13,9 @@ FOTO1_SECAO: 2
 <p>![Variedade de bebidas em uma mesa](https://images.pexels.com/photos/1267696/pexels-photo-1267696.jpeg?auto=compress&cs=tinysrgb&w=1200)</p>
 <p>A palavra <strong>bebidas</strong> inclui uma variedade enorme de produtos: água, sucos, refrigerantes, cafés, chás, bebidas fermentadas, destiladas, coquetéis e alternativas sem álcool. Por isso, uma busca genérica por “bebidas” pode ter intenção comercial, culinária ou informativa.</p>
 <p>Quando o assunto é <strong>saúde</strong>, porém, a principal diferença está na composição da bebida, na presença de álcool, açúcar e cafeína e, principalmente, na quantidade consumida.</p>
-<p>No caso das bebidas alcoólicas, não existe uma opção que possa ser considerada “saudável” apenas por ser vinho, cerveja, destilado ou artesanal. O álcool etílico é a substância responsável por grande parte dos riscos. A Organização Mundial da Saúde considera o álcool uma substância tóxica e carcinogênica, e informa que não existe consumo de álcool sem risco à saúde. [OMS](https://www.who.int/news-room/fact-sheets/detail/alcohol)</p>
+<p>No caso das bebidas alcoólicas, não existe uma opção que possa ser considerada “saudável” apenas por ser vinho, cerveja, destilado ou artesanal. O álcool etílico é a substância responsável por grande parte dos riscos.</p>
+
+<p>A Organização Mundial da Saúde considera o álcool uma substância tóxica e carcinogênica, e informa que não existe consumo de álcool sem risco à saúde. [OMS](https://www.who.int/news-room/fact-sheets/detail/alcohol)</p>
 <h2>Quais são os principais tipos de bebidas?</h2>
 <p>As bebidas podem ser agrupadas de diferentes formas. Uma classificação prática é:</p>
 <ul>
@@ -50,7 +52,9 @@ FOTO1_SECAO: 2
 <p><strong>gramas de álcool ≈ volume da bebida (mL) × teor alcoólico (%) × 0,789 ÷ 100</strong></p>
 <p>Por exemplo, 330 mL de uma bebida a 5% vol. correspondem a aproximadamente 13 g de etanol.</p>
 <h2>O que é uma dose de bebida alcoólica?</h2>
-<p>O tamanho de uma “dose” varia entre países e diretrizes. No Brasil, o Ministério da Saúde definiu, para fins de vigilância epidemiológica, uma <strong>dose-padrão de 10 g de álcool puro</strong>, equivalente a aproximadamente 12,5 mL de álcool puro. A quantidade de bebida necessária para atingir esse valor depende do teor alcoólico. [Ministério da Saúde](https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2024/nota-tecnica-conjunta-no-263-2024-svsa-saps-saes-ms.pdf)</p>
+<p>O tamanho de uma “dose” varia entre países e diretrizes. No Brasil, o Ministério da Saúde definiu, para fins de vigilância epidemiológica, uma <strong>dose-padrão de 10 g de álcool puro</strong>, equivalente a aproximadamente 12,5 mL de álcool puro.</p>
+
+<p>A quantidade de bebida necessária para atingir esse valor depende do teor alcoólico. [Ministério da Saúde](https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2024/nota-tecnica-conjunta-no-263-2024-svsa-saps-saes-ms.pdf)</p>
 <p>Isso é importante porque “uma lata”, “uma taça” ou “um copo” não representam necessariamente a mesma quantidade de álcool.</p>
 <p>Uma cerveja, uma taça de vinho e uma dose de destilado podem ter volumes muito diferentes, mas fornecer quantidades semelhantes de etanol dependendo do tamanho e do teor alcoólico.</p>
 <h2>Bebidas alcoólicas têm calorias?</h2>
@@ -256,7 +260,9 @@ FOTO1_SECAO: 2
 <h2>Conclusão</h2>
 <p>“Bebidas” é um termo amplo que inclui produtos muito diferentes. Para escolher melhor, é necessário separar <strong>tipo de bebida, teor alcoólico, quantidade, açúcar, calorias e contexto de consumo</strong>.</p>
 <p>Fermentadas e destiladas diferem principalmente pelo processo de produção e pela concentração de álcool. Porém, quando a preocupação é saúde, não basta perguntar qual bebida é “melhor”: é preciso considerar a quantidade de etanol ingerida.</p>
-<p>No caso do álcool, a evidência atual não sustenta a ideia de que vinho, cerveja ou destilados sejam necessários para proteger o coração. A OMS afirma que não existe consumo de álcool completamente livre de risco, e o Ministério da Saúde brasileiro utiliza uma dose-padrão de 10 g de álcool puro para facilitar a mensuração do consumo.</p>
+<p>No caso do álcool, a evidência atual não sustenta a ideia de que vinho, cerveja ou destilados sejam necessários para proteger o coração.</p>
+
+<p>A OMS afirma que não existe consumo de álcool completamente livre de risco, e o Ministério da Saúde brasileiro utiliza uma dose-padrão de 10 g de álcool puro para facilitar a mensuração do consumo.</p>
 <p>Para quem quer reduzir riscos, <strong>menos álcool é melhor; não beber é a opção de menor exposição ao álcool</strong>. Já entre as bebidas sem álcool, vale priorizar opções simples, com pouco ou nenhum açúcar, de acordo com as necessidades individuais.</p>
 
 <h2>Resumindo</h2>

@@ -65,7 +65,8 @@ FOTO2_SECAO: 4
 
 <h2>Hábitos que ajudam o sono sem suplemento</h2>
 <p>A melatonina é apenas uma peça do quebra-cabeça. Manter horários regulares para dormir e acordar, reduzir telas e luz forte à noite, evitar cafeína no fim da tarde e criar um ambiente escuro e silencioso costumam trazer ganhos reais.</p>
-<p>Atividade física durante o dia e a redução do estresse também contribuem. Se os hábitos não bastarem, a avaliação profissional é o próximo passo. Para entender como o relógio biológico influencia esse processo, leia sobre o <a href="/ritmo-circadiano/">ritmo circadiano</a>, e, se a dificuldade para dormir se repete, o texto sobre <a href="/insonia/">insônia</a> aponta causas e sinais de alerta.</p>
+<p>Atividade física durante o dia e a redução do estresse também contribuem.</p>
+<p>Se os hábitos não bastarem, a avaliação profissional é o próximo passo. Para entender como o relógio biológico influencia esse processo, leia sobre o <a href="/ritmo-circadiano/">ritmo circadiano</a>, e, se a dificuldade para dormir se repete, o texto sobre <a href="/insonia/">insônia</a> aponta causas e sinais de alerta.</p>
 
 <p>Quem trabalha em turnos ou viaja com frequência pode ter o relógio biológico desregulado. Nessas situações, o momento da exposição à luz e a organização dos horários de refeição fazem diferença junto com qualquer orientação sobre o hormônio.</p>
 <p>Rotinas de sono regulares, mesmo nos fins de semana, são uma das recomendações mais consistentes da medicina do sono e não exigem nenhum produto.</p>

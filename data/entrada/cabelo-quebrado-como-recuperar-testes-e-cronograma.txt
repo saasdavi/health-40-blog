@@ -14,12 +14,20 @@ FOTO2_ALT: Dermatologista avaliando fios e couro cabeludo de paciente em consult
 FOTO2_LEGENDA: Quebra persistente merece avaliação com um especialista
 FOTO2_SECAO: 4
 ---
-<p>Cabelo quebrado é uma das queixas mais comuns de quem usa química, calor ou penteados muito apertados. Os fios se partem no meio, ficam ásperos e perdem comprimento aos poucos. Este texto explica por que essa quebra acontece, como montar uma rotina de cuidados chamada de cronograma capilar, quais testes caseiros fazem sentido e quando é melhor buscar avaliação profissional.</p>
+<p>Cabelo quebrado é uma das queixas mais comuns de quem usa química, calor ou penteados muito apertados. Os fios se partem no meio, ficam ásperos e perdem comprimento aos poucos.</p>
+
+<p>Este texto explica por que essa quebra acontece, como montar uma rotina de cuidados chamada de cronograma capilar, quais testes caseiros fazem sentido e quando é melhor buscar avaliação profissional.</p>
 
 <h2>Por que o cabelo quebra</h2>
-<p>A quebra acontece quando a fibra capilar perde resistência em algum ponto. Isso pode ocorrer por atrito, por tração, por dano químico ou térmico, por exposição ao sol e à água e por ressecamento. Muitas vezes, mais de um fator atua ao mesmo tempo, e o resultado é um cabelo que parece sempre frágil.</p>
-<p>Os fios mais finos e os mais curvos tendem a quebrar com mais facilidade, porque concentram tensão em determinados pontos. Já a porosidade, que descreve a capacidade do fio de absorver e reter água, influencia a hidratação e a resposta a produtos. Fios muito porosos costumam ressecar rapidamente, enquanto os pouco porosos podem resistir à entrada de hidratantes.</p>
-<p>A quebra também pode ter relação com a saúde geral. Alterações nutricionais, como deficiência de ferro, e algumas condições do couro cabeludo podem deixar os fios mais frágeis. Por isso, quando a quebra é intensa ou acompanhada de outros sinais, vale investigar além da rotina de cabelo. Quando o principal problema é a perda de fios pela raiz, e não a quebra no comprimento, o conteúdo sobre <a href="/queda-de-cabelo/">queda de cabelo</a> explica outras causas e sinais de alerta.</p>
+<p>A quebra acontece quando a fibra capilar perde resistência em algum ponto. Isso pode ocorrer por atrito, por tração, por dano químico ou térmico, por exposição ao sol e à água e por ressecamento.</p>
+
+<p>Muitas vezes, mais de um fator atua ao mesmo tempo, e o resultado é um cabelo que parece sempre frágil.</p>
+<p>Os fios mais finos e os mais curvos tendem a quebrar com mais facilidade, porque concentram tensão em determinados pontos. Já a porosidade, que descreve a capacidade do fio de absorver e reter água, influencia a hidratação e a resposta a produtos.</p>
+
+<p>Fios muito porosos costumam ressecar rapidamente, enquanto os pouco porosos podem resistir à entrada de hidratantes.</p>
+<p>A quebra também pode ter relação com a saúde geral. Alterações nutricionais, como deficiência de ferro, e algumas condições do couro cabeludo podem deixar os fios mais frágeis. Por isso, quando a quebra é intensa ou acompanhada de outros sinais, vale investigar além da rotina de cabelo.</p>
+
+<p>Quando o principal problema é a perda de fios pela raiz, e não a quebra no comprimento, o conteúdo sobre <a href="/queda-de-cabelo/">queda de cabelo</a> explica outras causas e sinais de alerta.</p>
 <p>Vale ainda considerar que o cabelo muda ao longo da vida. Fios mais maduros costumam ser mais secos e menos flexíveis, e a quebra pode aumentar mesmo sem mudança de rotina. Entender essa variação ajuda a ajustar os cuidados sem culpar apenas a química ou o calor.</p>
 
 <h2>Principais causas da quebra no dia a dia</h2>
@@ -35,18 +43,26 @@ FOTO2_SECAO: 4
 <p>Os penteados presos também merecem atenção. Rabos e coques muito apertados, feitos todos os dias, concentram tensão sempre no mesmo ponto da linha do cabelo. Alternar penteados, soltar o cabelo ao final do dia e escolher elásticos de tecido são mudanças simples que reduzem esse desgaste.</p>
 
 <h2>Como montar um cronograma capilar simples</h2>
-<p>Cronograma capilar é uma rotina organizada de cuidados, com diferentes tipos de máscara e tratamento distribuídos ao longo da semana. A ideia é alternar hidratação, nutrição e, quando indicado, reconstrução, observando como os fios respondem. Não existe um modelo único, e o ideal é adaptar a rotina ao tipo de cabelo e à frequência de química ou calor.</p>
+<p>Cronograma capilar é uma rotina organizada de cuidados, com diferentes tipos de máscara e tratamento distribuídos ao longo da semana. A ideia é alternar hidratação, nutrição e, quando indicado, reconstrução, observando como os fios respondem.</p>
+
+<p>Não existe um modelo único, e o ideal é adaptar a rotina ao tipo de cabelo e à frequência de química ou calor.</p>
 <p>Uma sequência simples pode seguir três etapas. Na primeira semana, faça uma hidratação. Na segunda, uma nutrição com ingredientes que ajudem a suavizar e dar maciez. Na terceira, observe o cabelo e avalie se ele precisa de reforço estrutural ou apenas de manutenção. Esse ritmo pode ser repetido com ajustes.</p>
 <p>É importante não exagerar nos reforços. O uso excessivo de máscaras de proteína pode deixar os fios duros, secos e quebradiços, enquanto o excesso de hidratação pode deixá-los moles e sem sustentação. O equilíbrio entre essas etapas é o que costuma funcionar melhor.</p>
-<p>Anotar o que foi feito em cada semana ajuda a enxergar padrões. Vale registrar o tipo de máscara, o tempo de pose, a forma de secagem e a sensação do cabelo depois de seco. Com essas anotações, fica mais fácil perceber se a quebra diminuiu, se os fios ficaram ressecados ou se a rotina precisa de ajuste.</p>
+<p>Anotar o que foi feito em cada semana ajuda a enxergar padrões. Vale registrar o tipo de máscara, o tempo de pose, a forma de secagem e a sensação do cabelo depois de seco.</p>
+
+<p>Com essas anotações, fica mais fácil perceber se a quebra diminuiu, se os fios ficaram ressecados ou se a rotina precisa de ajuste.</p>
 
 <h2>Testes caseiros: o que eles mostram</h2>
-<p>Há testes caseiros populares que buscam entender a elasticidade e a porosidade dos fios. Um deles observa o quanto um fio se estica antes de romper. Outro verifica quanto tempo um fio leva para afundar em um copo com água. Esses testes são úteis como observação inicial, mas têm precisão limitada e não substituem uma avaliação profissional.</p>
+<p>Há testes caseiros populares que buscam entender a elasticidade e a porosidade dos fios. Um deles observa o quanto um fio se estica antes de romper.</p>
+
+<p>Outro verifica quanto tempo um fio leva para afundar em um copo com água. Esses testes são úteis como observação inicial, mas têm precisão limitada e não substituem uma avaliação profissional.</p>
 <p>O resultado dos testes ajuda a escolher o tipo de produto e a frequência de aplicação, principalmente em fios muito frágeis. Ainda assim, é preciso lembrar que o cabelo muda com o tempo, com a química e com o clima, e que a interpretação deve ser feita com calma.</p>
 <p>Se um teste indicar fragilidade intensa, o mais seguro é reduzir o calor, a química e a tração e observar a evolução por algumas semanas. A melhora gradual costuma ser um sinal mais confiável do que qualquer teste isolado.</p>
 
 <h2>Como recuperar a aparência dos fios</h2>
-<p>Recuperar o cabelo quebrado significa, na prática, reduzir novas quebras e melhorar a aparência dos fios que restam. Os fios danificados não voltam a ser como os originais, mas podem ficar mais macios, brilhantes e resistentes com cuidado constante. Cortar as pontas mais danificadas é uma das medidas mais eficazes, porque remove a parte mais frágil.</p>
+<p>Recuperar o cabelo quebrado significa, na prática, reduzir novas quebras e melhorar a aparência dos fios que restam. Os fios danificados não voltam a ser como os originais, mas podem ficar mais macios, brilhantes e resistentes com cuidado constante.</p>
+
+<p>Cortar as pontas mais danificadas é uma das medidas mais eficazes, porque remove a parte mais frágil.</p>
 <p>Também ajuda usar pentes e escovas adequados, secar com toalha sem esfregar e evitar dormir com o cabelo molhado. Proteger os fios do sol com chapéus e produtos específicos é outra medida prática. Essas atitudes são simples, mas fazem diferença quando repetidas diariamente.</p>
 <p>Para quem depende de química frequente, vale conversar com o cabeleireiro sobre intervalos mais longos entre os procedimentos, o que dá tempo para o fio se recuperar e reduz o acúmulo de dano.</p>
 <p>Fios brancos ou muito claros costumam ficar mais secos e ásperos, e exigem atenção extra à hidratação. Para entender essa particularidade, vale ler sobre <a href="/cabelos-brancos/">cabelos brancos</a>, que aborda o tema da textura e dos cuidados com os fios grisalhos.</p>
@@ -63,5 +79,7 @@ FOTO2_SECAO: 4
 <p>Também é recomendável buscar orientação se houver cansaço importante, palidez ou outros sinais gerais, pois a fragilidade dos fios pode estar associada a alterações nutricionais ou hormonais.</p>
 
 <h2>Resumindo</h2>
-<p>O cabelo quebrado é resultado de atrito, calor, química, tração e ressecamento, e costuma ser uma combinação desses fatores. Um cronograma capilar equilibrado, com hidratação, nutrição e cortes regulares, ajuda a reduzir a quebra e a melhorar a aparência dos fios. Testes caseiros podem orientar a rotina, mas têm precisão limitada.</p>
+<p>O cabelo quebrado é resultado de atrito, calor, química, tração e ressecamento, e costuma ser uma combinação desses fatores. Um cronograma capilar equilibrado, com hidratação, nutrição e cortes regulares, ajuda a reduzir a quebra e a melhorar a aparência dos fios.</p>
+
+<p>Testes caseiros podem orientar a rotina, mas têm precisão limitada.</p>
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Se a quebra persistir ou vier acompanhada de outros sintomas, converse com um dermatologista para investigar a causa e definir os cuidados mais adequados ao seu caso.</p>

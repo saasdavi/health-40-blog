@@ -14,7 +14,9 @@ FOTO2_ALT: Preparo de prato com temperos na cozinha, forma simples de incluir a 
 FOTO2_LEGENDA: Na culinária, a cúrcuma entra em pequenas quantidades junto com outros temperos.
 FOTO2_SECAO: 4
 ---
-<p>Cúrcuma é uma raiz da família do gengibre, muito usada como tempero e corante natural. Seu principal composto estudado é a curcumina, que vem sendo pesquisada em relação à inflamação e ao metabolismo. Os estudos são promissores em alguns pontos, mas ainda não permitem afirmar benefícios definitivos para a saúde em geral.</p>
+<p>Cúrcuma é uma raiz da família do gengibre, muito usada como tempero e corante natural. Seu principal composto estudado é a curcumina, que vem sendo pesquisada em relação à inflamação e ao metabolismo.</p>
+
+<p>Os estudos são promissores em alguns pontos, mas ainda não permitem afirmar benefícios definitivos para a saúde em geral.</p>
 
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Antes de usar cápsulas, extratos ou suplementos de cúrcuma, converse com seu médico, principalmente se você toma anticoagulantes ou outros medicamentos de uso contínuo.</p>
 
@@ -42,7 +44,9 @@ FOTO2_SECAO: 4
 <li><strong>Afirmações de efeito definitivo ou de resultados rápidos:</strong> sem respaldo nos estudos disponíveis.</li>
 </ul>
 
-<p>Também é útil entender a diferença entre o tempero e o suplemento. Na comida, a quantidade de cúrcuma é pequena e acompanhada de outros ingredientes. Já uma cápsula pode concentrar a curcumina em volume muito maior do que o consumido em um prato, e o efeito no organismo é outro. Essa diferença explica por que as recomendações para cada forma não são as mesmas.</p>
+<p>Também é útil entender a diferença entre o tempero e o suplemento. Na comida, a quantidade de cúrcuma é pequena e acompanhada de outros ingredientes. Já uma cápsula pode concentrar a curcumina em volume muito maior do que o consumido em um prato, e o efeito no organismo é outro.</p>
+
+<p>Essa diferença explica por que as recomendações para cada forma não são as mesmas.</p>
 
 <h2>Riscos, efeitos colaterais e interações</h2>
 
@@ -61,7 +65,9 @@ FOTO2_SECAO: 4
 
 <h2>Como usar a cúrcuma na alimentação</h2>
 
-<p>A forma mais segura e mais simples de consumir cúrcuma é na comida. Um pouco do pó em sopas, legumes assados, arroz e ovos mexidos dá cor e sabor sem exigir cuidados especiais. Acrescentar pimenta-do-reino ajuda a aumentar a absorção da curcumina, e a gordura do azeite também favorece esse processo.</p>
+<p>A forma mais segura e mais simples de consumir cúrcuma é na comida. Um pouco do pó em sopas, legumes assados, arroz e ovos mexidos dá cor e sabor sem exigir cuidados especiais.</p>
+
+<p>Acrescentar pimenta-do-reino ajuda a aumentar a absorção da curcumina, e a gordura do azeite também favorece esse processo.</p>
 
 <p>Ao cozinhar, prefira adicionar a cúrcuma no preparo e não apenas como finalização, o que costuma dar melhor sabor. Como todo tempero intenso, o uso em grande quantidade pode deixar o prato amargo, por isso vale começar com pouco e ajustar ao gosto.</p>
 

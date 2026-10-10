@@ -4,7 +4,7 @@ DESCRIPTION: Vitaminas para queda de cabelo: guia completo sobre os nutrientes q
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 CAPA_BUSCA: healthy food hair nutrition
-CAPA_ALT: Alimentos naturais e frutas sobre uma mesa, representando nutrientes para os cabelos
+CAPA_ALT: Alimentos naturais e frutas sobre uma mesa, representando vitaminas para queda de cabelo
 FOTO1_BUSCA: fresh eggs and vegetables
 FOTO1_ALT: Ovos, legumes e verduras frescas, fontes de nutrientes ligados à saúde dos fios
 FOTO1_LEGENDA: Uma alimentação variada costuma cobrir a maior parte das necessidades.

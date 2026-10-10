@@ -14,13 +14,17 @@ FOTO2_ALT: Legumes e frutas frescos sobre a mesa, alimentos que dão volume e nu
 FOTO2_LEGENDA: Alimentos com volume e nutrientes são a base de qualquer plano seguro.
 FOTO2_SECAO: 4
 ---
-<p>Dieta de 1000 calorias é um plano com energia muito baixa, bem abaixo do que a maioria dos adultos precisa para manter as funções do corpo. Embora apareça com frequência em buscas e redes sociais como atalho para perder peso, ela envolve riscos importantes. Em geral, só é usada em contextos clínicos específicos e com supervisão de equipe de saúde.</p>
+<p>Dieta de 1000 calorias é um plano com energia muito baixa, bem abaixo do que a maioria dos adultos precisa para manter as funções do corpo. Embora apareça com frequência em buscas e redes sociais como atalho para perder peso, ela envolve riscos importantes.</p>
+
+<p>Em geral, só é usada em contextos clínicos específicos e com supervisão de equipe de saúde.</p>
 
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Não inicie uma dieta de energia muito baixa por conta própria. A decisão sobre qualquer plano alimentar restritivo deve ser tomada com médico e, se necessário, nutricionista.</p>
 
 <h2>Dieta de 1000 calorias: o que ela significa na prática</h2>
 
-<p>O termo indica um cardápio com pouca energia ao longo do dia. Para a maioria dos adultos, a necessidade diária é maior, e o corpo passa a funcionar com um déficit grande e prolongado. Esse desequilíbrio é o que provoca a perda de peso rápida, mas também a maior parte dos problemas associados a essa estratégia.</p>
+<p>O termo indica um cardápio com pouca energia ao longo do dia. Para a maioria dos adultos, a necessidade diária é maior, e o corpo passa a funcionar com um déficit grande e prolongado.</p>
+
+<p>Esse desequilíbrio é o que provoca a perda de peso rápida, mas também a maior parte dos problemas associados a essa estratégia.</p>
 
 <p>Quem busca essa dieta costuma acreditar que a restrição extrema acelera o emagrecimento. Na prática, o corpo responde à falta de energia com alterações que vão além da gordura corporal, como perda de massa muscular, água e conteúdo intestinal.</p>
 
@@ -116,4 +120,6 @@ FOTO2_SECAO: 4
 
 <p>A dieta de 1000 calorias é um plano de energia muito baixa, associado a riscos relevantes, como deficiências nutricionais, perda de massa muscular, cálculos na vesícula e alterações do ritmo cardíaco. Ela é considerada apropriada apenas em situações clínicas específicas, com supervisão contínua.</p>
 
-<p>Para quem quer emagrecer com segurança, a recomendação geral é um plano moderado, com alimentação equilibrada, atividade física e acompanhamento profissional. Se a vontade de reduzir a comida muito é forte, o ideal é conversar com um médico ou nutricionista antes de qualquer decisão. Decisões de saúde ficam mais seguras quando são construídas com quem conhece o histórico completo, os exames e a rotina de cada pessoa, e isso vale tanto para quem está começando quanto para quem já tentou muitos planos.</p>
+<p>Para quem quer emagrecer com segurança, a recomendação geral é um plano moderado, com alimentação equilibrada, atividade física e acompanhamento profissional. Se a vontade de reduzir a comida muito é forte, o ideal é conversar com um médico ou nutricionista antes de qualquer decisão.</p>
+
+<p>Decisões de saúde ficam mais seguras quando são construídas com quem conhece o histórico completo, os exames e a rotina de cada pessoa, e isso vale tanto para quem está começando quanto para quem já tentou muitos planos.</p>

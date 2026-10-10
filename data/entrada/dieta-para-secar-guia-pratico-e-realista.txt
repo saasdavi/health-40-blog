@@ -14,7 +14,9 @@ FOTO2_ALT: Pessoa correndo em pista, atividade que complementa a alimentação n
 FOTO2_LEGENDA: O treino regular é o que dá sentido à alimentação na fase de perda de gordura.
 FOTO2_SECAO: 4
 ---
-<p>Dieta para secar é um termo popular para o plano alimentar que busca reduzir a gordura corporal e manter a musculatura visível, com frequência ligado à prática de academia ou de esportes. A proposta é perder gordura sem perder massa muscular, o que exige paciência, treino de força e uma alimentação bem planejada. Nada disso se resolve com atalhos.</p>
+<p>Dieta para secar é um termo popular para o plano alimentar que busca reduzir a gordura corporal e manter a musculatura visível, com frequência ligado à prática de academia ou de esportes.</p>
+
+<p>A proposta é perder gordura sem perder massa muscular, o que exige paciência, treino de força e uma alimentação bem planejada. Nada disso se resolve com atalhos.</p>
 
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Antes de iniciar um plano de perda de gordura, principalmente com restrição alimentar ou com uso de suplementos, converse com seu médico e, se possível, com um nutricionista.</p>
 
@@ -74,11 +76,15 @@ FOTO2_SECAO: 4
 
 <p>Se você quer entender melhor o princípio de perda de peso gradual, leia sobre <a href="/emagrecimento-saudavel/">emagrecimento saudável</a>. Para compreender a relação entre energia consumida e gasta, vale ver o texto sobre <a href="/deficit-calorico/">déficit calórico</a>.</p>
 
-<p>Outro cuidado é observar o desempenho nos treinos. Se a força cai de uma semana para outra, se a recuperação demora mais do que o habitual ou se a vontade de treinar desaparece, o plano pode estar com energia insuficiente. Nesses casos, ajustar a quantidade de comida antes de aumentar o volume de exercícios costuma ser a decisão mais sensata.</p>
+<p>Outro cuidado é observar o desempenho nos treinos. Se a força cai de uma semana para outra, se a recuperação demora mais do que o habitual ou se a vontade de treinar desaparece, o plano pode estar com energia insuficiente.</p>
+
+<p>Nesses casos, ajustar a quantidade de comida antes de aumentar o volume de exercícios costuma ser a decisão mais sensata.</p>
 
 <p>Também é importante reavaliar o plano a cada algumas semanas, com medidas corporais, fotos e exames de rotina. Essa revisão periódica evita que a fase de perda de gordura se estenda além do necessário e ajuda a planejar a transição para a manutenção.</p>
 
-<p>Por fim, lembre que o plano precisa caber na vida real. Quem trabalha em turnos, viaja com frequência ou tem filhos pequenos precisa de estratégias compatíveis com essa rotina, e não de uma dieta idealizada. A melhor versão é a que pode ser repetida por meses, mesmo nos dias mais corridos.</p>
+<p>Por fim, lembre que o plano precisa caber na vida real. Quem trabalha em turnos, viaja com frequência ou tem filhos pequenos precisa de estratégias compatíveis com essa rotina, e não de uma dieta idealizada.</p>
+
+<p>A melhor versão é a que pode ser repetida por meses, mesmo nos dias mais corridos.</p>
 
 <h2>Perguntas frequentes</h2>
 
@@ -94,7 +100,9 @@ FOTO2_SECAO: 4
 <p><strong>Preciso de suplementos para secar?</strong></p>
 <p>Não. Uma alimentação equilibrada e bem planejada atende às necessidades da maioria das pessoas. Qualquer suplemento deve ser avaliado individualmente.</p>
 
-<p>Na prática, a fase de perda de gordura funciona melhor quando há um planejamento escrito, com metas de treino, de alimentação e de descanso. Anotar o que foi cumprido por semana permite enxergar o que deu certo e o que precisa de ajuste, sem depender da memória ou da impressão do momento.</p>
+<p>Na prática, a fase de perda de gordura funciona melhor quando há um planejamento escrito, com metas de treino, de alimentação e de descanso.</p>
+
+<p>Anotar o que foi cumprido por semana permite enxergar o que deu certo e o que precisa de ajuste, sem depender da memória ou da impressão do momento.</p>
 
 <h2>Quando procurar um médico</h2>
 

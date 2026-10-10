@@ -36,7 +36,8 @@ FOTO2_SECAO: 4
 <p>Lesões que coçam, ardem, descamam de forma persistente ou deixam feridas que não cicatrizam devem ser examinadas, mesmo que pareçam pequenas e antigas.</p>
 
 <h2>Como diferenciar manchas senis de outras lesões</h2>
-<p>Nem toda mancha escura é uma mancha senil. Algumas lesões precisam de avaliação, incluindo pintas que mudam, sangram ou coçam. A regra mais usada para orientar a observação é o acrônimo ABCDE, que pede atenção a assimetria, bordas irregulares, cor não uniforme, diâmetro maior que alguns milímetros e evolução com o tempo.</p>
+<p>Nem toda mancha escura é uma mancha senil. Algumas lesões precisam de avaliação, incluindo pintas que mudam, sangram ou coçam.</p>
+<p>A regra mais usada para orientar a observação é o acrônimo ABCDE, que pede atenção a assimetria, bordas irregulares, cor não uniforme, diâmetro maior que alguns milímetros e evolução com o tempo.</p>
 <p>Se uma mancha mudar de forma rápida, tiver cores variadas ou apresentar bordas irregulares, procure um dermatologista. Esse é um dos motivos para conhecer também o que é um <a href="/melanoma/">melanoma</a>, tipo de câncer de pele que exige diagnóstico precoce.</p>
 
 <p>O autoexame também ajuda a reconhecer o que é novidade. Compare a pele com fotos antigas, quando existirem, e observe se alguma lesão mudou de tamanho, de cor ou de contorno.</p>

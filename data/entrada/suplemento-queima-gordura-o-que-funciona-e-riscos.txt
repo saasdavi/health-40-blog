@@ -4,7 +4,7 @@ DESCRIPTION: Suplemento contribui para a perda de gordura? Veja o que as evidên
 FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
 FONTE: Governo Federal | https://www.gov.br
 CAPA_BUSCA: healthy meal weight
-CAPA_ALT: Prato com alimentos naturais e copo de água, representando hábitos para a perda de gordura
+CAPA_ALT: Prato com alimentos naturais e copo de água, ilustrando a pergunta se suplemento contribui para a perda de gordura
 FOTO1_BUSCA: woman walking outdoors
 FOTO1_ALT: Mulher caminhando ao ar livre como exemplo de atividade física regular
 FOTO1_LEGENDA: Atividade física e alimentação equilibrada pesam mais do que qualquer produto isolado.

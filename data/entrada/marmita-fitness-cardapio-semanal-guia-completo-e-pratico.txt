@@ -87,7 +87,7 @@ FOTO2_SECAO: 4
 <p><strong>Marmita precisa ser sempre igual?</strong><br>Não. A variedade de legumes, proteínas e grãos torna a alimentação mais completa.</p>
 <p><strong>Preciso de acompanhamento para montar o cardápio?</strong><br>Pessoas com doenças, gestantes ou com necessidades específicas devem buscar orientação de nutricionista.</p>
 
-<h2>Quando procurar um médico ou nutricionista</h2>
+<h2>Quando procurar um médico</h2>
 <p>Procure orientação em caso de diabetes, doença renal, alergias alimentares, intolerâncias ou outra condição que exija dieta específica. Também vale buscar ajuda se sentir fraqueza, tontura ou mal-estar frequente após mudar a alimentação.</p>
 <p>Um profissional pode adequar o cardápio ao seu caso, sem dietas restritivas desnecessárias. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 

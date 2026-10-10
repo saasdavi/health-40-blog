@@ -39,7 +39,9 @@ FOTO2_SECAO: 4
 
 <h2>Tipos de carboidratos: simples, complexos e fibras</h2>
 
-<p>Os carboidratos costumam ser divididos em simples e complexos. Os simples têm estrutura curta e são absorvidos com rapidez, como os açúcares presentes na fruta, no mel e no açúcar de mesa. Eles elevam a glicemia de forma mais rápida, o que não significa que devam ser proibidos, mas pede atenção quantidade.</p>
+<p>Os carboidratos costumam ser divididos em simples e complexos. Os simples têm estrutura curta e são absorvidos com rapidez, como os açúcares presentes na fruta, no mel e no açúcar de mesa.</p>
+
+<p>Eles elevam a glicemia de forma mais rápida, o que não significa que devam ser proibidos, mas pede atenção quantidade.</p>
 
 <p>Os complexos são formados por cadeias mais longas, como o amido de grãos integrais, raízes e leguminosas. Por serem digeridos de maneira mais lenta, tendem a provocar uma subida mais suave da glicose no sangue.</p>
 
@@ -47,7 +49,9 @@ FOTO2_SECAO: 4
 
 <p>Refinados, como farinha branca e arroz polido, mantêm o amido, mas perdem parte das fibras e dos nutrientes do grão inteiro. Por isso, a versão integral costuma ser a escolha mais interessante na maioria das refeições.</p>
 
-<p>Ao observar rótulos, vale olhar a lista de ingredientes antes da tabela nutricional. Quando açúcar, xarope ou farinha refinada aparecem nas primeiras posições, o produto tende a ser um carboidrato de absorção rápida. Já a presença de palavras como integral, aveia ou grãos inteiros indica uma escolha mais interessante para o dia a dia.</p>
+<p>Ao observar rótulos, vale olhar a lista de ingredientes antes da tabela nutricional. Quando açúcar, xarope ou farinha refinada aparecem nas primeiras posições, o produto tende a ser um carboidrato de absorção rápida.</p>
+
+<p>Já a presença de palavras como integral, aveia ou grãos inteiros indica uma escolha mais interessante para o dia a dia.</p>
 
 <h2>Alimentos ricos em carboidratos de boa qualidade</h2>
 
@@ -73,7 +77,9 @@ FOTO2_SECAO: 4
 
 <p>Isso não significa cortar carboidratos de forma radical. Na prática, a orientação mais comum é manter porções moderadas, dar preferência aos grãos integrais e às leguminosas, combinar o carboidrato com proteína e fibras e observar como o corpo responde a cada refeição.</p>
 
-<p>A atividade física também altera a forma como o corpo aproveita a glicose. Caminhadas, musculação leve e outras atividades regulares ajudam os músculos a utilizar o açúcar disponível no sangue, o que torna a energia dos carboidratos mais bem distribuída ao longo do dia. Quem está voltando a se exercitar deve fazer isso de forma gradual e com orientação profissional.</p>
+<p>A atividade física também altera a forma como o corpo aproveita a glicose. Caminhadas, musculação leve e outras atividades regulares ajudam os músculos a utilizar o açúcar disponível no sangue, o que torna a energia dos carboidratos mais bem distribuída ao longo do dia.</p>
+
+<p>Quem está voltando a se exercitar deve fazer isso de forma gradual e com orientação profissional.</p>
 
 <p>Outro ponto importante é o sono. Noites mal dormidas costumam aumentar a vontade de comer alimentos muito doces ou muito refinados no dia seguinte, o que pode dificultar a escolha de carboidratos de melhor qualidade.</p>
 

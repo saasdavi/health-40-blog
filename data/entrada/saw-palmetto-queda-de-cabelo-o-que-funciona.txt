@@ -5,7 +5,7 @@ FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 FONTE: PubMed Central (NIH) | https://pmc.ncbi.nlm.nih.gov
 FONTE: Manual MSD | https://www.msdmanuals.com
 CAPA_BUSCA: hair loss consultation
-CAPA_ALT: Pessoa analisando o couro cabeludo em consulta, com foco na queda de cabelo
+CAPA_ALT: Pessoa analisando o couro cabeludo em consulta sobre saw palmetto e queda de cabelo
 FOTO1_BUSCA: palm tree berries
 FOTO1_ALT: Frutos e folhas de palmeira em close, associados ao saw palmetto
 FOTO1_LEGENDA: Saw palmetto é um extrato obtido dos frutos de uma palmeira.

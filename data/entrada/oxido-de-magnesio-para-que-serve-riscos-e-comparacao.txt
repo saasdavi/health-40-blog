@@ -14,7 +14,8 @@ FOTO2_ALT: Médico revisando a lista de medicamentos de um paciente
 FOTO2_LEGENDA: Informar todos os remédios em uso evita interações.
 FOTO2_SECAO: 4
 ---
-<p>O óxido de magnésio é uma das formas do mineral mais encontradas em suplementos e em alguns produtos para o intestino e a acidez. Quem pesquisa óxido de magnésio para que serve quer entender seus usos, os riscos e como ele se compara a outras formas. Este texto apresenta essas informações de forma geral, sem indicar dose ou uso para casos individuais.</p>
+<p>O óxido de magnésio é uma das formas do mineral mais encontradas em suplementos e em alguns produtos para o intestino e a acidez.</p>
+<p>Quem pesquisa óxido de magnésio para que serve quer entender seus usos, os riscos e como ele se compara a outras formas. Este texto apresenta essas informações de forma geral, sem indicar dose ou uso para casos individuais.</p>
 
 <h2>O que é o óxido de magnésio</h2>
 <p>O óxido de magnésio é um composto em que o mineral está ligado ao oxigênio. Ele tem alto teor de magnésio por peso, o que explica sua presença em muitos produtos. Em compensação, a proporção de magnésio que o organismo consegue absorver é menor do que em outras formas.</p>

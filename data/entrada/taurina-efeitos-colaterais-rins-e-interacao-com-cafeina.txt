@@ -5,7 +5,7 @@ FONTE: fda.gov | https://fda.gov
 FONTE: Governo Federal | https://www.gov.br
 FONTE: onlinelibrary.wiley.com | https://onlinelibrary.wiley.com
 CAPA_BUSCA: energy drink can
-CAPA_ALT: Lata de bebida energética sobre uma mesa, associada aos possíveis efeitos colaterais da taurina
+CAPA_ALT: Lata de bebida energética sobre uma mesa, ilustrando taurina efeitos colaterais em energéticos
 FOTO1_BUSCA: glass of water kidneys
 FOTO1_ALT: Copo de água em uma mesa clara, lembrando a importância da hidratação para os rins
 FOTO1_LEGENDA: A hidratação e a função renal entram na conversa sobre a taurina.

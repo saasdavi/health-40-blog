@@ -4,7 +4,7 @@ DESCRIPTION: Suplementos para emagrecer feminino: o que dizem as evidências, qu
 FONTE: Office of Dietary Supplements (NIH) | https://ods.od.nih.gov
 FONTE: Mayo Clinic | https://www.mayoclinic.org
 CAPA_BUSCA: woman healthy lifestyle
-CAPA_ALT: Mulher em atividade ao ar livre, representando hábitos para o emagrecimento feminino
+CAPA_ALT: Mulher em atividade ao ar livre, ilustrando suplementos para emagrecer feminino com hábitos saudáveis
 FOTO1_BUSCA: woman stretching yoga
 FOTO1_ALT: Mulher fazendo alongamento em casa, exemplo de rotina de movimento para mulheres
 FOTO1_LEGENDA: Rotina de movimento e sono costuma pesar mais do que qualquer suplemento.

@@ -14,7 +14,9 @@ FOTO2_ALT: Pessoa anotando as refeições em um caderno, registro alimentar para
 FOTO2_LEGENDA: Registrar a alimentação por alguns dias revela padrões que passam despercebidos.
 FOTO2_SECAO: 4
 ---
-<p>Contar calorias é o hábito de registrar a energia dos alimentos e bebidas consumidos ao longo do dia. A prática pode ajudar a entender a própria alimentação, mas exige método e cuidado, porque pequenos erros de medida ou de registro mudam bastante o total. Entender como o cálculo funciona e quais erros evitar torna a informação mais útil.</p>
+<p>Contar calorias é o hábito de registrar a energia dos alimentos e bebidas consumidos ao longo do dia. A prática pode ajudar a entender a própria alimentação, mas exige método e cuidado, porque pequenos erros de medida ou de registro mudam bastante o total.</p>
+
+<p>Entender como o cálculo funciona e quais erros evitar torna a informação mais útil.</p>
 
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Quem tem histórico de transtornos alimentares, diabetes, doença renal ou outras condições deve discutir a contagem com médico ou nutricionista antes de começar.</p>
 
@@ -65,7 +67,9 @@ FOTO2_SECAO: 4
 
 <h2>Calorias, déficit e ganho de peso</h2>
 
-<p>O peso corporal responde ao equilíbrio entre energia consumida e energia gasta ao longo do tempo. Quando o consumo fica abaixo do gasto, o organismo tende a perder peso. Quando fica acima, tende a ganhar. Essa lógica geral ajuda a entender o princípio, mas não define sozinha a estratégia de cada pessoa.</p>
+<p>O peso corporal responde ao equilíbrio entre energia consumida e energia gasta ao longo do tempo. Quando o consumo fica abaixo do gasto, o organismo tende a perder peso.</p>
+
+<p>Quando fica acima, tende a ganhar. Essa lógica geral ajuda a entender o princípio, mas não define sozinha a estratégia de cada pessoa.</p>
 
 <p>Fatores como idade, massa muscular, sono, nível de atividade física, hormônios e medicamentos alteram o gasto de energia. Por isso, estimativas genéricas podem ser pouco precisas para algumas pessoas, especialmente depois dos 40 anos.</p>
 
@@ -83,7 +87,9 @@ FOTO2_SECAO: 4
 
 <p>Independentemente da ferramenta, a regra é a mesma: usar dados consistentes, medir sempre que possível e revisar o registro com um profissional quando houver dúvida.</p>
 
-<p>Por fim, lembre que o objetivo da contagem não precisa ser perfeito. Um registro com algumas imprecisões ainda é útil para enxergar tendências, como o excesso de bebidas no fim de semana ou a falta de proteína no café da manhã. A busca pela exatidão total pode gerar frustração e abandono, enquanto a regularidade costuma trazer informações mais valiosas.</p>
+<p>Por fim, lembre que o objetivo da contagem não precisa ser perfeito. Um registro com algumas imprecisões ainda é útil para enxergar tendências, como o excesso de bebidas no fim de semana ou a falta de proteína no café da manhã.</p>
+
+<p>A busca pela exatidão total pode gerar frustração e abandono, enquanto a regularidade costuma trazer informações mais valiosas.</p>
 
 <h2>Perguntas frequentes</h2>
 

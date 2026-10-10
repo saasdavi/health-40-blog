@@ -41,7 +41,8 @@ FOTO2_SECAO: 4
 <p>Também é comum que produtos de emagrecimento combinem estimulantes com diuréticos ou laxantes. Esse efeito pode parecer perda de peso, mas se trata principalmente de perda de líquido, que volta rapidamente.</p>
 
 <h2>Gordura abdominal e saúde</h2>
-<p>Nem toda gordura tem o mesmo significado para a saúde. A gordura localizada na região do abdômen, chamada visceral, está mais associada a alterações metabólicas do que a gordura logo abaixo da pele. Medir a cintura e observar essa distribuição costuma ser mais útil do que olhar apenas o peso na balança.</p>
+<p>Nem toda gordura tem o mesmo significado para a saúde.</p>
+<p>A gordura localizada na região do abdômen, chamada visceral, está mais associada a alterações metabólicas do que a gordura logo abaixo da pele. Medir a cintura e observar essa distribuição costuma ser mais útil do que olhar apenas o peso na balança.</p>
 <p>Para aprofundar a diferença, o texto sobre <a href="/o-que-e-gordura-visceral/">gordura visceral</a> explica como ela se forma e por que merece atenção.</p>
 
 <p>Entre as estratégias mais estudadas está o treino de força, que ajuda a preservar a massa muscular durante a perda de peso e melhora a composição corporal ao longo do tempo.</p>
@@ -73,14 +74,15 @@ FOTO2_SECAO: 4
 <p>Se você já usou um produto e sentiu algo diferente, registre o nome, a dose, a frequência e os sintomas. Essas informações ajudam o médico a entender o que aconteceu e a decidir os próximos passos.</p>
 
 <h2>Quando procurar um médico</h2>
-<p>Procure atendimento se você sentir palpitações, dor no peito, falta de ar, tontura intensa ou ansiedade forte depois de usar um produto para emagrecer. Também é importante conversar com o médico antes de qualquer suplemento em caso de doença cardíaca, hipertensão, diabetes, problemas hepáticos ou renais, ou uso contínuo de medicamentos.</p>
+<p>Procure atendimento se você sentir palpitações, dor no peito, falta de ar, tontura intensa ou ansiedade forte depois de usar um produto para emagrecer.</p>
+<p>Também é importante conversar com o médico antes de qualquer suplemento em caso de doença cardíaca, hipertensão, diabetes, problemas hepáticos ou renais, ou uso contínuo de medicamentos.</p>
 <p>O profissional pode avaliar o peso, a cintura e os exames, além de orientar o plano mais seguro. Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</p>
 
 <p>Uma estratégia realista costuma começar com metas pequenas, medição periódica e revisões com o profissional. Esse caminho é mais lento, porém mais previsível e menos arriscado.</p>
 
 <p>Ao longo desse processo, registre o progresso com medidas como a cintura, a disposição e a qualidade do sono. Esses sinais contam uma história mais completa do que a balança isolada.</p>
 
-<p>Vale lembrar que mudanças sustentáveis costumam ser mais simples do que parecem. Elas começam com uma decisão pequena, repetida todos os dias, e com o apoio de um profissional que acompanha o caminho.</p>
+<p>Vale lembrar que mudanças sustentáveis costumam ser mais simples do que parecem. Elas começam com uma decisão pequena, repetida todos os dias, e com o apoio de um profissional que acompanha o caminho. Quem chega a esse ponto costuma perceber que o progresso depende mais de constância do que de intensidade.</p>
 
 <h2>Resumindo</h2>
 <p>Não há suplemento capaz de substituir alimentação equilibrada, atividade física regular e sono adequado para reduzir gordura. As evidências para a maioria dos produtos são fracas, e os termogênicos apresentam riscos relevantes para o coração e o sistema nervoso.</p>

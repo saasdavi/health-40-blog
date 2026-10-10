@@ -15,7 +15,9 @@ FOTO2_ALT: Mulher preparando uma marmita saudável na cozinha, exemplo de rotina
 FOTO2_LEGENDA: Preparar parte das refeições em casa facilita manter o plano durante a semana.
 FOTO2_SECAO: 4
 ---
-<p>Cardápio para emagrecer é um plano de refeições pensado para reduzir o excesso de peso de forma gradual, com alimentos variados e porções adequadas. Ele não precisa ser complicado. Montar um cardápio semanal ajuda a organizar compras, a evitar improvisos e a manter a constância, que costuma ser o maior desafio depois dos 40 anos.</p>
+<p>Cardápio para emagrecer é um plano de refeições pensado para reduzir o excesso de peso de forma gradual, com alimentos variados e porções adequadas. Ele não precisa ser complicado.</p>
+
+<p>Montar um cardápio semanal ajuda a organizar compras, a evitar improvisos e a manter a constância, que costuma ser o maior desafio depois dos 40 anos.</p>
 
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Antes de mudar a alimentação de forma significativa, converse com seu médico ou com um nutricionista, principalmente se você tem doenças crônicas ou usa medicamentos.</p>
 
@@ -39,7 +41,9 @@ FOTO2_SECAO: 4
 <li><strong>Passo 5:</strong> anote como você se sente com o plano e ajuste o que não funcionou.</li>
 </ul>
 
-<p>Uma semana típica pode combinar, por exemplo, ovos com legumes no café da manhã, arroz integral com feijão e salada no almoço, iogurte natural com fruta no lanche e sopa de legumes com frango desfiado no jantar. A ideia não é seguir uma lista fixa, e sim criar um padrão que caiba na sua rotina.</p>
+<p>Uma semana típica pode combinar, por exemplo, ovos com legumes no café da manhã, arroz integral com feijão e salada no almoço, iogurte natural com fruta no lanche e sopa de legumes com frango desfiado no jantar.</p>
+
+<p>A ideia não é seguir uma lista fixa, e sim criar um padrão que caiba na sua rotina.</p>
 
 <p>Ao montar a semana, observe também o tamanho das porções nas refeições fora de casa. Pedir um prato com mais legumes, optar por preparos grelhados ou assados e deixar parte do acompanhamento de lado são atitudes simples que mantêm o plano mesmo quando a rotina foge do controle.</p>
 
@@ -63,7 +67,9 @@ FOTO2_SECAO: 4
 
 <h2>Cuidados com dietas muito restritivas</h2>
 
-<p>Muitas pessoas procuram um cardápio para emagrecer rápido, com a promessa de resultados em pouco tempo. Esse tipo de proposta costuma eliminar grupos inteiros de alimentos, reduzir demais as calorias e deixar o corpo sem nutrientes importantes. O resultado mais comum é a perda de massa muscular e de água, e não apenas de gordura.</p>
+<p>Muitas pessoas procuram um cardápio para emagrecer rápido, com a promessa de resultados em pouco tempo. Esse tipo de proposta costuma eliminar grupos inteiros de alimentos, reduzir demais as calorias e deixar o corpo sem nutrientes importantes.</p>
+
+<p>O resultado mais comum é a perda de massa muscular e de água, e não apenas de gordura.</p>
 
 <p>Após os 40 anos, a massa muscular já tende a diminuir naturalmente. Por isso, cortes bruscos podem agravar a fraqueza e a sensação de cansaço. Um plano bem feito preserva a proteína, mantém os carboidratos de qualidade e inclui atividade física regular, como caminhadas e exercícios de força adaptados.</p>
 
@@ -75,7 +81,9 @@ FOTO2_SECAO: 4
 
 <p>Para quem trabalha fora, levar uma marmita simples e um lanche saudável evita escolhas por impulso. Já nos fins de semana, vale manter a estrutura do plano e permitir refeições mais livres de forma consciente, sem transformar a exceção em culpa.</p>
 
-<p>Vale também fazer uma lista de compras a partir do cardápio da semana. Isso reduz compras por impulso, diminui o desperdício de alimentos perecíveis e ajuda a manter em casa apenas o que faz parte do plano. Muitas pessoas notam que a mudança no ambiente da cozinha é tão importante quanto a decisão individual na hora de comer.</p>
+<p>Vale também fazer uma lista de compras a partir do cardápio da semana. Isso reduz compras por impulso, diminui o desperdício de alimentos perecíveis e ajuda a manter em casa apenas o que faz parte do plano.</p>
+
+<p>Muitas pessoas notam que a mudança no ambiente da cozinha é tão importante quanto a decisão individual na hora de comer.</p>
 
 <p>Se a rotina for muito corrida, procure preparos rápidos, como omeletes com legumes, saladas com proteína pronta e sopas feitas em grande quantidade. O importante é que o cardápio seja possível de repetir durante semanas.</p>
 

@@ -14,13 +14,17 @@ FOTO2_ALT: Dermatologista examinando a pele de um paciente no consultório, aval
 FOTO2_LEGENDA: O exame da pele define se a mancha é simples ou pede investigação.
 FOTO2_SECAO: 4
 ---
-<p>Cotovelos escuros são uma das queixas mais comuns da pele, principalmente em áreas que sofrem atrito e pressão. Na maioria das vezes, o escurecimento tem origem em hábitos e em alterações benignas, que melhoram com cuidados simples. Entender as causas, o que realmente ajuda a clarear e quais sinais exigem avaliação faz diferença para quem tem mais de 40 anos.</p>
+<p>Cotovelos escuros são uma das queixas mais comuns da pele, principalmente em áreas que sofrem atrito e pressão. Na maioria das vezes, o escurecimento tem origem em hábitos e em alterações benignas, que melhoram com cuidados simples.</p>
+
+<p>Entender as causas, o que realmente ajuda a clarear e quais sinais exigem avaliação faz diferença para quem tem mais de 40 anos.</p>
 
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Manchas que mudam de forma, cor ou tamanho devem ser examinadas por um dermatologista, que pode indicar a conduta adequada para cada caso.</p>
 
 <h2>Cotovelos escuros: por que a pele escurece nessa região</h2>
 
-<p>Os cotovelos têm pele mais grossa e menos oleosa do que outras regiões do corpo. Eles também sofrem atrito constante ao apoiar o corpo na mesa, no sofá ou no volante. Esse contato repetido estimula a produção de células da pele, que se acumulam e deixam a área mais escura e áspera.</p>
+<p>Os cotovelos têm pele mais grossa e menos oleosa do que outras regiões do corpo. Eles também sofrem atrito constante ao apoiar o corpo na mesa, no sofá ou no volante.</p>
+
+<p>Esse contato repetido estimula a produção de células da pele, que se acumulam e deixam a área mais escura e áspera.</p>
 
 <p>Com o passar dos anos, a renovação da pele fica mais lenta e a hidratação natural diminui. Por isso, o escurecimento e o ressecamento nos cotovelos aparecem com mais frequência depois dos 40.</p>
 
@@ -106,7 +110,9 @@ FOTO2_SECAO: 4
 
 <h2>Quando procurar um médico</h2>
 
-<p>Procure um dermatologista se a mancha tiver mudanças rápidas, se houver sintomas incômodos ou se o escurecimento surgir em várias áreas do corpo. Também é recomendável buscar avaliação se a pele não responder aos cuidados básicos após algumas semanas. Sinais de infecção, como dor, pus e calor local, pedem atendimento rápido.</p>
+<p>Procure um dermatologista se a mancha tiver mudanças rápidas, se houver sintomas incômodos ou se o escurecimento surgir em várias áreas do corpo.</p>
+
+<p>Também é recomendável buscar avaliação se a pele não responder aos cuidados básicos após algumas semanas. Sinais de infecção, como dor, pus e calor local, pedem atendimento rápido.</p>
 
 <p>O profissional pode distinguir causas simples de condições que precisam de investigação e indicar o tratamento que faz sentido para o seu caso.</p>
 

@@ -14,7 +14,9 @@ FOTO2_ALT: Psicóloga conversando com paciente em consultório, apoio profission
 FOTO2_LEGENDA: O tratamento costuma envolver apoio psicológico e acompanhamento médico.
 FOTO2_SECAO: 4
 ---
-<p>Compulsão alimentar é a ingestão de uma grande quantidade de comida em um curto período, acompanhada da sensação de perda de controle. Ela pode aparecer em pessoas de qualquer peso e idade, e é um problema de saúde que merece atenção, não apenas força de vontade. Entender o que é, quais são os sinais e quais caminhos de tratamento existem ajuda a buscar apoio no momento certo.</p>
+<p>Compulsão alimentar é a ingestão de uma grande quantidade de comida em um curto período, acompanhada da sensação de perda de controle. Ela pode aparecer em pessoas de qualquer peso e idade, e é um problema de saúde que merece atenção, não apenas força de vontade.</p>
+
+<p>Entender o que é, quais são os sinais e quais caminhos de tratamento existem ajuda a buscar apoio no momento certo.</p>
 
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. A avaliação de cada situação deve ser feita por médico ou psicólogo, que podem orientar o tratamento adequado para cada pessoa.</p>
 
@@ -39,7 +41,9 @@ FOTO2_SECAO: 4
 
 <p>Esses sintomas costumam vir acompanhados de mudanças de humor, ansiedade e dificuldade de concentração. Em alguns casos, o sono também fica prejudicado.</p>
 
-<p>Vale notar que a compulsão pode ser confundida com fome emocional ou com hábitos alimentares pouco organizados. A diferença principal está na intensidade da perda de controle e no sofrimento que vem depois. Quem percebe apenas uma tendência a comer por tédio, sem sensação de descontrole, pode se beneficiar de mudanças de rotina, mas a avaliação continua útil para entender o quadro.</p>
+<p>Vale notar que a compulsão pode ser confundida com fome emocional ou com hábitos alimentares pouco organizados. A diferença principal está na intensidade da perda de controle e no sofrimento que vem depois.</p>
+
+<p>Quem percebe apenas uma tendência a comer por tédio, sem sensação de descontrole, pode se beneficiar de mudanças de rotina, mas a avaliação continua útil para entender o quadro.</p>
 
 <p>Muitas pessoas levam anos para procurar ajuda, porque sentem vergonha de falar sobre o assunto. Esse silêncio é comum e tende a manter o ciclo, já que o segredo aumenta a culpa e reforça a sensação de isolamento.</p>
 
@@ -87,7 +91,9 @@ FOTO2_SECAO: 4
 
 <p>Não há dieta que resolva sozinha a compulsão. Se você já tentou muitos planos e continua se sentindo sem controle, a mudança mais útil costuma ser buscar apoio especializado.</p>
 
-<p>Também é útil lembrar que a recuperação não é linear. Pode haver episódios mesmo depois de um período de melhora, e isso não significa que o tratamento falhou. Observar os gatilhos, conversar sobre as recaídas e ajustar o plano com a equipe são parte do processo e ajudam a reduzir a intensidade e a frequência com o tempo.</p>
+<p>Também é útil lembrar que a recuperação não é linear. Pode haver episódios mesmo depois de um período de melhora, e isso não significa que o tratamento falhou.</p>
+
+<p>Observar os gatilhos, conversar sobre as recaídas e ajustar o plano com a equipe são parte do processo e ajudam a reduzir a intensidade e a frequência com o tempo.</p>
 
 <h2>Perguntas frequentes</h2>
 

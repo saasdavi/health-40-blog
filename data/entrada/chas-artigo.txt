@@ -14,7 +14,9 @@ FOTO2_ALT: Infusão de ervas e flores secas em uma caneca, exemplo de chá de er
 FOTO2_LEGENDA: Infusões de ervas têm composição diferente e exigem atenção aos efeitos.
 FOTO2_SECAO: 4
 ---
-<p>Chás são bebidas preparadas com folhas, flores, raízes ou partes de plantas em água quente. Podem fazer parte de uma rotina agradável e hidratante, mas nem todo chá tem o mesmo efeito no organismo. Entender a diferença entre chás verdadeiros e infusões de ervas, e conhecer os riscos de cada tipo, ajuda a tomar decisões mais seguras.</p>
+<p>Chás são bebidas preparadas com folhas, flores, raízes ou partes de plantas em água quente. Podem fazer parte de uma rotina agradável e hidratante, mas nem todo chá tem o mesmo efeito no organismo.</p>
+
+<p>Entender a diferença entre chás verdadeiros e infusões de ervas, e conhecer os riscos de cada tipo, ajuda a tomar decisões mais seguras.</p>
 
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Se você usa medicamentos, está grávida ou tem alguma doença crônica, converse com seu médico antes de incluir chás de forma regular na alimentação.</p>
 
@@ -32,7 +34,9 @@ FOTO2_SECAO: 4
 
 <p>Doses muito altas de extratos concentrados de chá verde, usados como suplementos, estão associadas a problemas no fígado em alguns casos. Por isso, a bebida preparada em casa é bem diferente de cápsulas e extratos em alta concentração.</p>
 
-<p>Ao comparar chás verdadeiros, vale lembrar que o sabor não indica força do efeito. Um chá mais amargo não é necessariamente mais ativo, e um chá suave não é necessariamente mais fraco. A composição depende da variedade da planta, da época da colheita e do processamento, o que dificulta prever a resposta de cada pessoa.</p>
+<p>Ao comparar chás verdadeiros, vale lembrar que o sabor não indica força do efeito. Um chá mais amargo não é necessariamente mais ativo, e um chá suave não é necessariamente mais fraco.</p>
+
+<p>A composição depende da variedade da planta, da época da colheita e do processamento, o que dificulta prever a resposta de cada pessoa.</p>
 
 <h2>Infusões de ervas: entre a tradição e a evidência</h2>
 
@@ -64,7 +68,9 @@ FOTO2_SECAO: 4
 <li>Suspenda o consumo e procure atendimento se houver reação alérgica ou mal-estar incomum.</li>
 </ul>
 
-<p>Outro aspecto pouco discutido é a rotina de consumo. Quem toma chá várias vezes por dia, em grandes volumes ou com adoçantes e leite condensado, acaba somando energia, açúcar e cafeína sem perceber. Observar a quantidade total de bebidas ajuda a manter o equilíbrio, principalmente quando há doenças como diabetes ou hipertensão.</p>
+<p>Outro aspecto pouco discutido é a rotina de consumo. Quem toma chá várias vezes por dia, em grandes volumes ou com adoçantes e leite condensado, acaba somando energia, açúcar e cafeína sem perceber.</p>
+
+<p>Observar a quantidade total de bebidas ajuda a manter o equilíbrio, principalmente quando há doenças como diabetes ou hipertensão.</p>
 
 <h2>Como escolher e preparar chás com mais segurança</h2>
 
@@ -78,7 +84,9 @@ FOTO2_SECAO: 4
 
 <p>Se a intenção é usar uma erva específica, como a <a href="/cha-de-cavalinha/">cavalinha</a>, vale pesquisar o uso tradicional e os cuidados antes de começar. Para quem tem dificuldades com o sono e usa chás à noite, o texto sobre <a href="/insonia/">insônia</a> ajuda a entender outras causas que merecem atenção.</p>
 
-<p>Também vale lembrar que o chá não substitui a consulta quando há sintomas novos. Mudanças no intestino, perda de peso sem explicação, cansaço persistente ou dor que não passa devem ser investigadas, independentemente de a pessoa estar bebendo chás ou não. Muitas vezes, a bebida é apenas um hábito inofensivo ao lado de um problema que precisa de atenção.</p>
+<p>Também vale lembrar que o chá não substitui a consulta quando há sintomas novos. Mudanças no intestino, perda de peso sem explicação, cansaço persistente ou dor que não passa devem ser investigadas, independentemente de a pessoa estar bebendo chás ou não.</p>
+
+<p>Muitas vezes, a bebida é apenas um hábito inofensivo ao lado de um problema que precisa de atenção.</p>
 
 <h2>Perguntas frequentes</h2>
 

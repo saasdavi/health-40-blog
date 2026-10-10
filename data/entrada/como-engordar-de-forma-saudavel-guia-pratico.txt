@@ -15,13 +15,17 @@ FOTO2_ALT: Homem fazendo exercício de força com halteres, complemento para gan
 FOTO2_LEGENDA: O treino de força direciona o ganho de peso para massa muscular.
 FOTO2_SECAO: 4
 ---
-<p>Como engordar de forma saudável? O caminho é aumentar a ingestão de energia com alimentos nutritivos, distribuir refeições ao longo do dia e combinar a alimentação com treino de força. Engordar rápido com ultraprocessados pode trazer mais gordura do que massa magra, e isso pesa ainda mais depois dos 40 anos.</p>
+<p>Como engordar de forma saudável? O caminho é aumentar a ingestão de energia com alimentos nutritivos, distribuir refeições ao longo do dia e combinar a alimentação com treino de força.</p>
+
+<p>Engordar rápido com ultraprocessados pode trazer mais gordura do que massa magra, e isso pesa ainda mais depois dos 40 anos.</p>
 
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Perda de peso não intencional ou dificuldade para comer precisa ser investigada por médico, que pode solicitar exames e indicar um plano adequado ao seu caso.</p>
 
 <h2>Como engordar de forma saudável: entenda antes de comer mais</h2>
 
-<p>O ganho de peso acontece quando a energia que entra no corpo supera a energia gasta. Por isso, o primeiro passo é entender por que o peso está baixo. Em alguns casos, a causa é simplesmente um hábito alimentar pouco calórico ou uma rotina muito corrida. Em outros, existem fatores de saúde que precisam de atenção.</p>
+<p>O ganho de peso acontece quando a energia que entra no corpo supera a energia gasta. Por isso, o primeiro passo é entender por que o peso está baixo.</p>
+
+<p>Em alguns casos, a causa é simplesmente um hábito alimentar pouco calórico ou uma rotina muito corrida. Em outros, existem fatores de saúde que precisam de atenção.</p>
 
 <p>Pessoas que perdem peso sem motivo aparente, têm perda de apetite persistente ou sentem fraqueza devem procurar avaliação antes de qualquer mudança por conta própria.</p>
 
@@ -50,7 +54,9 @@ FOTO2_SECAO: 4
 <li><strong>Frutas e vitaminas caseiras:</strong> banana, mamão e aveia batidos com leite ou bebida vegetal fortificada.</li>
 </ul>
 
-<p>Uma boa tática é adicionar um alimento calórico a refeições que já existem, como um fio de azeite na salada, uma porção de castanhas no lanche ou um ovo a mais no café da manhã. Essas pequenas trocas são mais fáceis de manter do que mudar toda a dieta de uma vez.</p>
+<p>Uma boa tática é adicionar um alimento calórico a refeições que já existem, como um fio de azeite na salada, uma porção de castanhas no lanche ou um ovo a mais no café da manhã.</p>
+
+<p>Essas pequenas trocas são mais fáceis de manter do que mudar toda a dieta de uma vez.</p>
 
 <h2>Treino de força e ganho de massa magra</h2>
 
@@ -58,7 +64,9 @@ FOTO2_SECAO: 4
 
 <p>Após os 40 anos, a massa muscular tende a diminuir naturalmente, e o treino de força ajuda a preservá-la. Caminhadas e outras atividades leves também são úteis, mas o foco principal deve ser o fortalecimento, sempre com orientação adequada.</p>
 
-<p>Para entender melhor esse processo, leia sobre <a href="/sarcopenia/">a perda de massa muscular com a idade</a>, que explica por que o treino tem papel tão importante no peso. Também vale conhecer como o <a href="/idade-metabolica/">metabolismo muda ao longo dos anos</a>, já que essa mudança influencia a quantidade de energia que o corpo gasta no dia a dia.</p>
+<p>Para entender melhor esse processo, leia sobre <a href="/sarcopenia/">a perda de massa muscular com a idade</a>, que explica por que o treino tem papel tão importante no peso.</p>
+
+<p>Também vale conhecer como o <a href="/idade-metabolica/">metabolismo muda ao longo dos anos</a>, já que essa mudança influencia a quantidade de energia que o corpo gasta no dia a dia.</p>
 
 <p>Ao começar um treino de força, a progressão deve ser gradual. Cargas leves com boa técnica, aumentadas aos poucos, respeitam o tempo de adaptação dos músculos e das articulações. Dores intensas, inchaço ou falta de ar durante o exercício são sinais para parar e procurar orientação.</p>
 
@@ -68,7 +76,9 @@ FOTO2_SECAO: 4
 
 <p>Também ajuda montar uma rotina previsível: horários fixos, lanches planejados e alimentos que possam ser levados para o trabalho. A regularidade costuma ser mais útil do que picos de consumo seguidos de longos períodos de jejum.</p>
 
-<p>Algumas pessoas têm apetite pequeno pela manhã e conseguem comer mais à noite. Nesse caso, pode ser útil deslocar parte da energia para o início do dia, com um café da manhã simples, como ovos com pão integral e fruta, e não deixar tudo para o jantar. O importante é que a soma diária de energia e proteína seja compatível com a meta combinada com o profissional.</p>
+<p>Algumas pessoas têm apetite pequeno pela manhã e conseguem comer mais à noite. Nesse caso, pode ser útil deslocar parte da energia para o início do dia, com um café da manhã simples, como ovos com pão integral e fruta, e não deixar tudo para o jantar.</p>
+
+<p>O importante é que a soma diária de energia e proteína seja compatível com a meta combinada com o profissional.</p>
 
 <p>Beber líquidos durante as refeições pode saciar mais rápido. Por isso, vale priorizar bebidas nutritivas, como leite, iogurte batido e vitaminas, em vez de refrigerantes ou sucos sem fibra.</p>
 
@@ -110,7 +120,9 @@ FOTO2_SECAO: 4
 
 <p>O médico pode investigar as causas, solicitar exames e indicar se é necessário acompanhamento com nutricionista e outros profissionais.</p>
 
-<p>Também vale lembrar que o peso não deve ser o único indicador de progresso. Medidas da cintura e de braços e pernas, a força nos exercícios, a disposição no dia a dia e a forma como as roupas servem dão uma visão mais completa. Registrar essas informações a cada duas ou três semanas ajuda a conversar com o profissional de forma objetiva.</p>
+<p>Também vale lembrar que o peso não deve ser o único indicador de progresso. Medidas da cintura e de braços e pernas, a força nos exercícios, a disposição no dia a dia e a forma como as roupas servem dão uma visão mais completa.</p>
+
+<p>Registrar essas informações a cada duas ou três semanas ajuda a conversar com o profissional de forma objetiva.</p>
 
 <h2>Resumindo</h2>
 

@@ -15,15 +15,23 @@ FOTO2_ALT: Profissional examinando fios e couro cabeludo com lupa, relacionado �
 FOTO2_LEGENDA: O exame do couro cabeludo é um passo importante da investigação
 FOTO2_SECAO: 4
 ---
-<p>Cabelo caindo o que fazer é a pergunta que surge quando a escova, o ralo do banho e o travesseiro passam a mostrar mais fios do que o habitual. A resposta depende da causa, que pode ser temporária, hereditária ou ligada a outra condição de saúde. Este texto organiza os passos práticos para os primeiros dias e explica as causas reais que costumam ser investigadas por médicos.</p>
+<p>Cabelo caindo o que fazer é a pergunta que surge quando a escova, o ralo do banho e o travesseiro passam a mostrar mais fios do que o habitual.</p>
+
+<p>A resposta depende da causa, que pode ser temporária, hereditária ou ligada a outra condição de saúde. Este texto organiza os passos práticos para os primeiros dias e explica as causas reais que costumam ser investigadas por médicos.</p>
 
 <h2>Por que a queda acontece na prática</h2>
-<p>O cabelo se renova em ciclos. Em cada folículo, há uma fase de crescimento, uma de transição e uma de repouso, e então o fio cai para dar lugar a outro. Quando muitos folículos entram na fase de repouso ao mesmo tempo, a queda fica mais visível semanas ou meses depois. Esse mecanismo explica por que um evento estressante pode provocar uma perda difusa que só aparece tempos depois.</p>
-<p>As causas reais costumam se encaixar em alguns grupos. O primeiro é o das quedas temporárias, ligadas a febres, cirurgias, partos, emagrecimento rápido e períodos de tensão intensa. O segundo é o das quedas persistentes, como a predisposição genética, que afina os fios de forma gradual. O terceiro reúne condições clínicas, como alterações da tireoide, anemia e doenças inflamatórias do couro cabeludo.</p>
+<p>O cabelo se renova em ciclos. Em cada folículo, há uma fase de crescimento, uma de transição e uma de repouso, e então o fio cai para dar lugar a outro.</p>
+
+<p>Quando muitos folículos entram na fase de repouso ao mesmo tempo, a queda fica mais visível semanas ou meses depois. Esse mecanismo explica por que um evento estressante pode provocar uma perda difusa que só aparece tempos depois.</p>
+<p>As causas reais costumam se encaixar em alguns grupos. O primeiro é o das quedas temporárias, ligadas a febres, cirurgias, partos, emagrecimento rápido e períodos de tensão intensa.</p>
+
+<p>O segundo é o das quedas persistentes, como a predisposição genética, que afina os fios de forma gradual. O terceiro reúne condições clínicas, como alterações da tireoide, anemia e doenças inflamatórias do couro cabeludo.</p>
 <p>Identificar em qual grupo o seu caso se encaixa é o primeiro passo, e é justamente nisso que a avaliação médica ajuda. Sem essa leitura, a tendência é tentar muitos produtos ao mesmo tempo, o que dificulta entender o que de fato funcionou ou atrapalhou.</p>
 
 <h2>O que fazer nas primeiras semanas</h2>
-<p>Nos primeiros dias, o mais útil é organizar as informações. Anote quando a queda começou, se ela é difusa ou concentrada em alguma região, se houve algum evento recente e se há coceira, ardor ou descamação. Esse registro vale mais do que qualquer impressão geral, porque mostra o padrão ao longo do tempo.</p>
+<p>Nos primeiros dias, o mais útil é organizar as informações. Anote quando a queda começou, se ela é difusa ou concentrada em alguma região, se houve algum evento recente e se há coceira, ardor ou descamação.</p>
+
+<p>Esse registro vale mais do que qualquer impressão geral, porque mostra o padrão ao longo do tempo.</p>
 <ul>
 <li>Registre a data de início e a intensidade percebida.</li>
 <li>Anote mudanças de rotina, medicamentos, dieta e sono.</li>
@@ -34,9 +42,15 @@ FOTO2_SECAO: 4
 <p>Se houver dúvidas sobre medicamentos em uso, não os suspenda por conta própria. Converse com o médico que os prescreveu, porque algumas substâncias podem ser ajustadas com segurança.</p>
 
 <h2>Causas reais que costumam ser investigadas</h2>
-<p>Entre as causas reais mais observadas estão as alterações da tireoide. Tanto o excesso quanto a falta de hormônios podem afinar os fios e alterar a textura do cabelo. Quem sente cansaço, mudança de peso ou alteração do humor deve considerar esse caminho, e a dosagem de hormônios tireoidianos costuma ser solicitada nesses casos. Um dos marcadores usados nessa triagem é o <a href="/tsh-alto/">TSH</a>, cujo resultado precisa ser interpretado junto com o quadro clínico.</p>
-<p>A anemia por falta de ferro é outra causa importante, sobretudo em mulheres em idade fértil e em pessoas com sangramentos menstruais intensos ou dietas pobres em alimentos de origem animal. Também há associação com a deficiência de outros nutrientes, mas a investigação deve ser feita com exames, e não com suposições.</p>
-<p>O estresse prolongado é apontado como um fator relevante, porque altera o funcionamento hormonal e pode antecipar a fase de repouso do ciclo capilar. Ainda assim, o estresse raramente explica sozinho uma queda intensa e persistente, e deve ser investigado junto com outras causas. Para entender a relação com hormônios de estresse, vale ler sobre <a href="/cortisol-alto/">cortisol alto</a>.</p>
+<p>Entre as causas reais mais observadas estão as alterações da tireoide. Tanto o excesso quanto a falta de hormônios podem afinar os fios e alterar a textura do cabelo.</p>
+
+<p>Quem sente cansaço, mudança de peso ou alteração do humor deve considerar esse caminho, e a dosagem de hormônios tireoidianos costuma ser solicitada nesses casos. Um dos marcadores usados nessa triagem é o <a href="/tsh-alto/">TSH</a>, cujo resultado precisa ser interpretado junto com o quadro clínico.</p>
+<p>A anemia por falta de ferro é outra causa importante, sobretudo em mulheres em idade fértil e em pessoas com sangramentos menstruais intensos ou dietas pobres em alimentos de origem animal.</p>
+
+<p>Também há associação com a deficiência de outros nutrientes, mas a investigação deve ser feita com exames, e não com suposições.</p>
+<p>O estresse prolongado é apontado como um fator relevante, porque altera o funcionamento hormonal e pode antecipar a fase de repouso do ciclo capilar.</p>
+
+<p>Ainda assim, o estresse raramente explica sozinho uma queda intensa e persistente, e deve ser investigado junto com outras causas. Para entender a relação com hormônios de estresse, vale ler sobre <a href="/cortisol-alto/">cortisol alto</a>.</p>
 
 <h2>Quando a suspeita é de alopecia</h2>
 <p>A alopecia androgenética é a causa hereditária mais comum de queda persistente. Ela costuma ser lenta e seguir um padrão, com afinamento progressivo na região central do couro cabeludo, nas entradas ou na coroa. A investigação inclui a história familiar e a observação da distribuição dos fios.</p>
@@ -49,7 +63,9 @@ FOTO2_SECAO: 4
 <p>Também é comum comparar a própria queda com a de outras pessoas. Cada caso tem um ritmo e uma origem diferentes, e a comparação pode gerar ansiedade sem ajudar a entender o quadro.</p>
 
 <h2>Como o acompanhamento costuma funcionar</h2>
-<p>Na consulta, o médico avalia o histórico, examina o couro cabeludo e pede exames conforme a suspeita. Em alguns casos, a análise microscópica dos fios ou um teste de tração ajuda a entender o ciclo capilar. Os exames de sangue costumam incluir ferro, ferritina, hormônios da tireoide e vitamina D, de acordo com o quadro.</p>
+<p>Na consulta, o médico avalia o histórico, examina o couro cabeludo e pede exames conforme a suspeita. Em alguns casos, a análise microscópica dos fios ou um teste de tração ajuda a entender o ciclo capilar.</p>
+
+<p>Os exames de sangue costumam incluir ferro, ferritina, hormônios da tireoide e vitamina D, de acordo com o quadro.</p>
 <p>Depois da investigação, o profissional explica o que foi encontrado e quais caminhos são possíveis. O acompanhamento é feito com reavaliações, porque a resposta do cabelo leva tempo e a evolução precisa ser comparada com o início do quadro.</p>
 <p>Esse processo pode parecer longo, mas evita decisões baseadas apenas em relatos e propagandas. Quanto mais clara for a origem, mais seguro fica o plano de cuidado.</p>
 <p>Durante o acompanhamento, vale levar fotos e anotações atualizadas, além de informar qualquer novo medicamento ou suplemento. Com essas informações, o profissional consegue comparar a evolução e decidir se a investigação precisa avançar ou se o quadro está estável.</p>
@@ -65,5 +81,7 @@ FOTO2_SECAO: 4
 <p>Em casos de queda acompanhada de febre, inchaço no rosto ou sinais de infecção, a orientação é buscar atendimento sem demora.</p>
 
 <h2>Resumindo</h2>
-<p>Cabelo caindo o que fazer começa por entender o padrão da queda. As causas reais variam entre temporárias, hereditárias e clínicas, como alterações da tireoide e anemia. Organizar as informações, evitar mudanças bruscas e buscar uma avaliação consistente são os passos mais seguros para quem está preocupado. Evitar decisões por impulso, sobretudo com produtos de promessa rápida, também faz parte desse cuidado e ajuda a manter a rotina sob controle durante a investigação.</p>
+<p>Cabelo caindo o que fazer começa por entender o padrão da queda. As causas reais variam entre temporárias, hereditárias e clínicas, como alterações da tireoide e anemia. Organizar as informações, evitar mudanças bruscas e buscar uma avaliação consistente são os passos mais seguros para quem está preocupado.</p>
+
+<p>Evitar decisões por impulso, sobretudo com produtos de promessa rápida, também faz parte desse cuidado e ajuda a manter a rotina sob controle durante a investigação.</p>
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. A decisão sobre investigação e cuidado deve ser tomada com um médico ou dermatologista, que avalia o seu caso de forma individual.</p>

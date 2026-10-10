@@ -14,7 +14,9 @@ FOTO2_ALT: Mulher secando os cabelos com toalha macia, etapa final de uma lavage
 FOTO2_LEGENDA: Secar com delicadeza reduz o atrito e protege os fios.
 FOTO2_SECAO: 4
 ---
-<p>Como lavar o cabelo corretamente? A resposta envolve três decisões simples: com que frequência lavar, qual produto usar e como aplicar e enxaguar. Uma lavagem bem feita limpa o couro cabeludo, respeita a oleosidade natural e deixa os fios macios, sem agressões desnecessárias. Após os 40 anos, esses cuidados ganham ainda mais importância.</p>
+<p>Como lavar o cabelo corretamente? A resposta envolve três decisões simples: com que frequência lavar, qual produto usar e como aplicar e enxaguar. Uma lavagem bem feita limpa o couro cabeludo, respeita a oleosidade natural e deixa os fios macios, sem agressões desnecessárias.</p>
+
+<p>Após os 40 anos, esses cuidados ganham ainda mais importância.</p>
 
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Se houver coceira intensa, queda acentuada, feridas ou descamação persistente no couro cabeludo, procure um dermatologista antes de mudar a rotina.</p>
 
@@ -35,7 +37,9 @@ FOTO2_SECAO: 4
 <li><strong>Condicionador:</strong> aplicar principalmente do meio até as pontas, deixando agir e enxaguando bem.</li>
 </ul>
 
-<p>Na leitura dos rótulos, observe a ordem dos ingredientes e evite produtos que prometam resultados rápidos e definitivos. Textos publicitários costumam usar palavras como revolucionário ou transformação total, mas a saúde do cabelo depende de cuidados regulares e paciência. Quando o produto causa coceira ou ardência, a recomendação é suspender o uso e observar a evolução.</p>
+<p>Na leitura dos rótulos, observe a ordem dos ingredientes e evite produtos que prometam resultados rápidos e definitivos. Textos publicitários costumam usar palavras como revolucionário ou transformação total, mas a saúde do cabelo depende de cuidados regulares e paciência.</p>
+
+<p>Quando o produto causa coceira ou ardência, a recomendação é suspender o uso e observar a evolução.</p>
 
 <p>Evite aplicar produtos muito agressivos diretamente sobre o couro cabeludo quando ele está irritado. Nessas situações, a melhor escolha costuma ser a mais neutra.</p>
 
@@ -64,7 +68,9 @@ FOTO2_SECAO: 4
 
 <p>Para ampliar a leitura sobre a saúde do couro cabeludo, veja o texto sobre <a href="/queda-de-cabelo/">queda de cabelo</a>, que aborda fatores que vão além da lavagem. Se houver coceira ou vermelhidão constante, o artigo sobre <a href="/dermatite-de-contato/">dermatite de contato</a> ajuda a entender possíveis causas.</p>
 
-<p>Uma dica prática é lavar os cabelos com as mãos em posição de apoio, deixando a água escorrer da raiz às pontas. Essa direção ajuda a retirar o produto sem empurrá-lo para o comprimento, onde ele pode ressecar. Ao final, use os dedos para desembaraçar os fios antes de pentear com um pente de dentes largos.</p>
+<p>Uma dica prática é lavar os cabelos com as mãos em posição de apoio, deixando a água escorrer da raiz às pontas. Essa direção ajuda a retirar o produto sem empurrá-lo para o comprimento, onde ele pode ressecar.</p>
+
+<p>Ao final, use os dedos para desembaraçar os fios antes de pentear com um pente de dentes largos.</p>
 
 <h2>Cuidados especiais após os 40 anos</h2>
 
@@ -72,7 +78,9 @@ FOTO2_SECAO: 4
 
 <p>Além disso, mudanças hormonais, alterações na circulação e o uso de alguns medicamentos podem interferir na saúde do cabelo. Se a queda aumentar ou se surgirem falhas, a avaliação dermatológica é o caminho indicado.</p>
 
-<p>Vale ainda observar a rotina de quem usa boné, capacete ou touca com frequência. Esses acessórios aumentam o suor e o atrito, o que pede lavagens mais atentas. Já quem pratica atividade física intensa pode precisar lavar logo após o treino, com um xampu suave, para remover o suor e evitar irritação.</p>
+<p>Vale ainda observar a rotina de quem usa boné, capacete ou touca com frequência. Esses acessórios aumentam o suor e o atrito, o que pede lavagens mais atentas.</p>
+
+<p>Já quem pratica atividade física intensa pode precisar lavar logo após o treino, com um xampu suave, para remover o suor e evitar irritação.</p>
 
 <p>Lavar os cabelos no ritmo certo, com produtos adequados e secagem cuidadosa, é uma forma simples de preservar a aparência e o conforto da pele. Não é necessário gastar muito para isso; a regularidade e a delicadeza fazem mais diferença.</p>
 
@@ -80,7 +88,9 @@ FOTO2_SECAO: 4
 
 <p>Alguns hábitos atrapalham o resultado. Aplicar xampu direto no comprimento, dormir com o cabelo molhado, usar água muito quente e esfregar a toalha são exemplos frequentes. Dormir com os fios úmidos, por exemplo, favorece desconforto no couro cabeludo e pode enfraquecer as pontas com o atrito no travesseiro.</p>
 
-<p>Também é comum lavar com água muito quente no fim do banho para "fechar os poros". A sensação é agradável, mas a água quente aumenta a perda de hidratação do couro cabeludo e pode deixar os fios mais secos. Terminar com um enxágue morno ou levemente fresco traz um resultado mais equilibrado.</p>
+<p>Também é comum lavar com água muito quente no fim do banho para "fechar os poros". A sensação é agradável, mas a água quente aumenta a perda de hidratação do couro cabeludo e pode deixar os fios mais secos.</p>
+
+<p>Terminar com um enxágue morno ou levemente fresco traz um resultado mais equilibrado.</p>
 
 <p>Outro erro é trocar de produto a cada lavagem sem dar tempo para observar a resposta da pele e dos fios. Quando a mudança é frequente, fica difícil identificar o que funciona.</p>
 

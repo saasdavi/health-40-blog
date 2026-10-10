@@ -4,7 +4,7 @@ DESCRIPTION: Treino funcional emagrece? Veja o que a ciência mostra sobre gasto
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 FONTE: Ministério da Saúde | https://www.gov.br/saude
 CAPA_BUSCA: functional training workout
-CAPA_ALT: Pessoa fazendo agachamento com peso em academia, exemplo de treino funcional
+CAPA_ALT: Pessoa fazendo agachamento com peso em academia, exemplo de treino funcional emagrece com cautela
 FOTO1_BUSCA: group exercise class
 FOTO1_ALT: Grupo de adultos em aula de exercícios funcionais com movimentos de corpo inteiro
 FOTO1_LEGENDA: Movimentos de corpo inteiro são a base do treino funcional.

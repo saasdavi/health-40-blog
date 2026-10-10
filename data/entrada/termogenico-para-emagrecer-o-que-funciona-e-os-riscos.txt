@@ -4,7 +4,7 @@ DESCRIPTION: Termogênico para emagrecer: o que a evidência mostra, quais risco
 FONTE: Governo Federal | https://www.gov.br
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 CAPA_BUSCA: heart health check
-CAPA_ALT: Medição de pressão arterial em consulta, lembrando os riscos cardiovasculares de termogênicos
+CAPA_ALT: Medição de pressão arterial em consulta, lembrando os riscos de termogênico para emagrecer
 FOTO1_BUSCA: cup of green tea
 FOTO1_ALT: Xícara de chá verde ao lado de folhas secas, exemplo de ingrediente comum em termogênicos
 FOTO1_LEGENDA: Ingredientes de origem natural também podem ter efeitos no organismo.

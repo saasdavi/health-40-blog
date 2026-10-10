@@ -37,7 +37,8 @@ FOTO2_SECAO: 4
 <p>Quando a mesma fórmula chega a pessoas com perfis totalmente diferentes, o risco de reação aumenta, pois a dose ideal depende de peso, idade, função renal e outros remédios.</p>
 
 <h2>O que a Anvisa tem orientado</h2>
-<p>A Agência Nacional de Vigilância Sanitária regula a manipulação de medicamentos e publica notas técnicas e alertas sobre produtos irregulares. Nos últimos anos, o órgão reforçou restrições para fórmulas de emagrecimento e para medicamentos análogos a classes usadas no tratamento da obesidade, por causa de riscos de falsificação, de dosagem e de uso sem prescrição adequada.</p>
+<p>A Agência Nacional de Vigilância Sanitária regula a manipulação de medicamentos e publica notas técnicas e alertas sobre produtos irregulares.</p>
+<p>Nos últimos anos, o órgão reforçou restrições para fórmulas de emagrecimento e para medicamentos análogos a classes usadas no tratamento da obesidade, por causa de riscos de falsificação, de dosagem e de uso sem prescrição adequada.</p>
 <p>Para o consumidor, isso significa que a existência de uma farmácia de manipulação não garante que um produto seja seguro para o seu caso. Vale consultar os comunicados oficiais e desconfiar de anúncios que prometem resultados rápidos.</p>
 
 <p>Um problema recorrente é a combinação de fórmulas com medicamentos de outras classes, feita sem que o prescritor conheça todo o histórico. Essa mistura pode somar efeitos sobre o coração, o fígado e o sistema nervoso.</p>

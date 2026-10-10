@@ -14,23 +14,39 @@ FOTO2_ALT: Médica conversando com paciente em consultório sobre cuidados com o
 FOTO2_LEGENDA: Antes de tratamentos intensos, converse com um profissional
 FOTO2_SECAO: 4
 ---
-<p>Botox capilar o que e para que serve é uma dúvida frequente de quem busca cabelos mais macios, brilhantes e com menos frizz. O nome é comercial e pode causar confusão, porque o procedimento não tem relação com a toxina botulínica usada em tratamentos médicos. Este texto explica o que se costuma fazer, quais benefícios são relatados, quais limitações existem e que cuidados tomar.</p>
+<p>Botox capilar o que e para que serve é uma dúvida frequente de quem busca cabelos mais macios, brilhantes e com menos frizz. O nome é comercial e pode causar confusão, porque o procedimento não tem relação com a toxina botulínica usada em tratamentos médicos.</p>
+
+<p>Este texto explica o que se costuma fazer, quais benefícios são relatados, quais limitações existem e que cuidados tomar.</p>
 
 <h2>O que é o botox capilar e o que ele não é</h2>
-<p>O chamado botox capilar é um tratamento cosmético de salão, que costuma combinar hidratação, reposição de proteínas e um selante aplicado sobre os fios. A ideia é preencher pequenas falhas da fibra capilar, reduzir o frizz e deixar a superfície do cabelo mais uniforme. O resultado é visual e temporário, e depende do tipo de fio e da manutenção feita em casa.</p>
-<p>É fundamental separar o conceito. A toxina botulínica é um medicamento de uso médico, aplicado por meio de injeções em situações específicas, e não faz parte de tratamentos capilares de salão. Usar a expressão "botox" para um produto cosmético pode gerar expectativas erradas, por isso vale perguntar ao profissional exatamente quais substâncias serão aplicadas.</p>
+<p>O chamado botox capilar é um tratamento cosmético de salão, que costuma combinar hidratação, reposição de proteínas e um selante aplicado sobre os fios. A ideia é preencher pequenas falhas da fibra capilar, reduzir o frizz e deixar a superfície do cabelo mais uniforme.</p>
+
+<p>O resultado é visual e temporário, e depende do tipo de fio e da manutenção feita em casa.</p>
+<p>É fundamental separar o conceito. A toxina botulínica é um medicamento de uso médico, aplicado por meio de injeções em situações específicas, e não faz parte de tratamentos capilares de salão.</p>
+
+<p>Usar a expressão "botox" para um produto cosmético pode gerar expectativas erradas, por isso vale perguntar ao profissional exatamente quais substâncias serão aplicadas.</p>
 <p>Também é importante lembrar que o tratamento não corrige alterações do couro cabeludo, não estimula o crescimento de cabelo e não altera a estrutura interna do fio de forma permanente. Ele atua principalmente na aparência e na sensação de maciez.</p>
 
 <h2>Como o procedimento costuma ser feito</h2>
-<p>Em geral, a sessão começa com a lavagem dos fios para retirar resíduos, seguida da aplicação de um produto que penetra na fibra e de uma etapa de finalização. Depois, o cabelo é seco e, em alguns casos, alisado com o auxílio de calor. O tempo de pose e a temperatura variam conforme a técnica e a marca utilizada pelo salão.</p>
-<p>A duração do efeito costuma ser de algumas semanas, e a manutenção depende de lavagens, exposição solar e uso de secador ou chapinha. Por isso, o procedimento costuma ser repetido a cada poucos meses por quem deseja manter o resultado. Pergunte ao profissional qual é o intervalo recomendado para o seu tipo de fio.</p>
+<p>Em geral, a sessão começa com a lavagem dos fios para retirar resíduos, seguida da aplicação de um produto que penetra na fibra e de uma etapa de finalização.</p>
+
+<p>Depois, o cabelo é seco e, em alguns casos, alisado com o auxílio de calor. O tempo de pose e a temperatura variam conforme a técnica e a marca utilizada pelo salão.</p>
+<p>A duração do efeito costuma ser de algumas semanas, e a manutenção depende de lavagens, exposição solar e uso de secador ou chapinha.</p>
+
+<p>Por isso, o procedimento costuma ser repetido a cada poucos meses por quem deseja manter o resultado. Pergunte ao profissional qual é o intervalo recomendado para o seu tipo de fio.</p>
 <p>Como cada salão usa produtos diferentes, vale pedir a lista de componentes e verificar se há alguma substância à qual você tenha alergia. Essa informação deve ser conferida antes da primeira sessão, e não depois de um incômodo.</p>
 
 <h2>Benefícios relatados e o que a evidência mostra</h2>
-<p>Quem faz o tratamento costuma relatar cabelo mais macio, menos frizz e aparência mais brilhante logo após a aplicação. Esses efeitos são visuais e fazem sentido, porque a camada de produto altera a superfície do fio. Para quem tem fios ressecados ou com pontas danificadas, a sensação de melhora pode ser marcante no primeiro momento.</p>
-<p>Ainda assim, a literatura científica sobre tratamentos capilares de salão é limitada e, muitas vezes, feita com amostras pequenas e patrocínio da própria indústria. Não há evidência sólida de que o procedimento recupere o cabelo de forma permanente ou melhore a saúde do couro cabeludo. Essa diferença é importante para evitar expectativas exageradas.</p>
+<p>Quem faz o tratamento costuma relatar cabelo mais macio, menos frizz e aparência mais brilhante logo após a aplicação. Esses efeitos são visuais e fazem sentido, porque a camada de produto altera a superfície do fio.</p>
+
+<p>Para quem tem fios ressecados ou com pontas danificadas, a sensação de melhora pode ser marcante no primeiro momento.</p>
+<p>Ainda assim, a literatura científica sobre tratamentos capilares de salão é limitada e, muitas vezes, feita com amostras pequenas e patrocínio da própria indústria.</p>
+
+<p>Não há evidência sólida de que o procedimento recupere o cabelo de forma permanente ou melhore a saúde do couro cabeludo. Essa diferença é importante para evitar expectativas exageradas.</p>
 <p>Benefícios de hidratação e de proteção contra o calor são mais bem compreendidos quando se pensa na rotina completa do cabelo, que inclui lavagem adequada, proteção térmica e cortes regulares. O tratamento de salão pode ser um complemento, mas não substitui esses cuidados básicos.</p>
-<p>Para quem percebe mudanças de textura ao longo dos anos, como fios mais secos e opacos, a origem costuma estar em fatores combinados, como exposição ao sol, uso frequente de calor, tintura e envelhecimento natural. Um exemplo é a alteração de cor e de textura que acompanha os <a href="/cabelos-brancos/">cabelos brancos</a>, que pedem uma rotina de cuidados diferente da de fios tingidos. Nesses casos, o ideal é ajustar a rotina inteira e não depender de um único procedimento.</p>
+<p>Para quem percebe mudanças de textura ao longo dos anos, como fios mais secos e opacos, a origem costuma estar em fatores combinados, como exposição ao sol, uso frequente de calor, tintura e envelhecimento natural.</p>
+
+<p>Um exemplo é a alteração de cor e de textura que acompanha os <a href="/cabelos-brancos/">cabelos brancos</a>, que pedem uma rotina de cuidados diferente da de fios tingidos. Nesses casos, o ideal é ajustar a rotina inteira e não depender de um único procedimento.</p>
 <p>Também vale considerar o custo e a frequência. Como o efeito é temporário, a manutenção pode se tornar recorrente e pesar no orçamento. Comparar esse gasto com o de produtos de uso diário e com a orientação de um cabeleireiro de confiança ajuda a tomar uma decisão mais consciente.</p>
 
 <h2>Limitações e efeitos indesejados</h2>
@@ -46,7 +62,9 @@ FOTO2_SECAO: 4
 
 <h2>Cuidados antes e depois da sessão</h2>
 <p>Antes da sessão, informe ao profissional sobre histórico de alergias, tratamentos químicos recentes, uso de medicamentos e condições de saúde, como problemas de pele no couro cabeludo. Se você fez descoloração, progressiva ou outra química há pouco tempo, o intervalo entre os procedimentos precisa ser planejado com cuidado.</p>
-<p>Depois do tratamento, siga as orientações de lavagem e evite produtos com alto teor de álcool ou sal, que podem ressecar os fios. Use protetor térmico ao secar e evite prender o cabelo com elásticos apertados logo após a sessão. Essas medidas ajudam a prolongar o efeito e a preservar a fibra.</p>
+<p>Depois do tratamento, siga as orientações de lavagem e evite produtos com alto teor de álcool ou sal, que podem ressecar os fios.</p>
+
+<p>Use protetor térmico ao secar e evite prender o cabelo com elásticos apertados logo após a sessão. Essas medidas ajudam a prolongar o efeito e a preservar a fibra.</p>
 <p>Se a intenção é tratar a queda de cabelo, o caminho é outro. Vale entender as causas antes de decidir, como explica o conteúdo sobre <a href="/queda-de-cabelo/">queda de cabelo</a>, que aborda fatores como hormônios, estresse e alterações nutricionais.</p>
 
 <h2>Quem deve ter cuidado especial</h2>
@@ -64,5 +82,7 @@ FOTO2_SECAO: 4
 <p>Em caso de inchaço no rosto, dificuldade para respirar ou dor forte, a orientação é buscar atendimento de urgência sem demora.</p>
 
 <h2>Resumindo</h2>
-<p>O botox capilar é um tratamento cosmético de salão que deixa os fios mais macios e com menos frizz por um período limitado. O nome pode confundir, porque o procedimento não é a toxina botulínica e não tem ação sobre o crescimento do cabelo. Os benefícios são sobretudo visuais, e a evidência científica para resultados duradouros é limitada.</p>
+<p>O botox capilar é um tratamento cosmético de salão que deixa os fios mais macios e com menos frizz por um período limitado. O nome pode confundir, porque o procedimento não é a toxina botulínica e não tem ação sobre o crescimento do cabelo.</p>
+
+<p>Os benefícios são sobretudo visuais, e a evidência científica para resultados duradouros é limitada.</p>
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Antes de qualquer tratamento capilar intenso, converse com um dermatologista ou com o seu cabeleireiro, informe o histórico de alergias e observe a reação do couro cabeludo e dos fios.</p>

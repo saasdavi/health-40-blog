@@ -15,7 +15,9 @@ FOTO2_ALT: Pessoa usando aparelho de medição de glicose, acompanhamento da gli
 FOTO2_LEGENDA: O monitoramento da glicemia orienta ajustes junto com a equipe de saúde.
 FOTO2_SECAO: 4
 ---
-<p>Dieta para diabetes tipo 2 é um plano alimentar que organiza refeições, porções e escolhas de carboidratos para ajudar a manter a glicemia dentro de faixas seguras. Não existe uma lista única de alimentos proibidos. O mais importante é a qualidade dos alimentos, a regularidade das refeições e o ajuste individual feito com a equipe de saúde.</p>
+<p>Dieta para diabetes tipo 2 é um plano alimentar que organiza refeições, porções e escolhas de carboidratos para ajudar a manter a glicemia dentro de faixas seguras.</p>
+
+<p>Não existe uma lista única de alimentos proibidos. O mais importante é a qualidade dos alimentos, a regularidade das refeições e o ajuste individual feito com a equipe de saúde.</p>
 
 <p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Ajustes de alimentação, de medicamentos e de atividade física devem ser combinados com o médico e, se possível, com um nutricionista, principalmente para quem usa remédios que reduzem a glicose.</p>
 
@@ -40,7 +42,9 @@ FOTO2_SECAO: 4
 
 <p>Esses princípios valem para a maioria das pessoas, mas o plano final precisa considerar peso, medicamentos, rotina, preferências e outras doenças.</p>
 
-<p>Uma mudança que costuma ser bem recebida é trocar o modo de servir. Colocar primeiro os legumes e a salada no prato, depois a proteína e só então o carboidrato, altera a velocidade com que a glicose sobe após a refeição. É uma estratégia simples, sem necessidade de cortar nada, e fácil de repetir em casa e fora dela.</p>
+<p>Uma mudança que costuma ser bem recebida é trocar o modo de servir. Colocar primeiro os legumes e a salada no prato, depois a proteína e só então o carboidrato, altera a velocidade com que a glicose sobe após a refeição.</p>
+
+<p>É uma estratégia simples, sem necessidade de cortar nada, e fácil de repetir em casa e fora dela.</p>
 
 <p>Também é importante ler os rótulos com atenção. Termos como açúcar, xarope, maltodextrina e mel aparecem em muitos produtos industrializados, e o consumo frequente desses itens pode passar despercebido. Pães, biscoitos e cereais matinais merecem atenção especial.</p>
 
@@ -80,7 +84,9 @@ FOTO2_SECAO: 4
 
 <p>Em dias de exercício mais intenso, o plano alimentar pode precisar de ajustes. Por isso, vale conversar com a equipe antes de mudanças grandes na rotina de treinos.</p>
 
-<p>Muitas pessoas com diabetes tipo 2 também se beneficiam de apoio emocional. Lidar com um diagnóstico crônico pode gerar preocupação, cansaço com as restrições e sensação de estar sempre sendo cobrado. Conversar com a equipe sobre essas dificuldades faz parte do cuidado e ajuda a manter o plano por mais tempo.</p>
+<p>Muitas pessoas com diabetes tipo 2 também se beneficiam de apoio emocional. Lidar com um diagnóstico crônico pode gerar preocupação, cansaço com as restrições e sensação de estar sempre sendo cobrado.</p>
+
+<p>Conversar com a equipe sobre essas dificuldades faz parte do cuidado e ajuda a manter o plano por mais tempo.</p>
 
 <p>Vale ainda lembrar que o cuidado com a alimentação deve considerar a família. Quando quem mora com a pessoa também muda hábitos, como servir mais legumes, trocar a bebida adoçada da mesa e preparar refeições com menos frituras, a adesão ao plano tende a ser maior e menos solitária.</p>
 

@@ -4,7 +4,7 @@ DESCRIPTION: Vitamina de cavalo no cabelo: por que produtos veterinários não s
 FONTE: crmvrj.org.br | https://crmvrj.org.br
 FONTE: PubMed (National Library of Medicine) | https://pubmed.ncbi.nlm.nih.gov
 CAPA_BUSCA: horse close up mane
-CAPA_ALT: Cavalo de perto, associado a suplementos veterinários que circulam na internet
+CAPA_ALT: Cavalo de perto, associado à vitamina de cavalo no cabelo e a produtos veterinários
 FOTO1_BUSCA: veterinarian with animal
 FOTO1_ALT: Veterinária examinando um animal em clínica, lembrando que produtos veterinários têm outra finalidade
 FOTO1_LEGENDA: Produtos feitos para animais não passam pelos mesmos critérios usados para pessoas.

@@ -1,5 +1,5 @@
 PALAVRA_CHAVE: azeite de oliva no cabelo
-TITLE: Azeite de oliva no cabelo: o que dizem as evidências
+TITLE: Azeite de oliva no cabelo: o que a ciência diz
 DESCRIPTION: Azeite de oliva no cabelo: benefícios possíveis, riscos para o couro cabeludo e cuidados antes de usar. Entenda o que a ciência ainda não comprova.
 FONTE: American Family Physician, Hair Loss: Diagnosis and Treatment | https://www.aafp.org/afp/2024/0900/hair-loss
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
@@ -16,13 +16,14 @@ FOTO2_SECAO: 4
 ---
 <p>O azeite de oliva no cabelo é um cuidado caseiro muito citado, sobretudo para pontas ressecadas. Ele pode deixar os fios macios e com aparência de brilho, mas não há evidência robusta de que trate queda ou fortaleça a raiz. Veja o que se sabe e quais cuidados tomar.</p>
 <h2>O que se sabe sobre azeite de oliva no cabelo</h2>
-<p>Quando se fala em azeite de oliva no cabelo, a maior parte das recomendações vem de dicas populares, relatos pessoais e vídeos de cuidados caseiros. Isso não significa que o tema seja sem utilidade, mas pede cautela. O azeite é um óleo rico em ácidos graxos, e óleos vegetais em geral são usados em produtos capilares pelo efeito de cobertura sobre a fibra.</p>
+<p>Quando se fala em azeite de oliva no cabelo, a maior parte das recomendações vem de dicas populares, relatos pessoais e vídeos de cuidados caseiros.</p>
+<p>Isso não significa que o tema seja sem utilidade, mas pede cautela. O azeite é um óleo rico em ácidos graxos, e óleos vegetais em geral são usados em produtos capilares pelo efeito de cobertura sobre a fibra.</p>
 <p>Na prática, o óleo tende a deixar as pontas mais macias, reduzir o atrito ao pentear e dar uma aparência de brilho. Esse efeito é de superfície. Ele não altera a estrutura interna do fio nem muda a velocidade com que o cabelo cresce.</p>
 <p>Vale separar três perguntas: o azeite hidrata, protege ou trata? A resposta mais honesta é que ele pode ajudar a hidratar a fibra de forma temporária e pode reduzir o ressecamento causado por calor e atrito. Não há estudos clínicos consistentes que mostrem tratamento de problemas capilares com ele.</p>
 <h2>Hidratação e brilho: a parte que costuma funcionar</h2>
 <p>O cabelo com pontas abertas ou muito secas costuma se beneficiar de algum óleo aplicado com moderação. Nesse cenário, o azeite cumpre um papel parecido com o de outros óleos vegetais, criando uma película que reduz a perda de água da fibra.</p>
 <p>A resposta depende da porosidade do fio. Cabelos muito porosos, que absorvem a água rapidamente e secam com facilidade, tendem a notar mais diferença. Já um cabelo fino e oleoso pode ficar pesado com pouca quantidade, e o resultado pode ser o oposto do esperado.</p>
-<p>Quem tem fios cacheados, crespos ou muito submetidos a secador e chapinha também costuma perceber mais maciez. Para quem tem fios grisalhos ou com alterações de cor, o cuidado com hidratação ajuda a manter a aparência saudável, mas não reverte a mudança de pigmento. Para entender essa mudança, leia sobre <a href="/cabelos-brancos/">cabelos brancos</a>.</p>
+<p>Quem tem fios cacheados, crespos ou muito submetidos a secador e chapinha também costuma perceber mais maciez. Para quem tem fios grisalhos, a hidratação ajuda na aparência, mas não reverte a mudança de pigmento.</p>
 <h2>Riscos para o couro cabeludo</h2>
 <p>O maior cuidado com o azeite está no couro cabeludo, e não nas pontas. Quando o óleo é aplicado em excesso ou não é bem removido, pode se acumular na raiz, deixando a região oleosa e atraindo sujeira e células mortas.</p>
 <p>Esse acúmulo pode favorecer irritação, coceira e descamação. Em algumas pessoas, o óleo também provoca reação alérgica ou dermatite de contato, com vermelhidão e ardência. Nesses casos, a suspensão imediata do uso é o primeiro passo.</p>
@@ -41,13 +42,14 @@ FOTO2_SECAO: 4
 <h2>Azeite de oliva e queda de cabelo</h2>
 <p>Muita gente procura o azeite justamente quando percebe queda de cabelo. Essa é a parte em que as informações precisam ser mais claras. A queda pode ter muitas causas, como alterações hormonais, deficiências nutricionais, estresse intenso, medicamentos, doenças da tireoide e predisposição genética.</p>
 <p>Nenhum desses fatores é resolvido por um óleo de cozinha aplicado na raiz. Além disso, algumas causas de queda pedem exames e acompanhamento, e a escolha do tratamento depende de avaliação individual. Quem decide o que fazer é o profissional que examina o paciente.</p>
-<p>Para entender os principais tipos e sinais de alerta, leia o texto sobre <a href="/queda-de-cabelo/">queda de cabelo</a>. Usar azeite como complemento de higiene é uma escolha pessoal, mas não deve substituir uma avaliação profissional quando a queda persiste.</p>
+<p>Para entender os principais tipos e sinais de alerta, leia o texto sobre <a href="/queda-de-cabelo/">queda de cabelo</a>. A alimentação também influencia os fios; veja <a href="/alimentos-ricos-em-ferro/">alimentos ricos em ferro</a>. Usar azeite como complemento de higiene é uma escolha pessoal, mas não deve substituir uma avaliação profissional quando a queda persiste.</p>
 <h2>Por que as evidências ainda são limitadas</h2>
 <p>Não há, até o momento, ensaios clínicos amplos que tenham testado o azeite de oliva como tratamento para o cabelo. A maior parte do que circula são relatos de experiência e conteúdos de divulgação, muitos deles feitos por empresas que vendem produtos capilares.</p>
 <p>Isso torna importante ler as fontes com atenção. Publicações científicas e de sociedades médicas costumam apontar que as causas de queda são variadas e que a abordagem depende do diagnóstico feito por um profissional.</p>
 <p>Quando um texto promete resultado rápido e certo, a recomendação é desconfiar. Um bom material informa limites, riscos e situações em que é preciso buscar ajuda, e não apenas os benefícios percebidos por quem gostou do produto.</p>
 <p>Em resumo, o que se pode afirmar com segurança é que o azeite pode ser usado como hidratante simples por quem tolera bem o produto. Qualquer afirmação além disso precisa de comprovação.</p>
-<p>Vale lembrar que o azeite extra virgem, usado na cozinha, tem composição diferente de produtos feitos para o cabelo, que incluem outros ingredientes para textura e conservação. Quem decide usar o óleo de cozinha deve estar ciente de que ele não passou pelos mesmos testes de tolerância que os cosméticos capilares.</p>
+<p>Vale lembrar que o azeite extra virgem, usado na cozinha, tem composição diferente de produtos feitos para o cabelo, que incluem outros ingredientes para textura e conservação.</p>
+<p>Quem decide usar o óleo de cozinha deve estar ciente de que ele não passou pelos mesmos testes de tolerância que os cosméticos capilares.</p>
 <p>Se a intenção é apenas deixar o cabelo mais macio após a lavagem, a aplicação de poucas gotas nas pontas, antes de secar, costuma ser suficiente. Excesso de óleo não traz mais brilho e tende a deixar o fio pesado, obrigando a lavagens mais frequentes.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>O azeite de oliva faz o cabelo crescer mais rápido?</strong></p>
