@@ -34,6 +34,7 @@ for (const nome of arquivos) {
     const fontes = [...raw.slice(0, raw.indexOf('\n---\n')).matchAll(/^FONTE:\s*(.+?)\s*\|\s*(https?:\/\/\S+)\s*$/gm)].map((m) => ({ title: m[1], url: m[2], texto: '' }));
     if (fontes.length < 2) throw new Error(`só ${fontes.length} FONTE(s); mínimo 2 (formato: FONTE: Título | https://...)`);
     const pauta = robot.kw.find((k) => k.keyword.toLowerCase() === keyword.toLowerCase()) || { keyword, volume: null, cluster: get('CLUSTER') || null };
+    if (get('SLUG')) pauta.slug = get('SLUG'); // artigo revisado que substitui um do estoque com outro endereço
     if (pauta.sensivel && pauta.revisar && get('REVISADO') !== 'sim') throw new Error('pauta sensível: precisa de revisão humana (adicione "REVISADO: sim" no cabeçalho depois de revisar)');
     if (/<Article[A-Za-z]*|<hr\b|<h1\b/i.test(d.body)) throw new Error('o HTML tem componentes de código (<Article...>), <hr> ou <h1>: peça à IA HTML simples (veja data/entrada/MODELO-PARA-A-IA.md)');
     const cab = raw.slice(0, raw.indexOf('\n---\n'));
