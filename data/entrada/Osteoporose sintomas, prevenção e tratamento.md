@@ -1,0 +1,76 @@
+PALAVRA_CHAVE: osteoporose
+TITLE: Osteoporose: sintomas, prevenção e tratamento
+DESCRIPTION: Entenda o que é a osteoporose, quais são os sintomas, como prevenir a perda óssea com cálcio e exercícios e quando procurar um médico.
+CAPA_BUSCA: elderly woman walking with cane in park
+CAPA_ALT: Mulher idosa caminhando com bengala em um parque
+FOTO1_BUSCA: doctor showing bone density scan to patient
+FOTO1_ALT: Médico mostrando exame de densitometria óssea para paciente
+FOTO1_LEGENDA: A densitometria óssea mede a densidade mineral dos ossos
+FOTO1_SECAO: 3
+FOTO2_BUSCA: glass of milk and dairy products on table
+FOTO2_ALT: Copo de leite e derivados sobre a mesa
+FOTO2_LEGENDA: Alimentos ricos em cálcio ajudam a manter a massa óssea
+FOTO2_SECAO: 4
+FONTE: Osteoporosis: What you need to know | https://magazine.medlineplus.gov/article/osteoporosis-what-you-need-to-know
+FONTE: Osteoporose: saiba mais sobre a doença | https://bvsms.saude.gov.br/osteoporose-saiba-mais-sobre-a-doenca-e-sobre-como-se-proteger/
+FONTE: World Osteoporosis Day: Simple ways to prevent osteoporosis | https://www.who.int/news-room/events/detail/2019/10/20/default-calendar/world-osteoporosis-day
+CONCORRENTE: Osteoporose: o que é, sintomas, causas e tratamento | https://www.tuasaude.com/osteoporose/ | alta
+CONCORRENTE: Como prevenir a osteoporose na terceira idade | https://drauziovarella.uol.com.br/ | alta
+CONCORRENTE: MedlinePlus: Osteoporosis | https://medlineplus.gov/spanish/osteoporosis.html | alta
+CONCORRENTE: Minha Vida - Osteoporose: alimentos ricos em cálcio | https://www.minhavida.com.br/ | alta
+CONCORRENTE: SciELO Brasil - Prevenção e tratamento da osteoporose pós-menopausa | https://scielo.br/ | alta
+LACUNA: Conexão entre perda de massa óssea e alterações metabólicas da menopausa
+LACUNA: Orientação prática sobre quais exames detectam a osteoporose precocemente
+LACUNA: Diferenciação entre osteopenia e osteoporose
+---
+<p>A osteoporose é uma doença que torna os ossos frágeis e mais propensos a fraturas. Ela evolui silenciosamente por anos, sem sintomas, até que uma queda cause uma fratura. A prevenção começa cedo, com alimentação rica em cálcio e exercícios regulares.</p>
+
+<h2>O que é osteoporose e por que ela é chamada de doença silenciosa?</h2>
+<p>A osteoporose é uma condição em que a massa óssea diminui e a estrutura interna dos ossos se deteriora. Isso os torna porosos e frágeis, como uma esponja seca. O resultado é um risco maior de fraturas, especialmente no quadril, na coluna e no punho.</p>
+<p>Ela é chamada de doença silenciosa porque não causa sintomas na fase inicial. A pessoa só descobre que tem osteoporose quando sofre uma fratura, muitas vezes após uma queda simples ou até durante atividades rotineiras como caminhar ou se abaixar.</p>
+<p>O osso é um tecido vivo que está sempre sendo renovado. Até os 30 anos, o corpo constrói mais osso do que perde. Depois disso, a perda começa a superar a formação. Na osteoporose, essa perda acontece de forma acelerada, deixando os ossos vulneráveis.</p>
+
+<h2>Quais são os sintomas da osteoporose?</h2>
+<p>Na maioria dos casos, a osteoporose não causa dor nem outros sinais perceptíveis. Os sintomas aparecem apenas quando já houve perda significativa de massa óssea ou quando ocorre uma fratura.</p>
+<p>Quando os ossos da coluna se enfraquecem, podem surgir fraturas por compressão. Isso causa dor nas costas, perda de altura e uma curvatura na coluna conhecida como corcunda. As fraturas de quadril são especialmente graves e podem levar à perda de mobilidade.</p>
+<ul>
+<li><strong>Dor nas costas</strong>: causada por fraturas vertebrais.</li>
+<li><strong>Perda de altura</strong>: redução de estatura com o tempo.</li>
+<li><strong>Postura curvada</strong>: inclinação para frente na parte superior das costas.</li>
+<li><strong>Fraturas fáceis</strong>: ossos que quebram com quedas leves ou impactos pequenos.</li>
+</ul>
+<p>É importante lembrar que a ausência de sintomas não significa ossos saudáveis. Por isso, a avaliação médica e os exames de imagem são fundamentais para detectar a doença precocemente.</p>
+
+<h2>Quais os exames para detectar a osteoporose precocemente?</h2>
+<p>O exame padrão para diagnosticar a osteoporose é a densitometria óssea. Ele mede a quantidade de mineral nos ossos, principalmente na coluna lombar e no colo do fêmur. O resultado é expresso em um valor chamado T-score.</p>
+<p>O T-score compara a densidade óssea da pessoa com a de um adulto jovem saudável. Valores entre -1 e -2,5 indicam osteopenia, que é a perda leve de massa óssea. Valores abaixo de -2,5 confirmam a osteoporose.</p>
+<p>Além da densitometria, o médico pode solicitar exames de sangue para medir cálcio, vitamina D e hormônios como o estrogênio e o paratormônio. Esses exames ajudam a identificar causas secundárias da perda óssea e a orientar o tratamento.</p>
+<p>A densitometria é recomendada para mulheres a partir dos 65 anos e para homens a partir dos 70. Em pessoas com fatores de risco, como histórico familiar de fraturas ou uso prolongado de corticoides, o exame pode ser feito mais cedo.</p>
+
+<h2>Alimentos ricos em cálcio evitam a perda óssea?</h2>
+<p>O cálcio é o mineral mais importante para a saúde dos ossos. Uma alimentação adequada em cálcio ajuda a construir e manter a massa óssea, mas não impede sozinha a perda que ocorre com a idade. Ela é parte essencial da prevenção, junto com a vitamina D e os exercícios.</p>
+<p>As principais fontes de cálcio são o leite e seus derivados, como iogurte e queijo. Para quem não consome laticínios, existem opções como tofu, sardinha com espinha, couve, brócolis e gergelim. Alguns alimentos são fortificados com cálcio, como certos cereais e bebidas vegetais.</p>
+<p>A vitamina D é fundamental porque ajuda o intestino a absorver o cálcio. Ela é produzida na pele pela exposição ao sol e também está presente em peixes gordos, gema de ovo e alimentos fortificados. A exposição solar de 15 minutos, antes das 10 horas ou após as 16 horas, auxilia na produção de vitamina D.</p>
+<p>Quando a alimentação não é suficiente, o médico pode indicar suplementos de cálcio e vitamina D. A suplementação só deve ser feita com orientação profissional, pois o excesso de cálcio pode causar problemas renais e cardíacos. Pessoas com histórico de cálculos renais precisam de atenção especial.</p>
+
+<h2>Qual o melhor exercício para fortalecer os ossos?</h2>
+<p>Os exercícios de sustentação de peso são os mais eficazes para estimular a formação óssea. Eles incluem caminhada, corrida leve, dança, subir escadas e musculação. A força que o corpo exerce contra a gravidade estimula as células ósseas a se renovarem.</p>
+<p>A musculação é especialmente benéfica porque fortalece os músculos e os ossos ao mesmo tempo. O treinamento de resistência, com pesos ou faixas elásticas, melhora a densidade mineral óssea e reduz o risco de quedas ao aumentar a força e o equilíbrio.</p>
+<p>Para quem já tem osteoporose, exercícios de alto impacto devem ser evitados por causa do risco de fraturas. Nesses casos, caminhadas de 30 a 45 minutos, três a quatro vezes por semana, são uma opção segura. Exercícios de equilíbrio, como tai chi, também ajudam a prevenir quedas.</p>
+<p>Antes de iniciar qualquer programa de exercícios, é importante consultar um médico. Ele pode avaliar o estado dos ossos e indicar as atividades mais adequadas para cada caso. A atividade física regular, adaptada à condição de cada pessoa, é uma das melhores formas de proteger os ossos.</p>
+
+<h2>O que é osteopenia e qual a diferença para osteoporose?</h2>
+<p>A osteopenia é uma condição intermediária, em que a densidade óssea está abaixo do normal, mas ainda não atingiu o nível de osteoporose. Ela é diagnosticada quando o T-score fica entre -1 e -2,5 na densitometria óssea.</p>
+<p>Nem toda pessoa com osteopenia vai desenvolver osteoporose, mas o risco é maior. Por isso, o acompanhamento médico e as medidas de prevenção são importantes nessa fase. A progressão depende de fatores como alimentação, exercícios, uso de medicamentos e condições de saúde.</p>
+<p>O tratamento da osteopenia envolve mudanças no estilo de vida, como aumentar a ingestão de cálcio e vitamina D e praticar exercícios regularmente. Em alguns casos, o médico pode indicar medicamentos para evitar a perda óssea adicional.</p>
+
+<h2>Quando procurar um médico</h2>
+<p>Procure um médico se você tem fatores de risco para osteoporose, como histórico familiar de fraturas, menopausa precoce, uso prolongado de corticoides ou baixo peso. Também é importante buscar ajuda se você sofreu uma fratura com pouco impacto ou se notou perda de altura e dor nas costas.</p>
+<p>O ortopedista, o ginecologista, o endocrinologista e o geriatra estão habilitados a investigar e tratar a osteoporose. O diagnóstico precoce permite iniciar o tratamento antes que ocorram fraturas graves. Nunca inicie suplementos ou medicamentos por conta própria.</p>
+<p>Pessoas com problemas renais, histórico de cálculos ou que usam medicamentos contínuos devem conversar com o médico antes de iniciar qualquer suplementação. O excesso de cálcio e vitamina D pode causar efeitos adversos, e a dose adequada varia para cada pessoa.</p>
+
+<h2>Resumindo</h2>
+<p>A osteoporose é uma doença silenciosa que enfraquece os ossos e aumenta o risco de fraturas. Ela não causa sintomas na fase inicial, e o diagnóstico é feito pela densitometria óssea. A prevenção inclui alimentação rica em cálcio, vitamina D e exercícios de sustentação de peso.</p>
+<p>Se você tem fatores de risco ou já passou da idade recomendada para o exame, procure um médico para avaliação. O tratamento pode envolver suplementação, medicamentos e mudanças no estilo de vida. Cuidar dos ossos é uma forma de manter a independência e a qualidade de vida ao longo dos anos.</p>
+
+<p>NÃO VERIFIQUEI: Não consegui abrir os links da BVS Ministério da Saúde e da WHO para confirmar o conteúdo exato. As informações sobre densitometria e valores de T-score foram baseadas em conhecimento geral de saúde. As afirmações sobre exercícios e alimentação são baseadas nas fontes listadas, mas não verifiquei cada número ou recomendação específica.</p>
