@@ -27,5 +27,5 @@ REVISADO: sim   (só para tema sensível já revisado por pessoa)
 ## Pastas de `data/entrada/`
 - **(raiz)** só os `.txt` que ainda vão ser importados (a fila do importador) e os guias (`LEIA-ME.md`, `MODELO-PARA-A-IA.md`, `PROMPT-*.md`, `TESTE-DA-IA.md`). O importador lê apenas os `.txt` desta pasta.
 - **`processados/`** `.txt` que já foram importados para o estoque.
-- **`pendentes-revisao/`** artigos reprovados (bloqueio de segurança) ou deixados de fora de propósito, cada um com o seu `.relatorio.md`. Precisam de reescrita antes de voltar para a raiz.
+- **`pendentes-revisao/`** artigos deixados de fora de propósito (marca, dose de suplemento ou palavra-chave que repete outro artigo), cada um com o seu `.relatorio.md`. Precisam de ajuste antes de voltar para a raiz. Os 31 artigos com bloqueio de segurança (promessa de cura etc.) foram retirados do repositório para edição à parte.
 - **`originais/`** os arquivos `.html` e `.md` originais, como foram enviados, antes da conversão para `.txt`. Guardados só como referência; nada os lê.
