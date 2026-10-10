@@ -24,7 +24,7 @@ FOTO2_SECAO: 4
 <p>A biotina é uma vitamina essencial. Sua falta é rara e costuma estar ligada a condições específicas, como alterações genéticas do metabolismo ou uso de algumas substâncias. Nesses cenários, a reposição é indicada por profissional.</p>
 <p>Para cabelo, uma revisão sistemática reuniu estudos sobre suplementação em pacientes com alopecia e apontou que a qualidade das evidências ainda é limitada. Muitos trabalhos têm amostra pequena, curta duração ou falta de grupo controle.</p>
 <p>Em resumo, a leitura mais honesta é que a biotina pode ter papel em casos de carência comprovada, mas não há base para recomendá-la como solução geral para cabelo fraco ou queda.</p>
-<h2>Critérios para avaliar um suplemento de biotina</h2>
+<h2>Biotina valor: critérios para avaliar um suplemento</h2>
 <p>Antes de comprar, observe alguns pontos que indicam seriedade do produto. O rótulo deve trazer composição completa, identificação do fabricante, advertências e orientação de uso clara, sem promessas de resultado.</p>
 <ul>
 <li>Registro ou notificação na Anvisa, quando aplicável ao tipo de produto.</li>
@@ -39,11 +39,18 @@ FOTO2_SECAO: 4
 <h2>Como pensar no custo-benefício de forma racional</h2>
 <p>Ao avaliar custo-benefício, considere o que você espera do suplemento e o que a ciência mostra para isso. Se a expectativa é melhorar o cabelo e não há evidência clara para esse uso, gastar com o produto pode não trazer retorno.</p>
 <p>Uma alimentação variada, com ovos cozidos, castanhas, sementes e leguminosas, costuma atender às necessidades de biotina da maioria das pessoas. Esse é um caminho de baixo custo e que dispensa a suplementação sem indicação.</p>
+<p>Outro cuidado é não confundir sintomas de carência com problemas que exigem outra abordagem. Cansaço, cabelo fino e unhas frágeis têm muitas causas, e algumas delas são tratáveis sem qualquer suplemento. Antes de gastar com um produto, vale perguntar ao profissional se há indicação para investigar outras explicações, como ferro baixo, alterações da tireoide e mudanças hormonais.</p>
+<p>Esse cuidado evita um erro comum: tratar um sintoma com o produto mais conhecido, quando o problema real está em outro lugar. Para entender como a falta de ferro se manifesta, leia sobre <a href="/ferro-baixo-sintomas/">ferro baixo e seus sintomas</a>, que descreve os sinais de alerta mais frequentes.</p>
+<p>Também é importante considerar a rotina de quem usa o suplemento. Pessoas que tomam vários produtos ao mesmo tempo, como multivitamínicos, complexos e outros itens da farmácia, podem somar nutrientes sem perceber. Essa soma pode interferir em exames e aumentar a chance de efeitos indesejados, mesmo que cada item pareça inofensivo isoladamente.</p>
+<p>Por isso, a lista completa de produtos em uso deve ser levada à consulta. Anote nomes, frequência e motivo do uso. Esse registro simples ajuda o profissional a avaliar a necessidade real e a decidir se algum item deve ser retirado.</p>
+<p>No dia a dia, a melhor forma de avaliar custo-benefício é perguntar três coisas: o produto tem indicação para o meu caso, há evidência para o uso que pretendo e existe um plano de acompanhamento? Se a resposta for não para alguma dessas perguntas, a compra tende a ser um gasto sem retorno, independentemente do valor.</p>
+<p>Uma atitude prática é desconfiar de comparações baseadas apenas em preço por unidade ou em promoções. Elas dizem pouco sobre a qualidade do conteúdo, a adequação à sua condição e o risco de interferência em exames. O ideal é que a escolha seja feita com informação, e não com base em urgência ou em vídeos de divulgação.</p>
+<p>Lembre também que a biotina é apenas um nutriente entre vários. Quando a alimentação está equilibrada e não há carência comprovada, o organismo costuma manter o equilíbrio sem ajuda extra. Nesse cenário, o suplemento pode representar um custo desnecessário e um fator de confusão nos exames.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Vale a pena tomar biotina para cabelo?</strong></p>
 <p>Para quem não tem deficiência, a evidência é insuficiente. A decisão deve ser discutida com um profissional.</p>
 <p><strong>Como saber se um suplemento é confiável?</strong></p>
-<p>Verifique o rótulo, o registro e as advertências. Desconfie de promessas de resultado rápido ou garantido.</p>
+<p>Verifique o rótulo, o registro e as advertências. Desconfie de promessas de resultado rápido e certo.</p>
 <p><strong>O preço mais alto significa maior qualidade?</strong></p>
 <p>Não necessariamente. O valor cobrado não é indicador confiável de eficácia ou segurança.</p>
 <h2>Quando procurar um médico</h2>

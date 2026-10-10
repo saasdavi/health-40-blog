@@ -1,252 +1,118 @@
 PALAVRA_CHAVE: como lavar o cabelo corretamente
-TITLE: Como Lavar o Cabelo Corretamente: Passo a Passo
-DESCRIPTION: Aprenda como lavar o cabelo corretamente, a ordem dos produtos, se shampoo duas vezes é certo, temperatura da água, Co-Wash e filtro de chuveiro.
-FONTE: loreal-paris.com.br | https://loreal-paris.com.br
-FONTE: seda.com.br | https://seda.com.br
-FONTE: blog.oceane.com.br | https://blog.oceane.com.br
-CAPA_BUSCA: woman hair care brush
-CAPA_ALT: Cuidados com os cabelos sobre como lavar o cabelo corretamente
-FOTO1_BUSCA: dermatologist scalp examination
-FOTO1_ALT: Avaliação do couro cabeludo relacionado a como lavar o cabelo corretamente
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+TITLE: Como lavar o cabelo corretamente: passo a passo
+DESCRIPTION: Como lavar o cabelo corretamente, passo a passo: frequência ideal, escolha do xampu, água morna, condicionador e secagem, com cuidados para o couro cabeludo.
+FONTE: Sociedade Brasileira de Dermatologia (SBD) | https://www.sbd.org.br
+FONTE: Ministério da Saúde | https://www.gov.br/saude
+CAPA_BUSCA: woman washing hair in shower
+CAPA_ALT: Mulher lavando o cabelo no banho, ilustrando como lavar o cabelo corretamente
+FOTO1_BUSCA: shampoo bottle and hair care products
+FOTO1_ALT: Frascos de xampu e condicionador sobre a bancada do banheiro, cuidados com os fios
+FOTO1_LEGENDA: A escolha do produto importa menos que a técnica de aplicação e enxágue.
 FOTO1_SECAO: 2
+FOTO2_BUSCA: woman drying hair with towel
+FOTO2_ALT: Mulher secando os cabelos com toalha macia, etapa final de uma lavagem cuidadosa
+FOTO2_LEGENDA: Secar com delicadeza reduz o atrito e protege os fios.
+FOTO2_SECAO: 4
 ---
-<div id="container-imagem-capa" class="loading">Carregando imagem...</div>
+<p>Como lavar o cabelo corretamente? A resposta envolve três decisões simples: com que frequência lavar, qual produto usar e como aplicar e enxaguar. Uma lavagem bem feita limpa o couro cabeludo, respeita a oleosidade natural e deixa os fios macios, sem agressões desnecessárias. Após os 40 anos, esses cuidados ganham ainda mais importância.</p>
 
-<p>Saber <strong>como lavar o cabelo corretamente</strong> é a base de qualquer rotina capilar eficaz. Muitos problemas atribuídos a produtos caros — quebra, oleosidade excessiva, ressecamento e falta de brilho — vêm, na verdade, de erros simples na hora da lavagem. Temperatura da água, quantidade de shampoo, ordem dos produtos e até o tipo de toalha utilizada influenciam diretamente o resultado. Este guia reúne o passo a passo completo baseado em recomendações dermatológicas e de tricologia, responde às dúvidas mais comuns (como lavar duas vezes e por que não passar condicionador na raiz), e cobre temas pouco explorados, como a técnica de Co-Wash, o intervalo de lavagem ideal para cada tipo de curvatura e o acúmulo de metais pesados na água do chuveiro.</p>
+<p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Se houver coceira intensa, queda acentuada, feridas ou descamação persistente no couro cabeludo, procure um dermatologista antes de mudar a rotina.</p>
 
-<h2>Qual É a Ordem Correta de Lavar o Cabelo com os Produtos?</h2>
+<h2>Como lavar o cabelo corretamente: a frequência certa</h2>
 
-<p>A ordem correta é: shampoo, máscara de tratamento, condicionador. Essa sequência respeita a função de cada produto e otimiza os resultados.</p>
+<p>Não existe uma regra única. A frequência ideal depende do tipo de cabelo, da oleosidade do couro cabeludo, do clima e da rotina de atividade física. Quem tem o couro cabeludo mais oleoso costuma precisar de lavagens mais frequentes, enquanto cabelos secos e cacheados podem ser lavados com menos frequência.</p>
 
-<p>O shampoo abre as cutículas e remove resíduos. A máscara penetra no córtex e fornece nutrientes, umectantes ou proteínas, dependendo do tipo. O condicionador fecha as cutículas e sela o tratamento, garantindo brilho e maciez. Se o condicionador for usado antes da máscara, ele cria uma barreira que impede a penetração dos ativos da máscara.</p>
+<p>Lavar em excesso com produtos fortes pode ressecar o couro cabeludo e aumentar a irritação. Já deixar de lavar por muito tempo favorece acúmulo de oleosidade, suor e resíduos de produtos, o que também causa desconforto.</p>
 
-<p>Após o banho, a ordem é: retirar o excesso de água com toalha, aplicar o leave-in ou creme de pentear, aplicar protetor térmico (se for usar secador ou chapinha) e só então finalizar com secagem ou modelagem. Produtos de finalização aplicados antes do leave-in não aderem corretamente ao fio.</p>
+<h2>Escolha do xampu e do condicionador</h2>
 
-<h3>Tabela: Ordem Correta dos Produtos na Lavagem</h3>
-
-<table>
-<thead>
-<tr>
-<th>Etapa</th>
-<th>Produto</th>
-<th>Função</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>Shampoo</td>
-<td>Abrir cutículas e remover resíduos</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Máscara de tratamento</td>
-<td>Penetrar no córtex (hidratação, nutrição ou reconstrução)</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Condicionador</td>
-<td>Fechar cutículas e selar o tratamento</td>
-</tr>
-<tr>
-<td>4 (fora do banho)</td>
-<td>Leave-in / creme de pentear</td>
-<td>Hidratar, desembaraçar e modelar</td>
-</tr>
-<tr>
-<td>5 (fora do banho)</td>
-<td>Protetor térmico</td>
-<td>Proteger contra o calor do secador e da chapinha</td>
-</tr>
-</tbody>
-</table>
-
-<div id="container-imagem-1" class="loading">Carregando imagem...</div>
-
-<h2>É Certo Passar Shampoo Duas Vezes na Lavagem?</h2>
-
-<p>Depende da quantidade de resíduos no cabelo. O shampoo duas vezes é indicado quando o couro cabeludo está oleoso, com muito produto acumulado (leave-in, óleo, spray) ou após longos períodos sem lavagem. A primeira aplicação remove a sujeira superficial; a segunda limpa o couro cabeludo de fato.</p>
-
-<p>Para cabelos lavados com frequência (diária ou em dias alternados), uma única aplicação geralmente é suficiente. Lavar duas vezes todos os dias pode remover o sebo natural em excesso e provocar o efeito rebote: a raiz fica oleosa mais rapidamente porque o couro cabeludo entende que precisa repor a oleosidade retirada.</p>
-
-<p>Um ponto essencial: o shampoo deve ser aplicado apenas no couro cabeludo. As pontas não precisam de shampoo — elas são limpas pela espuma que escorre durante o enxágue. Esfregar shampoo nas pontas resseca o fio e aumenta a quebra.</p>
-
-<h2>Por Que Não Devemos Passar Condicionador na Raiz do Cabelo?</h2>
-
-<p>O condicionador tem formulação rica em agentes condicionadores, óleos e silicones que se depositam na superfície do fio para fechá-lo e alisar as cutículas. Essa ação é benéfica no comprimento e nas pontas, que estão mais ressecados e precisam de selagem.</p>
-
-<p>Na raiz, porém, o condicionador entope os folículos, pesa o cabelo e estimula a produção de sebo. O resultado é couro cabeludo oleoso, coceira e, em alguns casos, queda por obstrução folicular. O condicionador deve ser aplicado a partir da metade do comprimento até as pontas, evitando dois dedos acima da raiz.</p>
-
-<p>Pessoas com cabelo muito seco podem usar o condicionador um pouco mais próximo da raiz, desde que evitem a área do couro cabeludo propriamente dita. Já para cabelos oleosos, a recomendação é usar condicionador apenas nas pontas.</p>
-
-<div id="container-imagem-2" class="loading">Carregando imagem...</div>
-
-<h2>Qual a Temperatura Ideal da Água para Lavar os Fios?</h2>
-
-<p>A temperatura ideal é a água morna (cerca de 37°C, próxima à temperatura corporal). Água quente em excesso abre as cutículas de forma agressiva, remove o manto hidrolipídico e desidrata o fio e o couro cabeludo, levando a ressecamento, quebra e irritação.</p>
-
-<p>Água muito fria não remove adequadamente a oleosidade e os resíduos de produto, especialmente em cabelos grossos ou com muito leave-in. A recomendação prática é:</p>
+<p>Ao escolher um xampu, observe o tipo de cabelo e as necessidades do couro cabeludo. Produtos suaves, sem fragrâncias fortes, costumam ser mais bem tolerados por quem tem pele sensível ou tendência à irritação. Na dúvida, prefira fórmulas simples e leia a lista de ingredientes com calma.</p>
 
 <ul>
-<li><strong>Comece e mantenha a lavagem com água morna:</strong> limpa sem agredir.</li>
-<li><strong>Finalize com água fria ou fria-morna:</strong> ajuda a fechar as cutículas, sela o tratamento e traz brilho.</li>
-<li><strong>Evite água muito quente:</strong> resseca o couro cabeludo e intensifica a oleosidade em resposta.</li>
+<li><strong>Couro cabeludo oleoso:</strong> xampus de limpeza suave, usados com mais frequência, sem excesso de esfregação.</li>
+<li><strong>Couro cabeludo seco:</strong> fórmulas hidratantes e menos agressivas, lavagens espaçadas.</li>
+<li><strong>Cabelos com química:</strong> produtos específicos para fios tratados, com atenção ao tempo de contato.</li>
+<li><strong>Condicionador:</strong> aplicar principalmente do meio até as pontas, deixando agir e enxaguando bem.</li>
 </ul>
 
-<p>O choque térmico entre a água morna e a fria é seguro e benéfico para o fio. Não é necessário lavar o cabelo inteiro com água gelada — o desconforto não traz benefício adicional.</p>
+<p>Na leitura dos rótulos, observe a ordem dos ingredientes e evite produtos que prometam resultados rápidos e definitivos. Textos publicitários costumam usar palavras como revolucionário ou transformação total, mas a saúde do cabelo depende de cuidados regulares e paciência. Quando o produto causa coceira ou ardência, a recomendação é suspender o uso e observar a evolução.</p>
 
-<h2>Frequência de Lavagem: Qual o Intervalo Ideal por Tipo de Cabelo?</h2>
+<p>Evite aplicar produtos muito agressivos diretamente sobre o couro cabeludo quando ele está irritado. Nessas situações, a melhor escolha costuma ser a mais neutra.</p>
 
-<p>Não existe uma frequência universal. O intervalo ideal depende do tipo de couro cabeludo (oleoso, seco, normal) e da curvatura capilar. Cabelos crespos tendem a ser naturalmente mais secos porque o sebo produzido na raiz tem dificuldade de percorrer a haste encaracolada.</p>
+<h2>Passo a passo para uma lavagem bem feita</h2>
 
-<h3>Tabela: Frequência de Lavagem por Tipo de Cabelo</h3>
-
-<table>
-<thead>
-<tr>
-<th>Tipo de Cabelo</th>
-<th>Frequência Recomendada</th>
-<th>Observação</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Liso oleoso</td>
-<td>Diária ou em dias alternados</td>
-<td>Uso de shampoo suave para evitar efeito rebote</td>
-</tr>
-<tr>
-<td>Liso seco</td>
-<td>2 a 3 vezes por semana</td>
-<td>Uso de shampoo sem sulfato pode ajudar</td>
-</tr>
-<tr>
-<td>Ondulado</td>
-<td>2 a 3 vezes por semana</td>
-<td>Intercalar com Co-Wash em dias alternados</td>
-</tr>
-<tr>
-<td>Cacheado (2C a 3B)</td>
-<td>1 a 2 vezes por semana</td>
-<td>Co-Wash entre as lavagens com shampoo</td>
-</tr>
-<tr>
-<td>Crespo (3C a 4C)</td>
-<td>1 vez por semana ou a cada 10 dias</td>
-<td>Pré-poo e umectação antes da lavagem com shampoo</td>
-</tr>
-</tbody>
-</table>
-
-<p><em>Observação: cabelos com couro cabeludo oleoso podem exigir lavagem mais frequente, mesmo com curvatura. O importante é respeitar a resposta do couro cabeludo, não a regra fixa.</em></p>
-
-<div id="container-imagem-3" class="loading">Carregando imagem...</div>
-
-<h2>O Que É Co-Wash e Quando Ele É Benéfico?</h2>
-
-<p>Co-Wash (do inglês <em>conditioner washing</em>) é a técnica de lavar o cabelo apenas com condicionador de limpeza, sem shampoo. Esses produtos, também chamados de "co-cleansers" ou "condicionadores de limpeza", contêm surfactantes suaves em baixa concentração, capazes de remover sujeira leve e resíduos sem retirar o sebo natural.</p>
-
-<p>O Co-Wash é especialmente benéfico para cabelos crespos, cacheados e ondulados, que tendem ao ressecamento. Ele preserva a hidratação natural do fio e do couro cabeludo, reduz a quebra mecânica durante a lavagem e mantém a definição dos cachos.</p>
-
-<p>No entanto, o Co-Wash não substitui completamente o shampoo. Usado por tempo prolongado sem lavagem com shampoo, ele pode causar acúmulo de resíduos e obstrução folicular. A recomendação é alternar: Co-Wash entre as lavagens com shampoo, ou usar shampoo suave uma vez por semana e Co-Wash nos outros dias.</p>
-
-<p>Pessoas com couro cabeludo oleoso ou com dermatite seborreica devem evitar o Co-Wash como método principal de limpeza, pois ele pode agravar o quadro.</p>
-
-<h2>Metais Pesados na Água e o Impacto no Cabelo</h2>
-
-<p>Um fator pouco discutido é a qualidade da água que sai do chuveiro. A água encanada pode conter metais pesados como cobre, ferro e chumbo, além de cloro e minerais dissolvidos. Esses elementos se depositam na fibra capilar e podem causar:</p>
+<p>A técnica faz diferença. Seguir uma sequência simples evita atritos desnecessários e ajuda o produto a agir de forma adequada.</p>
 
 <ul>
-<li>Opacidade, falta de brilho e amarelamento em cabelos claros;</li>
-<li>Endurecimento dos fios, dificultando o desembaraço;</li>
-<li>Interferência em tratamentos químicos, especialmente descoloração e alisamento;</li>
-<li>Irritação do couro cabeludo em pessoas sensíveis.</li>
+<li><strong>Passo 1:</strong> molhe bem os fios com água morna, nunca muito quente.</li>
+<li><strong>Passo 2:</strong> aplique uma pequena quantidade de xampu na palma da mão e espalhe no couro cabeludo.</li>
+<li><strong>Passo 3:</strong> massageie com as pontas dos dedos, sem unhas, em movimentos suaves.</li>
+<li><strong>Passo 4:</strong> enxágue bem, até não sentir resíduos de espuma.</li>
+<li><strong>Passo 5:</strong> aplique o condicionador do meio às pontas, aguarde o tempo indicado e enxágue.</li>
+<li><strong>Passo 6:</strong> retire o excesso de água com toalha macia, sem esfregar.</li>
 </ul>
 
-<p>A água dura (com alto teor de cálcio e magnésio) também dificulta a formação de espuma do shampoo e reduz sua eficácia. Em regiões onde a água é muito dura, a lavagem com shampoo sem sulfato pode não remover adequadamente a oleosidade.</p>
+<p>Massagear o couro cabeludo é útil para remover resíduos, mas a pressão precisa ser leve. Esfregar com força pode irritar a pele e enfraquecer os fios, principalmente quando estão molhados.</p>
 
-<h3>Como Mitigar o Efeito dos Metais</h3>
+<h2>Água morna, enxágue e secagem</h2>
 
-<ol>
-<li><strong>Instalar filtro de chuveiro:</strong> filtros com carvão ativado e resinas removem cloro e parte dos metais. Modelos específicos para chuveiro são acessíveis e fáceis de instalar.</li>
-<li><strong>Usar shampoo de limpeza profunda:</strong> uma vez por mês, ou a cada 15 dias, um shampoo de limpeza profunda remove acúmulo de metais e resíduos de produto.</li>
-<li><strong>Preferir produtos com agentes quelantes:</strong> alguns shampoos especializados contêm EDTA, que se liga aos metais e os remove durante o enxágue.</li>
-<li><strong>Aplicar leave-in protetor antes de nadar em piscina:</strong> o cloro e o cobre da piscina são especialmente agressivos. Molhar o cabelo antes e aplicar leave-in reduz a absorção.</li>
-</ol>
+<p>A temperatura da água influencia o resultado. Água muito quente ressega a pele e aumenta a oleosidade em algumas pessoas, enquanto água muito fria pode dificultar a remoção de resíduos. A opção mais equilibrada é a morna.</p>
 
-<h2>Passo a Passo Completo para Lavar o Cabelo Corretamente</h2>
+<p>O enxágue final com água um pouco mais fresca pode ajudar a fechar a cutícula e dar mais brilho, mas não é obrigatório. O mais importante é remover todo o produto, porque resíduos podem irritar o couro cabeludo.</p>
 
-<ol>
-<li><strong>Desembarace o cabelo antes do banho:</strong> use pente de dentes largos ou escova de cerdas macias, começando pelas pontas.</li>
-<li><strong>Molhe o cabelo com água morna:</strong> deixe a água percorrer toda a extensão, do couro cabeludo às pontas, por pelo menos um minuto.</li>
-<li><strong>Aplique o shampoo apenas no couro cabeludo:</strong> quantidade equivalente ao tamanho de uma moeda. Massageie com as pontas dos dedos, em movimentos circulares suaves.</li>
-<li><strong>Enxágue completamente:</strong> resíduos de shampoo causam oleosidade e irritação.</li>
-<li><strong>Se necessário, repita o shampoo:</strong> apenas quando houver acúmulo excessivo de produto.</li>
-<li><strong>Aplique a máscara de tratamento:</strong> do comprimento às pontas. Deixe agir conforme a orientação do produto.</li>
-<li><strong>Enxágue novamente:</strong> remova todo o produto antes de aplicar o condicionador.</li>
-<li><strong>Aplique o condicionador:</strong> apenas do meio do comprimento às pontas. Evite a raiz.</li>
-<li><strong>Finalize com água fria:</strong> enxágue o condicionador com água em temperatura mais fria para selar as cutículas.</li>
-<li><strong>Retire o excesso de água:</strong> com toalha de microfibra ou camiseta de algodão, sem esfregar.</li>
-<li><strong>Aplique leave-in e protetor térmico:</strong> antes de qualquer fonte de calor.</li>
-<li><strong>Finalize a modelagem:</strong> com secador, difusor ou ao natural.</li>
-</ol>
+<p>Na secagem, evite torcer os fios com força e não passe a toalha esfregando. Prefira envolver o cabelo e pressionar levemente. O secador deve ficar a uma distância segura e em temperatura moderada, sempre que possível.</p>
 
-<h2>Erros Comuns que Comprometem a Lavagem</h2>
+<p>Para ampliar a leitura sobre a saúde do couro cabeludo, veja o texto sobre <a href="/queda-de-cabelo/">queda de cabelo</a>, que aborda fatores que vão além da lavagem. Se houver coceira ou vermelhidão constante, o artigo sobre <a href="/dermatite-de-contato/">dermatite de contato</a> ajuda a entender possíveis causas.</p>
+
+<p>Uma dica prática é lavar os cabelos com as mãos em posição de apoio, deixando a água escorrer da raiz às pontas. Essa direção ajuda a retirar o produto sem empurrá-lo para o comprimento, onde ele pode ressecar. Ao final, use os dedos para desembaraçar os fios antes de pentear com um pente de dentes largos.</p>
+
+<h2>Cuidados especiais após os 40 anos</h2>
+
+<p>Com a idade, o couro cabeludo pode produzir menos oleosidade e ficar mais seco, o que aumenta a sensação de repuxamento. Também é comum que os fios percam volume e fiquem mais frágeis. Esses fatores pedem produtos mais suaves e uma técnica ainda mais gentil.</p>
+
+<p>Além disso, mudanças hormonais, alterações na circulação e o uso de alguns medicamentos podem interferir na saúde do cabelo. Se a queda aumentar ou se surgirem falhas, a avaliação dermatológica é o caminho indicado.</p>
+
+<p>Vale ainda observar a rotina de quem usa boné, capacete ou touca com frequência. Esses acessórios aumentam o suor e o atrito, o que pede lavagens mais atentas. Já quem pratica atividade física intensa pode precisar lavar logo após o treino, com um xampu suave, para remover o suor e evitar irritação.</p>
+
+<p>Lavar os cabelos no ritmo certo, com produtos adequados e secagem cuidadosa, é uma forma simples de preservar a aparência e o conforto da pele. Não é necessário gastar muito para isso; a regularidade e a delicadeza fazem mais diferença.</p>
+
+<h2>Erros comuns na hora de lavar</h2>
+
+<p>Alguns hábitos atrapalham o resultado. Aplicar xampu direto no comprimento, dormir com o cabelo molhado, usar água muito quente e esfregar a toalha são exemplos frequentes. Dormir com os fios úmidos, por exemplo, favorece desconforto no couro cabeludo e pode enfraquecer as pontas com o atrito no travesseiro.</p>
+
+<p>Também é comum lavar com água muito quente no fim do banho para "fechar os poros". A sensação é agradável, mas a água quente aumenta a perda de hidratação do couro cabeludo e pode deixar os fios mais secos. Terminar com um enxágue morno ou levemente fresco traz um resultado mais equilibrado.</p>
+
+<p>Outro erro é trocar de produto a cada lavagem sem dar tempo para observar a resposta da pele e dos fios. Quando a mudança é frequente, fica difícil identificar o que funciona.</p>
+
+<h2>Perguntas frequentes</h2>
+
+<p><strong>Posso lavar o cabelo todos os dias?</strong></p>
+<p>Pode, desde que o produto seja suave e a lavagem seja feita sem atrito excessivo. Para muitas pessoas, lavar em dias alternados já é suficiente.</p>
+
+<p><strong>Xampu seco substitui a lavagem?</strong></p>
+<p>É uma solução pontual para dias corridos. Não substitui a limpeza completa do couro cabeludo e não deve ser usado com frequência.</p>
+
+<p><strong>Condicionador é obrigatório?</strong></p>
+<p>Não é obrigatório, mas ajuda a desembaraçar os fios e a reduzir o atrito na hora de pentear, principalmente em cabelos longos ou tratados.</p>
+
+<p><strong>Água dura faz mal ao cabelo?</strong></p>
+<p>Pode deixar os fios mais ressecados e com resíduos. Se essa for a sua percepção, enxaguar com um pouco mais de cuidado e escolher produtos adequados costuma ajudar.</p>
+
+<h2>Quando procurar um médico</h2>
+
+<p>Procure um dermatologista se o couro cabeludo apresentar sinais que não melhoram com a mudança de rotina, como:</p>
 
 <ul>
-<li>Esfregar o cabelo com a toalha de banho, causando atrito e quebra.</li>
-<li>Aplicar shampoo nas pontas, ressecando o fio.</li>
-<li>Usar condicionador na raiz, entupindo folículos e aumentando a oleosidade.</li>
-<li>Deixar o condicionador agir por muito tempo, sobrecarregando o fio.</li>
-<li>Pentear o cabelo molhado com força, causando quebra.</li>
-<li>Usar água muito quente, desidratando o couro cabeludo.</li>
-<li>Não enxaguar completamente, deixando resíduos que pesam e irritam.</li>
-<li>Aplicar protetor térmico depois do secador, quando o dano já ocorreu.</li>
+<li>Coceira intensa ou ardência que dura mais de algumas semanas.</li>
+<li>Descamação persistente, placas avermelhadas ou crostas.</li>
+<li>Feridas, sangramento ou secreção.</li>
+<li>Queda de cabelo acentuada ou surgimento de falhas.</li>
 </ul>
 
-<h2>FAQ — Perguntas Frequentes</h2>
-
-<h3>1. Qual é a ordem correta de lavar o cabelo com os produtos?</h3>
-<p>A ordem é shampoo, máscara de tratamento e condicionador. O shampoo abre as cutículas e limpa; a máscara penetra no córtex; o condicionador fecha as cutículas e sela o tratamento.</p>
-
-<h3>2. É certo passar shampoo duas vezes na lavagem?</h3>
-<p>Depende. Se o cabelo estiver muito oleoso ou com muito produto acumulado, duas aplicações ajudam. Para cabelos lavados com frequência, uma aplicação é suficiente. Lavar duas vezes todos os dias pode causar efeito rebote de oleosidade.</p>
-
-<h3>3. Por que não devemos passar condicionador na raiz do cabelo?</h3>
-<p>O condicionador entope os folículos, pesa o cabelo e estimula a produção de sebo, causando oleosidade e coceira. Deve ser aplicado do meio do comprimento às pontas.</p>
-
-<h3>4. Qual a temperatura ideal da água para lavar os fios?</h3>
-<p>Água morna (cerca de 37°C) para a lavagem e água fria para o enxágue final. Água quente em excesso remove o manto hidrolipídico e resseca o fio e o couro cabeludo.</p>
-
-<h3>5. O que é Co-Wash e para quem é indicado?</h3>
-<p>Co-Wash é a lavagem apenas com condicionador de limpeza, sem shampoo. É indicado para cabelos crespos, cacheados e ondulados, que tendem ao ressecamento. Não substitui completamente o shampoo e deve ser alternado com lavagens tradicionais.</p>
+<p>O profissional pode identificar a causa e indicar o tratamento adequado para o seu caso, que nem sempre envolve apenas produtos de higiene.</p>
 
 <h2>Resumindo</h2>
 
-<p>Lavar o cabelo corretamente envolve mais do que aplicar shampoo e enxaguar. A ordem dos produtos é essencial: shampoo no couro cabeludo, máscara no comprimento e condicionador selando as pontas. Aplicar condicionador na raiz entope folículos, aumenta a oleosidade e pode causar queda.</p>
+<p>Para lavar o cabelo corretamente, escolha uma frequência compatível com o seu couro cabeludo, use xampu suave, aplique o condicionador do meio às pontas, enxágue bem e seque com delicadeza. Água morna e movimentos leves evitam irritação e ajudam a preservar a saúde dos fios.</p>
 
-<p>A temperatura da água importa: morna para lavar, fria para finalizar. Água quente em excesso resseca e agride o fio. O shampoo duas vezes é indicado apenas quando há acúmulo de resíduos, não como regra diária. O cabelo deve ser desembaraçado antes da lavagem e seco com toalha de microfibra ou camiseta, sem esfregar.</p>
-
-<p>A frequência de lavagem depende do tipo de couro cabeludo e da curvatura: lisos oleosos podem ser lavados diariamente, enquanto crespos podem ser lavados a cada 7 a 10 dias. O Co-Wash é uma técnica útil para cabelos secos e crespos, mas não substitui o shampoo.</p>
-
-<p>A qualidade da água também influencia. Metais pesados e água dura se depositam no fio, causando opacidade, endurecimento e interferência em tratamentos químicos. Instalar filtro de chuveiro, usar shampoo de limpeza profunda periodicamente e aplicar leave-in antes de piscina são medidas úteis.</p>
-
-<p>Evite os erros comuns: esfregar a toalha, aplicar shampoo nas pontas, usar água muito quente, pentear com força e aplicar protetor térmico depois do calor. Pequenos ajustes na rotina fazem diferença visível na saúde e na aparência dos fios.</p>
-
-<h2>Fontes</h2>
-<ul>
-<li>Sociedade Brasileira de Dermatologia. Queda ou Quebra de Cabelo: Como Diferenciar no Consultório. <a href="https://www.sbd.org.br" target="_blank" rel="noopener">https://www.sbd.org.br</a></li>
-<li>L'Oréal Paris. Como lavar o cabelo corretamente: 6 dicas para cuidar. <a href="https://www.loreal-paris.com.br/como-lavar-o-cabelo-corretamente-6-truques-para-acertar-nos-cuidados-dos-fios" target="_blank" rel="noopener">https://www.loreal-paris.com.br/como-lavar-o-cabelo-corretamente-6-truques-para-acertar-nos-cuidados-dos-fios</a></li>
-<li>Tua Saúde. Como lavar o cabelo corretamente (passo a passo). <a href="https://www.tuasaude.com/como-lavar-os-cabelos-corretamente/" target="_blank" rel="noopener">https://www.tuasaude.com/como-lavar-os-cabelos-corretamente/</a></li>
-<li>Seda. Você sabe como lavar o cabelo do jeito certo? <a href="https://www.seda.com.br/dicas-e-tutoriais/como-lavar-cabelo-jeito-certo.html" target="_blank" rel="noopener">https://www.seda.com.br/dicas-e-tutoriais/como-lavar-cabelo-jeito-certo.html</a></li>
-<li>Adcos. Guia de Cuidados com os Cabelos e Couro Cabeludo. <a href="https://lojaadcos.com.br" target="_blank" rel="noopener">https://lojaadcos.com.br</a></li>
-<li>Oceane. Como lavar o cabelo corretamente em passos simples! <a href="https://blog.oceane.com.br/cabelos/como-lavar-o-cabelo-corretamente/" target="_blank" rel="noopener">https://blog.oceane.com.br/cabelos/como-lavar-o-cabelo-corretamente/</a></li>
-</ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
-<h2>Quando procurar um médico</h2>
-<p>Procure um médico se os sintomas persistirem, piorarem ou vierem acompanhados de sinais de alerta. Quem usa medicamentos de uso contínuo, está grávida ou tem doença crônica deve conversar com o profissional de saúde antes de começar qualquer tratamento ou suplemento.</p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://loreal-paris.com.br" target="_blank" rel="noopener">loreal-paris.com.br</a>, <a href="https://seda.com.br" target="_blank" rel="noopener">seda.com.br</a> e da <a href="https://blog.oceane.com.br" target="_blank" rel="noopener">blog.oceane.com.br</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>Após os 40 anos, a atenção aos sinais do couro cabeludo e a escolha de produtos mais suaves são especialmente importantes. Quando houver dúvida ou sintomas persistentes, a orientação de um dermatologista é o melhor caminho.</p>

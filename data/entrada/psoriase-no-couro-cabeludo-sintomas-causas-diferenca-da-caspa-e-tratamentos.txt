@@ -18,7 +18,7 @@ FOTO2_SECAO: 4
 
 <h2>O que é a psoríase no couro cabeludo</h2>
 <p>A psoríase é uma doença de origem imunológica, em que o sistema de defesa acelera a renovação das células da pele. Como resultado, as células se acumulam na superfície antes da hora, formando placas e escamas. No couro cabeludo, essa renovação acelerada pode ser bem visível, principalmente nas áreas com mais pelos.</p>
-<p>A condição é crônica, ou seja, costuma ter períodos de melhora e de piora. Em alguns momentos, a doença fica quase imperceptível; em outros, pode incomodar bastante e afetar o sono, a autoestima e o convívio social.</p>
+<p>A condição é crônica, ou seja, costuma ter períodos de melhora e de piora. Em alguns momentos, a doença fica quase imperceptível; em outros, pode incomodar bastante e afetar o sono, a autoestima e o convívio social. Por isso, o objetivo do acompanhamento costuma ser controlar os sintomas e melhorar a qualidade de vida, e não apenas eliminar as placas de uma vez.</p>
 <p>Além do couro cabeludo, a psoríase pode atingir cotovelos, joelhos, região lombar e unhas. Quem tem a doença em outras áreas deve comentar isso com o médico, pois a avaliação costuma ser global.</p>
 
 <h2>Sintomas mais comuns no couro cabeludo</h2>
@@ -29,7 +29,7 @@ FOTO2_SECAO: 4
 <li>Ardência ou sensação de repuxamento na pele.</li>
 <li>Queda de escamas sobre os ombros, o que costuma chamar atenção.</li>
 </ul>
-<p>Esses sintomas não são exclusivos da psoríase. Outras condições da pele também podem causar descamação e vermelhidão, e por isso a avaliação de um dermatologista é importante.</p>
+<p>Esses sintomas são comuns a vários quadros, e a história clínica, o aspecto das lesões e o acompanhamento ao longo do tempo ajudam a separar uma condição da outra. Esses sintomas não são exclusivos da psoríase. Outras condições da pele também podem causar descamação e vermelhidão, e por isso a avaliação de um dermatologista é importante.</p>
 
 <h2>Diferença entre psoríase e caspa</h2>
 <p>A caspa é uma descamação mais fina e oleosa, geralmente ligada ao fungo que vive naturalmente na pele, e costuma responder bem a xampus específicos. Já a psoríase forma placas mais espessas, com bordas bem marcadas, escamas secas e aderidas ao couro cabeludo, e tende a não melhorar apenas com xampus comuns.</p>

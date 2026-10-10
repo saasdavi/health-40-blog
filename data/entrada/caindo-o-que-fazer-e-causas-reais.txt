@@ -1,126 +1,68 @@
-PALAVRA_CHAVE: Caindo — O Que Fazer e Causas Reais.html
-TITLE: Cabelo Caindo — O Que Fazer, Causas e Tratamento
-DESCRIPTION: Ver fios de cabelo no travesseiro, no ralo do banheiro ou na escova é uma das queixas mais comuns nos consultórios de dermatologia. A queda capilar tem causas.
+PALAVRA_CHAVE: Caindo — O Que Fazer e Causas Reais
+TITLE: Caindo — O Que Fazer e Causas Reais
+DESCRIPTION: Caindo — O Que Fazer e Causas Reais: entenda as causas mais comuns da queda de cabelo, os sinais que pedem avaliação e como organizar a investigação.
 FONTE: Sociedade Brasileira de Dermatologia | https://www.sbd.org.br
 FONTE: ccjm.org | https://ccjm.org
 FONTE: aafp.org | https://aafp.org
-CAPA_BUSCA: healthy lifestyle woman outdoors
-CAPA_ALT: Estilo de vida saudável sobre caindo — o que fazer e causas reais.html
-FOTO1_BUSCA: wellness walk nature
-FOTO1_ALT: Hábitos saudáveis no dia a dia relacionado a caindo — o que fazer e causas reais.html
-FOTO1_LEGENDA: Ilustração ilustrativa do tema
+CAPA_BUSCA: woman hair strands hands
+CAPA_ALT: Mulher segurando mechas de cabelo castanho, ilustrando o tema caindo o que fazer
+FOTO1_BUSCA: scalp care hands massage
+FOTO1_ALT: Mãos fazendo massagem suave no couro cabeludo, relacionada ao tema caindo o que fazer
+FOTO1_LEGENDA: Cuidados suaves ajudam, mas a causa precisa ser identificada
 FOTO1_SECAO: 2
+FOTO2_BUSCA: blood sample test lab
+FOTO2_ALT: Coleta de sangue em laboratório, exame que pode fazer parte da investigação de causas reais
+FOTO2_LEGENDA: Exames de sangue ajudam a investigar causas clínicas da queda
+FOTO2_SECAO: 4
 ---
-<p>Ver fios de cabelo no travesseiro, no ralo do banheiro ou na escova é uma das queixas mais comuns nos consultórios de dermatologia. A queda capilar tem causas distintas, e tratá-la como um problema único costuma levar a decisões erradas. Produtos vendidos como antiqueda raramente resolvem quando o diagnóstico não foi feito.</p>
+<p>Caindo o que fazer é uma busca que costuma começar com um susto diante do pente ou do box do banheiro. A queda de cabelo tem muitas origens, e o caminho certo depende de entender a causa real, e não apenas de reagir ao sintoma. Este texto apresenta os sinais que pedem atenção, as causas mais investigadas pelos médicos e um plano de ação para organizar os próximos passos.</p>
 
-<p>Perder de 50 a 150 fios por dia é considerado normal. O problema começa quando esse número aumenta de forma perceptível, quando os fios caem em blocos ou quando há afinamento progressivo em áreas específicas do couro cabeludo. Identificar o padrão da queda é o primeiro passo para entender o que está acontecendo.</p>
+<h2>Sinais que indicam que a queda merece atenção</h2>
+<p>Algumas características ajudam a diferenciar uma queda passageira de um quadro que precisa de avaliação. A primeira delas é a duração: quedas que continuam por mais de alguns meses merecem investigação. A segunda é o padrão, já que falhas bem definidas, afinamento progressivo ou queda concentrada em uma região são pistas importantes para o médico.</p>
+<ul>
+<li>Queda que persiste por vários meses sem melhora.</li>
+<li>Falhas bem delimitadas ou áreas com menos densidade.</li>
+<li>Coceira, ardor, vermelhidão ou descamação do couro cabeludo.</li>
+<li>Sintomas gerais, como cansaço, alteração de peso ou de humor.</li>
+</ul>
+<p>Também vale observar a qualidade dos fios. Cabelos que quebram com facilidade, perdem brilho ou ficam mais finos ao longo do tempo podem indicar fragilidade da fibra, que nem sempre aparece como queda pura e simples.</p>
 
-<h2>O que fazer quando o cabelo está caindo muito da raiz?</h2>
+<h2>Causas hormonais e metabólicas</h2>
+<p>Os hormônios exercem papel importante no ciclo do cabelo. Alterações da tireoide, tanto em excesso quanto em falta, estão entre as causas mais conhecidas de queda difusa. Mudanças hormonais em momentos como a gestação, o pós-parto e a transição para a menopausa também podem afetar os fios de forma temporária ou duradoura.</p>
+<p>Do ponto de vista metabólico, dietas muito restritivas, perdas rápidas de peso e alterações de glicemia podem influenciar o ciclo capilar. Em algumas pessoas, o quadro se soma a outros sinais, como sede excessiva ou cansaço, o que reforça a importância de uma avaliação clínica completa.</p>
+<p>Nesses casos, o médico costuma pedir exames de sangue e avaliar o contexto antes de propor qualquer conduta. Uma leitura isolada de um único marcador raramente basta para explicar a queda.</p>
 
-<p>A queda de raiz acontece quando o fio se desprende completo do folículo, com o bulbo esbranquiçado na ponta. Esse tipo de perda está ligado a alterações no ciclo de crescimento capilar. A quebra de fio, por outro lado, ocorre no meio do comprimento, sem bulbo, e resulta de dano mecânico, químico ou térmico à haste.</p>
+<h2>Causas nutricionais e efeitos de medicamentos</h2>
+<p>A falta de ferro, mesmo sem anemia evidente, pode ser associada à queda de cabelo em algumas pessoas. A deficiência de vitamina D também tem sido estudada nesse contexto, e o conteúdo sobre <a href="/vitamina-d-baixa-sintomas/">vitamina D baixa e sintomas</a> ajuda a reconhecer sinais gerais que merecem investigação. Mesmo assim, a suplementação só deve ser feita após confirmar a deficiência.</p>
+<p>Alguns medicamentos de uso contínuo podem contribuir para a perda de cabelo, sobretudo no início do tratamento ou após ajustes de dose. Nunca suspenda um remédio por conta própria. Converse com o médico que o prescreveu, pois há alternativas quando o efeito incomoda.</p>
+<p>Outro ponto é a combinação de vários suplementos. O excesso de certas substâncias também pode interferir no metabolismo e confundir a interpretação de exames, por isso a lista completa deve ser informada ao profissional.</p>
 
-<p>Nos dois casos há perda visível, mas a abordagem é completamente diferente. Um teste simples de tração pode ajudar na triagem. Puxar suavemente um grupo de cerca de 60 fios em três áreas do couro cabeludo e contar quantos saem pode indicar se a queda está ativa. Se mais de seis fios saírem por área, a investigação profissional é indicada.</p>
+<h2>Causas inflamatórias e do couro cabeludo</h2>
+<p>Algumas doenças inflamatórias da pele afetam o couro cabeludo e provocam queda localizada ou difusa. Dermatite seborreica, psoríase e infecções fúngicas são exemplos que costumam deixar sinais visíveis, como descamação, placas ou vermelhidão. Nesses casos, a queda pode melhorar quando a inflamação é controlada, mas o diagnóstico depende de exame direto.</p>
+<p>A alopecia areata é uma condição autoimune que provoca falhas redondas e bem delimitadas. Ela pode surgir de forma súbita e merece avaliação especializada, porque o acompanhamento é diferente das quedas temporárias. Já a tração repetida nos fios, causada por penteados apertados, pode levar a uma perda localizada nas bordas e na linha da testa.</p>
 
-<p>O passo mais importante é procurar um dermatologista para avaliação com tricoscopia e exames laboratoriais. Automedicação com suplementos ou produtos antiqueda pode atrasar o diagnóstico correto.</p>
+<h2>Plano de ação em etapas</h2>
+<p>Quem está preocupado pode seguir uma sequência simples. A primeira etapa é observar e registrar a queda, anotando início, intensidade e possíveis gatilhos. A segunda é revisar a rotina, incluindo medicamentos, suplementos, alimentação, sono e procedimentos químicos. A terceira é buscar uma avaliação médica, levando as anotações e as fotos.</p>
+<p>A quarta etapa é seguir as orientações recebidas, com reavaliações agendadas. Quando a causa é identificada, o plano pode incluir ajustes de hábitos, acompanhamento e, se necessário, tratamentos indicados pelo especialista. Essa ordem evita gastos com produtos sem indicação e reduz o risco de agravar o quadro. Também facilita a comparação entre o antes e o depois, já que cada mudança fica registrada e pode ser discutida com clareza.</p>
+<p>Enquanto isso, cuidados gentis ajudam: lavar com água morna, evitar tração, reduzir o calor do secador e usar protetor térmico. Essas medidas não resolvem a causa, mas diminuem o estresse sobre os fios.</p>
+<p>Vale também prestar atenção ao tipo de escova e de elástico. Cerdas rígidas e presilhas que apertam a raiz aumentam a tensão sobre o fio e podem agravar a fragilidade, principalmente em quem já percebe queda. Trocar essas peças por modelos mais suaves é uma mudança simples, de baixo custo e sem contraindicações relevantes.</p>
+<p>A alimentação segue como parte da rotina de cuidado. Não é preciso adotar dietas da moda: basta manter refeições com proteínas, legumes, frutas e fontes de ferro em horários regulares. Restringir calorias de forma intensa, por outro lado, costuma piorar a queda e deve ser evitado.</p>
 
-<h2>Eflúvio telógeno — a queda difusa e reversível</h2>
+<h2>Como diferenciar queda passageira de queda persistente</h2>
+<p>Nem toda queda intensa é um problema duradouro. Quedas que aparecem após um período de febre, uma cirurgia, um parto ou uma fase de muita pressão costumam ser difusas e temporárias. Elas tendem a surgir alguns meses depois do gatilho e, em muitos casos, diminuem de forma gradual conforme o ciclo do cabelo se normaliza.</p>
+<p>Já a queda persistente costuma seguir outro ritmo. Ela se mantém por longos períodos, pode ficar mais evidente com o tempo e frequentemente vem acompanhada de afinamento progressivo, falhas ou alterações na textura. Quando a queda não diminui depois de alguns meses ou aumenta sem motivo claro, a recomendação é investigar com calma e sem atrasos.</p>
+<p>Uma forma prática de distinguir os dois cenários é comparar fotos feitas com intervalo de algumas semanas e observar a densidade na mesma região. Essa comparação não substitui o exame, mas oferece uma base objetiva para a conversa com o médico. O conteúdo sobre <a href="/queda-de-cabelo/">queda de cabelo</a> traz outras referências que podem ajudar nessa leitura inicial.</p>
 
-<p>O eflúvio telógeno é a causa mais comum de queda difusa. Ele ocorre quando um número maior de folículos entra prematuramente na fase telógena, que é a fase de repouso. Cerca de dois a três meses depois do gatilho, esses fios caem de uma vez.</p>
+<h2>Perguntas frequentes</h2>
+<p><strong>A queda pode ser causada por estresse?</strong> Sim, em algumas pessoas. O estresse intenso pode antecipar a fase de repouso do ciclo capilar, mas a investigação deve considerar outras causas.</p>
+<p><strong>Quanto tempo leva para investigar?</strong> Depende da complexidade. Em muitos casos, a história clínica e alguns exames já orientam o caminho nas primeiras consultas.</p>
+<p><strong>Vitamina D e ferro resolvem a queda?</strong> Só quando houver deficiência confirmada. Suplementar sem exame pode ser desnecessário e até prejudicial.</p>
+<p><strong>Posso confiar em relatos da internet?</strong> Relatos ajudam a entender possibilidades, mas não substituem uma avaliação individual, que considera o seu histórico.</p>
 
-<p>Os gatilhos mais frequentes incluem febre alta, cirurgias, infecções, parto, dietas restritivas, deficiências nutricionais e estresse emocional intenso. Em muitos casos, o paciente não associa a queda ao evento porque o intervalo entre os dois pode ser de meses.</p>
-
-<p>O eflúvio telógeno agudo é autolimitado na maioria das situações. A queda cessa espontaneamente quando o gatilho é removido ou quando o organismo se recupera. O recrescimento costuma ser completo, embora possa levar de seis meses a um ano para que a densidade volte ao patamar anterior.</p>
-
-<h2>Anemia e deficiência de ferro — a relação com a queda</h2>
-
-<p>Um estudo com 100 mulheres com queda capilar encontrou níveis significativamente menores de hemoglobina, ferro e ferritina em comparação ao grupo controle. A ferritina é o principal marcador das reservas de ferro no organismo.</p>
-
-<p>Níveis de ferritina abaixo de 30 ng/mL estão fortemente associados à queda de cabelo do tipo telógeno, segundo a literatura médica. A deficiência de ferro também está ligada a alterações morfológicas nos fios, como ressecamento, fragilidade e quebra.</p>
-
-<p>O diagnóstico requer exame de sangue. Hemograma completo e dosagem de ferritina são os mais solicitados. A reposição de ferro só deve ser feita com orientação médica, porque o excesso do mineral também faz mal.</p>
-
-<h2>Alopecia androgenética — a queda progressiva que não reverte sozinha</h2>
-
-<p>A alopecia androgenética tem causa genética e hormonal. Ela não é um eflúvio e não desaparece espontaneamente. Nos homens, manifesta-se por recessão das entradas e rarefação no vértex. Nas mulheres, costuma aparecer como afinamento difuso no topo da cabeça, com preservação da linha frontal.</p>
-
-<p>A Sociedade Brasileira de Dermatologia alerta que a alopecia androgenética feminina exige avaliação compartilhada entre dermatologista e ginecologista. Métodos anticoncepcionais, DIU hormonal e terapia de reposição hormonal podem influenciar a evolução do quadro.</p>
-
-<p>O tratamento da alopecia androgenética é contínuo. A interrupção leva à retomada da miniaturização folicular. O minoxidil tópico é a primeira linha, segundo a American Family Physician, com evidência consistente de ensaios clínicos randomizados.</p>
-
-<h2>Como diferenciar a queda por estresse da perda genética?</h2>
-
-<p>A queda por estresse caracteriza-se por um início abrupto e volumoso, com grande desprendimento diário de fios inteiros perceptíveis na rotina. O eflúvio telógeno pós-estresse costuma durar de dois a seis meses após o gatilho.</p>
-
-<p>A alopecia de causa genética, ou calvície, desenvolve-se de forma lenta, progressiva e localizada nas regiões da testa ou coroa. Manifesta-se pelo afinamento gradual e miniaturização das hastes. Não há queda em blocos, mas perda de densidade ao longo do tempo.</p>
-
-<p>O padrão de perda é o principal diferenciador clínico. A queda difusa e homogênea aponta para eflúvio telógeno. A perda localizada e progressiva aponta para alopecia androgenética. A avaliação dermatológica com tricoscopia confirma o diagnóstico.</p>
-
-<h2>Qual o melhor remédio caseiro para queda de cabelo?</h2>
-
-<p>Não existe remédio caseiro com eficácia comprovada para tratar a queda de cabelo. O que existe são cuidados de suporte que ajudam a manter a saúde do couro cabeludo e a integridade da haste capilar.</p>
-
-<p>Evitar lavar o cabelo com água muito quente, reduzir o uso de chapinha e secador, e evitar químicas agressivas são medidas de proteção. Uma alimentação equilibrada, rica em proteínas, vitaminas e minerais, dá suporte à produção dos fios.</p>
-
-<p>Essas medidas não substituem o tratamento específico quando há uma causa diagnosticada. Nos casos de eflúvio telógeno, a conduta é identificar e remover o gatilho. Nos casos de alopecia androgenética, o tratamento medicamentoso é necessário.</p>
-
-<h2>Quanto tempo é normal o cabelo ficar caindo muito?</h2>
-
-<p>O eflúvio telógeno agudo costuma durar de dois a seis meses após o gatilho. O pico da queda ocorre cerca de três meses depois do evento. O recrescimento começa quando o ciclo capilar se normaliza.</p>
-
-<p>A queda pode levar até um ano para que a densidade se recupere totalmente. O tempo varia conforme a causa e a resposta individual. Quedas persistentes por mais de seis meses ou com piora progressiva exigem reavaliação médica.</p>
-
-<p>O eflúvio telógeno crônico, menos comum, é mais frequente em mulheres entre 30 e 60 anos. Nesses casos, a investigação médica é mais detalhada e o tratamento pode ser necessário.</p>
-
-<h2>Exames e diagnóstico da queda capilar</h2>
-
-<p>A tricoscopia é um exame de imagem que amplia a visão do couro cabeludo. Ela permite avaliar a densidade folicular, a variabilidade do diâmetro dos fios e sinais de inflamação. Uma revisão sistemática com mais de 11 mil pacientes mostrou que a tricoscopia tem sensibilidade de 86% para o diagnóstico de eflúvio telógeno.</p>
-
-<p>Exames laboratoriais ajudam a identificar causas tratáveis. Hemograma, ferritina, TSH, T4 livre, vitamina D e vitamina B12 são os mais solicitados. A exclusão de anemias e alterações da tireoide é mandatória.</p>
-
-<p>O diagnóstico correto define o tratamento. Por isso, a avaliação dermatológica é indispensável antes de iniciar qualquer suplementação ou produto específico para queda.</p>
-
-<h2>Contraindicações e grupos de risco</h2>
-
-<p>Medicamentos usados no tratamento da queda capilar têm restrições. O minoxidil tópico é contraindicado para gestantes e lactantes por risco de efeitos sistêmicos. Pessoas com arritmias cardíacas ou hipotensão devem informar o médico antes de usar.</p>
-
-<p>Pacientes com feridas abertas no couro cabeludo ou dermatite ativa devem evitar a aplicação de tônicos e loções até que a pele esteja íntegra. A absorção em pele lesionada é maior e pode intensificar efeitos indesejados.</p>
-
-<p>Pessoas com diagnóstico de alopecia areata extensa ou alopecia cicatricial precisam de acompanhamento especializado. Essas condições têm tratamento específico e não respondem a produtos cosméticos antiqueda.</p>
-
-<h2>Perguntas frequentes sobre queda de cabelo</h2>
-
-<h3>Qual é a melhor vitamina para parar a queda de cabelo?</h3>
-<p>Não há uma única vitamina responsável. Deficiências de ferro, vitamina D, vitamina B12 e zinco estão associadas à queda capilar. Porém, a deficiência de ferro é a mais prevalente em mulheres com queda difusa. O diagnóstico requer exame de sangue.</p>
-
-<h3>É normal o cabelo cair muito no banho?</h3>
-<p>Perder entre 50 e 150 fios por dia é normal. No banho, a queda parece maior porque os fios que já estavam soltos se acumulam. Se a quantidade aumentar de forma perceptível e persistente por mais de um mês, a avaliação profissional é indicada.</p>
-
-<h3>Shampoo antiqueda funciona?</h3>
-<p>Shampoos antiqueda têm efeito limitado na queda de raiz. Eles atuam principalmente na haste capilar, reduzindo a quebra. Para queda de causa sistêmica, o tratamento envolve a correção do gatilho e, quando indicado, medicação específica.</p>
-
-<h3>Quando procurar um médico?</h3>
-<p>Procure um dermatologista se a queda persistir por mais de um mês, se houver afinamento progressivo, se a perda for em placas ou se houver sintomas associados como cansaço intenso, palidez ou alterações menstruais.</p>
+<h2>Quando procurar um médico</h2>
+<p>Procure um médico se a queda persistir, se houver falhas, coceira, dor ou descamação no couro cabeludo, ou se a queda vier acompanhada de cansaço intenso, alteração de peso, febre ou outros sinais gerais. Quanto antes a causa for investigada, mais simples tende a ser o acompanhamento. Não é preciso esperar que o quadro piore para buscar orientação, pois a avaliação precoce costuma evitar exames repetidos e idas e vindas desnecessárias.</p>
+<p>Em casos de inchaço, dor intensa ou feridas que se espalham, o atendimento deve ser imediato, em uma unidade de saúde ou pronto-socorro.</p>
 
 <h2>Resumindo</h2>
-
-<p>A queda de cabelo tem causas distintas, e tratá-la sem diagnóstico é um erro comum. O eflúvio telógeno é difuso, autolimitado e geralmente reversível. A alopecia androgenética é progressiva, genética e exige tratamento contínuo.</p>
-
-<p>A tricoscopia é o exame de escolha para diferenciar as formas de alopecia. Exames laboratoriais ajudam a identificar deficiências nutricionais e alterações da tireoide que contribuem para a queda.</p>
-
-<p>No eflúvio telógeno agudo, a conduta é identificar e remover o gatilho. Na alopecia androgenética, o minoxidil tópico é a primeira linha, com uso contínuo. Suplementos têm evidência limitada em pessoas sem deficiência.</p>
-
-<p>Remédios caseiros não substituem tratamento. Pessoas com queda persistente, afinamento progressivo ou perda em placas devem buscar avaliação dermatológica. O diagnóstico correto é o que define o tratamento eficaz.</p>
-
-<h2>Fontes</h2>
-
-<ul>
-<li>Bergfeld WF, Mendez D. Shedding: An updated guide to a common cause of hair loss. <em>Cleveland Clinic Journal of Medicine</em>. 2026;93(10):616-622. https://www.ccjm.org/content/93/10/616</li>
-<li>Dakkak M, Forde KM, Lanney H. Hair Loss: Diagnosis and Treatment. <em>American Family Physician</em>. 2024;110(3):243-250. https://www.aafp.org/afp/2024/0900/hair-loss</li>
-<li>Sociedade Brasileira de Dermatologia. Alopecia androgenética feminina e alopecia areata: diagnóstico correto é fundamental. https://www.sbd.org.br/alopecia-androgenetica-feminina-e-alopecia-areata-diagnostico-correto-e-fundamental-para-tratamento-adequado-da-queda-de-cabelo/</li>
-<li>Quantitative Analysis of Selected Circulating Hematological Biomarkers, Essential Minerals, Vitamins, and Thyroid Hormones in Females Affected by Hair Loss. 2025. https://europepmc.org/article/MED/41294892</li>
-</ul>
-
-<p><em>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde.</em></p>
-
-<h2>Fontes consultadas</h2>
-<p>As informações deste texto têm como base materiais da <a href="https://www.sbd.org.br" target="_blank" rel="noopener">Sociedade Brasileira de Dermatologia</a>, <a href="https://ccjm.org" target="_blank" rel="noopener">ccjm.org</a> e da <a href="https://aafp.org" target="_blank" rel="noopener">aafp.org</a>. Para conferir os temas, acesse o site oficial de cada instituição.</p>
+<p>Caindo, o que fazer é uma pergunta que se responde melhor com organização do que com pressa. As causas reais incluem fatores hormonais, metabólicos, nutricionais, medicamentosos e inflamatórios do couro cabeludo, e cada grupo exige uma abordagem diferente. Observar o padrão, revisar a rotina e buscar avaliação são os passos mais seguros.</p>
+<p>Este conteúdo é informativo e não substitui a orientação de um profissional de saúde. Antes de iniciar qualquer tratamento ou suplemento, converse com um médico ou dermatologista sobre o seu caso.</p>
