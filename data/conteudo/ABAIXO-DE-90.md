@@ -3,10 +3,10 @@
 Atualizado em 2026-10-10 por scripts/recalcular-pontuacao.js.
 A pontuação é a do importador (`scripts/pontuacao.js`): qualidade 35%, demanda 20%, fontes 15%, originalidade 15%, formato 10%, segurança 5%.
 
-**45 artigos** continuam com pontuação final abaixo de 90. Nenhum está publicado.
+**41 artigos** continuam com pontuação final abaixo de 90. Nenhum está publicado.
 
 ## Por que continuam abaixo
-- **Demanda baixa ou não medida:** vale 20% da nota. Sem volume de busca de 1.000 ou mais por mês, o teto fica abaixo de 90. Estimativas do Google Trends (`volume-trends.js`) aparecem em `data/pesquisa/demanda-validada.json` com `"estimado": true`.
+- **Demanda baixa ou não medida:** vale 20% da nota. Sem volume de busca de 1.000 ou mais por mês, o teto fica abaixo de 90. Os volumes vêm do Planejador de Palavras-chave (`data/pesquisa/demanda-validada.json`, gerado por `scripts/consolidar-demanda.js`).
 - **Parecido com outro artigo:** risco de canibalização; mudar o ângulo ou juntar.
 - **Tema sensível sem `REVISADO: sim`:** revisão humana, feita pelo dono.
 - **Faltam imagens:** ideal 3 por artigo.
@@ -17,14 +17,14 @@ A pontuação é a do importador (`scripts/pontuacao.js`): qualidade 35%, demand
 |---|---|---|
 | 76 | minoxidil (`/minoxidil/`) | demanda baixa, parecido com outro artigo, tema sensível sem REVISADO, faltam imagens (ideal 3) |
 | 77 | pressão alta sintomas (`/pressao-alta-sintomas/`) | demanda não medida, tema sensível sem REVISADO |
-| 80 | cardápio para emagrecer (`/cardapio-para-emagrecer/`) | demanda não medida, parecido com outro artigo |
 | 80 | retinol para que serve (`/retinol-para-que-serve/`) | demanda não medida, parecido com outro artigo |
 | 81 | minoxidil tônico capilar (`/minoxidil-tonico-capilar/`) | demanda baixa, parecido com outro artigo, tema sensível sem REVISADO |
 | 82 | ureia alta (`/ureia-alta/`) | parecido com outro artigo, tema sensível sem REVISADO |
 | 83 | caixa d’água (`/caixa-d-agua/`) | demanda não medida |
 | 83 | chá para aumentar a imunidade (`/cha-para-aumentar-a-imunidade/`) | demanda não medida, faltam imagens (ideal 3) |
+| 83 | minoxidil spray cabelo (`/minoxidil-spray/`) | parecido com outro artigo, tema sensível sem REVISADO |
 | 84 | ferritina alta (`/ferritina-alta/`) | parecido com outro artigo, tema sensível sem REVISADO |
-| 84 | azeite de oliva no cabelo (`/azeite-de-oliva-no-cabelo/`) | demanda não medida |
+| 84 | minoxidil spray cabelo (`/minoxidil-spray-cabelo/`) | parecido com outro artigo, tema sensível sem REVISADO |
 | 84 | acantose nigricans (`/acantose-nigricans/`) | demanda não medida |
 | 84 | alimentação sem lactose e glúten (`/alimentacao-sem-lactose-e-gluten/`) | demanda baixa, parecido com outro artigo |
 | 84 | tipos de bebidas (`/tipos-de-bebidas/`) | demanda não medida, faltam imagens (ideal 3) |
@@ -49,14 +49,10 @@ A pontuação é a do importador (`scripts/pontuacao.js`): qualidade 35%, demand
 | 86 | calcular tabela nutricional online grátis (`/calcular-tabela-nutricional-online-gratis/`) | demanda baixa, faltam imagens (ideal 3) |
 | 86 | osteoporose (`/osteoporose/`) | demanda baixa |
 | 87 | melatonina (`/melatonina/`) | parecido com outro artigo, tema sensível sem REVISADO |
-| 88 | suco de cebola no cabelo (`/suco-de-cebola-no-cabelo/`) | demanda baixa, faltam imagens (ideal 3) |
 | 88 | alimentos ricos em proteína (`/alimentos-ricos-em-proteina/`) | demanda baixa |
-| 88 | babosa para queda de cabelo (`/babosa-para-queda-de-cabelo/`) | demanda baixa |
 | 88 | cabelo caindo o que fazer (`/cabelo-caindo-o-que-fazer/`) | parecido com outro artigo |
 | 88 | exercícios para emagrecer na academia (`/exercicios-para-emagrecer-na-academia/`) | demanda baixa |
 | 88 | GABA (`/gaba/`) | parecido com outro artigo |
 | 88 | minoxidil solução capilar (`/minoxidil-solucao-capilar/`) | parecido com outro artigo, tema sensível sem REVISADO |
-| 88 | minoxidil spray (`/minoxidil-spray/`) | parecido com outro artigo, tema sensível sem REVISADO |
 | 89 | dieta simples para emagrecer (`/dieta-simples-para-emagrecer/`) | parecido com outro artigo, faltam imagens (ideal 3) |
 | 89 | lista de dieta para emagrecer (`/lista-de-dieta-para-emagrecer/`) | parecido com outro artigo, faltam imagens (ideal 3) |
-| 89 | minoxidil spray cabelo (`/minoxidil-spray-cabelo/`) | parecido com outro artigo, tema sensível sem REVISADO |
